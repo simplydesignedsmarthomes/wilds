@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#3E3529">
+<title>Wilds — RuneScape: Dragonwilds companion</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/icon-180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="icon" type="image/svg+xml" href="icon.svg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+/* Palette lifted from the classic RuneScape interface panel: dark oak,
+   parchment text, gold accents, hard bevel edges instead of iOS rounding.
+   Font is Cinzel (free, Google Fonts) for a similar carved-stone feel to the
+   game's own UI font, without using Jagex's actual proprietary typeface. */
+:root{
+  color-scheme:dark;
+  --bg:#221c15;
+  --panel:#3e3529;
+  --panel2:#4a3f30;
+  --panel3:#584b38;
+  --edge-dark:#100d09;
+  --edge-light:#7a6748;
+  --gold:#ffb000;
+  --gold-dim:rgba(255,176,0,.16);
+  --text:#e9dcc0;
+  --text2:#b7a988;
+  --text3:#8a7c60;
+  --green:#5fbf4f;
+  --red:#d8514a;
+  --note-bg:rgba(255,176,0,.12);
+  --note-fg:#e8c27a;
+  --shadow:0 2px 0 var(--edge-dark), 0 5px 14px rgba(0,0,0,.45);
+  --scrim:rgba(0,0,0,.6);
+  --head:'Cinzel',Georgia,'Times New Roman',serif;
+  --ui:Georgia,'Times New Roman',serif;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  --r:3px;
+  --tb:3.6rem;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+[hidden]{display:none!important}
+html,body{margin:0;padding:0}
+body{
+  background:
+    radial-gradient(ellipse at top, rgba(255,176,0,.05), transparent 60%),
+    var(--bg);
+  color:var(--text);
+  font-family:var(--ui);font-size:16px;line-height:1.5;
+  min-height:100dvh;display:flex;flex-direction:column;overflow-x:hidden;
+  overscroll-behavior-y:contain;
+}
+.wrap{max-width:720px;margin:0 auto;padding:0 1rem;width:100%}
+
+.hero{
+  position:sticky;top:0;z-index:15;background:var(--bg);
+  padding-top:calc(.6rem + env(safe-area-inset-top));
+  padding-bottom:.7rem;flex-shrink:0;
+  border-bottom:1px solid var(--edge-dark);
+}
+.hero .greet{display:none}
+.hero .mark{display:none}
+.hero.full{
+  position:static;flex:1 1 auto;min-height:0;border-bottom:0;
+  display:flex;flex-direction:column;justify-content:center;padding-bottom:8vh;
+}
+.hero.full .mark{
+  display:block;width:56px;height:56px;margin:0 auto .9rem;color:var(--gold);
+}
+.hero.full .greet{
+  display:block;font-family:var(--head);font-size:26px;font-weight:600;
+  color:var(--gold);text-align:center;margin:0 0 1.2rem;letter-spacing:.02em;
+  text-shadow:0 1px 0 var(--edge-dark);
+}
+.hero.full .searchbox input{font-size:18px;padding:1.1rem 2.6rem 1.1rem 1.1rem}
+.hero.full ~ main{padding-bottom:0}
+
+.searchbox{position:relative}
+.searchbox input{
+  width:100%;background:var(--panel2);border:1px solid var(--edge-dark);
+  color:var(--text);font-family:var(--ui);font-size:16px;
+  padding:.65rem 2.2rem .65rem .8rem;outline:none;border-radius:var(--r);
+  box-shadow:inset 0 1px 0 rgba(0,0,0,.4), inset 0 0 0 1px rgba(122,103,72,.35);
+}
+.searchbox input::placeholder{color:var(--text3)}
+.searchbox input:focus{box-shadow:0 0 0 2px var(--gold-dim), inset 0 1px 0 rgba(0,0,0,.4)}
+.searchbox .clear{
+  position:absolute;right:.3rem;top:50%;transform:translateY(-50%);
+  background:none;border:0;color:var(--text3);font-size:1.35rem;line-height:1;
+  padding:.35rem .6rem;cursor:pointer;display:none;
+}
+.searchbox .clear.on{display:block}
+
+.chips{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1.1rem;justify-content:center}
+.chips button{
+  background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);
+  color:var(--gold);font-family:var(--ui);font-size:13px;font-weight:600;
+  padding:.5rem .85rem;cursor:pointer;box-shadow:inset 0 0 0 1px rgba(122,103,72,.3);
+}
+.chips button:active{opacity:.6}
+
+main{flex-shrink:0;padding-bottom:calc(var(--tb) + 1.2rem + env(safe-area-inset-bottom))}
+.sect{display:flex;align-items:baseline;gap:.5rem;margin:.9rem 0 .5rem}
+.count{
+  font-family:var(--head);font-size:13px;font-weight:600;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--text3);margin:.9rem 0 .5rem;
+}
+.count:empty{display:none;margin:0}
+
+.card{
+  background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);
+  margin-bottom:.55rem;overflow:hidden;box-shadow:var(--shadow);
+}
+.card.open>button{background:var(--panel3)}
+.card>button{width:100%;background:none;border:0;color:inherit;text-align:left;padding:.7rem .85rem;cursor:pointer;display:flex;align-items:baseline;gap:.5rem;font-family:inherit}
+.card h2{margin:0;font-family:var(--head);font-size:16px;font-weight:600;letter-spacing:.01em;color:var(--text)}
+.card .sub{margin-left:auto;font-size:12px;color:var(--gold);text-align:right;flex-shrink:0;max-width:45%;font-weight:600}
+.tagline{display:inline-block;font-size:10px;font-weight:700;color:var(--bg);background:var(--gold);border-radius:2px;padding:.15rem .4rem;margin-right:.4rem;vertical-align:.1em;white-space:nowrap;text-transform:uppercase;letter-spacing:.03em}
+.body{padding:.1rem .85rem .85rem;border-top:1px solid var(--edge-dark)}
+.rows{padding-top:.15rem}
+.r{padding:.5rem 0}
+.fk{font-size:11px;font-weight:700;color:var(--text3);text-transform:uppercase;letter-spacing:.05em}
+.fv{font-size:15px;line-height:1.5;color:var(--text2)}
+.wide{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.45rem .6rem;margin:.35rem 0}
+.pill{display:inline-block;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.3rem .6rem;font-size:12px;margin:.15rem .3rem .15rem 0;color:var(--text2)}
+.pillrow{margin:.3rem 0}
+.note{margin-top:.6rem;padding:.6rem .7rem;background:var(--note-bg);border:1px solid rgba(255,176,0,.3);border-radius:var(--r);font-size:13px;color:var(--note-fg)}
+.empty{text-align:center;color:var(--text3);padding:2.5rem 1rem;font-size:15px}
+.empty b{display:block;color:var(--text);font-weight:600;margin-bottom:.3rem;font-family:var(--head)}
+
+.tbl{width:100%;border-collapse:collapse;margin:.4rem 0 .2rem;font-size:13px}
+.tbl th,.tbl td{text-align:left;padding:.4rem .5rem;border-bottom:1px solid var(--edge-dark)}
+.tbl th{color:var(--gold);font-size:10px;text-transform:uppercase;letter-spacing:.05em;font-weight:700}
+.tbl td{color:var(--text2)}
+.tblwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);box-shadow:var(--shadow);padding:.2rem .5rem;margin-bottom:.9rem;overflow-x:auto}
+
+/* bottom interface bar, always visible — the RuneScape tab row rather than
+   a hidden hamburger drawer */
+.tabbar{
+  position:fixed;left:0;right:0;bottom:0;z-index:30;height:var(--tb);
+  display:flex;background:var(--panel);border-top:1px solid var(--edge-light);
+  box-shadow:0 -2px 10px rgba(0,0,0,.4);
+  padding-bottom:env(safe-area-inset-bottom);
+}
+.tabbar button{
+  flex:1 1 0;min-width:0;background:none;border:0;border-right:1px solid var(--edge-dark);
+  color:var(--text2);font-family:var(--head);font-size:9.5px;font-weight:600;line-height:1.2;
+  letter-spacing:.01em;text-transform:uppercase;cursor:pointer;padding:.3rem .15rem;
+  overflow:hidden;text-overflow:ellipsis;white-space:normal;
+}
+.tabbar button:last-child{border-right:0}
+.tabbar button.on{background:var(--gold-dim);color:var(--gold);box-shadow:inset 0 2px 0 var(--gold)}
+.tabbar button:active{background:var(--panel3)}
+
+/* checklist rows: quests, achievements, bestiary sightings */
+.chk{margin-top:.2rem}
+.chk .row{display:flex;align-items:flex-start;gap:.6rem;padding:.5rem .1rem;cursor:pointer;border-bottom:1px solid var(--edge-dark)}
+.chk .row:last-child{border-bottom:0}
+.chk .box{
+  flex-shrink:0;width:20px;height:20px;border-radius:2px;margin-top:1px;
+  background:var(--panel2);border:1px solid var(--edge-light);display:flex;align-items:center;justify-content:center;
+  font-size:13px;font-weight:700;color:transparent;
+}
+.chk .row.on .box{background:var(--green);border-color:var(--green);color:#0e1a0d}
+.chk .t{font-size:14px;line-height:1.4;color:var(--text2)}
+.chk .row.on .t{color:var(--text3);text-decoration:line-through}
+.chk .t .req{display:block;font-size:12px;color:var(--text3);margin-top:.1rem}
+.chk .row.on .t .req{color:var(--text3)}
+@keyframes boxPop{0%{transform:scale(.7)}45%{transform:scale(1.3)}100%{transform:scale(1)}}
+.chk .row.pop .box{animation:boxPop .3s cubic-bezier(.2,.9,.3,1) 1}
+
+/* region / group cards inside the tracker: header + progress + checklist body */
+.area{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);margin-bottom:.5rem;overflow:hidden;box-shadow:var(--shadow)}
+.area>button{width:100%;background:none;border:0;color:inherit;text-align:left;padding:.7rem .8rem;cursor:pointer;font-family:inherit}
+.area .hd{display:flex;align-items:baseline;gap:.5rem}
+.area .hd b{font-family:var(--head);font-size:15px;font-weight:600;color:var(--text)}
+.area .hd span{margin-left:auto;font-size:13px;color:var(--text3);font-variant-numeric:tabular-nums}
+.area.full .hd span{color:var(--green);font-weight:700}
+.area .body{padding:.2rem .8rem .6rem}
+
+/* skill rows with a stepper for level */
+.fd{display:flex;align-items:center;gap:.5rem;padding:.6rem .8rem;border-bottom:1px solid var(--edge-dark)}
+.fd:last-child{border-bottom:0}
+.fd .nm{font-family:var(--head);font-size:14px;line-height:1.2;flex:1;min-width:0;color:var(--text)}
+.fd .nm .cat{display:block;font-family:var(--ui);font-size:11px;color:var(--text3);margin-top:2px;text-transform:none}
+.fd .stp{margin-left:auto;display:flex;align-items:center;gap:.3rem;flex-shrink:0}
+.fd .stp button{width:28px;height:28px;border:1px solid var(--edge-dark);background:var(--panel2);color:var(--gold);border-radius:var(--r);font-size:16px;font-weight:700;line-height:1;cursor:pointer;padding:0}
+.fd .stp button:active{background:var(--gold);color:var(--bg)}
+.fd .stp .v{min-width:34px;text-align:center;font-size:15px;color:var(--gold);font-variant-numeric:tabular-nums;font-weight:700;font-family:var(--head)}
+.fdwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);box-shadow:var(--shadow);margin-bottom:.9rem;overflow:hidden}
+
+.tk-head{margin:1rem 0 .4rem}
+.tk-head h2{font-family:var(--head);font-size:24px;font-weight:700;letter-spacing:.01em;margin:0 0 .5rem;color:var(--gold)}
+.bar{height:8px;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:2px;overflow:hidden;margin-top:.45rem}
+.bar i{display:block;height:100%;background:var(--gold);transition:width .25s}
+.bar.done i{background:var(--green)}
+.tk-goal{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.65rem .8rem;margin-bottom:.45rem;box-shadow:var(--shadow)}
+.tk-goal .t{display:flex;align-items:baseline;gap:.5rem;font-size:15px}
+.tk-goal .t b{font-family:var(--head);font-weight:600;color:var(--text)}
+.tk-goal .t span{margin-left:auto;font-size:13px;color:var(--text3);font-variant-numeric:tabular-nums}
+.tk-goal.hit .t span{color:var(--green);font-weight:700}
+
+.tk-section{margin-top:1.6rem}
+.tk-section h3{font-family:var(--head);font-size:17px;font-weight:700;letter-spacing:.01em;margin:0 0 .5rem;color:var(--gold)}
+
+.sy{text-align:center;margin-bottom:.2rem}
+.sy b{display:block;font-family:var(--mono);font-size:19px;font-weight:600;letter-spacing:.03em;color:var(--gold);padding:.5rem 0;word-break:break-all}
+#syIn{width:100%;margin-top:.6rem;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);color:var(--text);font-family:var(--mono);font-size:16px;padding:.6rem;text-align:center;letter-spacing:.03em}
+.bk{display:flex;gap:.4rem;margin-top:.6rem;flex-wrap:wrap}
+.bk button{flex:1;min-width:88px;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);color:var(--gold);font-family:var(--ui);font-size:14px;font-weight:600;padding:.55rem .5rem;cursor:pointer}
+.bk button:active{opacity:.6}
+#bkBox{width:100%;margin-top:.6rem;min-height:88px;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);color:var(--text);font-family:var(--mono);font-size:12px;padding:.5rem;resize:vertical}
+#bkMsg{margin-top:.5rem;font-size:13px;color:var(--text2)}
+#bkMsg.ok{color:var(--green)}
+#bkMsg.bad{color:var(--red)}
+.tk-reset{margin-top:1.2rem;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);color:var(--red);font-family:var(--head);font-size:15px;font-weight:600;padding:.75rem 1rem;cursor:pointer;width:100%;box-shadow:var(--shadow)}
+:focus-visible{outline:2px solid var(--gold);outline-offset:1px}
+
+@keyframes bodyIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:translateY(0)}}
+.body.in{animation:bodyIn .18s ease-out 1}
+@keyframes cardIn{from{opacity:0}to{opacity:1}}
+#results .card{animation:cardIn .16s ease-out 1}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media (max-width:520px){
+  .hero.full .greet{font-size:22px}
+  .card>button{flex-direction:column;align-items:flex-start;gap:.15rem}
+  .card .sub{margin-left:0;text-align:left;max-width:100%}
+}
+</style>
+</head>
+<body>
+
+<section class="hero" id="hero">
+  <div class="wrap">
+    <svg class="mark" viewBox="0 0 64 64" aria-hidden="true">
+      <path d="M4 44 L20 18 L32 34 L44 12 L60 44 Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+      <circle cx="46" cy="14" r="4.2" fill="currentColor"/>
+      <path d="M4 44 H60" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".6"/>
+    </svg>
+    <h2 class="greet">Welcome to Ashenfall.</h2>
+    <div class="searchbox">
+      <input id="q" type="search" autocomplete="off" autocapitalize="off" spellcheck="false"
+             placeholder="Search skills, quests, creatures…" aria-label="Search">
+      <button class="clear" id="clear" aria-label="Clear search">&times;</button>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+</section>
+
+<main class="wrap">
+  <div id="tracker" hidden></div>
+  <div class="count" id="count"></div>
+  <div id="results"></div>
+</main>
+
+<nav class="tabbar" id="tabbar"></nav>
+
+<script src="skills.js"></script>
+<script src="locations.js"></script>
+<script src="quests.js"></script>
+<script src="bestiary.js"></script>
+<script src="bestiary-detail.js" onerror="this.remove()"></script>
+<script src="crafting.js"></script>
+<script src="items.js" onerror="this.remove()"></script>
+<script src="achievements.js"></script>
+<script>
+(function(){
+
+  var TABS = [
+    {key:"skills", label:"Skills"},
+    {key:"bestiary", label:"Bestiary"},
+    {key:"quests", label:"Quests"},
+    {key:"regions", label:"Regions"},
+    {key:"crafting", label:"Crafting"},
+    {key:"achievements", label:"Achieve."},
+    {key:"tracker", label:"Progress"}
+  ];
+  var TAB_LABEL = {}; TABS.forEach(function(t){ TAB_LABEL[t.key] = t.label; });
+
+  // ---------- build the unified, searchable entry list ----------
+  var ENTRIES = [];
+  var DETAIL = window.WILDS_BESTIARY_DETAIL || {};
+
+  (window.WILDS_SKILLS || []).forEach(function(s){
+    ENTRIES.push({ kind:"skill", tab:"skills", id:"skill:"+s[0], name:s[0], cat:s[1], desc:s[2] });
+  });
+
+  (window.WILDS_REGIONS || []).forEach(function(r){
+    ENTRIES.push({ kind:"region", tab:"regions", id:"region:"+r.name, name:r.name, sub:r.tier,
+      blurb:r.blurb, areas:r.areas||[], features:r.features||"" });
+  });
+
+  (window.WILDS_QUESTS_PRIMARY || []).forEach(function(q, i){
+    ENTRIES.push({ kind:"quest", tab:"quests", id:"quest:p:"+q[0], name:q[0], sub:"Primary #"+(i+1),
+      type:"primary", order:i+1, desc:q[1] });
+  });
+  Object.keys(window.WILDS_QUESTS_SECONDARY || {}).forEach(function(region){
+    window.WILDS_QUESTS_SECONDARY[region].forEach(function(name){
+      ENTRIES.push({ kind:"quest", tab:"quests", id:"quest:s:"+name, name:name, sub:region,
+        type:"secondary", region:region, desc:"Secondary quest, "+region+"." });
+    });
+  });
+
+  (window.WILDS_BESTIARY || []).forEach(function(g){
+    ENTRIES.push({ kind:"bestiary", tab:"bestiary", id:"bestiary:"+g.group, name:g.group,
+      sub:g.names.length+" named", names:g.names });
+  });
+
+  function stations(list, stype){
+    (list||[]).forEach(function(s){
+      ENTRIES.push({ kind:"station", tab:"crafting", id:"station:"+s[0], name:s[0], sub:stype, desc:s[1] });
+    });
+  }
+  stations(window.WILDS_STATIONS_CRAFTING, "Crafting station");
+  stations(window.WILDS_STATIONS_PROCESSING, "Processing station");
+  stations(window.WILDS_STATION_IMPROVEMENTS, "Improvement");
+
+  (window.WILDS_EQUIPMENT || []).forEach(function(it, i){
+    ENTRIES.push({ kind:"item", tab:"crafting", id:"item:"+i+":"+it.name, name:it.name,
+      sub:it.tier, slot:it.slot, style:it.style, note:it.note||"" });
+  });
+
+  (window.WILDS_ACHIEVEMENTS || []).forEach(function(a){
+    ENTRIES.push({ kind:"achievement", tab:"achievements", id:"ach:"+a[0], name:a[0], req:a[1] });
+  });
+
+  // ---------- search ----------
+  function norm(s){ return (s||"").toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g,""); }
+  function tokens(s){ return norm(s).split(/[^a-z0-9]+/).filter(Boolean); }
+  function haystack(e){
+    var parts = [e.name, e.sub, e.desc, e.blurb, e.features, e.req, e.cat, e.slot, e.style, e.note];
+    if (e.areas) parts = parts.concat(e.areas);
+    if (e.names) parts = parts.concat(e.names);
+    return norm(parts.filter(Boolean).join(" "));
+  }
+  function score(e, toks){
+    var hay = haystack(e), nm = norm(e.name), hit = 0;
+    for (var i=0;i<toks.length;i++){
+      if (hay.indexOf(toks[i]) === -1) return -1;
+      hit += nm.indexOf(toks[i]) === 0 ? 3 : (nm.indexOf(toks[i]) !== -1 ? 2 : 1);
+    }
+    return hit;
+  }
+  function search(q){
+    var toks = tokens(q);
+    if (!toks.length) return [];
+    var out = [];
+    ENTRIES.forEach(function(e){
+      var sc = score(e, toks);
+      if (sc >= 0) out.push([sc, e]);
+    });
+    out.sort(function(a,b){ return b[0]-a[0]; });
+    return out.slice(0, 60).map(function(p){ return p[1]; });
+  }
+
+  // ---------- persisted tracker state ----------
+  var LS_KEY = "wilds-state-v1";
+  var STATE = loadState();
+  function defaultState(){
+    return { skills:{}, quests:{}, achievements:{}, bestiary:{}, code:"" };
+  }
+  function loadState(){
+    try {
+      var raw = localStorage.getItem(LS_KEY);
+      if (!raw) return defaultState();
+      return Object.assign(defaultState(), JSON.parse(raw));
+    } catch(e){ return defaultState(); }
+  }
+  function saveState(){
+    try { localStorage.setItem(LS_KEY, JSON.stringify(STATE)); } catch(e){}
+    syncSoon();
+  }
+  function skillLevel(name){ return STATE.skills[name] || 1; }
+  function setSkillLevel(name, v){ STATE.skills[name] = Math.max(1, Math.min(99, v)); saveState(); }
+
+  // UI-only state: which tracker sub-panels are expanded. Not persisted —
+  // rebuilt fresh each session, but must survive a drawTracker() re-render
+  // triggered by clicking something *inside* an open panel.
+  var openAreas = {};
+
+  // ---------- view state ----------
+  var view = { tab: null, q: "" };
+
+  var $ = function(sel, root){ return (root||document).querySelector(sel); };
+  var qInput = $("#q"), clearBtn = $("#clear"), hero = $("#hero"), resultsEl = $("#results"),
+      countEl = $("#count"), trackerEl = $("#tracker"), chipsEl = $("#chips"), tabbarEl = $("#tabbar");
+
+  function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g, function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c];
+  }); }
+
+  // ---------- bottom tab bar ----------
+  function drawTabbar(){
+    var html = '<button data-home="1" class="'+(!view.tab ? "on":"")+'">Home</button>';
+    html += TABS.map(function(t){
+      return '<button data-tab="'+t.key+'" class="'+(view.tab===t.key ? "on":"")+'">'+t.label+'</button>';
+    }).join("");
+    tabbarEl.innerHTML = html;
+  }
+  function goTab(key){
+    view.tab = key; view.q = ""; qInput.value = ""; clearBtn.classList.remove("on");
+    window.scrollTo(0,0); draw();
+  }
+  tabbarEl.addEventListener("click", function(e){
+    var home = e.target.closest("button[data-home]");
+    if (home){ goTab(null); return; }
+    var b = e.target.closest("button[data-tab]");
+    if (b) goTab(b.dataset.tab);
+  });
+  chipsEl.addEventListener("click", function(e){
+    var b = e.target.closest("button[data-tab]");
+    if (b) goTab(b.dataset.tab);
+  });
+
+  // ---------- landing chips ----------
+  function drawChips(){
+    chipsEl.innerHTML = TABS.filter(function(t){return t.key!=="tracker"}).map(function(t){
+      return '<button data-tab="'+t.key+'">'+t.label+'</button>';
+    }).join("") + '<button data-tab="tracker">My progress</button>';
+  }
+
+  // ---------- search box ----------
+  qInput.addEventListener("input", function(){
+    view.q = qInput.value;
+    clearBtn.classList.toggle("on", !!view.q);
+    draw();
+  });
+  clearBtn.addEventListener("click", function(){
+    view.q = ""; qInput.value = ""; clearBtn.classList.remove("on"); qInput.focus(); draw();
+  });
+
+  // ---------- card rendering ----------
+  function cardHeader(e, badge){
+    return '<button type="button" data-open="'+e.id+'">'+(badge||"")+'<h2>'+esc(e.name)+'</h2>'+
+      (e.sub ? '<span class="sub">'+esc(e.sub)+'</span>' : '')+'</button>';
+  }
+  function cardWrap(e, headerHtml, bodyHtml){
+    return '<div class="card" data-id="'+e.id+'">'+headerHtml+'<div class="body" hidden><div class="rows">'+bodyHtml+'</div></div></div>';
+  }
+
+  function renderCard(e){
+    if (e.kind === "skill"){
+      var body = '<div class="r"><div class="fk">'+esc(e.cat)+'</div><div class="fv">'+esc(e.desc)+'</div></div>';
+      return cardWrap(e, cardHeader(e, null), body);
+    }
+    if (e.kind === "region"){
+      var areas = e.areas.length ? '<div class="pillrow">'+e.areas.map(function(a){return '<span class="pill">'+esc(a)+'</span>'}).join("")+'</div>' : "";
+      var rbody = '<div class="r"><div class="fv">'+esc(e.blurb)+'</div></div>'+
+        (e.areas.length ? '<div class="r"><div class="fk">Sub-areas</div>'+areas+'</div>' : "")+
+        (e.features ? '<div class="r"><div class="fk">Notable</div><div class="fv">'+esc(e.features)+'</div></div>' : "");
+      return cardWrap(e, cardHeader(e, null), rbody);
+    }
+    if (e.kind === "quest"){
+      var badge = '<span class="tagline">'+(e.type==="primary"?"Primary":"Secondary")+'</span>';
+      var qbody = '<div class="r"><div class="fv">'+esc(e.desc)+'</div></div>';
+      return cardWrap(e, cardHeader(e, badge), qbody);
+    }
+    if (e.kind === "bestiary"){
+      var det = e.names.filter(function(n){ return DETAIL[n]; });
+      var names = '<div class="pillrow">'+e.names.map(function(n){
+        var d = DETAIL[n];
+        return '<span class="pill" title="'+(d?esc([d.region,d.level,d.style].filter(Boolean).join(" · ")):'')+'">'+esc(n)+(d&&d.level?' ('+esc(d.level)+')':'')+'</span>';
+      }).join("")+'</div>';
+      var extra = det.length ? '<div class="r"><div class="fk">Confirmed detail</div>'+det.map(function(n){
+        var d = DETAIL[n];
+        return '<div class="wide"><span class="fk">'+esc(n)+'</span><span class="fv">'+esc([d.region,d.level,d.style].filter(Boolean).join(" · "))+(d.drop?' — drops '+esc(d.drop):'')+'</span></div>';
+      }).join("")+'</div>' : '';
+      return cardWrap(e, cardHeader(e, null), '<div class="r">'+names+'</div>'+extra);
+    }
+    if (e.kind === "station"){
+      var sbody = '<div class="r"><div class="fv">'+esc(e.desc)+'</div></div>';
+      return cardWrap(e, cardHeader(e, null), sbody);
+    }
+    if (e.kind === "item"){
+      var ibody = '<div class="r"><div class="fk">'+esc([e.slot,e.style].filter(Boolean).join(" · "))+'</div>'+
+        (e.note ? '<div class="fv">'+esc(e.note)+'</div>' : '')+'</div>';
+      return cardWrap(e, cardHeader(e, null), ibody);
+    }
+    if (e.kind === "achievement"){
+      var abody = '<div class="r"><div class="fk">Unlocks by</div><div class="fv">'+esc(e.req)+'</div></div>';
+      return cardWrap(e, cardHeader(e, null), abody);
+    }
+    return "";
+  }
+
+  resultsEl.addEventListener("click", function(e){
+    var btn = e.target.closest("button[data-open]");
+    if (!btn) return;
+    var card = btn.closest(".card");
+    var body = card.querySelector(".body");
+    var open = card.classList.toggle("open");
+    body.hidden = !open;
+    if (open){ body.classList.remove("in"); void body.offsetWidth; body.classList.add("in"); }
+  });
+
+  // ---------- crafting tab extras (static reference tables) ----------
+  function craftingExtras(){
+    var tiers = (window.WILDS_TIERS||[]).map(function(t){
+      return '<tr><td>'+esc(t[0])+'</td><td>'+(t[1]!=null?t[1]:'—')+'</td><td>'+esc(t[2])+'</td></tr>';
+    }).join("");
+    var recipes = (window.WILDS_RECIPES||[]).map(function(r){
+      return '<tr><td>'+esc(r[0])+'</td><td>'+esc(r[1])+'</td><td>'+esc(r[2])+'</td><td>'+esc(r[3])+'</td></tr>';
+    }).join("");
+    return '<div class="tblwrap"><table class="tbl"><thead><tr><th>Tier</th><th>Power lvl</th><th>Where it carries you</th></tr></thead><tbody>'+tiers+'</tbody></table></div>'+
+      '<div class="tblwrap"><table class="tbl"><thead><tr><th>Item</th><th>Station</th><th>Materials</th><th>XP</th></tr></thead><tbody>'+recipes+'</tbody></table></div>';
+  }
+
+  // ---------- main draw ----------
+  function draw(){
+    drawTabbar();
+    var q = view.q.trim();
+    var showLanding = !view.tab && !q;
+    hero.classList.toggle("full", showLanding);
+    if (showLanding) drawChips();
+    trackerEl.hidden = true;
+
+    if (view.tab === "tracker" && !q){
+      trackerEl.hidden = false;
+      resultsEl.innerHTML = ""; countEl.textContent = "";
+      drawTracker();
+      return;
+    }
+
+    var list, title;
+    if (q){
+      list = search(q);
+      title = "Results";
+    } else if (view.tab){
+      list = ENTRIES.filter(function(e){ return e.tab === view.tab; });
+      title = TAB_LABEL[view.tab];
+    } else {
+      list = []; title = "";
+    }
+
+    var extras = (!q && view.tab === "crafting") ? craftingExtras() : "";
+
+    if (!list.length && !extras){
+      countEl.textContent = "";
+      resultsEl.innerHTML = showLanding ? "" : '<div class="empty"><b>Nothing here yet</b>Try a different search.</div>';
+      return;
+    }
+
+    countEl.textContent = title ? (title + " · " + list.length) : "";
+    resultsEl.innerHTML = extras + list.map(renderCard).join("");
+  }
+
+  // ---------- tracker: skills ----------
+  function skillsBlock(){
+    var released = window.WILDS_SKILLS || [];
+    var total = released.reduce(function(s,r){ return s + skillLevel(r[0]); }, 0);
+    var max = released.length * 99;
+    var rows = released.map(function(s){
+      var lvl = skillLevel(s[0]);
+      return '<div class="fd" data-skill="'+esc(s[0])+'"><div class="nm">'+esc(s[0])+'<span class="cat">'+esc(s[1])+'</span></div>'+
+        '<div class="stp"><button data-d="-1" aria-label="Decrease">−</button><span class="v">'+lvl+'</span><button data-d="1" aria-label="Increase">+</button></div></div>';
+    }).join("");
+    return '<div class="tk-goal"><div class="t"><b>Total level</b><span>'+total+' / '+max+'</span></div>'+
+      '<div class="bar'+(total>=max?" done":"")+'"><i style="width:'+Math.round(total/max*100)+'%"></i></div></div>'+
+      '<div class="fdwrap">'+rows+'</div>';
+  }
+
+  // ---------- tracker: quests ----------
+  function questRow(name, sub, keyPrefix){
+    var key = keyPrefix + name;
+    var on = !!STATE.quests[key];
+    return '<div class="row'+(on?" on":"")+'" data-qkey="'+esc(key)+'"><div class="box">✓</div><div class="t">'+esc(name)+(sub?'<span class="req">'+esc(sub)+'</span>':'')+'</div></div>';
+  }
+  function questsBlock(){
+    var primary = window.WILDS_QUESTS_PRIMARY || [];
+    var pDone = primary.filter(function(p){ return STATE.quests["p:"+p[0]]; }).length;
+    var primaryHtml = '<div class="tk-goal'+(pDone===primary.length?" hit":"")+'"><div class="t"><b>Primary quests</b><span>'+pDone+' / '+primary.length+'</span></div>'+
+      '<div class="bar'+(pDone===primary.length?" done":"")+'"><i style="width:'+Math.round(pDone/primary.length*100)+'%"></i></div></div>'+
+      '<div class="area open"><div class="body" style="padding-top:.6rem"><div class="chk">'+primary.map(function(p){ return questRow(p[0], p[1], "p:"); }).join("")+'</div></div></div>';
+
+    var regions = window.WILDS_QUESTS_SECONDARY || {};
+    var secHtml = Object.keys(regions).map(function(region){
+      var list = regions[region];
+      var done = list.filter(function(n){ return STATE.quests["s:"+n]; }).length;
+      var full = done === list.length;
+      var open = !!openAreas["quest:"+region];
+      return '<div class="area'+(full?" full":"")+'" data-areakey="quest:'+esc(region)+'">'+
+        '<button type="button" data-toggle-area><div class="hd"><b>'+esc(region)+'</b><span>'+done+' / '+list.length+'</span></div></button>'+
+        '<div class="body" '+(open?'':'hidden')+'><div class="chk">'+list.map(function(n){ return questRow(n, "", "s:"); }).join("")+'</div></div></div>';
+    }).join("");
+
+    return primaryHtml + '<div class="tk-section"><h3>Secondary, by region</h3>'+secHtml+'</div>';
+  }
+
+  // ---------- tracker: achievements ----------
+  function achievementsBlock(){
+    var list = window.WILDS_ACHIEVEMENTS || [];
+    var done = list.filter(function(a){ return STATE.achievements[a[0]]; }).length;
+    var rows = list.map(function(a){
+      var on = !!STATE.achievements[a[0]];
+      return '<div class="row'+(on?" on":"")+'" data-akey="'+esc(a[0])+'"><div class="box">✓</div><div class="t">'+esc(a[0])+'<span class="req">'+esc(a[1])+'</span></div></div>';
+    }).join("");
+    return '<div class="tk-goal'+(done===list.length?" hit":"")+'"><div class="t"><b>Achievements</b><span>'+done+' / '+list.length+'</span></div>'+
+      '<div class="bar'+(done===list.length?" done":"")+'"><i style="width:'+Math.round(done/list.length*100)+'%"></i></div></div>'+
+      '<div class="area open"><div class="body" style="padding-top:.6rem"><div class="chk">'+rows+'</div></div></div>';
+  }
+
+  // ---------- tracker: bestiary sightings (personal log, not an in-game stat) ----------
+  function bestiaryBlock(){
+    var groups = window.WILDS_BESTIARY || [];
+    return '<div class="note">This is your own sightings log — Dragonwilds doesn’t track a "seen" list in-game, this is just for you.</div>'+
+      groups.map(function(g){
+        var done = g.names.filter(function(n){ return STATE.bestiary[n]; }).length;
+        var full = done === g.names.length;
+        var open = !!openAreas["bestiary:"+g.group];
+        return '<div class="area'+(full?" full":"")+'" data-areakey="bestiary:'+esc(g.group)+'">'+
+          '<button type="button" data-toggle-area><div class="hd"><b>'+esc(g.group)+'</b><span>'+done+' / '+g.names.length+'</span></div></button>'+
+          '<div class="body" '+(open?'':'hidden')+'><div class="chk">'+g.names.map(function(n){
+            var on = !!STATE.bestiary[n];
+            return '<div class="row'+(on?" on":"")+'" data-bkey="'+esc(n)+'"><div class="box">✓</div><div class="t">'+esc(n)+'</div></div>';
+          }).join("")+'</div></div></div>';
+      }).join("");
+  }
+
+  // ---------- tracker: sync + backup ----------
+  var ALPHA = "ABCDEFGHJKMNPQRSTUVWXYZ23456789";
+  function newCode(){
+    function part(){ var s=""; for(var i=0;i<4;i++) s += ALPHA[Math.floor(Math.random()*ALPHA.length)]; return s; }
+    return "WILDS-"+part()+"-"+part();
+  }
+  var syncMsg = "";
+  function syncPayload(){ return { skills: STATE.skills, quests: STATE.quests, achievements: STATE.achievements, bestiary: STATE.bestiary }; }
+  var syncTimer = null;
+  function syncSoon(){
+    if (!STATE.code) return;
+    clearTimeout(syncTimer);
+    syncTimer = setTimeout(function(){ syncPush(true); }, 1200);
+  }
+  function syncPush(quiet){
+    if (!STATE.code) return;
+    fetch("/api/sync?code="+encodeURIComponent(STATE.code), {
+      method: "PUT", headers: {"content-type":"application/json"}, body: JSON.stringify(syncPayload())
+    }).then(function(r){ return r.json(); }).then(function(r){
+      if (!quiet) { syncMsg = r.ok ? "Synced." : ("Sync failed: "+(r.error||"")); drawTracker(); }
+    }).catch(function(){ if (!quiet){ syncMsg = "Sync failed — offline?"; drawTracker(); } });
+  }
+  function syncPull(){
+    if (!STATE.code) return;
+    fetch("/api/sync?code="+encodeURIComponent(STATE.code)).then(function(r){ return r.json(); }).then(function(r){
+      if (r.error){ syncMsg = r.error === "not found" ? "No data saved under that code yet." : ("Pull failed: "+r.error); drawTracker(); return; }
+      STATE.skills = r.skills||{}; STATE.quests = r.quests||{}; STATE.achievements = r.achievements||{}; STATE.bestiary = r.bestiary||{};
+      saveState(); syncMsg = "Pulled latest."; drawTracker();
+    }).catch(function(){ syncMsg = "Pull failed — offline?"; drawTracker(); });
+  }
+
+  var bkMsg = "", bkMsgCls = "";
+  function backupJSON(){ return JSON.stringify({ skills: STATE.skills, quests: STATE.quests, achievements: STATE.achievements, bestiary: STATE.bestiary }, null, 2); }
+  function restoreBackup(text){
+    try {
+      var p = JSON.parse(text);
+      STATE.skills = p.skills||{}; STATE.quests = p.quests||{}; STATE.achievements = p.achievements||{}; STATE.bestiary = p.bestiary||{};
+      saveState(); bkMsg = "Restored."; bkMsgCls = "ok";
+    } catch(e){ bkMsg = "That's not valid backup JSON."; bkMsgCls = "bad"; }
+    drawTracker();
+  }
+
+  function syncBlock(){
+    var have = !!STATE.code;
+    return '<div class="tk-section"><h3>Sync across devices</h3>'+
+      '<div class="sy">'+(have ? '<b>'+esc(STATE.code)+'</b>' : '<span style="color:var(--text3);font-size:13px">No code yet</span>')+'</div>'+
+      (have ?
+        '<div class="bk"><button data-act="push">Push</button><button data-act="pull">Pull</button><button data-act="forget">Forget code</button></div>' :
+        '<div class="bk"><button data-act="new">Create a code</button></div><input id="syIn" placeholder="Or enter an existing code">'+
+        '<div class="bk"><button data-act="use">Use this code</button></div>'
+      )+
+      (syncMsg ? '<div id="bkMsg" class="ok">'+esc(syncMsg)+'</div>' : '')+
+      '</div>';
+  }
+  function backupBlock(){
+    return '<div class="tk-section"><h3>Backup</h3>'+
+      '<div class="bk"><button data-act="export">Copy to box</button><button data-act="import">Restore from box</button></div>'+
+      '<textarea id="bkBox" spellcheck="false"></textarea>'+
+      (bkMsg ? '<div id="bkMsg" class="'+bkMsgCls+'">'+esc(bkMsg)+'</div>' : '')+
+      '</div>';
+  }
+
+  function drawTracker(){
+    trackerEl.innerHTML =
+      '<div class="tk-head"><h2>My progress</h2></div>'+
+      '<div class="tk-section"><h3>Skills</h3>'+skillsBlock()+'</div>'+
+      '<div class="tk-section"><h3>Quests</h3>'+questsBlock()+'</div>'+
+      '<div class="tk-section"><h3>Achievements</h3>'+achievementsBlock()+'</div>'+
+      '<div class="tk-section"><h3>Bestiary sightings</h3>'+bestiaryBlock()+'</div>'+
+      syncBlock()+backupBlock()+
+      '<button class="tk-reset" id="tkReset">Reset all progress</button>';
+    var box = document.getElementById("bkBox");
+    if (box) box.value = backupJSON();
+  }
+
+  trackerEl.addEventListener("click", function(e){
+    var stp = e.target.closest("button[data-d]");
+    if (stp){
+      var row = stp.closest(".fd");
+      var name = row.dataset.skill;
+      setSkillLevel(name, skillLevel(name) + parseInt(stp.dataset.d, 10));
+      drawTracker();
+      return;
+    }
+    var qrow = e.target.closest(".row[data-qkey]");
+    if (qrow){
+      var key = qrow.dataset.qkey;
+      if (STATE.quests[key]) delete STATE.quests[key]; else STATE.quests[key] = true;
+      saveState(); drawTracker(); return;
+    }
+    var arow = e.target.closest(".row[data-akey]");
+    if (arow){
+      var akey = arow.dataset.akey;
+      if (STATE.achievements[akey]) delete STATE.achievements[akey]; else STATE.achievements[akey] = true;
+      saveState(); drawTracker(); return;
+    }
+    var brow = e.target.closest(".row[data-bkey]");
+    if (brow){
+      var bkey = brow.dataset.bkey;
+      if (STATE.bestiary[bkey]) delete STATE.bestiary[bkey]; else STATE.bestiary[bkey] = true;
+      saveState(); drawTracker(); return;
+    }
+    var areaBtn = e.target.closest("button[data-toggle-area]");
+    if (areaBtn){
+      var key2 = areaBtn.closest(".area").dataset.areakey;
+      openAreas[key2] = !openAreas[key2];
+      drawTracker();
+      return;
+    }
+    var act = e.target.closest("button[data-act]");
+    if (act){
+      var a = act.dataset.act;
+      if (a === "new"){ STATE.code = newCode(); saveState(); syncMsg=""; syncPush(true); drawTracker(); }
+      else if (a === "use"){
+        var input = document.getElementById("syIn");
+        var v = (input.value||"").toUpperCase().trim();
+        if (/^WILDS-[A-Z0-9]{4}-[A-Z0-9]{4}$/.test(v)){ STATE.code = v; saveState(); syncPull(); }
+        else { syncMsg = "That doesn't look like a WILDS-XXXX-XXXX code."; drawTracker(); }
+      }
+      else if (a === "forget"){ STATE.code = ""; saveState(); syncMsg=""; drawTracker(); }
+      else if (a === "push"){ syncPush(false); }
+      else if (a === "pull"){ syncPull(); }
+      else if (a === "export"){
+        var box = document.getElementById("bkBox");
+        box.value = backupJSON();
+        var done = function(ok){ bkMsg = ok ? "Copied." : "Select and copy the text above."; bkMsgCls = ok?"ok":""; drawTracker(); };
+        if (navigator.clipboard && navigator.clipboard.writeText){
+          navigator.clipboard.writeText(box.value).then(function(){done(true)}).catch(function(){
+            box.select(); try{ done(document.execCommand("copy")); } catch(e){ done(false); }
+          });
+        } else {
+          box.select(); try{ done(document.execCommand("copy")); } catch(e){ done(false); }
+        }
+      }
+      else if (a === "import"){
+        restoreBackup(document.getElementById("bkBox").value);
+      }
+      return;
+    }
+    if (e.target.id === "tkReset"){
+      if (confirm("Clear all skill levels, quest and achievement checks, and your sync code? This can't be undone locally.")){
+        STATE = defaultState(); saveState(); drawTracker();
+      }
+    }
+  });
+
+  draw();
+
+  if ("serviceWorker" in navigator){
+    window.addEventListener("load", function(){ navigator.serviceWorker.register("sw.js").catch(function(){}); });
+  }
+})();
+</script>
+</body>
+</html>

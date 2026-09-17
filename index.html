@@ -44,7 +44,10 @@
   --r:3px;
   --tb:4.3rem;
 }
-*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+/* touch-action:manipulation stops rapid taps (e.g. hammering a stepper's
+   + button) from being read as a double-tap-to-zoom gesture on mobile
+   Safari/Chrome. Pinch-zoom stays available since only double-tap is cut. */
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
 [hidden]{display:none!important}
 html,body{margin:0;padding:0}
 body{
@@ -120,6 +123,8 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
 .card.open>button{background:var(--panel3)}
 .card>button{width:100%;background:none;border:0;color:inherit;text-align:left;padding:.7rem .85rem;cursor:pointer;display:flex;align-items:baseline;gap:.5rem;font-family:inherit}
 .card h2{margin:0;font-family:var(--head);font-size:16px;font-weight:600;letter-spacing:.01em;color:var(--text)}
+.card-icon{display:inline-flex;align-self:center;color:var(--gold);flex-shrink:0}
+.card-icon svg{width:18px;height:18px;display:block}
 .card .sub{margin-left:auto;font-size:12px;color:var(--gold);text-align:right;flex-shrink:0;max-width:45%;font-weight:600}
 .tagline{display:inline-block;font-size:10px;font-weight:700;color:var(--bg);background:var(--gold);border-radius:2px;padding:.15rem .4rem;margin-right:.4rem;vertical-align:.1em;white-space:nowrap;text-transform:uppercase;letter-spacing:.03em}
 .body{padding:.1rem .85rem .85rem;border-top:1px solid var(--edge-dark)}
@@ -194,6 +199,8 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
 /* skill rows with a stepper for level */
 .fd{display:flex;align-items:center;gap:.5rem;padding:.6rem .8rem;border-bottom:1px solid var(--edge-dark)}
 .fd:last-child{border-bottom:0}
+.fd-icon{display:flex;flex-shrink:0;color:var(--gold)}
+.fd-icon svg{width:19px;height:19px}
 .fd .nm{font-family:var(--head);font-size:14px;line-height:1.2;flex:1;min-width:0;color:var(--text)}
 .fd .nm .cat{display:block;font-family:var(--ui);font-size:11px;color:var(--text3);margin-top:2px;text-transform:none}
 .fd .stp{margin-left:auto;display:flex;align-items:center;gap:.3rem;flex-shrink:0}
@@ -303,6 +310,24 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
     achievements: '<path d="M8 4h8v4a4 4 0 0 1-8 0V4z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M8 5H5.5A1.5 1.5 0 0 0 4 6.5 4 4 0 0 0 8 10M16 5h2.5A1.5 1.5 0 0 1 20 6.5 4 4 0 0 1 16 10" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M12 12v3M9 20h6M10 17h4v3h-4z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>',
     tracker: '<path d="M5 19V10M11 19V5M17 19v-7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>'
   };
+
+  // One small original glyph per skill, as a visual aid next to the name —
+  // a quick shape to scan for rather than reading twelve words each time.
+  var SKILL_ICONS = {
+    "Attack": '<path d="M6 18 16 8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M7.5 13.5 10.5 16.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="5" cy="19" r="1.1" fill="currentColor" stroke="none"/>',
+    "Magic": '<path d="M12 3 13.4 10.6 21 12 13.4 13.4 12 21 10.6 13.4 3 12 10.6 10.6Z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>',
+    "Ranged": '<path d="M6 4c6 2 6 14 0 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M6 12h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M15 9l3 3-3 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>',
+    "Mining": '<path d="M16 4 6 14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M5 15l2 2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M13 3c2.2-.3 5 .8 6.3 2.7-2 1.6-4.8 1.9-6.9 1.1" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>',
+    "Woodcutting": '<path d="M8 20 17 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M12 9c1.5-2.5 4.5-3.7 7-3-1 2.3-1.2 5.3-3.6 6.8-1.2.8-2.7.6-3.4-.4-.8-1.1-.7-2.6 0-3.4z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>',
+    "Artisan": '<circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M12 4v2M12 18v2M4 12h2M18 12h2M6.3 6.3l1.4 1.4M16.3 16.3l1.4 1.4M17.7 6.3l-1.4 1.4M7.7 16.3l-1.4 1.4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>',
+    "Construction": '<rect x="4" y="6" width="16" height="3" rx="1" fill="none" stroke="currentColor" stroke-width="1.4"/><rect x="4" y="11" width="16" height="3" rx="1" fill="none" stroke="currentColor" stroke-width="1.4"/><rect x="4" y="16" width="16" height="3" rx="1" fill="none" stroke="currentColor" stroke-width="1.4"/>',
+    "Cooking": '<path d="M12 3c2 3-1 4-1 6.5 0 1.4 1 2.5 2.3 2.5 1.6 0 2.7-1.4 2.4-3 2 1.6 3.3 4.2 3.3 6.5 0 3.6-3.1 6.5-7 6.5s-7-2.9-7-6.5c0-3.4 2.2-5.7 4-8.5 1-1.5 1.7-2.5 3-4z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>',
+    "Runecrafting": '<path d="M12 3 20 12 12 21 4 12Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M12 8v8M8.5 12h7" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>',
+    "Farming": '<path d="M12 21v-8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M12 13c0-3.5-2.5-5.5-6-5.5.3 3.5 2.5 5.5 6 5.5z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><path d="M12 10c0-3 2.2-5 5.5-5-.2 3-2.2 5-5.5 5z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>',
+    "Fishing": '<path d="M4 12c3-4 10-4 13 0-3 4-10 4-13 0z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="M17 12l4-3v6z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><circle cx="7.5" cy="11.3" r=".8" fill="currentColor" stroke="none"/>',
+    "Agility": '<path d="M4 20c3 0 3-6 7-6s2 6 6 6 3-8 3-8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="18" cy="6" r="1.4" fill="currentColor" stroke="none"/>'
+  };
+  function skillSvg(name){ return SKILL_ICONS[name] ? '<svg viewBox="0 0 24 24" aria-hidden="true">'+SKILL_ICONS[name]+'</svg>' : ""; }
 
   // ---------- build the unified, searchable entry list ----------
   var ENTRIES = [];
@@ -458,8 +483,8 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
   });
 
   // ---------- card rendering ----------
-  function cardHeader(e, badge){
-    return '<button type="button" data-open="'+e.id+'">'+(badge||"")+'<h2>'+esc(e.name)+'</h2>'+
+  function cardHeader(e, badge, icon){
+    return '<button type="button" data-open="'+e.id+'">'+(badge||"")+(icon||"")+'<h2>'+esc(e.name)+'</h2>'+
       (e.sub ? '<span class="sub">'+esc(e.sub)+'</span>' : '')+'</button>';
   }
   function cardWrap(e, headerHtml, bodyHtml){
@@ -469,7 +494,7 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
   function renderCard(e){
     if (e.kind === "skill"){
       var body = '<div class="r"><div class="fk">'+esc(e.cat)+'</div><div class="fv">'+esc(e.desc)+'</div></div>';
-      return cardWrap(e, cardHeader(e, null), body);
+      return cardWrap(e, cardHeader(e, null, '<span class="card-icon">'+skillSvg(e.name)+'</span>'), body);
     }
     if (e.kind === "region"){
       var areas = e.areas.length ? '<div class="pillrow">'+e.areas.map(function(a){return '<span class="pill">'+esc(a)+'</span>'}).join("")+'</div>' : "";
@@ -579,7 +604,7 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
     var max = released.length * 99;
     var rows = released.map(function(s){
       var lvl = skillLevel(s[0]);
-      return '<div class="fd" data-skill="'+esc(s[0])+'"><div class="nm">'+esc(s[0])+'<span class="cat">'+esc(s[1])+'</span></div>'+
+      return '<div class="fd" data-skill="'+esc(s[0])+'"><span class="fd-icon">'+skillSvg(s[0])+'</span><div class="nm">'+esc(s[0])+'<span class="cat">'+esc(s[1])+'</span></div>'+
         '<div class="stp"><button data-d="-1" aria-label="Decrease">−</button><span class="v">'+lvl+'</span><button data-d="1" aria-label="Increase">+</button></div></div>';
     }).join("");
     return '<div class="tk-goal"><div class="t"><b>Total level</b><span>'+total+' / '+max+'</span></div>'+

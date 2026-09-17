@@ -206,7 +206,11 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
 .fd .stp{margin-left:auto;display:flex;align-items:center;gap:.3rem;flex-shrink:0}
 .fd .stp button{width:28px;height:28px;border:1px solid var(--edge-dark);background:var(--panel2);color:var(--gold);border-radius:var(--r);font-size:16px;font-weight:700;line-height:1;cursor:pointer;padding:0}
 .fd .stp button:active{background:var(--gold);color:var(--bg)}
-.fd .stp .v{min-width:34px;text-align:center;font-size:15px;color:var(--gold);font-variant-numeric:tabular-nums;font-weight:700;font-family:var(--head)}
+.fd .stp .v{min-width:34px;text-align:center;font-size:15px;color:var(--gold);font-variant-numeric:tabular-nums;font-weight:700;font-family:var(--head);display:inline-block}
+@keyframes tickUp{0%{transform:scale(1.55)}55%{transform:scale(1.15)}100%{transform:scale(1)}}
+@keyframes tickDown{0%{transform:scale(1.35);color:var(--red)}55%{transform:scale(1.1);color:var(--red)}100%{transform:scale(1)}}
+.fd .stp .v.tick-up{animation:tickUp .3s cubic-bezier(.2,.9,.3,1) 1}
+.fd .stp .v.tick-down{animation:tickDown .28s cubic-bezier(.2,.9,.3,1) 1}
 .fdwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);box-shadow:var(--shadow);margin-bottom:.9rem;overflow:hidden}
 
 .tk-head{margin:1rem 0 .4rem}
@@ -607,9 +611,20 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
       return '<div class="fd" data-skill="'+esc(s[0])+'"><span class="fd-icon">'+skillSvg(s[0])+'</span><div class="nm">'+esc(s[0])+'<span class="cat">'+esc(s[1])+'</span></div>'+
         '<div class="stp"><button data-d="-1" aria-label="Decrease">−</button><span class="v">'+lvl+'</span><button data-d="1" aria-label="Increase">+</button></div></div>';
     }).join("");
-    return '<div class="tk-goal"><div class="t"><b>Total level</b><span>'+total+' / '+max+'</span></div>'+
+    return '<div class="tk-goal" id="skillGoal"><div class="t"><b>Total level</b><span>'+total+' / '+max+'</span></div>'+
       '<div class="bar'+(total>=max?" done":"")+'"><i style="width:'+Math.round(total/max*100)+'%"></i></div></div>'+
       '<div class="fdwrap">'+rows+'</div>';
+  }
+  function updateSkillTotal(){
+    var released = window.WILDS_SKILLS || [];
+    var total = released.reduce(function(s,r){ return s + skillLevel(r[0]); }, 0);
+    var max = released.length * 99;
+    var goal = document.getElementById("skillGoal");
+    if (!goal) return;
+    goal.querySelector(".t span").textContent = total + " / " + max;
+    var bar = goal.querySelector(".bar");
+    bar.classList.toggle("done", total >= max);
+    bar.querySelector("i").style.width = Math.round(total / max * 100) + "%";
   }
 
   // ---------- tracker: quests ----------
@@ -749,8 +764,14 @@ main{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bo
     if (stp){
       var row = stp.closest(".fd");
       var name = row.dataset.skill;
-      setSkillLevel(name, skillLevel(name) + parseInt(stp.dataset.d, 10));
-      drawTracker();
+      var d = parseInt(stp.dataset.d, 10);
+      setSkillLevel(name, skillLevel(name) + d);
+      var v = row.querySelector(".v");
+      v.textContent = skillLevel(name);
+      v.classList.remove("tick-up", "tick-down");
+      void v.offsetWidth; // restart the animation even on repeated same-direction taps
+      v.classList.add(d > 0 ? "tick-up" : "tick-down");
+      updateSkillTotal();
       return;
     }
     var qrow = e.target.closest(".row[data-qkey]");

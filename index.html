@@ -67,23 +67,6 @@ body{
   padding-bottom:.7rem;flex-shrink:0;
   border-bottom:1px solid var(--edge-dark);
 }
-.hero .greet{display:none}
-.hero .mark{display:none}
-.hero.full{
-  position:static;flex:1 1 auto;min-height:0;border-bottom:0;
-  display:flex;flex-direction:column;justify-content:center;padding-bottom:8vh;
-}
-.hero.full .mark{
-  display:block;width:56px;height:56px;margin:0 auto .9rem;color:var(--gold);
-}
-.hero.full .greet{
-  display:block;font-family:var(--head);font-size:26px;font-weight:600;
-  color:var(--gold);text-align:center;margin:0 0 1.2rem;letter-spacing:.02em;
-  text-shadow:0 1px 0 var(--edge-dark);
-}
-.hero.full .searchbox input{font-size:18px;padding:1.1rem 2.6rem 1.1rem 1.1rem}
-.hero.full ~ main{padding-bottom:0}
-
 .searchbox{position:relative}
 .searchbox input{
   width:100%;background:var(--panel2);border:1px solid var(--edge-dark);
@@ -100,13 +83,6 @@ body{
 }
 .searchbox .clear.on{display:block}
 
-.chips{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1.1rem;justify-content:center}
-.chips button{
-  background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);
-  color:var(--gold);font-family:var(--ui);font-size:13px;font-weight:600;
-  padding:.5rem .85rem;cursor:pointer;box-shadow:inset 0 0 0 1px rgba(122,103,72,.3);
-}
-.chips button:active{opacity:.6}
 
 main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bottom))}
 .sect{display:flex;align-items:baseline;gap:.5rem;margin:.9rem 0 .5rem}
@@ -132,8 +108,14 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .r{padding:.5rem 0}
 .r.block{border-top:1px solid var(--edge-dark);margin-top:.3rem;padding-top:.6rem}
 .fk{font-size:11px;font-weight:700;color:var(--text3);text-transform:uppercase;letter-spacing:.05em}
+.fk.subhead{display:block;margin:.7rem 0 .3rem;color:var(--gold)}
+.fk.subhead:first-child{margin-top:0}
 .fv{font-size:15px;line-height:1.5;color:var(--text2)}
 .wide{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.45rem .6rem;margin:.35rem 0}
+.wide .fk{margin-bottom:.15rem}
+.steps{margin:.3rem 0 0;padding-left:1.3rem;color:var(--text2);font-size:15px;line-height:1.6}
+.steps li{margin-bottom:.4rem}
+.steps li::marker{color:var(--gold);font-weight:700}
 .pill{display:inline-block;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.3rem .6rem;font-size:12px;margin:.15rem .3rem .15rem 0;color:var(--text2)}
 .pillrow{margin:.3rem 0}
 .note{margin-top:.6rem;padding:.6rem .7rem;background:var(--note-bg);border:1px solid rgba(255,176,0,.3);border-radius:var(--r);font-size:13px;color:var(--note-fg)}
@@ -171,7 +153,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tabbar button.on{background:var(--gold-dim);color:var(--gold);box-shadow:inset 0 2px 0 var(--gold)}
 .tabbar button:active{background:var(--panel3)}
 
-/* checklist rows: quests, achievements, bestiary sightings */
+/* checklist rows: quests, bestiary sightings */
 .chk{margin-top:.2rem}
 .chk .row{display:flex;align-items:flex-start;gap:.6rem;padding:.5rem .1rem;cursor:pointer;border-bottom:1px solid var(--edge-dark)}
 .chk .row:last-child{border-bottom:0}
@@ -255,7 +237,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 @media (max-width:520px){
-  .hero.full .greet{font-size:22px}
   .card>button{flex-direction:column;align-items:flex-start;gap:.15rem}
   .card .sub{margin-left:0;text-align:left;max-width:100%}
 }
@@ -265,18 +246,11 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 
 <section class="hero" id="hero">
   <div class="wrap">
-    <svg class="mark" viewBox="0 0 64 64" aria-hidden="true">
-      <path d="M4 44 L20 18 L32 34 L44 12 L60 44 Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
-      <circle cx="46" cy="14" r="4.2" fill="currentColor"/>
-      <path d="M4 44 H60" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".6"/>
-    </svg>
-    <h2 class="greet">Welcome to Ashenfall.</h2>
     <div class="searchbox">
       <input id="q" type="search" autocomplete="off" autocapitalize="off" spellcheck="false"
              placeholder="Search skills, quests, creatures…" aria-label="Search">
       <button class="clear" id="clear" aria-label="Clear search">&times;</button>
     </div>
-    <div class="chips" id="chips"></div>
   </div>
 </section>
 
@@ -292,21 +266,19 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 <script src="level-unlocks.js" onerror="this.remove()"></script>
 <script src="locations.js"></script>
 <script src="quests.js"></script>
+<script src="quest-walkthroughs.js" onerror="this.remove()"></script>
 <script src="bestiary.js"></script>
 <script src="bestiary-detail.js" onerror="this.remove()"></script>
 <script src="crafting.js"></script>
 <script src="items.js" onerror="this.remove()"></script>
-<script src="achievements.js"></script>
 <script>
 (function(){
 
   var TABS = [
     {key:"skills", label:"Skills"},
-    {key:"bestiary", label:"Bestiary"},
     {key:"quests", label:"Quests"},
     {key:"regions", label:"Regions"},
     {key:"crafting", label:"Crafting"},
-    {key:"achievements", label:"Achievements"},
     {key:"tracker", label:"Progress"}
   ];
   var TAB_LABEL = {}; TABS.forEach(function(t){ TAB_LABEL[t.key] = t.label; });
@@ -314,13 +286,10 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   // Original line-art icons (not the game's own assets) paired with the
   // word labels in the tab bar.
   var ICONS = {
-    home: '<path d="M4 11 12 4l8 7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 10v9h12v-9" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 19v-5h4v5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>',
     skills: '<path d="M12 4l6.5 2.6v5c0 4.4-2.8 7.6-6.5 8.9-3.7-1.3-6.5-4.5-6.5-8.9v-5L12 4z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9.3 12.2l1.9 1.9 3.5-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>',
-    bestiary: '<path d="M12 5c-3.5 0-6 2.7-6 6.2 0 3 1.7 5.3 3.6 7l.6.5.6.6.6-.6.6-.5c1.9-1.7 3.6-4 3.6-7C18 7.7 15.5 5 12 5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="9.7" cy="10.6" r="1" fill="currentColor" stroke="none"/><circle cx="14.3" cy="10.6" r="1" fill="currentColor" stroke="none"/><path d="M9.5 14c1 .8 4 .8 5 0" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>',
     quests: '<path d="M7 3.5h8.5a1.5 1.5 0 0 1 1.5 1.5v14a1.5 1.5 0 0 1-1.5 1.5H8.5A1.5 1.5 0 0 1 7 19V3.5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9.5 8h5M9.5 11h5M9.5 14h3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>',
     regions: '<path d="M9 4 4 6v14l5-2 6 2 5-2V4l-5 2-6-2z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9 4v14M15 6v14" stroke="currentColor" stroke-width="1.6"/>',
     crafting: '<path d="M15.5 3.5 20.5 8.5 18 11 13 6l2.5-2.5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M13.5 7.5 5 16v3h3l8.5-8.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>',
-    achievements: '<path d="M8 4h8v4a4 4 0 0 1-8 0V4z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M8 5H5.5A1.5 1.5 0 0 0 4 6.5 4 4 0 0 0 8 10M16 5h2.5A1.5 1.5 0 0 1 20 6.5 4 4 0 0 1 16 10" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M12 12v3M9 20h6M10 17h4v3h-4z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>',
     tracker: '<path d="M5 19V10M11 19V5M17 19v-7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>'
   };
 
@@ -346,6 +315,21 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   var ENTRIES = [];
   var DETAIL = window.WILDS_BESTIARY_DETAIL || {};
 
+  // Bestiary lives inside Regions now (one fewer tab, and creatures actually
+  // depend on where you are). Only creatures with a confirmed region field
+  // in bestiary-detail.js get attributed to a specific region — nothing here
+  // is guessed from faction name alone.
+  function creaturesForRegion(regionName){
+    var out = [];
+    (window.WILDS_BESTIARY || []).forEach(function(g){
+      g.names.forEach(function(n){
+        var r = DETAIL[n] && DETAIL[n].region;
+        if (r && r.indexOf(regionName) !== -1) out.push(n);
+      });
+    });
+    return out;
+  }
+
   (window.WILDS_SKILLS || []).forEach(function(s){
     ENTRIES.push({ kind:"skill", tab:"skills", id:"skill:"+s[0], name:s[0], cat:s[1], desc:s[2] });
   });
@@ -367,13 +351,17 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   });
 
   (window.WILDS_BESTIARY || []).forEach(function(g){
-    ENTRIES.push({ kind:"bestiary", tab:"bestiary", id:"bestiary:"+g.group, name:g.group,
+    ENTRIES.push({ kind:"bestiary", tab:"regions", id:"bestiary:"+g.group, name:g.group,
       sub:g.names.length+" named", names:g.names });
   });
 
+  // Individual stations/items are searchable (tab left blank so they never
+  // show up as their own flat rows when just browsing Crafting — that flat
+  // 135-row list was the whole problem) but each links back to its category
+  // card via data-open handling the same way any other card does.
   function stations(list, stype){
     (list||[]).forEach(function(s){
-      ENTRIES.push({ kind:"station", tab:"crafting", id:"station:"+s[0], name:s[0], sub:stype, desc:s[1] });
+      ENTRIES.push({ kind:"station", tab:"", id:"station:"+s[0], name:s[0], sub:stype, desc:s[1] });
     });
   }
   stations(window.WILDS_STATIONS_CRAFTING, "Crafting station");
@@ -381,12 +369,28 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   stations(window.WILDS_STATION_IMPROVEMENTS, "Improvement");
 
   (window.WILDS_EQUIPMENT || []).forEach(function(it, i){
-    ENTRIES.push({ kind:"item", tab:"crafting", id:"item:"+i+":"+it.name, name:it.name,
+    ENTRIES.push({ kind:"item", tab:"", id:"item:"+i+":"+it.name, name:it.name,
       sub:it.tier, slot:it.slot, style:it.style, note:it.note||"" });
   });
 
-  (window.WILDS_ACHIEVEMENTS || []).forEach(function(a){
-    ENTRIES.push({ kind:"achievement", tab:"achievements", id:"ach:"+a[0], name:a[0], req:a[1] });
+  // Crafting browses as categories, not a flat list: one card per station
+  // group, one card per material tier (itself broken into slot sub-groups
+  // inside the card) — "small boxes" instead of 135 rows to scroll past.
+  ENTRIES.push({ kind:"station-category", tab:"crafting", id:"cat:stations-crafting", name:"Crafting Stations",
+    sub:(window.WILDS_STATIONS_CRAFTING||[]).length+" stations", list:window.WILDS_STATIONS_CRAFTING||[] });
+  ENTRIES.push({ kind:"station-category", tab:"crafting", id:"cat:stations-processing", name:"Processing Stations",
+    sub:(window.WILDS_STATIONS_PROCESSING||[]).length+" stations", list:window.WILDS_STATIONS_PROCESSING||[] });
+  ENTRIES.push({ kind:"station-category", tab:"crafting", id:"cat:stations-improvements", name:"Improvements",
+    sub:(window.WILDS_STATION_IMPROVEMENTS||[]).length+" items", list:window.WILDS_STATION_IMPROVEMENTS||[] });
+
+  var TIER_ORDER = ["Stone","Bronze","Iron","Steel","Mithril","Adamant","Black metal","Wood (Fletching)","Obsidian","Dragonhide","Mystic","Kalphite","Trinket","Unique"];
+  var equipByTier = {};
+  (window.WILDS_EQUIPMENT || []).forEach(function(it){ (equipByTier[it.tier] = equipByTier[it.tier] || []).push(it); });
+  TIER_ORDER.forEach(function(t){
+    var list = equipByTier[t];
+    if (!list || !list.length) return;
+    ENTRIES.push({ kind:"equip-tier", tab:"crafting", id:"cat:tier:"+t, name:t+" Equipment",
+      sub:list.length+" items", list:list });
   });
 
   // ---------- search ----------
@@ -422,7 +426,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   var LS_KEY = "wilds-state-v1";
   var STATE = loadState();
   function defaultState(){
-    return { skills:{}, quests:{}, achievements:{}, bestiary:{}, code:"" };
+    return { skills:{}, quests:{}, bestiary:{}, code:"" };
   }
   function loadState(){
     try {
@@ -444,11 +448,13 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   var openAreas = {};
 
   // ---------- view state ----------
-  var view = { tab: null, q: "" };
+  // Progress is the app's home now — there's no separate landing screen to
+  // navigate away from and back to.
+  var view = { tab: "tracker", q: "" };
 
   var $ = function(sel, root){ return (root||document).querySelector(sel); };
-  var qInput = $("#q"), clearBtn = $("#clear"), hero = $("#hero"), resultsEl = $("#results"),
-      countEl = $("#count"), trackerEl = $("#tracker"), chipsEl = $("#chips"), tabbarEl = $("#tabbar");
+  var qInput = $("#q"), clearBtn = $("#clear"), resultsEl = $("#results"),
+      countEl = $("#count"), trackerEl = $("#tracker"), tabbarEl = $("#tabbar");
 
   function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g, function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c];
@@ -457,33 +463,18 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   // ---------- bottom tab bar ----------
   function tabSvg(iconKey){ return '<svg viewBox="0 0 24 24" aria-hidden="true">'+ICONS[iconKey]+'</svg>'; }
   function drawTabbar(){
-    var html = '<button data-home="1" class="'+(!view.tab ? "on":"")+'">'+tabSvg("home")+'<span>Home</span></button>';
-    html += TABS.map(function(t){
+    tabbarEl.innerHTML = TABS.map(function(t){
       return '<button data-tab="'+t.key+'" class="'+(view.tab===t.key ? "on":"")+'">'+tabSvg(t.key)+'<span>'+esc(t.label)+'</span></button>';
     }).join("");
-    tabbarEl.innerHTML = html;
   }
   function goTab(key){
     view.tab = key; view.q = ""; qInput.value = ""; clearBtn.classList.remove("on");
     window.scrollTo(0,0); draw();
   }
   tabbarEl.addEventListener("click", function(e){
-    var home = e.target.closest("button[data-home]");
-    if (home){ goTab(null); return; }
     var b = e.target.closest("button[data-tab]");
     if (b) goTab(b.dataset.tab);
   });
-  chipsEl.addEventListener("click", function(e){
-    var b = e.target.closest("button[data-tab]");
-    if (b) goTab(b.dataset.tab);
-  });
-
-  // ---------- landing chips ----------
-  function drawChips(){
-    chipsEl.innerHTML = TABS.filter(function(t){return t.key!=="tracker"}).map(function(t){
-      return '<button data-tab="'+t.key+'">'+t.label+'</button>';
-    }).join("") + '<button data-tab="tracker">My progress</button>';
-  }
 
   // ---------- search box ----------
   qInput.addEventListener("input", function(){
@@ -503,6 +494,20 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   function cardWrap(e, headerHtml, bodyHtml){
     return '<div class="card" data-id="'+e.id+'">'+headerHtml+'<div class="body" hidden><div class="rows">'+bodyHtml+'</div></div></div>';
   }
+  function questWalkthroughHtml(name){
+    var w = window.WILDS_QUEST_WALKTHROUGHS && window.WILDS_QUEST_WALKTHROUGHS[name];
+    if (!w) return '';
+    var html = '';
+    if (w.requirements) html += '<div class="wide"><div class="fk">Requirements</div><div class="fv">'+esc(w.requirements)+'</div></div>';
+    if (w.rewards) html += '<div class="wide"><div class="fk">Rewards</div><div class="fv">'+esc(w.rewards)+'</div></div>';
+    if (w.steps && w.steps.length){
+      html += '<div class="r block"><div class="fk">Walkthrough</div><ol class="steps">'+
+        w.steps.map(function(s){ return '<li>'+esc(s)+'</li>'; }).join('')+'</ol></div>';
+    } else if (w.stub){
+      html += '<div class="note">Detailed walkthrough not yet documented for this quest.</div>';
+    }
+    return html;
+  }
 
   function renderCard(e){
     if (e.kind === "skill"){
@@ -513,14 +518,21 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     }
     if (e.kind === "region"){
       var areas = e.areas.length ? '<div class="pillrow">'+e.areas.map(function(a){return '<span class="pill">'+esc(a)+'</span>'}).join("")+'</div>' : "";
+      var creatures = creaturesForRegion(e.name);
+      var creatureHtml = creatures.length ? '<div class="r block"><div class="fk">Creatures confirmed here</div>'+
+        creatures.map(function(n){
+          var d = DETAIL[n];
+          return '<div class="wide"><span class="fk">'+esc(n)+'</span><span class="fv"> — '+esc([d.level,d.style].filter(Boolean).join(" · "))+(d.drop?' — drops '+esc(d.drop):'')+'</span></div>';
+        }).join("")+'</div>' : "";
       var rbody = '<div class="r"><div class="fv">'+esc(e.blurb)+'</div></div>'+
         (e.areas.length ? '<div class="r"><div class="fk">Sub-areas</div>'+areas+'</div>' : "")+
-        (e.features ? '<div class="r"><div class="fk">Notable</div><div class="fv">'+esc(e.features)+'</div></div>' : "");
+        (e.features ? '<div class="r"><div class="fk">Notable</div><div class="fv">'+esc(e.features)+'</div></div>' : "")+
+        creatureHtml;
       return cardWrap(e, cardHeader(e, null), rbody);
     }
     if (e.kind === "quest"){
       var badge = '<span class="tagline">'+(e.type==="primary"?"Primary":"Secondary")+'</span>';
-      var qbody = '<div class="r"><div class="fv">'+esc(e.desc)+'</div></div>';
+      var qbody = '<div class="r"><div class="fv">'+esc(e.desc)+'</div></div>'+questWalkthroughHtml(e.name);
       return cardWrap(e, cardHeader(e, badge), qbody);
     }
     if (e.kind === "bestiary"){
@@ -544,9 +556,23 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
         (e.note ? '<div class="fv">'+esc(e.note)+'</div>' : '')+'</div>';
       return cardWrap(e, cardHeader(e, null), ibody);
     }
-    if (e.kind === "achievement"){
-      var abody = '<div class="r"><div class="fk">Unlocks by</div><div class="fv">'+esc(e.req)+'</div></div>';
-      return cardWrap(e, cardHeader(e, null), abody);
+    if (e.kind === "station-category"){
+      var stbody = '<div class="r">'+e.list.map(function(s){
+        return '<div class="wide"><span class="fk">'+esc(s[0])+'</span><span class="fv"> — '+esc(s[1])+'</span></div>';
+      }).join("")+'</div>';
+      return cardWrap(e, cardHeader(e), stbody);
+    }
+    if (e.kind === "equip-tier"){
+      var SLOT_ORDER = ["Weapon","Off-hand","Armour - Head","Armour - Body","Armour - Legs","Ammo","Ring","Amulet"];
+      var bySlot = {};
+      e.list.forEach(function(it){ (bySlot[it.slot] = bySlot[it.slot] || []).push(it); });
+      var etbody = '<div class="r">'+SLOT_ORDER.filter(function(s){ return bySlot[s]; }).map(function(slot){
+        return '<div class="fk subhead">'+esc(slot)+'</div>'+bySlot[slot].map(function(it){
+          return '<div class="wide"><span class="fk">'+esc(it.name)+(it.style?' · '+esc(it.style):'')+'</span>'+
+            (it.note ? '<span class="fv"> — '+esc(it.note)+'</span>' : '')+'</div>';
+        }).join("");
+      }).join("")+'</div>';
+      return cardWrap(e, cardHeader(e), etbody);
     }
     return "";
   }
@@ -577,9 +603,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   function draw(){
     drawTabbar();
     var q = view.q.trim();
-    var showLanding = !view.tab && !q;
-    hero.classList.toggle("full", showLanding);
-    if (showLanding) drawChips();
     trackerEl.hidden = true;
 
     if (view.tab === "tracker" && !q){
@@ -593,18 +616,18 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     if (q){
       list = search(q);
       title = "Results";
-    } else if (view.tab){
+    } else {
       list = ENTRIES.filter(function(e){ return e.tab === view.tab; });
       title = TAB_LABEL[view.tab];
-    } else {
-      list = []; title = "";
     }
 
-    var extras = (!q && view.tab === "crafting") ? craftingExtras() : "";
+    var extras = "";
+    if (!q && view.tab === "crafting") extras = craftingExtras();
+    if (!q && view.tab === "regions") extras = '<div class="note">Creatures with a confirmed location are listed inside their region’s card. Everything else is grouped by faction below, since its exact region isn’t confirmed yet.</div>';
 
     if (!list.length && !extras){
       countEl.textContent = "";
-      resultsEl.innerHTML = showLanding ? "" : '<div class="empty"><b>Nothing here yet</b>Try a different search.</div>';
+      resultsEl.innerHTML = '<div class="empty"><b>Nothing here yet</b>Try a different search.</div>';
       return;
     }
 
@@ -688,19 +711,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     return primaryHtml + '<div class="tk-section"><h3>Secondary, by region</h3>'+secHtml+'</div>';
   }
 
-  // ---------- tracker: achievements ----------
-  function achievementsBlock(){
-    var list = window.WILDS_ACHIEVEMENTS || [];
-    var done = list.filter(function(a){ return STATE.achievements[a[0]]; }).length;
-    var rows = list.map(function(a){
-      var on = !!STATE.achievements[a[0]];
-      return '<div class="row'+(on?" on":"")+'" data-akey="'+esc(a[0])+'"><div class="box">✓</div><div class="t">'+esc(a[0])+'<span class="req">'+esc(a[1])+'</span></div></div>';
-    }).join("");
-    return '<div class="tk-goal'+(done===list.length?" hit":"")+'"><div class="t"><b>Achievements</b><span>'+done+' / '+list.length+'</span></div>'+
-      '<div class="bar'+(done===list.length?" done":"")+'"><i style="width:'+Math.round(done/list.length*100)+'%"></i></div></div>'+
-      '<div class="area open"><div class="body" style="padding-top:.6rem"><div class="chk">'+rows+'</div></div></div>';
-  }
-
   // ---------- tracker: bestiary sightings (personal log, not an in-game stat) ----------
   function bestiaryBlock(){
     var groups = window.WILDS_BESTIARY || [];
@@ -725,7 +735,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     return "WILDS-"+part()+"-"+part();
   }
   var syncMsg = "";
-  function syncPayload(){ return { skills: STATE.skills, quests: STATE.quests, achievements: STATE.achievements, bestiary: STATE.bestiary }; }
+  function syncPayload(){ return { skills: STATE.skills, quests: STATE.quests, bestiary: STATE.bestiary }; }
   var syncTimer = null;
   function syncSoon(){
     if (!STATE.code) return;
@@ -744,17 +754,17 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     if (!STATE.code) return;
     fetch("/api/sync?code="+encodeURIComponent(STATE.code)).then(function(r){ return r.json(); }).then(function(r){
       if (r.error){ syncMsg = r.error === "not found" ? "No data saved under that code yet." : ("Pull failed: "+r.error); drawTracker(); return; }
-      STATE.skills = r.skills||{}; STATE.quests = r.quests||{}; STATE.achievements = r.achievements||{}; STATE.bestiary = r.bestiary||{};
+      STATE.skills = r.skills||{}; STATE.quests = r.quests||{}; STATE.bestiary = r.bestiary||{};
       saveState(); syncMsg = "Pulled latest."; drawTracker();
     }).catch(function(){ syncMsg = "Pull failed — offline?"; drawTracker(); });
   }
 
   var bkMsg = "", bkMsgCls = "";
-  function backupJSON(){ return JSON.stringify({ skills: STATE.skills, quests: STATE.quests, achievements: STATE.achievements, bestiary: STATE.bestiary }, null, 2); }
+  function backupJSON(){ return JSON.stringify({ skills: STATE.skills, quests: STATE.quests, bestiary: STATE.bestiary }, null, 2); }
   function restoreBackup(text){
     try {
       var p = JSON.parse(text);
-      STATE.skills = p.skills||{}; STATE.quests = p.quests||{}; STATE.achievements = p.achievements||{}; STATE.bestiary = p.bestiary||{};
+      STATE.skills = p.skills||{}; STATE.quests = p.quests||{}; STATE.bestiary = p.bestiary||{};
       saveState(); bkMsg = "Restored."; bkMsgCls = "ok";
     } catch(e){ bkMsg = "That's not valid backup JSON."; bkMsgCls = "bad"; }
     drawTracker();
@@ -785,7 +795,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       '<div class="tk-head"><h2>My progress</h2></div>'+
       '<div class="tk-section"><h3>Skills</h3>'+skillsBlock()+'</div>'+
       '<div class="tk-section"><h3>Quests</h3>'+questsBlock()+'</div>'+
-      '<div class="tk-section"><h3>Achievements</h3>'+achievementsBlock()+'</div>'+
       '<div class="tk-section"><h3>Bestiary sightings</h3>'+bestiaryBlock()+'</div>'+
       syncBlock()+backupBlock()+
       '<button class="tk-reset" id="tkReset">Reset all progress</button>';
@@ -824,12 +833,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     if (qrow){
       var key = qrow.dataset.qkey;
       if (STATE.quests[key]) delete STATE.quests[key]; else STATE.quests[key] = true;
-      saveState(); drawTracker(); return;
-    }
-    var arow = e.target.closest(".row[data-akey]");
-    if (arow){
-      var akey = arow.dataset.akey;
-      if (STATE.achievements[akey]) delete STATE.achievements[akey]; else STATE.achievements[akey] = true;
       saveState(); drawTracker(); return;
     }
     var brow = e.target.closest(".row[data-bkey]");
@@ -876,7 +879,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       return;
     }
     if (e.target.id === "tkReset"){
-      if (confirm("Clear all skill levels, quest and achievement checks, and your sync code? This can't be undone locally.")){
+      if (confirm("Clear all skill levels, quest checks, and your sync code? This can't be undone locally.")){
         STATE = defaultState(); saveState(); drawTracker();
       }
     }

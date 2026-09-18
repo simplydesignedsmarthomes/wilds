@@ -217,6 +217,23 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tk-section{margin-top:1.6rem}
 .tk-section h3{font-family:var(--head);font-size:17px;font-weight:700;letter-spacing:.01em;margin:0 0 .5rem;color:var(--gold)}
 
+/* Progress home: a grid of tappable summary boxes instead of one long
+   stacked page — tap a box to reveal its full list below the grid. */
+.tk-grid{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;margin-bottom:1rem}
+.tk-box{
+  display:flex;flex-direction:column;gap:.15rem;text-align:left;cursor:pointer;
+  background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);
+  box-shadow:var(--shadow);padding:.85rem;color:inherit;font-family:inherit;
+}
+.tk-box.open{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold)}
+.tk-box:active{background:var(--panel3)}
+.tk-box-label{font-family:var(--head);font-size:12px;font-weight:700;color:var(--gold);text-transform:uppercase;letter-spacing:.04em}
+.tk-box-stat{font-family:var(--head);font-size:21px;font-weight:700;color:var(--text);font-variant-numeric:tabular-nums}
+.tk-box-sub{font-size:12px;color:var(--text3);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tk-box .bar{margin-top:.3rem}
+.tk-panel h3{font-family:var(--head);font-size:18px;font-weight:700;letter-spacing:.01em;margin:0 0 .6rem;color:var(--gold)}
+.tk-panel .tk-section:first-child{margin-top:0}
+
 .sy{text-align:center;margin-bottom:.2rem}
 .sy b{display:block;font-family:var(--mono);font-size:19px;font-weight:600;letter-spacing:.03em;color:var(--gold);padding:.5rem 0;word-break:break-all}
 #syIn{width:100%;margin-top:.6rem;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);color:var(--text);font-family:var(--mono);font-size:16px;padding:.6rem;text-align:center;letter-spacing:.03em}
@@ -275,11 +292,11 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 (function(){
 
   var TABS = [
+    {key:"tracker", label:"Progress"},
     {key:"skills", label:"Skills"},
     {key:"quests", label:"Quests"},
     {key:"regions", label:"Regions"},
-    {key:"crafting", label:"Crafting"},
-    {key:"tracker", label:"Progress"}
+    {key:"crafting", label:"Crafting"}
   ];
   var TAB_LABEL = {}; TABS.forEach(function(t){ TAB_LABEL[t.key] = t.label; });
 
@@ -446,6 +463,9 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   // rebuilt fresh each session, but must survive a drawTracker() re-render
   // triggered by clicking something *inside* an open panel.
   var openAreas = {};
+  // Which of the four Progress boxes (Skills/Quests/Bestiary/Sync) is
+  // currently expanded below the grid. Only one at a time.
+  var openBox = null;
 
   // ---------- view state ----------
   // Progress is the app's home now — there's no separate landing screen to
@@ -655,10 +675,30 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     var body = unlockListHtml(name, lvl);
     return '<div class="skill-unlocks" data-skill-panel="'+esc(name)+'" '+(open?'':'hidden')+'>'+body+'</div>';
   }
-  function skillsBlock(){
+  function skillsTotal(){
     var released = window.WILDS_SKILLS || [];
     var total = released.reduce(function(s,r){ return s + skillLevel(r[0]); }, 0);
-    var max = released.length * 99;
+    return { done: total, total: released.length * 99 };
+  }
+  function questsTotal(){
+    var primary = window.WILDS_QUESTS_PRIMARY || [];
+    var done = primary.filter(function(p){ return STATE.quests["p:"+p[0]]; }).length;
+    var count = primary.length;
+    var regions = window.WILDS_QUESTS_SECONDARY || {};
+    Object.keys(regions).forEach(function(r){
+      regions[r].forEach(function(n){ count++; if (STATE.quests["s:"+n]) done++; });
+    });
+    return { done: done, total: count };
+  }
+  function bestiaryTotal(){
+    var groups = window.WILDS_BESTIARY || [];
+    var done = 0, count = 0;
+    groups.forEach(function(g){ g.names.forEach(function(n){ count++; if (STATE.bestiary[n]) done++; }); });
+    return { done: done, total: count };
+  }
+
+  function skillsBlock(){
+    var released = window.WILDS_SKILLS || [];
     var rows = released.map(function(s){
       var lvl = skillLevel(s[0]);
       var open = !!openAreas["skill:"+s[0]];
@@ -668,20 +708,14 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
         '<div class="stp"><button data-d="-1" aria-label="Decrease">−</button><span class="v">'+lvl+'</span><button data-d="1" aria-label="Increase">+</button></div></div>'+
         skillUnlocksPanel(s[0], lvl);
     }).join("");
-    return '<div class="tk-goal" id="skillGoal"><div class="t"><b>Total level</b><span>'+total+' / '+max+'</span></div>'+
-      '<div class="bar'+(total>=max?" done":"")+'"><i style="width:'+Math.round(total/max*100)+'%"></i></div></div>'+
-      '<div class="fdwrap">'+rows+'</div>';
+    return '<div class="fdwrap">'+rows+'</div>';
   }
   function updateSkillTotal(){
-    var released = window.WILDS_SKILLS || [];
-    var total = released.reduce(function(s,r){ return s + skillLevel(r[0]); }, 0);
-    var max = released.length * 99;
-    var goal = document.getElementById("skillGoal");
-    if (!goal) return;
-    goal.querySelector(".t span").textContent = total + " / " + max;
-    var bar = goal.querySelector(".bar");
-    bar.classList.toggle("done", total >= max);
-    bar.querySelector("i").style.width = Math.round(total / max * 100) + "%";
+    var sk = skillsTotal();
+    var stat = document.getElementById("boxStatSkills");
+    var bar = document.getElementById("boxBarSkills");
+    if (stat) stat.textContent = sk.done + " / " + sk.total;
+    if (bar){ bar.classList.toggle("done", sk.done >= sk.total); bar.querySelector("i").style.width = Math.round(sk.done / sk.total * 100) + "%"; }
   }
 
   // ---------- tracker: quests ----------
@@ -790,19 +824,43 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       '</div>';
   }
 
+  function tkBox(key, label, stat, sub, pct, statId, barId){
+    var open = openBox === key;
+    return '<button type="button" class="tk-box'+(open?" open":"")+'" data-box="'+key+'">'+
+      '<span class="tk-box-label">'+esc(label)+'</span>'+
+      '<span class="tk-box-stat"'+(statId?' id="'+statId+'"':'')+'>'+esc(stat)+'</span>'+
+      '<span class="tk-box-sub">'+esc(sub)+'</span>'+
+      (pct!=null ? '<div class="bar'+(pct>=100?" done":"")+'"'+(barId?' id="'+barId+'"':'')+'><i style="width:'+pct+'%"></i></div>' : '')+
+      '</button>';
+  }
   function drawTracker(){
-    trackerEl.innerHTML =
-      '<div class="tk-head"><h2>My progress</h2></div>'+
-      '<div class="tk-section"><h3>Skills</h3>'+skillsBlock()+'</div>'+
-      '<div class="tk-section"><h3>Quests</h3>'+questsBlock()+'</div>'+
-      '<div class="tk-section"><h3>Bestiary sightings</h3>'+bestiaryBlock()+'</div>'+
-      syncBlock()+backupBlock()+
-      '<button class="tk-reset" id="tkReset">Reset all progress</button>';
+    var sk = skillsTotal(), qt = questsTotal(), bt = bestiaryTotal();
+    var grid = '<div class="tk-grid">'+
+      tkBox("skills", "Skills", sk.done+" / "+sk.total, "Total level", Math.round(sk.done/sk.total*100), "boxStatSkills", "boxBarSkills")+
+      tkBox("quests", "Quests", qt.done+" / "+qt.total, "Completed", Math.round(qt.done/qt.total*100))+
+      tkBox("bestiary", "Bestiary", bt.done+" / "+bt.total, "Sightings logged", Math.round(bt.done/bt.total*100))+
+      tkBox("sync", "Sync & Backup", STATE.code ? "Connected" : "Not set up", STATE.code || "Cross-device saves", null)+
+      '</div>';
+
+    var panel = "";
+    if (openBox === "skills") panel = '<div class="tk-panel"><h3>Skills</h3>'+skillsBlock()+'</div>';
+    else if (openBox === "quests") panel = '<div class="tk-panel"><h3>Quests</h3>'+questsBlock()+'</div>';
+    else if (openBox === "bestiary") panel = '<div class="tk-panel"><h3>Bestiary sightings</h3>'+bestiaryBlock()+'</div>';
+    else if (openBox === "sync") panel = '<div class="tk-panel">'+syncBlock()+backupBlock()+'<button class="tk-reset" id="tkReset">Reset all progress</button></div>';
+
+    trackerEl.innerHTML = '<div class="tk-head"><h2>My progress</h2></div>'+grid+panel;
     var box = document.getElementById("bkBox");
     if (box) box.value = backupJSON();
   }
 
   trackerEl.addEventListener("click", function(e){
+    var boxBtn = e.target.closest("button[data-box]");
+    if (boxBtn){
+      var bkey = boxBtn.dataset.box;
+      openBox = (openBox === bkey) ? null : bkey;
+      drawTracker();
+      return;
+    }
     var stp = e.target.closest("button[data-d]");
     if (stp){
       var row = stp.closest(".fd");

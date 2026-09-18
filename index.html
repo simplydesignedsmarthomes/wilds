@@ -204,12 +204,12 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .fd .stp .v.tick-up{animation:tickUp .3s cubic-bezier(.2,.9,.3,1) 1}
 .fd .stp .v.tick-down{animation:tickDown .28s cubic-bezier(.2,.9,.3,1) 1}
 .fd-name{display:flex;align-items:center;gap:.5rem;flex:1;min-width:0;background:none;border:0;color:inherit;font:inherit;text-align:left;cursor:pointer;padding:0}
-.fd .chevron{margin-left:.2rem;color:var(--text3);font-size:16px;flex-shrink:0;transition:transform .15s ease}
-.fd.open .chevron{transform:rotate(90deg);color:var(--gold)}
-.skill-unlocks{padding:.5rem .8rem .7rem 2.7rem;border-bottom:1px solid var(--edge-dark);background:var(--panel2)}
-.skill-unlocks:last-child{border-bottom:0}
-.skill-unlocks .chk .row{padding:.35rem 0}
-.skill-unlocks .note{margin:0}
+.chevron-btn{margin-left:auto;flex-shrink:0;background:none;border:0;color:var(--text3);font-size:20px;line-height:1;cursor:pointer;padding:.2rem .3rem;transition:transform .15s ease}
+.chevron-btn.open{transform:rotate(90deg);color:var(--gold)}
+.quest-detail{padding:.5rem .8rem .7rem 2.7rem;border-bottom:1px solid var(--edge-dark);background:var(--panel2)}
+.quest-detail:last-child{border-bottom:0}
+.quest-detail .chk .row{padding:.35rem 0}
+.quest-detail .note{margin:0}
 .fdwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);box-shadow:var(--shadow);margin-bottom:.9rem;overflow:hidden}
 
 .tk-head{margin:1rem 0 .4rem}
@@ -325,8 +325,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 
   var TABS = [
     {key:"tracker", label:"Progress"},
-    {key:"skills", label:"Skills"},
-    {key:"quests", label:"Quests"},
     {key:"regions", label:"Regions"},
     {key:"crafting", label:"Crafting"}
   ];
@@ -335,8 +333,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   // Original line-art icons (not the game's own assets) paired with the
   // word labels in the tab bar.
   var ICONS = {
-    skills: '<path d="M12 4l6.5 2.6v5c0 4.4-2.8 7.6-6.5 8.9-3.7-1.3-6.5-4.5-6.5-8.9v-5L12 4z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9.3 12.2l1.9 1.9 3.5-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>',
-    quests: '<path d="M7 3.5h8.5a1.5 1.5 0 0 1 1.5 1.5v14a1.5 1.5 0 0 1-1.5 1.5H8.5A1.5 1.5 0 0 1 7 19V3.5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9.5 8h5M9.5 11h5M9.5 14h3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>',
     regions: '<path d="M9 4 4 6v14l5-2 6 2 5-2V4l-5 2-6-2z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9 4v14M15 6v14" stroke="currentColor" stroke-width="1.6"/>',
     crafting: '<path d="M15.5 3.5 20.5 8.5 18 11 13 6l2.5-2.5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M13.5 7.5 5 16v3h3l8.5-8.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>',
     tracker: '<path d="M5 19V10M11 19V5M17 19v-7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>'
@@ -709,13 +705,10 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
         (u.note ? '<span class="req">'+esc(u.note)+'</span>' : '')+'</div></div>';
     }).join("")+'</div>';
   }
-
-  // ---------- tracker: skills ----------
-  function skillUnlocksPanel(name, lvl){
-    var open = !!openAreas["skill:"+name];
-    var body = unlockListHtml(name, lvl);
-    return '<div class="skill-unlocks" data-skill-panel="'+esc(name)+'" '+(open?'':'hidden')+'>'+body+'</div>';
+  function unlockListWrap(name, lvl){
+    return '<div data-unlock-list="'+esc(name)+'">'+unlockListHtml(name, lvl)+'</div>';
   }
+
   function skillsTotal(){
     var released = window.WILDS_SKILLS || [];
     var total = released.reduce(function(s,r){ return s + skillLevel(r[0]); }, 0);
@@ -745,35 +738,34 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   }
 
   // ---------- tracker: skills ----------
-  var SKILL_CATS = ["Combat","Gathering","Artisan","Support"];
-  var SKILL_CAT_OF = {};
-  (window.WILDS_SKILLS || []).forEach(function(s){ SKILL_CAT_OF[s[0]] = s[1]; });
-  function skillsByCat(cat){ return (window.WILDS_SKILLS || []).filter(function(s){ return s[1] === cat; }); }
-  function skillCatTotal(cat){
-    var list = skillsByCat(cat);
-    var done = list.reduce(function(s,r){ return s + skillLevel(r[0]); }, 0);
-    return { done: done, total: list.length * 99, count: list.length };
+  // Flat grid, one small box per skill — no category layer in between. Tap
+  // a box to see that skill's description, stepper and level unlocks.
+  var SKILL_DESC_OF = {};
+  (window.WILDS_SKILLS || []).forEach(function(s){ SKILL_DESC_OF[s[0]] = s[2]; });
+  function skillBox(s){
+    var lvl = skillLevel(s[0]);
+    var open = openSub === "skill:"+s[0];
+    return '<button type="button" class="tk-subbox tk-skillbox'+(open?" open":"")+'" data-subbox="skill:'+esc(s[0])+'">'+
+      '<span class="fd-icon">'+skillSvg(s[0])+'</span>'+
+      '<span class="tk-subbox-label">'+esc(s[0])+'</span>'+
+      '<span class="tk-subbox-stat">Lv '+lvl+'</span>'+
+      '</button>';
   }
-  function skillCatRows(cat){
-    return skillsByCat(cat).map(function(s){
-      var lvl = skillLevel(s[0]);
-      var open = !!openAreas["skill:"+s[0]];
-      return '<div class="fd'+(open?" open":"")+'" data-skill="'+esc(s[0])+'">'+
-        '<button type="button" class="fd-name" data-toggle-skill="'+esc(s[0])+'"><span class="fd-icon">'+skillSvg(s[0])+'</span>'+
-        '<div class="nm">'+esc(s[0])+'</div><span class="chevron">›</span></button>'+
-        '<div class="stp"><button data-d="-1" aria-label="Decrease">−</button><span class="v">'+lvl+'</span><button data-d="1" aria-label="Increase">+</button></div></div>'+
-        skillUnlocksPanel(s[0], lvl);
-    }).join("");
+  function skillDetail(name){
+    var lvl = skillLevel(name);
+    var desc = SKILL_DESC_OF[name];
+    var stepper = '<div class="fdwrap"><div class="fd" data-skill="'+esc(name)+'"><span class="fd-icon">'+skillSvg(name)+'</span>'+
+      '<div class="nm">'+esc(name)+'</div>'+
+      '<div class="stp"><button data-d="-1" aria-label="Decrease">−</button><span class="v">'+lvl+'</span><button data-d="1" aria-label="Increase">+</button></div></div></div>';
+    return (desc ? '<div class="r"><div class="fv">'+esc(desc)+'</div></div>' : '') + stepper + unlockListWrap(name, lvl);
   }
   function skillsBlock(){
-    var subGrid = '<div class="tk-subgrid">'+SKILL_CATS.map(function(cat){
-      var t = skillCatTotal(cat);
-      return tkSubBox("skillcat:"+cat, cat, t.done+" / "+t.total, t.count+" skills", Math.round(t.done/t.total*100));
-    }).join("")+'</div>';
+    var released = window.WILDS_SKILLS || [];
+    var subGrid = '<div class="tk-subgrid">'+released.map(skillBox).join("")+'</div>';
     var panel = "";
-    if (openSub && openSub.indexOf("skillcat:") === 0){
-      var cat = openSub.slice(9);
-      panel = '<div class="tk-subpanel"><h4>'+esc(cat)+'</h4><div class="fdwrap">'+skillCatRows(cat)+'</div></div>';
+    if (openSub && openSub.indexOf("skill:") === 0){
+      var name = openSub.slice(6);
+      panel = '<div class="tk-subpanel" data-skill-panel="'+esc(name)+'"><h4>'+esc(name)+'</h4>'+skillDetail(name)+'</div>';
     }
     return subGrid + panel;
   }
@@ -783,22 +775,18 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     var bar = document.getElementById("boxBarSkills");
     if (stat) stat.textContent = sk.done + " / " + sk.total;
     if (bar){ bar.classList.toggle("done", sk.done >= sk.total); bar.querySelector("i").style.width = Math.round(sk.done / sk.total * 100) + "%"; }
-    var cat = SKILL_CAT_OF[name];
-    if (!cat) return;
-    var ct = skillCatTotal(cat);
-    var subBtn = document.querySelector('button[data-subbox="skillcat:'+cat+'"]');
-    if (!subBtn) return;
-    subBtn.querySelector(".tk-subbox-stat").textContent = ct.done + " / " + ct.total;
-    var subBar = subBtn.querySelector(".bar");
-    subBar.classList.toggle("done", ct.done >= ct.total);
-    subBar.querySelector("i").style.width = Math.round(ct.done / ct.total * 100) + "%";
+    var subBtn = document.querySelector('button[data-subbox="skill:'+name+'"]');
+    if (subBtn) subBtn.querySelector(".tk-subbox-stat").textContent = "Lv " + skillLevel(name);
   }
 
   // ---------- tracker: quests ----------
   function questRow(name, sub, keyPrefix){
     var key = keyPrefix + name;
     var on = !!STATE.quests[key];
-    return '<div class="row'+(on?" on":"")+'" data-qkey="'+esc(key)+'"><div class="box">✓</div><div class="t">'+esc(name)+(sub?'<span class="req">'+esc(sub)+'</span>':'')+'</div></div>';
+    var open = !!openAreas["quest:"+key];
+    return '<div class="row'+(on?" on":"")+'" data-qkey="'+esc(key)+'"><div class="box">✓</div><div class="t">'+esc(name)+(sub?'<span class="req">'+esc(sub)+'</span>':'')+'</div>'+
+      '<button type="button" class="chevron-btn" data-toggle-quest="'+esc(key)+'" aria-label="Details">›</button></div>'+
+      '<div class="quest-detail" data-quest-panel="'+esc(key)+'" '+(open?'':'hidden')+'>'+questWalkthroughHtml(name)+'</div>';
   }
   function questLines(){
     var lines = [{ key:"Primary", list:(window.WILDS_QUESTS_PRIMARY||[]).map(function(p){ return p[0]; }), prefix:"p:" }];
@@ -947,18 +935,18 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       void v.offsetWidth; // restart the animation even on repeated same-direction taps
       v.classList.add(d > 0 ? "tick-up" : "tick-down");
       updateSkillTotal(name);
-      var panel = row.nextElementSibling;
-      if (panel && panel.matches("[data-skill-panel]")) panel.outerHTML = skillUnlocksPanel(name, skillLevel(name));
+      var wrap = document.querySelector('[data-unlock-list="'+name+'"]');
+      if (wrap) wrap.outerHTML = unlockListWrap(name, skillLevel(name));
       return;
     }
-    var toggleSkill = e.target.closest("button[data-toggle-skill]");
-    if (toggleSkill){
-      var sname = toggleSkill.dataset.toggleSkill;
-      var key3 = "skill:" + sname;
-      openAreas[key3] = !openAreas[key3];
-      var frow = toggleSkill.closest(".fd");
-      frow.classList.toggle("open", openAreas[key3]);
-      frow.nextElementSibling.hidden = !openAreas[key3];
+    var toggleQuest = e.target.closest("button[data-toggle-quest]");
+    if (toggleQuest){
+      var qkey = toggleQuest.dataset.toggleQuest;
+      var qk = "quest:" + qkey;
+      openAreas[qk] = !openAreas[qk];
+      var qpanel = document.querySelector('[data-quest-panel="'+qkey+'"]');
+      if (qpanel) qpanel.hidden = !openAreas[qk];
+      toggleQuest.classList.toggle("open", openAreas[qk]);
       return;
     }
     var qrow = e.target.closest(".row[data-qkey]");

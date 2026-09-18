@@ -112,6 +112,16 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .card-icon svg{width:18px;height:18px;display:block}
 .card .sub{margin-left:auto;font-size:12px;color:var(--gold);text-align:right;flex-shrink:0;max-width:45%;font-weight:600}
 .tagline{display:inline-block;font-size:10px;font-weight:700;color:var(--bg);background:var(--gold);border-radius:2px;padding:.15rem .4rem;margin-right:.4rem;vertical-align:.1em;white-space:nowrap;text-transform:uppercase;letter-spacing:.03em}
+
+/* Regions and Crafting browse as a grid of small tappable boxes, same
+   language as the Progress skill grid — tap one and it expands to full
+   width right where it was, pushing the rest down until it's closed. */
+.results-grid{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
+.results-grid .card{margin-bottom:0}
+.results-grid .card>button{flex-direction:column;align-items:flex-start;gap:.2rem;padding:.65rem .75rem}
+.results-grid .card h2{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;color:var(--gold)}
+.results-grid .card .sub{margin-left:0;text-align:left;max-width:100%;color:var(--text3);font-weight:600}
+.results-grid .card.open{grid-column:1 / -1}
 .body{padding:.1rem .85rem .85rem;border-top:1px solid var(--edge-dark)}
 .rows{padding-top:.15rem}
 .r{padding:.5rem 0}
@@ -140,26 +150,23 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 /* Interface tab row, RuneScape-style — pinned so it's always reachable,
    with a comfortably tall touch target and extra clearance under it (not
    just the bare safe-area inset) so it doesn't sit flush against the
-   phone OS's bottom edge-gesture strip. Scrollable left-right on its own
-   axis so eight full word labels never have to shrink or truncate. */
+   phone OS's bottom edge-gesture strip. Three tabs, evenly filling the
+   width like a normal bottom nav bar — no more horizontal scrolling. */
 .tabbar{
   position:fixed;left:0;right:0;bottom:0;z-index:30;
   display:flex;min-height:var(--tb);flex-shrink:0;
   background:var(--panel);border-top:1px solid var(--edge-light);
   box-shadow:0 -2px 10px rgba(0,0,0,.4);
   padding:.55rem 0 calc(env(safe-area-inset-bottom) + .55rem);
-  overflow-x:auto;-webkit-overflow-scrolling:touch;
-  scroll-snap-type:x proximity;
 }
 .tabbar button{
-  flex:0 0 auto;scroll-snap-align:start;background:none;border:0;border-right:1px solid var(--edge-dark);
-  color:var(--text2);font-family:var(--head);font-size:12.5px;font-weight:600;
+  flex:1 1 0;background:none;border:0;border-top:2px solid transparent;
+  color:var(--text3);font-family:var(--head);font-size:12.5px;font-weight:600;
   letter-spacing:.02em;text-transform:uppercase;white-space:nowrap;cursor:pointer;
-  padding:.3rem 1.1rem;display:flex;flex-direction:row;align-items:center;gap:.5rem;
+  padding:.35rem .3rem;display:flex;flex-direction:row;align-items:center;justify-content:center;gap:.4rem;
 }
 .tabbar button svg{width:19px;height:19px;flex-shrink:0}
-.tabbar button:last-child{border-right:0}
-.tabbar button.on{background:var(--gold-dim);color:var(--gold);box-shadow:inset 0 2px 0 var(--gold)}
+.tabbar button.on{color:var(--gold);border-top-color:var(--gold)}
 .tabbar button:active{background:var(--panel3)}
 
 /* checklist rows: quests, bestiary sightings */
@@ -699,7 +706,8 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     }
 
     countEl.textContent = title ? (title + " · " + list.length) : "";
-    resultsEl.innerHTML = extras + list.map(renderCard).join("");
+    var cards = list.map(renderCard).join("");
+    resultsEl.innerHTML = extras + (q ? cards : '<div class="results-grid">'+cards+'</div>');
   }
 
   // Shared by the Skills reference card and the Progress tracker's expandable

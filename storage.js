@@ -41491,55 +41491,6 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
-        "name": "Brewing Cauldron",
-        "img": "https://dragonwilds.runescape.wiki/images/thumb/Brewing_Cauldron.png/250px-Brewing_Cauldron.png?6bf2b",
-        "tier": "",
-        "tierRank": null,
-        "chest": "potions",
-        "note": "This cauldron is built to brew liquids. Potions can be created here.",
-        "detail": {
-          "infobox": [
-            {
-              "label": "Released",
-              "value": "15 April 2025 (Update)"
-            },
-            {
-              "label": "Catalogue",
-              "value": "Crafting"
-            },
-            {
-              "label": "Collection",
-              "value": "Food & Potions"
-            },
-            {
-              "label": "Description",
-              "value": "This cauldron is built to brew liquids. Potions can be created here."
-            },
-            {
-              "label": "Crafting Facility",
-              "value": "Build Menu"
-            },
-            {
-              "label": "Crafting Skill",
-              "value": "Construction (12 XP)"
-            },
-            {
-              "label": "Materials",
-              "value": "Ash Logs x16, Coarse Thread x6, Rune Essence x10, Clay x6"
-            },
-            {
-              "label": "Output",
-              "value": "Brewing Cauldron x1"
-            }
-          ],
-          "description": "The brewing cauldron is used to brew various potions that can boost the player's abilities, increase experience gained, grant immunities to status effects, or restore their health. It will display all known recipes in its crafting menu and will draw from nearby linked storages. It does not have any shelter restrictions and can be placed without a foundation. It is learned when picking up clay for the first time."
-        },
-        "stations": [
-          "Build Menu"
-        ],
-        "step": 3
-      },
-      {
         "name": "Dwellberry Infusion",
         "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Infusion.png?654f9",
         "tier": "",
@@ -62012,6 +61963,55 @@ window.WILDS_STORAGE = [
         "stations": [
           "Blacksmith's Bench",
           "Fletching Bench"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Brewing Cauldron",
+        "img": "https://dragonwilds.runescape.wiki/images/thumb/Brewing_Cauldron.png/250px-Brewing_Cauldron.png?6bf2b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "This cauldron is built to brew liquids. Potions can be created here.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update)"
+            },
+            {
+              "label": "Catalogue",
+              "value": "Crafting"
+            },
+            {
+              "label": "Collection",
+              "value": "Food & Potions"
+            },
+            {
+              "label": "Description",
+              "value": "This cauldron is built to brew liquids. Potions can be created here."
+            },
+            {
+              "label": "Crafting Facility",
+              "value": "Build Menu"
+            },
+            {
+              "label": "Crafting Skill",
+              "value": "Construction (12 XP)"
+            },
+            {
+              "label": "Materials",
+              "value": "Ash Logs x16, Coarse Thread x6, Rune Essence x10, Clay x6"
+            },
+            {
+              "label": "Output",
+              "value": "Brewing Cauldron x1"
+            }
+          ],
+          "description": "The brewing cauldron is used to brew various potions that can boost the player's abilities, increase experience gained, grant immunities to status effects, or restore their health. It will display all known recipes in its crafting menu and will draw from nearby linked storages. It does not have any shelter restrictions and can be placed without a foundation. It is learned when picking up clay for the first time."
+        },
+        "stations": [
+          "Build Menu"
         ],
         "step": 0
       },

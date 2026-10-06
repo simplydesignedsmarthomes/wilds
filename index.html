@@ -590,6 +590,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     if (!w) return '';
     var html = '';
     if (w.img) html += '<div class="wide"><img src="'+esc(w.img)+'" alt="" loading="lazy" style="width:100%;border-radius:var(--r);border:1px solid var(--edge-dark);display:block"></div>';
+    if (w.youtube) html += '<a class="video-channel-link" href="'+esc(w.youtube)+'" target="_blank" rel="noopener">▶ Watch a guide on YouTube</a>';
     if (w.requirements) html += '<div class="wide"><div class="fk">Requirements</div><div class="fv">'+esc(w.requirements)+'</div></div>';
     if (w.rewards) html += '<div class="wide"><div class="fk">Rewards</div><div class="fv">'+esc(w.rewards)+'</div></div>';
     if (w.steps && w.steps.length){

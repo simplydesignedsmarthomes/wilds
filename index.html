@@ -244,8 +244,13 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 .video-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:.6rem;margin-top:.8rem}
 .video-thumb{position:relative;padding:0;border:2px solid var(--edge-dark);border-radius:var(--r);overflow:hidden;background:var(--panel);cursor:pointer;aspect-ratio:16/9}
-.video-thumb img{display:block;width:100%;height:100%;object-fit:cover}
+.video-thumb img{display:block;width:100%;height:100%;object-fit:cover;pointer-events:none}
 .video-thumb.active{border-color:var(--gold)}
+.video-fav{position:absolute;top:3px;right:3px;width:26px;height:26px;border-radius:50%;border:0;background:rgba(10,9,13,.65);color:var(--text3);font-size:15px;line-height:1;display:flex;align-items:center;justify-content:center;cursor:pointer}
+.video-fav.on{color:var(--gold)}
+.video-fav-row{margin-top:.6rem}
+.video-fav-row-label{font-family:var(--head);color:var(--gold);font-size:13px;font-weight:700;margin-bottom:.4rem}
+.video-more-note{text-align:center;color:var(--text3);font-size:13px;padding:.8rem 0}
 .video-channel-link{display:block;text-align:center;margin-top:.8rem;padding:.65rem;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);color:var(--gold);font-family:var(--head);font-size:13px;font-weight:700;text-decoration:none}
 .video-channel-link:active{background:var(--panel3)}
 .power-ctl{display:flex;align-items:center;flex-wrap:wrap;gap:.7rem;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);padding:.6rem .75rem;margin-bottom:.8rem;box-shadow:var(--shadow)}
@@ -497,7 +502,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   var LS_KEY = "wilds-state-v1";
   var STATE = loadState();
   function defaultState(){
-    return { skills:{}, quests:{}, code:"", powerFilterOn:false, powerLevel:0 };
+    return { skills:{}, quests:{}, code:"", powerFilterOn:false, powerLevel:0, favoriteVideoIds:[] };
   }
   function loadState(){
     try {
@@ -630,6 +635,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     drawTabbar();
     var q = view.q.trim();
     trackerEl.hidden = true;
+    teardownVideos();
 
     if (view.tab === "tracker" && !q){
       trackerEl.hidden = false;
@@ -1233,46 +1239,173 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     name: "Primitive Nomad",
     url: "https://www.youtube.com/@primitivenomad",
     channelId: "UCRbqswsX9bDjWrQ2jxyVD3w",
-    fallback25: ["Gq03JgW3CZc","7FrGPpb2Vvo","qWguVYuxrqo","DOXQjNytftE","vma5KmAqtF8",
+    fallback: ["Gq03JgW3CZc","7FrGPpb2Vvo","qWguVYuxrqo","DOXQjNytftE","vma5KmAqtF8",
       "SgHrBkJJXHE","yLOAZNShmSU","TQRmB724Slc","bunuQfikXe8","gtqJNUOkIoQ",
       "oEzRyEebcLM","ti_8zKAjO5g","3oCXdp2lLA8","0_KiVr0mSa0","9uPt0wAU2Wg",
       "aBLhJcpsnD8","LNciYSOYddI","CWkDYIq_XkM","A0dRzp4rkD8","3hHfGxhOb-Q",
       "xDCuEOunnuk","odV1jVa65mU","HaHFmb88830","pmvC7r7_Y8Q","7PqWMTQJHKM"]
   };
-  var videoState = { ids: VIDEO_CHANNEL.fallback25, selected: null, loading: false, stale: true, error: "" };
+  // ids/cursor grow forever as the user scrolls (true infinite scroll, one
+  // page at a time from the server) - this is never fully reset except by
+  // the explicit Refresh button, so appending to the DOM (not rebuilding
+  // it) matters: a full redraw mid-scroll would tear down and restart the
+  // iframe's video and reset the user's scroll position.
+  var videoState = {
+    ids: VIDEO_CHANNEL.fallback, cursor: null, selected: null,
+    loading: false, loadingMore: false, exhausted: false, stale: true, error: ""
+  };
+  var ytPlayer = null; // bound once the IFrame Player API finishes loading
   function videoEmbedSrc(id){
-    return "https://www.youtube.com/embed/"+id;
+    // enablejsapi lets us call setPlaybackQuality once the IFrame API
+    // loads; vq is a legacy hint some embeds still honor. Neither is
+    // guaranteed - YouTube's embedded player has picked its own "auto"
+    // quality based on player size/bandwidth since 2021 and largely
+    // ignores manual overrides now, so this is a best-effort nudge, not a
+    // guarantee you'll always get 1080p.
+    return "https://www.youtube.com/embed/"+id+"?enablejsapi=1&playsinline=1&vq=hd1080";
+  }
+  function loadYouTubeIframeApi(){
+    if (window.YT && window.YT.Player) { bindYouTubePlayer(); return; }
+    if (document.getElementById("ytIframeApiScript")) return;
+    var s = document.createElement("script");
+    s.id = "ytIframeApiScript";
+    s.src = "https://www.youtube.com/iframe_api";
+    document.head.appendChild(s);
+    window.onYouTubeIframeAPIReady = bindYouTubePlayer;
+  }
+  function bindYouTubePlayer(){
+    var el = document.getElementById("ytPlayer");
+    if (!el || !window.YT || !window.YT.Player) return;
+    ytPlayer = new YT.Player("ytPlayer", {
+      events: {
+        onReady: function(e){ try { e.target.setPlaybackQuality("hd1080"); } catch(err){} },
+        onStateChange: function(e){
+          // Quality often resets back to "auto" right as a video actually
+          // starts, so nudge it again once playback begins.
+          if (e.data === 1) { try { e.target.setPlaybackQuality("hd1080"); } catch(err){} }
+        }
+      }
+    });
+  }
+  function isFavoriteVideo(id){ return STATE.favoriteVideoIds.indexOf(id) !== -1; }
+  function toggleFavoriteVideo(id){
+    var i = STATE.favoriteVideoIds.indexOf(id);
+    if (i === -1) STATE.favoriteVideoIds.push(id); else STATE.favoriteVideoIds.splice(i, 1);
+    saveState();
   }
   function videoThumbHtml(id, active){
-    return '<button type="button" class="video-thumb'+(active?" active":"")+'" data-vid="'+esc(id)+'">'+
-      '<img src="https://i.ytimg.com/vi/'+esc(id)+'/mqdefault.jpg" alt="" loading="lazy"></button>';
+    var fav = isFavoriteVideo(id);
+    return '<div class="video-thumb'+(active?" active":"")+'" data-vid="'+esc(id)+'" role="button" tabindex="0">'+
+      '<img src="https://i.ytimg.com/vi/'+esc(id)+'/mqdefault.jpg" alt="" loading="lazy">'+
+      '<button type="button" class="video-fav'+(fav?" on":"")+'" data-fav="'+esc(id)+'" aria-label="Favorite">'+(fav?"★":"☆")+'</button>'+
+      '</div>';
+  }
+  function videoFavRowHtml(){
+    // Favorited videos stay reachable forever, even ones that scrolled out
+    // of the loaded pages entirely - that's the whole point of favoriting.
+    var favs = STATE.favoriteVideoIds.filter(function(id){ return videoState.ids.indexOf(id) === -1; });
+    if (!favs.length) return "";
+    var selectedId = videoState.selected || videoState.ids[0];
+    return '<div class="video-fav-row"><div class="video-fav-row-label">Favorites</div>'+
+      '<div class="video-grid" id="videoFavGrid">'+favs.map(function(id){ return videoThumbHtml(id, id === selectedId); }).join('')+'</div></div>';
+  }
+  function videoGridHtml(){
+    var selectedId = videoState.selected || videoState.ids[0];
+    return videoState.ids.map(function(id){ return videoThumbHtml(id, id === selectedId); }).join('');
+  }
+  function videoMoreNoteHtml(){
+    if (videoState.loadingMore) return '<div class="video-more-note">Loading more…</div>';
+    if (videoState.exhausted) return '<div class="video-more-note">That’s every upload from '+esc(VIDEO_CHANNEL.name)+'.</div>';
+    return '';
   }
   function drawVideos(){
     var note = videoState.stale
-      ? "Showing a saved list - fetching the current 25 latest…"
-      : "The 25 latest uploads from "+VIDEO_CHANNEL.name+", refreshed live.";
+      ? "Showing a saved list - fetching the latest uploads…"
+      : "Uploads from "+VIDEO_CHANNEL.name+", newest first. Scroll for more.";
     if (videoState.error) note = "Couldn’t refresh just now (" + videoState.error + ") - showing the last known list.";
     var selectedId = videoState.selected || videoState.ids[0];
     trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2><p class="tk-head-note">'+esc(note)+'</p></div>'+
       '<div class="power-ctl"><button type="button" class="view-tab" id="videoRefreshBtn"'+(videoState.loading?' disabled':'')+'>'+(videoState.loading?"Refreshing…":"Refresh latest videos")+'</button></div>'+
-      '<div class="video-embed"><iframe src="'+esc(videoEmbedSrc(selectedId))+'" '+
+      '<div class="video-embed"><iframe id="ytPlayer" src="'+esc(videoEmbedSrc(selectedId))+'" '+
       'title="'+esc(VIDEO_CHANNEL.name)+'" frameborder="0" '+
       'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '+
       'allowfullscreen loading="lazy"></iframe></div>'+
-      '<div class="video-grid">'+videoState.ids.map(function(id){ return videoThumbHtml(id, id === selectedId); }).join('')+'</div>'+
-      '<a class="video-channel-link" href="'+esc(VIDEO_CHANNEL.url)+'" target="_blank" rel="noopener">Open '+esc(VIDEO_CHANNEL.name)+' on YouTube ↗</a>';
+      '<a class="video-channel-link" href="'+esc(VIDEO_CHANNEL.url)+'" target="_blank" rel="noopener">Open '+esc(VIDEO_CHANNEL.name)+' on YouTube ↗</a>'+
+      '<div id="videoFavRowWrap">'+videoFavRowHtml()+'</div>'+
+      '<div class="video-grid" id="videoGrid">'+videoGridHtml()+'</div>'+
+      '<div id="videoMoreNote">'+videoMoreNoteHtml()+'</div>';
     var btn = document.getElementById("videoRefreshBtn");
     if (btn) btn.addEventListener("click", function(){ refreshVideos(); });
+    loadYouTubeIframeApi();
+    window.addEventListener("scroll", onVideosScroll);
+  }
+  function teardownVideos(){
+    window.removeEventListener("scroll", onVideosScroll);
+  }
+  // Selecting a thumbnail or loading another page of results only ever
+  // patches the specific DOM bits involved - never trackerEl.innerHTML -
+  // so the currently playing video and the user's scroll position both
+  // survive it.
+  function selectVideo(id){
+    videoState.selected = id;
+    if (ytPlayer && ytPlayer.loadVideoById) {
+      ytPlayer.loadVideoById(id);
+      setTimeout(function(){ try { ytPlayer.setPlaybackQuality("hd1080"); } catch(e){} }, 300);
+    } else {
+      var el = document.getElementById("ytPlayer");
+      if (el) el.src = videoEmbedSrc(id);
+    }
+    document.querySelectorAll(".video-thumb[data-vid]").forEach(function(el){
+      el.classList.toggle("active", el.dataset.vid === id);
+    });
+  }
+  function onVideosScroll(){
+    if (view.tab !== "videos") return;
+    if (videoState.loadingMore || videoState.exhausted || !videoState.cursor) return;
+    if (window.scrollY + window.innerHeight < document.documentElement.scrollHeight - 800) return;
+    loadMoreVideos();
+  }
+  function loadMoreVideos(){
+    videoState.loadingMore = true;
+    var noteEl = document.getElementById("videoMoreNote");
+    if (noteEl) noteEl.innerHTML = videoMoreNoteHtml();
+    fetch("/api/latest-videos?channelId="+VIDEO_CHANNEL.channelId+"&cursor="+encodeURIComponent(videoState.cursor))
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        videoState.loadingMore = false;
+        if (data && data.ids && data.ids.length){
+          var fresh = data.ids.filter(function(id){ return videoState.ids.indexOf(id) === -1; });
+          videoState.ids = videoState.ids.concat(fresh);
+          videoState.cursor = data.cursor || null;
+          if (!data.cursor) videoState.exhausted = true;
+          var grid = document.getElementById("videoGrid");
+          if (grid) grid.insertAdjacentHTML("beforeend", fresh.map(function(id){ return videoThumbHtml(id, false); }).join(''));
+          var favWrap = document.getElementById("videoFavRowWrap");
+          if (favWrap) favWrap.innerHTML = videoFavRowHtml();
+        } else {
+          videoState.exhausted = true;
+        }
+        var note2 = document.getElementById("videoMoreNote");
+        if (note2) note2.innerHTML = videoMoreNoteHtml();
+      })
+      .catch(function(){
+        videoState.loadingMore = false;
+        var note2 = document.getElementById("videoMoreNote");
+        if (note2) note2.innerHTML = videoMoreNoteHtml();
+      });
   }
   function refreshVideos(){
     videoState.loading = true;
+    videoState.exhausted = false;
     if (view.tab === "videos") drawVideos();
-    fetch("/api/latest-videos?channelId="+VIDEO_CHANNEL.channelId+"&count=25")
+    fetch("/api/latest-videos?channelId="+VIDEO_CHANNEL.channelId)
       .then(function(r){ return r.json(); })
       .then(function(data){
         videoState.loading = false;
         if (data && data.ids && data.ids.length){
-          videoState.ids = data.ids; videoState.selected = null; videoState.stale = false; videoState.error = "";
+          videoState.ids = data.ids; videoState.cursor = data.cursor || null;
+          videoState.selected = null; videoState.stale = false; videoState.error = "";
+          if (!data.cursor) videoState.exhausted = true;
         } else {
           videoState.error = (data && data.error) || "empty response";
         }
@@ -1330,10 +1463,20 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       drawStorage();
       return;
     }
-    var vidBtn = e.target.closest("button[data-vid]");
+    var favBtn = e.target.closest("button[data-fav]");
+    if (favBtn){
+      toggleFavoriteVideo(favBtn.dataset.fav);
+      document.querySelectorAll('.video-fav[data-fav="'+CSS.escape(favBtn.dataset.fav)+'"]').forEach(function(el){
+        el.classList.toggle("on", isFavoriteVideo(favBtn.dataset.fav));
+        el.textContent = isFavoriteVideo(favBtn.dataset.fav) ? "★" : "☆";
+      });
+      var favWrap = document.getElementById("videoFavRowWrap");
+      if (favWrap) favWrap.innerHTML = videoFavRowHtml();
+      return;
+    }
+    var vidBtn = e.target.closest("[data-vid]");
     if (vidBtn){
-      videoState.selected = vidBtn.dataset.vid;
-      drawVideos();
+      selectVideo(vidBtn.dataset.vid);
       return;
     }
     var pwrBtn = e.target.closest("button[data-pwr]");

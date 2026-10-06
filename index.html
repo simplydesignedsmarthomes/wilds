@@ -21,27 +21,38 @@
    game's own UI font, without using Jagex's actual proprietary typeface. */
 :root{
   color-scheme:dark;
-  --bg:#221c15;
-  --panel:#3e3529;
-  --panel2:#4a3f30;
-  --panel3:#584b38;
-  --edge-dark:#100d09;
-  --edge-light:#7a6748;
+  /* Obsidian-dragon base: a cool near-black instead of flat oak-brown, so
+     the gold/ember/mystic accents (and item icons) actually pop instead of
+     competing with a muddy brown backdrop. */
+  --bg:#131118;
+  --panel:#211e28;
+  --panel2:#282531;
+  --panel3:#332f3d;
+  --edge-dark:#09080d;
+  --edge-light:#4d4860;
   --gold:#ffb000;
   --gold-dim:rgba(255,176,0,.16);
-  --text:#e9dcc0;
-  --text2:#b7a988;
-  --text3:#8a7c60;
+  --text:#efe6d6;
+  --text2:#beb2a8;
+  --text3:#8f8597;
   --green:#5fbf4f;
-  --red:#d8514a;
+  --red:#e2554f;
+  /* Dragonwilds accent trio — dragonfire ember, wild emerald, arcane mystic.
+     With the cooler obsidian base these now carry most of the "color" in
+     the UI instead of being a light garnish on brown. */
+  --ember:#ff7347;
+  --ember-dim:rgba(255,115,71,.18);
+  --emerald:#3ecf8e;
+  --mystic:#a78bfa;
   --note-bg:rgba(255,176,0,.12);
   --note-fg:#e8c27a;
-  --shadow:0 2px 0 var(--edge-dark), 0 5px 14px rgba(0,0,0,.45);
+  --shadow:0 2px 0 var(--edge-dark), 0 6px 16px rgba(0,0,0,.55);
   --scrim:rgba(0,0,0,.6);
   --head:'Cinzel',Georgia,'Times New Roman',serif;
   --ui:Georgia,'Times New Roman',serif;
   --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
-  --r:3px;
+  --r:10px;
+  --r-lg:18px;
   --tb:4.3rem;
 }
 /* touch-action:manipulation stops rapid taps (e.g. hammering a stepper's
@@ -52,7 +63,9 @@
 html,body{margin:0;padding:0}
 body{
   background:
-    radial-gradient(ellipse at top, rgba(255,176,0,.05), transparent 60%),
+    radial-gradient(ellipse at top, rgba(255,176,0,.09), transparent 55%),
+    radial-gradient(ellipse at bottom left, rgba(255,115,71,.07), transparent 50%),
+    radial-gradient(ellipse at bottom right, rgba(167,139,250,.07), transparent 55%),
     var(--bg);
   color:var(--text);
   font-family:var(--ui);font-size:16px;line-height:1.5;
@@ -102,7 +115,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .count:empty{display:none;margin:0}
 
 .card{
-  background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);
+  background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);
   margin-bottom:.55rem;overflow:hidden;box-shadow:var(--shadow);
 }
 .card.open>button{background:var(--panel3)}
@@ -110,6 +123,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .card h2{margin:0;font-family:var(--head);font-size:16px;font-weight:600;letter-spacing:.01em;color:var(--text)}
 .card-icon{display:inline-flex;align-self:center;color:var(--gold);flex-shrink:0}
 .card-icon svg{width:18px;height:18px;display:block}
+.card-icon img{width:20px;height:20px;object-fit:contain;display:block}
 .card .sub{margin-left:auto;font-size:12px;color:var(--gold);text-align:right;flex-shrink:0;max-width:45%;font-weight:600}
 .tagline{display:inline-block;font-size:10px;font-weight:700;color:var(--bg);background:var(--gold);border-radius:2px;padding:.15rem .4rem;margin-right:.4rem;vertical-align:.1em;white-space:nowrap;text-transform:uppercase;letter-spacing:.03em}
 
@@ -135,7 +149,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .steps{margin:.3rem 0 0;padding-left:1.3rem;color:var(--text2);font-size:15px;line-height:1.6}
 .steps li{margin-bottom:.4rem}
 .steps li::marker{color:var(--gold);font-weight:700}
-.pill{display:inline-block;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.3rem .6rem;font-size:12px;margin:.15rem .3rem .15rem 0;color:var(--text2)}
+.pill{display:inline-block;background:var(--panel2);border:1px solid var(--edge-light);border-radius:999px;padding:.3rem .7rem;font-size:12px;margin:.15rem .3rem .15rem 0;color:var(--text2)}
 .pillrow{margin:.3rem 0}
 .note{margin-top:.6rem;padding:.6rem .7rem;background:var(--note-bg);border:1px solid rgba(255,176,0,.3);border-radius:var(--r);font-size:13px;color:var(--note-fg)}
 .empty{text-align:center;color:var(--text3);padding:2.5rem 1rem;font-size:15px}
@@ -145,7 +159,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tbl th,.tbl td{text-align:left;padding:.4rem .5rem;border-bottom:1px solid var(--edge-dark)}
 .tbl th{color:var(--gold);font-size:10px;text-transform:uppercase;letter-spacing:.05em;font-weight:700}
 .tbl td{color:var(--text2)}
-.tblwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);box-shadow:var(--shadow);padding:.2rem .5rem;margin-bottom:.9rem;overflow-x:auto}
+.tblwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);box-shadow:var(--shadow);padding:.2rem .5rem;margin-bottom:.9rem;overflow-x:auto}
 
 /* Interface tab row, RuneScape-style — pinned so it's always reachable,
    with a comfortably tall touch target and extra clearance under it (not
@@ -166,7 +180,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   padding:.35rem .3rem;display:flex;flex-direction:row;align-items:center;justify-content:center;gap:.4rem;
 }
 .tabbar button svg{width:19px;height:19px;flex-shrink:0}
-.tabbar button.on{color:var(--gold);border-top-color:var(--gold)}
+.tabbar button.on{color:var(--gold);border-top-color:var(--gold);border-image:linear-gradient(90deg,var(--ember),var(--gold)) 1}
 .tabbar button:active{background:var(--panel3)}
 
 /* checklist rows: quests, bestiary sightings */
@@ -187,7 +201,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .chk .row.pop .box{animation:boxPop .3s cubic-bezier(.2,.9,.3,1) 1}
 
 /* region / group cards inside the tracker: header + progress + checklist body */
-.area{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);margin-bottom:.5rem;overflow:hidden;box-shadow:var(--shadow)}
+.area{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);margin-bottom:.5rem;overflow:hidden;box-shadow:var(--shadow)}
 .area>button{width:100%;background:none;border:0;color:inherit;text-align:left;padding:.7rem .8rem;cursor:pointer;font-family:inherit}
 .area .hd{display:flex;align-items:baseline;gap:.5rem}
 .area .hd b{font-family:var(--head);font-size:15px;font-weight:600;color:var(--text)}
@@ -217,14 +231,23 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .quest-detail:last-child{border-bottom:0}
 .quest-detail .chk .row{padding:.35rem 0}
 .quest-detail .note{margin:0}
-.fdwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);box-shadow:var(--shadow);margin-bottom:.9rem;overflow:hidden}
+.fdwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);box-shadow:var(--shadow);margin-bottom:.9rem;overflow:hidden}
 
 .tk-head{margin:1rem 0 .4rem}
-.tk-head h2{font-family:var(--head);font-size:24px;font-weight:700;letter-spacing:.01em;margin:0 0 .5rem;color:var(--gold)}
+.tk-head h2{font-family:var(--head);font-size:24px;font-weight:700;letter-spacing:.01em;margin:0 0 .5rem;color:var(--gold);text-shadow:0 0 16px rgba(255,176,0,.3)}
+.tk-head-note{margin:-.3rem 0 .8rem;font-size:13px;color:var(--text3)}
+.video-embed{position:relative;width:100%;padding-top:56.25%;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);overflow:hidden;box-shadow:var(--shadow)}
+.video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.power-ctl{display:flex;align-items:center;flex-wrap:wrap;gap:.7rem;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);padding:.6rem .75rem;margin-bottom:.8rem;box-shadow:var(--shadow)}
+.power-toggle{display:flex;align-items:center;gap:.5rem;font-size:13px;color:var(--text2);cursor:pointer}
+.power-toggle input{width:16px;height:16px;accent-color:var(--gold);cursor:pointer}
+.power-stp{display:flex;align-items:center;gap:.5rem;font-size:12px;color:var(--text3);font-variant-numeric:tabular-nums}
+.power-stp button{width:24px;height:24px;border:1px solid var(--edge-dark);background:var(--panel2);color:var(--gold);border-radius:var(--r);font-size:14px;font-weight:700;line-height:1;cursor:pointer;padding:0}
+.power-stp button:active{background:var(--gold);color:var(--bg)}
 .bar{height:8px;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:2px;overflow:hidden;margin-top:.45rem}
 .bar i{display:block;height:100%;background:var(--gold);transition:width .25s}
 .bar.done i{background:var(--green)}
-.tk-goal{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.65rem .8rem;margin-bottom:.45rem;box-shadow:var(--shadow)}
+.tk-goal{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);padding:.65rem .8rem;margin-bottom:.45rem;box-shadow:var(--shadow)}
 .tk-goal .t{display:flex;align-items:baseline;gap:.5rem;font-size:15px}
 .tk-goal .t b{font-family:var(--head);font-weight:600;color:var(--text)}
 .tk-goal .t span{margin-left:auto;font-size:13px;color:var(--text3);font-variant-numeric:tabular-nums}
@@ -238,7 +261,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tk-grid{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;margin-bottom:1rem}
 .tk-box{
   display:flex;flex-direction:column;gap:.15rem;text-align:left;cursor:pointer;
-  background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);
+  background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);
   box-shadow:var(--shadow);padding:.85rem;color:inherit;font-family:inherit;
 }
 .tk-box.open{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold)}
@@ -255,7 +278,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tk-subgrid{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
 .tk-subbox{
   display:flex;flex-direction:column;gap:.1rem;text-align:left;cursor:pointer;
-  background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);
+  background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r-lg);
   padding:.65rem .75rem;color:inherit;font-family:inherit;
 }
 .tk-subbox.open{border-color:var(--gold)}
@@ -276,6 +299,41 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 /* the open skill's detail spans the full grid width, right where it was
    tapped — remaining boxes flow below it until it's closed again */
 .tk-subgrid > .tk-subpanel{grid-column:1 / -1;margin-top:0}
+
+/* Items/Storage: a chest's contents as a small icon grid, images hotlinked
+   straight from the wiki */
+.item-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(76px,1fr));gap:.5rem;max-height:70vh;overflow-y:auto;padding-right:.1rem}
+.item-tile{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.4rem .3rem;text-align:center;width:100%;color:inherit;font-family:inherit;cursor:pointer}
+.item-tile.open{border-color:var(--gold)}
+.item-tile:active{background:var(--panel3)}
+.item-tile-img{height:40px;display:flex;align-items:center;justify-content:center;margin-bottom:.3rem;background:radial-gradient(circle,rgba(255,255,255,.07),rgba(255,255,255,.015) 70%);border-radius:8px}
+.item-tile-img img{max-width:34px;max-height:34px;object-fit:contain;filter:drop-shadow(0 1px 3px rgba(0,0,0,.6))}
+.item-tile-noimg{color:var(--text3);font-size:11px}
+.item-tile-name{font-size:10.5px;line-height:1.25;color:var(--text2);overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.item-tile-tier{margin-top:.2rem;font-size:9.5px;color:var(--gold);text-transform:uppercase;letter-spacing:.02em}
+.item-tile-tier.tier-ember{color:var(--ember)}
+.item-tile-tier.tier-mystic{color:var(--mystic)}
+.item-tile-tier.tier-teal{color:#2dd4bf}
+.item-tile:has(.tier-ember){box-shadow:0 0 0 1px var(--ember-dim)}
+.item-tile:has(.tier-mystic){box-shadow:0 0 0 1px rgba(155,127,232,.18)}
+.item-grid > .item-detail{grid-column:1 / -1;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);padding:.7rem .85rem;box-shadow:var(--shadow)}
+.item-detail h5{margin:0 0 .4rem;font-family:var(--head);font-size:15px;font-weight:700;color:var(--text)}
+.item-detail-desc{white-space:pre-wrap}
+/* Stats laid out two-up so you can scan them at a glance instead of one
+   long single-column list — the "split screen" view. */
+.stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:.4rem;margin-top:.3rem}
+.stat-chip{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.4rem .55rem}
+.stat-chip .fk{display:block;font-size:10px}
+.stat-chip .fv{font-size:13px;color:var(--text)}
+.mat-chips{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.35rem}
+.mat-chip{display:flex;align-items:center;gap:.35rem;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:999px;padding:.2rem .6rem .2rem .25rem}
+.mat-chip img{width:22px;height:22px;object-fit:contain;flex-shrink:0}
+.mat-chip-text{font-size:12px;color:var(--text2)}
+.mat-chip-text b{color:var(--gold)}
+
+.view-tabs{display:flex;gap:.5rem;margin-bottom:.6rem}
+.view-tab{flex:1;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.5rem;color:var(--text3);font-family:var(--head);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.02em;cursor:pointer}
+.view-tab.on{color:var(--gold);border-color:var(--gold)}
 
 .sy{text-align:center;margin-bottom:.2rem}
 .sy b{display:block;font-family:var(--mono);font-size:19px;font-weight:600;letter-spacing:.03em;color:var(--gold);padding:.5rem 0;word-break:break-all}
@@ -308,13 +366,13 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   <div class="wrap hero-row">
     <div class="searchbox">
       <input id="q" type="search" autocomplete="off" autocapitalize="off" spellcheck="false"
-             placeholder="Search skills, quests, creatures…" aria-label="Search">
+             placeholder="Search skills, quests, items…" aria-label="Search">
       <button class="clear" id="clear" aria-label="Clear search">&times;</button>
     </div>
     <button class="gear-btn" id="gearBtn" aria-label="Settings">
       <svg viewBox="0 0 24 24" aria-hidden="true">
-        <path d="M12 15.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z" fill="none" stroke="currentColor" stroke-width="1.6"/>
-        <path d="M19.4 13.5c.05-.5.05-1 0-1.5l1.6-1.2-1.5-2.6-1.9.6a7.6 7.6 0 0 0-1.3-.75l-.3-2H10l-.3 2a7.6 7.6 0 0 0-1.3.75l-1.9-.6-1.5 2.6L6.6 12a6 6 0 0 0 0 1.5L5 14.7l1.5 2.6 1.9-.6c.4.3.85.55 1.3.75l.3 2h4l.3-2a7.6 7.6 0 0 0 1.3-.75l1.9.6 1.5-2.6z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
+        <circle cx="12" cy="12" r="3.4" fill="none" stroke="currentColor" stroke-width="1.7"/>
+        <circle cx="12" cy="12" r="7.5" fill="none" stroke="currentColor" stroke-width="2.3" stroke-dasharray="2.1 2.55" stroke-linecap="round"/>
       </svg>
     </button>
   </div>
@@ -330,29 +388,25 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 
 <script src="skills.js"></script>
 <script src="level-unlocks.js" onerror="this.remove()"></script>
-<script src="locations.js"></script>
 <script src="quests.js"></script>
 <script src="quest-walkthroughs.js" onerror="this.remove()"></script>
-<script src="bestiary.js"></script>
-<script src="bestiary-detail.js" onerror="this.remove()"></script>
-<script src="crafting.js"></script>
-<script src="items.js" onerror="this.remove()"></script>
+<script src="storage.js"></script>
 <script>
 (function(){
 
   var TABS = [
     {key:"tracker", label:"Progress"},
-    {key:"regions", label:"Regions"},
-    {key:"crafting", label:"Crafting"}
+    {key:"storage", label:"Items"},
+    {key:"videos", label:"Videos"}
   ];
   var TAB_LABEL = {}; TABS.forEach(function(t){ TAB_LABEL[t.key] = t.label; });
 
   // Original line-art icons (not the game's own assets) paired with the
   // word labels in the tab bar.
   var ICONS = {
-    regions: '<path d="M9 4 4 6v14l5-2 6 2 5-2V4l-5 2-6-2z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9 4v14M15 6v14" stroke="currentColor" stroke-width="1.6"/>',
-    crafting: '<path d="M15.5 3.5 20.5 8.5 18 11 13 6l2.5-2.5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M13.5 7.5 5 16v3h3l8.5-8.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>',
-    tracker: '<path d="M5 19V10M11 19V5M17 19v-7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>'
+    storage: '<rect x="4" y="9" width="16" height="11" rx="1" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M4 9 6 4h12l2 5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9 13h6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>',
+    tracker: '<path d="M5 19V10M11 19V5M17 19v-7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+    videos: '<rect x="3" y="5.5" width="18" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 9.5v5l4.5-2.5z" fill="currentColor" stroke="none"/>'
   };
 
   // One small original glyph per skill, as a visual aid next to the name —
@@ -375,30 +429,9 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 
   // ---------- build the unified, searchable entry list ----------
   var ENTRIES = [];
-  var DETAIL = window.WILDS_BESTIARY_DETAIL || {};
-
-  // Bestiary lives inside Regions now (one fewer tab, and creatures actually
-  // depend on where you are). Only creatures with a confirmed region field
-  // in bestiary-detail.js get attributed to a specific region — nothing here
-  // is guessed from faction name alone.
-  function creaturesForRegion(regionName){
-    var out = [];
-    (window.WILDS_BESTIARY || []).forEach(function(g){
-      g.names.forEach(function(n){
-        var r = DETAIL[n] && DETAIL[n].region;
-        if (r && r.indexOf(regionName) !== -1) out.push(n);
-      });
-    });
-    return out;
-  }
 
   (window.WILDS_SKILLS || []).forEach(function(s){
     ENTRIES.push({ kind:"skill", tab:"skills", id:"skill:"+s[0], name:s[0], cat:s[1], desc:s[2] });
-  });
-
-  (window.WILDS_REGIONS || []).forEach(function(r){
-    ENTRIES.push({ kind:"region", tab:"regions", id:"region:"+r.name, name:r.name, sub:r.tier,
-      blurb:r.blurb, areas:r.areas||[], features:r.features||"" });
   });
 
   (window.WILDS_QUESTS_PRIMARY || []).forEach(function(q, i){
@@ -412,47 +445,14 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     });
   });
 
-  (window.WILDS_BESTIARY || []).forEach(function(g){
-    ENTRIES.push({ kind:"bestiary", tab:"regions", id:"bestiary:"+g.group, name:g.group,
-      sub:g.names.length+" named", names:g.names });
-  });
-
-  // Individual stations/items are searchable (tab left blank so they never
-  // show up as their own flat rows when just browsing Crafting — that flat
-  // 135-row list was the whole problem) but each links back to its category
-  // card via data-open handling the same way any other card does.
-  function stations(list, stype){
-    (list||[]).forEach(function(s){
-      ENTRIES.push({ kind:"station", tab:"", id:"station:"+s[0], name:s[0], sub:stype, desc:s[1] });
+  // Storage items browse through the dedicated Items/Storage tab (grouped by
+  // chest, see drawStorage()) but are also searchable individually here (tab
+  // left blank so they don't show up as their own flat browsing list).
+  (window.WILDS_STORAGE || []).forEach(function(cat){
+    cat.items.forEach(function(it, i){
+      ENTRIES.push({ kind:"storage-item", tab:"", id:"storitem:"+cat.key+":"+i, name:it.name,
+        sub:it.tier||cat.label, img:it.img, note:it.note||"", chestLabel:cat.label, item:it });
     });
-  }
-  stations(window.WILDS_STATIONS_CRAFTING, "Crafting station");
-  stations(window.WILDS_STATIONS_PROCESSING, "Processing station");
-  stations(window.WILDS_STATION_IMPROVEMENTS, "Improvement");
-
-  (window.WILDS_EQUIPMENT || []).forEach(function(it, i){
-    ENTRIES.push({ kind:"item", tab:"", id:"item:"+i+":"+it.name, name:it.name,
-      sub:it.tier, slot:it.slot, style:it.style, note:it.note||"" });
-  });
-
-  // Crafting browses as categories, not a flat list: one card per station
-  // group, one card per material tier (itself broken into slot sub-groups
-  // inside the card) — "small boxes" instead of 135 rows to scroll past.
-  ENTRIES.push({ kind:"station-category", tab:"crafting", id:"cat:stations-crafting", name:"Crafting Stations",
-    sub:(window.WILDS_STATIONS_CRAFTING||[]).length+" stations", list:window.WILDS_STATIONS_CRAFTING||[] });
-  ENTRIES.push({ kind:"station-category", tab:"crafting", id:"cat:stations-processing", name:"Processing Stations",
-    sub:(window.WILDS_STATIONS_PROCESSING||[]).length+" stations", list:window.WILDS_STATIONS_PROCESSING||[] });
-  ENTRIES.push({ kind:"station-category", tab:"crafting", id:"cat:stations-improvements", name:"Improvements",
-    sub:(window.WILDS_STATION_IMPROVEMENTS||[]).length+" items", list:window.WILDS_STATION_IMPROVEMENTS||[] });
-
-  var TIER_ORDER = ["Stone","Bronze","Iron","Steel","Mithril","Adamant","Black metal","Wood (Fletching)","Obsidian","Dragonhide","Mystic","Kalphite","Trinket","Unique"];
-  var equipByTier = {};
-  (window.WILDS_EQUIPMENT || []).forEach(function(it){ (equipByTier[it.tier] = equipByTier[it.tier] || []).push(it); });
-  TIER_ORDER.forEach(function(t){
-    var list = equipByTier[t];
-    if (!list || !list.length) return;
-    ENTRIES.push({ kind:"equip-tier", tab:"crafting", id:"cat:tier:"+t, name:t+" Equipment",
-      sub:list.length+" items", list:list });
   });
 
   // ---------- search ----------
@@ -488,7 +488,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   var LS_KEY = "wilds-state-v1";
   var STATE = loadState();
   function defaultState(){
-    return { skills:{}, quests:{}, code:"" };
+    return { skills:{}, quests:{}, code:"", powerFilterOn:false, powerLevel:0 };
   }
   function loadState(){
     try {
@@ -511,8 +511,18 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   // Which of the Progress boxes (Skills/Quests) is currently expanded below
   // the grid, and which smaller sub-box inside that one (a skill category,
   // or a quest line) is expanded below its own sub-grid. One of each at a time.
-  var openBox = null;
+  // Skills or Quests is always expanded on Progress — never both collapsed.
+  var openBox = "skills";
   var openSub = null;
+  // Which chest category is expanded in the Items/Storage tab.
+  var openChest = null;
+  // Which single item's full detail is expanded (scoped: "chest::Name" or
+  // "station::Name" so the same item can be open independently in either view).
+  var openItem = null;
+  // "chest" (default, browse by material/category) or "station" (pick one or
+  // more crafting stations and see everything makeable there, combined).
+  var storageView = "station";
+  var selectedStations = {};
 
   // ---------- view state ----------
   // Progress is the app's home now — there's no separate landing screen to
@@ -584,63 +594,15 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
         '<div class="r block"><div class="fk">Unlocks by level (yours: '+lvl+')</div>'+unlockListHtml(e.name, lvl)+'</div>';
       return cardWrap(e, cardHeader(e, null, '<span class="card-icon">'+skillSvg(e.name)+'</span>'), body);
     }
-    if (e.kind === "region"){
-      var areas = e.areas.length ? '<div class="pillrow">'+e.areas.map(function(a){return '<span class="pill">'+esc(a)+'</span>'}).join("")+'</div>' : "";
-      var creatures = creaturesForRegion(e.name);
-      var creatureHtml = creatures.length ? '<div class="r block"><div class="fk">Creatures confirmed here</div>'+
-        creatures.map(function(n){
-          var d = DETAIL[n];
-          return '<div class="wide"><span class="fk">'+esc(n)+'</span><span class="fv"> — '+esc([d.level,d.style].filter(Boolean).join(" · "))+(d.drop?' — drops '+esc(d.drop):'')+'</span></div>';
-        }).join("")+'</div>' : "";
-      var rbody = '<div class="r"><div class="fv">'+esc(e.blurb)+'</div></div>'+
-        (e.areas.length ? '<div class="r"><div class="fk">Sub-areas</div>'+areas+'</div>' : "")+
-        (e.features ? '<div class="r"><div class="fk">Notable</div><div class="fv">'+esc(e.features)+'</div></div>' : "")+
-        creatureHtml;
-      return cardWrap(e, cardHeader(e, null), rbody);
-    }
     if (e.kind === "quest"){
       var badge = '<span class="tagline">'+(e.type==="primary"?"Primary":"Secondary")+'</span>';
       var qbody = '<div class="r"><div class="fv">'+esc(e.desc)+'</div></div>'+questWalkthroughHtml(e.name);
       return cardWrap(e, cardHeader(e, badge), qbody);
     }
-    if (e.kind === "bestiary"){
-      var det = e.names.filter(function(n){ return DETAIL[n]; });
-      var names = '<div class="pillrow">'+e.names.map(function(n){
-        var d = DETAIL[n];
-        return '<span class="pill" title="'+(d?esc([d.region,d.level,d.style].filter(Boolean).join(" · ")):'')+'">'+esc(n)+(d&&d.level?' ('+esc(d.level)+')':'')+'</span>';
-      }).join("")+'</div>';
-      var extra = det.length ? '<div class="r"><div class="fk">Confirmed detail</div>'+det.map(function(n){
-        var d = DETAIL[n];
-        return '<div class="wide"><span class="fk">'+esc(n)+'</span><span class="fv">'+esc([d.region,d.level,d.style].filter(Boolean).join(" · "))+(d.drop?' — drops '+esc(d.drop):'')+'</span></div>';
-      }).join("")+'</div>' : '';
-      return cardWrap(e, cardHeader(e, null), '<div class="r">'+names+'</div>'+extra);
-    }
-    if (e.kind === "station"){
-      var sbody = '<div class="r"><div class="fv">'+esc(e.desc)+'</div></div>';
-      return cardWrap(e, cardHeader(e, null), sbody);
-    }
-    if (e.kind === "item"){
-      var ibody = '<div class="r"><div class="fk">'+esc([e.slot,e.style].filter(Boolean).join(" · "))+'</div>'+
-        (e.note ? '<div class="fv">'+esc(e.note)+'</div>' : '')+'</div>';
-      return cardWrap(e, cardHeader(e, null), ibody);
-    }
-    if (e.kind === "station-category"){
-      var stbody = '<div class="r">'+e.list.map(function(s){
-        return '<div class="wide"><span class="fk">'+esc(s[0])+'</span><span class="fv"> — '+esc(s[1])+'</span></div>';
-      }).join("")+'</div>';
-      return cardWrap(e, cardHeader(e), stbody);
-    }
-    if (e.kind === "equip-tier"){
-      var SLOT_ORDER = ["Weapon","Off-hand","Armour - Head","Armour - Body","Armour - Legs","Ammo","Ring","Amulet"];
-      var bySlot = {};
-      e.list.forEach(function(it){ (bySlot[it.slot] = bySlot[it.slot] || []).push(it); });
-      var etbody = '<div class="r">'+SLOT_ORDER.filter(function(s){ return bySlot[s]; }).map(function(slot){
-        return '<div class="fk subhead">'+esc(slot)+'</div>'+bySlot[slot].map(function(it){
-          return '<div class="wide"><span class="fk">'+esc(it.name)+(it.style?' · '+esc(it.style):'')+'</span>'+
-            (it.note ? '<span class="fv"> — '+esc(it.note)+'</span>' : '')+'</div>';
-        }).join("");
-      }).join("")+'</div>';
-      return cardWrap(e, cardHeader(e), etbody);
+    if (e.kind === "storage-item"){
+      var icon = e.img ? '<span class="card-icon"><img src="'+esc(e.img)+'" alt="" loading="lazy"></span>' : null;
+      var badge = '<span class="tagline">'+esc(e.chestLabel)+'</span>';
+      return cardWrap(e, cardHeader(e, badge, icon), itemDetailHtml(e.item));
     }
     return "";
   }
@@ -654,18 +616,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     body.hidden = !open;
     if (open){ body.classList.remove("in"); void body.offsetWidth; body.classList.add("in"); }
   });
-
-  // ---------- crafting tab extras (static reference tables) ----------
-  function craftingExtras(){
-    var tiers = (window.WILDS_TIERS||[]).map(function(t){
-      return '<tr><td>'+esc(t[0])+'</td><td>'+(t[1]!=null?t[1]:'—')+'</td><td>'+esc(t[2])+'</td></tr>';
-    }).join("");
-    var recipes = (window.WILDS_RECIPES||[]).map(function(r){
-      return '<tr><td>'+esc(r[0])+'</td><td>'+esc(r[1])+'</td><td>'+esc(r[2])+'</td><td>'+esc(r[3])+'</td></tr>';
-    }).join("");
-    return '<div class="tblwrap"><table class="tbl"><thead><tr><th>Tier</th><th>Power lvl</th><th>Where it carries you</th></tr></thead><tbody>'+tiers+'</tbody></table></div>'+
-      '<div class="tblwrap"><table class="tbl"><thead><tr><th>Item</th><th>Station</th><th>Materials</th><th>XP</th></tr></thead><tbody>'+recipes+'</tbody></table></div>';
-  }
 
   // ---------- main draw ----------
   function draw(){
@@ -685,6 +635,18 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       drawSettings();
       return;
     }
+    if (view.tab === "storage" && !q){
+      trackerEl.hidden = false;
+      resultsEl.innerHTML = ""; countEl.textContent = "";
+      drawStorage();
+      return;
+    }
+    if (view.tab === "videos" && !q){
+      trackerEl.hidden = false;
+      resultsEl.innerHTML = ""; countEl.textContent = "";
+      drawVideos();
+      return;
+    }
 
     var list, title;
     if (q){
@@ -696,8 +658,6 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     }
 
     var extras = "";
-    if (!q && view.tab === "crafting") extras = craftingExtras();
-    if (!q && view.tab === "regions") extras = '<div class="note">Creatures with a confirmed location are listed inside their region’s card. Everything else is grouped by faction below, since its exact region isn’t confirmed yet.</div>';
 
     if (!list.length && !extras){
       countEl.textContent = "";
@@ -925,6 +885,232 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 
     trackerEl.innerHTML = '<div class="tk-head"><h2>My progress</h2></div>'+grid+panel;
   }
+
+  // ---------- items / storage ----------
+  // Items past your current power level are hidden when the filter is on.
+  // Untiered items (rare/unique drops) are pinned to the chest's top step by
+  // build_storage.py, so they only appear once the filter reaches max.
+  function visibleItems(cat){
+    if (!STATE.powerFilterOn) return cat.items;
+    return cat.items.filter(function(it){ return it.step <= STATE.powerLevel; });
+  }
+  function chestBox(cat){
+    var open = openChest === cat.key;
+    var shown = visibleItems(cat).length;
+    return '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-chest="'+esc(cat.key)+'">'+
+      '<span class="tk-subbox-label">'+esc(cat.label)+'</span>'+
+      '<span class="tk-subbox-stat">'+shown+(STATE.powerFilterOn && shown!==cat.items.length ? ' / '+cat.items.length : '')+'</span>'+
+      '<span class="tk-subbox-sub">items</span>'+
+      '</button>';
+  }
+  // A splash of color on the highest tiers so browsing a chest isn't just a
+  // wall of gold text — dragon/ancestral materials glow ember, arcane ones
+  // glow mystic, everyday bronze-to-rune stays the familiar gold.
+  function tierHue(tier){
+    if (!tier) return "";
+    if (/dragon|fang|blood/i.test(tier)) return "tier-ember";
+    if (/mystic|ancestral|master|astral|magic/i.test(tier)) return "tier-mystic";
+    if (/^rune$|law|nature/i.test(tier)) return "tier-teal";
+    return "";
+  }
+  function itemTile(it, scope){
+    var img = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy">' : '<span class="item-tile-noimg">?</span>';
+    var open = openItem === scope+"::"+it.name;
+    return '<button type="button" class="item-tile'+(open?" open":"")+'" data-item="'+esc(scope+"::"+it.name)+'">'+
+      '<div class="item-tile-img">'+img+'</div>'+
+      '<div class="item-tile-name">'+esc(it.name)+'</div>'+
+      (it.tier ? '<div class="item-tile-tier '+tierHue(it.tier)+'">'+esc(it.tier)+'</div>' : '')+
+      '</button>';
+  }
+  // Every item's image, looked up by exact name, so recipe ingredients can
+  // show their own icon too — built once, lazily, from the full item list.
+  var ITEM_IMG_BY_NAME = null;
+  function itemImgByName(name){
+    if (!ITEM_IMG_BY_NAME){
+      ITEM_IMG_BY_NAME = {};
+      (window.WILDS_STORAGE || []).forEach(function(cat){
+        cat.items.forEach(function(it){ if (it.img && !ITEM_IMG_BY_NAME[it.name]) ITEM_IMG_BY_NAME[it.name] = it.img; });
+      });
+    }
+    return ITEM_IMG_BY_NAME[name] || "";
+  }
+  // "3x Swamp Thread, 4x Vault Shard" -> [{qty:"3",name:"Swamp Thread"}, ...]
+  function parseMaterials(value){
+    return value.split(",").map(function(s){
+      s = s.trim();
+      var m = s.match(/^(\d+)\s*[x×]\s*(.+)$/i);
+      return m ? { qty: m[1], name: m[2].trim() } : { qty: "", name: s };
+    }).filter(function(m){ return m.name; });
+  }
+  function materialChip(m){
+    var img = itemImgByName(m.name);
+    return '<div class="mat-chip">'+
+      (img ? '<img src="'+esc(img)+'" alt="" loading="lazy">' : '<span class="item-tile-noimg">?</span>')+
+      '<span class="mat-chip-text">'+(m.qty ? '<b>'+esc(m.qty)+'×</b> ' : '')+esc(m.name)+'</span>'+
+      '</div>';
+  }
+  // Full wiki detail for one item, reorganized so the stuff you actually
+  // scan for — what it's made from, its stats — is up top in a compact
+  // grid, and the prose lore/description (the long part) sits at the
+  // bottom instead of pushing everything else off-screen.
+  // Raw materials describe their recipe differently: a combined "Products"
+  // field like "Product: 1 x Leather; Facility: Tannery; XP: 20; Materials:
+  // 1 x Animal Hide" (possibly several, joined by " || " for multi-recipe
+  // items) instead of separate Recipe/Crafting Station rows.
+  function renderProductsField(value){
+    return value.split("||").map(function(line){
+      var parts = {};
+      line.split(";").forEach(function(seg){
+        var i = seg.indexOf(":");
+        if (i < 0) return;
+        parts[seg.slice(0, i).trim().toLowerCase()] = seg.slice(i + 1).trim();
+      });
+      var out = "";
+      if (parts.product) out += '<span class="fk">Makes</span><span class="fv"> '+esc(parts.product)+'</span>';
+      if (parts.materials) out += '<div class="mat-chips">'+parseMaterials(parts.materials).map(materialChip).join("")+'</div>';
+      if (parts.xp) out += '<div style="margin-top:.2rem"><span class="fk">XP</span><span class="fv"> '+esc(parts.xp)+'</span></div>';
+      return '<div class="wide">'+out+'</div>';
+    }).join("");
+  }
+  // "Source: Deer; Quantity: 1; Rarity: Always || Source: Cow; ..." -> one
+  // clean line per source instead of a semicolon-and-pipe wall of text.
+  function renderSourcesField(value){
+    return value.split("||").map(function(line){
+      var parts = {};
+      line.split(";").forEach(function(seg){
+        var i = seg.indexOf(":");
+        if (i < 0) return;
+        parts[seg.slice(0, i).trim().toLowerCase()] = seg.slice(i + 1).trim();
+      });
+      var bits = [parts.source, parts.quantity, parts.rarity].filter(Boolean);
+      return '<div class="wide"><span class="fv">'+esc(bits.join(" — "))+'</span></div>';
+    }).join("");
+  }
+  function itemDetailHtml(it){
+    var d = it.detail;
+    var infobox = (d && d.infobox) || [];
+    var recipeRows = [], sourceRows = [], statRows = [];
+    infobox.forEach(function(r){
+      if (/^Crafting (Station|Facility)/i.test(r.label)) return; // redundant with "Made at" below
+      if (/item sources?/i.test(r.label)) return sourceRows.push(r);
+      (/recipe|product/i.test(r.label) ? recipeRows : statRows).push(r);
+    });
+
+    var recipeHtml = "";
+    if ((it.stations && it.stations.length) || recipeRows.length){
+      var inner = (it.stations && it.stations.length)
+        ? '<div class="wide"><span class="fk">Made at</span><span class="fv"> '+esc(it.stations.join(", "))+'</span></div>' : "";
+      inner += recipeRows.map(function(r){
+        if (/product/i.test(r.label)) return renderProductsField(r.value);
+        if (/material/i.test(r.label)){
+          return '<div class="wide"><span class="fk">'+esc(r.label)+'</span><div class="mat-chips">'+parseMaterials(r.value).map(materialChip).join("")+'</div></div>';
+        }
+        return '<div class="wide"><span class="fk">'+esc(r.label)+'</span><span class="fv"> '+esc(r.value)+'</span></div>';
+      }).join("");
+      recipeHtml = '<div class="r block"><div class="fk subhead">Recipe</div>'+inner+'</div>';
+    }
+
+    var statsHtml = statRows.length
+      ? '<div class="r block"><div class="fk subhead">Stats</div><div class="stat-grid">'+statRows.map(function(r){
+          return '<div class="stat-chip"><span class="fk">'+esc(r.label)+'</span><span class="fv">'+esc(r.value)+'</span></div>';
+        }).join("")+'</div></div>'
+      : "";
+
+    var sourcesHtml = sourceRows.length
+      ? '<div class="r block"><div class="fk subhead">Found from</div>'+sourceRows.map(function(r){ return renderSourcesField(r.value); }).join("")+'</div>'
+      : "";
+
+    var descText = (d && d.description) ? d.description : it.note;
+    var descHtml = descText ? '<div class="r"><div class="fk subhead">About</div><div class="fv item-detail-desc">'+esc(descText)+'</div></div>' : "";
+
+    if (!recipeHtml && !sourcesHtml && !statsHtml && !descHtml) return '<div class="note">No extra detail yet — still being researched.</div>';
+    return recipeHtml + sourcesHtml + statsHtml + descHtml;
+  }
+  function itemGridHtml(items, scope){
+    if (!items.length) return "";
+    return '<div class="item-grid">'+items.map(function(it){
+      var tile = itemTile(it, scope);
+      if (openItem === scope+"::"+it.name){
+        tile += '<div class="item-detail"><h5>'+esc(it.name)+(it.tier ? ' <span class="item-tile-tier '+tierHue(it.tier)+'">'+esc(it.tier)+'</span>' : '')+'</h5>'+itemDetailHtml(it)+'</div>';
+      }
+      return tile;
+    }).join("")+'</div>';
+  }
+  function storageBlock(){
+    var cats = window.WILDS_STORAGE || [];
+    var html = cats.map(function(cat){
+      var box = chestBox(cat);
+      if (openChest === cat.key){
+        var shown = visibleItems(cat);
+        var tiles = shown.length
+          ? itemGridHtml(shown, "chest:"+cat.key)
+          : '<div class="note">'+(cat.items.length ? "Nothing at your current power level yet." : "Nothing catalogued here yet.")+'</div>';
+        box += '<div class="tk-subpanel"><h4>'+esc(cat.label)+'</h4>'+tiles+'</div>';
+      }
+      return box;
+    }).join("");
+    return '<div class="tk-subgrid">'+html+'</div>';
+  }
+  // ---------- items / by crafting station ----------
+  function stationBox(st){
+    var on = !!selectedStations[st.name];
+    return '<button type="button" class="tk-subbox'+(on?" open":"")+'" data-station="'+esc(st.name)+'">'+
+      '<span class="tk-subbox-label">'+esc(st.name)+'</span>'+
+      '<span class="tk-subbox-stat">'+st.count+'</span>'+
+      '<span class="tk-subbox-sub">items</span>'+
+      '</button>';
+  }
+  function itemsAtStations(selected){
+    var out = [];
+    (window.WILDS_STORAGE || []).forEach(function(cat){
+      cat.items.forEach(function(it){
+        if (!it.stations || !it.stations.some(function(s){ return selected[s]; })) return;
+        if (STATE.powerFilterOn && it.step > STATE.powerLevel) return;
+        out.push(it);
+      });
+    });
+    out.sort(function(a,b){ return a.name.localeCompare(b.name); });
+    return out;
+  }
+  function stationBlock(){
+    var stations = window.WILDS_STATIONS || [];
+    var names = Object.keys(selectedStations).filter(function(k){ return selectedStations[k]; });
+    var grid = '<div class="tk-subgrid">'+stations.map(stationBox).join("")+'</div>';
+    if (!stations.length) return grid + '<div class="note">Crafting stations aren’t catalogued yet — still being researched.</div>';
+    if (!names.length) return grid;
+    var items = itemsAtStations(selectedStations);
+    return grid + '<div class="tk-panel" style="margin-top:.8rem"><h3>Made at '+esc(names.join(" + "))+' ('+items.length+')</h3>'+
+      (items.length ? itemGridHtml(items, "station") : '<div class="note">Nothing at your current power level yet.</div>')+'</div>';
+  }
+  function storageTabs(){
+    return '<div class="view-tabs">'+
+      '<button type="button" class="view-tab'+(storageView==="station"?" on":"")+'" data-view="station">By crafting station</button>'+
+      '<button type="button" class="view-tab'+(storageView==="chest"?" on":"")+'" data-view="chest">By material</button>'+
+      '</div>';
+  }
+  function powerControl(){
+    var max = window.WILDS_STORAGE_MAX_STEP || 0;
+    return '<div class="power-ctl">'+
+      '<label class="power-toggle"><input type="checkbox" id="powerFilterOn"'+(STATE.powerFilterOn?' checked':'')+'><span>Only show my power level</span></label>'+
+      (STATE.powerFilterOn ? '<div class="power-stp"><button type="button" data-pwr="-1" aria-label="Decrease">−</button><span>Level '+(STATE.powerLevel+1)+' of '+(max+1)+'</span><button type="button" data-pwr="1" aria-label="Increase">+</button></div>' : '')+
+      '</div>';
+  }
+  function drawStorage(){
+    var cats = window.WILDS_STORAGE || [];
+    var total = cats.reduce(function(s,c){ return s + c.items.length; }, 0);
+    trackerEl.innerHTML = '<div class="tk-head"><h2>Items</h2><p class="tk-head-note">'+total+' items, sorted lowest to highest quality. Tap one to see everything the wiki has on it.</p></div>'+
+      storageTabs() + powerControl() +
+      (storageView === "station" ? stationBlock() : storageBlock());
+  }
+  // ---------- videos ----------
+  var VIDEO_CHANNEL = { name: "Primitive Nomad", uploadsPlaylist: "UURbqswsX9bDjWrQ2jxyVD3w" };
+  function drawVideos(){
+    trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2><p class="tk-head-note">Latest uploads from '+esc(VIDEO_CHANNEL.name)+'.</p></div>'+
+      '<div class="video-embed"><iframe src="https://www.youtube.com/embed/videoseries?list='+esc(VIDEO_CHANNEL.uploadsPlaylist)+'" '+
+      'title="'+esc(VIDEO_CHANNEL.name)+' — latest videos" frameborder="0" '+
+      'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '+
+      'allowfullscreen loading="lazy"></iframe></div>';
+  }
   function drawSettings(){
     trackerEl.innerHTML = '<div class="tk-head"><h2>Settings</h2></div>'+
       '<div class="tk-panel">'+syncBlock()+backupBlock()+'<button class="tk-reset" id="tkReset">Reset all progress</button></div>';
@@ -932,11 +1118,59 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     if (box) box.value = backupJSON();
   }
 
+  trackerEl.addEventListener("change", function(e){
+    if (e.target.id === "powerFilterOn"){
+      STATE.powerFilterOn = e.target.checked;
+      saveState();
+      drawStorage();
+    }
+  });
+
   trackerEl.addEventListener("click", function(e){
+    var viewBtn = e.target.closest("button[data-view]");
+    if (viewBtn){
+      storageView = viewBtn.dataset.view;
+      openItem = null;
+      drawStorage();
+      return;
+    }
+    var chestBtn = e.target.closest("button[data-chest]");
+    if (chestBtn){
+      var ckey = chestBtn.dataset.chest;
+      openChest = (openChest === ckey) ? null : ckey;
+      openItem = null;
+      drawStorage();
+      return;
+    }
+    var stationBtn = e.target.closest("button[data-station]");
+    if (stationBtn){
+      var sname = stationBtn.dataset.station;
+      selectedStations[sname] = !selectedStations[sname];
+      openItem = null;
+      drawStorage();
+      return;
+    }
+    var itemBtn = e.target.closest("button[data-item]");
+    if (itemBtn){
+      var ikey = itemBtn.dataset.item;
+      openItem = (openItem === ikey) ? null : ikey;
+      drawStorage();
+      return;
+    }
+    var pwrBtn = e.target.closest("button[data-pwr]");
+    if (pwrBtn){
+      var max = window.WILDS_STORAGE_MAX_STEP || 0;
+      var d = parseInt(pwrBtn.dataset.pwr, 10);
+      STATE.powerLevel = Math.max(0, Math.min(max, STATE.powerLevel + d));
+      saveState();
+      drawStorage();
+      return;
+    }
     var boxBtn = e.target.closest("button[data-box]");
     if (boxBtn){
       var bkey = boxBtn.dataset.box;
-      openBox = (openBox === bkey) ? null : bkey;
+      if (openBox === bkey) return; // one of Skills/Quests is always open
+      openBox = bkey;
       openSub = null;
       drawTracker();
       return;

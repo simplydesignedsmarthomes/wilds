@@ -1,5 +1,5 @@
-var CACHE = "wilds-v4";
-var ASSETS = ["./", "./index.html", "./skills.js", "./level-unlocks.js", "./locations.js", "./quests.js", "./quest-walkthroughs.js", "./bestiary.js", "./bestiary-detail.js", "./crafting.js", "./items.js", "./icon.svg", "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512.png", "./manifest.webmanifest"];
+var CACHE = "wilds-v5";
+var ASSETS = ["./", "./index.html", "./skills.js", "./level-unlocks.js", "./quests.js", "./quest-walkthroughs.js", "./storage.js", "./icon.svg", "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512.png", "./manifest.webmanifest"];
 
 self.addEventListener("install", function(e){
   self.skipWaiting();

@@ -9762,9 +9762,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Apprentice hat is a power level 2 magic armour that can be crafted at a crafting table.\n\n(Journal)\nPrized for its lightweight and nimble nature, Linen Armour finds favour among apprentice wizards and those who value agility. Composed of layered cloth, it forms a rudimentary defence capable of withstanding minor assaults. \n\nIn the Third Age, apprentice wizards wore this armour as they practised basic spells. The more senior, blue-robed wizards guided them in their practice and taught them basic enchantments that helped them resist low-level spells and curses. \n\nThe creation of these robes was a sacred duty entrusted to the young acolytes of the faith. It was a testament to their devotion and a means of assisting others in their service to Saradomin."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 0
       },
       {
@@ -9843,9 +9840,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Apprentice leggings are a power level 2 magic armour that can be crafted at a crafting table.\n\n(Journal)\nPrized for its lightweight and nimble nature, Linen Armour finds favour among apprentice wizards and those who value agility. Composed of layered cloth, it forms a rudimentary defence capable of withstanding minor assaults. \n\nThis simple armour would remain popular with apprentice wizards long into the Third Age, falling out of fashion only when faced with something more dangerous than a goblin.\n\nThe beastmen further north of Brynmoor used weapons far more vicious than a goblin might wield. They tore through Linen Armour as if it were nothing, and the diminished enchantments of the acolytes did nothing to shield the blows.\n\nApprentice wizards died in droves, and the armour fell out of favour."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 0
       },
       {
@@ -9924,9 +9918,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Apprentice robe is a power level 2 magic armour that can be crafted at a crafting table.\n\n(Journal)\nPrized for its lightweight and nimble nature, Linen Armour finds favour among apprentice wizards and those who value agility. Composed of layered cloth, it forms a rudimentary defence capable of withstanding minor assaults. \n\nAt first, acolytes would spend time at the Wizards' Tower learning about the magic that this armour protects the wearer against. It was common for young priestly acolytes to become enamoured with the mysterious life of the apprentice wizards. They would see them hurling spells with skill and panache, making their lives of quiet contemplation seem awfully dull in comparison. Many young acolytes would make Linen Armour for themselves and practise spellcasting in secret.\n\nThe priests soon discovered their numbers dwindling, while the Wizards' Guild ranks swelled. So, the decree was made that robes were to be crafted in silent contemplation, far away from those who would later wear them. This kept fewer acolytes from being lured away, but the defensive prowess of the armour diminished in return.\n\nThe high priests considered this a reasonable compromise."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 0
       },
       {
@@ -10320,9 +10311,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "A bronze helmet is a power level 3 armour piece that can be crafted at a armour bench.\n\n(Journal)\nBronze was once a secret held by the ancient dwarves. It is a more robust metal forged from an alliance of two others. \n\nThis union of metals was often used as a symbol of cooperation. Alliances would store signed documents in bronze scroll cases or sign them with a pen made of tin and another of copper. \n\nOn Ashenfall, it was used to show that the old ways could stand beside the new. For a while, in the Third Age, druids wore pins of copper, and the Saradominist priests wore pins of tin. They would then stand together, side by side, in village council meetings, a promise that neither one stood stronger than the other."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 1
       },
       {
@@ -10397,9 +10385,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Bronze Med Helm is a power level 3 armour piece. It can be crafted at an Armour Bench using 4 Bronze Bar, 2 Hard Leather, and 1 Wool Thread.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nSometimes you just want to wear a cube on your head and call it fashion. There's no shame in that, we all have our quirks. Why, I like to strut around my house with a raven-shaped walking cane and top hat on and no one's calling me weird - true, it's because anyone that does so is kneecapped and thrown into my basement oubliette, but they learn from their mistakes over time. \n\nHaha, did I say basement oubliette? I meant something entirely sane and normal, you don't need to worry.\n\nNow, these bronze helms are the very peak of rectangular fashion and, for just a few bronze bars, they're very cost-effective."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 1
       },
       {
@@ -10478,9 +10463,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "A bronze platebody is a power level 3 armour piece that can be crafted at a armour bench.\n\n(Journal)\nBronze was once a secret held by the ancient dwarves. It is a more robust metal forged from an alliance of two others. \n\nThe alliance of two different faiths had its own warrior force to defend its shared ideals. Clad in polished bronze armour, these warriors stood out against the stark green of Brynmoor’s fields. They upheld traditions and punished those who blasphemed against either faith. \n\nThe Bronze Advisors, as they were known, would offer advice from both a Saradominist and a Guthixian perspective — order and balance, side by side. Such was the intention, but the scales were already tipped. Policies began to slip more and more in favour of the Saradominist approach as the Guthixian faith slowly dwindled and the Saradominist view took centre stage."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 1
       },
       {
@@ -10559,9 +10541,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Bronze platelegs Is a power level 3 armour piece that can be crafted at a armour bench.\n\n(Journal)\nBronze was once a secret held by the ancient dwarves. It is a more robust metal forged from an alliance of two others. \n\nAs the Saradomin faith became more popular, the bronze-clad inquisition enforced Saradomin’s laws, even when they conflicted with the Guthixian faith. It was a slow change that went from clearing shrines of monsters to clearing shrines of the Guthixian heresy. \n\nWhen the druids finally rebelled, the bronze-clad enforcers were called against them, not the White Knights. The cruel irony of being arrested by the very force created to protect them."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 1
       },
       {
@@ -10620,9 +10599,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The bronze shield  is a power level 3 shield that can be crafted at a blacksmith's bench.\n\n(Journal)\nWhile heavier than other materials, there’s little argument that a bronze shield is a superior defence to wood and leather materials. The metal turns aside almost any blow, protecting the wielder behind its mass. \n\nEven the Wild Knights, who usually shunned metal weapons, would don bronze shields into battle. Their philosophy was that a life is worth more than a principle. \n\nBefore the peace treaty with their goddess, Lougrim, the garou would often get into conflict with travelling villagers. They saw the humans as prey, willfully intruding on their land and therefore consenting to be hunted. The humans, of course, saw things differently. \n\nGarou weapons were powerful and delivered by creatures of unnatural strength. Yet bronze would defend against these attacks, and it gave the garou pause, for they had yet to battle foe with such intriguing technology. Battles that would previously have been a slaughter became skirmishes as the garou tested their might against these new bronze defences. \n\nThis comparative peace did not last long."
         },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
         "step": 1
       },
       {
@@ -10701,9 +10677,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Hard leather body is a power level 3 ranged armour that can be crafted at an armour bench.\n\n(Journal)\nHardened leather offers a sturdier defence that is able to turn away more powerful attacks. Favoured by hunters and rangers, who like the defence it offers without the reduction in mobility that comes with sturdier armour.During the schism and the inner conflicts between 'pure' humans and the Amalgamated, Wild Knights would sneak into the village and rescue persecuted Amalgamated in the dead of night. Their armour was silent enough to allow them to move through the village quietly, and they had enough mobility to make a quick escape if caught.Those who captured Amalgamated were rarely well-equipped soldiers, and their knives were often turned away by the hardness of the leather. During those dark times, this simple armour saved many lives."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 1
       },
       {
@@ -10782,9 +10755,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Hard leather chaps is a power level 3 ranged armour that can be crafted at an armour bench.\n\n(Journal)\nHardened leather offers a sturdier defence that is able to turn away more powerful attacks. Favoured by hunters and rangers, who like the defence it offers without the reduction in mobility that comes with sturdier armour.In poor weather, particularly rain and cold, the armour would create a distinctive creaking noise. Barely audible for the most part, but in the silence of the night, it felt like a deafening roar. Wild Knights compensated for the sound of their armour by using simple spells to distract people, as they crept through the streets to rescue Amalgamated.They called animal spirits, notably crows, ravens and magpies, which would caw angrily at anyone nearby. In reference to the magpie spirits they would summon, the term 'dark tidings' came to refer to whenever the Wild Knights were seen near town."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 1
       },
       {
@@ -10863,9 +10833,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Hard leather cowl is a power level 3 ranged armour that can be crafted at an armour bench.\n\n(Journal)\nHardened leather offers a sturdier defence that is able to turn away more powerful attacks. Favoured by hunters and rangers, who like the defence it offers without the reduction in mobility that comes with sturdier armour.Wild Knight hunters would favour this armour when visiting the forests of Brynmoor. Hard leather was sturdy and the colours blended more easily with the treeline, allowing them to stalk their prey more stealthily.For those of Amalgamated heritage, the armour was shaped more easily around any inconvenient mutations, and many a ranger would theme their armour to match. Fire-touched Amalgamated were poorly suited to the armour, cooking the leather as they went. But those affected by plant-like mutations enjoyed blending leather and leaf."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 1
       },
       {
@@ -11271,9 +11238,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dark mage hood is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.The first set of dark mage robes were so named because the technique to craft them required cloth that had been dyed by a unique alchemical mixture. As the years passed and Guthix introduced runes, the mixture was replaced with subtle enchantments, though the appearance was kept the same for tradition’s sake.Naturally, many practitioners of magic preferred this armour for its darker aesthetic. Indeed, many rogue dark wizards would don this armour and use magic to engage in sinister undertakings, earning this armour's moniker a more sinister meaning."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11352,9 +11316,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dark mage robe legs is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.The most infamous dark wizards became a fairy tale for the people of Brynmoor, a cautionary tale of greed and the desire for power. They sought power in the darkest of places, and it turned them into something monstrous.They appeared in the village in the dead of night as twisted versions of themselves — mindless creatures infused with a shadowy essence. Those who found themselves in their path had their lives ripped out of them until nought but an empty husk remained.It took all the visiting Wild Knights to take them down. Arrow after arrow, spell after spell, the task seemed almost insurmountable, until the light of the sun made the creatures vulnerable. In their death throes, it was as if some horrible chill fell across the world, as if a door somewhere had been opened into somewhere it shouldn’t."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11433,9 +11394,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dark mage robes are a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth and the Mystic Forge\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.Brynmoor had a string of so-called 'dark wizards'. Most were little more than bandits with a penchant for magic. The guards were sufficient for dealing with the majority of troublemakers, but a small group did cause a real upset. They were members of the Children of Shadows, a Zamorakian cult that began spreading through the population. The cult fed on distrust, paranoia and greed — some very human traits. Among their number were three apprentices of the Wizards' Guild, who were frustrated by having not received the promotions they felt they deserved.In their quest for power, the Children of Shadows stumbled upon ancient vaults; repositories of the dragonkin's long-forgotten secrets. Here, they discovered the remnants of a forbidden text, a relic of immense power. Driven by their arrogance, they chose to follow its instructions, unaware of the horrors they were about to unleash."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11514,9 +11472,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dragonkin mage hood is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe can be found in Chaktan Kara, a dragonkin vault.\n\n(Journal)\nThe dragonkin of Ashenfall reveled in power, gaining elemental mastery from the land's strange anima. Although their kind tended to ignore magic in favour of alchemy and science, the dragonkin of Ashenfall enjoyed their time as sorcerer kings.They wore robes that empowered their magic, using alchemical techniques to create cloth that resisted their elemental powers. Fire would not burn so easily. Cold would not damage the threads. Lightning could be turned aside with a flick of a cloak. Though these techniques are lost to time, the echoes of their powerful resistance remain.The hood was designed for two purposes. The shadow it cast upon the dragonkin features made their visage scarier and more intimidating. Goblins, humans and garou would cower from the reptilian grin, which was all they could see in the shadow. The second was to hide their frustration at the foolishness of others, including their fellow dragonkin. It is much easier to roll one's eyes when no one can see it."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11595,9 +11550,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dragonkin mage robe legs are a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe can be found in Chaktan Kara, a dragonkin vault.\n\n(Journal)\nThe dragonkin of Ashenfall reveled in power, gaining elemental mastery from the land's strange anima. Although their kind tended to ignore magic in favour of alchemy and science, the dragonkin of Ashenfall enjoyed their time as sorcerer kings.They wore robes that empowered their magic, using alchemical techniques to create cloth that resisted their elemental powers. Fire would not burn so easily. Cold would not damage the threads. Lightning could be turned aside with a flick of a cloak. Though these techniques are lost to time, the echoes of their powerful resistance remain.Lacrussa was the only dragonkin to resist the allure of magic. She insisted that science was the greater power. That with time and study, it  capable of almost anything. Lacrussa wore the robes as a small act of rebellion, claiming that magic would always be overcome in the end.Unlike her companions, Lacrussa refused to decorate her robes. She took no joy in precious stones or shining metals. She refused to embroider designs across the cloak. She did, however, use alchemical techniques to enhance the robes' defensive power. Something the other dragonkin soon came to copy, proving, in her mind, the superiority of science."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11676,9 +11628,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dragonkin mage robes is a power level 4 Magic robe that can be created at an armour bench.\n\nThe recipe can be found in Chaktan Kara, a dragonkin vault.\n\n(Journal)\nThe dragonkin of Ashenfall reveled in power, gaining elemental mastery from the land's strange anima. Although their kind tended to ignore magic in favour of alchemy and science, the dragonkin of Ashenfall enjoyed their time as sorcerer kings.They wore robes that empowered their magic, using alchemical techniques to create cloth that resisted their elemental powers. Fire would not burn so easily. Cold would not damage the threads. Lightning could be turned aside with a flick of a cloak. Though these techniques are lost to time, the echoes of their powerful resistance remain.Although dragonkin tend to favour form over fashion, they stitched these robes with undeniable regal zeal. They were more elaborate than necessary, more stylish than required, feeding into the egos of the wearer.Rasthin, it is said, was particularly fond of stitching elaborate filigree into her robes. Made from threads woven with precious metals and gemstones, her robes would sparkle and glitter as she flew across the realm. When she brought forward her flames, everyone marvelled.Glittering against the sky, she inspired as much devotion as fear in her subjects."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11757,9 +11706,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Iron helmet is a power level 4 armour piece that is crafted with a armour bench.\n\n(Journal)\nBlacksmiths everywhere favour iron as a material to forge with. It is strong, durable and malleable when hot, and yet rigid when cool. It has been used to create weapons and unbreakable containers. Yet, it is most popular when turned into protection for those forced to ride into battle.\n\nDuring the third age, the blacksmiths travelling with the Saradominist priests brought the technique of iron to the people of Ashenfall. Previously relying on leather, bone and more easily extracted metals, the introduction of iron brought great change to the village's way of life.\n\nThey crafted more robust tools, mightier weapons and armour that practically erased the natural fear of heading into the woods. Only the Wild Knights opposed this new material, fearing its sudden popularity would impact the continent's ecosystem."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11834,9 +11780,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Iron Med Helm is a power level 4 armour piece. It can be crafted at an Armour Bench using 4 Iron Bar, 4 Hard Leather, 1 Padded Cloth, and 1 Vault Shard.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition\n\n(Journal)\nBronze, it's so last region, isn't it? It's weak, it's gaudy. Why, you can do so much better than that. Iron, that's the future: a ferromagnetic cage around your cranium is guaranteed to prevent almost some damage to your squishy brain.\n\nStrangely, none of the residents of Brynmoor wore medium helms: they all went straight for full helms. Probably because they wanted to protect their face from deadly weapons, the cowards."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11915,9 +11858,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "An iron platebody is a power level 4 armour piece that is crafted with a armour bench.\n\n(Journal)\nBlacksmiths everywhere favour iron as a material to forge with. It is strong, durable and malleable when hot, and yet rigid when cool. It has been used to create weapons and unbreakable containers. Yet, it is most popular when turned into protection for those forced to ride into battle.\n\nThe desire for iron in the village of Bramblemead was so strong that they exhausted all the iron deposits in Brynmoor. The Wild Knights cautioned them to look for more sustainable methods. Still, the villagers had become too accustomed to the luxury of iron.\n\nMilitia groups began to form to search Ghornfell for the precious metal ore. They marched in large groups, crushing plants beneath their metal heels and destroying whole areas of woodland in search of iron ore.\n\nTheir noise and bluster drew the ire of roving garou, who saw the invasion of their forests as a violation of their treaties."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -11996,9 +11936,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "An iron platelegs is a power level 4 armour piece that is crafted with a armour bench.\n\n(Journal)\nBlacksmiths everywhere favour iron as a material to forge with. It is strong, durable and malleable when hot, and yet rigid when cool. It has been used to create weapons and unbreakable containers. Yet, it is most popular when turned into protection for those forced to ride into battle.\n\nFrom the outset, the search for iron ignited a fierce conflict between the humans and the garou. Each incursion escalated the tension, pushing both sides perilously close to the brink of war. However, the situation reached a critical juncture when Bandos dispatched an emissary to the villagers of Brynmoor, offering a solution to their Garou predicament.\n\nThe Saradominist priests met with emissaries of Bandos and came to an alliance. The humans would claim the mines of Ghornfell, as long as Bandos could claim the head of the garou goddess, Lougrim.\nA win-win, as far as the priests were concerned."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 2
       },
       {
@@ -12844,9 +12781,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Green dragonhide body is power level 5 ranged armour that can be created at an armour bench.\n\nThe recipe is unlocked upon obtaining green dragon hide.\n\n(Journal)\nWear the skin of your enemies, so that they know to fear you! This is the ranger way, to dress themselves in the outer layers of weaker dragons so that they larger dragons know not to mess with them.Love makes fools of all of us. Infatuation more so, especially one-sided. Bilar was in love, so he claimed. He spoke of her beauty. He spoke of her acumen. He spoke of… well, he spoke a lot about things that you do not repeat in polite society. He wanted her and he wanted the ultimate gift to win her affection: a dragon’s heart.Yet, dragons are unwilling to part with such a vital organ, and Bilar had to get creative. He found a dead dragon, one that had been slain in battle with a rival, and he decided to skin it. With it’s scaley hide in his possession he spent weeks fashioning powerful armour from the remains, until he had an outfit that resembled the creature he hunted.So dressed, he set out towards the great stone circle near Emberwood, knowing that a dragon had recently made it its home. He would slay it, claim its heart and present it to the woman he loved and she would surely agree to be his forever."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 3
       },
       {
@@ -12925,9 +12859,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Green dragonhide chaps is power level 5 ranged armour that can be created at an armour bench.\n\nThe recipe is unlocked upon obtaining green dragon hide.\n\n(Journal)\nWear the skin of your enemies, so that they know to fear you! This is the ranger way, to dress themselves in the outer layers of weaker dragons so that they larger dragons know not to mess with them.The funeral of Bilar Amaris was not a particularly popular one. A few fellow hunters stopped by to pay the briefest of respects, and a drunk great uncle turned up and got the name wrong. His death would have passed into complete obscurity, except for the clothes he was wearing when he died.Despite the mauled condition of his corpse, the villagers that found him noticed the surprisingly supple and yet sturdy armour. Barely a scratch covered the dragonhide, and they remarked that if only he’d covered the neck a bit better, then he might not have ended up in the state he did.The villagers brought the armour back and leatherworkers set to work on repeating it and improving it. Soon the best hunters in Emberwood would be wearing green dragonhide armour, and matched with better common sense, it kept them alive much longer."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 3
       },
       {
@@ -13006,9 +12937,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Green dragonhide coif is a power level 5 ranged armour that can be created at an armour bench.\n\nThe recipe is unlocked upon obtaining green dragon hide.\n\n(Journal)\nWear the skin of your enemies, so that they know to fear you! This is the ranger way, to dress themselves in the outer layers of weaker dragons so that they larger dragons know not to mess with them.Such was the logic of Bilar Amaris, a hunter that dwelled withing Emberwood. He was renowned among the locals, skilled with the bow and capable of taking down almost any prey. When the green dragons descended on the region, he decided that he would be the apex predator, hunting them down.This was partially done in a misguided attempt to win the affections of the “black-haired beauty” that had set up a little potion shop in the village. Like many idiots, he had convinced himself that all a woman could ever want was a strong man that was capable of killing something bigger than he was.He was, unsurprisingly, deeply mistaken."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 3
       },
       {
@@ -14838,9 +14766,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Blue dragonhide body is a power level 6 ranged armour that can be crafted at an armour bench.\n\nThe recipe is unlocked upon obtaining blue dragon hide.\n\n(Journal)\nBlue dragons are not native to Dowdun Reach, because blue dragons are not native anywhere. They are creations of the dragonkin, and this particular strain is Lacrussa's work. Lacrussa did not consider them failures, but she did not consider them successes, either. They were stepping stones: and, as such, she let them rest on Dowdun Reach.Rasthin changed everything. She came to Avisk with a gift: 'Jas Moksha', in the tongue of the Kin. It was a device that imbued Avisk with the element of air. Avisk accepted the gift politely. Rasthin could have over-powered him with ease. He played supplicant and took the gift, hoping that it wasn't a trap or curse.That disdain shifted once Avisk realised that the powers were not limited to the material realm. He could move with alacrity, purpose and strength in the minds of others. Minds that were once closed to him blossomed like a flower. He dabbled with ogres, and then moved on to blue dragons.Within the minds of blue dragons, he found a secret. There was a blockage - a multi-faceted prism - that kept their potential at bay. It redirected their thoughts in wild directions, made them unruly. It seemed that their animalistic nature was a product of mental hindrances, rather than physical. With his new powers, he could solve a problem that had hounded Lacrussa for centuries."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 4
       },
       {
@@ -14919,9 +14844,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Blue dragonhide chaps is a power level 6 ranged armour that can be crafted at an armour bench.\n\nThe recipe is unlocked upon obtaining blue dragon hide.\n\n(Journal)\nBlue dragons are not native to Dowdun Reach, because blue dragons are not native anywhere. They are creations of the dragonkin, and this particular strain is Lacrussa's work. Lacrussa did not consider them failures, but she did not consider them successes, either. They were stepping stones: and, as such, she let them rest on Dowdun Reach.Avisk maneuvered the multi-faceted prism within the blue dragon's mind. He observed it using his mastery of air, but no permutation would focus the blue dragon's thoughts, no orientation would align the chaos. He resolved to break parts of that giant stone, but its power was diminished with each snap and shatter. He crumpled to the floor of the blue dragon's mind-space in frustration.The breakthrough was borne from that frustration. Just as he would move into the consciousness of a living being, he moved into the consciousness of the stone. Perhaps he forgot where he was. Against all his expectations, he was able to step into the stone itself, as if it itself had a consciousness. There was a second layer to the blue dragon's mind.It is impossible to comprehend what Avisk saw there. But he was forever changed. He no longer cared for healing the blue dragons of their crystalline blockage, of restoring them to sapient thought. Instead, he wished to recreate the prism, the crystal, in the corporeal world."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 4
       },
       {
@@ -15000,9 +14922,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Blue dragonhide coif is a power level 6 ranged armour that can be crafted at an armour bench.\n\nThe recipe is unlocked upon obtaining blue dragon hide.\n\n(Journal)\nBlue dragons are not native to Dowdun Reach, because blue dragons are not native anywhere. They are creations of the dragonkin, and this particular strain is Lacrussa's work. Lacrussa did not consider them failures, but she did not consider them successes, either. They were stepping stones: and, as such, she let them rest on Dowdun Reach.Avisk initially had no use for them. His focus was on lower species, humans and the like. He saw room within human minds to crawl and make them his own. Their consciousness was a hall of prisms, and he could turn them all so that they focused on him. The human mind reflected back his narcissism.To Avisk, the blue dragons were nuisances, liable to kill his test subjects while he was distracted. He penned them and forgot about them, cursing Lacrussa for letting them stray into his domain. Their number grew, but Avisk tutted and continued his work."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 4
       },
       {
@@ -16627,9 +16546,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant helmet is a power level 7 armour piece.\n\n(Journal)\nIt was the dwarves who first discovered adamant: a metal so strong and powerful that it could turn aside almost any other blade. It was hard to work with and difficult to refine, so it saw little use in the early ages.\n\nMalgo, druid of Guthix, was one of the first to see the worth in adamant. It was an age before dwarves were cursed by Zamorak to be unable to use magic without severe consequence, and Malgo was one of the greatest spellcasters of his people. He joined the ranks of the Guthixian druids, even though - like many dwarves - he was only a follower of Guthix, rather than a worshipper."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -16704,9 +16620,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Adamant Med Helm is a power level 7 helmet. It can be crafted at an Armour Bench using 4 Adamant Bar, 4 Scorch Leather, 1 Desert Cloth, 1 Refined Obsidian, 1 Gypsum Wax, and 1 Garou Weave.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nThe Moon Garou have crafted impressive suits of armour. Stylish, elegant, and sturdy. One of their blacksmiths experimented with the medium helm, and earned much mockery from his tribe.\n\nTrue, the helm was sturdy and turned aside arrow and blade alike, but it lacked the grace and style of the traditional adamant armour, given that it was so very, very square.\n\nStill, he would be most glad to have crafted it, for on one sandstorm-heavy evening, it was the only thing that saved him when the kalphites attacked. They were brutal, they were cruel, they tore apart the rest of his caravan in moments, yet his helm stood strong against the maw of one of their number, and they abandoned him when they realised how much effort eating him would be."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -16785,9 +16698,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant platebody is a power level 7 armour piece.\n\n(Journal)\nIt was the dwarves who first discovered adamant: a metal so strong and powerful that it could turn aside almost any other blade. It was hard to work with and difficult to refine, so it saw little use in the early ages.\n\nAs Malgo and his expedition headed into the deserts of Ashenfall, they found wonderous new ores, materials and treasures that promised to expand their knowledge and understanding by leagues. They also found Karibdos, the devourer.\n\nIt was a great beast that lay within the sands; some dread creature that should never have existed. It was buried beneath the region, massive and hungry and, as the expedition approached, it opened wide its maw and attempted to swallow the entire group whole.\n\nWith quick thinking and forgotten spells, Malgo summoned vines for the expedition members to grasp. Many failed and were consumed by the great vortex in the sand that was Karibdos.\n\nThough they struck back, their arrows and spells were too weak to pierce its hide and Karibdos simply returned to its slumber, waiting for the expedition to cross its path again."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -16866,9 +16776,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant platelegs are a power level 7 armour piece.\n\n(Journal)\nIt was the dwarves who first discovered adamant: a metal so strong and powerful that it could turn aside almost any other blade. It was hard to work with and difficult to refine, so it saw little use in the early ages.\n\nKaribdos was the obstacle between the rest of Ashenfall and a slow, defeated, trudge home. Malgo refused to allow the latter. He studied adamant carefully, experimenting with techniques and styles none bothered with before, even infusing it with a little magic. In doing so, he discovered the strength of the material.\n\nWhen the expedition faced Karibdos again, it was in suits of solid adamant and glistening green blades ready to strike. They fell into the beast’s great maw, but rather than a delicious dwarven meal, Karibdos found its teeth shattering against their armour and its ancient hide torn apart from flashing blades of green metal.\n\nWith Karibdos dead and gone, Malgo and his team continued deeper into the region, vanishing into legend. For those who make the desert their home, none have witnessed anything like Karibdos again… though, perhaps, they simply haven’t dug deep enough."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -16927,9 +16834,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant shield is a power level 7 shield. Players will need to have scorch leather to unlock the adamant shield in the blacksmith's bench.\n\n(Journal)\nYou may ask yourself what better defence there is than a large sheet of metal between you and your enemy, and teh answer will surprise you. Thicker metal.\n\nOK, so that's not a surprise, I'm sorry. I was just trying to build a little dramatic tension.\n\nThe adamant shield is one of the greatest defensive creations available in Umbral Sands and favoured by any Moon Garou that needs to brave the kalphite hives or the KotHaar territories. Lesser arrows ping harmlessly off them, and weaker blades have been known to shatter against the adamant's hardness.\n\nShields are good, everyone should have one."
         },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
         "step": 5
       },
       {
@@ -17000,9 +16904,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Desert hood is a power level 7 magic armour that can be crafted at an armour bench. The recipe is unlocked by purchasing and using the sun-bleached head wrap vestige from Domri - The Merchant.\n\n(Journal)\nThe desert is a cruel and unforgiving place, and that was before Fuzan corrupted the sun against it. Dry air, filled with sand particles, leech all moisture from the body, leaving you dehydrated, exhausted and with no respite in view. Oases can be mirages, tricks played by the dunes to lure you deeper into your own destruction. These robes help to limit some of the desert’s power, through ancient tricks learned by those who have dwelled within the dunes for generations.\n\nThe hood is the most basic necessity of the desert. It shields the top of one’s head from the sun’s cruel ministrations, acting as a barrier between sunstroke and you. The hood also helps protect against particulates of sand that have been stirred up by meagre breezes.\n\nThe overhanging fabric shields the eyes from the light, just a little. A tiny point of shade in a glaring light that’s almost crushing in its brightness.\n\nFinally, they’re surprisingly fashionable, everyone should try one."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -17073,9 +16974,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Desert robe legs are a power level 7 magic armour that can be crafted at an armour bench. The recipe is unlocked by purchasing and using the sun-bleached leggings vestige from Iasadair - The Merchant.\n\n(Journal)\nThe desert is a cruel and unforgiving place, and that was before Fuzan corrupted the sun against it. Dry air, filled with sand particles, leech all moisture from the body, leaving you dehydrated, exhausted and with no respite in view. Oases can be mirages, tricks played by the dunes to lure you deeper into your own destruction. These robes help to limit some of the desert’s power, through ancient tricks learned by those who have dwelled within the dunes for generations.\n\nThese simple leggings are all that stands between you and obliteration by a sandstorm. Sand can be sharp, it can be abrasive and, given time, it can wear a person down to nothing but the memory of them in another person’s mind.\n\nCloth won’t stop that, not really, but it will delay the obliteration long enough for you to get to shelter when the worst of the storm hits. You’ll still want to run, though."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -17146,9 +17044,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Desert robes are a power level 7 magic armour that can be crafted at an armour bench. The recipe is unlocked by purchasing and using the sun-bleached vest vestige from Beartach - The Merchant.\n\n(Journal)\nThe desert is a cruel and unforgiving place, and that was before Fuzan corrupted the sun against it. Dry air, filled with sand particles, leech all moisture from the body, leaving you dehydrated, exhausted and with no respite in view. Oases can be mirages, tricks played by the dunes to lure you deeper into your own destruction. These robes help to limit some of the desert’s power, through ancient tricks learned by those who have dwelled within the dunes for generations.\n\nThese simple leggings are all that stands between you and obliteration by a sandstorm. Sand can be sharp, it can be abrasive and, given time, it can wear a person down to nothing but the memory of them in another person’s mind.\n\nCloth won’t stop that, not really, but it will delay the obliteration long enough for you to get to shelter when the worst of the storm hits. You’ll still want to run, though."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -17223,9 +17118,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Infinity robe body is a power level 7 magic armour that can be crafted at an armour bench.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nParts of the kalphites, most notably their wings, were a scintillating spectrum of beautiful colours. As they caught the sunlight, they would bloom into a radiant rainbow of delight and Karia found herself overcome with a strange sort of envy previously unknown to her people.\n\nShe wanted to sparkle. She wanted to shine. She wanted to live a life encased in the most magnificent and wondrous colours, and she would do anything to make it happen.\n\nTo call the events that followed a war would be an over-exaggeration, but not wholly inaccurate. The garou descended on the hives with blade, claw and bow, ready to tear the beasts apart so that they might claim the colourful materials for themselves. The kalphite, of course, did not fall easily and many garou lives were lost in the clothing-mad conflict."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -17300,9 +17192,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Infinity robe hat is a power level 7 magic armour that can be crafted at an armour bench.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell, they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nKaira, druid of the Softfoot tribe, was one of the first of the Moon Garou to hunt through the sands in search of materials they could use to craft robes of their own. They expected magnificent beasts with scales and horns the likes of which they had never seen. They found the kalphites instead.\n\nTheir first interaction did not go well."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -17377,9 +17266,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Infinity robe legs are power level 7 magic armour that can be crafted at an armour bench.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nThe kalphite did not offer diplomatic solutions to the garou’s assaults, but they offered violent ones. On one night, the garou saw an approaching sandstorm, but were not prepared for the truth. As the storm approached, the buzzing sound grew to a crescendo as the great kalphite swarm blotted out the stars and moon, descending upon the village.\n\nThere were none left alive once all had passed.\n\nYou would think this would have been the end of it, that death and pain would be deterrent enough. Yet, for the years, decades and centuries that followed, the desire for colourful material was too strong a lure.\n\nCountless lives have been lost to kalphite retribution. But what is fashion without a little sacrifice?"
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 5
       },
       {
@@ -18277,9 +18163,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ancestral hat is a power level 8 magic armour piece that is crafted with an armour bench.\n\n(Journal)\nLong ago, there were people in Ashenfall. Not humans, not elves, nor anyone you might remember, but sentient beings with a life, a culture and a civilisation all of their own. No trace of them remains today.\n\nMillennia ago, the Kobalios settled in Gielinor, on the only part of the world that could sustain them - Ashenfall. They were beings infused with magic. It was their food, their blood, their very essence and, because of this, they were dying. Using teleportation magics that would make the Wizards' Guild salivate, they travelled across the stars in search of worlds that might sustain them. On Gielinor, they found Ashenfall and the Wellspring at its heart. A font of anima, infused with all the resonance they could eat; a veritable geyser of magic for the Kobalios to feast upon.\n\nAnd feast they did. Their race, already few in number, gorged themselves upon the mystical font and, like so many others have across creation, they grew greedy. It only took one to start the cascade that would lead to their destruction - a single Kobalios that took more than her fair share. She used a spell to divert the flow of anima; just a little, so that the outpouring stream would flow straight to her and not her siblings. She feasted, whilst the others around her grew hungry and weak from the lack of magic. She felt no guilt, for she believed they could have done the same."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18354,9 +18237,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ancestral leggings is a power level 8 magic armour piece that is crafted with an armour bench.\n\n(Journal)\nLong ago, there were people in Ashenfall. Not humans, not elves, nor anyone you might remember, but sentient beings with a life, a culture and a civilisation all of their own. No trace of them remains today.\n\nWithin a few years, the Kobalios were all but extinct. The remaining members of their number began to become twisted creatures; pale reflections of their once noble ancestors. Their limbs elongated and their mouths stretched wide, so that they might feast more and more upon the Wellspring’s power.\n\nSoon, only a handful of the Kobalios remained, and they were easy pickings for the dragonkin when Rasthin and her allies arrived. The battle was swift and brutal, for the dragonkin know nothing of mercy. The slothful, greedy Kobalios had long forgotten the spells of their ancestors and therefore lacked any defence against the dragonkin’s weapons.\n\nThe last of the Kobalios were obliterated by Rasthin’s strange arcane cannons, and the legacy of their entire species died with them.\n\nNow, all that remains are a handful of robes cut in the style of the Kobalios. A poor legacy for a once proud people."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18427,9 +18307,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ancestral robes is a power level 8 magic armour piece, crafted using materials found within the Scorned Wilderness raid zone.\n\n(Journal)\nLong ago, there were people in Ashenfall. Not humans, not elves, nor anyone you might remember, but sentient beings with a life, a culture and a civilisation all of their own. No trace of them remains today.\n\nMore and more of the Kobalios began to take more than their fair share. The Wellspring was never-ending, but it would only release at a steady rate. Only so much could be consumed at any one time, and fewer and fewer of the Kobalios were able to enjoy it.\n\nIn their desperation, they used rituals and spells to draw more anima from the Wellspring than it gave, and this caused a tiny crack to appear in the skein of creation. From this crack, smoke rose and filled the bellies of the greediest of the Kobalios.\n\nThe effect of the smoke was subtle, but deadly. It left a hole in the heart of the infected that made them yearn for more and more anima; to feast deeper and deeper upon the Wellspring, regardless of how it might impact their kin.\n\n(Trivia)\n* In Old School RuneScape, ancestral robes are rare drop rewards for completing the Chambers of Xeric.\n* In RuneScape, there is an achievement called It Should Have Been Called Ancestral, which is unlocked when creating a full set of Starbloom equipment to +5.\n** This achievement is a reference to Old School RuneScape's ancestral robes, which almost made its way to RuneScape, but the idea was scrapped."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18504,9 +18381,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Black Dragonhide Body is a Power level 8 ranged armour piece crafted with an armour bench.\n\n(Journal)\nThe scales of a black dragon are sturdy things, capable of deflecting all but the strongest attacks. It’s not so much that they’re harder than other scales, but that the creature that bore them is so determined to survive that that tenacity passes on to one who wears it.\n\nThere were a few garou hunters that were skilled enough to challenge a black dragon, but only one was ever strong enough to skin an entire one and wear its scales as armour. Her name was Scathach, and she was the very model of garou savagery.\n\nShe wielded a great spear and, where other garou would sneak, she would leap, proudly, into battle against the dragons, to prove that the garou were just as deadly as the dragons, if not more so.\n\nWhen her spear pierced the heart of a mighty dragon, she would let out a howl that would terrify even the bravest of souls."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18581,9 +18455,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Black dragonhide chaps is a power level 8 ranged armour piece that is crafted with an armour bench.\n\n(Journal)\nThe scales of a black dragon are sturdy things, capable of deflecting all but the strongest attacks. It’s not so much that they’re harder than other scales, but that the creature that bore them is so determined to survive that that tenacity passes on to one who wears it.\n\nScathach wore armour forged from the scales of her victims, and necklaces of their teeth dangled around her neck. She walked bravely among the dragons, because she knew that none would dare challenge her as she wore the skin of their kin.\n\nHer confidence won the attention of Kuldra. Impressed with the garou’s skill, strength and sheer audacity, Kuldra granted her a drop of her blood, elevating Scathach above both her kin and the dragons she challenged.\n\nIt was this blood that would cause Scathach’s betrayal, because the remnants of the moon goddess, Lougrim, whispered within Kuldra’s blood and urged Scathach to turn on her mistress.\n\nSadly, her betrayal was short-lived, and stands as a warning to all other garou not to attempt the same foolish plan."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18658,9 +18529,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Black dragonhide coif is a power level 8 ranged armour piece that is crafted with an armour bench.\n\n(Journal)\nThe scales of a black dragon are sturdy things, capable of deflecting all but the strongest attacks. It’s not so much that they’re harder than other scales, but that the creature that bore them is so determined to survive that that tenacity passes on to one who wears it.\n\nThere are no stories about people making bonds of friendship with the black dragons of Ashenfall, because the dragons do not allow anyone to think of them as their equals. They are the masters, the superior species and the garou and goblins of the Scorned Wilderness have long been taught to know their place.\n\nThere are certainly plenty who would challenge them, true, but over the centuries the list of successful challengers has yet to pass into double digits."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18735,9 +18603,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Black Knight helmet is a power level 6 melee armour that can be created at a armour bench.\n\nThe recipe is unlocked by purchasing and studying the bloodstained black visor vestige from the Evil Emporium shop.\n\n(Journal)\nIt's hard not to look at  Black Knight armour and marvel. The Black Knights on Ashenfall have completely different origins from those on the mainland. They have no direct connection to the Kinshra, and are instead an evolution of the Shadow Knights. Two connected but ultimately different factions, yet they converge on similar armours. I suppose that's chaos for you. Stare at it long enough and you spot patternsThe Black Knights, or the Shadow Knights as they were originally known, began life as bodyguards for the Rasmodel family. The Rasmodels were nobility on the mainland and retained that air of nobility on Ashenfall. They were invaluable to the Children of Shadows, as they could move in higher circles, and higher circles were where the seeds of chaos were best sown.The Children of Shadows made the mistake of seeing the Rasmodels as peacocks, preening and insufferable. As time passed, the Rasmodel exerted their influence over the Shadows. They moved into positions of leadership. Every pie had a Rasmodel finger in it, and suddenly the Children and the Rasmodel were synonymous.That influence came with demands. The Rasmodel wanted protection. Their scheming in Temple Woods and Bramblemead would lead to the odd fallout, and having bodyhuards leant them legitimacy as well as protection. Someof the Children were assigned to the Rasmodel, and a different kind of seed was sown."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18816,9 +18681,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Black Knight platebody is a power level 6 armour piece that can be created at a armour bench.\n\nThe recipe is unlocked by purchasing and using the shard of black pauldron vestige from the Evil Emporium shop.\n\n(Journal)\nIt's hard not to look at  Black Knight armour and marvel. The Black Knights on Ashenfall have completely different origins from those on the mainland. They have no direct connection to the Kinshra, and are instead an evolution of the Shadow Knights. Two connected but ultimately different factions, yet they converge on similar armours. I suppose that's chaos for you. Stare at it long enough and you spot patternsVery suddenly, the Rasmodels fell back to the walls of Dowdun Reach. Their cover was blown: the youngest had been caught pouring tincture into the ears of a sleeping bailiff. Their entourage and influence no longer meant anything, and they were forced to live in the keep. A wing was allocated to them, mostly out of fear: the bodyguards were loyal to the Rasmodels, and the Children of Shadows wanted to wake up in the morning.On the death of the father, the eldest Rasmodal son, Milliburn, looked to regain some of the family's lost pride. He burrowed himself deep into Dowdun: he was intergal to the training of forces; he took charge of the quatermasters. He showed all the hallmarks of a leader, and was duly elected as Master of Dowdun Reach. The Children of Shadows took to calling him 'Lord Rasmodal'. His bodyguards never left his side."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18897,9 +18759,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Black Knight platelegs is a power level 6 armour piece that can be created at a armour bench.\n\nThe recipe is unlocked by purchasing and using the grim black codpiece vestige from the Evil Emporium shop.\n\n(Journal)\nIt's hard not to look at  Black Knight armour and marvel. The Black Knights on Ashenfall have completely different origins from those on the mainland. They have no direct connection to the Kinshra, and are instead an evolution of the Shadow Knights. Two connected but ultimately different factions, yet they converge on similar armours. I suppose that's chaos for you. Stare at it long enough and you spot patternsThe Children of Shadows learned to be wary of Lord Rasmodel in the mornings. He was cruel before noon, fair in the afternoons, and stern all day. Those who were close to him knew the reason: Lord Rasmodel slept poorly and would complain that his dreams kept him up. He was confused by them: they talked in words he didn't recognise. He found their voices to be dull and interminable, like being locked in a room with a droning artistocrat.The dreams made him impatient and quick to bore. His relationship with Alric, Archmage deteriorated. Rasmodel even suspected that Alric was behind his restless knights.One morning, Rasmodel emerged with a different kind of impatience. He was resolved that something had to change. Fellhollow, Imaru and Xikotal were not to be trusted. A new order of knights were to be created, and he was to lead them. At their centre would be his bodyguards, loyal and unquestioning.The Shadow Knights were born, and time would harden them into Black Knights"
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 6
       },
       {
@@ -18970,9 +18829,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The black shield is a power level 6 shield that is crafted with a blacksmith's bench. The recipe is unlocked after studying the battle-scarred black metal vestige, which can be purchased from Postie Pete's Evil Emporium for 300 infernal fragments. Unlike the black weapons, the shield cannot be found in chests in Dowdun Reach. It can be ascended at the mystic forge using ascension cores.\n\nThis shield does not have a special effect, despite being an ascendable vestige.\n\nGiven how long it takes to acquire black metal bars, this shield should only be crafted and/or ascended for the sake of fashion.\n\n(Journal)\nMore and more of the afflicted began talking in the voice that Rasmodel recognised: the voice from his recurring dreams. They were a chorus, moved from the land of dreams to his waking nightmare. Doubt burned in him. Was this epidemic his fault? Was it here for him?He couldn't hide his relationship to the epidemic anymore. When he walked past the afflicted, they would move from incoherent to coherent. They would sit up and speak to him. The message was the same: \"submit to the Dreaming Stone\". There were variations on that theme: use the Dreaming Stone; spread its energy; offer your mind to it.Lod Rasmodel was resolved. He would never submit. Perhaps therein was the trap. Perhaps it was shrewd psychology to make him destroy the stone.But destroy it he did. All it took was a single blow from his warhammer. A great and savage arc. As the crystal shattered and the shards punctured his skin, he felt peace. The voices were silenced. he knelt, bleeding and happy.And then the aftershocks came."
         },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
         "step": 6
       },
       {
@@ -19572,9 +19428,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adventurer's leggings are a basic item that can be crafted using 6 coarse animal fur at the crafting table.\n\n(Journal)\nYou brought simple cloth trousers with you from the mainland. They barely qualify as armour, but they’re better than no armour at all. \n\nThese clothes have seen you across the oceans, keeping you warm in the cold sea breeze. Now starched with sea salt and weathered by labouring away on the ship deck, these clothes are a testament to how far you’ve come. This is the furthest you’ve ever been from home, and perhaps it’s a chance to craft a new one."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 7
       },
       {
@@ -19641,9 +19494,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adventurer's tunic is a basic item that can be crafted using 9 coarse animal fur at the crafting table.\n\n(Journal)\nA simple tunic brought with you from the mainland. It barely classes as armour, but it’s better than no armour at all. \n\nWhen you joined the expedition, you had nothing but the clothes on your back. All your worldly belongings were lost, and all your gold drained away. Debt collectors would appear out of the shadows, swarming toward you like rats seeking cheese. What choice did you have but to leave? \n\nThe expedition offered you a chance away from all your troubles. An opportunity to escape the cruel hand that fate has dealt you. These clothes once represented everything you ever lost, but now they represent the threadbare start of a new beginning."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 7
       },
       {
@@ -19706,9 +19556,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Agility cape is a Cape of Accomplishment able to be crafted and worn with a level 99 Agility. It can be crafted at the crafting table. This cape, while worn, gives the player a small chance to not consume stamina for jumping, dashing, or evading.\n\nTrimmed versions can be made the same way if you have more than one skill at 99.\n\n(Journal 1)\nCongratulations! Like the nimblest of ferrets, you can scoot up drainpipes and scurry across ledges.\n\nNow you have mastered the Agility skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\n(Journal 2)\nYou have gathered all possible agility ability! People look at you and feel immediately tired."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 7
       },
       {
@@ -19775,9 +19622,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Angler's hat is a power level 1 head armour which can be crafted using a crafting table. Wearing it provides a 10% chance to not deplete a fishing node when catching a fish. The recipe is learned by unlocking Experienced Angler at level 70 Fishing.\n\n(Journal)\nThe angler's hat has two very important uses. The first is there's a chance to not reduce the number of fish in the pool when catching.\n\nThe second is perhaps more important. When passing a fellow angler, you can participate in the age-old gesture of doffing. No words, just a silent acknowledgment of each other's presence as you partake in a doffing custom that has spanned centuries."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 7
       },
       {
@@ -19840,9 +19684,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The anti-dragon shield is a power level 3 masterwork shield that can be crafted at a blacksmith's bench after obtaining the recipe from Vertentis Kara, the dragonkin vault in the Whispering Swamp. It is also one of the rewards for completing the Dragon Slayer quest, and is used as a material to craft the dragonblight shield, dragoncurse shield and the dragonfire shield. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect allows the user to block incoming dragon fire without being staggered. This includes the sweeping breath attack that all dragons perform, as well as the poison spit from green dragons, the spinning fire from Imaru, the lightning ball from blue dragons, and the fireball from red dragons and Fuzan. This does not include any ground-based effects like Velgar's poison breath/barrage and earth spikes, Imaru's wither projectiles and spikes, and Fuzan's lava floor. Notably, despite not being listed, this special effect is also present on the dragonblight shield and dragoncurse shield but not on the dragonfire shield.\n\nAll of that being said, Tempest Shield will block all incoming damage (excluding any ground-based attacks), including the projectiles and spikes that weren't blockable even with the special effect, and that is available even with two-handed weapons. Otherwise, all vestige and masterwork shields can be ascended to the highest power level and will have the same block value, with the exception of the fallen hoplite's aspis which has 3 more and the toktz-ket-xil which has 6 less. Therefore, the optimal shield choice will come down to their special effects, and this shield may often be chosen as it can block dragonfire but will not interfere with staggers caused by parries, unlike the other dragon shields.\n\n(Journal)\nIt is uncertain who first crafted the Anti-dragonfire shield. The dwarves claim the honour, as do several human blacksmiths. The goblins tried to take the credit, but their smithing techniques were not nearly refined enough to be believed. The aviansie might have been capable of such a feat, but if they did craft the shield, they never said.The aviansie that did visit Ashenfall only stayed in Brynmoor for a short time. They disappeared deeper into the continent, never to be heard from again.The Anti-dragonfire shield is a formidable defence, surpassing the strength of iron, and capable of withstanding a dragon's lethal breath. Its previous owner, hopeful it could be a weapon against Velgar, was proven wrong.Only the most powerful individuals can hope to wield such an object. Yet, even so, it is said that the shield can be improved by combining it with the essence of a dragon, gaining it some of the fury of the legendary beast.\n\n(Trivia)\n* Even though the game's lore journal states it \"surpasses the strength of iron\", it only has a rating of 39 block. This is identical to a bronze shield, whereas an iron shield has 46 block.\n* Since it's release, the shield is the only item, aside from quest items and ammunitions, that does not drop into the gravestone when a player dies, it instead stays in the inventory.\n* The shield's appearance is a mix of Old School RuneScape and its own design. It keeps the same colour and sword-shaped symbol in the front with the three dragon claws, which is consistent with the RuneScape version. The main difference lies in the shape of the shield, while Old School RuneScape’s version features a more squared design, RuneScape’s version is an elongated hexagonal or heater-shaped shield, giving it a more vertical look."
         },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
         "step": 7
       },
       {
@@ -19913,9 +19754,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Artisan cape is a Cape of Accomplishment able to be crafted and worn at level 99 Artisan. It can be crafted at the mystic forge. \n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal 1)\nCongratulations! You're a Master Maker, a Crafting Connoisseur, an Artisan Fartisan.\n\nNow you have mastered the Artisan skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\n(Journal 2)\nYou're a Master Maker, a Crafting Connoisseur, an Artisan Fartisan."
         },
-        "stations": [
-          "Mystic Forge"
-        ],
         "step": 7
       },
       {
@@ -19986,9 +19824,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Attack cape is a Cape of Accomplishment able to be crafted and worn at level 99 Attack. It can be crafted at the mystic forge. \n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal 1)\nCongratulations! While you may have 99 problems, Attack isn't one of them.\n\nNow you have mastered the Attack skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\n(Journal 2)\nA cape of SKILL - TRIMMED\n\n(Trivia)\n* The cape was accessible only in Creative Mode, and appeared identical to the garou highborn's cloak. Later it was changed to the red adventurer's cape before it was removed. As of the 0.11 update, the Attack skillcape became accessible to obtain in normal gameplay."
         },
-        "stations": [
-          "Mystic Forge"
-        ],
         "step": 7
       },
       {
@@ -20047,9 +19882,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ava's accumulator is an armour item equipped in the cape slot. It is a reward from Animal Magnetism, and additional ones can also be crafted via the Armour Bench after the quest. Ava's accumulator adds a 10% chance of recovering arrows when worn.\n\n(Journal)\nAva is the apprentice to Dr Oddenstein, an eccentric scientist who lives in Draynor Manor, and a skilled inventor in her own right. She whiles away her limited free time by studying the lesser-known field of necroballistics, and creating strange and wonderful gizmos to further her studies.\n\nPerhaps her proudest achievement, is the invention of the attractor. By harnessing the energies of an undead chicken to the harmonic frequencies of a common bar magnet, her device can snatch grounded projectiles and bring them back to the quiver before they can be lost. This money saving experiment is not only great for hunters, but for anyone looking for an excuse to fill their enemies full of sharp sticks of wood.\n\nAlways the generous sort, but one with little head for marketing, Ava has decided to pass on her genius invention to others. Rather than publishing a paper, or passing the methodology onto the Varrock library, she has instead written the instructions in a bottle and sent it adrift in the ocean for anyone to find. Fate, she believes, will draw it to where it is meant to go. Like magnets, probably.\n\n(Trivia)\n* The cape was revealed in the Dowdun Reach trailer, but it has been confirmed by Mod Raven that it was not supposed to be revealed yet. \n* Despite not being officially updated to craft, the device is within the game's file since the release of Fellhollow."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20112,9 +19944,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The bag of Noggin' is a piece of power level 1 head armour which can be crafted using a crafting table. The recipe is learned by consuming the vestige, a threadbare grain sack, found in a chest in Bramblemead Valley.\n\n(Journal)\nNoggin was never the best looker in Ashenfall, or so others claimed. He lived his life ashamed of his appearance and wore a sad-looking sack across his face so that none would fall ill from his hideous features.\n\nHe found himself an outcast. Mocked and jeered at by the locals of Bramblemead, so he hid himself away in the forests, but kept wearing the sack.\n\nOne day, while he was standing in a field scaring birds away, just for the fun, he met a lost villager who had wandered too far. She was frightened, at first, and fearful of the strange figure with a face of itchy cloth, but as they talked and laughed together that fear fell away.\n\nIn time, they would grow closer with one another. Developing feelings that Noggin never believed he would feel. On the day they were to be wed, Noggin finally let her see the face beneath the sackcloth, but there was no face to be found.\n\nInstead, when the sack was removed, Noggin’s clothes went limp and fell to the floor in a pile and the woman screamed as the silence engulfed her.\n\nNow Noggin’s face appears on scarecrows and training dummy’s all across Ashenfall, and on cold, dark nights, you could swear they are watching."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 7
       },
       {
@@ -20169,9 +19998,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The black adventurer's cape is a simple yet stylish cape that takes no materials to craft.\n\n(Journal)\nCapes are stylish and protect against the weather. They can be elaborate symbols of stature, or simple cloth to act as a ward against the cold. This cape is the latter.Simple, elegant, and functional. Worn by adventurers and explorers across Gielinor’s mainland and beyond.After the dragon attack, there are few of these capes worn on Ashenfall. The rest sink beneath the ocean waves, are torn to pieces on the cliff rocks, or have long since burned to ash beneath draconic hate."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20226,9 +20052,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The black desert cape is a stylish cape that takes no materials to craft. The recipe is unlocked after studying the black memory of Menaphos vestige, which can be found in chests in Umbral Sands.\n\n(Journal)\nA shadowy cape in the Menaphite style. Though not technically Menaphite in design, these Moon Garou creations were heavily influenced by the “River Mother”, a visiting goddess with a strong connection to the Menaphite deserts."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20315,9 +20138,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Bloodblight cape is a craftable armour piece. The recipe is unlocked by acquiring the Bloodblight Cape Pattern, found in a chest behind a broken wall in the Bloodblight Castle.\n\n(Journal 1)\nThe Bloodblight swamp was once a pleasant place. Golden fields of wheat, rustling in the breeze. Life here was simple yet fulfilling.\n\nUntil Velgar took it all away.\n\nHe fought the mighty god of war, Bandos, and he should have lost. Dragons are powerful, and Velgar is stronger than most, but even in his most arrogant days he was no match for a god.\n\nYet, arrogance is not a mortal taint and the war god reeked of it. Bandos cast aside his wards. He refused to don his armour. The god pressed into the lair of the great dragon, and tried to wrestle him to the grave.\n\nHe nearly succeeded. Bandos wrapped his arms around the dragon’s serpentine neck and dug his fingernails beneath the scales. Velgar, in his writhing fury, called down a poison-filled rock from the heavens and cast it at Bandos, striking him in the temple. As the god reeled, he released Velgar, allowing the dragon to breathe a jet of anima-infused poison, at the unsteady god. Still wavering from the blow, Bandos breathed in the toxins and felt weakness for the first time in centuries.\n\nA smart tactician, Bandos retreated. Better to face the shame of retreat, than risk the oblivion of death.\n\nIn his jubilant rage, Velgar spilled his blood on the once fertile plains, corrupting them with his hate-filled poison. The fields wilted. The crops blackened and then collapsed into venom.\n\nThis cloak, is reminder of that blighted day.\n\n(Journal 2)\nFast AND able to survive the poisoned swamps? You're a walking humblebrag. You couldn't hop into Bramblemead and get me some Undead Twigs for the Animal Magnetism quest, could you?"
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20372,9 +20192,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The adventurer's cape is a cape that requires no materials to craft. The recipe to craft the cape can be obtained by purchasing it from Death for soul fragments. When making the cape, there are options for several colour variants, those being: Blue, Red, Yellow, Purple, Green, Black, Orange, Pink, and White.\n\n(Journal)\nCapes are stylish and protect against the weather. They can be elaborate symbols of stature, or simple cloth to act as a ward against the cold. This cape is the latter.Simple, elegant, and functional. Worn by adventurers and explorers across Gielinor’s mainland and beyond.After the dragon attack, there are few of these capes worn on Ashenfall. The rest sink beneath the ocean waves, are torn to pieces on the cliff rocks, or have long since burned to ash beneath draconic hate."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20429,9 +20246,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The blue desert cape is a stylish cape that takes no materials to craft. The recipe is unlocked after studying the blue memory of Menaphos vestige, which can be found in chests in Umbral Sands.\n\n(Journal)\nA sapphire cape in the Menaphite style. Though not technically Menaphite in design, these Moon Garou creations were heavily influenced by the “River Mother”, a visiting goddess with a strong connection to the Menaphite deserts."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20486,9 +20300,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The blue dyed cape is a stylish cape that can be created by learning the vestige bought from Postie Pete in Evil Emporium.\n\n(Journal)\nA wise purchase. While it doesn't make you invisible or grant you super-powers, this cape does make a delightful swishing noise as you sashay."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20543,9 +20354,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The blue hex cape is a stylish cape that can be created by learning the vestige bought from Postie Pete in Evil Emporium.\n\n(Journal)\nA wise purchase. While it doesn't make you invisible or grant you super-powers, this cape does make a delightful swishing noise as you sashay."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20636,10 +20444,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Bramblemead cape is a craftable armour piece. The recipe is unlocked by acquiring the Bramblemead Cape Pattern, found in a chest atop the Runecrafting Guild. Using only Windstep to reach the chest is considerably difficult; it is recommended to do this in combination with building foundations.\n\n(Journal 1)\nThe heart of Bramblemead village was never really the castle, which came much later to the party. It wasn’t the town hall. It wasn’t the druid huts. It was the windmill. Grain heaped by the village was brought here and milled down into flour. The flour became bread, pastry and batter, turning village meals into something that helped people to live, rather than simply survive.\n\nFood, becomes a banner around which everyone can gather. To break bread with one’s enemy was a way to settle old scores, and forge new connections. More good has been done over the dinner table, than on any throne. Flour, turned Bramblemead from a settlement, into a thriving village.\n\nNow, the windmill lies dormant and still. The foundations warped by the centuries, despite the magic holding the rot at bay in the ancient timber, and the stone cracking from time. When humanity fell, it was rats and goblins that claimed the heart of the village, though they had no use for the swirling sails.\n\nTo the goblins it was a place where food could be hidden. Supplies sealed up from rival tribes. For the rats, it was a restaurant full of goblin supplies that were never well sealed.\n\nThe sail no longer turns. But, perhaps, in the fullness of time, this village heart might beat again.\n\n(Journal 2)\nIf you're going to master an area, why not Bramblemead? Lovely sights, and slightly less dragon-filled than the rest of Ashenfall. You might have to leapfrog the odd goblin, but we've all done that."
         },
-        "stations": [
-          "Crafting Table",
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -20706,9 +20510,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The chef's hat is a power level 1 headwear whose recipe is obtained when a player reaches level 40 Cooking and obtains the perk Yes, chef!.\n\n(Journal)\nA hat worn by masters of the culinary arts. There are no special enchantments, no mysterious contraptions, indeed nothing that should make this hat stand out. Yet, it remains one of the most well regarded and respected pieces of clothing across the whole of Gielinor."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 7
       },
       {
@@ -20763,9 +20564,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The community cape is a basic item having no special requirements, and can be created at a crafting table.\n\n(Journal)\nIn the early days of Brynmoor, back when it was rather more active than it is now, there were artisans of great skill who would gather in secret to weave tapestries of such aesthetic wonder that they could never be shown.\n\nSome, depicted the power of Saradomin. Others, the beneficence of Guthix, or the wickedness of Zamorak. A few depicted scenes of natural beauty, such as the green forests, the undulating dunes of the desert of the sharp peaks of the mountains.\n\nOne, depicted something far more sinister. It depicted the future. Suizzy was best known for their embroidery of owls, adding them as secret filigree to all of their pieces. Yet, on one fateful night of clandestine sewing, they were overcome by a vision so terrible, that they had to depict it in fabric.\n\nA dragon, rising from the flames of the underworld and dragging with it a terrible withering curse that would claim all life in the region. It was a cursed thing. A terrible sight. Yet, the other crafters were drawn to its strange and sinister beauty.\n\nIt was sealed away, deep within the soil. Lost for centuries. Until a new group of adventurers, accidentally found a way to bring it to the light.\n\n(Trivia)\n* The design of the cape came from Suizzy as their submission for the Fellhollow Cape Contest, hosted on the RuneScape: Dragonwilds official Discord channel."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 7
       },
       {
@@ -20836,9 +20634,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Construction cape is a Cape of Accomplishment able to be crafted and worn at level 99 Construction. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal 1)\nCongratulations! You can look upon your constructions and see that they are good.\n\nNow you have mastered the Construction skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\n(Journal 2)\nDouble congratulations! You have achieved a Construction Cape with all the trimmings. Precious few can claim that distinction."
         },
-        "stations": [
-          "Mystic Forge"
-        ],
         "step": 7
       },
       {
@@ -20909,9 +20704,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Cooking cape is a Cape of Accomplishment able to be crafted and worn at level 99 Cooking. It can be crafted at the mystic forge. \n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal 1)\nCongratulations! There is no flavour you have not found, no edible you have not eaten.\n\nNow you have mastered the Cooking skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\n(Journal 2)\nDouble congratulations! You have achieved a Cooking Cape with all the trimmings. Precious few can claim that distinction.\n\n(Trivia)\n* This skillcape is technically useless, as players already cannot accidentally burn food at level 99 Cooking."
         },
-        "stations": [
-          "Mystic Forge"
-        ],
         "step": 7
       },
       {
@@ -20998,9 +20790,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Dowdun Reach cape is a cape that can be created by learning the vestige found in a buried chest in Dowdun Reach. The gilded version can be unlocked by reaching the gold time for Tower Climb.\n\n(Journal 1)\nThe Dowdun Reach Cape is an emblem of your complete and utter mastery of Dowdun Reach. Congratulations.\n\nYou've seen things people wouldn't believe. You've attacked lesser blue dragons while on fire on the battlements. You've watched the Dreaming Stone glitter in the darkness near Dowdun Reach gate. All of these moments will get washed out, in time, like a wet cape in rain.\n\n(Journal 2)\nConsidering that Black Knights are some of the least nimble warriors in all of Ashenfall (it's the clunky black armour), you might be the most agile person to set foot in the Reach. Congratulations!"
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -21389,9 +21178,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The dragonbane cape is a special cape whose recipe is awarded to those who completed all 4 weekly challenges (with the final challenge being to kill Velgar) during the closed Alpha Test. This cape requires no materials to craft.\n\nThe cape can only be crafted and worn by those with the Alpha Challenge Cape DLC installed. The code to the DLC was distributed by email to those who completed all the weekly challenges during the alpha.\n\n(Journal)\nA seer once dreamed about brave warriors who walked across Ashenfall in another time. An age both past and present, where the rules of the world were different. These great heroes challenged and slew an echo of Velgar, saving a land that never was. While the seer’s memory of that dream fades with each passing moment, she was able to embroider the event into a cape, so that all might know of these legends from another time."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -21502,9 +21288,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The dragonblight shield is a power level 4 masterwork shield that can be crafted at a blacksmith's bench after obtaining a noxious draconic visage from the Dragon Slayer reward pack by completing Dragon Slayer or from turning in Velgar's head to the Wise Old Man afterwards. One of the required materials is an anti-dragon shield and one is included in the reward pack. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect causes a cloud of poison to appear after a parry that only affects enemies. The damage per tick is based on the power level of the shield, dealing 4 damage per tick at power level 4, 5 at power level 5, and 6 at power level 6 and 7. This damage ticks 15 times, once per second, and the effect has an internal cooldown of 20 seconds. This damage does not interrupt a stagger caused by a parry. Despite not being listed, this shield also has Dragon Breath Resistance, the special effect of the anti-dragon shield, which provides the ability to block dragon fire.\n\nVenomous Trapper (the upgrade for Snare) is available at any time—once unlocked—for a few runes, and can also hold enemies in place, with only a 60 second cooldown. It applies the highest 6 damage per tick poison damage that the power level 6 and 7 shield do, and they do not stack. Neither stack with poisoned arrows or with weapon poison applied to a melee weapon, so this shield is in competition with a variety of other, more readily available sources of poison. It is, however, free, with the shorter cooldown when compared to Snare, and most notably does not interfere with staggers caused by parries, allowing the player to either riposte that target, deal with other targets, or make space.\n\n(Journal)\nStrange magics have transformed the head of a tyrant into a mystical adornment to this powerful shield. It is still strong, still durable and resists the fury of dragons, but now the shield seethes with Velgar's wrath.The magic of the shield is twisted into a bitter poison. One that yearns to strike and rage against any in its path. In battle, it's possible to turn this poison on one's enemies, afflicting them with a dragon's hate.Sometimes, in the dark, when the night is silent, it's as if the shield whispers angry curses into the darkness. As if the last vestiges of Velgar's fury are carried on the wind as hateful poison.\n\n(Trivia)\n* While the shield shares the same method of creation as a Dragonfire shield, this shield only has one similarity to the dragonfire shield, that being the ability to use the energy it has stored against a target, according to the lore journal.\n** The shield's ability of inflicting Poison on an enemy is similar to the Serpentine helm.\n* The design of the shield closely resembles that of the Ancient wyvern shield and the Dragonfire ward."
         },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
         "step": 7
       },
       {
@@ -21599,9 +21382,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The dragoncurse shield is a power level 5 masterwork shield that is obtained from the Withering Heights reward pack by completing Withering Heights. It can be crafted at a blacksmith's bench after obtaining an undead draconic visage from the same pack or from turning in Imaru's head to Death afterwards, although it will require another anti-dragon shield. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect causes a spectral dragon claw to rise from the ground and deal 25 damage to and pull enemies slightly away from the player. Unlike the dragonblight shield, the effect does not scale with power level. It has a 20 second internal cooldown. This damage will interrupt a stagger caused by a parry. Despite not being listed, this shield also has Dragon Breath Resistance, the special effect of the anti-dragon shield, which provides the ability to block dragon fire.\n\nAs long as the target is not immune to poison (like green dragons) and poison is not being applied from another source (like Venomous Trapper, poisoned arrows, or weapon poison), then the dragonblight shield's effect is better because the damage scales with power level, dealing more total damage over time, and it doesn't interrupt staggers. That being said, fallen hoplite's aspis will also have more block value and toktz-ket-xil will have increased melee crit damage after a parry, but reduced block value.\n\n(Journal)\nA shield with the visage of Imaru the devourer welded to the front. Holding the shield feels cold to the touch and instils within you a hunger for battle. Your blood pumps faster with a terrible need to rend your enemy limb from limb."
         },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
         "step": 7
       },
       {
@@ -21664,9 +21444,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The dragonfire shield is a power level 7 masterwork shield that is obtained from the Icthlarin's Little Helper reward pack by completing Icthlarin's Little Helper. It can be crafted at a blacksmith's bench after obtaining a smouldering draconic visage from the same pack or from turning in Fuzan's head to Icthlarin afterwards, although it will require yet another anti-dragon shield. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect launches a burst of lava forwards on a parry, dealing 25 damage and causes Burning on nearby enemies, which deals 11 damage per second for 5 seconds for a total of 55 Burning damage. This effect does not have a cooldown. This damage will interrupt a stagger caused by a parry. \n\nThis shield has an excellent synergy with the fire cape, which restores stamina when defeating Burning targets with melee attacks. Unfortunately, the fire cape and Enchant Weapon: Fire are just as good at causing Burning damage. Fire magic and fire arrows are also a common source of damage in a multiplayer setting that wouldn't stack, not to mention several enemies are resistant to Burning (like the knights and mages of Dowdun Reach) or immune to fire completely (like the KotHaar). The toktz-ket-xil's increased melee damage after a parry (which does not interrupt a stagger) may still be more valuable.\n\n(Journal)\nFuzan was the youngest of Kuldra’s offspring, yet one of her most violent. As a child he was overcome with a curiosity infused with childlike cruelty. When Kuldra gifted him with the flames, stolen from the Dragonkin’s Harmonic Resonator, it did nothing to temper that childlike need to discover and destroy.\n\nThe fires within him were a delight to wield and he grew more and more focused on their flickering flames, one day glancing through them to worlds of cinders that lay beyond. In the embers he heard a whisper, and as he listened it turned into a promise and a proclamation. A voice of true divinity, far surpassing the power of his mother’s dimmed spark.\n\nShe was a queen of worlds far beyond this one, each of them shining beacons in the dark twilight of the heavens and Fuzan was enraptured. Through her instruction he learned to mark others with his seal, sharing some of his power with them, and in turn, some of hers.\n\nNow, with his destruction, you wield the flames yourself. A shield protecting you from her manipulation. Yet, should you stare too closely at the flames that burn within this shield, you might find yourself blinded by divine radiance.\n\n(Trivia)\n* Although called dragonfire shield, the shield's ability is different from its RuneScape and Old School RuneScape counterparts.\n** The ability is active when the player deflects an attack, and instead of a fireball, lava comes out of the shield."
         },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
         "step": 7
       },
       {
@@ -21721,9 +21498,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Dragonslayer's Cape is a prestigious back slot item crafted at the Armour Bench following the defeat of Queen Kuldra in the Regicide quest. Featuring a deep purple drape with intricate gold trim, its centerpiece tapestry depicts Queen Kuldra perched atop floating, shattered landmasses.\n\n(Journal)\nA seer once dreamed about brave warriors who walked across Ashenfall in another time. An age both past and present, where the rules of the world were different. These great heroes challenged and slew an echo of Velgar, saving a land that never was.  While the seer’s memory of that dream fades with each passing moment, she was able to embroider the event into a cape, so that all might know of these legends from another time."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -21818,9 +21592,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The fallen hoplite's aspis is a power level 5 shield that can be crafted at a blacksmith's bench after obtaining a sundering spiked slab as a rare drop (5/100) from a skeletal hoplite. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is that it has 3 higher block value at every power level compared to most other shields. Block value directly reduces damage taken from attacks linearly, i.e. if you have more block value than an attack deals, you will lose no health, your armour will be unaffected, and the stamina cost to block an attack will be low, lower than dodging that same attack.\n\nThis has to be compared with the effects provided by the other shields though, for example this shield will be unable to block dragon fire like the anti-dragon shield, dragonblight shield, and dragoncurse shield (but not the dragonfire shield). This shield also does not an offensive benefit like those shield's parry effects or the toktz-ket-xil's bonus melee crit damage, although that shield in particular has 6 less block than other shields.\n\n(Journal)\nThe hoplites of Emberwood named themselves after Saradomin’s forces in the holy scripture. The legendary hoplites were warriors on the world of Hallow, who were trained from farmers and artisans, rather than military families or nobility, and the Emberwood hoplites came from similar stock.They were best known for their fighting style using spears and shields, with the shield being the defining feature. These shields were designed to be worn for longer periods of time, resting against the shoulder for more comfortable carrying.The hoplites may have been raised from peasant stock, but their camaraderie made them a force to be reckoned with on the battlefield.As the withering took them, the hoplites retained the rote memory of their training and remained a deadly threat to all who faced them."
         },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
         "step": 7
       },
       {
@@ -21895,9 +21666,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fallen hoplite's chest is a power level 5 melee armour that can be crafted at an armour bench.\n\nThe recipe is a reward from Kalistrakthen Kara, a dragonkin vault. It can be obtained by interactng with a dragonkin effigy within the vault. The dragonkin effigy can be found behind a breakable wall, near the two diamond door with a distinct circular cracked pattern. It has the exact same combat stats and durability as steel platebody and white platebody, making them functionally identical.\n\n(Journal)\nThose joining the Fellhollow military who were not from the more noble bloodlines would go into the force known as hoplites. This force of warrior farmers named themselves after the hoplites of Hallow, legendary forces spoken of in some of the Saradominist text.These hoplites would meet at the end of each week to train and practice battle manoeuvres. They became walls of impenetrable shields, or terrifying spiked shells, moving with the sort of unity that only comes over years and years of training.Their secret, so they claimed, was the weekly barbeque. Once training was resolved, if they had performed well enough, the retired members of the hoplites would cook them delicious meats and roasted vegetables, served with an overly generous helping of alcoholic beverages."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -21972,9 +21740,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fallen Hoplite's Helm is a power level 5 melee armour that can be crafted at an armour bench.\n\nThe recipe is a reward from Vekchenven Kara, a dragonkin vault. It can be obtained by interacting with a dragonkin effigy within the vault. The Effigy can be found up a path revealed (while soulrifted) above the spectral door in the room you jump down into after the fight with the rotsworn necromancer.\n\n(Journal)\nThose joining the Fellhollow military who were not from the more noble bloodlines would go into the force known as hoplites. This force of warrior farmers named themselves after the hoplites of Hallow, legendary forces spoken of in some of the Saradominist text.They were disciplined in a way that earned them great respect. Each of them acted as the shield for the person next to them and a spear for the enemy in front. They wore armour inspired by the style of Hallow, with plateskirts rather than sturdy greaves, allowing for more freedom of movement — a trait they took great advantage of."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -22049,9 +21814,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fallen hoplite's tassets are a power level 5 melee armour that can be crafted at an armour bench.\n\nThe recipe is a reward from Skekven Kara, a dragonkin vault. It can be obtained by interacting with a dragonkin effigy within the vault, which can be found up the stairs in the main room then Windstep to the north-Western platforms.\n\n(Journal)\nThose joining the Fellhollow military who were not from the more noble bloodlines would go into the force known as hoplites. This force of warrior farmers named themselves after the hoplites of Hallow, legendary forces spoken of in some of the Saradominist text.When the withering began, it was the hoplites that were most affected. Their unity and loyalty became a weakness, as members within their ranks fell to the affliction and then turned on the others. This shattered their synchronicity and spread paranoia and distrust among the ranks.As their members fell, they would rise as the undead and immediately turn on their brethren, ripping the group apart from the inside.At least in death they stand together again."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -22114,9 +21876,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Farmer's hat is a power level 1 head armour which can be crafted using a crafting table. The recipe is a reward from scarecrow scavenging.\n\n(Journal)\nThere are those who spend years studying the magic of druids, to try and find a way to bend nature to their will. They go on long pilgrimages, solve complicated riddles and have arduous conversations with nature spirits about the fundamentals of reality.\n\nThey needn't have bothered. For, you see, there are already those who understand how to reshape the land to serve them. People who cultivate rows of plants, each of them focused on providing food, medicine or some other benefit to their agricultural master. The farmer may be the greatest nature wizard in all of Gielinor, though they need never utter a single spell.\n\nThis hat was once worn by the farmers of Bramblemead as a sign of their status. It was created by one Abigail Potterington, age 6, who had been taught the basics of embroidery by her mother, who had been taught it by her mother, and she by her mother and so on. The flower was said to represent a great towering oak – Abigail was not good at art."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 7
       },
       {
@@ -22187,9 +21946,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Farming cape is a Cape of Accomplishment able to be crafted and worn at level 99 Farming. It can be crafted at the mystic forge. \n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal 1)\nCongratulations! You could grow seeds in lava, saplings in ice, and bulbs in the neckfolds of a Golem.\n\nNow you have mastered the Farming skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\n(Journal 2)\nYou could grow seeds in lava, saplings in ice, and bulbs in the neckfolds of a Golem."
         },
-        "stations": [
-          "Mystic Forge"
-        ],
         "step": 7
       },
       {
@@ -22276,9 +22032,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Fellhollow cape is a craftable armour piece.  The recipe is unlocked by acquiring the Fell Cape Pattern, found in a chest buried under a pile of Rocks along the spine of the dragon skeleton, south of Imaru's Tower.\n\n(Journal 1)\nFellhollow could have been a new utopia, were it not for the cruelty of the godeater. Imaru and Xikotal adored their human neighbours and dreamed of a society where both dragon and human could thrive together in peace.\n\nNow the land, like that dream, has broken. A hateful hunger from beyond the grave has consumed all the life, love and joy in the land. The dead roam desperately seeking to tear the tiniest threads of life from any living thing that crosses their path, and the afterlife itself, here, is poisoned by Imaru’s grief.\n\nYet, once, long ago, this land was beautiful. A myriad of colours danced in the breeze, the anima twist turning the region into a kaleidoscopic wonder. The now ruined streets were once filled with laughter, joy and song. And the dragons danced across the skies in loved-laced poetry.\n\nThis cape is a burieal shroud for a world that could have been.\n\n(Journal 2)\nWithering? What Withering? When you're moving as fast as you, the Withering hasn't got a hope of catching up."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -22399,9 +22152,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Fishing cape is a Cape of Accomplishment able to be crafted and worn at level 99 Fishing. It can be crafted at the mystic forge. \n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You're a fishing colossus, conquering rivers and seas with nowt but a net and rod.\n\nNow you have mastered the Fishing skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!"
         },
-        "stations": [
-          "Mystic Forge"
-        ],
         "step": 7
       },
       {
@@ -22488,9 +22238,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The fractured cape is a craftable armour piece.  The recipe is unlocked by acquiring the PATTERN: fractured cape, found in a chest at the north-north-east tip of the Fractured Plains.\n\n(Journal 1)\nBrakka’s hubris was a marvel to behold, perhaps more impressive than any monument of his construction. When Rasthin shared with him the elemental power she had wrung from Ashenfall’s mysterious vents, Brakka became a master of the earth itself.\n\nWith the power to shape stone and soil, by will alone, Brakka could have created great villages. He could have constructed aqueducts and watermills that could brought Ashenfall into a new, golden age. Instead, he made a tower.\n\nA single tower that rose as far as the eye could see. Forged through his own power, and the blood, sweat and tears of garou slaves. It is, perhaps, fitting, that this is where he died. Kuldra, the godeater, crushed him beneath her great claw and feasted on his anima-rich soul. Stealing Brakka’s power for herself.\n\nShe gifted Velgar, her most trusted general, with the elemental mastery of the fallen Nodon architect, and, to mock the dragonkin further, Velgar took Brakka’s monument as his new lair.\n\nNow the tower stands for all to see, as a reminder of dragonkin hubris, and rightfully deserves its new moniker; Brakka’s folly.\n\n(Journal 2)\nWhen you're faster than a garou in their homeland, you know that you've won some kind of evolutionary jackpot. Congratulations!"
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -22599,10 +22346,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Gilded Paladin Cape is a cape that requires no materials to craft and can be crafted at the Crafting Table and the Mystic Forge\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nThe Wise Old Man has a saying that feels applicable here: 'modesty is overrated'. His argument is that we celebrate modesty and assume that there's some kind of value to it, but it rarely, if ever, has any value at all. No one has cashed in their modesty for a great benefit. Modesty isn't the cornerstone of any great achievement in the world. Some people may like you a little more, but - and this is the Wise Old Man we're quoting, mind you - 'being liked is overrated for all the same reasons'.\n\nWhat the WOM is saying is that you shouldn't feel guilty wearing your gold cape. Modesty is overrated. Enjoy yourself!"
         },
-        "stations": [
-          "Crafting Table",
-          "Mystic Forge"
-        ],
         "step": 7
       },
       {
@@ -22677,9 +22420,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The gilded paladin chestpiece is a power level 4 melee armour piece that can be crafted with an armour bench.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nThe second person to wear gold armour was knight commander Sir Leigh, who donned the glittering monstrosity out of misplaced loyalty to his liege. His belief was that at least he could act as a decoy for those that would aim straight for the king. He had attempted to coopt other knights to don similar garb, but the expense of such equipment grew too costly to attempt it."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -22754,9 +22494,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The gilded paladin helmet is a power level 4 melee armour piece that is crafted with an armour bench.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nGolden armour was first created by the King of Bramblemead, who felt that he really needed to stand out as much as possible when riding into battle: a stance that demonstrated a complete failure to understand even the most basic of military tactics.\n\nHis version had the armour encrusted with glittering gemstones that only further served to make him the most desirable target on the battlefield."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -22831,9 +22568,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The gilded paladin legs is a power level 4 melee armour piece that can be crafted with an armour bench. \n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nNeedless to say, the fate of Sir Leigh is entirely predictable. Even though his armour lacked the gemstones of his sovereign, it was still armour forged from solid gold. This meant that not only did it lack the defensive capabilities of sturdier metal, but it also meant that every opponent went straight for him.\n\nHe was torn to shreds, and his armour sold off in pieces.\n\nHis sacrifice, however, did save the king’s life. After witnessing the horrid destruction of his most loyal commander, the king decided that future battles would be waged in steel armour… very very thick steel armour… and, preferably, from very far away."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -22892,9 +22626,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The goblin war banner cape is a unique cape given as a reward by Zanik for completing the Goblin Diplomacy quest. Additional ones can also be crafted via the Armour Bench after the quest.\n\n(Journal)\nTo most goblins, war is like breathing. Every action a precursor to conflict. Every morning they wake with a focus on picking a fight. They rarely kill one another, it would be counterproductive, but they enjoy finding someone different enough that they can justify a spat. This is what Bandos engineered them for. When the god arrived on Yu’Biusk, he urged the population into constant conflict. Nations became states, that were ground down into tribes. An entire civilizations reduced to platoons and squadrons. This cape bears the symbol of Bandos, a weapon known as the Kyzaj – a brutal blade designed to eviscerate an opponent. Once this was a banner, praising the war god, but now it lies forgotten and the other banners defiled to worship a new Big High War God. Velgar, who defeated a god in single combat."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -22949,9 +22680,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The green adventurer's cape is a simple yet stylish cape that takes no materials to craft.\n\n(Journal)\nCapes are stylish and protect against the weather. They can be elaborate symbols of stature, or simple cloth to act as a ward against the cold. This cape is the latter.Simple, elegant, and functional. Worn by adventurers and explorers across Gielinor’s mainland and beyond.After the dragon attack, there are few of these capes worn on Ashenfall. The rest sink beneath the ocean waves, are torn to pieces on the cliff rocks, or have long since burned to ash beneath draconic hate."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -23006,9 +22734,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The green desert cape is a stylish cape that takes no materials to craft. The recipe is unlocked after studying the green memory of Menaphos vestige, which can be found in chests in Umbral Sands.\n\n(Journal)\nAn emerald green cape in the Menaphite style. Though not technically Menaphite in design, these Moon Garou creations were heavily influenced by the “River Mother”, a visiting goddess with a strong connection to the Menaphite deserts."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -23063,9 +22788,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The green dyad cape is a stylish cape that can be created by learning the vestige bought from Postie Pete in Evil Emporium.\n\n(Journal)\nA wise purchase. While it doesn't make you invisible or grant you super-powers, this cape does make a delightful swishing noise as you sashay."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -23120,9 +22842,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The green hex cape is a stylish cape that can be created by learning the vestige bought from Postie Pete in Evil Emporium.\n\n(Journal)\nA wise purchase. While it doesn't make you invisible or grant you super-powers, this cape does make a delightful swishing noise as you sashay."
         },
-        "stations": [
-          "Armour Bench"
-        ],
         "step": 7
       },
       {
@@ -27654,9 +27373,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The gyrhawk amulet is an amulet that can be crafted at a crafting table. While equipped, the amulet grants +100% Agility experience when walking or sprinting but consumes warped feathers.\n\nTo unlock the recipe, players must receive warped feathers in their inventory, found in reward packs after completing Agility courses.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
         },
-        "stations": [
-          "Crafting Table"
-        ],
         "step": 0
       },
       {
@@ -27715,9 +27431,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The gilded gyrhawk amulet is an amulet that can be crafted at a jeweler's bench after obtaining gold record times on all available Agility courses. While equipped, the amulet grants +100% Agility experience when walking or sprinting by consuming warped feathers in the player's inventory, while also providing +25% Agility experience when training on Agility courses.\n\nThis item, thus far, is the only trinket in the game with an Agility level requirement to wear and craft at level 65 Agility.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -27776,9 +27489,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Abraxus ring is a ring that is a quest reward for completing the What Remains is Written secondary quest. Additional copies can be crafted from a jeweler's bench. While equipped, the ring has a chance to reduce the rune cost of utility spells when cast.\n\n(Journal)\nLittle is known about the great necromancer, Abraxus, a fact he finds deeply frustrating. In his youth he sought secrets forbidden to others and he wandered the Whispering Swamps of Brynmoor in search of secrets that others dared not know. The swamp was ancient and haunted, so the legends went, and there was a magic to it that was different to any other part of Ashenfall. He explored vaults, caves and battled goblins in the mists, but never found the power that his youth demanded. Until one day, he found the smoke that promised him the power he so desperately craved.\n\nFrom there his history is clouded, obscured just as the mist obscured the swamps. He founded a small order of necromancers in Fellhollow and took advantage of the chaos when the Withering began. He sought to bind the souls of the dead into his service, gaining power just as Imaru gained hers from the consumption of the fallen.\n\nBut Abraxus was no dragon, and so frustratingly mortal. A single hoplite spear is all it took to end his life, he would have been embarrassed if he felt it had mattered. As a spirit he lost a lot of things we take for granted, sensation, corporeality, and many of the emotions that everyone else enjoys. Yet, in exchange, he was given the most precious gift of all – time. Time to contemplate. Time to scheme. Time to think about what really matters, in the grand scheme of it all, and he has found his answer.\n\nHis ring, imbued with his dark power, offers no value to him any more. So he bequeaths it to you. In time, perhaps, it may help you become a mage strong enough to earn his respect. Well, a small fraction of it, at least."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -27833,9 +27543,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The amulet of accuracy is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players a 15% increase in critical damage and critical weakpoint damage.\n\n(Journal)\nThe Wild Knights knew the dangers of missing their target. If an arrow did not slay its target quickly, then too soon would the quarry either escape, or, worse, gather friends. Wolf packs could easily tear a small group of Knights to pieces if not dealt with fast.\n\nThe Amulet of Accuracy made sure that hunts went smoothly. When a shot landed, it landed hard. Alpha wolves would be slain in a single well-placed shot, and sturdier threats might go down in a small flurry of arrows.\n\nWhen Silverthorn Keep stood against the rising horde of zombies, these amulets were worn by the keep defenders who unleashed a torrent of arrows into the hungry dead."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -27894,9 +27601,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The amulet of defence is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases players' armour Value of all three damage types by 5 for each piece (head, torso, and legs).\n\n(Journal)\nNot everyone can wear armour when faced with the hordes of shambling undead. Children and the frail, become targets with little to protect them from gnashing teeth and jaws. In these scenarios magic becomes incredibly important, and these amulets delayed the deaths of countless lives.\n\nNot everyone was happy with such utilitarian approaches to survival, however. As the days drew on and resources grew scarce, empathy began to wane in the population of Emberwood. Amulets of defence were handed out to those determined to have the most need, but the criteria for that became a hot subject of contention.\n\nIt would be nice to imagine a world where everyone pulled together to defend against the undead, but human nature sadly shattered that dream. Still, while there would always be those who would attempt to steal the amulets from the needy, there were plenty more who would stand against them.\n\nThese amulets now carry an echo of those protectors, shielding its wearers from harm."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -27951,9 +27655,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The amulet of glory is an amulet that boosts melee, magic, and ranged critical damage while also increasing defence. While worn, the amulet provides an additional +5 defence to all combat styles and 25% increase to magical attacks, melee attacks, and ranged critical damage.\n\nTo unlock the recipe, players must find and study the commemorative coin vestige.\n\n(Journal)\nPower, trapped in dragonstone crystal and worn around the neck, that is the essence of this amulet. The facets of the dragonstone refract and refine the enchantments cast upon the item, somehow creating a magical lattice of surprising strength.\n\nMany have tried to create variations of this theme, yet dragonstone proves too fragile a substance for practical use. Once someone attempted to make a dragonstone dagger, to see if they could turn it into a blade of glory, yet they could not find a sufficiently large stone that wasn't valuable enough to bankrupt a small nation.\n\nOne wizard attempted strange alchemical practices to try and forge a staff of pure dragonstone. Alas, not only did he fail to create such a stone, but the magical explosion that resulted from his hubris removed his lab, and all his research, from this plane of reality.\n\nIt's probably a good idea that no one attempted to duplicate his work.\n\n(Trivia)\n* Unlike its RuneScape, Old School RuneScape, and RuneScape Classic counterpart, this amulet does not provide any teleports."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28008,9 +27709,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The amulet of Magic is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players increased magic damage by a factor of 12.5%. The recipe is unlocked through Death's Exchange for 350 soul fragments. There, it's called \"Softly Vibrating Orb\".\n\n(Journal)\nEmberwood had its fair share of spellcasters, though lacking the funding of the tower to the south. With more limited resources the mages of Emberwood found other methods to strengthen their art, and the Amulet of Magic was popular among all of them.\n\nDruids worse these amulets while performing rituals around the standing stones, hoping that it might strengthen their bond with nature. The self-proclaimed warlocks, of the Children of Shadows, would sit in darkened basements wearing these glittering amulets as they intoned dark rites that had no effect. The Wild Knight mages would use them more pragmatically, wielding magic against all the threats that the villagers were unaware of.\n\n(Trivia)\n* Wearing this amulet can also trigger the Menu Chill music track to play."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28065,9 +27763,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The amulet of strength is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases the player's melee damage with both one-handed and two-handed weapons by 12.5% each.\n\n(Journal)\nMight makes right, is the cry of every wannabe despot. Bandos in particular was very fond of this statement. This amulet upholds that notion and does its best to help make sure you are the most correct person around.\n\nIt imbues your muscles with body-aligned anima, the magic strengthening the sinew and fortifying your bones. It adds greater force to your swing that will crush your enemies before you.\n\nThe goblin general, Snotknucke, wore this amulet and attempted to hunt down Velgar. He believed that, with its magic, he could fell the beast in a single swing of his club. Snotknuckle was stronger, deadlier and more powerful than ever, but this did very little against the rock that Velgar dropped on his head."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28130,9 +27825,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The gourmand ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nIt is said that this ring was first created by a traveling chef, a visitor from strange lands who sought culinary adventure. They experimented with a wide range of dishes, consuming foods thought unnatural by some, always looking for the next best meal.\n\nWhen they found a meal that did not fill them with revulsion, they would don this ring so that they might savor the meal far longer than before.\n\nNow, this ring is popular with anyone that wants to get the most out of a good meal"
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -28195,9 +27887,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The herd ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nThis ring was often used as an engagement ring. The magic weaves souls together and makes their anima resonate in harmony. The resulting change allows for the body to regenerate more readily, enhancing their time together and forging bonds of companionship.\n\nNaturally it only requires the bonds of camaraderie, rather than romance, and was very popular among bands of hunters, farmers or anyone else. Longtime comrades would often gift each other with these rings as a sign of their bond of friendship."
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -28260,9 +27949,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The hermit ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nIn a world of extroverts it’s for introverts to get by, so when the magic of this ring was discovered it made many lives easier. Plenty of people preferred to work by themselves, without needing to keep an eye out for anyone near them.\n\nWild Knights, who often hunted alone, were particularly fond of these rings and would often wear them on their long missions in the forests"
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -28305,9 +27991,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring amulet of Attack is an amulet that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Attack experience while working with the skill.\n\n(Journal)\nMagic lives in the dirt, the ore and the rocks. It crystallises inside gemstones, matrices of magical energy just waiting to be unlocked. In Brynmoor the priests of Saradomin kept the secrets of magical amulets within their purview. They would craft jewellery that would enhance the fighting instinct of their soldiers, and hand then out like candy.\n\nAs the faith in Saradomin rose, the faith in Guthix waned. Partially because of the more active and present proselytising of the Saraodminist priests, who where more vocal than the quiet druids, but also because the paladins and bronze knights seemed significantly stronger than the Guthix-aligned guard. These amulets being their secret weapon."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28350,9 +28033,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring amulet of Magic is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players an additional 5% Magic experience while working with the skill.\n\n(Journal)\nIt is perhaps not surprising that wizard’s made use of magical jewellery as early as possible. Indeed the first few pieces worn on Ashenfall were little more than decoration, and gaudy wizards would attempt to outdo one another with shinier and shinier pieces.\n\nAs part of their ever increasing “prank war” wizards began to create jewellery that was enchanted with effects designed to frustrate, or otherwise hinder, the wearer, believing that enchantments in jewellery were little more than silly trinkets. One mage created what she assumed was an auditory illusion, within an amulet, the intention being that when the wearer would try and cast a spell, the jewellery would play an annoying earworm tune, distracting the poor caster.\n\nThis did not happen. Something about the threads of magic, the structure of the crystal and the concealing spell that was intended to hide the prank, created something unique. Instead of making it harder to cast spell, the wearers found it easier. Understanding came faster, spells and incantations clearer than before.\n\nWhat was intended to distract instead focused the wearer, allowing them to concentrate in ways they had never been able to before."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28395,9 +28075,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring amulet of Ranged is an amulet that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Ranged experience while working with the skill.\n\n(Journal)\nThe Wild Knights used many tools and tricks in their hunts. Looking for any edge they might have against the untamed wilds of Ashenfall. One jeweller, a water-Amalgamated by the name of Lochlan, created an amulet imbued with the communal spirit of the hunters. He would leave the gemstone, that would serve as its base, in the gathering hall and soon it became a tradition for each hunter to touch the gemstone if their hunt was successful.\n\nOver the years this gemstone took on their pride, prowess and skill and that became a magical enchantment that lay within the heart of the stone. Crafting an amulet from the crystal, Lochlan found a way of sharing that enchantment with everyone who wore it.\n\nNow, millennia later, the echoes of that enchantment linger within the crystals, just waiting for someone to remember them."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28440,9 +28117,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Agility is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Agility experience while training.\n\n(Journal)\nLorem ipsum Journal text"
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28485,9 +28159,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Artisan is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Artisan experience while working with the skill.\n\n(Journal)\nNo one quite knows why this ring works. It's as if ancestral grandmothers hover behind the wearer, whispering to them the ancient secrets of their crafting techniques. Old styles, long since lost to tragedy or history, can be restored in a flash of inspiration when someone wears this amulet.\n\nBut most wearers simply find themselves in a trance-like state - able to ignore the world around them and focus their craft. Learning more and more about it with each moment that passes."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28530,9 +28201,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Construction is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants the players an additional 5% Construction experience while working with the skill.\n\n(Journal)\nThis ring is infused with tiny elements of the dragonkin Brakka, a powerful creature and an architect of some skill. His hubris remains, even after his death at Kuldra's hands, and motes of his knowledge can be preserved within crystalline structures.\n\nAlthough you cannot glean the secrets of the dragonkin from these motes of memory, his instinct and innate talent for construction can be harnessed to create a ring that simplifies understanding the art of architecture."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28575,9 +28243,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Cooking is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants the players an additional 5% Cooking experience while working with the skill.\n\n(Journal)\nCooking is a form of magic that few people truly master. Meals can return lost memories, shatter sour moods, and rekindle friendships long since abandoned.\n\nThis ring was created by accident, when a parent was trying to teach a child how to cook. They were holding the unfinished piece absent-mindedly, as they explained to their progeny about all the steps needed to understand a recipe.\n\nThis knowledge, infused with the emotion of a parent's instruction, enchanted the ring so that all future wearers might benefit from their knowledge."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28620,9 +28285,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Farming is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Farming experience while working with the skill."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28665,9 +28327,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Fishing is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Fishing experience while working with the skill."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28710,9 +28369,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Mining is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Mining experience while working with the skill.\n\n(Journal)\nThe dwarves know that the earth has a memory, gemstones especially so. What they don't tell you is that the earth holds a grudge. Each time a pick pierces the stone or smashes a piece of ore from its home, the earth remembers.\n\nA skilled enchanter can use that grudge, that earthen memory, and turn it back against the bitter earth. Traditionally this is done via jewellery, with dwarven goldsmiths making most of their living from miners purchasing these trinkets."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28755,9 +28411,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Runecrafting is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Runecrafting experience while working with the skill.\n\n(Journal)\nAshenfall was the first place where Guthix created runes, but he never passed those secrets on to his followers. Only when the legendary human, V, discovered the secret was it taught to the general population.\n\nStill, something about Ashenfall makes the process easier. No altars are needed, nor talismans required, yet runes can be crafted with an abundance that would make mainland guilds jealous.\n\nThis ring taps into that ease, infusing the soul with some of that ancient knowledge of the island. Be careful sleeping with this on, as you may dream the memories of runecrafters past.\n\nOr of a dog made of cheese. No one knows why."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -28800,9 +28453,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "The inspiring ring of Woodcutting is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players an additional 5% Woodcutting experience while working with the skill.\n\n(Journal)\nIf trees could move, they would kill us all. That's the terrible truth that no lumberjack speaks of, instead they silently protect the rest of us from arboreal wrath. When a lumberjack was trained by the druids in Brynmoor, and taught the secrets of the murderous woods, they would be gifted a ring to help them in their battle against the vile trees.\n\nThese trinkets have helped lumberjacks defend us all from the cruelty of the woods, in a war that most don't even believe is happening."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 1
       },
       {
@@ -41235,10 +40885,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Copper ore is a basic Mining material mined from copper ore nodes , which are mainly found in the Fractured Plains . It can be smelted at a furnace along with Tin to produce bronze bars ."
         },
-        "stations": [
-          "Furnace",
-          "Build Menu"
-        ],
         "step": 0
       },
       {
@@ -41285,10 +40931,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Tin ore is a basic Mining material mined from tin ore nodes , which are mainly found in the Fractured Plains . It can be smelted at a furnace along with Copper to produce bronze bars ."
         },
-        "stations": [
-          "Furnace",
-          "Build Menu"
-        ],
         "step": 0
       },
       {
@@ -41335,13 +40977,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "A bronze bar is a material used to craft weapons and armour. It is created by smelting 3 copper ore and 3 tin ore at a furnace .\n\nReceiving the bronze bar in the player's inventory will unlock the following:"
         },
-        "stations": [
-          "Build Menu",
-          "Fletching Bench",
-          "Blacksmith's Bench",
-          "Armour Bench",
-          "Jeweler's Bench"
-        ],
         "step": 0
       },
       {
@@ -41388,11 +41023,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Iron ore is a basic Mining material that can be mined from iron ore nodes , which are mainly found all over the Stormtouched Highlands and Fellhollow . Three ores can be smelted in a furnace into an iron bar , or three can be combined with three coal in a blast furnace to create a steel bar ."
         },
-        "stations": [
-          "Furnace",
-          "Build Menu",
-          "Blast Furnace"
-        ],
         "step": 1
       },
       {
@@ -41484,13 +41114,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "An iron bar is a component of a variety of armour and weapons."
         },
-        "stations": [
-          "Mystic Forge",
-          "Armour Bench",
-          "Build Menu",
-          "Fletching Bench",
-          "Blacksmith's Bench"
-        ],
         "step": 1
       },
       {
@@ -41582,13 +41205,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "A steel bar is a component of a variety of armour and weapons. Players must use either three iron ores or one iron bar along with three coal (with a fuel pellet ) in a blast furnace ."
         },
-        "stations": [
-          "Mystic Forge",
-          "Build Menu",
-          "Blacksmith's Bench",
-          "Armour Bench",
-          "Fletching Bench"
-        ],
         "step": 2
       },
       {
@@ -41729,13 +41345,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Mithril bars are a processed material created with three mithril ore (or nine mithril salvage piles ) and three coal inside a blast furnace ."
         },
-        "stations": [
-          "Build Menu",
-          "Mystic Forge",
-          "Armour Bench",
-          "Fletching Bench",
-          "Blacksmith's Bench"
-        ],
         "step": 3
       },
       {
@@ -41831,12 +41440,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant bars are a processed material created with three adamantite ore and three coal inside a blast furnace .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)\n\n(Trivia)\n- In both RuneScape and Old School RuneScape , adamant bar is created in different numbers. In RuneScape, the bar is created using 1 adamantite ore and 1 luminite (the replacement to coal). In RuneScape 's lore, adamantite is hard to form into an bar, even with coal. A replacement was found, luminite, which made it easier to turn the ore into a bar. As such, it is known to be smelt without luminite, but it would require very high temperature, which explains it needing a blast furnace. In Old School RuneScape , the bar is created needing 1 adamantite and 6 coals."
         },
-        "stations": [
-          "Fletching Bench",
-          "Blacksmith's Bench",
-          "Armour Bench",
-          "Build Menu"
-        ],
         "step": 4
       },
       {
@@ -41879,10 +41482,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Black metal scraps is dropped from Black Knights . Six scraps can be combined with three coal in a blast furnace to create one black metal bar . Alternatively, players can create different coloured chandeliers and torches ."
         },
-        "stations": [
-          "Build Menu",
-          "Blast Furnace"
-        ],
         "step": 5
       },
       {
@@ -41925,10 +41524,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Black salvage piles are drops from defeating Black Knights . Nine salvage piles can be combined with three coal in a blast furnace , to create one black metal bar ."
         },
-        "stations": [
-          "Build Menu",
-          "Blast Furnace"
-        ],
         "step": 5
       },
       {
@@ -41975,11 +41570,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "An black metal bar is a component of a variety of armour and weapons."
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Armour Bench",
-          "Mystic Forge"
-        ],
         "step": 5
       },
       {
@@ -42063,12 +41653,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rune bars are a processed material created with three Runite Ore and three Luminite Ore inside a blast furnace .\n\n(Trivia)\n- Rune bar lore and recipe required to make is completely based off RuneScape 's (RS3) version."
         },
-        "stations": [
-          "Armour Bench",
-          "Mystic Forge",
-          "Fletching Bench",
-          "Blacksmith's Bench"
-        ],
         "step": 6
       },
       {
@@ -42111,11 +41695,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "A blurite bar can be made in a furnace by smelting three blurite ore . This bar is used in the smithing anvil to create blurite limbs for a blurite crossbow and make the blurite bolts in the fletching bench ."
         },
-        "stations": [
-          "Build Menu",
-          "Fletching Bench",
-          "Blacksmith's Bench"
-        ],
         "step": 6
       },
       {
@@ -42158,10 +41737,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Blurite ore is a basic Mining material found by mining the blurite ore nodes in the Takla Kara vault . Players can smelt this ore in a furnace to make blurite bars ."
         },
-        "stations": [
-          "Furnace",
-          "Build Menu"
-        ],
         "step": 6
       },
       {
@@ -42208,14 +41783,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "A gold bar is a component of making a variety of armour. Gold bars are used for making dragonkin mage and wild archer armour."
         },
-        "stations": [
-          "Jeweler's Bench",
-          "Fletching Bench",
-          "Armour Bench",
-          "Loom",
-          "Build Menu",
-          "Mystic Forge"
-        ],
         "step": 6
       },
       {
@@ -42262,10 +41829,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Gold ore is a basic Mining material mined from Gold Ore Nodes , which can be mainly found in the Bloodblight Swamp . It can be smelted at a furnace to make gold bars ."
         },
-        "stations": [
-          "Furnace",
-          "Build Menu"
-        ],
         "step": 6
       },
       {
@@ -42357,13 +41920,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Silver bars are primarily obtained by smelting silver ore in a furnace . Silver bars are used for making dark mage armour, the ornate maul handle , and other decorations."
         },
-        "stations": [
-          "Jeweler's Bench",
-          "Fletching Bench",
-          "Armour Bench",
-          "Build Menu",
-          "Blacksmith's Bench"
-        ],
         "step": 6
       },
       {
@@ -42410,11 +41966,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Silver ore is a basic Mining material mined from silver ore nodes , which are mainly found in the Bloodblight Swamp . It can be smelted at a furnace to make silver bars ."
         },
-        "stations": [
-          "Build Menu",
-          "Furnace",
-          "Blacksmith's Bench"
-        ],
         "step": 6
       },
       {
@@ -42512,10 +42063,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Stone is a basic Mining material found all over Ashenfall and inside vaults . Stone can be mined or picked up from any regions. It's used in a wide variety of crafting, from building to item making. Receiving stone in the player's inventory for the first time will unlock the creation of the stone range and the kiln ."
         },
-        "stations": [
-          "Build Menu",
-          "Grindstone"
-        ],
         "step": 0
       },
       {
@@ -42562,12 +42109,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Clay is a basic Mining material that can be mined from clay nodes . It can be used at a pottery wheel to craft a variety of items, which must then be fired using a kiln . Note that clay can be worked directly, and does not need to be made into soft clay.\n\nReceiving clay from any source is required to unlock the pottery wheel , kiln , and brewing cauldron ."
         },
-        "stations": [
-          "Build Menu",
-          "Pottery Wheel",
-          "Grindstone",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -42614,11 +42155,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Diamond is a gemstone that can be obtained from mining coal nodes . It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining . It can be manually mined with an appropriate pickaxe or using the Rocksplosion spell .\n\n(Journal)\nDiamond does not have an associated journal. Click here to edit the journal section if it exists in the cache."
         },
-        "stations": [
-          "Fletching Bench",
-          "Jeweler's Bench",
-          "Mystic Forge"
-        ],
         "step": 0
       },
       {
@@ -42665,12 +42201,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dragonstone is a gemstone obtained from mining adamant and runite ore nodes . It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining . It can be manually mined with an appropriate pickaxe or using the Rocksplosion spell ."
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Fletching Bench",
-          "Jeweler's Bench",
-          "Mystic Forge"
-        ],
         "step": 0
       },
       {
@@ -42954,11 +42484,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Sandstone is a basic Mining material mined from sandstone rocks , found scattered across the Fractured Plains , Stormtouched Highlands , Dowdun Reach and Umbral Sands . Sandstone is used in construction, alongside Stone and granite ."
         },
-        "stations": [
-          "Build Menu",
-          "Grindstone",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -43001,14 +42526,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Vault shards are items used in crafting several items and can be obtained from vault guardians found in dragonkin vaults ."
         },
-        "stations": [
-          "Jeweler's Bench",
-          "Blacksmith's Bench",
-          "Mystic Forge",
-          "Fletching Bench",
-          "Armour Bench",
-          "Build Menu"
-        ],
         "step": 0
       }
     ]
@@ -43298,13 +42815,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Coarse animal fur is a basic item gathered from killing kebbits and rats. Players can also receive 1-2 furs from bird nests . Players who receive coarse animal fur in their inventory for the first time unlocks the creation of the bedroll ."
         },
-        "stations": [
-          "Crafting Table",
-          "Build Menu",
-          "Spinning Wheel",
-          "Brewing Cauldron",
-          "Blacksmith Bench"
-        ],
         "step": 3
       },
       {
@@ -43540,14 +43050,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Feathers are obtained by killing birds, such as chickens and terrorbirds , and used to fletch arrows."
         },
-        "stations": [
-          "Fletching Bench",
-          "Crafting Table",
-          "Build Menu",
-          "Stone Range",
-          "Cooking Range",
-          "Brewing Cauldron"
-        ],
         "step": 3
       },
       {
@@ -43693,12 +43195,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Swamp thread is a basic item created at a spinning wheel using 1 swamp weed .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)"
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Crafting Table",
-          "Mystic Forge",
-          "Fletching Bench"
-        ],
         "step": 3
       },
       {
@@ -43885,14 +43381,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Animal bones are retrieved from killing animals such as cows , deer , and sheep . They can also be found on the ground in a cave in the Stormtouched Highlands . Players can also receive it by casting Bark To Bones on a tree. Upon receiving a bone for the first time, players can unlock the tannery and the stone range .\n\n(Item sources)\nAnimal bones can also be acquired using the Bark To Bones spell . It requires 10 nature runes and 10 earth runes to cast, and the spell must target a tree."
         },
-        "stations": [
-          "Crafting Table",
-          "Blacksmith's Bench",
-          "Stone Range",
-          "Cooking Range",
-          "Build Menu",
-          "Mystic Forge"
-        ],
         "step": 0
       },
       {
@@ -43935,14 +43423,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Antlers are obtained by killing deer and are used in drinks, weapons , and armour ."
         },
-        "stations": [
-          "Stone Range",
-          "Cooking Range",
-          "Blacksmith's Bench",
-          "Mystic Forge",
-          "Fletching Bench",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -44035,13 +43515,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dragon teeth can be obtained either by mining teeth from the head of the dragon skull in the Stormtouched Highlands or by killing lesser dragons. It is one component of the challenge horn , which is used in the Dragon Slayer quest. Players will need to have an iron pickaxe to mine this item. Dragon teeth respawn after two in-game days, as long as the player is at least 100 metres away, and their built objects are not directly on the spawn area.\n\nBeyond the Ghornfell region, players can obtain this item as a mob drop from defeating lesser dragon mini-bosses.\n\n(Trivia)\n- This item is one of the few items in-game that is kept in the player's inventory after their death."
         },
-        "stations": [
-          "Build Menu",
-          "Blacksmith's Bench",
-          "Cooking Range",
-          "Grindstone",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -44088,12 +43561,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ectoplasm is a basic material dropped by Spirits such as lost souls or acquired by processing one withered heart in a kiln for a yield of three. It may be beneficial for players to kill lost souls instead of rotsworn enemies because the beginning stages of being Soul Rifted include power level 2 lost souls spawning instead of power level 5 rotsworn skeletons, making it easier to receive ectoplasm. If going this route, quickly escape out of the soul rift by being near a Purification Pool whilst in the soul rift process."
         },
-        "stations": [
-          "Fletching Bench",
-          "Build Menu",
-          "Brewing Cauldron",
-          "Crafting Table"
-        ],
         "step": 0
       },
       {
@@ -44136,10 +43603,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Greater kalphite wing is a basic item dropped by kalphite guardians and kalphite queens that can be processed at a grindstone into shimmerscale powder ."
         },
-        "stations": [
-          "Build Menu",
-          "Grindstone"
-        ],
         "step": 0
       },
       {
@@ -44311,13 +43774,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ram horns are dropped by rams , which are found in the Stormtouched Highlands . Two ram horns are required in the quest Dog Days ."
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Fletching Bench",
-          "Brewing Cauldron",
-          "Build Menu",
-          "Lougrim's Shrine"
-        ],
         "step": 0
       },
       {
@@ -44364,14 +43820,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Small animal fang is a basic item dropped by kebbits , rats , and wolves . Players can make fang arrows , evasive infusions , daggers , and potions with these fangs."
         },
-        "stations": [
-          "Crafting Table",
-          "Blacksmith's Bench",
-          "Build Menu",
-          "Stone Range",
-          "Cooking Range",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -44490,15 +43938,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Undead bones are drops from enemies in Fellhollow ."
         },
-        "stations": [
-          "Fletching Bench",
-          "Blacksmith's Bench",
-          "Armour Bench",
-          "Brewing Cauldron",
-          "Build Menu",
-          "Mystic Forge",
-          "Grindstone"
-        ],
         "step": 0
       },
       {
@@ -44596,10 +44035,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ash logs are obtained by chopping down ash trees , picking them up off the ground, uprooting saplings, or chopping down thorny vines ."
         },
-        "stations": [
-          "Build Menu",
-          "Crafting Table"
-        ],
         "step": 0
       },
       {
@@ -44646,10 +44081,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ash plank s are made by using ash logs on a sawmill . Ash planks can be used for construction or as an alternative to creating charcoal .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)"
         },
-        "stations": [
-          "Build Menu",
-          "Kiln"
-        ],
         "step": 0
       },
       {
@@ -44696,9 +44127,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Oak logs are obtained by chopping down oak trees , with a bronze axe or better."
         },
-        "stations": [
-          "Build Menu"
-        ],
         "step": 1
       },
       {
@@ -44745,10 +44173,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Oak plank s can be created by using oak logs on a sawmill . They have many uses in construction or can be processed in a kiln to make charcoal .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)"
         },
-        "stations": [
-          "Build Menu",
-          "Kiln"
-        ],
         "step": 1
       },
       {
@@ -44795,12 +44219,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Willow logs are obtained by chopping down willow trees . An iron logging axe (or better) is required to chop down willow trees."
         },
-        "stations": [
-          "Build Menu",
-          "Kiln",
-          "Fletching Bench",
-          "Blacksmith's Bench"
-        ],
         "step": 2
       },
       {
@@ -44847,14 +44265,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Maple logs are obtained by chopping down maple trees , with a mithril logging axe or better."
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Kiln",
-          "Build Menu",
-          "Mystic Forge",
-          "Fletching Bench",
-          "Fletching Table"
-        ],
         "step": 3
       },
       {
@@ -44901,14 +44311,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Yew logs are obtained by chopping down yew trees , with a adamant logging axe or better."
         },
-        "stations": [
-          "Fletching Bench",
-          "Blacksmith's Bench",
-          "Build Menu",
-          "Kiln",
-          "Mystic Forge",
-          "Sawmill"
-        ],
         "step": 4
       },
       {
@@ -44955,10 +44357,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Yew plank s are made by using yew logs on a sawmill .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)"
         },
-        "stations": [
-          "Build Menu",
-          "Kiln"
-        ],
         "step": 4
       },
       {
@@ -45001,11 +44399,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Magic logs are obtained by chopping down Magic Trees , with a Rune Logging Axe or better."
         },
-        "stations": [
-          "Mystic Forge",
-          "Fletching Bench",
-          "Blacksmith's Bench"
-        ],
         "step": 5
       },
       {
@@ -45052,12 +44445,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Blightwood can be found in Bloodblight Swamp . The wood can be chopped from the pale blightwood root on larger trees in the swamp. To chop the blightwood root, players will need an iron logging axe or better."
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Mystic Forge",
-          "Fletching Bench",
-          "Kiln"
-        ],
         "step": 6
       },
       {
@@ -45145,10 +44532,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Hollow bark is a drop from dead trees ."
         },
-        "stations": [
-          "Armour Bench",
-          "Mystic Forge"
-        ],
         "step": 6
       },
       {
@@ -45225,13 +44608,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Anima-infused bark is a basic crafting item that is required to create wild anima . Anima bark can be found on the ground around the anima trees and certain crystal trees located throughout the Fractured Plains biome. Players can interact with the item by picking it up, receiving 7 Woodcutting experience. Anima-infused bark can respawn after 72 minutes.\n\n(Trivia)\n- In Old School RuneScape , Anima-infused Bark is a reward from Forestry events and is used as currency in the exchange of various woodcutting-related items."
         },
-        "stations": [
-          "Cooking Range",
-          "Fletching Bench",
-          "Blacksmith's Bench",
-          "Mystic Forge",
-          "Kiln"
-        ],
         "step": 6
       }
     ]
@@ -45472,10 +44848,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fire runes can be crafted at a rune altar at level 25 Runecrafting or higher, and can deal between 6-10 base damage, along with whatever staves the player equips. Fire runes are used in spells such as Rocksplosion , Superheat , and Fire Spirit ."
         },
-        "stations": [
-          "Build Menu",
-          "Fletching Bench"
-        ],
         "step": 4
       },
       {
@@ -45610,12 +44982,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rune essence can be gathered by mining rune essence stones surrounding the geysers around Ashenfall . Some spawn with rocks on the ground that you can easily gather from. The floating rocks require being hit (most easily with an arrow or an attack from a staff), and they will then fall to the ground to be mined. Alternatively, players can cast Rocksplosion whilst aiming at the floating rocks and can collect rune essence without affecting the pickaxe 's durability.\n\nCollecting rune essence in their inventory for the first time unlocks the rune altar ."
         },
-        "stations": [
-          "Rune Altar",
-          "Crafting Table",
-          "Build Menu",
-          "Grindstone"
-        ],
         "step": 6
       }
     ]
@@ -45865,11 +45231,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Cabbages are a power level 2 raw ingredient, which means they can be cooked at a campfire or grill into fried cabbage starting at Cooking Level 12, and not burnt into burnt cabbage at level 27. They can also be used to make weak Focused Cooking potions and Focused Cooking potions . They can be gathered from cabbage plants in Bramblemead Valley and cabbage (Farming) from cabbage seeds ."
         },
-        "stations": [
-          "Campfire",
-          "Grill",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -46008,9 +45369,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Cactus water is a consumable drink item that provides 25 hydration and grants the perk Frosted Flavours that grants resistance to scorch buildup for 300 seconds."
         },
-        "stations": [
-          "Cooking Range"
-        ],
         "step": 0
       },
       {
@@ -46250,12 +45608,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Flax can be found by harvesting the flax plants in either Bramblemead Valley , Fractured Plains , or Stormtouched Highlands . It can be used on the spinning wheel to create coarse thread . Collecting flax for the first time unlocks the creation of the spinning wheel and fletching bench ."
         },
-        "stations": [
-          "Build Menu",
-          "Spinning Wheel",
-          "Crafting Table",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -46340,11 +45692,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Harralander is a herb that is harvested from Harralander plants , found primarily in the Whispering Swamp and can be bought from Domri - The Merchant for 6 garou chits ."
         },
-        "stations": [
-          "Stone Range",
-          "Cooking Range",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -46429,10 +45776,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Irits are herbs acquired from destroying thorny irit roots and can be bought from Domri - The Merchant for 18 garou chits ."
         },
-        "stations": [
-          "Brewing Cauldron",
-          "Cooking Range"
-        ],
         "step": 0
       },
       {
@@ -46716,9 +46059,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Marrentil (also spelled marrentill in books) is a herb found from harvesting a marrentill plant in the Whispering Swamp and can be bought from Domri - The Merchant for 6 garou chits ."
         },
-        "stations": [
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -46803,13 +46143,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Onion s are a Power Level 3 raw ingredient, which means they can be cooked at a campfire or grill into fried onions starting at Cooking level 27, and not burnt into burnt onion at level 41. They can also be used to make lesser Focused Cooking potion , bowl of onions , and potted onion . They can be collected from onion (plant) in Fractured Plains , and Farmed from onion (Farming) grown from onion seeds . Onions can be used to make compost."
         },
-        "stations": [
-          "Build Menu",
-          "Campfire",
-          "Grill",
-          "Cooking Range",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -46932,10 +46265,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Potatoes are a Power Level 2 raw ingredient, which means they can be cooked at a campfire or grill into baked potato starting at Cooking level 12, and not burnt into burnt potato at level 27. They can be gathered from potato (plant)s in Bramblemead Valley and potato (Farming) from potato seeds . Potatoes can be used to make compost."
         },
-        "stations": [
-          "Campfire",
-          "Grill"
-        ],
         "step": 0
       },
       {
@@ -47020,10 +46349,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Pumpkins are a Power Level 4 raw ingredient, which means they can be cooked at a campfire or grill into roast pumpkin starting at Cooking level 41, and not burnt into burnt pumpkin at level 50. They can be gathered from pumpkin (plant)s in Fellhollow and Dowdun Reach and Farmed from Pumpkin (Farming) grown from pumpkin seeds . Pumpkins can not be used as an item in a compost bin, however can be used in a super compost bin.\n\n(Trivia)\n- In 2001, during the Hallowe'en event, pumpkins were dropped in the main RuneScape game. Since then, they have not been re-released in the main game and exist in a finite amount. In Old School RuneScape , this item has been released again in 2013. They can be obtained during the Hallowe'en holiday events.\n- In the journal entry, it is specified that pumpkins (when mixed with spices and added to warm drinks) can be used to distract ex-girlfriends. This is a reference to the pumpkin spice latte typically made in the fall season."
         },
-        "stations": [
-          "Campfire",
-          "Grill"
-        ],
         "step": 0
       },
       {
@@ -47146,10 +46471,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Snapdragon is a herb that can be found by harvesting the Snapdragon plant in the Bloodblight Swamp or can be bought from Domri - The Merchant for 12 garou chits ."
         },
-        "stations": [
-          "Cooking Range",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -47322,10 +46643,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Toadflax is found by harvesting the Toadflax plants in the Bloodblight Swamp and can be bought from Domri - The Merchant for 12 garou chits ."
         },
-        "stations": [
-          "Cooking Range",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -47406,10 +46723,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Tomatoes are a Power Level 2 raw ingredient, which means they can be cooked at a campfire or grill into grilled tomatoes starting at Cooking level 12, and not burnt into burnt tomato at level 27. They can be gathered from Tomato (Farming) from tomato seeds .\n\n(Trivia)\n- The journal entry refers to a mechanic in both Old School RuneScape and RuneScape 3 where tomatoes and their rotten versions can be thrown."
         },
-        "stations": [
-          "Campfire",
-          "Grill"
-        ],
         "step": 0
       },
       {
@@ -47498,11 +46811,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Watermelons are a consumable food item that provides 15 sustenance . They are also a Power Level 4 resource, which means they can be cooked at a campfire or grill into watermelon jerky starting at Cooking level 41, and not be burnt into burnt watermelon at level 50. They can also be used to make a scarecrow . They can be gathered from Watermelon (Farming) grown from watermelon seeds . Watermelons cannot be used as an item in a compost bin, however can be used as an item in a super compost bin.\n\n(Trivia)\n- Unlike all other raw ingredients or foods used in Cooking, watermelons remain the only resource that can be cooked on a campfire or grill, alongside maple sap as the only basic material."
         },
-        "stations": [
-          "Campfire",
-          "Grill",
-          "Build Menu"
-        ],
         "step": 0
       },
       {
@@ -47587,14 +46895,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Wheat is a power level 2 raw ingredient. It can be harvested from wheat (farming) after it has fully grown. Wheat seeds can be used in a farming plot to grow the source plant."
         },
-        "stations": [
-          "Grindstone",
-          "Stone Range",
-          "Cooking Range",
-          "Brewing Cauldron",
-          "Cooking Pot",
-          "Build Menu"
-        ],
         "step": 0
       },
       {
@@ -58258,12 +57558,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adhesive is a product as well as a crafting item.  It is created by adding swamp tar to the kiln .  Adhesive is made in a one-to-one ratio, with one swamp tar creating one adhesive.\n\nAdhesive has multiple uses as a crafting material in the production of fuel pellets , hard leather , tanner's kits , and weapon barbs ."
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Blacksmith Bench",
-          "Tannery",
-          "Build Menu"
-        ],
         "step": 0
       },
       {
@@ -58651,9 +57945,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "A clay decoration is an item that can be crafted by using three pieces of clay on a pottery wheel to produce a clay decoration (unfired) , and then using the unfired clay decoration on a kiln to create the finished clay decoration."
         },
-        "stations": [
-          "Build Menu"
-        ],
         "step": 0
       },
       {
@@ -58741,9 +58032,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "A clay mould is a clay mould that is fired in a kiln and is used as an ingredient at the jeweler's bench for making trinkets ."
         },
-        "stations": [
-          "Jeweler's Bench"
-        ],
         "step": 0
       },
       {
@@ -58899,10 +58187,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Clay vessels can be created with clay vessel (unfired) at a kiln , and can be used at a brewing cauldron to hold potions."
         },
-        "stations": [
-          "Build Menu",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -59232,10 +58516,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Glass vessels can be created with molten glass at a jeweler's bench , and can be used for various recipes."
         },
-        "stations": [
-          "Brewing Cauldron",
-          "Mystic Forge"
-        ],
         "step": 0
       },
       {
@@ -59282,13 +58562,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Gold leaf is a craftable item reward from various Agility courses that allows the player to make potions, golden regional capes, and a gilded version of the gyrhawk amulet . To obtain these, players must either collect them from golden reward packs or recycle gold bars at the jeweler's bench to make sheets of ten per bar.\n\n(Trivia)\n- The gold leaf here can be crafted, unlike in RuneScape and Old School RuneScape , where it is either obtained through a shop or  as an drop source. Just like both games, it can be used to craft items build decorations for construction."
         },
-        "stations": [
-          "Armour Bench",
-          "Brewing Cauldron",
-          "Jeweler's Bench",
-          "Blast Furnace",
-          "Build Menu"
-        ],
         "step": 0
       },
       {
@@ -59380,10 +58653,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Maple sap is a Power Level 4 basic material, which means it can be cooked at a campfire or grill into maple syrup starting at Cooking level 41, and not burnt into burnt maple syrup at level 50. It can be gathered from chopped maple trees ."
         },
-        "stations": [
-          "Campfire",
-          "Grill"
-        ],
         "step": 0
       },
       {
@@ -59731,11 +59000,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Shrapnel can be found whilst killing terrorbirds and garou hunters found within the Fractured Plains ."
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Cooking Range",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -59874,11 +59138,6 @@ window.WILDS_STORAGE = [
           ],
           "description": "Swamp tar is obtained by gathering from the ground in the Whispering Swamp , and is used inside a kiln to create adhesive ."
         },
-        "stations": [
-          "Kiln",
-          "Build Menu",
-          "Brewing Cauldron"
-        ],
         "step": 0
       },
       {
@@ -59935,86 +59194,66 @@ window.WILDS_STORAGE_MAX_STEP = 8;
 window.WILDS_STATIONS = [
   {
     "name": "Armour Bench",
-    "count": 170
+    "count": 90
   },
   {
     "name": "Blacksmith's Bench",
-    "count": 100
+    "count": 65
   },
   {
     "name": "Brewing Cauldron",
-    "count": 78
-  },
-  {
-    "name": "Build Menu",
-    "count": 59
+    "count": 54
   },
   {
     "name": "Fletching Bench",
-    "count": 58
-  },
-  {
-    "name": "Mystic Forge",
-    "count": 52
+    "count": 33
   },
   {
     "name": "Crafting Table",
-    "count": 51
+    "count": 28
   },
   {
-    "name": "Jeweler's Bench",
-    "count": 32
-  },
-  {
-    "name": "Cooking Range",
-    "count": 15
-  },
-  {
-    "name": "Grindstone",
-    "count": 15
+    "name": "Mystic Forge",
+    "count": 25
   },
   {
     "name": "Imbuing Barrel",
     "count": 14
   },
   {
-    "name": "Kiln",
-    "count": 12
-  },
-  {
-    "name": "Blast Furnace",
+    "name": "Build Menu",
     "count": 11
   },
   {
-    "name": "Furnace",
-    "count": 10
+    "name": "Blast Furnace",
+    "count": 7
   },
   {
-    "name": "Smithing Forge",
-    "count": 9
-  },
-  {
-    "name": "Campfire",
-    "count": 8
-  },
-  {
-    "name": "Grill",
-    "count": 8
+    "name": "Grindstone",
+    "count": 7
   },
   {
     "name": "Tannery",
-    "count": 8
+    "count": 7
+  },
+  {
+    "name": "Smithing Forge",
+    "count": 6
+  },
+  {
+    "name": "Jeweler's Bench",
+    "count": 5
   },
   {
     "name": "Spinning Wheel",
-    "count": 7
+    "count": 5
   },
   {
-    "name": "Stone Range",
-    "count": 7
+    "name": "Furnace",
+    "count": 4
   },
   {
-    "name": "Fletching Table",
+    "name": "Kiln",
     "count": 3
   },
   {
@@ -60022,31 +59261,23 @@ window.WILDS_STATIONS = [
     "count": 2
   },
   {
-    "name": "Blacksmith Bench",
+    "name": "Fletching Table",
     "count": 2
   },
   {
-    "name": "Cooking Pot",
+    "name": "Campfire",
     "count": 1
   },
   {
-    "name": "Loom",
+    "name": "Cooking Range",
     "count": 1
   },
   {
-    "name": "Lougrim's Shrine",
+    "name": "Grill",
     "count": 1
   },
   {
-    "name": "Pottery Wheel",
-    "count": 1
-  },
-  {
-    "name": "Rune Altar",
-    "count": 1
-  },
-  {
-    "name": "Sawmill",
+    "name": "Stone Range",
     "count": 1
   }
 ];

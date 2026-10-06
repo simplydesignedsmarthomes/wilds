@@ -1038,6 +1038,30 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     if (skillLine) out += '<div style="margin-top:.2rem"><span class="fk">XP</span><span class="fv"> '+esc(skillLine)+'</span></div>';
     return '<div class="wide">'+out+'</div>';
   }
+  // Basic food items write their recipe as a plain sentence instead of
+  // either table format: "1 x Rat Roast + 1 x Baked Potato + 1 x Fried Egg
+  // -> 1 x Cheeky Fryup (Cooking 20 XP)", with the facility named in the
+  // label's own parenthetical (already surfaced via "Made at" above) and
+  // sometimes a second parenthetical after it for a material variant, e.g.
+  // "Recipe (Campfire - Raw egg)".
+  function isArrowRecipe(value){
+    return value.indexOf("→") !== -1;
+  }
+  function renderArrowRecipeField(value, label){
+    var parts = value.split("→");
+    if (parts.length < 2) return '<div class="wide"><span class="fv">'+esc(value)+'</span></div>';
+    var materials = parts[0].split("+").map(function(s){ return splitByMarkers(s)[0]; }).filter(Boolean);
+    var outMatch = parts[1].match(/^\s*(.*?)\s*(?:\(([^)]+)\))?\s*$/);
+    var outputs = outMatch ? splitByMarkers(outMatch[1]) : [];
+    var skillLine = outMatch && outMatch[2] ? outMatch[2] : "";
+    var variant = label.match(/\(([^)]+)\)/);
+    var sub = variant ? variant[1].split(/\s*[-—]\s*/)[1] : "";
+    var out = sub ? '<div><span class="fk">'+esc(sub)+'</span></div>' : "";
+    if (outputs.length) out += '<span class="fk">Makes</span><span class="fv"> '+esc(outputs.map(function(o){ return o.qty+"× "+o.name; }).join(", "))+'</span>';
+    if (materials.length) out += '<div class="mat-chips">'+materials.map(materialChip).join("")+'</div>';
+    if (skillLine) out += '<div style="margin-top:.2rem"><span class="fk">XP</span><span class="fv"> '+esc(skillLine)+'</span></div>';
+    return '<div class="wide">'+out+'</div>';
+  }
   // "Source: Deer; Quantity: 1; Rarity: Always || Source: Cow; ..." -> one
   // clean line per source instead of a semicolon-and-pipe wall of text.
   function renderSourcesField(value){
@@ -1085,6 +1109,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
           }
           return renderProductsField(r.value);
         }
+        if (isArrowRecipe(r.value)) return renderArrowRecipeField(r.value, r.label);
         if (isPipeTableRecipe(r.value)) return renderRecipeTableField(r.value, r.label);
         if (/material/i.test(r.label)){
           return '<div class="wide"><span class="fk">'+esc(r.label)+'</span><div class="mat-chips">'+parseMaterials(r.value).map(materialChip).join("")+'</div></div>';

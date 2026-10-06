@@ -30031,6 +30031,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Cheeky fryup is a consumable food item that provides 70 health and 70 sustenance as well as the perk Foreman's Feast, which reduces the stamina cost of Woodcutting and Mining by 33% for 300 seconds. It is made with rat roast, baked potato, and fried egg in a stone range or a cooking range. It is learned by unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nThe grease. The sizzling scents. The feeling of your arteries withering just from a single glance at the dish. Is there anything in life as close to the divine as a nice, cheeky fry up?\n\nPopular among those who have consumed a few too many gnomish cocktails the night before, a cheeky fry up is hailed as a great cure for the pounding headache that follows such indulgences."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 0
       },
       {
@@ -30097,6 +30101,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Mixed grill is a consumable food item that provides 70 health and 70 sustenance as well as the perk Meaty Meal, which reduces the player's hunger drain by 25% for 300 seconds. It is made with fillet, haunch, and steak in a stone range or a cooking range. It is learned by unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nFor the carnivore in you, a plate of meat mixed with meat."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 0
       },
       {
@@ -30163,6 +30171,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Sweet veg ball is a consumable food item that provides 70 health 65 sustenance as well as the perk Knowledgable Nourishment, which increases the player's experience gain in all skills by 10% for 300 seconds. It is made with fried cabbage, baked potato, and dried redberries in a stone range or a cooking range. It is learned by unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nPopular among gnomes, this sticky ball of fruits and vegetables is a combination of savoury and sweet that almost feels like it shouldn’t work. Yet it does.\n\nThere is a crispness to the outer shell, savoury and salty, which gives way to a delicious fruity sweetness beneath.\n\nGnomish ambassadors would create large numbers of these sweet treats, piled high on silver platters, to delight visiting dignitaries at lavish receptions. Diplomats would often joke about being spoiled by such treats. Which is ironic really, as these spoil very quickly, so enjoy them now while you can."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 0
       },
       {
@@ -30229,6 +30241,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Meat pizza is a consumable food item that provides 90 health, 110 sustenance as well the perks Meaty Meal and Coagulated, which reduces hunger drain by 25% and reduces Bleed buildup for 600 seconds. It is made with flank steak, fillet, haunch, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\n(Journal)\nA delicious pizza, covered in juicy tender pieces of meat, and seasoned with a delicious sauce. You might ask yourself where the cheese comes from, but it’s best not to think too hard about it. Ashenfall has many secrets and those who survive here must do many strange things. No one judges you for this “cheese”, it’s fine.\n\nJust enjoy the delicious flavours and try not to have an existential crisis."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 1
       },
       {
@@ -30295,6 +30310,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Mushroom kebab is a consumable food item that provides 120 health, 110 sustenance as well as the perks Foreman's Feast and Fungal Fortitude, which reduces the stamina cost of Woodcutting and Mining by 33% and reduces Poison buildup by 33% for 600 seconds. It is made with grilled mushrooms, fried cabbage, haunch, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\n(Journal)\nThe Drunken Dwarf delights in the humble Kebab, offering it to any who might grab his attention. The delicious combination of spices and subtle flavourings makes it a marvellous meal. For those afflicted, or self-inflicted, with particular poisonings, the Kebab is a time-honoured remedy."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 1
       },
       {
@@ -30361,6 +30379,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Wild pie is a consumable food item that provides 90 health, 110 sustenance as well as the perks Knowledgable Nourishment and Grounded, which increases experience gain in all skills by 10%, and reduces the amount of shock damage taken for 600 seconds. It is made with fried onions, baked potato, dried dwellberries, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\n(Journal)\nA delicious pastry crust seals the flavours inside. Warm and filling, each bite designed to fill you with comfort. The flavour is earthy, and rich, letting you shrug off almost anything."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 1
       },
       {
@@ -30419,6 +30440,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Maple syrup is a power level 4 consumable food item that provides 25 sustenance when eaten. It can be cooked from maple sap at either a campfire or grill. It requires Cooking level 41 to cook and 50 to not burn, otherwise creating burnt maple syrup.\n\n(Journal)\nWe are yet to find something that maple syrup does not elevate. Pancakes and bacon are the obvious ones, but try it out on things that are more left-field. Rat meat? Elevated. Terrorbird meat? Elevated. Undead eel? Eelevated.\n\nSo, thank you, humble maple tree. You are a true wonder of the culinary and apothecary world. It won't stop us woodcutting you, but know that each cut comes with a maple syrup-sized dollop of guilt."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 2
       },
       {
@@ -30485,6 +30510,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Cactus steak is a Power Level 5 consumable food item that provides 20 health and 20 sustenance when eaten. It can be cooked from cactus steak at either a campfire or grill. It requires Cooking level 50 to cook and 75 to not burn, otherwise creating Burnt Cactus Steak.\n\n(Journal)\nLook, not everyone gets to tuck into a redberry pie every night. Sometimes you have to make do, using the resources you have to hand. A cactus steak is very much 'making do': it's prickly to prepare, as you might expect, and tough to eat.\n\nIt's the kind of meal that makes a garou cub eyeroll and ask whether something other than cactus steak will be on the menu tomorrow. It doesn't matter that it's what nutritionists call a 'superfood', offering some alphabetical variety of vitamins. It's just not particularly exciting or flavoursome, and you might find your cubs making excuses to be elsewhere at dinnertime."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -30584,6 +30613,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "The baked potato is a power level 1 food item that provides 20 sustenance and 20 health when eaten. They can be cooked at either a campfire or grill.\n\n(Journal)\nThe simplicity. The elegance. Few things in life are quite as dependable as a good old Baked Potato. Crispy exterior, fluffy interior, and it goes well with just about anything."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -30642,6 +30675,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Beef & tomato stew is a consumable food item that provides 60 health and 65 sustenance. It is made with grilled tomatoes, steak, and dried redberries in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nTomatoes go well with just about everything. They enhance the flavours of anything they’re paired with and a nice beef stew is no exception. The combined flavours are comforting as well as filling, and almost make you forget that you’re a long way from home, on a continent filled with murderous dragons."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -30700,6 +30737,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Beltfish broth is a consumable food item that provide 130 health and 25 sustenance. It is made with steamed beltfish, peach, and fried cabbage and despite being a filling meal, can only be cooked in a cooking range.\n\n(Journal)\nThe Moon Garou don't like to waste a kill. Every last organ and morsel of flesh is eaten or used in some capacity, in honour of the creature that surrendered its life.\n\nIn that spirit, beltfish broth is the final stop for a beltfish's innards. Eyeballs, teeth, fins, organs and even the odd parasite (\"tapeworm, tapeworm, you make my belly squirm\", as the garou song goes) are boiled and served in this delightful dish."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -30754,6 +30794,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Berry compote is a consumable food item that can be crafted by combining redberries and dwellberries at a cooking pot. When consumed it provides moderate sustenance and 5 lifeward. There is also a 5% chance to produce a rat roast whilst making a berry compote.\n\n(Journal)\nBerries and more berries, what could be better? A sweet and sour sensation in each mouthful. A refreshing, yet enjoyable meal. Well, more like a dessert, but no one’s judging you."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -30812,6 +30855,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Berry drizzle pan-seared is a consumable food item that provides 160 health and 65 sustenance. It is made with smoked herring, seared anchovies, and dried dwellberries in a cooking range.\n\n(Journal)\n\"Pan-seared what?\", you may ask. Well, pan-seared herring and anchovies, my good fellow. That might sound like a lot of fish in one meal, but some dwellberry acts as a sweet binding agent, making the whole eating-process rather delightful. It's a meal that's been around for generations, and you will often hear battle-worn adventurers wishing that they were back home for 'some of mammy's pan-seared'.\n\nWe suspect that the berry drizzle pan-seared that you've made is NOT from mammy, however. We may be wrong: it's very possible that there's a quest that we've forgotten."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -30917,6 +30963,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Braised catfish is a consumable food item that provides 120 health and 30 sustenance. It is made by cooking raw armoured catfish on either a campfire or a grill, and is used in stuffed catfish.\n\n(Journal)\nCooking a braised catfish is no mean feat. The process involves removing the armoured shell while managing to avoid the nerve-endings that, once severed, can release a poison that is fatal to humans. Then a chef needs to achieve precisely the right temperature to neutralise the latent poison without - again - activating it.\n\nOf course, if you want fewer friends, braised catfish is easy as pie to cook."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -30979,6 +31029,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Braised undead eel is a consumable food item that provides 60 health and 25 sustenance. It is made by cooking raw undead eel on either a campfire or a grill, and is used in fish fry.\n\n(Journal)\nSweet Saradomin on High, why on earth are you braising an undead eel? Are you a mind rune short of a rune pouch?\n\nPerhaps it's a dare, and you're going to get a hefty payout after making it? I can't think of any other reason, sane or otherwise, why you would fish for the horrible, wriggly thing, pick it up afterwards, then braise it, which - we may add - is a process to DRAW OUT FLAVOURS.\n\nWhat next? Bury it in the ground for days and eat it afterwards? I would not put it past you."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31033,6 +31087,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Bread is a power level 2 food. It can be created by using a bag of flour on a kiln. It heals 20 health and provides 30 sustenance when consumed.\n\n(Journal)\nSimple wheat, water, yeast and salt, combined together and incinerated within an oven. A staple across many cultures and species across Gielinor and beyond. The Icyene of Hallow enjoy a flatbread that they can wrap food in, for a meal on the wind. The aviansie of Abbinah, when the limited wheat is available, prefer a thick and sturdy bread, so that each bite lasts longer. Elves enjoy a sourdough, priding themselves on how long they can keep the starter alive.\n\nFor the people of Ashenfall, much like their cousins in the mainland, a simple loaf is more than enough."
         },
+        "stations": [
+          "Kiln"
+        ],
         "step": 3
       },
       {
@@ -31091,6 +31148,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt anchovies is a consumable burnt food item that has a chance to be made when cooking raw anchovies at a campfire or grill. It can be eaten or used for Composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31149,6 +31210,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt beltfish are consumable burnt food that have a chance to be made when cooking raw beltfish, providing 15 sustenance when consumed. It can also be used as compost in a compost bin."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31207,6 +31272,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt bread is a consumable burnt food item that has a chance to be made when cooking bread or guaranteed when intentionally overcooking bread at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31257,6 +31326,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt cabbages are a consumable burnt food item that have a chance to be made when cooking cabbage at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31311,6 +31384,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt cadavaberries are a consumable burnt food item that have a chance to be made when cooking cadavaberries at a campfire or grill, providing 10 sustenance and 45 soulscourge when consumed, and have no uses beyond being eaten for food. \n\nCurrently, these are unable to be composted, and it is uncertain if this is intentional or due to a bug with the release of the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31369,6 +31446,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt catfish is a consumable burnt food item that has a chance to be made when cooking raw armoured catfish at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31427,6 +31508,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt desert sole are consumable burnt food that have a chance to be made when cooking raw desert sole, providing 15 sustenance when consumed. It can also be used as compost in a compost bin."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31477,6 +31562,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt dwellberries are a consumable burnt food item that have a chance to be made when cooking dwellberries at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31539,6 +31628,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt eggs are a consumable burnt food item that have a chance to be made when cooking eggs at a campfire or grill.They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31593,6 +31686,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt fillets are a consumable burnt food item that have a chance to be made when cooking raw bird meat at a campfire or grill, providing 10 sustenance when consumed. However, burnt fillets, like any burnt food, can be used as compost at a compost bin.\n\nPlayers can also receive burnt fillets as a drop from chopping down dead trees."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31647,6 +31744,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt flanks are a consumable burnt food item that have a chance to be made when cooking raw bestial meat at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31705,6 +31806,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt giant krill is a consumable burnt food item that has a chance to be made when cooking raw giant krill at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31755,6 +31860,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt haunches are a consumable burnt food item that have a chance to be made when cooking raw game meat at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31813,6 +31922,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt herring is a consumable burnt food item that has a chance to be made when cooking raw herring at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31871,6 +31984,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt infernal eel is a consumable burnt food item that has a chance to be made when cooking raw infernal eel at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31929,6 +32046,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt lobster is a consumable burnt food item that has a chance to be made when cooking raw lobster at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -31991,6 +32112,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt maple syrup is a power level 4 consumable burnt food item that has a chance to be made when cooking maple sap at a campfire or grill, and guaranteed when cooking maple syrup. It requires a Cooking level lower than 50 to burn from maple sap, and guaranteed with a level lower than 41. It provides 15 sustenance when consumed. Despite being a power level 4 item, it can only be deposited into a compost bin and not a super compost bin."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32049,6 +32174,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt monkfish are consumable burnt food that have a chance to be made when cooking raw desert sole, providing 15 sustenance when consumed. It can also be used as compost in a compost bin."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32099,6 +32228,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt mushrooms are a consumable burnt food item that have a chance to be made when cooking a mushroom at a campfire or grill, provide 10 sustenance when consumed. and have no uses beyond being eaten for food, or compost with the planned release of the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32149,6 +32282,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt onions are a consumable burnt food item that have a chance to be made when cooking an onion at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32199,6 +32336,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt peaches are a consumable burnt food item that have a chance to be made when cooking a peach at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32253,6 +32394,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt potatoes are a consumable burnt food item that have a chance to be made when cooking a potato at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32307,6 +32452,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt pumpkin is a consumable burnt food item that has a chance to be made when cooking pumpkin at a campfire or grill, provides 15 sustenance when consumed, and has no uses beyond being eaten for food."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32361,6 +32510,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt rat roasts are a consumable burnt food item that have a chance to be made when cooking raw rat meat at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32415,6 +32568,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt redberries are a consumable burnt food item that has a chance to be made when cooking redberries at a campfire or grill. They provide 10 sustenance when consumed. They have no uses beyond being eaten for food, but have a compost level of 10 at a compost bin."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32473,6 +32630,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt salmon is a consumable burnt food item that has a chance to be made when cooking raw salmon at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32531,6 +32692,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt sardine is a consumable burnt food item that has a chance to be made when cooking raw sardine at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32589,6 +32754,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt shrimp is a consumable burnt food item that has a chance to be made when cooking raw shrimp at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32639,6 +32808,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt steaks are a consumable burnt food item that have a chance to be made when cooking raw farm meat at a campfire or grill. They provide 10 sustenance when consumed or can be used for compost with the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32689,6 +32862,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt tomatoes are a consumable burnt food item that has a chance to be made when cooking tomatoes at a campfire or grill. They provide 10 sustenance when consumed. They have no uses beyond being eaten for food, but are planned to be usable for compost with the release of the Farming skill."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32747,6 +32924,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt trout is a consumable burnt food item that has a chance to be made when cooking raw trout at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32805,6 +32986,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt undead bass is a consumable burnt food item that has a chance to be made when cooking raw undead bass at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32863,6 +33048,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt undead eel is a consumable burnt food item that has a chance to be made when cooking raw undead eel at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32909,6 +33098,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A burnt undead steak is a burnt version of undead meat. Restores 25 sustenance, gives 45 soulscourge and gives the ravenous effect, which lasts for 150 seconds."
         },
+        "stations": [
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -32967,6 +33159,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Burnt watermelon is a consumable burnt food item that has a chance to be made when cooking watermelon or guaranteed when intentionally overcooking watermelon jerky at a campfire or grill. It can be eaten or used for composting."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -33083,6 +33279,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Cauterised undead steak is a power level 4 food item that provides 2 health and 25 sustenance as well as the perks Ravenous and Steadfast Stomach, which drains hydration and sustenance 20% faster and grants resistance to Wither effects for 150 seconds. It can be cooked from undead meat at either a campfire or a grill, and is used in dubious meat pie.\n\n(Journal)\nDespite the appearance of their former owners and the deeply unpleasant smell emanating from it, undead meat is not rotten. It, like the nature of its former owners, is preserved in a state between life and death, as if it's on the cusp of souring, but never quite getting there.\n\nThis unique nature gives it some very interesting properties, but sadly, flavour isn't one of them."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -33226,6 +33426,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dried cadavaberries are a power level 4 food item that provides 20 sustenance and 20 health when eaten, and can be cooked at either a campfire or grill.\n\n(Journal)\nHeat makes them edible, but only just. A once popular snack among the people of Fellhollow, who seems overly cavalier about the consumption of deadly poisons."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -33284,6 +33488,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dried dwellberries are a power level 3 food item that provides 20 sustenance and 20 health when eaten, and can be cooked at either a campfire or grill.\n\n(Journal)\nDelicious berries. They make a great snack. Very popular among garou druids as a seasoning with their latest quarry."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -33350,6 +33558,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dried giant krill is a consumable food item that provides 50 health and 25 sustenance as well as the perk Sea Legs, which makes you immune to the slowing effects of water for 300 seconds. It is made by cooking raw giant krill on either a campfire or a grill, and is used in stir-fry and stuffed catfish."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -33408,6 +33620,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dried peaches are a power level 1 food item made by cooking a peach at a campfire or grill. They provide 25 sustenance and 20 health when consumed."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -33466,6 +33682,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dried redberries are a power level 1 food item that can be cooked at either a campfire or a grill. Dried redberries provide 15 sustenance and 20 health when consumed.\n\n(Journal)\nEasier to eat on the go than standard redberries. Tastier too."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -33565,6 +33785,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dubious meat pie is a consumable food item that provides 50 health, 100 Sustenance, and 20 Soulscourge as well as the perks Ravenous and Steadfast Stomach, which drain thirst and hunger 20% faster and grant resistance to Wither effects for 300 seconds. It is made with roast pumpkin, cauterised undead steak, and bread in a cooking range.\n\n(Journal)\nThe smell from this pie is strange. Undertones of gamey meats, the tantalising touch of subtle herbs and spices. The pastry is crip[sic], inviting…and[sic] yet, beneath the crust, hidden behind the pleasantries, is the scent of something otherworldly.\n\nDeath has touched this pie."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -33669,6 +33892,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dwellberry crunchies are a consumable food item that provides 70 health and 40 sustenance. They are made with dried dwellberries and wheat in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nDwellberries on Ashenfall are heartier than their mainland counterparts, and make for excellent ingredients. The Wild Knights were particularly fond of this recipe, though they referred to them as “dwellberry splats” because Olis, their creator, wasn’t a particularly good chef."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -33727,6 +33954,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dwellberry crunchies are a consumable food item that can be created through Cooking by combining dwellberries and either cabbages or potatoes at a cooking pot. When consumed they provide moderate sustenance and 5 lifeward. There is also a 5% chance to produce a rat roast whilst making dwellberry crunchies.\n\n(Journal)\nDwellberries on Ashenfall are heartier than their mainland counterparts, and make for excellent ingredients. The Wild Knights were particularly fond of this recipe, though they referred to them as “dwellberry splats” because Olis, their creator, wasn’t a particularly good chef."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -33781,6 +34011,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dwellberry glazed roast flank is a consumable food item that can be cooked by combining dwellberries with raw bestial meat at a cooking pot, and provides moderate sustenance when consumed. There is also a 5% chance to produce a rat roast whilst making dwellberry glazed roast flank.\n\n(Journal)\nA thick and juicy steak, combined with a rich and sticky dwellberry sauce. Each mouthful is like a taste explosion, and it can be difficult to hold yourself back. Orik the Bear was a Wild Knight who excelled in this dish, and other Wild Knights would seek him out at the gatherings for his culinary expertise."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -33847,6 +34080,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Dwellberry glazed roast meat is a food item that can be created through Cooking, by combining dwellberries with any tier one meat (raw rat meat, raw bird meat, raw farm meat, or raw game meat) at a cooking pot. Eating the dish provides moderate sustenance (30) and a small amount of lifeward (5) when consumed. There is also a 5% chance to produce a rat roast whilst making dwellberry glazed roast meat.\n\n(Journal)\nDwellberries boiled down into a thick sauce and liberally trailed across the meat. You may not expect the combination to work, but upon that first mouthful, your tastebuds will squirm in delight for this delicious combination."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -33959,6 +34195,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Eggs royale is a consumable food item that provides 120 health and 30 sustenance as well as the perk Sea Life, which restores 3 health every second for 900 seconds. It is made with fried egg and fried salmon in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nDo you know what they call an eggs royale in Asgarnia? 'Salmon and egg'. Barbarians.\n\nThere aren't many flavours that go together as well as salmon and egg. Pork and cheese. Bread and butter. Fishing potions and a hangover."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -34017,6 +34257,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "A fillet is a power level 1 food item that provides 20 sustenance and 20 health when eaten. It can be cooked at either a campfire or grill.\n\n(Journal)\nThese fillets go surprisingly well with most side dishes. The texture is pleasant, the flavour is subtle and not too overpowering. They go particularly well with garlic."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34075,6 +34319,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fish fry is a consumable food item that provides 180 health and 55 sustenance. It is made with fried cabbage, braised undead eel, and roasted lobster in a cooking range.\n\n(Journal)\nA 'fish fry' is something of a misnomer as only the eel is a fish, and even that's questionable now that it's undead. The lobster is most definitely a crustacean, and a cabbage is a holy orb of sustenance, delivered by the majestic Brassica Prime. Therefore, not a fish.\n\nWe give a fish fry a pass, mainly because it's a Fellhollow delicacy, once favoured by Ravanna. It was invented after a sailor saw a lobster and eel fighting and threw a well-aimed cabbage. He fried the result and lo, fish fry was born."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -34141,6 +34388,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Flank steak is a power level 3 food item that provides 25 sustenance, 30 health, as well as the perk Coagulated, which reduces Bleed buildup for 150 seconds. It can be cooked from raw bestial meat at either a campfire or a grill, and is used in roast dinner, meat pizza, meat sandwich, meat twist sandwich, and steak sandwich.\n\n(Journal)\nThick and juicy, the Flank Steak is more filling than you might first expect. The dense meat means each mouthful makes you fuller for longer."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34207,6 +34458,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Forager's sandwich is a consumable food item that provides 70 health, 80 sustenance as well as the perks Knowledgable Nourishment and Fungal Fortitude, which increases experience gain in all skills by 10% and reduces Poison buildup by 33% for 600 seconds. It is made with fried cabbage, grilled mushrooms, and bread in a cooking range after finding the recipe in the garrison in Dowdun Reach.\n\n(Journal)\nBrassica Prime approves of this sandwich.\n\nAlthough, the mushrooms are a little much: they could probably have been thinned out. Maybe removed? Yes, remove them. The bread, too. Is it needed? Would you perhaps consider removing the envelope of bread that houses the sweet cabbage missive? Your dribbly jowls will thank us."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -34265,6 +34519,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fortifying crunchies are a consumable food item that provide moderate sustenance. It also gives the player the Fungal Fortitude perk, which grants resistance to Poison effects for 300 seconds. There is also a 5% chance to produce a rat roast whilst making fortifying crunchies.\n\n(Journal)\nThe mushrooms of Ashenfall have absorbed enough magic over the years to give them special properties. A well-cooked mushroom will absorb certain toxins from whoever ingests them, making them invaluable for scouting into poison-filled areas."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -34323,6 +34580,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fortifying soup is a consumable food item that provides moderate sustenance and 5 lifeward when eaten. It also provides the player with the Fungal Fortitude perk, which grants resistance to Poison buildup by 33% for 300 seconds. There is also a 5% chance to produce a rat roast whilst making fortifying soup.\n\n(Journal)\nIt is said that Guthix created the first fortifying soup, as a gift for his chief druids. While the first few attempts resulted in terrible food poisoning - Guthix was a god, not a chef - the perfected recipe soon became a favourite once he mixed in mushrooms. This was because the mushrooms absorbed much of the toxins, making it much more palatable."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -34431,6 +34691,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fried cabbage is a power level 1 food item that can be cooked at either a campfire or grill. Fried cabbages have 20 sustenance and 20 health when consumed.\n\n(Journal)\nBrassica Prime – the god of cabbages – gifted the world with this delicious vegetable, to lead the faithful on the noble path of nutrition. In his infinite, leafy, wisdom, he taught the early settlers about how one might fry the leaves so that they would be even more delicious.\n\nNow Fried Cabbages offer those who consume it the strength and stamina needed to brave the hardships of Ashenfall."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34489,6 +34753,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fried eggs are a power level 1 food item made by cooking an egg at a campfire or grill. Fried eggs have 20 sustenance and 20 health when consumed.\n\n(Journal)\nSlimy, greasy and everything you need. There are few things as surprisingly satisfying as a fried egg sandwich. If only you had some bread!\n\nContrary to popular humour the aviansie have no issue with people eating eggs around them. Indeed many of them have raptor like tastes and will happily consume the eggs of livestock birds. Boiled almhas (a domesticated bat-like creature) eggs were popular snacks on Abbinah, yet those eggs could not be fried as they would combust dramatically when exposed to a naked flame.\n\nFortunately chicken eggs are far less flammable."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34555,6 +34823,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fried onions are a consumable food item that provide 20 sustenance as well as the perk, Grounded, which reduces the amount of shock damage taken for 150 seconds. They can be cooked from onion at either a campfire or a grill, and are used in squeaking sausage, wild pie, and steak sandwich.\n\n(Journal)\nAlthough the preparation leaves you weeping, and the smell makes it worse, fried onions are a delicious meal to get you through a difficult day."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34621,6 +34893,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fried salmon is a consumable food item that provides 70 health and 20 sustenance as well as the perk Sea Life, which restores 3 health every second for 300 seconds. It is made by cooking raw salmon on either a campfire or a grill, and is used in eggs royale.\n\n(Journal)\nFried salmon may not be the most substantial or healing of fish, but it's celebrated for its moist texture and delicious taste.\n\nFamously, it was the subject of a smear campaign from the Saradominist church to get it banned as a foodstuff, as they objected to the populace describing it as 'moist'. They deemed the adjective 'unsaintly'."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34687,6 +34963,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fried sardine is a consumable food item that provides 30 health and 15 sustenance, as well as granting the perk Sea Life, which restores 3 health every second for 180 seconds. It is made by cooking raw sardine on either a campfire or a grill, and is used in sauteed sardines and lesser Focused Fishing potion.\n\n(Journal)\nA fried sardine, also known as a charred pilchard or 'pilcharred', is the go-to snack for a fisherman's pocket. If you see a stoic fisherman who talks very little, it's likely because they've got a mouthful of fried sardine and don't want to reveal the bones between their teeth.\n\nFried sardines were also the subject of a failed business venture by a dwarf called Drorkar. He tried to manufacture 'tins' that would contain these sardines, with smithed 'rings' to open their tiny metal coffins. It was roundly rejected and cost the dwarf a great deal."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34741,6 +35021,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fruit pie is a consumable food item that provides 90 health and 85 sustenance. It is made with dried redberries, dried dwellberries, and bread in a cooking range. Cadavaberries are required to be held to unlock the recipe.\n\n(Journal)\nGrannies everywhere are masters of this dish. Delicious fruits, a touch of sugar, some delightful pastry and that final ingredient - a dark blessing to ancient gods.\n\nOr love, that works too.\n\nWith the pact complete, these pies allow you those fond memories of comfort, hope and family. Something much needed out in the wilds of Ashenfall."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -34811,6 +35094,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Glazed pumpkin sandwich is a consumable food item that provides 80 health and 100 sustenance as well as the perks Knowledgable Nourishment, Foreman's Feast, and Soul Food, which increases experience gain in all skills by 10%, reduces the stamina cost of Woodcutting and Mining by 33%, and restores 8 health every 5 seconds for 600 seconds. It is made with dried redberries, roast pumpkin, maple syrup, and bread in a cooking range after finding the recipe on a table in the hall nearby Zanik in the Dowdun Reach underground.\n\n(Journal)\nNot only is the roast pumpkin sandwich glazed because it is doused in delicious maple syrup; it is also glazed in the modern parlance, since it is showered with excessive, unwarranted or exaggerated praise. This makes it double-glazed. Like a window."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -34877,6 +35163,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Grilled mushrooms are a power level 2 food item that provide 20 sustenance, 20 health, and the perk Fungal Fortitude, which reduces Poison buildup by 33% for 150 seconds. They can be cooked from bittercap mushroom at either a campfire or a grill, and are used in pungent omelette, mushroom kebab, forager's sandwich, and steak sandwich.\n\n(Journal)\nA great meal for a real fun guy… sorry.\n\nPopular with terrible pun writers and villagers alike, roasted mushrooms were a staple diet across much of Ashenfall. Wild Knights would forage for the best mushrooms to enjoy on their long hunts.\n\nThe fortifying effect of mushrooms made them even more popular with those braving poison-filled Bloodblight Swamp."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34935,6 +35225,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Grilled tomatoes are a power level 1 cooked food, made from tomatoes at either a grill or campfire. Players have a chance to burn the tomato, resulting in burnt tomatoes.\n\n(Journal)\nSomehow still juicy, even after a judicious application of fire."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -34997,6 +35291,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Grilled trout is a consumable food item that provides 40 health and 15 sustenance. It is made by cooking raw trout on either a campfire or a grill, and is used in herb baked trout and Focused Fishing potion.\n\n(Journal)\nUntil recently, grilled trout was prescribed by doctors thanks to its regenerative properties. 'A grilled trout a day will keep the gout away' was the common phrase. After a study by the Cook's Guild in far-off Varrock, however, it was found that regular eaters of grilled trout were 20% more likely to contract gout.\n\nDon't let that stop you enjoying the bitter notes of a trout. The Cook's Guild did a study and found that 75% of gout-inflicted people thought it was totally worth it."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -35063,6 +35361,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Grilled undead bass is a consumable food item that provides 80 health and 25 sustenance as well as the perk Sea Life, which restores 3 health every second for 600 seconds. It is made by cooking raw undead bass on either a campfire or a grill, and is used in undead delight.\n\n(Journal)\nOnly moderately less disgusting than braising an undead eel is grilling an undead bass. At least you can close your eyes and imagine what the bass once was: a tasty fish that took a wrong turn at Ardougne and ended up in the Withering.\n\nAt some point in the future, some forward-thinking chef will determine that grilled undead bass is a delicacy. Right now, however, we look at you with the stinkiest of eyes and think 'for shame'."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -35154,6 +35456,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Haunch is a consumable food item that can be cooked at either a campfire or grill.\n\n(Journal)\nFlavourful roasted meat. A comforting meal to enjoy in the wilds of Ashenfall."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -35212,6 +35518,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Hearty crunchies are a food item that can be created through Cooking, by combining onions and either redberries or dwellberries at a cooking pot, and provides moderate sustenance and 5 lifeward when consumed. There is also a 5% chance to produce a rat roast whilst making hearty crunchies.\n\n(Journal)\nLoosely based on gnomish cooking, these delicious fritters make for hearty and comforting meals."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -35266,6 +35575,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Hearty fortifying soup is a consumable food item that can be crafted by combining bittercap mushrooms with onions at a cooking pot. When consumed, it provides moderate sustenance, 5 lifeward, and gives the Fungal Fortitude perk, granting resistance to Poison buildup by 33% for 300 seconds. There is also a 5% chance to produce a rat roast whilst making hearty fortifying soup.\n\n(Journal)\nThe Wild Knights would prepare this soup before heading into the poisonous Bloodblight Swamp, or when facing venomous monsters. The mushrooms would absorb some of the toxins they encountered, and the soup would be filling enough to last them through the long journeys."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -35324,6 +35636,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Hearty soup is a consumable food item that can be created through Cooking by combining onion with either potato or cabbage at a cooking pot and provides moderate sustenance and 5 lifeward when consumed.\n\n(Journal)\nWhen Bramblemead villagers discovered heartier vegetables, their recipes improved just as much. The simple soup became richer, tastier and more fulfilling. A nice, hearty, meal to get them through the tough work on the farm."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -35402,6 +35717,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Hearty stew is a stew that can be created through Cooking by combining a meat with a vegetable at a cooking pot, and much like meat stew provides moderate sustenance and 5 lifeward when eaten, however to as opposed to meat stew at least one tier two ingredient is used, either the meat used is raw bestial meat or the vegetable used is onion, or both. There is also a 5% chance to produce a rat roast whilst making hearty stew.\n\n(Journal)\nA thick and tasty stew, rich in flavour and nutrients. Bramblemead’s head chef, Leander, use[sic] to say that eating this stew was like sitting around a warm fire with friends. The aroma of the rich gravy filling your nostrils makes you feel like you’re home. Villagers would gather when he made a big cauldron of the stew, each of them ready for an evening with friends."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -35464,6 +35782,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Herb baked trout is a consumable food item that provides 100 health and 35 sustenance. It is made with grilled trout and baked potato in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nCathan was known for his love of herb baked trout. He would often claim it was 'the best thing you could do with a tater'. That was until Vannaka picked up a potato, threw it halfway across Temple Woods, and knocked the Party Hat off of Dionysius's head. Cathan subsequently admitted that herb baked trout was 'the second-best thing you could do with a tater'."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -35530,6 +35852,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Maple toastie is a consumable food item that provides 70 health, 80 sustenance, as well as the perks Foreman's Feast and Coagulated. These perks reduce the stamina cost of Woodcutting and Mining by 33%, and reduce Bleed buildup for 600 seconds. It is made with dried redberries, maple syrup, and bread at a cooking range after receiving the recipe from Snotpit near The Grand Hall in Dowdun Reach as part of the Black Knight's Fortress (quest).\n\n(Journal)\nAh, the sweet gooey goodness of a maple toastie. On its own, the maple syrup might have been too much, but the dried redberry? It ties it together with a little red bow.\n\nThere's the added bonus that it's bursting with natural sugars. Now you can use those energies to go mine and woodcut some natural resources."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -35596,6 +35921,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Meat sandwich is a consumable food item that provides +0.5 Resist Shocked Buildup, 80 health and 85 sustenance, as well as the perks Meaty Meal and Grounded, which reduces hunger drain by 25% and reduces shock damage taken for 600 seconds. It is made with flank steak, rat roast, and bread in a cooking range after finding the recipe in the library in Dowdun Reach.\n\n(Journal)\nHold up, hold up: are you sure you want to do this? You are about to cross the meat streams. Flank steak and rat roast: it's never been done before. Who knows how the two meat types might react between slices of bread."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -35654,6 +35982,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Meat stew is a consumable food item that provides 50 health and 50 sustenance. It is made with fillet and haunch in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nA classic meal across multiple realities. The aviansie enjoy a version of this using insects called Tobi’it[sic]. Goblins make their meat stews out of anything they can find… results vary."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -35724,6 +36056,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Meat twist sandwich is a consumable food item that provides 90 health and 80 sustenance, as well as the perks Knowledgable Nourishment, Meaty Meal, and Foreman's Feast, which increases experience gain in all skills by 10%, reduces hunger drain by 25%, and reduces the stamina cost of Woodcutting and Mining by 33% for 600 seconds. It is made with flank steak, rat roast, dried redberries, and bread in a cooking range after finding the recipe nearby Valerius in Dowdun Reach, between The Library and The Cathedral.\n\n(Journal)\nThe 'twist' in the meat twist is a delightful redberry jus. The 'twist' in the Anima Twist is not, unfortunately, a delightful redberry jus."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -35790,6 +36125,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Mixed platter is a consumable food item that can be created through Cooking by combining raw bestial meat with any tier one meat (raw rat meat, raw bird meat, raw farm meat, or raw game meat) at a cooking pot and provides moderate sustenance and 5 lifeward when eaten.\n\n(Journal)\nIf you thought the Mixed Grill was a monumental mountain of meat, then the Mixed Platter makes it seem like a molehill. Thick and juicy steam, mixed with other delicious meat dishes.\n\nGarou would regularly make dishes such as this. Mountains of meat, crafted from their latest hunts. They would flavour the dish with local herbs and, once in a while, threaten it with a vegetable."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -35856,6 +36194,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Monkfish fillets are a consumable food item that provides 60 health and 25 sustenance as well as the perk Sea Life, which restores 3 health every second for 300 seconds. It is made by cooking raw monkfish on either a campfire or a grill, and is used in monkfish skewers.\n\n(Journal)\nThe Moon Garou don't recognise the term 'monk'. It's very much a Saradominist or Zamorakian term (strange how the customs of the two gods are so similar, don't you think?). The Moon Garou are more shamanistic, and do not understand or care for things like 'denying yourself worldly pleasures'. It is their belief that when there are so few fruits and treasures in the desert, why would someone possibly deny themselves a moment of enjoyment?\n\nWhich raises the question of why the Moon Garou call these fish 'monkfish' at all. Well, the answer is a little on the boring, perhaps even obvious side. The River Goddess, who many Moon Garou worship, came to Ashenfall from mainland Gielinor, where the monkfish are more prevalent. So she pointed at the fish, said its name, and Bob's your monkfish."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -35926,6 +36268,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Monkfish skewers are a consumable food item that provide 120 health and 50 sustenance as well as the perks Sea Life and Frosted Flavours, which restores 3 health every second and reduces the rate at which Scorch is accumulated for 300 seconds. They are made with monkfish fillets and seared cactus steak in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nMonkfish skewers are the friend of any travelling Moon Garou. Compact and easy to carry, a couple of dozen can be taken on any scouting or hunting party. They also double-up as weapons, should a garou find themselves ambushed during a hearty meal. It's not uncommon to see a half-dead kalphite staggering about in the desert with rows of monkfish skewers puncturing their carapace. They look a little like a buffet dish."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -36034,6 +36380,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Pumpkin soup is a consumable food item that provides 70 health and 75 sustenance as well as the perk Soul Food, which restores 8 health every 5 seconds for 300 seconds. It is made with roast pumpkin, baked potato, and fried cabbage in a cooking range.\n\n(Journal)\nA taste of autumn reduced to slurry and warmed over the fire. In Fellhollow, pumpkin soup was a popular dish when the temperature started to drop. Locals would gather together and share enormous cauldrons full of soup, as a way to build bonds with their community. It is said that once the villagers created an enormous cauldron, so that Imaru and Xikotal could join in the tradition, though for the great dragons it was barely an appetiser."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -36096,6 +36445,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Pungent omelette is a consumable food item that provides 70 health and 70 sustenance as well as the perk Fungal Fortitude, which reduces Poison buildup by 33% for 300 seconds. It is made with fried cabbage, grilled mushrooms, and fried egg in a cooking range.\n\n(Journal)\nGet a nose peg for this one. The aroma that wafts from this culinary creation is almost unholy in its sensation. It reaches down from your nostrils into your throat, then it winds its way into your mouth and twists your tastebuds[sic] in ways that must surely be illegal.\n\nStill, if you can fight through the stench, then this eggy abomination is surprisingly tasty and helps fortify your body against toxic elements.\n\nThe “if” is doing a lot of work in that statement though.\n\n(Trivia)\n* The journal's mention of the nose peg is a reference to its RuneScapes nose peg."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -36154,6 +36506,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rat roast is a consumable food item that provides 20 sustenance when eaten. It can be cooked at either a campfire or a grill.\n\n(Journal)\nFirst discovered by a Lumbridge chef after a kitchen fire burned his mentor to ashes. Beneath the master chef’s hat was a deliciously roasted rat. Sure, it may not be the greatest delicacy of all time, but it’ll keep hunger at bay.\n\n(Trivia)\n* The journal's entry may be referencing Remy, the rat from Ratatouille (film).\n\nFood and Drinks"
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -36390,6 +36746,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Redberry crunchies are a consumable food item that provides 50 health and 35 sustenance. They are made with dried redberries and wheat in a stone range or a cooking range; however, a player must first interact with a stone range to learn the recipe.\n\n(Journal)\nAlthough a crude facsimile of gnomish cooking, the Redberry Crunchy is a pleasant snack that will get you through the day."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -36444,6 +36803,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Redberry glazed roast flank is a consumable food item that can be cooked by combining redberries with raw bestial meat at a cooking pot, and provides moderate sustenance and 5 lifeward when eaten. There is also a 5% chance to produce a rat roast whilst making redberry glazed roast flank.\n\n(Journal)\nA thick, delicious and juicy flank steak, glazed with subtle redberry tones. Delicious and nutritious."
         },
+        "stations": [
+          "Cooking Pot"
+        ],
         "step": 3
       },
       {
@@ -36502,6 +36864,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Redberry roast rat is a consumable food item that provides 30 health and 45 sustenance. It is made with rat roast and dried redberries in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nDelicious roasted meat, with a redberry glaze. The fruit flavour combines with the meat in a sublime manner that makes it hard to eat this slowly."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -36564,6 +36930,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Roast dinner is a consumable food item that provides 80 health and 80 sustenance as well as the perk Coagulated, which reduces Bleed buildup for 300 seconds. It is made with flank steak, baked potato, and dried redberries in a cooking range.\n\n(Journal)\nImagine it. You gather around the table, the warm smell of a freshly cooked roast wafts across the room. Your mother places a bowl of roast potatoes, so divinely crisp that you wonder if they’re even real. Your sibling places a tray of freshly cooked vegetables, a kaleidoscope of colourful foods waiting to be consumed. Your father, doggedly sticking to traditional gender roles as if the past is an anchor weighing him down, slices into the roast serving each of you juicy cuts of meat that make your mouth water.\n\nAnd what are you doing in all of this? Hrmm? Nothing, that’s what! Pull your life together Stanley!\n\nIf your name is not Stanley, you can ignore that above message.\n\nHere on Ashenfall you do not have those smiling faces to reflect upon, only the memories elucidated by the roast meat before you. As you tuck in, you’ll recall those moments of happier times, before you got stranded here with nothing.\n\n(Trivia)\n* The journal mentions a character named Stanley, referencing The Stanley Parable game.\n\nFood and Drinks\nPerks"
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -36630,6 +36999,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Roast pumpkin is a consumable food item that provides 20 health and 25 sustenance, as well as the perk Soul Food, which restores 8 health every 5 seconds for 150 seconds. It can be cooked from pumpkin at either a campfire or a grill, and is used in dubious meat pie, pumpkin soup, pumpkin spice infusion, glazed pumpkin sandwich, and Umbral kebab.\n\n(Journal)\nWhilst some prefer to hollow out a pumpkin, carving features into it that should scare away the creatures of the night, more practical people eat them.\n\nA roasted pumpkin is a hearty affair, full of texture and a mellow taste that goes especially well in desserts."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -36696,6 +37069,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Roasted lobster is a consumable food item that provides 50 health and 20 sustenance as well as the perk Sea Legs, which makes you immune to the slowing effects of water for 120 seconds. It is made by cooking raw lobster on either a campfire or a grill, and is used in fish fry.\n\n(Journal)\nOn the sea voyage to Ashenfall, Zanik went through a period of shouting 'lobster!' at the end of perfectly normal conversations with her shipmates. She claimed it was a joke that young dorgeshuun would play on each other, but it led to her being roundly ignored by Vannaka and Dionysius for several days.\n\nIt's also a roasted food - one that makes you feel more refreshed and less thirsty after eating it. If you are to attempt to cook one, it is recommended that you... LOBSTER!"
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -36762,6 +37139,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Sauteed sardines are a consumable food item that provides 70 health and 25 sustenance, as well as granting the perk Sea Life, which restores 3 health every second for 600 seconds. They are made with fried sardine and dried redberries in a stone range or a cooking range; however, a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nA fried sardine, also known as a charred pilchard or 'pilcharred', is the go-to snack for a fisherman's pocket. If you see a stoic fisherman who talks very little, it's likely because they've got a mouthful of fried sardine and don't want to reveal the bones between their teeth.\n\nFried sardines were also the subject of a failed business venture by a dwarf called Drorkar. He tried to manufacture 'tins' that would contain these sardines, with smithed 'rings' to open their tiny metal coffins. It was roundly rejected and cost the dwarf a great deal."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -36824,6 +37205,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Sauteed shrimp is a consumable food item that provides 20 health and 10 sustenance. It is made by cooking raw shrimp on either a campfire or a grill, and is used in shrimp omelette and weak Focused Fishing potion.\n\n(Journal)\nIn a burst of freakish coincidence, the shrimp is both the easiest sea creature to catch, and the easiest to cook. As a result, some folk from seafaring towns have been known to call shrimp 'eggs of the sea'. Both are considered over-easy.\n\nIf you burned rather than sauteed a shrimp, congratulations! In some towns, a burnt shrimp is considered a rarity, such is the negligence required to make one."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -36886,6 +37271,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Seared anchovies are a consumable food item that provide 30 health and 15 sustenance. They are made by cooking raw anchovies on either a campfire or a grill, and are used in berry drizzle pan-seared.\n\n(Journal)\nNot be confused with Seered Anchovies: a delicacy from Umbral Sands where the anchovies are lightly toasted on clairvoyants.\n\nThe naturally salty taste of an anchovy has been ascribed to salt flats on the ocean floor, where anchovies feed on the underwater flora. In an attempt to deepen the anchovy flavour, fishermen have been known to sprinkle pepper, marrentil and pineapple on those same salt flats."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -36952,6 +37341,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Shrimp omelette is a consumable food item that provides 50 health and 15 sustenance as well as the perk Sea Legs, which makes you immune to the slowing effects of water for 600 seconds. It is made with fried egg and sauteed shrimp in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nIt was inevitable that shrimp, known as the 'eggs of the sea' for being over-easy to catch, would get combined with actual eggs to form a meal. Shrimp Omelette is the go-to feast for a shipman, often whipped up by the ship's cook and delivered en masse to the crew. If you're assigned to a long-haul crew, it's best to get a taste for the 'Shrompy' (as it's often shortened).\n\nShrompy is also common among Wizards' Guild students who only have space in their dorms for a frying pan and some fire runes."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37014,6 +37407,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Smoked herring is a consumable food item that provides 50 health and 20 sustenance. It is made by cooking raw herring on either a campfire or a grill, and is used in berry drizzle pan-seared.\n\n(Journal)\nSmoked herring is not, as the idiom will claim, 'red'. It is more of an orange, coppery colour. That means the term 'red herring' is something of a red herring. Which tracks.\n\nThe process of smoking a herring has changed over the years. In the Second Age, a herring would be smoked in the village elder's pipe, in the hope that some of the elder's wisdom would transfer to the fish. In the Third Age, entrepreneurial Zamorakians would line their demon portals with herring in the hope of an infernal aftertaste. Nowadays, people use a cooking pot."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -37076,6 +37473,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Smoked infernal eel is a consumable food item that provides 100 health and 30 sustenance. It is made by cooking raw infernal eel on either a campfire or a grill, and is used in stir-fry.\n\n(Journal)\nOne of the most challenging dishes to prepare on Ashenfall is the smoked infernal eel. The whole process is an olfactory gauntlet. You are bombarded with such a succession of smells, some wonderful, some horrifying, that it can feel like sprinting through the back alleys of Varrock. Some chefs from the Cook's Guild have compared it to 'seeing one's life flash before their eyes'. Except with noses.\n\nComplete the gauntlet, however, and the bounty is worth it. Many people call smoked infernal eel a 'delicacy' but the term doesn't really suit. Delicacy is derived from 'delicate', after all. The taste is more like a salt-chinchompa exploding under your tongue."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -37138,6 +37539,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Squeaking sausage is a consumable food item that provides +0.5 Resist Shocked Buildup, 80 health, and 80 sustenance as well as the perk Grounded, which grants resistance to shock effects for 300 seconds. It is made with dried dwellberries, fried onions, and rat roast in a cooking range.\n\n(Journal)\nSausages are proof that ignorance is bliss. When you bite into the juicy banger, you are best served not to think about its contents. Nor about the origins of the skin that contains the meat so well.\n\nAlthough simple, and lacking in much needed herbs and spices, these sausages manage to curb your hunger well enough to help you avoid thinking too much about what they’re made from.\n\nIgnore the squeak… and the whiskers."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37196,6 +37600,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Steak a consumable food item that provide 20 sustenance and 30 health when eaten. They can be cooked at either a campfire or grill.\n\n(Journal)\nSizzling on the grill, there is little that has united middle-aged villagers more than a steak seared to perfection. Brynmoor villagers would gather around grills to discuss hunting, village politics and anything else that came to mind, all as an excuse to silently judge the way the current chef prepared this simple meal."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -37254,6 +37662,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Steak 'n' eggs is a consumable food item that provides 40 health and 50 sustenance. It is made with fried egg and steak in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nSome meals require silence. As you chew each mouthful, you reminisce on times past. On loved ones lost. On friends remembered. On moments that bring a smile to your face – simple and uncomplicated, without the weight of the world’s burdens crushing down on you. This is one of those meals."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37324,6 +37736,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Steak sandwich is a consumable food item that provides +0.5 Resist Shocked Buildup, 90 health and 80 sustenance as well as the perks Coagulated, Grounded, and Fungal Fortitude, which reduces Bleed buildup, reduces the amount of Shock damage taken, and reduces Poison buildup by 33% for 600 seconds. It is made with flank steak, fried onions, grilled mushrooms, and bread in a cooking range after finding the recipe in The Cathedral in Dowdun Reach.\n\n(Journal)\nSteak, if you ask me, is infinitely diminished by putting it between two slices of bread. Steak should stand proud on its own, garnished with salt and barely introduced to a flame.\n\nAs a journal-writer I can't stop you. My powers are limited to shaming you from the dark recesses of your interfaces."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37386,6 +37801,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Steamed beltfish is a consumable food item that provides 100 health and 30 sustenance. It is made by cooking raw beltfish on either a campfire or a grill, and is used in beltfish broth and swabbie pie.\n\n(Journal)\nThe custom with a steamed beltfish is to eat it all in one, like a sword-eater swallowing their blade whole. The Moon Garou chomp it down like they were raised by pythons. The human gullet isn't quite built for this method of eating, so be careful if you're invited over for a Moon Garou celebration. Aim for the smaller ones at the banquet table. Chew subtly."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -37452,6 +37871,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Stir-fry is a consumable food item that provides 150 health and 70 sustenance as well as the perks Sea Legs and Sea Life, which makes players immune to the slowing effects of water and restores 3 health every second for 600 seconds. It is made with dried giant krill, dried dwellberries, and smoked infernal eel in a cooking range.\n\n(Journal)\nImagine if we named all our meals after the processes that make it. Ooh, I'm going to make a pot of boil-strain-pour. I might follow it up with a batch of roll-cut-bakes. It's all a bit odd, if you ask me.\n\nThe Ashenfall stir-fry is something of a curio when compared to the mainland's. To make a mainland version, you would have to swap the krill for seaweed and the infernal eel for lava eel. Whisper it, though: I think the Ashenfall version is better. And it goes particularly well with some grow-chop-fries."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37510,6 +37932,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Stuffed catfish is a consumable food item that provides 200 health and 80 sustenance. It is made with dried giant krill, fried cabbage, and braised catfish in a cooking range.\n\n(Journal)\nPerhaps it's a good thing that fish have no idea what their future holds. We can only imagine their reactions. \"Sorry, chap, you're going to have your armour removed, your innards replaced with cabbage, and krill pushed into your orifices.\"\n\nWould it soften the blow if they knew how tasty they became? A stuffed catfish is elevated by the brassic flavours, achieving culinary peaks that are unrivalled on Ashenfall. We like to think that the knowledge would soften the blow."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37572,6 +37997,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Sun baked sole is a consumable food item that provides 130 health and 30 sustenance. It is made by cooking raw desert sole on either a campfire or a grill, and is used in swabbie pie.\n\n(Journal)\nMost Moon Garou would consider an adventurer's version of dune-smoking to be a pale imitation of the true process. 'Real' dune-smoking involves burying a raw desert sole deep within a dune, preferably a couple of metres down. Inside the dune, it alternately cooks and cools with the Scorch and cold nights. The sand helps to delay the rotting process, but - I am slightly debatably told by Moon Garou chefs - that a little bit of rotting never hurt anyone."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -37630,6 +38059,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Swabbie pie is a consumable food item that provide 220 health and 80 sustenance. It is made with sun baked sole, steamed beltfish, bread, and baked potato in a cooking range.\n\n(Journal)\nThe Moon Garou aren't particularly hot on pies. They like their dishes open and aromatic, engulfing all of the senses. A pie is the anti-garou dish: it disguises itself until its pastry is broken, and only then do you get that delicious waft of smells. It's a culinary jack-in-the-box.\n\nWhich is a shame, as I think the Moon Garou are really missing a trick. The ripe smell of a desert sole is particularly suited to pies, as it ambushes the eater when they break the seal. That's where the 'swabby' comes in, as eaters will often have to wipe their eyes from the olfactory assault."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37737,6 +38169,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Umbral kebab is a consumable food item that provide 80 health and 90 sustenance, as well as the perks Frosted Flavours and Soul Food, which reduces Scorch buildup and restores 8 health every 5 seconds for 300 seconds. It is made with seared cactus steak, bread, roast pumpkin, and steak in a cooking range.\n\n(Journal)\nAh, the humble, versatile kebab. It can be a handy, portable dish, or it can be a sprawling, sloppy one. It can be a snack or a meal; a low-effort munch or a high-end dish that you would serve to in-laws. It can be skewered or open; spicy or mild.\n\nAbout the only constant is a sense of fulfilment, that you've eaten well and more than enough, alongside a vague, far-off worry that you might be attached to a toilet bowl later on that night."
         },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37803,6 +38238,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Undead delight is a consumable food item that provides 180 health and 70 sustenance as well as the perk Sea Life, which restores 3 health every second for 1,200 seconds. It is made with grilled undead bass and grilled tomatoes in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\n'Undead Delight' sounds like an audio track from a long-forgotten Halloween event, but NO - it's an unexpectedly tasty meal. The very dead flavours of an undead bass are meshed with the very alive flavours of a tomato, and the combination is capital-D Delicious.\n\nWe will admit that it's off-putting that the un-alive also find the Undead Delight tasty. Put it in front of a skeleton, zombie, demon or other wretched being and they will gobble it up like there's no tomorrow."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37908,6 +38347,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Vegan fryup is a consumable food item that provides 70 health and 70 sustenance. It is made with baked potato, fried cabbage, and grilled tomatoes in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nCrisp and delicious vegetables, neatly fried mushrooms, there are few breakfasts quite as delicious as a fry up, even for those who abjure bacon."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -37966,6 +38409,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Vegetable soup is a consumable food item that provides 40 health and 50 sustenance. It is made with fried cabbage and baked potato in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nA good soup won’t just fill your stomach, it’ll lift your spirits. Warm and comforting, the taste of home. Popular across all of Gielinor by anyone with a pan and some vegetables."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -38032,6 +38479,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Victoria sponge cake is a consumable food item that provides 85 sustenance and 50 health, as well as the perk Sugar Rush, which reduces rest drain by 25% for 300 seconds. It is made with 2 dried redberries, 2 eggs, 2 redberry infusions, and 4 wheat in a stone range or a cooking range after receiving the recipe from the Cook's Assistant quest.\n\n(Journal)\nNamed after Victoria Thistlethwaite, of Bramblemead, this cake has been popular at the most lavish of parties across the region. Victoria was a well-regarded chef, but one whose culinary obsessions lay only with the sweetest of treats. She would craft biscuits, pastries and candied treats of such quality, that even Bandos once visited her little cafe to try one.\n\nSo moved was the god of war by her delicious pastries, that he left three goblins to watch over her as the war against the garou began, and those goblins would defend her with their lives. Unfortunately, goblin lives are surprisingly fleeting at the best of times, and in an actual war they lasted perhaps no more than a few hours. Victoria's little shop was consumed in a terrible inferno, reducing all her sweetest of treats to little more then motes of blackened ash, whisked away in the wind.\n\nIn honour of Bandos, and the bond that was struck with this mortal chef, goblins of Ashenfall pass down this cake recipe from generation to generation, in the hope that all might share in the deliciousness."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -38090,6 +38541,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Watermelon jerky is a power level 4 item that is made by cooking watermelon on a campfire.\n\n(Journal)\nSatisfying, if a little chewy."
         },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       }
     ]
@@ -42768,6 +43223,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant bars are a processed material created with three adamantite ore and three coal inside a blast furnace .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)\n\n(Trivia)\n- In both RuneScape and Old School RuneScape , adamant bar is created in different numbers. In RuneScape, the bar is created using 1 adamantite ore and 1 luminite (the replacement to coal). In RuneScape 's lore, adamantite is hard to form into an bar, even with coal. A replacement was found, luminite, which made it easier to turn the ore into a bar. As such, it is known to be smelt without luminite, but it would require very high temperature, which explains it needing a blast furnace. In Old School RuneScape , the bar is created needing 1 adamantite and 6 coals."
         },
+        "stations": [
+          "Blast Furnace"
+        ],
         "step": 4
       },
       {
@@ -42994,6 +43452,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rune bars are a processed material created with three Runite Ore and three Luminite Ore inside a blast furnace .\n\n(Trivia)\n- Rune bar lore and recipe required to make is completely based off RuneScape 's (RS3) version."
         },
+        "stations": [
+          "Blast Furnace"
+        ],
         "step": 6
       },
       {
@@ -43036,6 +43497,12 @@ window.WILDS_STORAGE = [
           ],
           "description": "A blurite bar can be made in a furnace by smelting three blurite ore . This bar is used in the smithing anvil to create blurite limbs for a blurite crossbow and make the blurite bolts in the fletching bench ."
         },
+        "stations": [
+          "Furnace",
+          "Build Menu",
+          "Fletching Bench",
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -46218,6 +46685,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Swamp thread is a basic item created at a spinning wheel using 1 swamp weed .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)"
         },
+        "stations": [
+          "Spinning Wheel"
+        ],
         "step": 3
       },
       {
@@ -46795,6 +47265,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Ectoplasm is a basic material dropped by Spirits such as lost souls or acquired by processing one withered heart in a kiln for a yield of three. It may be beneficial for players to kill lost souls instead of rotsworn enemies because the beginning stages of being Soul Rifted include power level 2 lost souls spawning instead of power level 5 rotsworn skeletons, making it easier to receive ectoplasm. If going this route, quickly escape out of the soul rift by being near a Purification Pool whilst in the soul rift process."
         },
+        "stations": [
+          "Kiln"
+        ],
         "step": 0
       },
       {
@@ -50649,6 +51122,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The stone logging axe is a power level 1 logging axe that can be crafted at a crafting table. The stone logging axe is only able to cut ash trees. The axe deals 15 damage when felling applicable trees, and 23 when overhead chopping to split them.\n\n[Journal] Trees are arrogant creatures, standing tall in the forests and refusing to bow to the wind. For decades they spread their roots, claiming dominion over the nearby soil. The claws of beasts are a mere distraction. Raging storms barely rustle their leaves. They refuse to move for anyone, arrogant to the core. Yet, it is not the wind, nor the heavens that shatter their resolve. Indeed, it is the lowliest of stones, refined to an edge. No matter how old the tree, how sturdy its frame, a single stone, the size of your fist, can bring the mightiest ash low. The Stone Axe is an alliance of such a rock, working together with branches cast aside in the tree's hubris. Proof that even the lowliest of us can make a difference."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 0
       },
       {
@@ -50727,6 +51203,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The stone pickaxe is a power level 1 pickaxe that the player can craft at the start of the game, at a crafting table. It can mine stone, rune essence. This pickaxe deals 10 damage to mineable ores, and 20 damage with a critical swing.\n\n[Journal] It is always a sad moment when brother must turn against brother. When we must strike at the heart of our own people. Such is the curse of the Stone Pickaxe, whose role in life is to strike at its brethren, cutting large rocks into pieces, so that they might better be put to use. The smaller stone, carved so sharply that it has nothing left but the edge, turns the action of a single swing into an [sic] force that can shatter the largest boulder. There’s a metaphor there, I’m sure."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 0
       },
       {
@@ -50813,6 +51292,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The bronze logging axe is a power level 3 logging axe that can be crafted at a blacksmith's bench. The bronze logging axe can cut the same trees as the previous tiers, along with oak trees. Deals 20 damage when felling applicable trees, and 30 when overhead chopping to split them.\n\n[Journal] Where bone and stone fail, metal provides. The Bronze Axe is strong enough to withstand greater force than its predecessors and can penetrate the bark of some of the strongest trees. On Ashenfall, nature has been hardened by the ambient magic, the bark of trees makes them resistant to most attacks. Yet, the Bronze Axe breaks through that barrier, not by magic, nor by cunning, but by sheer durability and resolve. The lumberjacks of Brynmoor favoured bronze axes over iron. While iron was stronger and felled a tree quicker, the relative cheapness and availability of copper and tin ore made it a much more cost-effective choice. The villagers disapproved when the leadership pushed for iron in everything. They felt that bronze was more than enough for the village's needs. But the lord wanted progress and didn’t care about the price."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 1
       },
       {
@@ -50895,6 +51377,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The bronze pickaxe is a power level 3 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, along with iron ore, as well as sandstone, and granite, dealing 34 damage to mineable ores, and 68 with a critical swing.\n\n[Journal] Copper and tin conspire well together, forging an alliance to destroy their former friends. The Bronze Pickaxe can shatter the mightiest stone and can mine through more durable ore than bone and stone could ever dream to battle. The dwarves that Guthix brought with him to Ashenfall, were fond of the Bronze Pickaxe. While iron and steel are sturdier, the Bronze Pickaxe was more readily available and they could risk a little decoration. Many would customise their pickaxes with family crests or a nickname that embodied them well. Often these would make the pickaxe impractical, yet they became a popular heirloom handed down to family members."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 1
       },
       {
@@ -50957,6 +51442,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A bronze spade is a power level 2 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 40% to the next plot clearing stage. Therefore, it will take three digs to progress one stage.\n\n[Journal] Wood breaks, shatters and splinters, which can be very frustrating when out in the garden. Metal is more durable and longer lasting, and bronze is a very malleable metal. With one of these spades, you can assault the skin of the planet, reshaping Gielinor to suit your own grand designs."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 1
       },
       {
@@ -51003,6 +51491,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The bronze watering can is a tool created at the blacksmith's bench. It is used to hydrate farming plots, it has a capacity of 250 water and a watering rate of 25 per action. The can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players are able to empty the can at any time and fill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can. Along with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel.\n\n[Journal] While the druids relied on wooden watering cans, the more pragmatic farmers turned to metal. Bronze was sturdier, lasted longer and proved to ultimately be the better tool. Crops across Ashenfall found themselves constantly existing in a state of blissful hydration, never knowing the agony of thirst."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 1
       },
       {
@@ -51089,6 +51580,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The iron logging axe is a power level 4 logging axe that can be crafted at a blacksmith's bench. The iron logging axe is able to cut the same kinds of trees as the previous tiers, along with blightwood roots and bloodwood sap. Deals 30 damage when felling applicable trees, and 45 when overhead chopping to split them.\n\n[Journal] While it might be cheaper to use bronze, there are some times when sheer power is necessary. For those times, a lumberjack need look no further than the glittering might of an iron axe’s blade. The mightiest of Ghornfell trees falls before its onslaught, and none in that region may stand against its might. Iron was so powerful, that it created a problem in Brynmoor. The population craved the metal so desperately that they mined the region almost dry. This let to infighting, small civil skirmishes and the white knights of the Blue Flame Keep, needed to be brought in to keep the peace. It is said that where iron goes, blood soon follows."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 2
       },
       {
@@ -51171,6 +51665,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "An iron pickaxe is a power level 4 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, along with gold ore and dragon teeth, dealing 50 damage to minable ores, and 100 with a critical swing.\n\n[Journal] Some metals tower over others, laughing at the weakness of their lesser cousins. Iron is sturdy, strong and the foundation of many a civilization. The metal makes strong bridges to cross dangerous waters. It can be smithed into tools, and weapons, stronger than any before. An iron pickaxe is one such tool. The blade of the axe is hard and precise, delivering massive force at the point of impact. Few ores and stones can resist this power, which is why dwarves have long since favored the iron pickaxe."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 2
       },
       {
@@ -51225,6 +51722,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Iron secateurs are a farming tool that boosts harvest yields, with the recipe unlocked at 42 Farming. Players can expect to receive a 25% yield increase when harvesting fully grown plants whilst wielding the secateurs and clicking the Harvest left-click option on the harvestable crop. This effect does not apply when the Uproot spell is used, even when the secateurs are equipped.\n\n[Journal] The best way to get leaves to stay healthy is to instil within them a healthy sense of fear. By pruning away the leaves that have allowed themselves to fall to weakness, frailty and disease, you show the other leaves what happens if they don't behave. I find that whispering their failures to the plant, as I slice away parts of its extremities, emboldens the plant with a desire to thrive."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 2
       },
       {
@@ -51307,6 +51807,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The steel logging axe is a power level 5 logging axe that can be crafted at a blacksmith's bench. The steel logging axe is able to cut the same kinds of trees as the previous tiers, along with thorny irit roots. Deals 40 damage when felling applicable trees, and 60 when overhead chopping to split them. The recipe and ability to craft steel logging axes are unlocked upon obtaining a steel bar for the first time.\n\n[Journal] A woodcutter's tool, forged from Steel."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 3
       },
       {
@@ -51389,6 +51892,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A steel pickaxe is a power level 5 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, along with soul stone, dealing 66 damage to minable ores, and 132 with a critical swing. The recipe and ability to craft steel pickaxe are unlocked upon obtaining willow logs for the first time.\n\n[Journal] A Miner's tool, forged from steel."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 3
       },
       {
@@ -51451,6 +51957,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A steel spade is a power level 3 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 60% to the next plot clearing stage. Therefore, it will take two digs to progress one stage.\n\n[Journal] Fallen from too many tall buildings, only to be punished for your misstep by the cruel and malicious ground? Well, now is your chance to get your revenge. The smug soil doesn't think you can touch it, but you can prove it wrong by stabbing it through its smug topsoil smirk with a nice steel spade. Oh, sure, it's great for gardening, but really this is a tool for sweet, sweet revenge."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 3
       },
       {
@@ -51501,6 +52010,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The steel watering can is a tool created at the blacksmith's bench. It is used to hydrate farming plots and has a capacity of 300 units. The can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players can empty the can at any time and fill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can. Along with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel. Fully hydrating a farming plot requires 50 units of water.\n\n[Journal] With the discovery of steel, most people found new and wonderful ways to bring death. They crafted sharper swords, stronger shields, axes that could slice through a foe like a hot knife through butter. Yet, some people saw this new material as a chance to bring life. Steel watering cans were sturdier and more durable. Able to bring much-needed moisture to dehydrated gardens, more than before."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 3
       },
       {
@@ -51583,6 +52095,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The mithril logging axe is a power level 6 logging axe that can be crafted at a blacksmith's bench. The mithril logging axe is able to cut the same kinds of trees as the previous tiers, along with maple trees. Deals 68 damage when felling applicable trees, and 102 when overhead chopping to split them. The recipe and ability to craft mithril logging axes are unlocked upon obtaining a mithril bar for the first time.\n\n[Journal] It hurts Doric a little that you've used his prized mithril to make something that chops wood, but don't worry - he can be something of a snob. Dionysius often reminds him that uses wood in his minecarts, pickaxe handles and toothpicks. Take some time to enjoy your increased capacity for woodcutting. There is a simple joy in watching your own increased efficiency."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 4
       },
       {
@@ -51661,6 +52176,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A mithril pickaxe is a power level 6 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers along with limestone, dealing 82 damage to minable ores, and 164 with a critical swing. The recipe and ability to craft the Mithril pickaxe are unlocked upon obtaining Maple logs for the first time.\n\n[Journal] A sign of mining distinction, the mithril pickaxe will get you noticed if you hang out with the right mining crowds. Doric in particularly will give you an appreciative wink. He might even toss you a rock cake or two. The mithril pickaxe is cold to the touch, incredibly reflective and - most importantly - strong as an ox. You will no doubt have already realised that it makes short work of any deposit you find."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 4
       },
       {
@@ -51743,6 +52261,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "An adamant logging axe is a power level 7 logging axe that can cut yew trees. Making one requires 8 adamant bars, 6 maple logs, and 4 desert thread, and requires a blacksmith's bench.\n\n[Journal] As the anima infused them more deeply, the trees of Ashenfall sought ways to create stronger defences against their hated foes – the lumberjacks. Yew trees, hardened after surviving the cruel rays of the sun, developed bark that would shatter lesser axes. They felt invulnerable. Unbeatable. They could take the time to plan their war against the logging axes, so that they might rise up and strangle the world with their roots. Yet, the lumberjacks had a friend in the earth, and adamantite rose up to aid its allies. The metal was harder than any before it, and the yew trees didn’t stand a chance, falling to the new weapons in droves."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 5
       },
       {
@@ -51825,6 +52346,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant pickaxe is a power level 7 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, dealing 84 damage to minable ores, and 168 with a critical swing.\n\n[Journal] After settling in the Umbral Sands, the Moon Garou needed to adapt to static lives not driven solely by the hunt. Their druids used magic to acquire adamantite ore from the rocks around the sands, but it was inefficient, messy and occasionally deadly. Garou smiths used the ore to create the first tools of their new civilisation, the adamant pickaxe, so their druids could relax. Now, because of these tools, the garou could mine ore and reshape the land, creating the very foundations of a new way of life for their people."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 5
       },
       {
@@ -51891,6 +52415,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "An adamant spade is a power level 7 spade unlocked the first time the player picks up an adamant bar. It is crafted at the blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress instantly to the next plot clearing stage.\n\n[Journal] DAMN IT MAN, CAN'T YOU SEE THAT I AM A SPADE? I give you: an adamant spade. Do you get it? You get it, right? Don't make us dig a hole and hide in shame."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 5
       },
       {
@@ -51941,6 +52468,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "[Wiki notice] This article is a stub. A stub is an article which does not cover all information available about the topic. You can help by expanding it.\n\nThe adamant watering can is a tool created at the blacksmith's bench. It is used to hydrate farming plots and has a capacity of 350 units. The can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players can empty the can at any time and fill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can. Along with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel. Fully hydrating a farming plot requires 50 units of water.\n\n[Journal] When you stop to think about it, a watering can is an odd item. It's a rain-delayer. You're holding back a little rain for times when there isn't rain. It's kept in an adamant holding-cell until that moment that it's allowed to run free, when it gets a short moment of elation before being sucked up the roots of a plant. That's weird, right? Or it just us? It's just us, isn't it. Ah darn it."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 5
       },
       {
@@ -52027,6 +52557,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rune Logging Axe is a power level 8 logging axe that can cut Magic Trees.\n\n[Journal] To a tree, a human with a rune logging axe is their final boss. You are the ultimate test; the nemesis that they have been training for. They have been stretching their branches and aggressively photosynthesising for this moment. They have been fantastising about taking you down, so that they can be talked about in groves for centuries. 'The Lumberjack Ripper', they think. 'That's what they will call me.'"
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -52109,6 +52642,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rune Pickaxe is a power level 8 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, dealing 98 damage to minable ores, and 196 with a critical swing.\n\n[Journal] If you fancy a giggle, watch an amateur try to mine runite. Grab a chair, pull yourself a dwarven stout, and watch the carnage. Runite, you see, actively repels a pickaxe. It twinkles with magic, and that magic - perhaps through some kind of geological evolutionary step - resists any attempt to mine it. Artlessly swing a pickaxe at a clump of runite and the pickaxe will bounce backwards, boomeranging towards the miner's head. There's a reason why field medics are posted at dwarven mines. The secret is that runite is soft. Not as soft as clay or gold, perhaps, but softer than most metals. You don't need to swing your pickaxe hard or fast. All that is needed is some finesse and patience. Better still, a runite pickaxe will disrupt the magical fields around the ore, pushing the ore out of the rock."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -52175,6 +52711,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A rune spade is a power level 8 spade. It is crafted at the blacksmith's bench.\n\n[Journal] Vannaka likes to complain about 'Combat Tourists'. He would often be tapped up by wealthy families to teach their sons and daughters how to swing a weapon. He would arrive in their courtyards and find those sons and daughters in sparkling clean armour, about three sizes too big, and forged by the best smiths in the land. He would start his lesson by putting a palm on their visor and pushing them over. They would wobble about like an upturned gnome tortoise. He would then teach them about humility. See you, standing there with a rune spade? Same energy."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -52225,6 +52764,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The rune watering can is a power level 8 watering can created at the blacksmith's bench.\n\n[Journal] You might wonder 'how can a watering can made of rune metal be different from any other watering can'? Well, that is a VERY good question, one which we have a cracking answer to. Honestly, it makes so much sense when you hear it."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -52275,6 +52817,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Anchovy bait is a power level 3 Fishing bait crafted at the crafting table. It increases the chance of catching herring. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] To attract fish with a taste for saltier prey, there’s little better than a nice anchovy strung up and offered as a sacrifice to those that dwell beneath the waves."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52333,6 +52878,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Animated feathers are a power level 6 Fishing bait crafted at the crafting table. It increases the chance of catching armoured catfish. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] When sparkly feathers coated in delicious juice are not enough, then create one that dances. The animated feather is infused with magic and when it reaches the water it writhes and wriggles in a hypnotic dance that fish feel mystically drawn to. If you hang one from a window, you may also find other weak-minded creatures dancing to its mysterious movements. Like Terry. Terry is an idiot."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52383,6 +52931,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The ash rod is a power level 2 Fishing tool crafted at the crafting table. You must reach Fishing level 3 to unlock this recipe.\n\n[Journal] Ah, the ash rod. It's been here from the First Age and will be here for many ages to come. Ever reliable, it gets the job done. Line up all the tools in the world and the ash rod will likely be named the most productive and certainly the most loved. All hail the ash rod!"
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52449,6 +53000,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The blue torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished blue remnants."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52531,6 +53085,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A bone pickaxe is a power level 2 pickaxe that can be crafted at a crafting table. It can mine the same ores as the previous tiers, along with copper ore, and tin ore, dealing 15 damage to minable ores, and 30 damage with a critical swing. To unlock the recipe, players must have acquired animal bones.\n\n[Journal] We are made of sturdier stuff than we give ourselves credit for. The human body can withstand a staggering force before our bones give way to the stresses. So too is it for the bones of animals, especially those of Ashenfall. Here, the magic seeps into the marrow and strengthens the bone to be sturdier than before. When used as tools, refined into weapons, these bones can be made to break stone and release the imprisoned metal ore."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52577,6 +53134,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The coarse net is a power level 2 Fishing tool crafted at the crafting table. It is used to catch shrimp from net fishing spots found in Brynmoor.\n\n[Journal] Pity the poor shrimp or lobster, approaching the final moments of its life, only to find themselves in a coarse net. The snobbish among them might look down their antennae and think 'couldn't it have been a wool net, perhaps, or linen?'. We're inclined to agree with them. They have minutes before they get cooked in a pot, yet they don't receive the simple courtesy of a comfy net. When you're on your deathbed, we'll wrap you up in a coarse net and see how you like it."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52623,6 +53183,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The compost bucket is a tool created at the crafting table. Level 10 Farming is required to unlock the recipe. It can be used to take out compost and super compost from the compost bin and super compost bin, respectively, at a maximum of 150 units per bucket held in the inventory. When used on a farming plot, 10 units of either compost or super compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n[Journal] The first bucket on Gielinor was created by Mrs [sic] Hyacinth, to help her around the farm. They had buckets back on the human homeworld of Teragard, of course, but she hadn’t brought anything with her from the village Guthix had recruited her from. The problem was that Mrs Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Mrs Hyacinth needed something to help with the clear up [sic]. She used local twigs, at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie’s endeavours. Now, you too can fill one of these marvelous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52669,6 +53232,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The desert net is a power level 7 Fishing tool crafted at the crafting table.\n\n[Journal] Desert waters throws up some interesting challenges for a net. There are fish that like to nestle into the sand, both below the surface and where a net would not usually reach. To counter this problem, a desert net is weighted on one side but not the other. The weighted side trawls the sandy floor, while the unweighted side catches the fish that attempt to get away. It does lead to some unwanted catches - be prepared to find a wealth of bones in the Umbral Sands - but that's testament to how effective it is."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52719,6 +53285,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Feather bait is a power level 2 Fishing bait crafted at the crafting table. It increases the chance of catching trout. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] Some fish are drawn to feathers. Something about the colours and the way the water dances around them, it's almost hypnotic to them."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52773,6 +53342,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Feathered lures are a power level 3 Fishing bait crafted at the crafting table. It increases the chance of catching salmon. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] Sometimes a feather alone isn’t enough, there must be flavour as well. Delicious, sticky, berry juice is pressed into this lure, so that the taste of it might spread through the water and attract the attention of fish with fruitier palettes."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52819,6 +53391,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The fine net is a power level 5 Fishing tool crafted at the crafting table.\n\n[Journal] Oooh, look at you, making a fine net. Lah-di- dah. I bet you're the kind to make a fine net and never use it. You just drape it on your side-table at dinner parties, so people can compliment it and ask where you fish. \"Oh you know, here and there\", you say, idly gesturing to a mounted bass on your wall (bought from a shop). But we see you, fisher-dandy. We see you very well."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52873,6 +53448,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Giant krill bait is a power level 6 Fishing bait crafted at the crafting table. It increases the chance of catching infernal eels. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] The vile ashes imbedded within these strange fishing lures, whisper to the most sinful part of the fish, drawing them to their demise. At least that’s what the Zamorakian mages claimed. In truth, they were simply tastier and more desirable to the fish, who have little concept of morality."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52939,6 +53517,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The green torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished green remnants."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -52997,6 +53578,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Kalphite bait is a power level 7 bait crafted at the crafting table. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] That's where you come in. With a slice here and there, suddenly a fish gets to try am morsel of antennae or mandible. And let me tell you: if the size roles were reversed, the kalphite would be wiped out in a week."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53055,6 +53639,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "[Wiki notice] Large Wardstone was removed after an update. As the contents of this page no longer exist in RuneScape: Dragonwilds, this article is preserved for historical purposes.\n\nA large wardstone is a wardstone that recharges a player's armour with 90 lifeward in one second, but will inflict 25 Soulscourge on the player.\n\n[Journal] A more powerful and refined wardstone, this one allows you a much greater return on investment. When activated, it draws energy from the soul more cleanly and efficiently, reducing the impact of Soulscourge on the user."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53105,6 +53692,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The lobster bait is a power level 5 Fishing bait crafted at the crafting table. It increases the chance of catching undead eels. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] Some fish can only be attracted with a very expensive meal. Kind of like trying to date someone far out of your league. What better way to woo those with more refined palettes than a delicious lobster dinner?"
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53159,6 +53749,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A magical focus is an unlockable item at level 39 Magic, where players can imbue their equipped staff with a 15% damage increase for 10 minutes. Players can also stack the damage boost with a lesser Magic potion, making the player's staff also equipped with a 25% increased chance of a critical hit.\n\n[Journal] The wizard Mallory was never as good as he had hoped to be. He was proficient in spellcasting and his rote memory was excellent, but the power of his spells always fell a little short. His advancement through the ranks was due more to being around long enough than anything else, and he never quite earned the respect of his peers. That was until the day he created the focus. Mallory had always been good at making things. He enjoyed the simpler magic of crafting, and he found you could weave small threads of magic into the construction of something, breathing just a little bit more life and wonder into it than before. True craftsmanship, he believed, carried a little bit of the creator’s soul in it. The focus proved this theory and elevated it further. By creating a focus and subconsciously imbuing it with a bit of his essence, it facilitated a smoother, more fluid, channel of magic through the body. This resulted in spells of greater potency. Tragically, after sharing his knowledge with the other wizards, he was murdered by his mentor, who claimed the knowledge as his own. Karma is a stern judge, however, and the offending wizard later found himself being swallowed whole and digested by a dragon. Just punishment, I’m sure Mallory would agree."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -53213,6 +53806,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The maple rod is a power level 6 Fishing tool crafted at the blacksmith's bench.\n\n[Journal] This is it. You've made it now. The pinnacle of Dowdun Reach fishing: ownership of a maple rod. Don't let it go to your head. The hook will get stuck in your nostril. The humble angler doesn't draw attention to the maple rod. They don't wax it or buy it a nice kebbit-fur sheath. They don't name it something like Deborah or kiss it before they go to bed. No, the humble angler strides into the middle of other anglers and says \"levels?\". They hear the fishing levels of others and nod in appreciation. Be the humble angler."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -53271,6 +53867,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "[Wiki notice] Medium Wardstone was removed after an update. As the contents of this page no longer exist in RuneScape: Dragonwilds, this article is preserved for historical purposes.\n\nA medium wardstone is a wardstone that recharges a player's armour with 60 lifeward in one second, but will inflict 25 Soulscourge on the player.\n\n[Journal] Some materials are better at resonating with souls than others. This is why a home made of better quality stones feels more comfortable than one made from pebbles. When used in wardstones, they allow for more powerful effects at no greater cost to the soul itself. Drawing out more of the ambient anima within a person, whilst minimizing the damage done."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53321,6 +53920,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Monkfish bait is a power level 7 Fishing bait crafted at the crafting table. It increases the chance of catching desert soles. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] You may be aware that, in some languages, fish is known as 'poisson'. Notice how 'poisson' is one letter shy of 'poison'? There's a reason for that: all fish carry varying amounts of poison in their bodies. Cooking can help to remove some of that poison, but certain varieties of raw fish are extremely dangerous to eat. A chunk of raw monkfish is not only delicious to other fish, but extremely poisonous. It makes it an angler's dream: a little glob of angry meat that can attract and then kill some of the most desirable fish.\n\n[Trivia] - The journal entry is referring to the French translation of the word \"fish\"."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53367,6 +53969,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The mystic net is a power level 6 Fishing tool crafted at the crafting table.\n\n[Journal] Brassica on a Bullock, that net is garish. You're not going to lose that, are you? I bet that your eyes lock onto it every time you open your inventory. First thing you see. Boom - MYSTIC NET. It has the same effect on marine life, of course. They're merrily swimming about, doing whatever lobster and shrimp do, and then boom - MYSTIC NET. Not much they can do, is there? They're transfixed, drawn in by the brightest of blue colours, like moths to a mirror ball. Which explains why the mystic net is rather formidable as a net. Not the most fashionable, mind."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53421,6 +54026,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The oak rod is a power level 3 Fishing tool crafted at the blacksmith's bench.\n\n[Journal] Oak rod is much like its anagram: it's an A-OK rod. Not brilliant, not terrible. It's a rod that you will you look back on fondly when you wield a mighty maple rod. \"Ah, I remember when I used to use an oak rod,\" you will say, as you bite the head off a live catfish and stand astride a pile of infernal eels. For now, appreciate your time with it. You will miss it once you have left it behind."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -53503,6 +54111,10 @@ window.WILDS_STORAGE = [
           ],
           "description": "Plant cure is a potion that cures diseased plants and provides 2 Farming experience when used. It is made with 2 weeds, animal bone, and clean water in a stone range or a cooking range (unlike the other potions made in a brewing cauldron). It is learned at level 3 Farming and requires interacting with a stone range first to learn the recipe.\n\n[Journal] Fashioned from clean water, weeds and animal bones, this mixture leeches out the vitality from those ingredients and transfers it to the sick and dying plants in your care. Cooked over a range, this concoction was first thought to be the domain of druids and herblore masters, but in truth it was a cook who put the pieces together. Old mother [sic] Potterington was much beloved by the people of Bramblemead. On weekends, when people allowed themselves brief breaks from their toils, she would whip up a great batch of something delicious and simmering, and neighbouring farmers would drop by for a meal. This kindness extended not only to people, but to her garden and farming patches too. She whipped up a broth so infused with nutrients that Brassica Prime himself is said to have blessed it. When fed to plants, their withering and wilting leaves would stiffen and return to vibrancy - life and vitality theirs once again. Now you can brew such a concoction yourself, so that your plants might always life their healthiest days."
         },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
         "step": 6
       },
       {
@@ -53569,6 +54181,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The purple torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished purple remnants."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53635,6 +54250,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The red torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished red remnants."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53685,6 +54303,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Shrimp bait is a power level 2 Fishing bait crafted at the crafting table. It increases the chance of catching raw sardines. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] Fishing bait made from a shrimp. Not terribly exciting, in the grand scheme of things, but still very useful for catching more fish."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53739,6 +54360,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "[Wiki notice] Small Wardstone was removed after an update. As the contents of this page no longer exist in RuneScape: Dragonwilds, this article is preserved for historical purposes.\n\nA small wardstone is a wardstone that recharges a player's armour with 30 lifeward in one second, but will inflict 25 Soulscourge on the player. To unlock this wardstone, players must both create and equip any power level 2 chest.\n\n[Journal] Wardstones are handy tools for anyone working with wards. Armour, when created on an anima-rich continent like Ashenfall, is infused with threads of enchantment that harness natural magic to provide an extra layer of protection for the wearer. This protection depletes upon use, as the energy within the ward is expended on the effect. But the wardstone can rectify this situation… for a price. The stone around the wardstone is hollow and more brittle than it seems, and the rune essence is carefully laid within it along with a final ingredient – a drop of the creators own blood. This blood, and the rune essence formation, creates a sort of harmonious connection between the bearer of the wardstone and the stone itself. When the stone is broken, it activates the rune essence and draws anima in from the nearest pure source – the soul of the user. Souls are containers of pure anima. They grow over time from experience and adventure, the more the bearer of said soul enriches their life with activity, the stronger the soul. This means that the damage the wardstone creates, whilst not insignificant, is easily repaired through the simple passage of time. Especially on Ashenfall, where merely surviving to the next hour is an adventure. Wardstones are great in a pinch, but one must be careful not to use too many, less the damage they deal to themselves becomes too great."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53793,6 +54417,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Spooky bait is a power level 5 Fishing bait crafted at the crafting table. It increases the chance of catching undead bass. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] The ghostly remnants of ectoplasm can be strangely appealing to certain fish. Perhaps it is the siren call of the rivers of the underworld, calling all life to it’s ultimate destination. Perhaps it’s some sort of ancestral grief urging the fish to reconnect with those they have lost. Perhaps it’s simply that they find the thing pretty. Who can really say?"
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53859,6 +54486,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Torch is a tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. A player can still block while wielding it, but it will only account for the blocking of the weapon in the player's main hand, and so the torch may be positioned awkwardly. Whilst wielding the torch, the durability will dwindle by 1pt/second, which will take 1800 seconds (30 minutes) before it fully degrades. When creating a new character, a torch will be spawned within the inventory. The spell Fire Spirit largely obsoletes the use of a torch, as it frees up the offhand for a shield or allows for the use of two-handed weaponry, like bows and staves. The spell also does not use up any inventory space or encumbrance.\n\n[Journal] Mankind has always struggled against the darkness. The shadows hide a multitude of dangers, each of them longing to tear us apart. It is no surprise, then, that light has been weaponised. Simple wood and wrappings introduced to a flame; one then carries a small fragment of the day's protection in their hand. Although shadows are banished by its radiance, it serves as a poor defence against steel or claw."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -53933,6 +54563,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The undead spade is a power level 5 spade unlocked by studying the rotten farming tool vestige and craftable at a blacksmith's bench. It shares the same stats as a steel spade, and consumes 10 stamina with every digging attempt.\n\n[Journal] Jenniva Milgrim was a fan of her rest, she liked nothing more than to ensconce herself within her blankets and disappear into a nice dream. Mornings became lost to her and soon evenings joined her campaign and she would spend most of her existence in the myriad worlds of her subconscious. Then, one cruel day, she died. A victim of one of the first waves of the risen dead. She died, then awoke again as one of the rampaging horde. Except she did not rampage like the others. She did not cross the lands in search of souls to claim, or flesh to consume. Instead she sought comfort once again in blankets and cushions, but found that sleep was denied her, as dreams are the province of the living. There was precious little capability for thought in what remained of her brain, but a singular idea took hold. Since one buried the dead, perhaps that was where the dead could dream? Six feet under the soil, in blissful sleep. So it was, that Jenniva became the first of the dead to bury themselves, using this very tool to do so. It is said, that if you can find her grave, buried deep in the woods, you can still hear her snoring."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -53987,6 +54620,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The willow rod is a power level 5 Fishing tool crafted at the blacksmith's bench.\n\n[Journal] The weeping willow is a sallow tree, known for its love of water. Find a brook or ford and a willow will be there, lost in its reflection. That familiarity with water makes willow a strong wood for fishing rods. There's the merest wisp of magic running through it, an affinity for water. The fish recognise that affinity and relax. They circle until they're caught, which is pretty handy for an angler."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -54045,6 +54681,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "A wooden spade is a power level 1 spade that can be crafted at a crafting table. When used to dig a farming plot, players will use 10 stamina and progress by 20% to the next plot clearing stage. Therefore, it will take five digs to progress one stage.\n\n[Journal] Sometimes the very earth itself must be punished for its cruelty! These wooden tools, simple and elegant, can break through the planet's crust, letting you show Gielinor exactly who's boss."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -54091,6 +54730,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The wooden watering can is a tool created at the crafting table. It is used to hydrate farming plots and has a capacity of 200 water and has a water rate of 10 per action. The can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players can empty the can at any time and refill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can. Along with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel.\n\n[Journal] Rain is unreliable. It is far too whimsical in when and where it falls. Relying on its good nature is a sure-fire way to court drought, famine and ruin. Because of this, the druids created rainfall you could hold, handheld containers of water that could be summoned when and where it was needed. Fill one of these up from any water source and you can use it to keep your farming plots nice and moist."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -54137,6 +54779,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The wool net is a power level 3 Fishing tool crafted at the crafting table. It is used to catch shrimp and anchovies from net fishing spots found in Brynmoor and Ghornfell.\n\n[Journal] Wool is absolutely rubbish in water. Throw a sheep in a lake if you don't believe us. The water soaks into the wool and turns the poor animal into a sad, soggy anchor. That rubbishness is - conversely - rather useful when it comes to nets. The wool clods up, leaving barely any holes for a shrimp to make a getaway. It's also heavy as sin. The marine life is thoroughly pinned. Now, getting the water out of the net: that's another matter entirely. You might do well to leave it out to dry in the Umbral Sands."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -54203,6 +54848,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The yellow torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished yellow remnants."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -54257,6 +54905,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The yew rod is a power level 7 Fishing tool crafted at the blacksmith's bench.\n\n[Journal] For a short period of time, there was an alliance between the trees and sea-dwelling creatures of Ashenfall. They shared common ground, after all: a hatred of being set on fire and chopped, primarily by humans and *spit* adventurers (trees would try to spit, but it mostly led to an unbecoming dribble of sap). The alliance didn't last long, mostly thanks to miscommunication down to a lack of common language. During a gathering at a seashore glade, the fish brought a contingent of hammerheads and sawfish, which the trees deemed overly aggressive. In retaliation, the yew trees 'showed a bit of branch' to a passing angler, and that angler found out that yew made for a spectacular fishing rod. There has been no talk of an alliance since then."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       }
     ]
@@ -54333,6 +54984,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Stone arrows are power level 1 ammunition crafted at a Crafting Table.\n\n[Journal] The Stone Arrow's weight and durability make it a more popular choice among hunters. The hardness of the tip makes it better at piercing tough animal hides or less durable forms of armour. In the Second Age, druids considered it a form of cheating, citing that it required a human's ingenuity to create rather than being a gift of nature. They seldom complained when the evening meal was served, celebrating the success of the hunt alongside everyone else. Even with somewhere as remote as Ashenfall, some humans turned to banditry, and they were very fond of Stone Arrows. Cheap and easy to produce, they help to kill and threaten anyone who makes the mistake of travelling through bandit-controlled woodland. One such bandit, the self-described 'bandit king, Otho', would choose only \"interesting\" stones to turn into arrows. Glittering pebbles that swished through the air. He was nicknamed the \"Magpie King\" because of his love for shiny pebbles. A moniker he was very unhappy with."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 0
       },
       {
@@ -54403,6 +55057,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Bronze arrows are power level 3 ammunition that can be crafted at a fletching bench.\n\n[Journal] Bronze Arrows offer greater armour piercing than their non-metallic counterparts. Copper and tin were relatively uncommon in Brynmoor, so using the resources on arrows seemed like a waste of money. One faction of bandits delighted in this premise; their leader, a man known as the Auburn Ocelot - for reasons he would never explain - took great amusement in their use. The Auburn Ocelot would laugh as his bandits hurled expensive arrows at the villagers, pilfering coins worth far less than the ammunition used to corral them. To him, it wasn’t about the money but the look of confused terror on their faces and the knowledge that no one could stop him. He was above it all. Better than everyone. It was a rat that killed him. Not even a giant one. Just a tiny creature carrying a virulent plague. Money could not save him, no matter how much he flaunted. He was cremated and his ashes buried in the middle of nowhere so that no one might risk catching the infection that cost his life. Now, he’s almost completely forgotten."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 1
       },
       {
@@ -54473,6 +55130,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Bronze barbed arrows are bronze arrows with weapon barbs crafted on the arrow. Targets that are hit by a bronze barbed arrow will be inflicted with the bleed debuff. Like other barbed arrows, the icon will have a bleed icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] The barbed bronze arrow was the ammunition of choice for the hunting party of Lord Gawurin, the regent of Ashenfall. He and his hunting party would head out into the woods alongside a small contingent of White Knight bodyguards. The lord would hunt deer, boars and other game there, but he wasn’t the most accurate shot. This arrow was designed for bloodletting, meaning he only needed any hit to begin the prey’s downfall. A single strike would start them bleeding, slowing them down and making them easier to hunt. The hunt outcome was all but inevitable. Poor sport, some would whisper, but the lord cared only for the end result. It’s perhaps fitting, then, that Lord Gawurin would be hunted with his own arrows on the night of Falling Embers."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 1
       },
       {
@@ -54539,6 +55199,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Bronze bolts are a power level 3 ammunition that can be fired from bronze crossbows.\n\n[Journal] Not a lot can be said about small spears of metal launched at high speeds into your opponent. They do exactly what you think they'll do to the target, and it's rarely pretty. Guards would buy crossbow bolts in bulk from the village blacksmith, giving him a steady income. This sadly had the effect of making the village blacksmith the most burgled property around."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 1
       },
       {
@@ -54609,6 +55272,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Bronze fire arrows are bronze arrows with fire oil applied with level 45 Ranged. Targets that are hit by a bronze fire arrow will be inflicted with the burning debuff, damaging the enemy by 5% of their max health for six seconds. Like other fire arrows, the icon will have a fire icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] Deadly arrows made deadlier with fire. Each arrow burns with the fury reserved for the most unpleasant parts of Infernus. They sear, they singe, and they melt the flesh, turning their victim into little more than ashes floating away on the wind. In the days of the great war against the Garou, the priests of Saradomin encouraged the use of these weapons. They saw it not just as a means of eradicating the hated beastmen, but to purify the world from their taint. Lougrim was a false goddess, in their eyes, and her followers had to be cleansed from existence. Modern scholars would doubtless be confused at their monotheistic mindset, considering that the literal god of war, Bandos, walked beside them into battle. The mental gymnastics employed by the Brynmoor priesthood, could have rivalled any athlete in the Gielinor Games."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 1
       },
       {
@@ -54683,6 +55349,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Enchanted bronze bolts are an upgradeable version of bronze bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% air magic damage and up to 16 damage towards the enemy via the Shocked debuff.\n\n[Journal] Magic was never enough. Oh, sure, you could change bones into delicious peaches, you could summon water out of thin air, you could call down fire upon your foes and laugh as their flesh turns to ash (if you’re that way inclined). Yet, even so, it was never enough. There was always more death to deal, more damage to inflict, more pain to spread and the priests of Brynmoor wanted more of it. They wanted to see the garou crushed. Wanted to see them begging as the last of their pups expired beneath Saradomin’s purifying flame. So, they commissioned the wizards and alchemists to find new and innovative ways to summon suffering. Crossbow bolts proved to be an interesting revelation. By affixing gemstones to the tips of these weapons, not only could they inflict deadly wounds on their enemies, but they could also inflict debilitating pain so powerful that the opponent would be stunned, making the next attack much easier. The priests were very happy with this discovery. The so called “heretics” within Brynmoor were less so."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 1
       },
       {
@@ -54753,6 +55422,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Poisoned bronze arrows are bronze arrows that are coated with weapon poison. Targets that are hit by a poisoned bronze arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds. Like other poisoned arrows, the icon will have a Poison icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] The Wild Knights were not above poison, any edge in a battle was worth having. Poison meant that you could take down a dangerous beast, even if your initial shot wasn’t a mortal one. The druids among the order felt little concern over its use either, after all nature is filled with wielders of poison and so the Wild Knight archers were simply emulating nature’s tools."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 1
       },
       {
@@ -54827,6 +55499,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Enchanted iron bolts are an upgradeable version of iron bolts unlocked at level 35 Ranged. After creation, there is a 15% chance of one of the bolts being enchanted with 10% water magic damage.\n\n[Journal] Stone remembers, wood forgets, iron holds a grudge. So goes the Imcamdo saying. A reference to how much stronger metal weapons were than wood and stone. Still, with magic, this adage can become painfully true. The first enchanted iron bolts on Ashenfall were crafted by Lina Hesperian, one of the Amalgamated. She had hair that flowered [sic] like a waterfall down her spine. Her eyes were crystalline lakes, sparkling in the light, and her smile was as refreshing as any spring. She enchanted the bolts so that they might carry the gift of water, washing away infection for a clean and gentle kill. She made them for the hunters, so that they might claim their quarries with as little suffering as possible. She met the end that far too many Amalgamated suffered. Alone, frightened, in the cold and the dark of an alley, her blood seeping from the knife wound in her chest. As she gave her last breath, she cursed the world for it’s cruelty, and the iron listened. Now, each enchanted iron bolt taps into that grudge, inflicting a reminder of her suffering on any that feel the bolt’s sting.\n\n[Trivia] - When equipped, the description mentions knocking down the target; the enchanted iron bolts instead slow enemies down."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 2
       },
       {
@@ -54897,6 +55572,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Iron arrows are power level 4 ammunition that can be crafted at a fletching bench.\n\n[Journal] Iron Arrows are sturdy and sharp, capable of piercing most armour. Brynmoor soldiers regularly employed them in the war against the garou. Village blacksmiths toiled for weeks at a time, creating countless arrows to be slung into battle. They literally poured blood, sweat and tears into the cooling metal, each arrow containing a drop of their hatred of the beastmen. The arrows were effective, brutally so. The arrows forged by blacksmiths who had lost loved ones to the conflict seemed to hit harder still. Vengeance manifested in metal."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 2
       },
       {
@@ -54967,6 +55645,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Iron barbed arrows are iron arrows with weapon barbs crafted on the arrow. Targets that are hit by a iron barbed arrow will be inflicted with the Bleed debuff, damaging the enemy by 5% of their max health for six seconds. Like other barbed arrows, the icon will have a Bleed icon placed on the top right of the arrow to distinguish itself from regular arrows. There are no additional bonuses at this time.\n\n[Journal] The first of these weapons was not commissioned for war. Nor was it commissioned for hunting. Instead, this most deadly arrow was created for nothing more than vengeance. Against a pigeon. Lord Gawurin was the ruler of Brynmoor, as appointed by the priests of Saradomin. He wore expensive garments of the finest materials, adorned with glittering jewels and gold chain. So, he was most affronted when a single pigeon determined that such a garment was the perfect restroom choice. The pigeon's audacity was unforgivable. Day after day, Lord Gawurin's garments were defiled by this feathered fiend. His anger grew, fuelling a desire for revenge that consumed him. He commissioned an arrow, a weapon of brutal design, with a single purpose- to make the pigeon suffer. With a sinister smile, he summoned the most skilled hunter, a woman who had brought down countless foes, and ordered her to end the pigeon's reign of terror. She stood at the top of the castle, her bow steady, her aim true. The tension in the air was palpable as she prepared to unleash the arrow of vengeance upon the pigeon. The world seemed to hold its breath in anticipation. She missed."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 2
       },
       {
@@ -55033,6 +55714,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Iron bolts are a power level 4 ammunition that can be fired from iron crossbows.\n\n[Journal] One sad aspect of human nature is that it will always strive to craft deadlier and deadlier weapons. Iron crossbow bolts were harder than their bronze counterparts, capable of penetrating the toughest garou armour. Obrimex, of the garou, once tried to replicate the weapons. He crafted little, sharpened tubes of iron that he felt would match their power. Alas, the garou hadn't crafted crossbow technology, and throwing these little metal darts largely proved to be irritating rather than dangerous."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 2
       },
       {
@@ -55103,6 +55787,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Iron fire arrows are iron arrows with fire oil applied with level 45 Ranged. Targets that are hit by the iron fire arrow will be inflicted with the Burning debuff, damaging the enemy by 5% of their max health for six seconds. Like other fire arrows, the icon will have a fire icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] Rasthin was the master of fire. It was the gift she had stolen from the “soul of the world” as she called it. She could use the inner flame to inspire confidence or rouse people into a great fervour. The fire could reveal secrets, forcing truth from those who stood before her. But, more practical than all of that was one simple truth, that fire could burn. There were many a dragon that tried to battle Rasthin directly, believing their dragonfire could destroy her. Their bones litter Ashenfall. It was only Queen Kuldra herself who could challenge the dragonkin, and theirs was a battle that left scars in the lands for centuries. These arrows borrow a piece of Rasthin’s power. Able to inspire only by the fear they kindle in the wielder’s enemies. Yet, kindle they do, for those who face these flames will surely feel echoes of the fury wrought by the dragonkin lord of fire."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 2
       },
       {
@@ -55173,6 +55860,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Poisoned iron arrows are iron arrows that are coated with weapon poison. Targets that are hit by a poisoned iron arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds. Like other poisoned arrows, the icon will have a Poison icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] Lougrim abhorred the use of poison on arrows, she felt it cheapened the hunt. The mages could wield it in their spells, but a hunter should produce smooth, quick kills, creating as little suffering as possible. Most garou, in turn, would at first refuse to use poisons on their arrows. They followed her teachings, and they hunted swiftly and cleanly. After Lougrim’s fall it became clear just how foolish it was to seek such a merciful path, their new High Queen had made it clear that they should use all tools at their disposal."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 2
       },
       {
@@ -55247,6 +55937,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Enchanted steel bolts are a power level 5 ammunition that has a 15% chance to heal 20% of the player's health when struck at an enemy.\n\n[Journal] Sharpened rods of metal, enchanted with magic. A surefire way to guarantee that your enemies have a particularly bad time. In Fellhollow these bolts were vital against the undead, as they provided that additional firepower needed to take down the relentless tide of shambling corpses.\n\n[Trivia] - Prior to the removal of Lifeward, enchanted steel bolts could restore Lifeward."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 3
       },
       {
@@ -55313,6 +56006,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Poisoned steel arrows are power level 5 ammunition crafted on the fletching bench.\n\n[Journal] What's better than a sharpened piece of wood with a super strong metal made into even sharper points, firing at your enemies with unreasonable speed? Why, the very same thing, but coated with a deadly toxic poison! I'd say your enemies would complain about you doing this, but they're too dead to fill in the form. So you're good."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 3
       },
       {
@@ -55383,6 +56079,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Steel arrows are a power level 5 ammunition that are crafted at a fletching bench.\n\n[Journal] Traditional wisdom says that to kill a zombie, you must destroy the brain. This is disappointingly untrue in Fellhollow, the animating force of Imaru’s hunger needs no thought to drive it forward. No, a far better plan is to destroy the bones and muscles with sharp metal-tipped spikes launched at the creatures with as much force as you can manage. Steel arrows perform this task very nicely."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 3
       },
       {
@@ -55449,6 +56148,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Steel barbed arrows are power level 5 ammunition that can be created on the fletching bench.\n\n[Journal] Sometimes it's not enough to just kill your enemy. There are times when you really want them to suffer as well. Steel arrows are nasty enough, but covering them in deadly barbs that will rend the flesh and empty the liquid lifeforce of a person onto the forest floor? That's just overkill."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 3
       },
       {
@@ -55515,6 +56217,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Steel bolts are a power level 5 ammunition crafted at a fletching bench.\n\n[Journal] Sharpened bolts of steel projected at great speed is a formula for your target to have a very bad day. Although it was cheaper and quicker to forgo the coal and craft iron bolts, the relentless nature of the undead hordes required a more practical approach. Steel was stronger than iron, and was more likely to put the ravenous undead back in the dirt where they belonged, making it very popular in the last few years of Fellhollow’s resistance."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 3
       },
       {
@@ -55581,6 +56286,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Steel fire arrows are only accessible in the cache and are not present in the game.\n\n[Journal] Some people just want to watch the world burn! Some people want to watch the world burn, but have thought through the logistics of fire and so decided to set the world aflame from a distance. These arrows are popular among the latter category."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 3
       },
       {
@@ -55655,6 +56363,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Enchanted mithril bolts are a power level 6 ammunition crafted at a fletching bench that has a 15% chance to create a toxic burst, poisoning all nearby enemies within a 4-5 meter radius.\n\n[Journal] Goodness, you must really want to kill someone. As if punching through their armour with a crossbow bolt wasn't enough, you want to magically scupper them too. Remind me not to get on your bad side."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 4
       },
       {
@@ -55725,6 +56436,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Mithril arrows are a power level 6 ammunition that are crafted at a fletching bench, and can be used to craft mithril barbed arrow, poisoned mithril arrow, and mithril fire arrow.\n\n[Journal] Mithril is an attractive metal, shimmering and chromatic. If you ever get peppered with mithril arrows, you can look down and admire the constellation on your chest."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 4
       },
       {
@@ -55791,6 +56505,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Mithril barbed arrows are a power level 6 ammunition that are crafted at a fletching bench.\n\n[Journal] Demons dealt with wounds and ailments on their own. There was no such thing as a demon surgeon or sick bay. If wounds were fatal then the demon would die; if wounds were survivable, then survive they did. This was an observation of Summoner Flament, who passed it on to Alric, who idly mentioned it to Lord Rasmodel in one of their weekly meetings. As with most information, Lord Rasmodel examined it for opportunities. If demons sought no help from their wounds - no remedies, no medical assistance - then his knights would carry weapons that took advantage of that fact. Arrows were poisoned, since no demon carried antipoison. And arrows were barbed, as demons would pull them roughly from their hides, rather than remove them carefully. It was a small advantage, but Lord Rasmodel took it. As he would often say, \"stack opportunities, one on top of the other, and soon you will have an impregnable tower\"."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 4
       },
       {
@@ -55857,6 +56574,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Mithril bolts are a power level 6 ammunition crafted at a fletching bench.\n\n[Journal] Demons are hardy creatures. The Black Knights had a habit of calling them 'Rackers', as they'd often require a whole bolt rack to bring down."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 4
       },
       {
@@ -55923,6 +56643,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Mithril fire arrows are a power level 6 ammunition that are crafted at a fletching bench.\n\n[Journal] The Fogger's Gala was one of the few dates that a Black Knight could look forward to. An annual tradition, it would take place on the mistiest day of the year. As soon as low clouds started rolling in, word spread among the knights that it was Gala day. It was an informal event on the battlements of the keep. There were quivers that represented each of the night's events, and the knights would name their arrows and place them into the quivers of those they wanted to participate in. Arrows were drawn randomly to determine the order. Sergeant Blister was on hand with betting. He brought his blackboard, which he seemed to have on-hand when needed, and a week's wages were placed on friends and adversaries. The events all revolved around bows and crossbows. The fog made it almost impossible to see anything, so the Gala was a test of both memory and accuracy. One event required the archer to hit hay bales with fire arrows. The hay bales were invisible, so they only had location names to go by - the hut by the waterfall, Skrexis's bed - which meant firing Hail Mary's in the vague direction of their quarry, hoping that it would ignite in the night. Other events included Pin the Arrow on the Goblin (as you can probably imagine, a noisy goblin ran about in the fog), Farthest Arrow and Alric's Curtains."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 4
       },
       {
@@ -55989,6 +56712,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Poisoned mithril arrows are a power level 6 ammunition that are crafted at a fletching bench.\n\n[Journal] The Rasmodels were notorious for their use of poison. When they lived to the south, in Temple Woods and Bramblemead, it was often said that you should cover your cup, mouth and ears around a Rasmodel. One of the family was finally caught red-handed (or green-handed, considering the poison used), and the rumour moved to certainty. They were banished to Dowdun. The reputation followed them, and mostly became a gift rather than curse. No-one in Dowdun Reach wanted to cross the Rasmodels for fear of waking up in spasms. We say that it was 'mostly' a gift, because of an event between a young Lord Rasmodel and his cousin. Lord Rasmodel claimed that he could shoot an apple from the top of his cousin's head, and promptly did so. He handed one of the resulting apple-halves to his cousin who ate it, and promptly keeled over and died. It turned out that the arrow used to the cleave the apple was poisoned. Lord Rasmodel claimed that he had been using his father's hunting arrows, and one of them must have been tainted. It seemed entirely plausible. But there was still doubt. And that doubt grew into a reputation: a reputation that outmatched his own family's. Even at the age of eight, the inhabitants of Dowdun Reach gave Lord Rasmodel a wide berth."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 4
       },
       {
@@ -56059,6 +56785,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant arrows are a power level 7 ammunition that are crafted at a fletching bench, and can be used to craft adamant barbed arrow, poisoned adamant arrow, and adamant fire arrow.\n\n[Journal] There is a constant battle between fletchers and armour smiths to one up each other. The armour smiths craft armour from stronger, sturdier and harder materials, meaning arrows must be made of equally, or greater, sturdiness of materials to pierce through them. The adamant arrow is a shining example of this eternal conflict. The metal is durable, powerful and deadly in the right hands, and pierces mithril, steel and lesser metals with almost mocking ease. Only adamant and greater quality armour stands a chance against them.\""
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 5
       },
       {
@@ -56125,6 +56854,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant barbed arrows are a power level 7 ammunition that are crafted at a fletching bench.\n\n[Journal] There are moments in life where you just decide that something must be forced to suffer. These arrows are designed just for that. When your enemy aggrieves you so much that you want to rip and tear and bleed them to death, this is the arrow for you. The Moon Garou do not use these arrows, even though they are aware of their construction. They consider it an unnecessary amount of suffering to inflict, when a well-placed shot is quicker and less dangerous for everyone else. Bandits that take up these arrows soon find themselves mistrusted even by their fellow thieves."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 5
       },
       {
@@ -56191,6 +56923,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant bolts are a power level 7 ammunition crafted at a fletching bench.\n\n[Journal] Sturdy bolts of one of the most durable metals. Capable of piercing most armours with relative ease. Have you considered what else those metal bars could be used for? You could create tools that would grow plants in these desolate lands. You could craft beautiful sculptures to bring joy to all who see them. But, no, you went with murder spikes instead."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 5
       },
       {
@@ -56257,6 +56992,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adamant fire arrows are a power level 7 ammunition that are crafted at a fletching bench.\n\n[Journal] Fire almost seems redundant beneath the scorching glare of the Umbral Sands corrupted sun, yet fire will always find a way to burn something, if you let it. The shamans of ancient Moon Garou tribes believed that fire was intelligent, and alive, in ways that defied normal understanding. Some fires were good, gentle creatures, that would warm the hearth and banish the cold in the night. But other fires were cruel things, possessed of an overwhelming desire for destruction. The danger, of course, is, like people, all fires have the potential to betray you. Which is why some hunters had the sense to make sure the fire was very far away from them, by launching it through the air at ludicrous speeds."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 5
       },
       {
@@ -56331,6 +57069,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Enchanted Adamant Bolt is a power level 7 bolt crafted at a Fletching Bench. It has a 15% chance to drain 15% of the user's current health and increase critical hit damage by 40% for that shot on a successful hit. If the special effect activates on a missed shot, the user's health is not drained, but it is still drained on non-critical hits.\n\n[Journal] Adamant is a special metal, responding well to magic and allowing it to be shaped into durable and deadly forms. Adamant bolts are the bane of many creatures, their sharpness and their hardiness lets them pierce through almost any defence. Yet, what if you didn’t stop the magic in the crafting process? What if you added more and more, creating bolts enchanted with murderous wrath? The answer to that is in these enchanted bolts, that sap your life in order to deal greater damage to your foe. Sacrifice for vengeance, the gods would approve. Except Guthix, but his opinion is somewhat moot these days."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 5
       },
       {
@@ -56397,6 +57138,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Poisoned adamant arrows are a power level 7 ammunition that are crafted at a fletching bench.\n\n[Journal] While adamant arrows might be considered deadly enough, there are still those that would push it further. The Moon Garou hunters found that if they dipped their arrows in deadly snake venom, then their enemies would fall faster and with less danger to the hunting party. Unsavoury bandit types found them useful as well, for far less practical a purpose. When they would raid caravans, they would strike the guards, drivers and occupants, with poisoned arrows, so that even if their victims could escape across the dunes, they would not live long enough to warn other caravans of their fate."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 5
       },
       {
@@ -56471,6 +57215,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Enchanted rune bolts are a power level 8 ammunition crafted at a fletching bench. It has a 15% chance to increase critical hit damage by 20% for that shot on a successful hit. When the special effect activates, the shot also pierces enemies. Despite being power level 8, these bolts deal the same base damage as Enchanted Adamant Bolts.\n\n[Journal] You can argue the semantics, but rune is already enchanted. It has inherent magical properties, which means that 'enchanting' it is a complicated process. It's like cursing a spell, or summoning a rune: you're just smooshing magic together and hoping nothing bad happens. And, as the Wise Old Man says, 'hoping nothing bad happens is basically inviting the bad into your bedchambers'. We'd have worded it differently, but you get the idea."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -56537,6 +57284,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Poisoned rune arrows are a power level 8 ammunition that are crafted with a fletching bench.\n\n[Journal] Rune poison arrows were often called 'overkill arrows' by the garou in Kuldra's Tower. If the sharp rune metal didn't kill you, then the magical resonance in the arrow would. There was almost no need for the poison on top of that. You had to truly hate someone to make a rune poison arrow."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -56607,6 +57357,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rune arrows are a power level 8 ammunition that are crafted at a fletching bench, and can be used to craft rune barbed arrow, poisoned rune arrow, and rune fire arrow, though players may wish to simply use Adamant Arrow as they possess the same base damage.\n\n[Journal] You might think that rune is the last metal you would use for an arrow. Rune is a magical metal, and it has diamagnetic properties (meaning that it repels other metals, sometimes with force). You don't want to be aiming at a garou berserker, only to watch the arrow arc away from them. As Vannaka would say, 'your problem is that you're thinking like an amateur'. Archers don't actually WANT arrows to hit other metals: they want to slip into the gaps between armour, puncturing an armpit or neck. The best archers also love a trick-shot, hitting an opponent through a sea of allies. The trick is to use the diamagnetism to your benefit, and that - again, to quote Vannaka - 'comes from the hardest skill of all. Practice'."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -56673,6 +57426,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rune barbed arrows are a power level 8 ammunition that can be crafted with a fletching bench.\n\n[Journal] Possibly the cruelest use of runite is making barbed arrows. The metal applies a force against anything that tries to touch it, which makes removing a barbed arrow painful. You are just as likely to send it further into the wound than remove it. Some areas of Ashenfall banned their usage a long time ago, but that won't be a consideration if you're fighting Kuldra."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -56739,6 +57495,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Rune Bolts are a power level 8 ammunition crafted at a Fletching Bench. Despite being power level 8, these bolts deal the same damage as adamant bolts.\n\n[Journal] You may have wondered where the phrase 'out of the blue' or 'a bolt from the blue' comes from. Its origins are actually from Misthalin, from the humans who made their way through the mountains to Isafdar. On arrival, they would be ambushed by roving elves, some of whom would fire rune arrows and bolts. Elves are a stealthy bunch, so the first thing a human soldier might know about the ambush would be an arc of blue (the 'blue' being the rune metal). The soldiers would worry about being shot by 'a bolt from the blue', which is where the saying originated. Also see 'the thin blue line' and 'screaming blue murder'."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -56805,6 +57564,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Rune fire arrows are a power level 8 ammunition that can be crafted with a fletching bench.\n\n[Journal] The rune fire arrow is central to a story about the knight commander, Sir Leigh. In his will, Sir Leigh requested a full-boat burning. He wanted to be pushed out to sea, towards the mainland where he was born, and an archer was to set the pyre alight with a rune fire arrow. Sat at his desk, writing the will, it would have sounded like a fantastic idea to Sir Leigh. But in reality it was very different. Rune, you see, has repulsive properties. It is diamagnetic. So when Sir Leigh was laid to rest in his gold armour atop a raft, and the archer tried to aim for the pyre-wood beneath him, the rune arrows would not hit. Dozens upon dozens of arrows were fired, and they all deviated from their path thanks to the runic properties. By the time a boat was sent out with a man holding a lit torch, two seagulls and one shark had been set alight."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -56871,6 +57633,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Blurite bolts are power level 4 ammunition that can be fired with a blurite crossbow or higher. They are crafted at a fletching bench after unlocking the recipe with the vestige: azure metal contraption.\n\n[Journal] It was Mittens that learned how to turn blurite into crossbow bolts. His pet, the blacksmith Gothren, had continued to rely on iron and bronze to get the job done, but Mittens had realised that there was great potential in this strange blue metal. He would ruin sand moulds, crafted by Gothren to forge blurite bars, making them appear as long thin strips. It took more ruined moulds than the cat had hoped for his owner to realise that blurite bolts would match their namesake crossbow. Whether they were more effective, is of no value to a cat, appearance is, after all, everything."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -56937,6 +57702,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Bone bolts are a power level 5 ammunition that can only be fired from Dorgeshuun crossbows. Bone bolts are unlocked after completing the quest, Even More Restless Ghosts. Unlike other bolts that split their damage between the crossbow and the bolt, all of it is on the crossbow so that it ascends properly.\n\n[Journal] Special bolts whittled from bones. Whilst only of use for a very specific crossbow, these bolts pack a surprising amount of punch."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -57011,6 +57779,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Enchanted blurite bolts are an upgradeable version of blurite bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% earth magic damage.\n\n[Journal] No one is entirely sure who thought to enchant blurite crossbow bolts in Brynmoor. The earliest references talk about Ignatius Wormwood, a failed apprentice wizard with too much time on his hands. The story goes that he was challenged by one of the Knights to a duel, over some spat about a maiden or other. Evidently [sic] Ignatius may have been a failure in his robes, but worryingly successful out of them, if you get my gist. Now, the knight was a large and imposing man - referred to by his compatriots as the immovable boulder - and angry as he was, he had no intention of killing Ignatius, so he gave him a simple challenge instead. If Ignatius could knock him down, he’d win the duel, otherwise the Knight would claim victory and see Ignatius punished for his mischiefs. When Ignatius pulled the crossbow from his robes, the knight was concerned but knew that his armour and shield could stand against them. Yet, when the bolt impacted the knight’s pristine iron armour, he found himself hurled to the floor and the wind knocked out of him. Gracious in defeat [sic] the knight let Ignatius go, only for the wizard to wander into the next person he had wronged.\n\n[Trivia] - When equipped, the description mentions slowing down the target; the enchanted blurite bolts knock the target down instead."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -57081,6 +57852,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Fang arrows are power level 2 ammunition crafted at a Crafting Table.\n\n[Journal] For a short time, a necromancer arrived on Ashenfall. She had found her way here by boat, fleeing pirates who wanted revenge for her misdeeds. Her skills were limited; she could not raise undead legions, but she had a knack for controlling simple fangs and bones. She fled into the forests – pirates having found Ashenfall and hunting her down – where she would unleash fang arrows against her foes in the hope of stopping their chase. It didn’t work. Broken, lost and without hope, she prepared herself for death. But death never came for her. Instead, a Wild Knight, who wore a mask made from the skull of a wolf, rescued her. He pushed back her assailants and brought her to safety. Their fellowship after that was unbreakable, though no bond of romance flowed between them. She made the arrows, he fired the bow, and together, they feasted on their victories and kept the woods safe from unwanted intrusion. Even now, there are signs of their friendship. Hidden across the forest, miniature carvings of a wolf skull and a bat can be found in places that meant something to them."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -57147,6 +57921,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "[Wiki notice] This article contains information about a subject known only to exist in the game files. The content is not intended to be accessible in game, and may or may not be reserved for use in a future update.\n\nFang barbed arrows are fang arrows with weapon barbs crafted on the arrow. Like other barbed arrows, the icon will have a Bleed icon placed on the top right of the arrow to distinguish itself from regular arrows. There are no additional bonuses at this time. Note: fang barbed arrows are currently not craftable in either regular or Creative Mode worlds, making them unobtainable.\n\n[Journal] Fang Barbed Arrow does not have an associated journal. Click here to edit the journal section if it exists in the cache."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -57213,6 +57990,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "[Wiki notice] This article contains information about a subject known only to exist in the game files. The content is not intended to be accessible in game, and may or may not be reserved for use in a future update.\n\nFang fire arrows are fang arrows with fire oil applied with level 45 Ranged. Targets that are hit by the fang fire arrow will not be inflicted with the Burning debuff, but higher-tier arrows will have a higher chance of doing so. Like other fire arrows, the icon will have a fire icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] Fang Fire Arrow does not have an associated journal. Click here to edit the journal section if it exists in the cache."
         },
+        "stations": [
+          "Fletching Bench"
+        ],
         "step": 6
       },
       {
@@ -57283,6 +58063,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Poisoned fang arrows are fang arrows that are coated with weapon poison. Targets that are hit by a poisoned fang arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds. Like other poisoned arrows, the icon will have a Poison icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] The Children of Shadows loved using these. The very notion of bone and poison combined as a weapon; it touched some deep dark part of themselves and filled them with a malicious sort of glee. Alas such weapons proved relatively useless in any secret campaigns against the Saradominists of Bramblemead. Certainly, they could assassinate a baker if they needed to, but against a knight it would just ping harmlessly off their armour. Still, they made for good talking points at the secretive meetings, making enjoyably sinister table-decorations that paired well with the wine and cheeses."
         },
+        "stations": [
+          "Crafting Table"
+        ],
         "step": 6
       },
       {
@@ -61558,6 +62341,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Adhesive is a product as well as a crafting item.  It is created by adding swamp tar to the kiln .  Adhesive is made in a one-to-one ratio, with one swamp tar creating one adhesive.\n\nAdhesive has multiple uses as a crafting material in the production of fuel pellets , hard leather , tanner's kits , and weapon barbs ."
         },
+        "stations": [
+          "Kiln"
+        ],
         "step": 0
       },
       {
@@ -62105,6 +62891,12 @@ window.WILDS_STORAGE = [
           ],
           "description": "Bronze leaves are a craftable item reward from various Agility courses that allows the player to make potions or create bronze bars. To obtain these, players must either collect them from bronze (or better) reward packs or recycle bronze bars in the jeweler's bench to make sheets of ten per bar."
         },
+        "stations": [
+          "Jeweler's Bench",
+          "Blast Furnace",
+          "Build Menu",
+          "Brewing Cauldron"
+        ],
         "step": 0
       },
       {
@@ -63076,6 +63868,9 @@ window.WILDS_STORAGE = [
           ],
           "description": "Gold leaf is a craftable item reward from various Agility courses that allows the player to make potions, golden regional capes, and a gilded version of the gyrhawk amulet . To obtain these, players must either collect them from golden reward packs or recycle gold bars at the jeweler's bench to make sheets of ten per bar.\n\n(Trivia)\n- The gold leaf here can be crafted, unlike in RuneScape and Old School RuneScape , where it is either obtained through a shop or  as an drop source. Just like both games, it can be used to craft items build decorations for construction."
         },
+        "stations": [
+          "Jeweler's Bench"
+        ],
         "step": 0
       },
       {
@@ -64060,6 +64855,12 @@ window.WILDS_STORAGE = [
           ],
           "description": "Silver leaf is a craftable item reward from various Agility courses that allows the player to make potions or create silver bars. To obtain these, players must either collect them from silver (or golden) reward packs or recycle silver bars in the jeweler's bench to make sheets of ten per bar."
         },
+        "stations": [
+          "Jeweler's Bench",
+          "Brewing Cauldron",
+          "Blast Furnace",
+          "Build Menu"
+        ],
         "step": 0
       },
       {
@@ -64430,37 +65231,58 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Blacksmith's Bench",
-    "count": 95,
+    "count": 123,
     "members": [
       "Blacksmith's Bench"
     ]
   },
   {
+    "name": "Fletching Bench",
+    "count": 82,
+    "members": [
+      "Fletching Bench"
+    ]
+  },
+  {
+    "name": "Grill",
+    "count": 82,
+    "members": [
+      "Grill"
+    ]
+  },
+  {
+    "name": "Campfire",
+    "count": 81,
+    "members": [
+      "Campfire"
+    ]
+  },
+  {
+    "name": "Crafting Table",
+    "count": 80,
+    "members": [
+      "Crafting Table"
+    ]
+  },
+  {
     "name": "Brewing Cauldron",
-    "count": 66,
+    "count": 68,
     "members": [
       "Brewing Cauldron"
     ]
   },
   {
     "name": "Build Menu",
-    "count": 46,
+    "count": 49,
     "members": [
       "Build Menu"
     ]
   },
   {
-    "name": "Crafting Table",
-    "count": 46,
+    "name": "Cooking Range",
+    "count": 49,
     "members": [
-      "Crafting Table"
-    ]
-  },
-  {
-    "name": "Fletching Bench",
-    "count": 40,
-    "members": [
-      "Fletching Bench"
+      "Cooking Range"
     ]
   },
   {
@@ -64472,7 +65294,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Jeweler's Bench",
-    "count": 31,
+    "count": 34,
     "members": [
       "Jeweler's Bench"
     ]
@@ -64493,10 +65315,24 @@ window.WILDS_STATIONS = [
     ]
   },
   {
+    "name": "Stone Range",
+    "count": 23,
+    "members": [
+      "Stone Range"
+    ]
+  },
+  {
     "name": "Kiln",
-    "count": 18,
+    "count": 21,
     "members": [
       "Kiln"
+    ]
+  },
+  {
+    "name": "Blast Furnace",
+    "count": 16,
+    "members": [
+      "Blast Furnace"
     ]
   },
   {
@@ -64507,45 +65343,24 @@ window.WILDS_STATIONS = [
     ]
   },
   {
-    "name": "Blast Furnace",
-    "count": 12,
+    "name": "Cooking Pot",
+    "count": 13,
     "members": [
-      "Blast Furnace"
-    ]
-  },
-  {
-    "name": "Campfire",
-    "count": 12,
-    "members": [
-      "Campfire"
-    ]
-  },
-  {
-    "name": "Grill",
-    "count": 12,
-    "members": [
-      "Grill"
+      "Cooking Pot"
     ]
   },
   {
     "name": "Spinning Wheel",
-    "count": 11,
+    "count": 12,
     "members": [
       "Spinning Wheel"
     ]
   },
   {
     "name": "Furnace",
-    "count": 10,
+    "count": 11,
     "members": [
       "Furnace"
-    ]
-  },
-  {
-    "name": "Cooking Range",
-    "count": 9,
-    "members": [
-      "Cooking Range"
     ]
   },
   {
@@ -64567,13 +65382,6 @@ window.WILDS_STATIONS = [
     "count": 7,
     "members": [
       "Rune Altar"
-    ]
-  },
-  {
-    "name": "Stone Range",
-    "count": 5,
-    "members": [
-      "Stone Range"
     ]
   },
   {

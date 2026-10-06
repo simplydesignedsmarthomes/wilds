@@ -1394,7 +1394,7 @@ window.WILDS_STORAGE = [
               "value": "1x Blightwood Shortbow"
             }
           ],
-          "description": "The blightwood shortbow is a power level 4 Shortbow that can be crafted at a fletching bench.\n\n(Journal) Every hunter reaches a crossroads in life when a choice becomes clear. They have honed their skills with a bow, surpassing the challenges posed by Brynmoor game. They could settle into a comfortable life in the village — hunting the same old deer, earning a regular wage and basking in a relaxing level of respect from their peers. Or, they could dare to dream bigger, to push their skills to new heights. \nThe Wild Knights journeyed into more dangerous territories, facing off against deadly monsters warped by the anima twist. Joining them would mean abandoning the comfortable life of friends and family but earning a chance to face challenges that they would never face at home. \n\nMost choose comfort, as one might expect. But those who choose to improve would be taught how to craft a more powerful weapon, casting aside the oak bows that carry their names. They would carve a new name and identity into the limbs of their latest weapon and join the knights. Their names would be whispered. Gossip about them would transform into fireside stories — ghost tales about those still alive — the first embers of legends."
+          "description": "The blightwood shortbow is a power level 4 Shortbow that can be crafted at a fletching bench.\n\n(Journal) Every hunter reaches a crossroads in life when a choice becomes clear. They have honed their skills with a bow, surpassing the challenges posed by Brynmoor game. They could settle into a comfortable life in the village - hunting the same old deer, earning a regular wage and basking in a relaxing level of respect from their peers. Or, they could dare to dream bigger, to push their skills to new heights. \nThe Wild Knights journeyed into more dangerous territories, facing off against deadly monsters warped by the anima twist. Joining them would mean abandoning the comfortable life of friends and family but earning a chance to face challenges that they would never face at home. \n\nMost choose comfort, as one might expect. But those who choose to improve would be taught how to craft a more powerful weapon, casting aside the oak bows that carry their names. They would carve a new name and identity into the limbs of their latest weapon and join the knights. Their names would be whispered. Gossip about them would transform into fireside stories - ghost tales about those still alive - the first embers of legends."
         },
         "stations": [
           "Fletching Bench"
@@ -1633,7 +1633,7 @@ window.WILDS_STORAGE = [
               "value": "1x Iron Dagger"
             }
           ],
-          "description": "The iron dagger is a power level 4 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small dash forward, followed by an upward slash, and can be useful as a combo extension.\n\n(Journal) Iron Daggers are dangerous weapons in skilled hands. Light, quick and sharp as can be, they cleave flesh from bone before the victim knows they’ve been assaulted. This is why they became a favourite weapon of the Children of Shadows.\n\nThough the cult rarely harmed anyone — it was mostly a social club — there were those among their number who took their calling seriously.\n\nThey forged their own daggers and honoured their master by adding a single drop of their own blood as the blade cooled. Some carved demonic pacts into the metal, though it is not known whether this actually created a compact."
+          "description": "The iron dagger is a power level 4 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small dash forward, followed by an upward slash, and can be useful as a combo extension.\n\n(Journal) Iron Daggers are dangerous weapons in skilled hands. Light, quick and sharp as can be, they cleave flesh from bone before the victim knows they’ve been assaulted. This is why they became a favourite weapon of the Children of Shadows.\n\nThough the cult rarely harmed anyone - it was mostly a social club - there were those among their number who took their calling seriously.\n\nThey forged their own daggers and honoured their master by adding a single drop of their own blood as the blade cooled. Some carved demonic pacts into the metal, though it is not known whether this actually created a compact."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -6729,7 +6729,7 @@ window.WILDS_STORAGE = [
               "value": "4 / 36 / Ascension Core (Power Level 4) 1; 5 / 46 / Ascension Core (Power Level 5) 1; 6 / 58 / Ascension Core (Power Level 6) 1; 7 / 70 / Ascension Core (Power Level 7) 1; 8 / 82 / Ascension Core (Power Level 8) 1; 9 / 94"
             }
           ],
-          "description": "The crystal bow is a power level 3 masterwork shortbow that can be obtained (as well as its crafting recipe) as a reward from the Heartstrings quest. It can then be crafted at a fletching bench. It can be ascended at the mystic forge using ascension cores.\nIts special attack is called Shattershot, costing 43 stamina and shoots an area-of-effect cone of arrows a short distance that deals one third of the weapon's base damage to every target hit. Each target hit is stuck with crystal needles that explode after a short time for a set 50 damage. More needles can be stacked before the previous set explodes. This special attack does not require arrows to fire and can penetrate solid objects.\nThis weapon fires slightly slower than other shortbows despite dealing very similar damage when at the same power level, even when compared to the undead ranger's bow which is supposed to have increased damage as its special effect. This weapon has the same durability as the other ascendable shortbows, which makes the wild scout's shortbow with its 10% faster draw speed the ideal choice of shortbow to ascend if not using shattershot.\n\n(Journal) A Crystal Bow is not crafted but sung into existence. Harmonies are layered over one another to teach the weapon a story so that it might understand why it needs to be strong. Traditionally, the songs that are sung are of the plight of the elves, their loneliness without their goddess, and the many dangers they must face.\n\nThe shimmering substance they're made from is traditionally a shard of the elven goddess Seren, left behind when her crystal form shattered at the end of the Third Age God Wars.\n\nThis bow isn't of the same material, and the song is different, too. There's no divine essence in the crystal, no lament of the elves. Instead, it is sung memories of a lifetime together, distilled down into facets reflecting in the crystalline flaws. In the moonlight, those facets sparkle like tiny stars held within glass — moments of hardship, conflicts, happiness[sic] and grief.\n\nIt is music as a weapon, with memory as its handle and sorrow as its string."
+          "description": "The crystal bow is a power level 3 masterwork shortbow that can be obtained (as well as its crafting recipe) as a reward from the Heartstrings quest. It can then be crafted at a fletching bench. It can be ascended at the mystic forge using ascension cores.\nIts special attack is called Shattershot, costing 43 stamina and shoots an area-of-effect cone of arrows a short distance that deals one third of the weapon's base damage to every target hit. Each target hit is stuck with crystal needles that explode after a short time for a set 50 damage. More needles can be stacked before the previous set explodes. This special attack does not require arrows to fire and can penetrate solid objects.\nThis weapon fires slightly slower than other shortbows despite dealing very similar damage when at the same power level, even when compared to the undead ranger's bow which is supposed to have increased damage as its special effect. This weapon has the same durability as the other ascendable shortbows, which makes the wild scout's shortbow with its 10% faster draw speed the ideal choice of shortbow to ascend if not using shattershot.\n\n(Journal) A Crystal Bow is not crafted but sung into existence. Harmonies are layered over one another to teach the weapon a story so that it might understand why it needs to be strong. Traditionally, the songs that are sung are of the plight of the elves, their loneliness without their goddess, and the many dangers they must face.\n\nThe shimmering substance they're made from is traditionally a shard of the elven goddess Seren, left behind when her crystal form shattered at the end of the Third Age God Wars.\n\nThis bow isn't of the same material, and the song is different, too. There's no divine essence in the crystal, no lament of the elves. Instead, it is sung memories of a lifetime together, distilled down into facets reflecting in the crystalline flaws. In the moonlight, those facets sparkle like tiny stars held within glass - moments of hardship, conflicts, happiness[sic] and grief.\n\nIt is music as a weapon, with memory as its handle and sorrow as its string."
         },
         "stations": [
           "Fletching Bench"
@@ -9398,7 +9398,7 @@ window.WILDS_STORAGE = [
               "value": "4 / 48 - 82 / 46 / Ascension Core (Power Level 4) 1; 5 / 60 - 108 / 52 / Ascension Core (Power Level 5) 1; 6 / 75 - 136 / 59 / Ascension Core (Power Level 6) 1; 7 / 92 - 166 / 66 / Ascension Core (Power Level 7) 1; 8 / 108 - 196 / 72 / Ascension Core (Power Level 8) 1; 9 / 125 - 226 / 79"
             }
           ],
-          "description": "The wooden training sword is a power level 2 one-handed melee weapon that can be crafted at a crafting table. The recipe is learned by consuming the an educational blade, found in a chest atop the eastern roof of the church in Temple Woods. It can be ascended at the mystic forge using ascension cores.\nUnlike many other ascendable vestige and masterwork weapons and armour, this weapon does not have a special effect.\nThis means that when compared to other swords like the black sword or toktz-xil-ak, they will often be the better choices to ascend.\n\n(Journal) In the village of Bramblemead, children grew up knowing battle. The God Wars hadn't reached them yet, but the priests always knew that danger was coming. So children were taught combat in the form of a game.\n\nCarpenters were encouraged to make little wooden swords so that the children could emulate the noble paladins who wandered the village. These soldiers were held up as role models. Young men and women daydreamed through school of taking up those glittering swords and running off into adventure.\n\nThese weapons clicked and clacked against one another, seemingly harmless to the adults that watched. But wood in Bramblemead was hardened and preserved by druidic magic, and the damage these swords could deal soom became clear. Injuries were common, bruises and broken bones were the rite of passage of every child.\n\nIt was fortunate, perhaps, that these weapons were so painful — because the children of Bramblemead grew up with a better understanding that war was no game."
+          "description": "The wooden training sword is a power level 2 one-handed melee weapon that can be crafted at a crafting table. The recipe is learned by consuming the an educational blade, found in a chest atop the eastern roof of the church in Temple Woods. It can be ascended at the mystic forge using ascension cores.\nUnlike many other ascendable vestige and masterwork weapons and armour, this weapon does not have a special effect.\nThis means that when compared to other swords like the black sword or toktz-xil-ak, they will often be the better choices to ascend.\n\n(Journal) In the village of Bramblemead, children grew up knowing battle. The God Wars hadn't reached them yet, but the priests always knew that danger was coming. So children were taught combat in the form of a game.\n\nCarpenters were encouraged to make little wooden swords so that the children could emulate the noble paladins who wandered the village. These soldiers were held up as role models. Young men and women daydreamed through school of taking up those glittering swords and running off into adventure.\n\nThese weapons clicked and clacked against one another, seemingly harmless to the adults that watched. But wood in Bramblemead was hardened and preserved by druidic magic, and the damage these swords could deal soom became clear. Injuries were common, bruises and broken bones were the rite of passage of every child.\n\nIt was fortunate, perhaps, that these weapons were so painful - because the children of Bramblemead grew up with a better understanding that war was no game."
         },
         "stations": [
           "Crafting Table"
@@ -10237,7 +10237,7 @@ window.WILDS_STORAGE = [
               "value": "Leather Cowl"
             }
           ],
-          "description": "Leather cowl is a power level 2 helmet that can be crafted at a crafting table.\n\n(Journal)\nWith a distinct aroma, Leather Armour became very popular with warriors and hunters, as well as a few villagers, but that’s another story. Leather, when properly layered and cured, can turn away both the claws of a beast and the blades of an assailant.\n\nIt takes time and skill to craft Leather Armour. The material needs to be cured, cut, shaped and then stitched together with a material more durable than simple thread. It can be stiff to move in and surprisingly heavy, something young villagers would discover on their earliest hunts.\n\nYoung hunters would be gifted Leather Armour by their family as a sign of adulthood. Good-quality Leather Armour showed great pride in one's progeny. Many villagers would compete with one another to gift increasingly elaborate armour — as if doing so confirmed to all others that their child was special."
+          "description": "Leather cowl is a power level 2 helmet that can be crafted at a crafting table.\n\n(Journal)\nWith a distinct aroma, Leather Armour became very popular with warriors and hunters, as well as a few villagers, but that’s another story. Leather, when properly layered and cured, can turn away both the claws of a beast and the blades of an assailant.\n\nIt takes time and skill to craft Leather Armour. The material needs to be cured, cut, shaped and then stitched together with a material more durable than simple thread. It can be stiff to move in and surprisingly heavy, something young villagers would discover on their earliest hunts.\n\nYoung hunters would be gifted Leather Armour by their family as a sign of adulthood. Good-quality Leather Armour showed great pride in one's progeny. Many villagers would compete with one another to gift increasingly elaborate armour - as if doing so confirmed to all others that their child was special."
         },
         "stations": [
           "Crafting Table"
@@ -10476,7 +10476,7 @@ window.WILDS_STORAGE = [
               "value": "Facility: Armour Bench; Skill: Artisan (XP: 60); Materials: 10x Bronze Bar, 4x Hard Leather, 2x Wool Thread; Output: Bronze Platebody"
             }
           ],
-          "description": "A bronze platebody is a power level 3 armour piece that can be crafted at a armour bench.\n\n(Journal)\nBronze was once a secret held by the ancient dwarves. It is a more robust metal forged from an alliance of two others. \n\nThe alliance of two different faiths had its own warrior force to defend its shared ideals. Clad in polished bronze armour, these warriors stood out against the stark green of Brynmoor’s fields. They upheld traditions and punished those who blasphemed against either faith. \n\nThe Bronze Advisors, as they were known, would offer advice from both a Saradominist and a Guthixian perspective — order and balance, side by side. Such was the intention, but the scales were already tipped. Policies began to slip more and more in favour of the Saradominist approach as the Guthixian faith slowly dwindled and the Saradominist view took centre stage."
+          "description": "A bronze platebody is a power level 3 armour piece that can be crafted at a armour bench.\n\n(Journal)\nBronze was once a secret held by the ancient dwarves. It is a more robust metal forged from an alliance of two others. \n\nThe alliance of two different faiths had its own warrior force to defend its shared ideals. Clad in polished bronze armour, these warriors stood out against the stark green of Brynmoor’s fields. They upheld traditions and punished those who blasphemed against either faith. \n\nThe Bronze Advisors, as they were known, would offer advice from both a Saradominist and a Guthixian perspective - order and balance, side by side. Such was the intention, but the scales were already tipped. Policies began to slip more and more in favour of the Saradominist approach as the Guthixian faith slowly dwindled and the Saradominist view took centre stage."
         },
         "stations": [
           "Armour Bench"
@@ -11350,7 +11350,7 @@ window.WILDS_STORAGE = [
               "value": "Facility: Armour Bench; Skill: Artisan (XP: 100); Materials: 6x Padded Cloth, 4x Hard Leather, 2x Silver Bar, 2x Vault Shard; Output: 1x Dark Mage Robe Legs"
             }
           ],
-          "description": "Dark mage robe legs is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.The most infamous dark wizards became a fairy tale for the people of Brynmoor, a cautionary tale of greed and the desire for power. They sought power in the darkest of places, and it turned them into something monstrous.They appeared in the village in the dead of night as twisted versions of themselves — mindless creatures infused with a shadowy essence. Those who found themselves in their path had their lives ripped out of them until nought but an empty husk remained.It took all the visiting Wild Knights to take them down. Arrow after arrow, spell after spell, the task seemed almost insurmountable, until the light of the sun made the creatures vulnerable. In their death throes, it was as if some horrible chill fell across the world, as if a door somewhere had been opened into somewhere it shouldn’t."
+          "description": "Dark mage robe legs is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.The most infamous dark wizards became a fairy tale for the people of Brynmoor, a cautionary tale of greed and the desire for power. They sought power in the darkest of places, and it turned them into something monstrous.They appeared in the village in the dead of night as twisted versions of themselves - mindless creatures infused with a shadowy essence. Those who found themselves in their path had their lives ripped out of them until nought but an empty husk remained.It took all the visiting Wild Knights to take them down. Arrow after arrow, spell after spell, the task seemed almost insurmountable, until the light of the sun made the creatures vulnerable. In their death throes, it was as if some horrible chill fell across the world, as if a door somewhere had been opened into somewhere it shouldn’t."
         },
         "stations": [
           "Armour Bench"
@@ -11431,7 +11431,7 @@ window.WILDS_STORAGE = [
               "value": "Facility: Armour Bench; Skill: Artisan (XP: 100); Materials: 8x Padded Cloth, 8x Hard Leather, 4x Silver Bar, 3x Vault Shard; Output: 1x Dark Mage Robes"
             }
           ],
-          "description": "Dark mage robes are a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth and the Mystic Forge\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.Brynmoor had a string of so-called 'dark wizards'. Most were little more than bandits with a penchant for magic. The guards were sufficient for dealing with the majority of troublemakers, but a small group did cause a real upset. They were members of the Children of Shadows, a Zamorakian cult that began spreading through the population. The cult fed on distrust, paranoia and greed — some very human traits. Among their number were three apprentices of the Wizards' Guild, who were frustrated by having not received the promotions they felt they deserved.In their quest for power, the Children of Shadows stumbled upon ancient vaults; repositories of the dragonkin's long-forgotten secrets. Here, they discovered the remnants of a forbidden text, a relic of immense power. Driven by their arrogance, they chose to follow its instructions, unaware of the horrors they were about to unleash."
+          "description": "Dark mage robes are a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth and the Mystic Forge\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.Brynmoor had a string of so-called 'dark wizards'. Most were little more than bandits with a penchant for magic. The guards were sufficient for dealing with the majority of troublemakers, but a small group did cause a real upset. They were members of the Children of Shadows, a Zamorakian cult that began spreading through the population. The cult fed on distrust, paranoia and greed - some very human traits. Among their number were three apprentices of the Wizards' Guild, who were frustrated by having not received the promotions they felt they deserved.In their quest for power, the Children of Shadows stumbled upon ancient vaults; repositories of the dragonkin's long-forgotten secrets. Here, they discovered the remnants of a forbidden text, a relic of immense power. Driven by their arrogance, they chose to follow its instructions, unaware of the horrors they were about to unleash."
         },
         "stations": [
           "Armour Bench"
@@ -12535,7 +12535,7 @@ window.WILDS_STORAGE = [
               "value": "1x Wild Archer Body"
             }
           ],
-          "description": "Wild archer body is a power level 4 ranged armour that can be crafted at an armour bench.\n\nThe recipe can be obtained from Kletterbuja Kara, a dragonkin vault.\n\n(Journal)\nThe Wild Knights were known for their ability to scout the wild areas of Ashenfall. They could walk where no one else dared to tread, and they were masters of the hunt — putting even the garou to shame.\n\nTheir archers wore sturdy leathers, using carefully laid folds to shield them against harm. They would break easily, but the archers made it part of their ritual to maintain them regularly. Each day, they would wake and tend to the leather, making their armour seem brand new with each morning.\n\nArchers of the Wild Knights were quick, silent and deadly. A joke their more melee-focused companions used to raise on those rare occasions when the knights would gather. Drink and company lead to banter and poor jokes, which created much missed laughter that the Wild Knights always enjoyed.\n\nArcher, warrior or mage, the Wild Knights would hurl jibes at one another, without a moment’s thought. Yet, when needed, there was no stronger camaraderie and they would all die for one another."
+          "description": "Wild archer body is a power level 4 ranged armour that can be crafted at an armour bench.\n\nThe recipe can be obtained from Kletterbuja Kara, a dragonkin vault.\n\n(Journal)\nThe Wild Knights were known for their ability to scout the wild areas of Ashenfall. They could walk where no one else dared to tread, and they were masters of the hunt - putting even the garou to shame.\n\nTheir archers wore sturdy leathers, using carefully laid folds to shield them against harm. They would break easily, but the archers made it part of their ritual to maintain them regularly. Each day, they would wake and tend to the leather, making their armour seem brand new with each morning.\n\nArchers of the Wild Knights were quick, silent and deadly. A joke their more melee-focused companions used to raise on those rare occasions when the knights would gather. Drink and company lead to banter and poor jokes, which created much missed laughter that the Wild Knights always enjoyed.\n\nArcher, warrior or mage, the Wild Knights would hurl jibes at one another, without a moment’s thought. Yet, when needed, there was no stronger camaraderie and they would all die for one another."
         },
         "stations": [
           "Armour Bench"
@@ -12648,7 +12648,7 @@ window.WILDS_STORAGE = [
               "value": "1x Wild Archer Chaps"
             }
           ],
-          "description": "Wild archer chaps is a power level 4 ranged armour that can be crafted at an armour bench.\n\nThe recipe can be obtained from Kletterbuja Kara, a dragonkin vault.\n\n(Journal)\nThe Wild Knights were known for their ability to scout the wild areas of Ashenfall. They could walk where no one else dared to tread, and they were masters of the hunt — putting even the garou to shame.\n\nTheir archers wore sturdy leathers, using carefully laid folds to shield them against harm. They would break easily, but the archers made it part of their ritual to maintain them regularly. Each day, they would wake and tend to the leather, making their armour seem brand new with each morning.\n\nArchers worked alone, it was easier that way. They could stalk their prey, silent and slowly, sometimes taking days between kills as they followed their quarry around the lands. They would hunt monsters and people with equal focus, as dictated by the order’s commands.\n\nTo harm the wilds was to make yourself a target for the Wild Knights. To sully the green lands of Guthix, an unforgivable crime. Yet, there were always those who would risk their ire, wannabe despots and greedy fools yearning to plunder the realm.\n\nThey all met the fate they deserved, in the end."
+          "description": "Wild archer chaps is a power level 4 ranged armour that can be crafted at an armour bench.\n\nThe recipe can be obtained from Kletterbuja Kara, a dragonkin vault.\n\n(Journal)\nThe Wild Knights were known for their ability to scout the wild areas of Ashenfall. They could walk where no one else dared to tread, and they were masters of the hunt - putting even the garou to shame.\n\nTheir archers wore sturdy leathers, using carefully laid folds to shield them against harm. They would break easily, but the archers made it part of their ritual to maintain them regularly. Each day, they would wake and tend to the leather, making their armour seem brand new with each morning.\n\nArchers worked alone, it was easier that way. They could stalk their prey, silent and slowly, sometimes taking days between kills as they followed their quarry around the lands. They would hunt monsters and people with equal focus, as dictated by the order’s commands.\n\nTo harm the wilds was to make yourself a target for the Wild Knights. To sully the green lands of Guthix, an unforgivable crime. Yet, there were always those who would risk their ire, wannabe despots and greedy fools yearning to plunder the realm.\n\nThey all met the fate they deserved, in the end."
         },
         "stations": [
           "Armour Bench"
@@ -12761,7 +12761,7 @@ window.WILDS_STORAGE = [
               "value": "1x Wild Archer Cowl"
             }
           ],
-          "description": "Wild archer cowl is a power level 4 ranged armour that can be crafted at an armour bench.\n\nThe recipe can be obtained from Kletterbuja Kara, a dragonkin vault.\n\n(Journal)\nThe Wild Knights were known for their ability to scout the wild areas of Ashenfall. They could walk where no one else dared to tread, and they were masters of the hunt — putting even the garou to shame.\n\nTheir archers wore sturdy leathers, using carefully laid folds to shield them against harm. They would break easily, but the archers made it part of their ritual to maintain them regularly. Each day, they would wake and tend to the leather, making their armour seem brand new with each morning.\n\nThe helm is designed to focus the wearer’s vision, so that their target receives all their attention. Distractions are cut out of the picture. Everything exterior to their quarry is removed from view. The archer’s sight is trained on their victim and, so the rumours claimed, they never missed their mark.\n\n(Trivia)\n* The Cowl resembles that of a Crux Eqal Knight helmet from RuneScape."
+          "description": "Wild archer cowl is a power level 4 ranged armour that can be crafted at an armour bench.\n\nThe recipe can be obtained from Kletterbuja Kara, a dragonkin vault.\n\n(Journal)\nThe Wild Knights were known for their ability to scout the wild areas of Ashenfall. They could walk where no one else dared to tread, and they were masters of the hunt - putting even the garou to shame.\n\nTheir archers wore sturdy leathers, using carefully laid folds to shield them against harm. They would break easily, but the archers made it part of their ritual to maintain them regularly. Each day, they would wake and tend to the leather, making their armour seem brand new with each morning.\n\nThe helm is designed to focus the wearer’s vision, so that their target receives all their attention. Distractions are cut out of the picture. Everything exterior to their quarry is removed from view. The archer’s sight is trained on their victim and, so the rumours claimed, they never missed their mark.\n\n(Trivia)\n* The Cowl resembles that of a Crux Eqal Knight helmet from RuneScape."
         },
         "stations": [
           "Armour Bench"
@@ -13246,7 +13246,7 @@ window.WILDS_STORAGE = [
               "value": "1x Necromancer's Robe Bottom"
             }
           ],
-          "description": "Necromancer's robe bottom are a power level 5 magic armour that can be created at an armour bench. It plays a role in completing the What Remains is Written quest.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nThe most infamous dark wizards became a fairytale for the people of Brynmoor, a cautionary tale about greed and the desire for power. They sought power in the darkest of places, and it turned them into something monstrous.\n\nThey appeared in the village in the dead of night as twisted versions of themselves—mindless creatures infused with a shadowy essence. Those who found themselves in their path had their lives ripped out of them until nought but an empty husk remained.\n\nIt took all the visiting Wild Knights to take them down. Arrow after arrow, spell after spell, the task seemed almost insurmountable until the light of the sun made the creatures vulnerable. In their death throws, it was as if some horrible chill fell across the world as if a door somewhere had been opened into somewhere it shouldn’t."
+          "description": "Necromancer's robe bottom are a power level 5 magic armour that can be created at an armour bench. It plays a role in completing the What Remains is Written quest.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nThe most infamous dark wizards became a fairytale for the people of Brynmoor, a cautionary tale about greed and the desire for power. They sought power in the darkest of places, and it turned them into something monstrous.\n\nThey appeared in the village in the dead of night as twisted versions of themselves - mindless creatures infused with a shadowy essence. Those who found themselves in their path had their lives ripped out of them until nought but an empty husk remained.\n\nIt took all the visiting Wild Knights to take them down. Arrow after arrow, spell after spell, the task seemed almost insurmountable until the light of the sun made the creatures vulnerable. In their death throws, it was as if some horrible chill fell across the world as if a door somewhere had been opened into somewhere it shouldn’t."
         },
         "stations": [
           "Armour Bench"
@@ -17492,7 +17492,7 @@ window.WILDS_STORAGE = [
               "value": "1x Kalphite Carapace Chest"
             }
           ],
-          "description": "Kalphite carapace chest is a power level 7 ranged armour that can be crafted at an armour bench. The recipe is unlocked by purchasing and using the chitinous carapace vestige from Iasadair - The Merchant.\n\n(Journal)\nPerhaps it’s a little strange to wear the skin of your enemy, but who am I to judge? The Kalphite are certainly an imposing bunch and donning armour comprising of the most resilient parts of them certainly hits that survival game vibe, even if it is a little grim.\n\nThe shell of a Kalphite is strong and durable, a thick layer between them and the rest of the world. It keeps them safe, yes, but closed off from sensation and feeling, an emotional gulf between them and everyone else.\n\nFortunately, they’re insects and couldn’t care any less.\n\nYou, at least, are in possession of vocal chords and the ability to interact with others. You can also take off your armour,  should you ever need to—something not recommended in the middle of battle, no matter how much you’d like to improve your emotional bond with something.\n\nIt is worth noting, however, that there is an unexpected side effect to this armour. Dragons find you extra crunchy."
+          "description": "Kalphite carapace chest is a power level 7 ranged armour that can be crafted at an armour bench. The recipe is unlocked by purchasing and using the chitinous carapace vestige from Iasadair - The Merchant.\n\n(Journal)\nPerhaps it’s a little strange to wear the skin of your enemy, but who am I to judge? The Kalphite are certainly an imposing bunch and donning armour comprising of the most resilient parts of them certainly hits that survival game vibe, even if it is a little grim.\n\nThe shell of a Kalphite is strong and durable, a thick layer between them and the rest of the world. It keeps them safe, yes, but closed off from sensation and feeling, an emotional gulf between them and everyone else.\n\nFortunately, they’re insects and couldn’t care any less.\n\nYou, at least, are in possession of vocal chords and the ability to interact with others. You can also take off your armour,  should you ever need to - something not recommended in the middle of battle, no matter how much you’d like to improve your emotional bond with something.\n\nIt is worth noting, however, that there is an unexpected side effect to this armour. Dragons find you extra crunchy."
         },
         "stations": [
           "Armour Bench"
@@ -21500,7 +21500,7 @@ window.WILDS_STORAGE = [
               "value": "Facility: Blacksmith's Bench; Skill: Artisan (XP: 100); Materials: 1x Noxious Draconic Visage, 1x Anti-Dragon Shield, 12x Vault Shard, 1x Vault Core; Output: 1x Dragonblight Shield"
             }
           ],
-          "description": "The dragonblight shield is a power level 4 masterwork shield that can be crafted at a blacksmith's bench after obtaining a noxious draconic visage from the Dragon Slayer reward pack by completing Dragon Slayer or from turning in Velgar's head to the Wise Old Man afterwards. One of the required materials is an anti-dragon shield and one is included in the reward pack. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect causes a cloud of poison to appear after a parry that only affects enemies. The damage per tick is based on the power level of the shield, dealing 4 damage per tick at power level 4, 5 at power level 5, and 6 at power level 6 and 7. This damage ticks 15 times, once per second, and the effect has an internal cooldown of 20 seconds. This damage does not interrupt a stagger caused by a parry. Despite not being listed, this shield also has Dragon Breath Resistance, the special effect of the anti-dragon shield, which provides the ability to block dragon fire.\n\nVenomous Trapper (the upgrade for Snare) is available at any time—once unlocked—for a few runes, and can also hold enemies in place, with only a 60 second cooldown. It applies the highest 6 damage per tick poison damage that the power level 6 and 7 shield do, and they do not stack. Neither stack with poisoned arrows or with weapon poison applied to a melee weapon, so this shield is in competition with a variety of other, more readily available sources of poison. It is, however, free, with the shorter cooldown when compared to Snare, and most notably does not interfere with staggers caused by parries, allowing the player to either riposte that target, deal with other targets, or make space.\n\n(Journal)\nStrange magics have transformed the head of a tyrant into a mystical adornment to this powerful shield. It is still strong, still durable and resists the fury of dragons, but now the shield seethes with Velgar's wrath.The magic of the shield is twisted into a bitter poison. One that yearns to strike and rage against any in its path. In battle, it's possible to turn this poison on one's enemies, afflicting them with a dragon's hate.Sometimes, in the dark, when the night is silent, it's as if the shield whispers angry curses into the darkness. As if the last vestiges of Velgar's fury are carried on the wind as hateful poison.\n\n(Trivia)\n* While the shield shares the same method of creation as a Dragonfire shield, this shield only has one similarity to the dragonfire shield, that being the ability to use the energy it has stored against a target, according to the lore journal.\n** The shield's ability of inflicting Poison on an enemy is similar to the Serpentine helm.\n* The design of the shield closely resembles that of the Ancient wyvern shield and the Dragonfire ward."
+          "description": "The dragonblight shield is a power level 4 masterwork shield that can be crafted at a blacksmith's bench after obtaining a noxious draconic visage from the Dragon Slayer reward pack by completing Dragon Slayer or from turning in Velgar's head to the Wise Old Man afterwards. One of the required materials is an anti-dragon shield and one is included in the reward pack. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect causes a cloud of poison to appear after a parry that only affects enemies. The damage per tick is based on the power level of the shield, dealing 4 damage per tick at power level 4, 5 at power level 5, and 6 at power level 6 and 7. This damage ticks 15 times, once per second, and the effect has an internal cooldown of 20 seconds. This damage does not interrupt a stagger caused by a parry. Despite not being listed, this shield also has Dragon Breath Resistance, the special effect of the anti-dragon shield, which provides the ability to block dragon fire.\n\nVenomous Trapper (the upgrade for Snare) is available at any time - once unlocked - for a few runes, and can also hold enemies in place, with only a 60 second cooldown. It applies the highest 6 damage per tick poison damage that the power level 6 and 7 shield do, and they do not stack. Neither stack with poisoned arrows or with weapon poison applied to a melee weapon, so this shield is in competition with a variety of other, more readily available sources of poison. It is, however, free, with the shorter cooldown when compared to Snare, and most notably does not interfere with staggers caused by parries, allowing the player to either riposte that target, deal with other targets, or make space.\n\n(Journal)\nStrange magics have transformed the head of a tyrant into a mystical adornment to this powerful shield. It is still strong, still durable and resists the fury of dragons, but now the shield seethes with Velgar's wrath.The magic of the shield is twisted into a bitter poison. One that yearns to strike and rage against any in its path. In battle, it's possible to turn this poison on one's enemies, afflicting them with a dragon's hate.Sometimes, in the dark, when the night is silent, it's as if the shield whispers angry curses into the darkness. As if the last vestiges of Velgar's fury are carried on the wind as hateful poison.\n\n(Trivia)\n* While the shield shares the same method of creation as a Dragonfire shield, this shield only has one similarity to the dragonfire shield, that being the ability to use the energy it has stored against a target, according to the lore journal.\n** The shield's ability of inflicting Poison on an enemy is similar to the Serpentine helm.\n* The design of the shield closely resembles that of the Ancient wyvern shield and the Dragonfire ward."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -21970,7 +21970,7 @@ window.WILDS_STORAGE = [
               "value": "Facility: Armour Bench; Skill: Artisan (XP: 100); Materials: 4x Steel Bar, 8x Undead Bone, 2x Draconic Leather, 1x Sacred Oil, 2x Vault Shard; Output: 1x Fallen Hoplite's Helm"
             }
           ],
-          "description": "Fallen Hoplite's Helm is a power level 5 melee armour that can be crafted at an armour bench.\n\nThe recipe is a reward from Vekchenven Kara, a dragonkin vault. It can be obtained by interacting with a dragonkin effigy within the vault. The Effigy can be found up a path revealed (while soulrifted) above the spectral door in the room you jump down into after the fight with the rotsworn necromancer.\n\n(Journal)\nThose joining the Fellhollow military who were not from the more noble bloodlines would go into the force known as hoplites. This force of warrior farmers named themselves after the hoplites of Hallow, legendary forces spoken of in some of the Saradominist text.They were disciplined in a way that earned them great respect. Each of them acted as the shield for the person next to them and a spear for the enemy in front. They wore armour inspired by the style of Hallow, with plateskirts rather than sturdy greaves, allowing for more freedom of movement — a trait they took great advantage of."
+          "description": "Fallen Hoplite's Helm is a power level 5 melee armour that can be crafted at an armour bench.\n\nThe recipe is a reward from Vekchenven Kara, a dragonkin vault. It can be obtained by interacting with a dragonkin effigy within the vault. The Effigy can be found up a path revealed (while soulrifted) above the spectral door in the room you jump down into after the fight with the rotsworn necromancer.\n\n(Journal)\nThose joining the Fellhollow military who were not from the more noble bloodlines would go into the force known as hoplites. This force of warrior farmers named themselves after the hoplites of Hallow, legendary forces spoken of in some of the Saradominist text.They were disciplined in a way that earned them great respect. Each of them acted as the shield for the person next to them and a spear for the enemy in front. They wore armour inspired by the style of Hallow, with plateskirts rather than sturdy greaves, allowing for more freedom of movement - a trait they took great advantage of."
         },
         "stations": [
           "Armour Bench"
@@ -24489,7 +24489,7 @@ window.WILDS_STORAGE = [
               "value": "Paladin's Helm"
             }
           ],
-          "description": "The Paladin's helm is a power level 4 helmet that can be created at an armour bench. The recipe is obtained from Takla Kara, a dragonkin vault.\n\n(Journal)\nThe knights of Saradomin had many names over the years. White Knights. Temple Knights. In Ashenfall, they were called Paladins. Brave and faithful, members of noble families who took up the sword.\n\nThey were the second, third and fourth children of Brynmoor's “nobility” — a title given to those families that were most loyal to the priesthood, and the most obedient were raised the highest.\n\nThis helm was a symbol of pride among the respectable families of Brynmoor. A sign for all of Brynmoor to see that the bearer had been chosen to stand as the guardian of Saradominist faith. It earned the wearer favour. It earned status. It earned the ire of those who followed a different faith."
+          "description": "The Paladin's helm is a power level 4 helmet that can be created at an armour bench. The recipe is obtained from Takla Kara, a dragonkin vault.\n\n(Journal)\nThe knights of Saradomin had many names over the years. White Knights. Temple Knights. In Ashenfall, they were called Paladins. Brave and faithful, members of noble families who took up the sword.\n\nThey were the second, third and fourth children of Brynmoor's “nobility” - a title given to those families that were most loyal to the priesthood, and the most obedient were raised the highest.\n\nThis helm was a symbol of pride among the respectable families of Brynmoor. A sign for all of Brynmoor to see that the bearer had been chosen to stand as the guardian of Saradominist faith. It earned the wearer favour. It earned status. It earned the ire of those who followed a different faith."
         },
         "stations": [
           "Armour Bench"
@@ -25907,7 +25907,7 @@ window.WILDS_STORAGE = [
               "value": "Reinforced Legs"
             }
           ],
-          "description": "Reinforced legs are a power level 2 armour piece that can be crafted at a crafting table.\n\n(Journal)\nReinforced leather, designed to withstand powerful attacks. Layers of stiffened leather folded together to strengthen one another, turning singular sheets into a powerful defensive force.\n\nWhen Amalgamated rose through the ranks of the guard — a tricky feat given the prejudice against them — it did not instill the populace with a sense of comfort. The villagers would see the marks of the elemental corruption on the guards and would turn and walk the other way. They would refuse to report a crime if they saw leaves instead of hair.\nAmalgamated guards would rarely be granted equipment of greater quality than reinforced leather — no matter what the mission they were assigned. It was seen as a waste, considering the uncooperative nature of many villagers, making it hard for an Amalgamated guard to do their duty.\n\nIt is, perhaps, no wonder that few Amalgamated guards chose to remain in the service for long."
+          "description": "Reinforced legs are a power level 2 armour piece that can be crafted at a crafting table.\n\n(Journal)\nReinforced leather, designed to withstand powerful attacks. Layers of stiffened leather folded together to strengthen one another, turning singular sheets into a powerful defensive force.\n\nWhen Amalgamated rose through the ranks of the guard - a tricky feat given the prejudice against them - it did not instill the populace with a sense of comfort. The villagers would see the marks of the elemental corruption on the guards and would turn and walk the other way. They would refuse to report a crime if they saw leaves instead of hair.\nAmalgamated guards would rarely be granted equipment of greater quality than reinforced leather - no matter what the mission they were assigned. It was seen as a waste, considering the uncooperative nature of many villagers, making it hard for an Amalgamated guard to do their duty.\n\nIt is, perhaps, no wonder that few Amalgamated guards chose to remain in the service for long."
         },
         "stations": [
           "Crafting Table"
@@ -29829,7 +29829,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Foreman's Feast — REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
+              "value": "Foreman's Feast - REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
             },
             {
               "label": "Recipe (Stone Range)",
@@ -29895,7 +29895,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Meaty Meal — REDUCES HUNGER drain by 25%"
+              "value": "Meaty Meal - REDUCES HUNGER drain by 25%"
             },
             {
               "label": "Recipe (Stone Range)",
@@ -29961,7 +29961,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Knowledgable Nourishment — Grants a 10% XP BOOST"
+              "value": "Knowledgable Nourishment - Grants a 10% XP BOOST"
             },
             {
               "label": "Recipe (Stone Range)",
@@ -30027,11 +30027,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Meaty Meal — REDUCES HUNGER drain by 25%"
+              "value": "Meaty Meal - REDUCES HUNGER drain by 25%"
             },
             {
               "label": "Perk 2",
-              "value": "Coagulated — Grants RESISTANCE to BLEED effects"
+              "value": "Coagulated - Grants RESISTANCE to BLEED effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -30093,11 +30093,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Foreman's Feast — REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
+              "value": "Foreman's Feast - REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
             },
             {
               "label": "Perk 2",
-              "value": "Fungal Fortitude — Grants RESISTANCE to POISON effects"
+              "value": "Fungal Fortitude - Grants RESISTANCE to POISON effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -30159,11 +30159,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Knowledgable Nourishment — Grants a 10% XP BOOST"
+              "value": "Knowledgable Nourishment - Grants a 10% XP BOOST"
             },
             {
               "label": "Perk 2",
-              "value": "Grounded — REDUCES the amount of SHOCK damage taken"
+              "value": "Grounded - REDUCES the amount of SHOCK damage taken"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -30283,7 +30283,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Frosted Flavours — Grants RESISTANCE to SCORCH buildup"
+              "value": "Frosted Flavours - Grants RESISTANCE to SCORCH buildup"
             },
             {
               "label": "Recipe (Campfire)",
@@ -31289,19 +31289,19 @@ window.WILDS_STORAGE = [
               "value": "10"
             },
             {
-              "label": "Recipe (Campfire — Raw egg)",
+              "label": "Recipe (Campfire - Raw egg)",
               "value": "1 × Egg → 1 × Burnt Egg (Cooking 10 XP)"
             },
             {
-              "label": "Recipe (Grill — Raw egg)",
+              "label": "Recipe (Grill - Raw egg)",
               "value": "1 × Egg → 1 × Burnt Egg (Cooking 10 XP)"
             },
             {
-              "label": "Recipe (Campfire — Fried egg)",
+              "label": "Recipe (Campfire - Fried egg)",
               "value": "1 × Fried Egg → 1 × Burnt Egg (Cooking 10 XP)"
             },
             {
-              "label": "Recipe (Grill — Fried egg)",
+              "label": "Recipe (Grill - Fried egg)",
               "value": "1 × Fried Egg → 1 × Burnt Egg (Cooking 10 XP)"
             }
           ],
@@ -31741,19 +31741,19 @@ window.WILDS_STORAGE = [
               "value": "15"
             },
             {
-              "label": "Recipe (Campfire — Maple sap)",
+              "label": "Recipe (Campfire - Maple sap)",
               "value": "1 × Maple Sap → 1 × Burnt Maple Syrup (Cooking 10 XP)"
             },
             {
-              "label": "Recipe (Grill — Maple sap)",
+              "label": "Recipe (Grill - Maple sap)",
               "value": "1 × Maple Sap → 1 × Burnt Maple Syrup (Cooking 10 XP)"
             },
             {
-              "label": "Recipe (Campfire — Maple syrup)",
+              "label": "Recipe (Campfire - Maple syrup)",
               "value": "1 × Maple Syrup → 1 × Burnt Maple Syrup (Cooking 10 XP)"
             },
             {
-              "label": "Recipe (Grill — Maple syrup)",
+              "label": "Recipe (Grill - Maple syrup)",
               "value": "1 × Maple Syrup → 1 × Burnt Maple Syrup (Cooking 10 XP)"
             }
           ],
@@ -32834,11 +32834,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Ravenous — THIRST and HUNGER drain 20% FASTER"
+              "value": "Ravenous - THIRST and HUNGER drain 20% FASTER"
             },
             {
               "label": "Perk 2",
-              "value": "Steadfast Stomach — Grants RESISTENCE[sic] to WITHER effects"
+              "value": "Steadfast Stomach - Grants RESISTENCE[sic] to WITHER effects"
             },
             {
               "label": "Recipe (Campfire)",
@@ -33020,7 +33020,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Legs — Makes you immune to the slowing effects of water."
+              "value": "Sea Legs - Makes you immune to the slowing effects of water."
             },
             {
               "label": "Recipe (Campfire)",
@@ -33235,11 +33235,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Ravenous — THIRST and HUNGER drain 20% FASTER"
+              "value": "Ravenous - THIRST and HUNGER drain 20% FASTER"
             },
             {
               "label": "Perk 2",
-              "value": "Steadfast Stomach — Grants RESISTANCE to WITHER effects"
+              "value": "Steadfast Stomach - Grants RESISTANCE to WITHER effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -33400,11 +33400,11 @@ window.WILDS_STORAGE = [
               "value": "Yum... smells fruity."
             },
             {
-              "label": "Recipe (Cooking Pot — Potato)",
+              "label": "Recipe (Cooking Pot - Potato)",
               "value": "2 × Dwellberries + 2 × Potato → 1 × Dwellberry Crunchies (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Cabbage)",
+              "label": "Recipe (Cooking Pot - Cabbage)",
               "value": "2 × Dwellberries + 2 × Cabbage → 1 × Dwellberry Crunchies (Cooking 15 XP)"
             }
           ],
@@ -33512,19 +33512,19 @@ window.WILDS_STORAGE = [
               "value": "A juicy piece of roasted meat with a deliciously fruity dwellberry glazing. Scrumptious!"
             },
             {
-              "label": "Recipe (Cooking Pot — Raw rat meat)",
+              "label": "Recipe (Cooking Pot - Raw rat meat)",
               "value": "2 × Dwellberries + 2 × Raw Rat Meat → 1 × Dwellberry Glazed Roast Meat (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Raw bird meat)",
+              "label": "Recipe (Cooking Pot - Raw bird meat)",
               "value": "2 × Dwellberries + 2 × Raw Bird Meat → 1 × Dwellberry Glazed Roast Meat (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Raw farm meat)",
+              "label": "Recipe (Cooking Pot - Raw farm meat)",
               "value": "2 × Dwellberries + 2 × Raw Farm Meat → 1 × Dwellberry Glazed Roast Meat (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Raw game meat)",
+              "label": "Recipe (Cooking Pot - Raw game meat)",
               "value": "2 × Dwellberries + 2 × Raw Game Meat → 1 × Dwellberry Glazed Roast Meat (Cooking 15 XP)"
             }
           ],
@@ -33583,7 +33583,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Recipe (Stone Range)",
@@ -33765,7 +33765,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Coagulated — Grants RESISTANCE to BLEED effects"
+              "value": "Coagulated - Grants RESISTANCE to BLEED effects"
             },
             {
               "label": "Recipe (Campfire)",
@@ -33831,11 +33831,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Knowledgable Nourishment — Grants a 10% XP BOOST"
+              "value": "Knowledgable Nourishment - Grants a 10% XP BOOST"
             },
             {
               "label": "Perk 2",
-              "value": "Fungal Fortitude — Grants RESISTANCE to POISON effects"
+              "value": "Fungal Fortitude - Grants RESISTANCE to POISON effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -33892,11 +33892,11 @@ window.WILDS_STORAGE = [
               "value": "PERK - FUNGAL FORTITUDE (300 SEC)\nGrants RESISTENCE to POISON effects\nIt actually smells quite good."
             },
             {
-              "label": "Recipe (Cooking Pot — Dwellberries)",
+              "label": "Recipe (Cooking Pot - Dwellberries)",
               "value": "2 × Dwellberries + 2 × Bittercap Mushroom → 1 × Fortifying Crunchies (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Redberries)",
+              "label": "Recipe (Cooking Pot - Redberries)",
               "value": "2 × Redberries + 2 × Bittercap Mushroom → 1 × Fortifying Crunchies (Cooking 15 XP)"
             }
           ],
@@ -33950,15 +33950,15 @@ window.WILDS_STORAGE = [
               "value": "PERK - FUNGAL FORTITUDE (300 SEC)\n\nA warm vegetable soup, with added mushrooms.\n\nGrants RESISTENCE[sic] to POISON effects"
             },
             {
-              "label": "Recipe (Cooking Pot — Cabbage)",
+              "label": "Recipe (Cooking Pot - Cabbage)",
               "value": "2 × Bittercap Mushroom + 2 × Cabbage → 1 × Fortifying Soup (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Potato)",
+              "label": "Recipe (Cooking Pot - Potato)",
               "value": "2 × Bittercap Mushroom + 2 × Potato → 1 × Fortifying Soup (Cooking 15 XP)"
             }
           ],
-          "description": "Fortifying soup is a consumable food item that provides moderate sustenance and 5 lifeward when eaten. It also provides the player with the Fungal Fortitude perk, which grants resistance to Poison buildup by 33% for 300 seconds. There is also a 5% chance to produce a rat roast whilst making fortifying soup.\n\n(Journal)\nIt is said that Guthix created the first fortifying soup, as a gift for his chief druids. While the first few attempts resulted in terrible food poisoning — Guthix was a god, not a chef — the perfected recipe soon became a favourite once he mixed in mushrooms. This was because the mushrooms absorbed much of the toxins, making it much more palatable."
+          "description": "Fortifying soup is a consumable food item that provides moderate sustenance and 5 lifeward when eaten. It also provides the player with the Fungal Fortitude perk, which grants resistance to Poison buildup by 33% for 300 seconds. There is also a 5% chance to produce a rat roast whilst making fortifying soup.\n\n(Journal)\nIt is said that Guthix created the first fortifying soup, as a gift for his chief druids. While the first few attempts resulted in terrible food poisoning - Guthix was a god, not a chef - the perfected recipe soon became a favourite once he mixed in mushrooms. This was because the mushrooms absorbed much of the toxins, making it much more palatable."
         },
         "step": 3
       },
@@ -34179,7 +34179,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Grounded — REDUCES the amount of SHOCK damage taken"
+              "value": "Grounded - REDUCES the amount of SHOCK damage taken"
             },
             {
               "label": "Recipe (Campfire)",
@@ -34245,7 +34245,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Recipe (Campfire)",
@@ -34311,7 +34311,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Recipe (Campfire)",
@@ -34431,15 +34431,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Knowledgable Nourishment — Grants a 10% XP BOOST"
+              "value": "Knowledgable Nourishment - Grants a 10% XP BOOST"
             },
             {
               "label": "Perk 2",
-              "value": "Foreman's Feast — REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
+              "value": "Foreman's Feast - REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
             },
             {
               "label": "Perk 3",
-              "value": "Soul Food — Restores HEALTH over time"
+              "value": "Soul Food - Restores HEALTH over time"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -34501,7 +34501,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Fungal Fortitude — Grants RESISTANCE to POISON effects"
+              "value": "Fungal Fortitude - Grants RESISTANCE to POISON effects"
             },
             {
               "label": "Recipe (Campfire)",
@@ -34687,7 +34687,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Recipe (Campfire)",
@@ -34839,11 +34839,11 @@ window.WILDS_STORAGE = [
               "value": "Yum! Smells delicious!"
             },
             {
-              "label": "Recipe (Cooking Pot — Redberries)",
+              "label": "Recipe (Cooking Pot - Redberries)",
               "value": "2 × Onion + 2 × Redberries → 1 × Hearty Crunchies (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Dwellberries)",
+              "label": "Recipe (Cooking Pot - Dwellberries)",
               "value": "2 × Onion + 2 × Dwellberries → 1 × Hearty Crunchies (Cooking 15 XP)"
             }
           ],
@@ -34951,11 +34951,11 @@ window.WILDS_STORAGE = [
               "value": "A comforting vegetable soup, reminds you of rainy days sat by the fire."
             },
             {
-              "label": "Recipe (Cooking Pot — Potato)",
+              "label": "Recipe (Cooking Pot - Potato)",
               "value": "2 × Onion + 2 × Potato → 1 × Hearty Soup (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Cabbage)",
+              "label": "Recipe (Cooking Pot - Cabbage)",
               "value": "2 × Onion + 2 × Cabbage → 1 × Hearty Soup (Cooking 15 XP)"
             }
           ],
@@ -35009,31 +35009,31 @@ window.WILDS_STORAGE = [
               "value": "A nice hot stew. A taste of home."
             },
             {
-              "label": "Recipe (Cooking Pot — Onion and raw bird meat)",
+              "label": "Recipe (Cooking Pot - Onion and raw bird meat)",
               "value": "2 × Onion + 2 × Raw Bird Meat → 1 × Hearty Stew (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Onion and raw rat meat)",
+              "label": "Recipe (Cooking Pot - Onion and raw rat meat)",
               "value": "2 × Onion + 2 × Raw Rat Meat → 1 × Hearty Stew (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Onion and raw farm meat)",
+              "label": "Recipe (Cooking Pot - Onion and raw farm meat)",
               "value": "2 × Onion + 2 × Raw Farm Meat → 1 × Hearty Stew (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Onion and raw game meat)",
+              "label": "Recipe (Cooking Pot - Onion and raw game meat)",
               "value": "2 × Onion + 2 × Raw Game Meat → 1 × Hearty Stew (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Cabbage and raw bestial meat)",
+              "label": "Recipe (Cooking Pot - Cabbage and raw bestial meat)",
               "value": "2 × Cabbage + 2 × Raw Bestial Meat → 1 × Hearty Stew (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Potato and raw bestial meat)",
+              "label": "Recipe (Cooking Pot - Potato and raw bestial meat)",
               "value": "2 × Potato + 2 × Raw Bestial Meat → 1 × Hearty Stew (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Onion and raw bestial meat)",
+              "label": "Recipe (Cooking Pot - Onion and raw bestial meat)",
               "value": "2 × Onion + 2 × Raw Bestial Meat → 1 × Hearty Stew (Cooking 15 XP)"
             }
           ],
@@ -35154,11 +35154,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Foreman's Feast — REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
+              "value": "Foreman's Feast - REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
             },
             {
               "label": "Perk 2",
-              "value": "Coagulated — Grants RESISTANCE to BLEED effects"
+              "value": "Coagulated - Grants RESISTANCE to BLEED effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -35220,11 +35220,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Meaty Meal — REDUCES HUNGER drain by 25%"
+              "value": "Meaty Meal - REDUCES HUNGER drain by 25%"
             },
             {
               "label": "Perk 2",
-              "value": "Grounded — REDUCES the amount of SHOCK damage taken"
+              "value": "Grounded - REDUCES the amount of SHOCK damage taken"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -35344,15 +35344,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Knowledgable Nourishment — Grants a 10% XP BOOST"
+              "value": "Knowledgable Nourishment - Grants a 10% XP BOOST"
             },
             {
               "label": "Perk 2",
-              "value": "Meaty Meal — REDUCES HUNGER drain by 25%"
+              "value": "Meaty Meal - REDUCES HUNGER drain by 25%"
             },
             {
               "label": "Perk 3",
-              "value": "Foreman's Feast — REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
+              "value": "Foreman's Feast - REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -35409,19 +35409,19 @@ window.WILDS_STORAGE = [
               "value": "Why eat just one animal? A carnivore's delight!"
             },
             {
-              "label": "Recipe (Cooking Pot — Raw rat meat)",
+              "label": "Recipe (Cooking Pot - Raw rat meat)",
               "value": "2 × Raw Bestial Meat + 2 × Raw Rat Meat → 1 × Mixed Platter (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Raw bird meat)",
+              "label": "Recipe (Cooking Pot - Raw bird meat)",
               "value": "2 × Raw Bestial Meat + 2 × Raw Bird Meat → 1 × Mixed Platter (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Raw farm meat)",
+              "label": "Recipe (Cooking Pot - Raw farm meat)",
               "value": "2 × Raw Bestial Meat + 2 × Raw Farm Meat → 1 × Mixed Platter (Cooking 15 XP)"
             },
             {
-              "label": "Recipe (Cooking Pot — Raw game meat)",
+              "label": "Recipe (Cooking Pot - Raw game meat)",
               "value": "2 × Raw Bestial Meat + 2 × Raw Game Meat → 1 × Mixed Platter (Cooking 15 XP)"
             }
           ],
@@ -35480,7 +35480,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Recipe (Campfire)",
@@ -35546,11 +35546,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Perk 2",
-              "value": "Frosted Flavours — Grants RESISTANCE to SCORCH buildup"
+              "value": "Frosted Flavours - Grants RESISTANCE to SCORCH buildup"
             },
             {
               "label": "Recipe (Stone Range)",
@@ -35662,7 +35662,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Soul Food — Restores HEALTH over time"
+              "value": "Soul Food - Restores HEALTH over time"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -35724,7 +35724,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Fungal Fortitude — Grants RESISTANCE to POISON effects"
+              "value": "Fungal Fortitude - Grants RESISTANCE to POISON effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -35831,7 +35831,7 @@ window.WILDS_STORAGE = [
               "value": "Your mouth waters just looking at it."
             }
           ],
-          "description": "Raw monkfish is a power level 7 food that can be captured at net fishing spots in the Umbral Sands region. Monkfish are so-called on Ashenfall due to the goddess Elidinis. The Moon Garou, having never seen a monk, adopted the name after the goddess herself named them. \"The Moon Garou don't recognise the term 'monk'.\"... \"Which raises the question of why the Moon Garou call these fish 'monkfish' at all. Well, the answer is a little on the boring, perhaps even obvious side. The River Goddess, who many Moon Garou worship, came to Ashenfall from mainland Gielinor, where the monkfish are more prevalent. So she pointed at the fish, said its name, and Bob's your monkfish.\" (from the Monkfish Fillets journal)\n\n(Journal — Fish)\nThere are, in fact, two variants of the monkfish. One is the Piscatoris monkfish, known for its gamey taste and slightly depressed countenance. The other is the Ashenfall monkfish, which has a more trout-like flavour and a happier, almost smirking countenance. Anglers, who like to simplify things, distinguish them by calling them 'sad boy' and 'happy boy'.\n\nBoth monkfish are 'sad boys' when they're caught, of course.\n\n(Journal — Raw)\nIt may be called the 'Ashenfall' monkfish, but you'd be hard-pressed to find it anywhere other than in Umbral Sands. That's mostly down to a lack of trade. The Moon Garou are an isolationist sort, preferring to keep their trading partners to other Moon Garou. Their closest non-garou partners would be the Black Knights but they, too, like to keep to themselves, and would prefer to deal with other humans over the garou.\n\nWhich is a shame, really, as monkfish deserves to go continental. Ashenfall monkfish is like trout, but with a slight fizzing sensation, similar to popping candy. If you've got a child or garou cub who won't eat their fish, then try them on Ashenfall monkfish. In our house, it's a gateway fish, leading onto other, less gimmicky fish."
+          "description": "Raw monkfish is a power level 7 food that can be captured at net fishing spots in the Umbral Sands region. Monkfish are so-called on Ashenfall due to the goddess Elidinis. The Moon Garou, having never seen a monk, adopted the name after the goddess herself named them. \"The Moon Garou don't recognise the term 'monk'.\"... \"Which raises the question of why the Moon Garou call these fish 'monkfish' at all. Well, the answer is a little on the boring, perhaps even obvious side. The River Goddess, who many Moon Garou worship, came to Ashenfall from mainland Gielinor, where the monkfish are more prevalent. So she pointed at the fish, said its name, and Bob's your monkfish.\" (from the Monkfish Fillets journal)\n\n(Journal - Fish)\nThere are, in fact, two variants of the monkfish. One is the Piscatoris monkfish, known for its gamey taste and slightly depressed countenance. The other is the Ashenfall monkfish, which has a more trout-like flavour and a happier, almost smirking countenance. Anglers, who like to simplify things, distinguish them by calling them 'sad boy' and 'happy boy'.\n\nBoth monkfish are 'sad boys' when they're caught, of course.\n\n(Journal - Raw)\nIt may be called the 'Ashenfall' monkfish, but you'd be hard-pressed to find it anywhere other than in Umbral Sands. That's mostly down to a lack of trade. The Moon Garou are an isolationist sort, preferring to keep their trading partners to other Moon Garou. Their closest non-garou partners would be the Black Knights but they, too, like to keep to themselves, and would prefer to deal with other humans over the garou.\n\nWhich is a shame, really, as monkfish deserves to go continental. Ashenfall monkfish is like trout, but with a slight fizzing sensation, similar to popping candy. If you've got a child or garou cub who won't eat their fish, then try them on Ashenfall monkfish. In our house, it's a gateway fish, leading onto other, less gimmicky fish."
         },
         "step": 3
       },
@@ -36098,7 +36098,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Coagulated — Grants RESISTANCE to BLEED effects"
+              "value": "Coagulated - Grants RESISTANCE to BLEED effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -36160,7 +36160,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Soul Food — Restores HEALTH over time"
+              "value": "Soul Food - Restores HEALTH over time"
             },
             {
               "label": "Recipe (Campfire)",
@@ -36226,7 +36226,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Legs — Makes you immune to the slowing effects of water."
+              "value": "Sea Legs - Makes you immune to the slowing effects of water."
             },
             {
               "label": "Recipe (Campfire)",
@@ -36292,7 +36292,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Recipe (Stone Range)",
@@ -36482,7 +36482,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Legs — Makes you immune to the slowing effects of water."
+              "value": "Sea Legs - Makes you immune to the slowing effects of water."
             },
             {
               "label": "Recipe (Stone Range)",
@@ -36672,7 +36672,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Grounded — Grants RESISTANCE to Shock Effects"
+              "value": "Grounded - Grants RESISTANCE to Shock Effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -36850,15 +36850,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Coagulated — Grants RESISTANCE to BLEED effects"
+              "value": "Coagulated - Grants RESISTANCE to BLEED effects"
             },
             {
               "label": "Perk 2",
-              "value": "Grounded — REDUCES the amount of SHOCK damage taken"
+              "value": "Grounded - REDUCES the amount of SHOCK damage taken"
             },
             {
               "label": "Perk 3",
-              "value": "Fungal Fortitude — Grants RESISTANCE to POISON effects"
+              "value": "Fungal Fortitude - Grants RESISTANCE to POISON effects"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -36982,11 +36982,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Sea Legs — Makes you immune to the slowing effects of water."
+              "value": "Sea Legs - Makes you immune to the slowing effects of water."
             },
             {
               "label": "Perk 2",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -37226,11 +37226,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk 1",
-              "value": "Frosted Flavours — Grants RESISTANCE to SCORCH buildup"
+              "value": "Frosted Flavours - Grants RESISTANCE to SCORCH buildup"
             },
             {
               "label": "Perk 2",
-              "value": "Soul Food — Restore HEALTH over time"
+              "value": "Soul Food - Restore HEALTH over time"
             },
             {
               "label": "Recipe (Cooking Range)",
@@ -37292,7 +37292,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sea Life — Increases Hit Point regeneration."
+              "value": "Sea Life - Increases Hit Point regeneration."
             },
             {
               "label": "Recipe (Stone Range)",
@@ -37474,7 +37474,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Perk",
-              "value": "Sugar Rush — REDUCES REST drain by 25%"
+              "value": "Sugar Rush - REDUCES REST drain by 25%"
             },
             {
               "label": "Recipe (Stone Range)",
@@ -43954,6 +43954,57 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Tannery"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Animal Hide Scraps",
+        "img": "https://dragonwilds.runescape.wiki/images/Animal_Hide_Scraps.png?12adb",
+        "tier": "",
+        "tierRank": null,
+        "chest": "textiles",
+        "note": "Gathered from small creatures; too small on its own for leather, but enough of it works as a Leather substitute.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "Gathered from small creatures, too small to be processed into leather by itself."
+            },
+            {
+              "label": "Weight",
+              "value": "0.3"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Leather; Facility: Tannery; XP: 20; Materials: 3 × Animal Hide Scraps || Product: 1 × Relentless Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Hide Scraps 1 × Harralander || Product: 1 × Relentless Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Hide Scraps 1 × Harralander"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Giant Rat; Quantity: 1; Rarity: Always || Source: Kebbit; Quantity: 1; Rarity: 1/2 || Source: Chinchompa; Quantity: 2; Rarity: Always || Source: Putrid Rat; Quantity: 1; Rarity: Always || Source: Plague King; Quantity: 3; Rarity: Always || Source: Rat King; Quantity: 3; Rarity: Always || Source: Desert Devil Kebbit; Quantity: 2-4; Rarity: 1/2 || Source: Chest (Brynmoor); Quantity: 3-9; Rarity: 1/17.9 || Source: Chest (Fractured Plains); Quantity: 3-9; Rarity: 1/35.7 || Source: Chest (Whispering Swamp); Quantity: 3-9; Rarity: 1/15.9 || Source: Chest (Dowdun Reach); Quantity: 3-6; Rarity: 1/17 || Source: Buried Treasure (Brynmoor); Quantity: 3-6; Rarity: 20/100"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 1"
+            }
+          ],
+          "description": "Animal hide scraps are gathered from rats, kebbits, and chinchompas to create leather.\n\n(Journal)\nA collection of pelt scraps collected from smaller creatures. Some druids would insist on crafting cloaks made only from smaller animals that died of natural causes. This meant that each cloak often took months, or sometimes even years, to craft. Naturally this wasn’t particularly helpful on the cusp of winter."
+        },
+        "stations": [
+          "Tannery",
+          "Stone Range",
+          "Cooking Range"
         ],
         "step": 3
       },
@@ -52063,7 +52114,7 @@ window.WILDS_STORAGE = [
               "value": "Plant Cure x1"
             }
           ],
-          "description": "Plant cure is a potion that cures diseased plants and provides 2 Farming experience when used. It is made with 2 weeds, animal bone, and clean water in a stone range or a cooking range (unlike the other potions made in a brewing cauldron). It is learned at level 3 Farming and requires interacting with a stone range first to learn the recipe.\n\n[Journal] Fashioned from clean water, weeds and animal bones, this mixture leeches out the vitality from those ingredients and transfers it to the sick and dying plants in your care. Cooked over a range, this concoction was first thought to be the domain of druids and herblore masters, but in truth it was a cook who put the pieces together. Old mother [sic] Potterington was much beloved by the people of Bramblemead. On weekends, when people allowed themselves brief breaks from their toils, she would whip up a great batch of something delicious and simmering, and neighbouring farmers would drop by for a meal. This kindness extended not only to people, but to her garden and farming patches too. She whipped up a broth so infused with nutrients that Brassica Prime himself is said to have blessed it. When fed to plants, their withering and wilting leaves would stiffen and return to vibrancy — life and vitality theirs once again. Now you can brew such a concoction yourself, so that your plants might always life their healthiest days."
+          "description": "Plant cure is a potion that cures diseased plants and provides 2 Farming experience when used. It is made with 2 weeds, animal bone, and clean water in a stone range or a cooking range (unlike the other potions made in a brewing cauldron). It is learned at level 3 Farming and requires interacting with a stone range first to learn the recipe.\n\n[Journal] Fashioned from clean water, weeds and animal bones, this mixture leeches out the vitality from those ingredients and transfers it to the sick and dying plants in your care. Cooked over a range, this concoction was first thought to be the domain of druids and herblore masters, but in truth it was a cook who put the pieces together. Old mother [sic] Potterington was much beloved by the people of Bramblemead. On weekends, when people allowed themselves brief breaks from their toils, she would whip up a great batch of something delicious and simmering, and neighbouring farmers would drop by for a meal. This kindness extended not only to people, but to her garden and farming patches too. She whipped up a broth so infused with nutrients that Brassica Prime himself is said to have blessed it. When fed to plants, their withering and wilting leaves would stiffen and return to vibrancy - life and vitality theirs once again. Now you can brew such a concoction yourself, so that your plants might always life their healthiest days."
         },
         "step": 6
       },
@@ -52963,7 +53014,7 @@ window.WILDS_STORAGE = [
               "value": "Bronze Arrow x33"
             }
           ],
-          "description": "Bronze arrows are power level 3 ammunition that can be crafted at a fletching bench.\n\n[Journal] Bronze Arrows offer greater armour piercing than their non-metallic counterparts. Copper and tin were relatively uncommon in Brynmoor, so using the resources on arrows seemed like a waste of money. One faction of bandits delighted in this premise; their leader, a man known as the Auburn Ocelot — for reasons he would never explain — took great amusement in their use. The Auburn Ocelot would laugh as his bandits hurled expensive arrows at the villagers, pilfering coins worth far less than the ammunition used to corral them. To him, it wasn’t about the money but the look of confused terror on their faces and the knowledge that no one could stop him. He was above it all. Better than everyone. It was a rat that killed him. Not even a giant one. Just a tiny creature carrying a virulent plague. Money could not save him, no matter how much he flaunted. He was cremated and his ashes buried in the middle of nowhere so that no one might risk catching the infection that cost his life. Now, he’s almost completely forgotten."
+          "description": "Bronze arrows are power level 3 ammunition that can be crafted at a fletching bench.\n\n[Journal] Bronze Arrows offer greater armour piercing than their non-metallic counterparts. Copper and tin were relatively uncommon in Brynmoor, so using the resources on arrows seemed like a waste of money. One faction of bandits delighted in this premise; their leader, a man known as the Auburn Ocelot - for reasons he would never explain - took great amusement in their use. The Auburn Ocelot would laugh as his bandits hurled expensive arrows at the villagers, pilfering coins worth far less than the ammunition used to corral them. To him, it wasn’t about the money but the look of confused terror on their faces and the knowledge that no one could stop him. He was above it all. Better than everyone. It was a rat that killed him. Not even a giant one. Just a tiny creature carrying a virulent plague. Money could not save him, no matter how much he flaunted. He was cremated and his ashes buried in the middle of nowhere so that no one might risk catching the infection that cost his life. Now, he’s almost completely forgotten."
         },
         "step": 1
       },
@@ -55571,7 +55622,7 @@ window.WILDS_STORAGE = [
               "value": "Enchanted Blurite Bolts x33"
             }
           ],
-          "description": "Enchanted blurite bolts are an upgradeable version of blurite bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% earth magic damage.\n\n[Journal] No one is entirely sure who thought to enchant blurite crossbow bolts in Brynmoor. The earliest references talk about Ignatius Wormwood, a failed apprentice wizard with too much time on his hands. The story goes that he was challenged by one of the Knights to a duel, over some spat about a maiden or other. Evidently [sic] Ignatius may have been a failure in his robes, but worryingly successful out of them, if you get my gist. Now, the knight was a large and imposing man — referred to by his compatriots as the immovable boulder — and angry as he was, he had no intention of killing Ignatius, so he gave him a simple challenge instead. If Ignatius could knock him down, he’d win the duel, otherwise the Knight would claim victory and see Ignatius punished for his mischiefs. When Ignatius pulled the crossbow from his robes, the knight was concerned but knew that his armour and shield could stand against them. Yet, when the bolt impacted the knight’s pristine iron armour, he found himself hurled to the floor and the wind knocked out of him. Gracious in defeat [sic] the knight let Ignatius go, only for the wizard to wander into the next person he had wronged.\n\n[Trivia] - When equipped, the description mentions slowing down the target; the enchanted blurite bolts knock the target down instead."
+          "description": "Enchanted blurite bolts are an upgradeable version of blurite bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% earth magic damage.\n\n[Journal] No one is entirely sure who thought to enchant blurite crossbow bolts in Brynmoor. The earliest references talk about Ignatius Wormwood, a failed apprentice wizard with too much time on his hands. The story goes that he was challenged by one of the Knights to a duel, over some spat about a maiden or other. Evidently [sic] Ignatius may have been a failure in his robes, but worryingly successful out of them, if you get my gist. Now, the knight was a large and imposing man - referred to by his compatriots as the immovable boulder - and angry as he was, he had no intention of killing Ignatius, so he gave him a simple challenge instead. If Ignatius could knock him down, he’d win the duel, otherwise the Knight would claim victory and see Ignatius punished for his mischiefs. When Ignatius pulled the crossbow from his robes, the knight was concerned but knew that his armour and shield could stand against them. Yet, when the bolt impacted the knight’s pristine iron armour, he found himself hurled to the floor and the wind knocked out of him. Gracious in defeat [sic] the knight let Ignatius go, only for the wizard to wander into the next person he had wronged.\n\n[Trivia] - When equipped, the description mentions slowing down the target; the enchanted blurite bolts knock the target down instead."
         },
         "step": 6
       },
@@ -61730,7 +61781,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Tannery",
-    "count": 21,
+    "count": 22,
     "members": [
       "Advanced Tannery",
       "Tannery"
@@ -61808,7 +61859,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Cooking Range",
-    "count": 5,
+    "count": 6,
     "members": [
       "Cooking Range"
     ]
@@ -61828,17 +61879,17 @@ window.WILDS_STATIONS = [
     ]
   },
   {
+    "name": "Stone Range",
+    "count": 3,
+    "members": [
+      "Stone Range"
+    ]
+  },
+  {
     "name": "Fletching Table",
     "count": 2,
     "members": [
       "Fletching Table"
-    ]
-  },
-  {
-    "name": "Stone Range",
-    "count": 2,
-    "members": [
-      "Stone Range"
     ]
   }
 ];

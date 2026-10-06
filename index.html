@@ -940,11 +940,23 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     return ITEM_IMG_BY_NAME[name] || "";
   }
   // "3x Swamp Thread, 4x Vault Shard" -> [{qty:"3",name:"Swamp Thread"}, ...]
+  // Different wiki infobox fields separate multi-material lists differently:
+  // "1x Abyssal Spine, 3x Shrapnel" (comma) from one source, but "1 × Oak
+  // Logs 1 × Padded Cloth 1 × Warped Feathers" (bare spaces, no commas at
+  // all) from the "Products" field's embedded Materials sub-value. Splitting
+  // on quantity markers ("N x"/"N ×") instead of a fixed separator handles
+  // both: each marker starts a new entry, and the name runs until the next
+  // marker or the end of the string.
   function parseMaterials(value){
-    return value.split(",").map(function(s){
-      s = s.trim();
-      var m = s.match(/^(\d+)\s*[x×]\s*(.+)$/i);
-      return m ? { qty: m[1], name: m[2].trim() } : { qty: "", name: s };
+    var markerRe = /(\d+)\s*[x×]\s*/gi;
+    var marks = [];
+    var m;
+    while ((m = markerRe.exec(value))) marks.push({ qty: m[1], markerStart: m.index, nameStart: markerRe.lastIndex });
+    if (!marks.length) return value.trim() ? [{ qty: "", name: value.trim() }] : [];
+    return marks.map(function(mk, i){
+      var end = (i + 1 < marks.length) ? marks[i + 1].markerStart : value.length;
+      var name = value.slice(mk.nameStart, end).replace(/[,;]+\s*$/, "").trim();
+      return { qty: mk.qty, name: name };
     }).filter(function(m){ return m.name; });
   }
   function materialChip(m){
@@ -977,6 +989,38 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       return '<div class="wide">'+out+'</div>';
     }).join("");
   }
+  // Some materials (mostly the textile/leather research pass) describe their
+  // recipe as a flattened wiki table instead of the "Products" semicolon
+  // format above: "Facility | Loom || Skill | Experience || Artisan | 40 ||
+  // Material | Quantity || Desert Thread | 3 || Cactus Fibres | 3 || Output |
+  // Quantity || Desert Cloth | 1" - pipe-separated key/value cells, "||"
+  // separated rows, with header cells ("Material | Quantity") marking the
+  // start of a run of data rows that follow until the next header. No colons
+  // at all, which is how we tell it apart from the "Products" field.
+  function isPipeTableRecipe(value){
+    return value.indexOf("|") !== -1 && !/:\s/.test(value);
+  }
+  function renderRecipeTableField(value, label){
+    var materials = [], outputs = [], skillLine = "", mode = null;
+    value.split("||").forEach(function(seg){
+      var parts = seg.split("|").map(function(p){ return p.trim(); });
+      if (parts.length < 2) return;
+      var key = parts[0], val = parts[1];
+      if (/^facility$/i.test(key)) { mode = null; return; }
+      if (/^skill$/i.test(key) && /^experience$/i.test(val)) { mode = "skill"; return; }
+      if (/^material$/i.test(key) && /^quantity$/i.test(val)) { mode = "material"; return; }
+      if (/^output$/i.test(key) && /^quantity$/i.test(val)) { mode = "output"; return; }
+      if (mode === "skill") { skillLine = key + " " + val + " XP"; return; }
+      if (mode === "material") { materials.push({ qty: val, name: key }); return; }
+      if (mode === "output") { outputs.push({ qty: val, name: key }); return; }
+    });
+    var variant = label.match(/\(([^)]+)\)/);
+    var out = variant ? '<div><span class="fk">'+esc(variant[1])+'</span></div>' : "";
+    if (outputs.length) out += '<span class="fk">Makes</span><span class="fv"> '+esc(outputs.map(function(o){ return o.qty+"× "+o.name; }).join(", "))+'</span>';
+    if (materials.length) out += '<div class="mat-chips">'+materials.map(materialChip).join("")+'</div>';
+    if (skillLine) out += '<div style="margin-top:.2rem"><span class="fk">XP</span><span class="fv"> '+esc(skillLine)+'</span></div>';
+    return '<div class="wide">'+out+'</div>';
+  }
   // "Source: Deer; Quantity: 1; Rarity: Always || Source: Cow; ..." -> one
   // clean line per source instead of a semicolon-and-pipe wall of text.
   function renderSourcesField(value){
@@ -1006,7 +1050,25 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       var inner = (it.stations && it.stations.length)
         ? '<div class="wide"><span class="fk">Made at</span><span class="fv"> '+esc(it.stations.join(", "))+'</span></div>' : "";
       inner += recipeRows.map(function(r){
-        if (/product/i.test(r.label)) return renderProductsField(r.value);
+        if (/product/i.test(r.label)){
+          // Raw materials like Gold Bar or Dragonstone feed 15-30+ unrelated
+          // recipes. Rendering every one of those as a full block turns the
+          // item's own page into a wall of noise, so past a point we show a
+          // one-line summary instead and point at crafting-station browsing.
+          var lines = r.value.split("||");
+          if (lines.length > 6){
+            var facilities = [];
+            lines.forEach(function(line){
+              var fm = line.match(/Facility:\s*([^;]+)/i);
+              if (fm){ var f = fm[1].trim(); if (f && facilities.indexOf(f) === -1) facilities.push(f); }
+            });
+            return '<div class="wide"><span class="fv">Used in '+lines.length+' different recipes'+
+              (facilities.length ? ' across '+facilities.length+' crafting stations ('+esc(facilities.join(", "))+')' : '')+
+              '. Browse by crafting station to see them all.</span></div>';
+          }
+          return renderProductsField(r.value);
+        }
+        if (isPipeTableRecipe(r.value)) return renderRecipeTableField(r.value, r.label);
         if (/material/i.test(r.label)){
           return '<div class="wide"><span class="fk">'+esc(r.label)+'</span><div class="mat-chips">'+parseMaterials(r.value).map(materialChip).join("")+'</div></div>';
         }

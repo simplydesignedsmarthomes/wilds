@@ -59194,90 +59194,150 @@ window.WILDS_STORAGE_MAX_STEP = 8;
 window.WILDS_STATIONS = [
   {
     "name": "Armour Bench",
-    "count": 90
+    "count": 90,
+    "members": [
+      "Armour Bench"
+    ]
   },
   {
     "name": "Blacksmith's Bench",
-    "count": 65
+    "count": 65,
+    "members": [
+      "Blacksmith's Bench"
+    ]
   },
   {
     "name": "Brewing Cauldron",
-    "count": 54
+    "count": 54,
+    "members": [
+      "Brewing Cauldron"
+    ]
   },
   {
     "name": "Fletching Bench",
-    "count": 33
+    "count": 33,
+    "members": [
+      "Fletching Bench"
+    ]
   },
   {
     "name": "Crafting Table",
-    "count": 28
+    "count": 28,
+    "members": [
+      "Crafting Table"
+    ]
   },
   {
     "name": "Mystic Forge",
-    "count": 25
+    "count": 25,
+    "members": [
+      "Mystic Forge"
+    ]
   },
   {
     "name": "Imbuing Barrel",
-    "count": 14
+    "count": 14,
+    "members": [
+      "Imbuing Barrel"
+    ]
   },
   {
     "name": "Build Menu",
-    "count": 11
-  },
-  {
-    "name": "Blast Furnace",
-    "count": 7
-  },
-  {
-    "name": "Grindstone",
-    "count": 7
+    "count": 11,
+    "members": [
+      "Build Menu"
+    ]
   },
   {
     "name": "Tannery",
-    "count": 7
+    "count": 9,
+    "members": [
+      "Advanced Tannery",
+      "Tannery"
+    ]
+  },
+  {
+    "name": "Blast Furnace",
+    "count": 7,
+    "members": [
+      "Blast Furnace"
+    ]
+  },
+  {
+    "name": "Grindstone",
+    "count": 7,
+    "members": [
+      "Grindstone"
+    ]
   },
   {
     "name": "Smithing Forge",
-    "count": 6
+    "count": 6,
+    "members": [
+      "Smithing Forge"
+    ]
   },
   {
     "name": "Jeweler's Bench",
-    "count": 5
+    "count": 5,
+    "members": [
+      "Jeweler's Bench"
+    ]
   },
   {
     "name": "Spinning Wheel",
-    "count": 5
+    "count": 5,
+    "members": [
+      "Spinning Wheel"
+    ]
   },
   {
     "name": "Furnace",
-    "count": 4
+    "count": 4,
+    "members": [
+      "Furnace"
+    ]
   },
   {
     "name": "Kiln",
-    "count": 3
-  },
-  {
-    "name": "Advanced Tannery",
-    "count": 2
+    "count": 3,
+    "members": [
+      "Kiln"
+    ]
   },
   {
     "name": "Fletching Table",
-    "count": 2
+    "count": 2,
+    "members": [
+      "Fletching Table"
+    ]
   },
   {
     "name": "Campfire",
-    "count": 1
+    "count": 1,
+    "members": [
+      "Campfire"
+    ]
   },
   {
     "name": "Cooking Range",
-    "count": 1
+    "count": 1,
+    "members": [
+      "Cooking Range"
+    ]
   },
   {
     "name": "Grill",
-    "count": 1
+    "count": 1,
+    "members": [
+      "Grill"
+    ]
   },
   {
     "name": "Stone Range",
-    "count": 1
+    "count": 1,
+    "members": [
+      "Stone Range"
+    ]
   }
 ];

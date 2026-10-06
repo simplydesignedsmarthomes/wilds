@@ -3,7 +3,7 @@
    (dragonwilds.runescape.wiki/w/<Quest_Name>). Requirements/rewards are
    whatever the page listed; steps are a condensed, concrete ordered list,
    not verbatim wiki prose. A `stub: true` entry means the wiki page itself
-   didn't have a full walkthrough documented yet — that's a gap in the
+   didn't have a full walkthrough documented yet - that's a gap in the
    source, not a guess filled in here. Keys must match the quest name
    strings in quests.js exactly. */
 
@@ -171,7 +171,7 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Speak to Doric northeast of Fractured Plains, south of Ashien's Watch; he asks for help recovering relics from a vault he was chased away from.",
       "Activate all four statues around Ashien's Watch to open the Skeklac Kara vault.",
       "Enter the vault; bring antipoison since putrid rats and exploding poison gas bubbles are inside, and watch for blind spots where gas pools.",
-      "At the lever, defeat the vault corruptor (hits hard and poisons, spawns putrid rats) — ranged or magic recommended.",
+      "At the lever, defeat the vault corruptor (hits hard and poisons, spawns putrid rats) - ranged or magic recommended.",
       "Interact with the final statue to get a blueprint, then return it to Doric."
     ]
   },
@@ -203,7 +203,7 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     rewards: "Recipe to bake the Victoria sponge cake",
     steps: [
       "Speak to Slopfinger in southwestern Fractured Plains, near Stormtouched Highlands; he asks for 4 eggs, 6 wheat, and 1 bucket of milk to bake a cake for Manktongue.",
-      "Get milk from the cow in the pen outside — go through the dialogue options without choosing to milk it; it gives milk willingly.",
+      "Get milk from the cow in the pen outside - go through the dialogue options without choosing to milk it; it gives milk willingly.",
       "Collect eggs by killing chickens or chopping trees for bird nests.",
       "Get wheat seeds from goblins or chests and farm the wheat.",
       "Return all ingredients to Slopfinger, then speak to him again to have him bake the cake.",
@@ -217,7 +217,7 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Speak to Manktongue in southwestern Fractured Plains; he relays a message from Ava with crafting instructions.",
       "Take an iron bar and 5 law runes to Pulpknuckle, upstairs in the same cabin, to have him craft a magnet.",
       "Find an undead chicken in Stormtouched Highlands (north of the quest area), near an iron ore node on the wall.",
-      "Get undead twigs south of the Bloodblight Swamp entrance by interacting with an undead tree (an abyssal demon roams this area — be careful).",
+      "Get undead twigs south of the Bloodblight Swamp entrance by interacting with an undead tree (an abyssal demon roams this area - be careful).",
       "Return the undead chicken, undead twigs, and magnet to Manktongue, who creates the device for you."
     ]
   },
@@ -226,12 +226,12 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     rewards: "Unlocks building decorations: Hanging Tools, Pots on a Bench, Sawhorse",
     steps: [
       "Speak to Caratacus, a blind elder garou grieving his late wife Cliodhna, in the northwestern corner of the Fractured Plains.",
-      "Build a house around him using ash logs or another building material — four walls and one 45-degree roof (about 20 ash logs minimum) is the quickest way.",
+      "Build a house around him using ash logs or another building material - four walls and one 45-degree roof (about 20 ash logs minimum) is the quickest way.",
       "Return and speak to Caratacus again to complete the quest."
     ]
   },
   "A Melody Remembered": {
-    requirements: "An inspiring ring of Runecrafting (or craft one: 1 clay mould, 2 silver bars, 2 opals, 3 vault shards) and an Amulet of Magic (or craft one: 1 clay mould, 2 gold bars, 2 silver bars, 4 sapphires, 6 vault shards) — crafted at a Jeweler's bench (or build one: 12 oak planks, 8 ground sandstone, 2 gold bars, 2 silver bars, 1 vault core)",
+    requirements: "An inspiring ring of Runecrafting (or craft one: 1 clay mould, 2 silver bars, 2 opals, 3 vault shards) and an Amulet of Magic (or craft one: 1 clay mould, 2 gold bars, 2 silver bars, 4 sapphires, 6 vault shards) - crafted at a Jeweler's bench (or build one: 12 oak planks, 8 ground sandstone, 2 gold bars, 2 silver bars, 1 vault core)",
     rewards: "Ravanna's ring (includes the recipe to craft more)",
     steps: [
       "Find the music box on a desk in a ruined building south of the Garou King's fortress.",
@@ -395,7 +395,7 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Speak to the Avisk crystal in Umbral Sands to start the quest.",
       "Talk to Vault Guardian Prime in the nearby cave; he needs 3 crystal helix remains recovered.",
       "Follow the red lights through the tunnels opposite Vault Guardian Prime's chamber to the large cavern and take the guardian remains (Helix 1) on the left-hand side.",
-      "Head to the kalphite eggs outside the cave; the Helix there is missing — look for footprints leading east.",
+      "Head to the kalphite eggs outside the cave; the Helix there is missing - look for footprints leading east.",
       "Speak to Zanik at the oasis camp east of the kalphites; she trades you the crystal helix (Helix 2) for your help.",
       "Find the ruined building with the buried guardian and use a shovel to excavate it.",
       "With 4 vault shards in your inventory, reactivate the buried guardian to get the Helix (Helix 3).",

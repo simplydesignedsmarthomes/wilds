@@ -3,7 +3,7 @@
    a badge, but the array order itself follows the skill order Jagex used
    for the Steam achievement list (Attack, Magic, Ranged, Mining,
    Woodcutting, Artisan, Construction, Cooking, Runecrafting, Farming,
-   Fishing, Agility) — the closest confirmed proxy available for "the
+   Fishing, Agility) - the closest confirmed proxy available for "the
    order it's in the game" short of a screenshot of the skills panel
    itself. */
 

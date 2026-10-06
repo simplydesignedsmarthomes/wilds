@@ -1,7 +1,7 @@
 /* Quests. Primary quests are the main line and must be done in order.
    Secondary quests unlock once their region opens up and don't have a
    required order. The wiki doesn't publish reward tables for these, so
-   there's no reward column — the tracker just checks them off. */
+   there's no reward column - the tracker just checks them off. */
 
 window.WILDS_QUESTS_PRIMARY = [
   ["First Steps", "Tutorial quest. Starts automatically with a new character."],

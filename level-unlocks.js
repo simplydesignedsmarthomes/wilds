@@ -1,7 +1,7 @@
 /* Per-skill level unlocks: the spells, passives and recipes each of the 12
    trainable skills grants as you level it, straight from each skill's own
    "Levelling" table on the wiki (dragonwilds.runescape.wiki/w/<Skill>). Every
-   entry below was read directly off that table — nothing here is guessed or
+   entry below was read directly off that table - nothing here is guessed or
    interpolated between known levels. An entry with level "All" is a
    per-level scaling passive (e.g. "-0.5% stamina drain per level") rather
    than something that unlocks once.
@@ -11,7 +11,7 @@
      row (a handful of Artisan rows). That's a gap in the wiki, not this file.
    - Resource/tool tiers (which ore a pickaxe can mine, which fish a rod can
      catch, which pickaxe/axe "power level" you have) are gated by the TOOL's
-     tier, not by a Mining/Woodcutting/Fishing skill level — the wiki is
+     tier, not by a Mining/Woodcutting/Fishing skill level - the wiki is
      explicit that it doesn't list per-fish or per-ore level gates, so those
      are intentionally not represented here as skill-level unlocks.
 

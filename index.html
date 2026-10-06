@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#15120F">
-<title>Wilds — RuneScape: Dragonwilds companion</title>
+<title>Wilds - RuneScape: Dragonwilds companion</title>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" sizes="180x180" href="icons/icon-180.png">
 <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
@@ -37,7 +37,7 @@
   --text3:#8f8597;
   --green:#5fbf4f;
   --red:#e2554f;
-  /* Dragonwilds accent trio — dragonfire ember, wild emerald, arcane mystic.
+  /* Dragonwilds accent trio - dragonfire ember, wild emerald, arcane mystic.
      With the cooler obsidian base these now carry most of the "color" in
      the UI instead of being a light garnish on brown. */
   --ember:#ff7347;
@@ -128,7 +128,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tagline{display:inline-block;font-size:10px;font-weight:700;color:var(--bg);background:var(--gold);border-radius:2px;padding:.15rem .4rem;margin-right:.4rem;vertical-align:.1em;white-space:nowrap;text-transform:uppercase;letter-spacing:.03em}
 
 /* Regions and Crafting browse as a grid of small tappable boxes, same
-   language as the Progress skill grid — tap one and it expands to full
+   language as the Progress skill grid - tap one and it expands to full
    width right where it was, pushing the rest down until it's closed. */
 .results-grid{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
 .results-grid .card{margin-bottom:0}
@@ -161,11 +161,11 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tbl td{color:var(--text2)}
 .tblwrap{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);box-shadow:var(--shadow);padding:.2rem .5rem;margin-bottom:.9rem;overflow-x:auto}
 
-/* Interface tab row, RuneScape-style — pinned so it's always reachable,
+/* Interface tab row, RuneScape-style - pinned so it's always reachable,
    with a comfortably tall touch target and extra clearance under it (not
    just the bare safe-area inset) so it doesn't sit flush against the
    phone OS's bottom edge-gesture strip. Three tabs, evenly filling the
-   width like a normal bottom nav bar — no more horizontal scrolling. */
+   width like a normal bottom nav bar - no more horizontal scrolling. */
 .tabbar{
   position:fixed;left:0;right:0;bottom:0;z-index:30;
   display:flex;min-height:var(--tb);flex-shrink:0;
@@ -259,7 +259,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tk-section h3{font-family:var(--head);font-size:17px;font-weight:700;letter-spacing:.01em;margin:0 0 .5rem;color:var(--gold)}
 
 /* Progress home: a grid of tappable summary boxes instead of one long
-   stacked page — tap a box to reveal its full list below the grid. */
+   stacked page - tap a box to reveal its full list below the grid. */
 .tk-grid{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;margin-bottom:1rem}
 .tk-box{
   display:flex;flex-direction:column;gap:.15rem;text-align:left;cursor:pointer;
@@ -299,7 +299,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .tk-skillbox-stp button{width:26px;height:26px;flex-shrink:0;border:1px solid var(--edge-dark);background:var(--panel);color:var(--gold);border-radius:var(--r);font-size:15px;font-weight:700;line-height:1;cursor:pointer;padding:0}
 .tk-skillbox-stp button:active{background:var(--gold);color:var(--bg)}
 /* the open skill's detail spans the full grid width, right where it was
-   tapped — remaining boxes flow below it until it's closed again */
+   tapped - remaining boxes flow below it until it's closed again */
 .tk-subgrid > .tk-subpanel{grid-column:1 / -1;margin-top:0}
 
 /* Items/Storage: a chest's contents as a small icon grid, images hotlinked
@@ -322,7 +322,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .item-detail h5{margin:0 0 .4rem;font-family:var(--head);font-size:15px;font-weight:700;color:var(--text)}
 .item-detail-desc{white-space:pre-wrap}
 /* Stats laid out two-up so you can scan them at a glance instead of one
-   long single-column list — the "split screen" view. */
+   long single-column list - the "split screen" view. */
 .stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:.4rem;margin-top:.3rem}
 .stat-chip{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.4rem .55rem}
 .stat-chip .fk{display:block;font-size:10px}
@@ -411,8 +411,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     videos: '<rect x="3" y="5.5" width="18" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 9.5v5l4.5-2.5z" fill="currentColor" stroke="none"/>'
   };
 
-  // One small original glyph per skill, as a visual aid next to the name —
-  // a quick shape to scan for rather than reading twelve words each time.
+  // One small original glyph per skill, as a visual aid next to the name - // a quick shape to scan for rather than reading twelve words each time.
   var SKILL_ICONS = {
     "Attack": '<path d="M6 18 16 8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M7.5 13.5 10.5 16.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="5" cy="19" r="1.1" fill="currentColor" stroke="none"/>',
     "Magic": '<path d="M12 3 13.4 10.6 21 12 13.4 13.4 12 21 10.6 13.4 3 12 10.6 10.6Z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>',
@@ -506,14 +505,13 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   function skillLevel(name){ return STATE.skills[name] || 1; }
   function setSkillLevel(name, v){ STATE.skills[name] = Math.max(1, Math.min(99, v)); saveState(); }
 
-  // UI-only state: which tracker sub-panels are expanded. Not persisted —
-  // rebuilt fresh each session, but must survive a drawTracker() re-render
+  // UI-only state: which tracker sub-panels are expanded. Not persisted - // rebuilt fresh each session, but must survive a drawTracker() re-render
   // triggered by clicking something *inside* an open panel.
   var openAreas = {};
   // Which of the Progress boxes (Skills/Quests) is currently expanded below
   // the grid, and which smaller sub-box inside that one (a skill category,
   // or a quest line) is expanded below its own sub-grid. One of each at a time.
-  // Skills or Quests is always expanded on Progress — never both collapsed.
+  // Skills or Quests is always expanded on Progress - never both collapsed.
   var openBox = "skills";
   var openSub = null;
   // Which chest category is expanded in the Items/Storage tab.
@@ -527,7 +525,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   var selectedStations = {};
 
   // ---------- view state ----------
-  // Progress is the app's home now — there's no separate landing screen to
+  // Progress is the app's home now - there's no separate landing screen to
   // navigate away from and back to.
   var view = { tab: "tracker", q: "" };
 
@@ -719,7 +717,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   }
 
   // ---------- tracker: skills ----------
-  // Flat grid, one small box per skill — no category layer in between. Tap
+  // Flat grid, one small box per skill - no category layer in between. Tap
   // a box to see that skill's description, stepper and level unlocks.
   var SKILL_DESC_OF = {};
   (window.WILDS_SKILLS || []).forEach(function(s){ SKILL_DESC_OF[s[0]] = s[2]; });
@@ -824,7 +822,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       method: "PUT", headers: {"content-type":"application/json"}, body: JSON.stringify(syncPayload())
     }).then(function(r){ return r.json(); }).then(function(r){
       if (!quiet) { syncMsg = r.ok ? "Synced." : ("Sync failed: "+(r.error||"")); drawSettings(); }
-    }).catch(function(){ if (!quiet){ syncMsg = "Sync failed — offline?"; drawSettings(); } });
+    }).catch(function(){ if (!quiet){ syncMsg = "Sync failed - offline?"; drawSettings(); } });
   }
   function syncPull(){
     if (!STATE.code) return;
@@ -832,7 +830,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       if (r.error){ syncMsg = r.error === "not found" ? "No data saved under that code yet." : ("Pull failed: "+r.error); drawSettings(); return; }
       STATE.skills = r.skills||{}; STATE.quests = r.quests||{};
       saveState(); syncMsg = "Pulled latest."; drawSettings();
-    }).catch(function(){ syncMsg = "Pull failed — offline?"; drawSettings(); });
+    }).catch(function(){ syncMsg = "Pull failed - offline?"; drawSettings(); });
   }
 
   var bkMsg = "", bkMsgCls = "";
@@ -907,7 +905,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       '</button>';
   }
   // A splash of color on the highest tiers so browsing a chest isn't just a
-  // wall of gold text — dragon/ancestral materials glow ember, arcane ones
+  // wall of gold text - dragon/ancestral materials glow ember, arcane ones
   // glow mystic, everyday bronze-to-rune stays the familiar gold.
   function tierHue(tier){
     if (!tier) return "";
@@ -926,7 +924,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       '</button>';
   }
   // Every item's image, looked up by exact name, so recipe ingredients can
-  // show their own icon too — built once, lazily, from the full item list.
+  // show their own icon too - built once, lazily, from the full item list.
   var ITEM_IMG_BY_NAME = null;
   function itemImgByName(name){
     if (!ITEM_IMG_BY_NAME){
@@ -953,7 +951,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       '</div>';
   }
   // Full wiki detail for one item, reorganized so the stuff you actually
-  // scan for — what it's made from, its stats — is up top in a compact
+  // scan for - what it's made from, its stats - is up top in a compact
   // grid, and the prose lore/description (the long part) sits at the
   // bottom instead of pushing everything else off-screen.
   // Raw materials describe their recipe differently: a combined "Products"
@@ -986,7 +984,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
         parts[seg.slice(0, i).trim().toLowerCase()] = seg.slice(i + 1).trim();
       });
       var bits = [parts.source, parts.quantity, parts.rarity].filter(Boolean);
-      return '<div class="wide"><span class="fv">'+esc(bits.join(" — "))+'</span></div>';
+      return '<div class="wide"><span class="fv">'+esc(bits.join(" - "))+'</span></div>';
     }).join("");
   }
   function itemDetailHtml(it){
@@ -1026,7 +1024,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     var descText = (d && d.description) ? d.description : it.note;
     var descHtml = descText ? '<div class="r"><div class="fk subhead">About</div><div class="fv item-detail-desc">'+esc(descText)+'</div></div>' : "";
 
-    if (!recipeHtml && !sourcesHtml && !statsHtml && !descHtml) return '<div class="note">No extra detail yet — still being researched.</div>';
+    if (!recipeHtml && !sourcesHtml && !statsHtml && !descHtml) return '<div class="note">No extra detail yet - still being researched.</div>';
     return recipeHtml + sourcesHtml + statsHtml + descHtml;
   }
   function itemGridHtml(items, scope){
@@ -1063,11 +1061,25 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       '<span class="tk-subbox-sub">items</span>'+
       '</button>';
   }
+  // A selected station name may be a merged group (e.g. "Tannery" standing
+  // in for both Tannery and Advanced Tannery) - expand to every real
+  // station tag it covers before matching against items.
+  function selectedStationMembers(selected){
+    var all = window.WILDS_STATIONS || [];
+    var members = {};
+    Object.keys(selected).forEach(function(name){
+      if (!selected[name]) return;
+      var st = all.filter(function(s){ return s.name === name; })[0];
+      (st && st.members ? st.members : [name]).forEach(function(m){ members[m] = true; });
+    });
+    return members;
+  }
   function itemsAtStations(selected){
+    var members = selectedStationMembers(selected);
     var out = [];
     (window.WILDS_STORAGE || []).forEach(function(cat){
       cat.items.forEach(function(it){
-        if (!it.stations || !it.stations.some(function(s){ return selected[s]; })) return;
+        if (!it.stations || !it.stations.some(function(s){ return members[s]; })) return;
         if (STATE.powerFilterOn && it.step > STATE.powerLevel) return;
         out.push(it);
       });
@@ -1079,7 +1091,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     var stations = window.WILDS_STATIONS || [];
     var names = Object.keys(selectedStations).filter(function(k){ return selectedStations[k]; });
     var grid = '<div class="tk-subgrid">'+stations.map(stationBox).join("")+'</div>';
-    if (!stations.length) return grid + '<div class="note">Crafting stations aren’t catalogued yet — still being researched.</div>';
+    if (!stations.length) return grid + '<div class="note">Crafting stations aren’t catalogued yet - still being researched.</div>';
     if (!names.length) return grid;
     var items = itemsAtStations(selectedStations);
     return grid + '<div class="tk-panel" style="margin-top:.8rem"><h3>Made at '+esc(names.join(" + "))+' ('+items.length+')</h3>'+
@@ -1106,7 +1118,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       (storageView === "station" ? stationBlock() : storageBlock());
   }
   // ---------- videos ----------
-  // Fallback only — used if the live /api/latest-videos fetch fails (e.g.
+  // Fallback only - used if the live /api/latest-videos fetch fails (e.g.
   // testing locally without Netlify Functions, or offline). Whenever that
   // fetch succeeds, videoState.ids is replaced with the real current list.
   var VIDEO_CHANNEL = {
@@ -1125,13 +1137,13 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   }
   function drawVideos(){
     var note = videoState.stale
-      ? "Showing a saved list — fetching the current 25 latest…"
+      ? "Showing a saved list - fetching the current 25 latest…"
       : "The 25 latest uploads from "+VIDEO_CHANNEL.name+", refreshed live.";
-    if (videoState.error) note = "Couldn’t refresh just now (" + videoState.error + ") — showing the last known list.";
+    if (videoState.error) note = "Couldn’t refresh just now (" + videoState.error + ") - showing the last known list.";
     trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2><p class="tk-head-note">'+esc(note)+'</p></div>'+
       '<div class="power-ctl"><button type="button" class="view-tab" id="videoRefreshBtn"'+(videoState.loading?' disabled':'')+'>'+(videoState.loading?"Refreshing…":"Refresh latest videos")+'</button></div>'+
       '<div class="video-embed"><iframe src="'+esc(videoEmbedSrc(videoState.ids))+'" '+
-      'title="'+esc(VIDEO_CHANNEL.name)+' — latest 25 videos" frameborder="0" '+
+      'title="'+esc(VIDEO_CHANNEL.name)+' - latest 25 videos" frameborder="0" '+
       'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '+
       'allowfullscreen loading="lazy"></iframe></div>'+
       '<a class="video-channel-link" href="'+esc(VIDEO_CHANNEL.url)+'" target="_blank" rel="noopener">Open '+esc(VIDEO_CHANNEL.name)+' on YouTube ↗</a>';

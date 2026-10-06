@@ -28806,6 +28806,52 @@ window.WILDS_STORAGE = [
         "step": 1
       },
       {
+        "name": "Jade",
+        "img": "https://dragonwilds.runescape.wiki/images/Jade.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "A gemstone mined from iron ore nodes with the Gem Prospector perk; used to craft enchanted jewellery, bows, and enchanted bolts.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "A rare gemstone used to craft enchanted jewellery."
+            },
+            {
+              "label": "Weight",
+              "value": "3.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Amulet of Defence; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Jade 6 × Vault Shard || Product: 1 × Blightwood Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Blightwood 6 × Swamp Thread 4 × Iron Bar 4 × Jade 4 × Vault Shard || Product: 1 × Blightwood Shortbow; Facility: Fletching Bench; XP: 60; Materials: 8 × Blightwood 3 × Swamp Thread 1 × Iron Bar 1 × Jade 4 × Vault Shard || Product: 1 × Blurite Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Blightwood 6 × Swamp Thread 1 × Blurite Crossbow Limbs 1 × Jade 4 × Vault Shard || Product: 1 × Dorgeshuun Crossbow; Facility: Fletching Bench; Materials: 12 × Willow Logs 6 × Swamp Thread 1 × Bone Crossbow Limbs 1 × Jade 4 × Vault Shard || Product: 1 × Draconic Staff; Facility: Mystic Forge; XP: 40; Materials: 10 × Iron Bar 6 × Granite 4 × Jade 4 × Vault Shard || Product: 33 × Enchanted Blurite Bolts; Facility: Fletching Bench; XP: 60; Materials: 33 × Blurite Bolts 1 × Jade 10 × Astral Rune 15 × Earth Rune || Product: 33 × Enchanted Iron Bolts; Facility: Fletching Bench; XP: 60; Materials: 33 × Iron Bolts 1 × Jade 10 × Astral Rune 15 × Water Rune || Product: 1 × Hunter Stagbow; Facility: Fletching Bench; XP: 40; Materials: 18 × Antler 6 × Ram Horn 4 × Swamp Thread 4 × Jade 4 × Vault Shard || Product: 1 × Inspiring Amulet of Attack; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Jade 6 × Vault Shard || Product: 1 × Inspiring Amulet of Magic; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Jade 6 × Vault Shard || Product: 1 × Inspiring Amulet of Ranged; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Jade 6 × Vault Shard || Product: 1 × Iron Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Blightwood 6 × Swamp Thread 1 × Iron Crossbow Limbs 1 × Jade 4 × Vault Shard || Product: 1 × Jade (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Jade || Product: 1 × Steel Crossbow; Facility: Fletching Bench; XP: 40; Materials: 16 × Willow Logs 6 × Fine Thread 1 × Steel Crossbow Limbs 2 × Jade 6 × Vault Shard"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Iron Ore Node; Quantity: 1; Rarity: 1/20 || Source: Reward Pack: Ghornfell Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Silver; Quantity: 1; Rarity: 1/50"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 40"
+            }
+          ],
+          "description": "Jade is a gemstone that can be obtained by mining iron ore nodes. It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining. It can be mined both manually with an appropriate pickaxe and by using the Rocksplosion spell.\n\n(Journal)\nThe greener the Jade's colour, the higher its concentration of iron. It is popular among many cultures for both its beauty and use as a crafting material.\n\nIn the eastern lands of Wushanko, Jade is highly prized. Some islands have elaborate rituals about its usage. There are rumours of rare Jades with magical properties, each a different colour of the rainbow."
+        },
+        "step": 1
+      },
+      {
         "name": "Miner Ring",
         "img": "https://dragonwilds.runescape.wiki/images/Miner_Ring.png?0b97c",
         "tier": "",
@@ -29061,6 +29107,52 @@ window.WILDS_STORAGE = [
         "step": 1
       },
       {
+        "name": "Opal",
+        "img": "https://dragonwilds.runescape.wiki/images/Opal.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "A gemstone mined from tin, copper, and stone boulders with the Gem Prospector perk; used in jewellery, bows, and enchanted bolts.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "A rare gemstone used to craft enchanted jewellery."
+            },
+            {
+              "label": "Weight",
+              "value": "3.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Amulet of Accuracy; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Opal 6 × Vault Shard || Product: 1 × Anti-Dragon Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Blightwood 4 × Wild Anima 4 × Hard Leather 4 × Opal 8 × Vault Shard 1 × Vault Core || Product: 1 × Bronze Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Oak Logs 6 × Wool Thread 1 × Bronze Crossbow Limbs 1 × Opal || Product: 1 × Crystal Bow; Facility: Fletching Bench; XP: 300; Materials: 18 × Opal 4 × Wool Thread 4 × Bronze Bar 4 × Anima-Infused Bark 8 × Vault Shard 1 × Vault Core || Product: 33 × Enchanted Bronze Bolts; Facility: Fletching Bench; XP: 60; Materials: 33 × Bronze Bolts 1 × Opal 10 × Astral Rune 15 × Air Rune || Product: 1 × Inspiring Ring of Agility; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Artisan; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Construction; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Cooking; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Farming; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Fishing; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Mining; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Runecrafting; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Woodcutting; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Oak Longbow; Facility: Fletching Bench; XP: 150; Materials: 12 × Oak Logs 6 × Wool Thread 2 × Bronze Bar 2 × Opal || Product: 1 × Oak Shortbow; Facility: Fletching Bench; XP: 40; Materials: 8 × Oak Logs 3 × Wool Thread 1 × Bronze Bar 1 × Opal || Product: 1 × Opal (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Opal || Product: 1 × Ring of Pursuit; Facility: Jeweler's Bench; XP: 100; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Unholy Symbol; Facility: Jeweler's Bench; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Opal 6 × Vault Shard"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Copper Ore Node; Quantity: 1; Rarity: 1/20 || Source: Tin Ore Node; Quantity: 1; Rarity: 1/20 || Source: Stone Boulder; Quantity: 1; Rarity: 10/100 || Source: Reward Pack: Ghornfell Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Ghornfell Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Silver; Quantity: 1; Rarity: 1/50"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 20"
+            }
+          ],
+          "description": "Opal is a gemstone that can be obtained by mining tin ore nodes, copper ore nodes, and stone boulders. It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining. It can be mined both manually with an appropriate pickaxe and by using the Rocksplosion spell.\n\n(Journal)\nA very shiny stone. Prized by magpies around the world, who are drawn to its magnificent lustre."
+        },
+        "step": 1
+      },
+      {
         "name": "Phoenix Ring",
         "img": "https://dragonwilds.runescape.wiki/images/Phoenix_Ring.png?0b97c",
         "tier": "",
@@ -29235,6 +29327,57 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Jeweler's Bench"
+        ],
+        "step": 1
+      },
+      {
+        "name": "Red Topaz",
+        "img": "https://dragonwilds.runescape.wiki/images/Red_Topaz.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "A gemstone mined from silver ore nodes with the Gem Prospector perk; used to craft enchanted jewellery and enchanted bolts.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "A rare gemstone used to craft enchanted jewellery."
+            },
+            {
+              "label": "Weight",
+              "value": "3.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Amulet of Strength; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Red Topaz 6 × Vault Shard || Product: 33 × Enchanted Steel Bolts; Facility: Fletching Bench; XP: 60; Materials: 33 × Steel Bolts 1 × Red Topaz 10 × Astral Rune 1 × Ectoplasm || Product: 1 × Ravanna's Ring; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Red Topaz 3 × Vault Shard || Product: 1 × Red Topaz (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Red Topaz"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Silver Ore Node; Quantity: 1; Rarity: 1/20 || Source: Reward Pack: Ghornfell Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Silver; Quantity: 1; Rarity: 1/50"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 60"
+            }
+          ],
+          "description": "Red topaz is a gemstone that can be obtained by mining silver ore nodes. It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining. It can be manually mined with an appropriate pickaxe or using the Rocksplosion spell.\n\n(Journal)\nThis glittering gemstone really catches the light, sparkling like a tiny little star that's dying. Count Valingard, one of Brynmoor's nobility in the Third Age, was very fond of these stones and was said to have an entire chandelier made from them. Sadly, dragon fire appears to be particularly good at melting them, so the chandelier is no longer with us."
+        },
+        "stations": [
+          "Jeweler's Bench",
+          "Fletching Bench",
+          "Build Menu"
         ],
         "step": 1
       },
@@ -29507,6 +29650,52 @@ window.WILDS_STORAGE = [
         "stations": [
           "Jeweler's Bench"
         ],
+        "step": 1
+      },
+      {
+        "name": "Sapphire",
+        "img": "https://dragonwilds.runescape.wiki/images/Sapphire.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "A gemstone mined from gold ore nodes with the Gem Prospector perk; used in jewellery, bows, and enchanted bolts.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "A rare gemstone used to craft enchanted jewellery."
+            },
+            {
+              "label": "Weight",
+              "value": "3.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Abraxus Ring; Facility: Jeweler's Bench; XP: 0; Materials: 6 × Vault Shard 1 × Clay Mould 2 × Silver Bar 2 × Sapphire 8 × Necrotic Bonemeal || Product: 1 × Amulet of Magic; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Sapphire 6 × Vault Shard || Product: 33 × Enchanted Mithril Bolts; Facility: Fletching Bench; XP: 60; Materials: 33 × Mithril Bolts 1 × Sapphire 10 × Nature Rune 15 × Air Rune || Product: 1 × Ring of Recoil; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Sapphire 3 × Vault Shard || Product: 1 × Sapphire (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Sapphire || Product: 1 × Staff of Light; Facility: Mystic Forge; XP: 100; Materials: 16 × Blightwood 8 × Wild Anima 4 × Sapphire 12 × Vault Shard 1 × Vault Core || Product: 1 × Undead Ranger's Bow; Facility: Fletching Bench; XP: 60; Materials: 16 × Undead Bone 4 × Fine Thread 2 × Steel Bar 2 × Sapphire 6 × Vault Shard || Product: 1 × Willow Longbow; Facility: Fletching Bench; XP: 60; Materials: 16 × Willow Logs 4 × Steel Bar 4 × Sapphire 6 × Vault Shard 8 × Fine Thread || Product: 1 × Willow Shortbow; Facility: Fletching Bench; XP: 60; Materials: 10 × Willow Logs 4 × Fine Thread 2 × Steel Bar 2 × Sapphire 6 × Vault Shard"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Gold Ore Node; Quantity: 1; Rarity: 1/20 || Source: Reward Pack: Ghornfell Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Dowdun Reach Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Silver; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Bronze; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Silver; Quantity: 1; Rarity: 1/50"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 80"
+            }
+          ],
+          "description": "Sapphire is a gemstone that can be obtained by mining gold ore nodes. It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining. It can be manually mined with an appropriate pickaxe or using the Rocksplosion spell.\n\n(Journal)\nYour eyes are like sapphires, sparkling in the night. Every syllable you utter creates pure delight. A day in your company is infinitely bright. Will you be my valentine tonight?\n\nA poem by a lovestruck Bramblemead youth. It was not successful.\n\nAside from their use in terrible teenage poetry, sapphires are a vital component in jewellery crafting. They can be found hidden among the metal ores around Ghornfell, or hidden in the various chests left behind by the old kingdom."
+        },
         "step": 1
       },
       {
@@ -30623,6 +30812,49 @@ window.WILDS_STORAGE = [
           ],
           "description": "Berry drizzle pan-seared is a consumable food item that provides 160 health and 65 sustenance. It is made with smoked herring, seared anchovies, and dried dwellberries in a cooking range.\n\n(Journal)\n\"Pan-seared what?\", you may ask. Well, pan-seared herring and anchovies, my good fellow. That might sound like a lot of fish in one meal, but some dwellberry acts as a sweet binding agent, making the whole eating-process rather delightful. It's a meal that's been around for generations, and you will often hear battle-worn adventurers wishing that they were back home for 'some of mammy's pan-seared'.\n\nWe suspect that the berry drizzle pan-seared that you've made is NOT from mammy, however. We may be wrong: it's very possible that there's a quest that we've forgotten."
         },
+        "step": 3
+      },
+      {
+        "name": "Bittercap Mushroom",
+        "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "A raw ingredient cooked into grilled or burnt mushrooms, also used in weak antipoison potion.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update)"
+            },
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Description",
+              "value": "A tasty mushroom. Can be used in a variety of cooking recipes."
+            },
+            {
+              "label": "Weight",
+              "value": "0.1"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Burnt Mushroom; Facility: Campfire; XP: 10; Materials: 1 × Bittercap Mushroom || Product: 1 × Burnt Mushroom; Facility: Grill; XP: 10; Materials: 1 × Bittercap Mushroom || Product: 1 × Grilled Mushrooms; Facility: Campfire; XP: 10; Materials: 1 × Bittercap Mushroom || Product: 1 × Grilled Mushrooms; Facility: Grill; XP: 10; Materials: 1 × Bittercap Mushroom || Product: 1 × Weak Antipoison Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Bittercap Mushroom 1 × Clay Vessel"
+            }
+          ],
+          "description": "Bittercap mushrooms are a power level 2 raw ingredient, which means they can be cooked at a campfire or grill into grilled mushrooms starting at Cooking Level 12, and not burnt into burnt mushroom at level 27. They can also be used to make weak antipoison potion. They can be gathered from bittercap mushroom plants in the Whispering Swamp and Dowdun Reach.\n\n(Journal)\nWhile many mushrooms are poisonous, the Bittercap Mushroom turns against the defences of its kin and is an ingredient in several poison remedies."
+        },
+        "stations": [
+          "Campfire",
+          "Grill",
+          "Brewing Cauldron"
+        ],
         "step": 3
       },
       {
@@ -32854,6 +33086,91 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Clean Water",
+        "img": "https://dragonwilds.runescape.wiki/images/Clean_Water.png?514e3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "Purified at a campfire or grill from dirty water or wither water; used as a base ingredient in many infusions.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A source of hydration, free from the taint of natural water sources."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Arcane Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Antler 1 × Harralander || Product: 1 × Arcane Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Antler 1 × Harralander || Product: 1 × Cadavaberry Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Dried Cadavaberries || Product: 1 × Dwellberry Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Dwellberries || Product: 1 × Dwellberry Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Dwellberries || Product: 1 × Evasive Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Small Animal Fang || Product: 1 × Evasive Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Small Animal Fang || Product: 1 × Ferocious Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Bone 1 × Harralander || Product: 1 × Ferocious Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Bone 1 × Harralander || Product: 1 × Fleet-Footed Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Feathers || Product: 1 × Fleet-Footed Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Feathers || Product: 1 × Maple Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Maple Syrup 1 × Irit || Product: 1 × Plant Cure; Facility: Stone Range; XP: 2; Materials: 2 × Weeds 1 × Animal Bone 1 × Clean Water || Product: 1 × Plant Cure; Facility: Cooking Range; XP: 2; Materials: 2 × Weeds 1 × Animal Bone 1 × Clean Water || Product: 1 × Pumpkin Spice Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Roast Pumpkin 1 × Irit || Product: 1 × Redberry Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Redberries || Product: 1 × Redberry Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Redberries || Product: 1 × Relentless Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Hide Scraps 1 × Harralander || Product: 1 × Relentless Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Hide Scraps 1 × Harralander || Product: 1 × Strong Sweet Tea; Facility: Cooking Range; XP: 20; Materials: 1 × Ground Tea Leaves 3 × Clean Water 1 × Maple Syrup || Product: 1 × Strong Tea; Facility: Cooking Range; XP: 20; Materials: 1 × Ground Tea Leaves 3 × Clean Water"
+            }
+          ],
+          "description": "Clean water is a consumable drink item that provides 25 hydration on drinking. It can be used to make infusions.\n\n(Journal)\nBoiling the water separates out the tainted elements in the liquid, allowing you to scrape them off and enjoy a more pleasant beverage."
+        },
+        "stations": [
+          "Stone Range",
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Dirty Water",
+        "img": "https://dragonwilds.runescape.wiki/images/Dirty_Water.png?6ba48",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "Gathered from ponds; can be purified into clean water, and is also used as a building material for sandstone structures.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A source of hydration, tainted by the residue of a cataclysmic event."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Clean Water; Facility: Campfire; XP: 1; Materials: 1 × Dirty Water || Product: 1 × Clean Water; Facility: Grill; XP: 1; Materials: 1 × Dirty Water || Product: 1 × Square Foundation; Facility: Build Menu; XP: 16; Materials: 3 × Ground Sandstone 3 × Dirty Water 2 × Yew Plank || Product: 1 × Square Tile; Facility: Build Menu; XP: 16; Materials: 5 × Ground Sandstone 5 × Dirty Water 3 × Yew Plank || Product: 1 × Triangular Foundation; Facility: Build Menu; XP: 16; Materials: 5 × Ground Sandstone 5 × Dirty Water 3 × Yew Plank || Product: 1 × Triangular Tile; Facility: Build Menu; XP: 16; Materials: 5 × Ground Sandstone 5 × Dirty Water 3 × Yew Plank || Product: 1 × Medium Square Foundation; Facility: Build Menu; XP: 10; Materials: 3 × Ground Sandstone 3 × Dirty Water 2 × Yew Plank || Product: 1 × Medium Square Tile; Facility: Build Menu; XP: 10; Materials: 3 × Ground Sandstone 3 × Dirty Water 2 × Yew Plank || Product: 1 × Medium Triangular Foundation; Facility: Build Menu; XP: 10; Materials: 2 × Sandstone 3 × Dirty Water 2 × Yew Plank || Product: 1 × Medium Triangular Tile; Facility: Build Menu; XP: 10; Materials: 3 × Ground Sandstone 3 × Dirty Water 2 × Yew Plank || Product: 1 × Small Square Tile; Facility: Build Menu; XP: 9; Materials: 2 × Ground Sandstone 2 × Dirty Water 1 × Yew Plank || Product: 1 × 30° Stairs; Facility: Build Menu; XP: 12; Materials: 4 × Yew Plank 3 × Ground Sandstone 3 × Dirty Water || Product: 1 × 45° Stairs; Facility: Build Menu; XP: 12; Materials: 4 × Yew Plank 3 × Ground Sandstone 3 × Dirty Water || Product: 1 × Inner Corner 45° Stairs; Facility: Build Menu; XP: 12; Materials: 4 × Yew Plank 3 × Ground Sandstone 3 × Dirty Water || Product: 1 × Outer Corner 45° Stairs; Facility: Build Menu; XP: 8; Materials: 4 × Yew Plank 3 × Ground Sandstone 3 × Dirty Water"
+            }
+          ],
+          "description": "Dirty water is a consumable drink item that provides 10 hydration but also 20 Soulscourge, which will cause damage over time if it builds to 100. It can be cooked (purified) at a campfire or grill into clean water at any level of Cooking, but provides only 1 XP, unlike all other ingredients. It can be collected from ponds or any accessible body of water.\n\n(Journal)\nThis water will quench your thirst a little, but it contains a faint residue of a cataclysmic event that afflicted Ashenfall. As a result, there are traces of a tainted substance in the water. Drinking it will damage the soul of anyone who is not native to the area and adapted to it."
+        },
+        "stations": [
+          "Campfire",
+          "Grill",
+          "Build Menu"
+        ],
+        "step": 3
+      },
+      {
         "name": "Dried Cadavaberries",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Dried_Cadavaberries.png/250px-Dried_Cadavaberries.png?184f4",
         "tier": "",
@@ -33529,6 +33846,52 @@ window.WILDS_STORAGE = [
             }
           ],
           "description": "Dwellberry glazed roast meat is a food item that can be created through Cooking, by combining dwellberries with any tier one meat (raw rat meat, raw bird meat, raw farm meat, or raw game meat) at a cooking pot. Eating the dish provides moderate sustenance (30) and a small amount of lifeward (5) when consumed. There is also a 5% chance to produce a rat roast whilst making dwellberry glazed roast meat.\n\n(Journal)\nDwellberries boiled down into a thick sauce and liberally trailed across the meat. You may not expect the combination to work, but upon that first mouthful, your tastebuds will squirm in delight for this delicious combination."
+        },
+        "step": 3
+      },
+      {
+        "name": "Egg",
+        "img": "https://dragonwilds.runescape.wiki/images/Egg.png?eeef7",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "A Power Level 1 raw ingredient found in bird nests or dropped by chickens and terrorbirds; cooked into fried egg or used in Victoria sponge cake.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "29 September 2025 (Update: Eye on Ashenfall - 0.9.1)"
+            },
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Description",
+              "value": "A nutritious ingredient."
+            },
+            {
+              "label": "Weight",
+              "value": "0.9"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Burnt Egg; Facility: Campfire; XP: 10; Materials: 1 × Egg || Product: 1 × Burnt Egg; Facility: Grill; XP: 10; Materials: 1 × Egg || Product: 1 × Fried Egg; Facility: Campfire; XP: 10; Materials: 1 × Egg || Product: 1 × Fried Egg; Facility: Grill; XP: 10; Materials: 1 × Egg || Product: 1 × Victoria Sponge Cake; Facility: Stone Range; XP: 20; Materials: 2 × Dried Redberries 2 × Egg 2 × Redberry Infusion 4 × Wheat || Product: 1 × Victoria Sponge Cake; Facility: Cooking Range; XP: 20; Materials: 2 × Dried Redberries 2 × Egg 2 × Redberry Infusion 4 × Wheat"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Chicken; Quantity: 1; Rarity: Always || Source: Terrorbird; Quantity: 1; Rarity: Always || Source: Bird Nest; Quantity: 1-3; Rarity: Always || Source: Vulture; Quantity: 1; Rarity: Always || Source: Aggressive Terrorbird; Quantity: 3-5; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: 12; Price bought at: N/A"
+            }
+          ],
+          "description": "Eggs are a Power Level 1 raw ingredient, which means they can be cooked at a campfire or grill into fried egg starting at Cooking level 1, and not burnt into burnt egg at level 12. They can also be used to make Victoria sponge cake. They are found in bird nests from trees, dropped by chickens in Bramblemead Valley and Dowdun Reach, and from terrorbirds in the Fractured Plains.\n\n(Journal)\nIf you prescribe to the theory of evolution, then this object wins the debate. After all, what came before the egg wasn't technically a chicken, but something similar yet different. So, the egg would have come first, to then hatch the first chicken.\n\nOf course, the real question here is whether chickens evolved, or whether they were created by the gods? No god claims to have created the first chicken, nor, indeed, the first egg, but they never deny it when asked.\n\nSo, which came first? The god or the egg?"
         },
         "step": 3
       },
@@ -35794,6 +36157,100 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Raw Bird Meat",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Bird_Meat.png?563c3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "A Power Level 1 raw ingredient dropped by chickens, terrorbirds, and vultures; cooked into fillet or used for bird perches.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Description",
+              "value": "Freshly harvested from avian creatures. A staple for cooking."
+            },
+            {
+              "label": "Weight",
+              "value": "0.5"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Bramblemead Magpie Perch; Facility: Build Menu; XP: 0; Materials: 4 × Ash Logs 2 × Ash Tree Seed 1 × Raw Bird Meat 3 × Feathers || Product: 1 × Brynmoor Falcon Perch; Facility: Build Menu; XP: 0; Materials: 4 × Oak Logs 2 × Kwuarm Seeds 1 × Raw Bird Meat 3 × Feathers || Product: 1 × Burnt Fillet; Facility: Campfire; XP: 10; Materials: 1 × Raw Bird Meat || Product: 1 × Burnt Fillet; Facility: Grill; XP: 10; Materials: 1 × Raw Bird Meat || Product: 1 × Fillet; Facility: Campfire; XP: 10; Materials: 1 × Raw Bird Meat || Product: 1 × Fillet; Facility: Grill; XP: 10; Materials: 1 × Raw Bird Meat || Product: 1 × Umbral Vulture Perch; Facility: Build Menu; XP: 0; Materials: 4 × Yew Logs 2 × Bunny Cactus Seeds 1 × Raw Bird Meat 3 × Feathers"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Chicken; Quantity: 1; Rarity: Always || Source: Terrorbird; Quantity: 2; Rarity: Always || Source: Terrorbird; Quantity: 2; Rarity: 50/100 || Source: Vulture; Quantity: 1; Rarity: Always || Source: Aggressive Terrorbird; Quantity: 3; Rarity: Always || Source: Aggressive Terrorbird; Quantity: 2-3; Rarity: 1/2"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: 12; Price bought at: N/A"
+            }
+          ],
+          "description": "Raw bird meat is a Power Level 1 raw ingredient, which means they can be cooked at a campfire or grill into fillet starting at Cooking level 1, and not burnt into burnt fillet at level 12. It is dropped by chickens in Bramblemead Valley and Dowdun Reach, and terrorbirds in the Fractured Plains.\n\n(Journal)\nThe white meat of a bird is surprisingly versatile. While delicious on its own, it can be combined with various dishes, seasoned or marinated to create surprisingly varied flavours. The meat is often softer to consume, making it an easier meal for the on-the-go hunter."
+        },
+        "stations": [
+          "Build Menu",
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Giant Krill",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Giant_Krill.png?26270",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "A raw ingredient fished up in Dowdun Reach; cooked into dried or burnt giant krill, or used as krill bait.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "21 April 2026 (Update)"
+            },
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Description",
+              "value": "A colossal crustacean. A little soggy now, so best dry it."
+            },
+            {
+              "label": "Weight",
+              "value": "2.9"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Burnt Giant Krill; Facility: Campfire; XP: 10; Materials: 1 × Raw Giant Krill || Product: 1 × Burnt Giant Krill; Facility: Grill; XP: 10; Materials: 1 × Raw Giant Krill || Product: 1 × Dried Giant Krill; Facility: Campfire; XP: 10; Materials: 1 × Raw Giant Krill || Product: 1 × Dried Giant Krill; Facility: Grill; XP: 10; Materials: 1 × Raw Giant Krill || Product: 1 × Giant Krill Bait; Facility: Crafting Table; XP: 20; Materials: 1 × Raw Giant Krill 1 × Vile Ashes"
+            }
+          ],
+          "description": "Raw giant krill is a Power Level 4 raw ingredient, which means it can be cooked at a campfire or grill into dried giant krill starting at Cooking level 41, and not burnt into burnt giant krill at level 50. It can also be used to make giant krill bait. It can be gathered from net fishing spots with at least a mystic net in Dowdun Reach.\n\n(Journal)\nKrill are tiny, harmless, little crustaceans, whose lives amount to little more than mass consumption by larger beasts. Yet, here on Ashenfall, the krill refuse to be the victim. Consuming anima they grow to unreasonable size, hoping to fight off any wood-be predators.\n\nThey are rarely successful.\n\nTo its krill kin, this creature is a beast of epic proportions. The sort of monster of legend that would tower over mountains and shatter towers with a single swipe of its enormous claws.\n\nHere, though, it's a bit like a big shrimp. Much less intimidating."
+        },
+        "stations": [
+          "Campfire",
+          "Grill",
+          "Crafting Table"
+        ],
+        "step": 3
+      },
+      {
         "name": "Raw Monkfish",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Raw_Monkfish.png/250px-Raw_Monkfish.png?3db6a",
         "tier": "",
@@ -37176,6 +37633,47 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Tea Leaves",
+        "img": "https://dragonwilds.runescape.wiki/images/Tea_Leaves.png?585db",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "Bought from merchants or found in Umbral Sands chests; processed into dried tea leaves at the kiln.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Dried Tea Leaves; Facility: Kiln; XP: 20; Materials: 1 × Tea Leaves"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Chest (Umbral Sands); Quantity: 2-3; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 2-3; Rarity: 1.46/100"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Beartach - The Merchant; Price sold at: 20; Price bought at: N/A || Seller: Domri - The Merchant; Price sold at: 20; Price bought at: N/A || Seller: Iasadair - The Merchant; Price sold at: 20; Price bought at: N/A"
+            }
+          ],
+          "description": "Tea leaves is a basic item bought from merchants for 20 garou chits or found in chests in Umbral Sands. It can be processed into dried tea leaves at the kiln.\n\n(Journal)\nTea leaves have three uses, at least at the time of writing. The top survey answer is of course 'for making tea', congratulations if you got that one. Then there's augury, using the tea leaves to divine the future. Finally, and this one's the pointless answer, if they are stuffed into someone's nostrils while they sleep, it will often induce the voiding of one's urine. It's true, go look it up. Information to hold back from your children, if you have any."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 3
+      },
+      {
         "name": "Umbral Kebab",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Umbral_Kebab.png/250px-Umbral_Kebab.png?b3c40",
         "tier": "",
@@ -37305,6 +37803,53 @@ window.WILDS_STORAGE = [
           ],
           "description": "Undead delight is a consumable food item that provides 180 health and 70 sustenance as well as the perk Sea Life, which restores 3 health every second for 1,200 seconds. It is made with grilled undead bass and grilled tomatoes in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\n'Undead Delight' sounds like an audio track from a long-forgotten Halloween event, but NO - it's an unexpectedly tasty meal. The very dead flavours of an undead bass are meshed with the very alive flavours of a tomato, and the combination is capital-D Delicious.\n\nWe will admit that it's off-putting that the un-alive also find the Undead Delight tasty. Put it in front of a skeleton, zombie, demon or other wretched being and they will gobble it up like there's no tomorrow."
         },
+        "step": 3
+      },
+      {
+        "name": "Undead Meat",
+        "img": "https://dragonwilds.runescape.wiki/images/Undead_Meat.png?38b73",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "A Power Level 4 raw ingredient dropped by zombie cows, zombie rats, and rotridden rats in Fellhollow; cooked into cauterised undead steak.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Description",
+              "value": "Obtained from undead beasts. Can be cooked for ... interesting results."
+            },
+            {
+              "label": "Weight",
+              "value": "0.5"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Burnt Undead Steak; Facility: Grill; XP: 10; Materials: 1 × Undead Meat || Product: 1 × Cauterised Undead Steak; Facility: Campfire; XP: 10; Materials: 1 × Undead Meat || Product: 1 × Cauterised Undead Steak; Facility: Grill; XP: 10; Materials: 1 × Undead Meat || Product: 1 × Infinity Zogre Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 6 × Undead Bone 6 × Undead Meat 1 × Infinity Robe Hat || Product: 1 × Rotsworn Zombie Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Undead Bone 2 × Undead Meat || Product: 1 × Zogre Hand Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 3 × Undead Bone 3 × Undead Meat || Product: 1 × Zogre Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 6 × Undead Bone 6 × Undead Meat"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Zombie Cow; Quantity: 1; Rarity: Always || Source: Rotridden Rat; Quantity: 1; Rarity: Always || Source: Zombie Rat; Quantity: 1; Rarity: Always"
+            }
+          ],
+          "description": "Undead meat is a Power Level 4 raw ingredient, which means it can be cooked at a campfire or grill into cauterised undead steak starting at Cooking level 41, and not burnt into burnt undead steak at level 50. It is dropped by zombie cows, zombie rats, and rotridden rats in Fellhollow.\n\n(Journal)\nDespite the appearance of their former owners, and the deeply unpleasant smell emanating from it, undead meat is not rotten. It, like the nature of its former owners, is preserved in a state between life and death, as if it's on the cusp of souring, but never quite getting there.\n\nThis unique nature gives it some very interesting properties, but sadly taste isn't one of them."
+        },
+        "stations": [
+          "Grill",
+          "Campfire",
+          "Build Menu"
+        ],
         "step": 3
       },
       {
@@ -37653,7 +38198,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Materials",
-              "value": "Clay Vessel x1, Marrentill x1, Bronze Leaf x1"
+              "value": "Clay Vessel x1, Marrentil x1, Bronze Leaf x1"
             },
             {
               "label": "Output",
@@ -40901,6 +41446,51 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Arcane Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Arcane_Infusion.png?935da",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A cooked drink made from clean water, antler, and harralander; grants Arcane Aligned, reducing magic attack stamina cost.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "29 September 2025 (Update: Eye on Ashenfall - 0.9.1)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "Puts the whiz in wizard."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Arcane Infusion (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Arcane Infusion 1 × Clay Decoration"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Food & Drink Salvage; Quantity: 2-3; Rarity: 4.17/100 || Source: Chest (Dowdun Reach); Quantity: 1; Rarity: 1.1/100"
+            }
+          ],
+          "description": "Arcane infusion is a consumable drink item that provides 40 hydration and grants the perk Arcane Aligned, which reduces the stamina cost of magic attacks by 33% for 300 seconds. It is made with clean water, antler, and harralander in a stone range or Cooking Range. It is learned by unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nWizards always push themselves too far. They compete academically with anything that moves, insisting on demonstrating their intellectual superior over everyone around them. Their intelligence is a glittering brooch that must be seen by everyone.\n\nNaturally, this sort of mentality causes many a wizard to burn out. Academia creates a sort of stress that could be bottled and weaponised, only to be banned by conventions around the world for its cruelty. Yet, a wizard does it to themselves, pushing and pushing beyond the limits of the human condition.\n\nInevitably they turn to external solutions, and this particular mixture has pushed many a mage past academic burnout just long enough to get by. Somehow it makes magic flow easier, spells cast stronger than before, and the wizard is capable of feats they might never have achieved before.\n\nThey also tell themselves that it lets them get by on only two hours of sleep a night. It does not and it all catches up with them in the end. Wizard burnout can be disturbingly literal."
+        },
+        "stations": [
+          "Build Menu"
+        ],
+        "step": 3
+      },
+      {
         "name": "Brewing Cauldron",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Brewing_Cauldron.png/250px-Brewing_Cauldron.png?6bf2b",
         "tier": "",
@@ -40943,6 +41533,186 @@ window.WILDS_STORAGE = [
             }
           ],
           "description": "The brewing cauldron is used to brew various potions that can boost the player's abilities, increase experience gained, grant immunities to status effects, or restore their health. It will display all known recipes in its crafting menu and will draw from nearby linked storages. It does not have any shelter restrictions and can be placed without a foundation. It is learned when picking up clay for the first time."
+        },
+        "stations": [
+          "Build Menu"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Dwellberry Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Infusion.png?654f9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A cooked drink made from clean water and dwellberries; grants Quenched, reducing thirst drain by 33%.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A refreshing, fruity drink. Good for hydration."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Dwellberry Infusion (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Dwellberry Infusion 1 × Clay Decoration"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Food & Drink Salvage; Quantity: 2-3; Rarity: 4.17/100 || Source: Chest (Dowdun Reach); Quantity: 1-2; Rarity: 1.1/100"
+            }
+          ],
+          "description": "Dwellberry infusion is a consumable drink item that provides 40 hydration and grants the perk Quenched, which reduces thirst drain by 33% for 600 seconds. It is made with clean water and dwellberries in a stone range or cooking range. However, a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nDelicious dwellberry infuses the water with a delightful flavour. It's easier and far more refreshing than normal water."
+        },
+        "stations": [
+          "Build Menu"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Evasive Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Evasive_Infusion.png?15390",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A cooked drink made from clean water and small animal fang; grants Evasion, reducing dodge stamina cost by 33%.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A thirst-quenching drink that improves your reflexes."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Evasive Infusion (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Evasive Infusion 1 × Clay Decoration"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Food & Drink Salvage; Quantity: 2-3; Rarity: 4.17/100 || Source: Chest (Dowdun Reach); Quantity: 1; Rarity: 1.1/100"
+            }
+          ],
+          "description": "Evasive infusion is a consumable drink item that provides 40 hydration and grants the perk Evasion, which reduces the stamina cost of dodging by 33% for 300 seconds. It is made with clean water and small animal fang in a stone range or a cooking range. However, a player must first interact with a stone range to learn the recipe.\n\n(Journal)\nSmaller creatures can be annoyingly good at getting out of harm's way. When boiling water infused with a small fang belonging to one of these critters, the evasive essence is pulled into the clean water, allowing the drinker to benefit from it."
+        },
+        "stations": [
+          "Build Menu"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Ferocious Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Ferocious_Infusion.png?fdf82",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A cooked drink made from clean water, animal bone, and harralander; grants Ferocious Fighter, reducing physical attack stamina cost by 33%.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A hydrating drink infused with primal fury."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Ferocious Infusion (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Ferocious Infusion 1 × Clay Decoration"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Food & Drink Salvage; Quantity: 2-3; Rarity: 4.17/100 || Source: Chest (Dowdun Reach); Quantity: 1; Rarity: 1.1/100"
+            }
+          ],
+          "description": "Ferocious infusion is a consumable drink item that provides 40 hydration and grants the perk Ferocious Fighter, which reduces the stamina cost of physical attacks by 33% for 300 seconds. It is made with clean water, animal bone, and harralander in a stone range or cooking range. It is learned by unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nBoiling away the tainted material in the water, while infusing it with an animal bone, causes the mixture to draw in some of the primal resonance of the bone. Drinking the infusion temporarily allows the drinker to feel some of that animalistic ferocity."
+        },
+        "stations": [
+          "Build Menu"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Fleet-Footed Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Fleet-Footed_Infusion.png?231fe",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A cooked drink made from clean water and feathers; grants Fleet Footed, reducing sprint stamina cost by 50%.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A thirst-quenching drink that puts a spring in your step."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Fleet-Footed Infusion (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Fleet-Footed Infusion 1 × Clay Decoration"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Food & Drink Salvage; Quantity: 2-3; Rarity: 4.17/100 || Source: Chest (Dowdun Reach); Quantity: 1; Rarity: 1.1/100"
+            }
+          ],
+          "description": "Fleet-footed infusion is a consumable drink item that provides 40 hydration and grants the perk Fleet Footed, which reduces the stamina cost of sprinting by 50% for 300 seconds. It is made with clean water and feathers in a stone range or a cooking range. However, a player must first interact with a stone range to learn the recipe.\n\n(Journal)\nThe deer of Ashenfall are quick and nimble, able to dash across entire regions at the drop of a hat. By boiling the tainted water of Ashenfall with a deer's antlers, draws some of this essence of swiftness is drawn into the clean water, granting the drinker a measure of that fleet-footed nature."
         },
         "stations": [
           "Build Menu"
@@ -40999,6 +41769,143 @@ window.WILDS_STORAGE = [
           ],
           "description": "Focused Fishing II is a perk given by drinking the Focused Fishing potion or the super Focused Fishing potion, increasing the experience gained when training the Fishing skill by 30% for 5 minutes (300 seconds) or 10 minutes (600 seconds) respectively."
         },
+        "step": 3
+      },
+      {
+        "name": "Pumpkin Spice Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Pumpkin_Spice_Infusion.png?770e9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A seasonal cooked drink made from clean water, roast pumpkin, and irit; grants Soul Food, restoring health over time.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A seasonal treat, popular with some."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Pumpkin Spice Infusion (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Pumpkin Spice Infusion 1 × Clay Decoration"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Food & Drink Salvage; Quantity: 2-3; Rarity: 4.17/100 || Source: Chest (Dowdun Reach); Quantity: 1; Rarity: 1.1/100"
+            }
+          ],
+          "description": "Pumpkin spice infusion is a consumable drink item that provides 80 hydration and grants the perk Soul Food, which restores 8 health every 5 seconds for 300 seconds. It is made with clean water, roast pumpkin, and irit in a cooking range.\n\n(Journal)\nAcross dimensional rifts, this drink calls out to a part of us we try and hide. That piece of us that wants a touch of whimsy, when the world turns darker than we feel comfortable with. As the approaching shadow of winter looms, its cold chill reaching into our souls, drinks like these offer a little warmth against the oncoming frost.\n\nStill, its allure can be overwhelming. There are some who succumb too heavily to its charms, becoming thralls to the flavour. Their entire personality clasps onto this mixture with frightening zeal.\n\nIt is tasty, but at what price?"
+        },
+        "stations": [
+          "Build Menu"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Redberry Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Redberry_Infusion.png?9a70b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A cooked drink made from clean water and redberries; grants Quenched, reducing thirst drain, and used in Victoria sponge cake.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A refreshing, fruity drink. Good for hydration."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Redberry Infusion (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Redberry Infusion 1 × Clay Decoration || Product: 1 × Victoria Sponge Cake; Facility: Stone Range; XP: 20; Materials: 2 × Dried Redberries 2 × Egg 2 × Redberry Infusion 4 × Wheat || Product: 1 × Victoria Sponge Cake; Facility: Cooking Range; XP: 20; Materials: 2 × Dried Redberries 2 × Egg 2 × Redberry Infusion 4 × Wheat"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Food & Drink Salvage; Quantity: 2-3; Rarity: 4.17/100 || Source: Chest (Dowdun Reach); Quantity: 1-3; Rarity: 1.2/100"
+            }
+          ],
+          "description": "Redberry infusion is a consumable drink item that provides 40 hydration and grants the perk Quenched, which reduces thirst drain by 33% for 300 seconds. It is made with clean water and redberries in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe. It is used in Victoria sponge cake.\n\n(Journal)\nThe juice of the berries infuses the water with a pleasant flavour. It's easier and more refreshing to drink, offering greater hydrating properties than normal water."
+        },
+        "stations": [
+          "Build Menu",
+          "Stone Range",
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Relentless Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Relentless_Infusion.png?9ac38",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A cooked drink made from clean water, animal hide scraps, and harralander; grants Relentless Ranger, reducing ranged attack stamina cost by 33%.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "29 September 2025 (Update: Eye on Ashenfall - 0.9.1)"
+            },
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Description",
+              "value": "A tasty tipple that'll put a quiver in your quiver."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Relentless Infusion (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Relentless Infusion 1 × Clay Decoration"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Food & Drink Salvage; Quantity: 2-3; Rarity: 4.17/100"
+            }
+          ],
+          "description": "Relentless infusion is a consumable drink item that provides 40 hydration and grants the perk Relentless Ranger, which reduces the stamina cost of ranged attacks by 33% for 300 seconds. It is made with clean water, animal hide scraps, and harralander in a stone range or cooking range. It is learned by unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nPopular among Wild Knight scouts, this mixture focussed the senses and improved reaction times. It was taken by hunters as they explored the dangerous forests of Ashenfall, allowing them respond to threats faster than before. Those extra moments saved countless lives.\n\nIn the village of Bramblemead there was a contingent of foolish youngsters who began drinking this mixture in large quantities, due to the energetic thrill it created. It would allow them to engage in strenuous activities for far longer without getting tired.\n\nIts popularity began to grow among older members of the population as well, though no one would be willing to explain why."
+        },
+        "stations": [
+          "Build Menu"
+        ],
         "step": 3
       },
       {
@@ -42227,6 +43134,55 @@ window.WILDS_STORAGE = [
         "step": 6
       },
       {
+        "name": "Coal",
+        "img": "https://dragonwilds.runescape.wiki/images/Coal.png?ea287",
+        "tier": "",
+        "tierRank": null,
+        "chest": "ores",
+        "note": "Mined from coal nodes; a secondary ingredient for smelting higher-tier metal bars at a blast furnace.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "Typically found in rocky areas and caves. Combine with metal ores at an upgraded smelter to create higher tiered metal bars."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Adamant Bar; Facility: Blast Furnace; XP: 40; Materials: 3 × Adamantite Ore 3 × Coal || Product: 1 × Black Metal Bar; Facility: Blast Furnace; XP: 20; Materials: 6 × Black Metal Scraps 3 × Coal || Product: 1 × Black Metal Bar; Facility: Blast Furnace; XP: 20; Materials: 9 × Black Salvage Pile 3 × Coal || Product: 1 × Mithril Bar; Facility: Blast Furnace; XP: 20; Materials: 3 × Mithril Ore 3 × Coal || Product: 1 × Mithril Bar; Facility: Blast Furnace; XP: 20; Materials: 9 × Mithril Salvage Pile 3 × Coal || Product: 1 × Steel Bar; Facility: Blast Furnace; XP: 15; Materials: 3 × Iron Ore 3 × Coal || Product: 1 × Steel Bar; Facility: Blast Furnace; XP: 10; Materials: 1 × Iron Bar 3 × Coal || Product: 1 × Steel Bar; Facility: Blast Furnace; XP: 15; Materials: 9 × Steel Salvage Pile 3 × Coal"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Zogre Pack; Quantity: 2-6; Rarity: Always || Source: Coal Node; Quantity: 2-3; Rarity: Always || Source: Doric's Smithing Supplies; Quantity: 5-7; Rarity: Always || Source: Doric's Superior Smithing Supplies; Quantity: 6-8; Rarity: Always || Source: Misc. Salvage; Quantity: 4-8; Rarity: 5.26/100 || Source: Moon Garou Pack; Quantity: 30; Rarity: Always || Source: Chest (Umbral Sands); Quantity: 4-8; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 4-8; Rarity: 1.46/100"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Beartach - The Merchant; Price sold at: 24; Price bought at: 8"
+            }
+          ],
+          "description": "Coal is a basic Mining material mined from coal nodes, which can be found all over the Fellhollow, Dowdun Reach and Umbral Sands regions. It is used as a secondary ingredient for ores smelted in a blast furnace.\n\n(Journal)\nCoal is the petrified memory of a long dead ecosystem. Plants and animals that lived countless aeons ago, crushed down into rocks of rigid carbon to become a powerful fuel that changes civilisations.\n\nWhen you burn the coal, imagine the worlds that came before and the lives forgotten. Let each piece become a funeral pyre for a long-lost age.\n\nOr enjoy shiny new steel armour, your call!"
+        },
+        "stations": [
+          "Blast Furnace"
+        ],
+        "step": 6
+      },
+      {
         "name": "Gold Bar",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Gold_Bar.png/250px-Gold_Bar.png?dfc4f",
         "tier": "",
@@ -42364,6 +43320,51 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Furnace"
+        ],
+        "step": 6
+      },
+      {
+        "name": "Luminite Ore",
+        "img": "https://dragonwilds.runescape.wiki/images/Luminite_Ore_%28Journal%29.png?60cbe",
+        "tier": "",
+        "tierRank": null,
+        "chest": "ores",
+        "note": "Mined from luminite deposits in the Scorned Wilderness; a catalysing material used alongside runite ore to smelt rune bars.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "Mined from luminite deposits. A catalysing material that can help to make rare metals."
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Rune Bar; Facility: Blast Furnace; XP: 20; Materials: 3 × Runite Ore 3 × Luminite Ore"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Luminite Deposit; Quantity: 1-2; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "This item is not sold or bought in any shops."
+            }
+          ],
+          "description": "Luminite Ore is a Mining material that can be mined from Luminite Deposits, which are found within the Scorned Wilderness.\n\n(Journal)\nYou'd struggle to find a better catalyst than luminite ore. If it was a person it would be the life of the party, the guest who dances on the table, gets everyone enjoying themselves, and then promptly passes out upstairs. It burns brightly but briefly, enabling other ores, like runite, to realise their potential."
+        },
+        "stations": [
+          "Blast Furnace"
         ],
         "step": 6
       },
@@ -42751,6 +43752,52 @@ window.WILDS_STORAGE = [
         "stations": [
           "Grindstone"
         ],
+        "step": 0
+      },
+      {
+        "name": "Granite",
+        "img": "https://dragonwilds.runescape.wiki/images/Granite.png?d4d9c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "stone",
+        "note": "Mined from granite deposits; ground at a grindstone into ground granite, and a reagent for buildings and the granite maul.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Description",
+              "value": "A dense stone used for construction and crafting. Very commonly found underground, in mines and dungeons."
+            },
+            {
+              "label": "Weight",
+              "value": "2.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Barrel of Granite; Facility: Build Menu; XP: 20; Materials: 10 × Ash Logs 50 × Granite || Product: 1 × Blast Furnace; Facility: Build Menu; XP: 12; Materials: 12 × Granite 8 × Iron Bar 4 × Draconic Leather 10 × Fire Rune 2 × Vault Core || Product: 1 × Draconic Staff; Facility: Mystic Forge; XP: 40; Materials: 10 × Iron Bar 6 × Granite 4 × Jade 4 × Vault Shard || Product: 1 × Grindstone; Facility: Build Menu; XP: 12; Materials: 18 × Stone 12 × Oak Logs 6 × Iron Bar 12 × Granite || Product: 5 × Ground Granite; Facility: Grindstone; XP: 0; Materials: 1 × Granite || Product: 1 × Imbued Granite Maul Head; Facility: Blacksmith's Bench; XP: 40; Materials: 10 × Granite 4 × Wild Anima 6 × Vault Shard || Product: 1 × Lightning Rod; Facility: Build Menu; XP: 20; Materials: 6 × Iron Bar 3 × Gold Bar 2 × Vault Core 18 × Granite || Product: 1 × Lougrim Memorial Shrine; Facility: Build Menu; XP: 20; Materials: 6 × Granite 4 × Animal Bone 2 × Clay Decoration 1 × Dragon Tooth || Product: 1 × Whetstone; Facility: Blacksmith's Bench; XP: 0; Materials: 5 × Granite 10 × Stone"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Granite Deposit; Quantity: 10-16; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Beartach - The Merchant; Price sold at: 9; Price bought at: 3"
+            }
+          ],
+          "description": "Granite is a basic Mining material that can be mined from granite deposits. Granite can be processed at a grindstone to create ground granite. Additionally, granite is a reagent for other items and buildings.\n\n(Journal)\nThis stone is stubbornly resistant to magic. Whereas other stones absorb the nascent anima, Granite refuses. It exists on its own terms, not the whims of magic. As such, it is highly prized in construction projects, as it resists most magic and those enchantments that do affect it, last much longer.\n\nLegend speaks of a weapon forged from this stone. A great hammer, said to be able to crush almost any armour."
+        },
         "step": 0
       },
       {
@@ -43284,6 +44331,51 @@ window.WILDS_STORAGE = [
           "Build Menu",
           "Grindstone",
           "Brewing Cauldron"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Stone Block",
+        "img": "https://dragonwilds.runescape.wiki/images/Stone_Block_%28Journal%29.png?5a3ed",
+        "tier": "",
+        "tierRank": null,
+        "chest": "stone",
+        "note": "Cut from stone at a stonecutter; an advanced building material used for walls, roofs, beams, and other structures.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Description",
+              "value": "Advanced building material."
+            },
+            {
+              "label": "Weight",
+              "value": "6.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Wall; Facility: Build Menu; XP: 20; Materials: 4 × Stone Block || Product: 1 × Half Wall; Facility: Build Menu; XP: 20; Materials: 4 × Stone Block || Product: 1 × Square Foundation; Facility: Build Menu; XP: 16; Materials: 4 × Stone Block 2 × Oak Plank || Product: 1 × Square Tile; Facility: Build Menu; XP: 16; Materials: 4 × Stone Block || Product: 1 × Triangular Foundation; Facility: Build Menu; XP: 16; Materials: 4 × Stone Block 2 × Oak Plank || Product: 1 × Triangular Tile; Facility: Build Menu; XP: 16; Materials: 4 × Stone Block || Product: 1 × 30 Degree Roof; Facility: Build Menu; XP: 30; Materials: 6 × Oak Plank 1 × Stone Block || Product: 1 × 45 Degree Roof; Facility: Build Menu; XP: 30; Materials: 6 × Oak Plank 1 × Stone Block || Product: 1 × 30 Degree Stairs; Facility: Build Menu; XP: 12; Materials: 2 × Stone Block || Product: 1 × 45 Degree Stairs; Facility: Build Menu; XP: 12; Materials: 2 × Stone Block || Product: 1 × Thick Pillar; Facility: Build Menu; XP: 12; Materials: 1 × Black Metal Scraps 2 × Stone Block || Product: 1 × Thin Pillar; Facility: Build Menu; XP: 12; Materials: 1 × Black Metal Scraps 2 × Stone Block || Product: 1 × Arched Window Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Black Metal Scraps || Product: 1 × Stained Glass Window Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Glass Pane || Product: 1 × Barricade; Facility: Build Menu; XP: 12; Materials: 3 × Stone Block 1 × Black Metal Scraps"
+            },
+            {
+              "label": "Item sources",
+              "value": "This item has no known drop sources."
+            }
+          ],
+          "description": "Stone blocks are Construction materials made by putting stones in a stonecutter.\n\n(Journal)\nA block of stone... there's not really much more to say here."
+        },
+        "stations": [
+          "Build Menu"
         ],
         "step": 0
       },
@@ -44009,6 +45101,55 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Blue Dragonhide",
+        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide.png?260b2",
+        "tier": "",
+        "tierRank": null,
+        "chest": "textiles",
+        "note": "A hide dropped by blue dragons; tanned at a tannery to make blue dragonhide leather.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "21 April 2026 (Update: Eye on Ashenfall - 0.11.1)"
+            },
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Description",
+              "value": "Obtained from felled Lesser Blue Dragons. Can be processed at the tannery."
+            },
+            {
+              "label": "Weight",
+              "value": "3.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 2 × Blue Dragon Leather; Facility: Tannery; XP: 40; Materials: 1 × Blue Dragonhide"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Blue Dragon; Quantity: 6-8; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 30"
+            }
+          ],
+          "description": "Blue dragon hide is a basic material dropped by blue dragons which can be tanned to create blue dragonhide leather.\n\n(Journal)\nBlacksmiths hate this one simple trick. They spend their lives mastering interlocking chains and plates, only for dragons to be born with them. A third of the blacksmith's punters are now gone, hunting for dragons rather than dropping some coin at their forges. It's enough to make a blacksmith sob into their anvil.\n\nBlue dragons hate this one simple trick too, of course. Their Venn diagram overlaps with the blacksmith's: they'd rather people got their armour from somewhere other than dragons."
+        },
+        "stations": [
+          "Tannery"
+        ],
+        "step": 3
+      },
+      {
         "name": "Cactus Fibres",
         "img": "https://dragonwilds.runescape.wiki/images/Cactus_Fibres.png?7a650",
         "tier": "",
@@ -44457,6 +45598,55 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Dragonwolf Hide",
+        "img": "https://dragonwilds.runescape.wiki/images/Dragonwolf_Hide.png?b634c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "textiles",
+        "note": "Dropped by dragon wolves; tanned at a tannery to make draconic leather.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Description",
+              "value": "Dropped from felled draconic beasts. Can be processed at the tannery."
+            },
+            {
+              "label": "Weight",
+              "value": "0.2"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Draconic Leather; Facility: Tannery; XP: 40; Materials: 1 × Dragonwolf Hide"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Dragon Wolf; Quantity: 1; Rarity: Always || Source: Doric's Smithing Supplies; Quantity: 8; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: 45; Price bought at: 15"
+            }
+          ],
+          "description": "Dragonwolf hide is a drop from dragon wolves and Doric's smithing supplies. Dragonwolf hide is used to make draconic leather at the tannery.\n\n(Journal)\nDo not pity the dragonwolf. Oh, you don't? That's fine then. Yes, horrible little blighters aren't they? Their teeth are too jagged and they're far too aggressive for my tastes. Still, it seems that deadly critters don't just want to roll over and die so you can harvest their skin, who'd have thought?\n\nThe dragonwolf is an experiment that didn't quite go right. It wasn't wrong, exactly, it was certainly a step in the direction their creator wanted, but like most Dragonkin experiments, they was never \"good enough\". Too warm-blooded. Too fluffy. Too weak.\n\nFortunately, the crafters in Emberwood were not quite so picky. They found the hide to be incredibly durable and hardy, whilst remaining surprisingly flexible. They would craft wonderous outfits from the tanned leather, trying to emulate their winged overseers."
+        },
+        "stations": [
+          "Tannery"
+        ],
+        "step": 3
+      },
+      {
         "name": "Feathers",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Feathers.png/250px-Feathers.png?563c3",
         "tier": "",
@@ -44626,6 +45816,104 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Spinning Wheel"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Garou Weave",
+        "img": "https://dragonwilds.runescape.wiki/images/Garou_Weave.png?ee407",
+        "tier": "",
+        "tierRank": null,
+        "chest": "textiles",
+        "note": "A high quality cloth bought from garou merchants or found in Umbral Sands chests; primarily used for power level 7 armour.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "A high quality material sold by local garou merchants."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Adamant Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Adamant Bar 4 × Scorch Leather 1 × Desert Cloth 1 × Refined Obsidian 1 × Gypsum Wax 1 × Garou Weave || Product: 1 × Adamant Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Adamant Bar 4 × Scorch Leather 1 × Desert Cloth 1 × Refined Obsidian 1 × Gypsum Wax 1 × Garou Weave || Product: 1 × Adamant Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Adamant Bar 8 × Scorch Leather 3 × Desert Cloth 3 × Refined Obsidian 3 × Gypsum Wax 3 × Garou Weave || Product: 1 × Adamant Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Adamant Bar 6 × Scorch Leather 2 × Desert Cloth 2 × Refined Obsidian 2 × Gypsum Wax 2 × Garou Weave || Product: 1 × Desert Hood; Facility: Armour Bench; XP: 100; Materials: 4 × Garou Weave 1 × Scorch Leather 1 × Refined Obsidian 1 × Gypsum Wax || Product: 1 × Desert Robe Legs; Facility: Armour Bench; XP: 100; Materials: 8 × Garou Weave 2 × Scorch Leather 2 × Refined Obsidian 2 × Gypsum Wax || Product: 1 × Desert Robes; Facility: Armour Bench; XP: 100; Materials: 12 × Garou Weave 3 × Scorch Leather 3 × Refined Obsidian 3 × Gypsum Wax || Product: 1 × Infinity Robe Body; Facility: Armour Bench; XP: 100; Materials: 6 × Infinity Cloth 3 × Scorch Leather 3 × Adamant Bar 3 × Refined Obsidian 3 × Gypsum Wax 6 × Garou Weave || Product: 1 × Infinity Robe Hat; Facility: Armour Bench; XP: 100; Materials: 2 × Infinity Cloth 1 × Scorch Leather 1 × Adamant Bar 1 × Refined Obsidian 1 × Gypsum Wax 2 × Garou Weave || Product: 1 × Infinity Robe Legs; Facility: Armour Bench; XP: 100; Materials: 4 × Infinity Cloth 2 × Scorch Leather 2 × Adamant Bar 2 × Refined Obsidian 2 × Gypsum Wax 4 × Garou Weave || Product: 1 × Kalphite Carapace Chest; Facility: Armour Bench; XP: 100; Materials: 15 × Kalphite Shell 8 × Scorch Leather 3 × Gypsum Wax 6 × Garou Weave || Product: 1 × Kalphite Carapace Helmet; Facility: Armour Bench; XP: 100; Materials: 6 × Kalphite Shell 2 × Scorch Leather 1 × Gypsum Wax 2 × Garou Weave || Product: 1 × Kalphite Carapace Legs; Facility: Armour Bench; XP: 100; Materials: 10 × Kalphite Shell 4 × Scorch Leather 2 × Gypsum Wax 4 × Garou Weave || Product: 1 × Lunar Garou Hat; Facility: Armour Bench; XP: 125; Materials: 3 × Garou Weave 2 × Infinity Cloth 1 × Garou Artefact 1 × Refined Obsidian 1 × Gypsum Wax || Product: 1 × Lunar Garou Robe Legs; Facility: Armour Bench; XP: 125; Materials: 6 × Garou Weave 4 × Infinity Cloth 2 × Garou Artefact 2 × Refined Obsidian 2 × Gypsum Wax || Product: 1 × Lunar Garou Robes; Facility: Armour Bench; XP: 125; Materials: 9 × Garou Weave 6 × Infinity Cloth 3 × Garou Artefact 3 × Refined Obsidian 3 × Gypsum Wax || Product: 1 × Red Dragonhide Body; Facility: Armour Bench; XP: 100; Materials: 12 × Red Dragonhide Leather 4 × Scorch Leather 4 × Adamant Bar 3 × Refined Obsidian 3 × Gypsum Wax 6 × Garou Weave || Product: 1 × Red Dragonhide Coif; Facility: Armour Bench; XP: 100; Materials: 4 × Red Dragonhide Leather 2 × Scorch Leather 1 × Adamant Bar 1 × Refined Obsidian 1 × Gypsum Wax 2 × Garou Weave || Product: 1 × Red Dragonhide Legs; Facility: Armour Bench; XP: 100; Materials: 6 × Red Dragonhide Leather 4 × Scorch Leather 2 × Adamant Bar 2 × Refined Obsidian 2 × Gypsum Wax 4 × Garou Weave"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Moon Garou Pack; Quantity: 10; Rarity: Always || Source: Chest (Umbral Sands); Quantity: 1; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 1; Rarity: 1.46/100"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Beartach - The Merchant; Price sold at: 150; Price bought at: N/A || Seller: Domri - The Merchant; Price sold at: 150; Price bought at: N/A || Seller: Iasadair - The Merchant; Price sold at: 150; Price bought at: N/A"
+            }
+          ],
+          "description": "Garou weave can be bought from the merchants Iasadair, Beartach and Domri or found in chests in Umbral Sands and is primarily used for power level 7 armour.\n\n(Journal)\nSadly, this is not a new hairstyle unlock, rather it's a special cloth created by the Moon Garou. They say it's woven from moon sprite silk, which can only be obtained in the light of a full moon and, even then, only by shamans.\n\nThe truth is that it's less complicated than that. It's crafted by a gaggle of garou grannies, each of them weaving together special fibres that have been passed down their family line for generations. Each bolt of cloth may seem the same, but they are each a unique blending of garou family craftwork."
+        },
+        "stations": [
+          "Armour Bench"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Hard Leather Scraps",
+        "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather_Scraps.png?708af",
+        "tier": "",
+        "tierRank": null,
+        "chest": "textiles",
+        "note": "Dropped by Zombie Cows in Fellhollow; combined at the tannery to create hard leather.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Description",
+              "value": "Dropped from beasts in Fellhollow. Combined at the Tannery to create hard leather."
+            },
+            {
+              "label": "Weight",
+              "value": "0.3"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Hard Leather; Facility: Tannery; XP: 40; Materials: 4 × Hard Leather Scraps"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Zombie Cow; Quantity: 1-3; Rarity: Always || Source: Zamorakian Mage Pack; Quantity: 1-2; Rarity: 10/100 || Source: Leather Salvage; Quantity: 3-4; Rarity: 20/100 || Source: Chest (Umbral Sands); Quantity: 6-12; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 6-12; Rarity: 1.46/100 || Source: Chest (Dowdun Reach); Quantity: 2-4; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 2-4; Rarity: 1/100"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 3"
+            }
+          ],
+          "description": "Hard leather scraps are found by killing Zombie Cows and are used to create hard leather. Picking up the item grants 20 Artisan XP.\n\n(Journal)\nFragments of thick and sturdy hides, these scraps are of little use on their own, but combined they can become a resilient leather with a wide range of uses.\n\nThe Children of Shadows would scavenge these scraps across Fellhollow, using the pieces to craft profane totems to their sinister god, unaware that he would be offended at such a low-effort offering."
+        },
+        "stations": [
+          "Tannery"
         ],
         "step": 3
       },
@@ -44885,6 +46173,57 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Soft Animal Fur",
+        "img": "https://dragonwilds.runescape.wiki/images/Soft_Animal_Fur.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "textiles",
+        "note": "Gathered from wolves and dire wolves; three can be spun into one wool thread at a spinning wheel.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "It's so fluffy!"
+            },
+            {
+              "label": "Weight",
+              "value": "0.4"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Carnivorous Chinchompa Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Soft Animal Fur 2 × Leather || Product: 1 × Dire Wolf Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Soft Animal Fur 2 × Dire Wolf Leather || Product: 1 × Lesser Focused Runecrafting Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Snapdragon 1 × Soft Animal Fur 1 × Clay Vessel || Product: 1 × Sleeping Chinchompa; Facility: Build Menu; XP: 0; Materials: 2 × Leather 2 × Soft Animal Fur 2 × Naptha 1 × Animal Bone || Product: 1 × Standing Torch; Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Soft Animal Fur || Product: 1 × Wool Thread; Facility: Spinning Wheel; XP: 40; Materials: 3 × Soft Animal Fur"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Chinchompa; Quantity: 1; Rarity: Always || Source: Wolf; Quantity: 1; Rarity: Always || Source: Wolf; Quantity: 1; Rarity: 50/100 || Source: Dire Wolf; Quantity: 2; Rarity: Always || Source: Dire Wolf; Quantity: 2; Rarity: 50/100 || Source: Chest (Skeklac Kara); Quantity: 1-2; Rarity: 1/44.4 || Source: Chest (Takla Kara); Quantity: 1-2; Rarity: 1/44.4 || Source: Chest (Chaktan Kara); Quantity: 1-2; Rarity: 1/66.7 || Source: Chest (Kletterbuja Kara); Quantity: 1-2; Rarity: 1/44.4 || Source: Chest (Stormtouched Highlands); Quantity: 1-2; Rarity: 1/33.3 || Source: Chest (Fractured Plains); Quantity: 1-2; Rarity: 1/44.4 || Source: Chest (Bloodblight Swamp); Quantity: 1-2; Rarity: 1/33.3 || Source: Carnivorous Chinchompa; Quantity: 1-3; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 6"
+            }
+          ],
+          "description": "Soft animal fur is a basic item gathered from killing smaller creatures, such as wolves and dire wolves. Three soft animal furs can be made into one wool thread at a spinning wheel.\n\n(Journal)\nSo fluffy."
+        },
+        "stations": [
+          "Build Menu",
+          "Brewing Cauldron",
+          "Spinning Wheel"
+        ],
+        "step": 3
+      },
+      {
         "name": "Swamp Thread",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Swamp_Thread.png/250px-Swamp_Thread.png?d4d9c",
         "tier": "",
@@ -44967,6 +46306,49 @@ window.WILDS_STORAGE = [
           "description": "Vis Cloth is a processed material created at a Loom and is primarily used for power level 8 armour.\n\n(Journal)\nVis cloth is not the most comfortable material to wear. It's waxy, leaving a thin magical residue on the skin when worn. Wizards have compared it to skinning and wearing a giant slug, which isn't the best of adverts. They have complained about peeling it from their skin after a day of magical combat. If you're a hirsute magical user, you should be warned that it can rip a layer of hair from you whenever you use it. The wizards of Ashenfall's past may have had long beards, but you can be sure that there wasn't a scrap of hair on the rest of their bodies."
         },
         "stations": [
+          "Loom"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Vis Fibres",
+        "img": "https://dragonwilds.runescape.wiki/images/Vis_Fibres_%28Journal%29.png?5652f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "textiles",
+        "note": "Spun at an advanced spinning wheel from harmonised compound and ground rune essence; combined with draconic vis wax to weave vis cloth.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "Spun on an advanced spinning wheel. Threads that can be spun into vis cloth on a loom."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Magic Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Magic Logs 3 × Rune Bar 6 × Vis Fibres 3 × Dragonstone 3 × Draconic Vis Wax || Product: 1 × Magic Shortbow; Facility: Fletching Bench; XP: 60; Materials: 7 × Magic Logs 2 × Rune Bar 3 × Vis Fibres 2 × Dragonstone 1 × Draconic Vis Wax || Product: 1 × Rune Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Magic Logs 4 × Vis Fibres 1 × Rune Crossbow Limbs 1 × Dragonstone 1 × Draconic Vis Wax || Product: 1 × Rune Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 4 × Harmonised Compound 2 × Vis Fibres 1 × Draconic Vis Wax || Product: 1 × Rune Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Rune Bar 3 × Black Dragon Leather 2 × Vis Fibres 2 × Draconic Vis Wax || Product: 1 × Rune Logging Axe; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 6 × Yew Logs 2 × Vis Fibres || Product: 1 × Rune Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Rune Bar 3 × Black Dragon Leather 2 × Vis Fibres 1 × Draconic Vis Wax || Product: 1 × Vis Cloth; Facility: Loom; XP: 20; Materials: 2 × Vis Fibres 2 × Draconic Vis Wax"
+            }
+          ],
+          "description": "Vis Fibres is a processed material created at an Advanced Spinning Wheel from Harmonised Compound and Ground Rune Essence.\n\n(Journal)\nAshenfall is a fascinating experiment. It has largely developed on its own, away from the influences on the mainland. If people arrive on Ashenfall in great numbers, you can be sure that scientists will enjoy exploring how Ashenfall's independence has affected its wildlife, magic, geology and more.\n\nThose scientists will take particular glee in vis wax. On the mainland, it's thin, derived from runes and struggling to offer much value. Some wizards have used it to augment magical auras, but that's about it. On Ashenfall, though, the vis wax is thicker. So thick, in fact, that it can be concentrated and then spun into fibres. Fibres mean cloth, and cloth means magical armour. That gives it a combat use, and nothing excites a scientist more than military capability."
+        },
+        "stations": [
+          "Fletching Bench",
+          "Blacksmith's Bench",
           "Loom"
         ],
         "step": 3
@@ -48170,7 +49552,7 @@ window.WILDS_STORAGE = [
           "infobox": [
             {
               "label": "Released",
-              "value": "15 April 2025 ( Update )"
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
             },
             {
               "label": "Type",
@@ -48189,20 +49571,23 @@ window.WILDS_STORAGE = [
               "value": "99"
             },
             {
-              "label": "Potions",
+              "label": "Products",
               "value": "Product: 1 × Weak Antipoison Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Bittercap Mushroom 1 × Clay Vessel || Product: 1 × Weak Focused Artisan Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Redberries 1 × Clay Vessel || Product: 1 × Weak Focused Attack Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Small Animal Fang 1 × Clay Vessel || Product: 1 × Weak Focused Construction Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Flax 1 × Clay Vessel || Product: 1 × Weak Focused Cooking Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Cabbage 1 × Clay Vessel || Product: 1 × Weak Focused Farming Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Weeds 1 × Clay Vessel || Product: 1 × Weak Focused Fishing Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Sauteed Shrimp 1 × Clay Vessel || Product: 1 × Weak Focused Mining Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Animal Bone 1 × Clay Vessel || Product: 1 × Weak Focused Runecrafting Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Coarse Animal Fur 1 × Clay Vessel || Product: 1 × Weak Focused Woodcutting Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Feathers 1 × Clay Vessel"
             },
             {
               "label": "Item sources",
-              "value": "Source: Marrentil (plant); Quantity: 1; Rarity: Always || Source: Chest (Stormtouched Highlands); Quantity: 1–2; Rarity: 1/44.4 || Source: Chest (Fractured Plains); Quantity: 1–2; Rarity: 1/6.7 || Source: Chest (Bloodblight Swamp); Quantity: 1–2; Rarity: 1/19 || Source: Marrentil (Farming); Quantity: 5; Rarity: Always"
+              "value": "Source: Marrentil (plant); Quantity: 1; Rarity: Always || Source: Chest (Stormtouched Highlands); Quantity: 1-2; Rarity: 1/44.4 || Source: Chest (Fractured Plains); Quantity: 1-2; Rarity: 1/6.7 || Source: Chest (Bloodblight Swamp); Quantity: 1-2; Rarity: 1/19 || Source: Marrentil (Farming); Quantity: 5; Rarity: Always"
             },
             {
               "label": "Shop locations",
               "value": "Seller: Domri - The Merchant; Price sold at: 6; Price bought at: N/A"
             }
           ],
-          "description": "Marrentil (also spelled marrentill in books) is a herb found from harvesting a marrentill plant in the Whispering Swamp and can be bought from Domri - The Merchant for 6 garou chits ."
+          "description": "Marrentil (also spelled marrentill in books) is a herb found from harvesting a marrentill plant in the Whispering Swamp and can be bought from Domri - The Merchant for 6 garou chits.\n\n(Journal)\nA sweet smelling herb that is used as an ingredient in many poison remedies."
         },
+        "stations": [
+          "Brewing Cauldron"
+        ],
         "step": 0
       },
       {
@@ -48577,6 +49962,57 @@ window.WILDS_STORAGE = [
           ],
           "description": "Redberry seeds are a type of Brynmoor seed , used in the Farming skill. Redberry seeds can be used to grow redberries in a farming plot . However, it is best to plant them in an ash farming plot .\n\nPlanting redberry seeds in a farming plot will yield 5 experience in Farming . Redberry seeds can be obtained from harvesting wild redberry bushes ."
         },
+        "step": 0
+      },
+      {
+        "name": "Shocking Plant Bulb",
+        "img": "https://dragonwilds.runescape.wiki/images/Shocking_Plant_Bulb.png?6c8ad",
+        "tier": "",
+        "tierRank": null,
+        "chest": "farming",
+        "note": "Dropped by wild lapulis vines in the Stormtouched Highlands; used in potions and in purifying the Tainted King's Token.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "A bitter, green herb used to make potions."
+            },
+            {
+              "label": "Weight",
+              "value": "0.4"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Cooling Evasive Infusion; Facility: Cooking Range; XP: 20; Materials: 1 × Cactus Water 1 × Shocking Plant Bulb 1 × Snapdragon || Product: 1 × Purified King's Token; Facility: Lougrim's Shrine; Materials: 1 × Tainted King's Token 2 × Ram Horn 3 × Shocking Plant Bulb || Product: 1 × Zombie Arm; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Animal Bone 2 × Hard Leather 4 × Wild Anima 1 × Vault Shard 2 × Silver Ore 3 × Shocking Plant Bulb"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Wild Lapulis Vine; Quantity: 1; Rarity: Always || Source: Wild Lapulis Vine; Quantity: 1; Rarity: 50/100"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Domri - The Merchant; Price sold at: 18; Price bought at: 6"
+            }
+          ],
+          "description": "Shocking plant bulb is dropped by the wild lapulis vine, which is found in the Stormtouched Highlands.\n\n(Journal)\nIt seems almost unfair that plants could become electrified, a secret guarded closely by eels until now. These bulbs still contain a residual trace of that lightning charge, making them much desired in herblore."
+        },
+        "stations": [
+          "Cooking Range",
+          "Lougrim's Shrine",
+          "Blacksmith's Bench"
+        ],
         "step": 0
       },
       {
@@ -55897,6 +57333,47 @@ window.WILDS_STORAGE = [
           "description": "Poisoned fang arrows are fang arrows that are coated with weapon poison. Targets that are hit by a poisoned fang arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds. Like other poisoned arrows, the icon will have a Poison icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] The Children of Shadows loved using these. The very notion of bone and poison combined as a weapon; it touched some deep dark part of themselves and filled them with a malicious sort of glee. Alas such weapons proved relatively useless in any secret campaigns against the Saradominists of Bramblemead. Certainly, they could assassinate a baker if they needed to, but against a knight it would just ping harmlessly off their armour. Still, they made for good talking points at the secretive meetings, making enjoyably sinister table-decorations that paired well with the wine and cheeses."
         },
         "step": 6
+      },
+      {
+        "name": "Rune Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow_Limbs_%28Journal%29.png?78d70",
+        "tier": "",
+        "tierRank": null,
+        "chest": "ammo",
+        "note": "Forged at a blacksmith's bench from a rune bar; used to craft the rune crossbow at a fletching bench.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "Expertly forged rune limbs that provide exceptional strength and durability when fitted to a crossbow."
+            },
+            {
+              "label": "Weight",
+              "value": "4.5"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Rune Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Magic Logs 4 × Vis Fibres 1 × Rune Crossbow Limbs 1 × Dragonstone 1 × Draconic Vis Wax"
+            }
+          ],
+          "description": "Rune crossbow limbs are used for crafting a rune crossbow with a fletching bench.\n\n(Journal)\nDid you hear about the crossbow limb shop? They were always out of stock!\n\nPeople used to chase after me because of my bad crossbow jokes, so I had to make a bolt for it."
+        },
+        "stations": [
+          "Fletching Bench"
+        ],
+        "step": 6
       }
     ]
   },
@@ -56415,6 +57892,47 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Bedraggled Spellbook",
+        "img": "https://dragonwilds.runescape.wiki/images/Bedraggled_Spellbook.png?a2988",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "A quest item for Mirror, Mirror, returned to Edna along with a silver bar, fine thread, sacred oil, and soul fragments.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "24 February 2026 (Update)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "An ancient book of spells by Agatha's mail-order magic service. \"Guaranteed to put warts on your nose, or your money back!\""
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Spectral Silver Thread; Facility: Edna; Materials: 1 × Silver Bar 1 × Fine Thread 1 × Sacred Oil 6 × Soul Fragment 1 × Bedraggled Spellbook"
+            }
+          ],
+          "description": "The bedraggled spellbook is a quest item that is found during the Mirror, Mirror quest. Players will need to return this book to Edna as well as 1 silver bar, 1 fine thread, 1 sacred oil, and 6 soul fragments."
+        },
+        "stations": [
+          "Edna"
+        ],
+        "step": 0
+      },
+      {
         "name": "Black Memory of Menaphos",
         "img": "https://dragonwilds.runescape.wiki/images/Black_Memory_of_Menaphos.png?2307e",
         "tier": "",
@@ -56582,6 +58100,51 @@ window.WILDS_STORAGE = [
           ],
           "description": "The blue memory of Menaphos is a vestige that unlocks the blue desert cape and can be found in chests throughout Umbral Sands."
         },
+        "step": 0
+      },
+      {
+        "name": "Broken Titan's Wrath",
+        "img": "https://dragonwilds.runescape.wiki/images/Broken_Titan%27s_Wrath.png?419cd",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "A quest item dropped by the Black Knight Titan; refined at a blacksmith's bench to forge Titan's Wrath.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "The shattered remnant of the Black Knight Titan's sword."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Titan's Wrath; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Black Metal Bar 5 × Blue Dragon Leather 4 × Mystic Cloth 64 × Infernal Fragment 1 × Broken Titan's Wrath"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Black Knight Titan; Quantity: 1; Rarity: Always"
+            }
+          ],
+          "description": "The broken Titan's Wrath is a quest item dropped by the Black Knight Titan. This can be refined at a blacksmith's bench to create the Titan's Wrath.\n\nNote: This item remains a quest item even after completion of Black Knight's Fortress. Subsequent drops of this item will be placed in the quest item tab of the inventory automatically."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 0
       },
       {
@@ -57673,6 +59236,80 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Imbued Granite Maul Head",
+        "img": "https://dragonwilds.runescape.wiki/images/Imbued_Granite_Maul_Head.png?4e16e",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "Forged at a blacksmith's bench from granite, wild anima, and vault shards; a component of the Granite Maul quest reward.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "A massive granite warhammer head. Garou masons imbue their stone weapons with wild anima to make them stronger than metal."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Granite Maul; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Imbued Granite Maul Head 1 × Ornate Maul Handle 1 × Imbued Leather Wrappings 8 × Vault Shard 1 × Vault Core"
+            }
+          ],
+          "description": "The imbued granite maul head is one of the components used in crafting the granite maul after the quest Granite Mauled.\n\n(Journal)\nA chunk of granite imbued with powerful magic. On its own, this hunk of stone isn't useful, but when combined with other components it becomes part of a much stronger weapon."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Imbued Leather Wrappings",
+        "img": "https://dragonwilds.runescape.wiki/images/Imbued_Leather_Wrappings.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "Crafted at a blacksmith's bench from dire wolf leather, anima-infused bark, and vault shards; a component of the Granite Maul quest reward.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "Strips of imbued dire wolf leather for the grips of a granite maul. Infused with primal savagery."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Granite Maul; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Imbued Granite Maul Head 1 × Ornate Maul Handle 1 × Imbued Leather Wrappings 8 × Vault Shard 1 × Vault Core"
+            }
+          ],
+          "description": "Imbued leather wrappings is an artefact. The leather wrappings are used in the creation of the granite maul after the quest Granite Mauled.\n\n(Journal)\nThese wrappings are made from the leather of a powerful and dangerous beast. The ambient anima of Ashenfall infuses it with a sturdiness that most leather wrappings can't equal."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 0
+      },
+      {
         "name": "Inspiring Insignia",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Inspiring_Insignia.png/250px-Inspiring_Insignia.png?04e3d",
         "tier": "",
@@ -58171,6 +59808,43 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Ornate Maul Handle",
+        "img": "https://dragonwilds.runescape.wiki/images/Ornate_Maul_Handle.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "Carved at a blacksmith's bench from blightwood, silver, and bronze bars; a component of the Granite Maul quest reward.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "A carved piece of wood decorated with metal ornaments; sturdy enough to swing a heavy granite head. Made of blightwood found in Bloodblight Swamp."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Granite Maul; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Imbued Granite Maul Head 1 × Ornate Maul Handle 1 × Imbued Leather Wrappings 8 × Vault Shard 1 × Vault Core"
+            }
+          ],
+          "description": "The ornate maul handle is an artefact. The ornate maul handle is one of the components used in making the granite maul after the quest Granite Mauled.\n\n(Journal)\nThe handle for a powerful weapon. Wrapped in sturdy leather and imbued with ritual magic. A dwarf capable of crafting such a piece is acknowledged to have completed one of the trials required to be a master smith."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 0
+      },
+      {
         "name": "Parts of a Sinister-Looking Staff",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Parts_of_a_Sinister-Looking_Staff.png/250px-Parts_of_a_Sinister-Looking_Staff.png?9c38e",
         "tier": "",
@@ -58436,6 +60110,47 @@ window.WILDS_STORAGE = [
           ],
           "description": "The rotten farming tool is a vestige found by looting Buried Chests in Fellhollow. There is a 5/100 chance for a buried chest to contain the vestige. It can be studied to unlock the undead spade recipe.\n\n(Item sources)\nChests at Fellhollow"
         },
+        "step": 0
+      },
+      {
+        "name": "Salve Crystal",
+        "img": "https://dragonwilds.runescape.wiki/images/Salve_Crystal.png?19a8e",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "A quest reward from Doric for completing Seeking Salvation; used to craft the Salve Amulet, which has properties against the undead.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "A crystal that Doric obtained from a cave near the Salve River, back in Misthalin. Used in creating the Salve amulet."
+            },
+            {
+              "label": "Weight",
+              "value": "3"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Salve Amulet; Facility: Jeweler's Bench; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 1 × Salve Crystal 6 × Vault Shard"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Death (Grim Reaper); Price sold at: 25; Price bought at: N/A"
+            }
+          ],
+          "description": "A salve crystal is a piece of crystal from the mainland of Gielinor that is known to have properties against undead. It is given to the players by Doric as a reward when completing Seeking Salvation. This crystal is required for the creation of the salve amulet. Players can obtain more by buying it from Death after Seeking Salvation is completed."
+        },
+        "stations": [
+          "Jeweler's Bench"
+        ],
         "step": 0
       },
       {
@@ -58897,6 +60612,47 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Smouldering Draconic Visage",
+        "img": "https://dragonwilds.runescape.wiki/images/Smouldering_Draconic_Visage.png?de71b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "A quest reward from trading Fuzan's head to Icthlarin; used with an anti-dragon shield to craft the dragonfire shield.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "The image of a fearsome dragon. Used in crafting powerful equipment."
+            },
+            {
+              "label": "Weight",
+              "value": "0.5"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Dragonfire Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Smouldering Draconic Visage 1 × Anti-Dragon Shield 12 × Vault Shard 1 × Vault Core"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Icthlarin's Little Helper Reward Pack; Quantity: 1; Rarity: Always"
+            }
+          ],
+          "description": "The smouldering draconic visage is an award obtained from the Icthlarin's Little Helper quest. To gain this item, one must trade Fuzan's head to Icthlarin. This item can be used to craft the dragonfire shield."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 0
+      },
+      {
         "name": "Sodden Black Leather",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Sodden_Black_Leather.png/250px-Sodden_Black_Leather.png?a1a3a",
         "tier": "",
@@ -59293,6 +61049,51 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Tainted King's Token",
+        "img": "https://dragonwilds.runescape.wiki/images/Tainted_King%27s_Token.png?6c8ad",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "A quest item dropped by the Garou King; purified at Lougrim's Shrine during the Dog Days quest into the Purified King's Token.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "Proof of your victory over the garou king."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Purified King's Token; Facility: Lougrim's Shrine; Materials: 1 × Tainted King's Token 2 × Ram Horn 3 × Shocking Plant Bulb"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Garou King; Quantity: 1; Rarity: Always"
+            }
+          ],
+          "description": "Tainted king's token is a quest item dropped by the Garou King. It is used on Lougrim's Shrine during the Dog Days quest to turn it into the purified king's token. Players can also choose to destroy the tainted token in their quest item inventory.\n\n(Journal)\nThese tokens are a unique creation, crafted hundreds of years ago by high priests of Lougrim. They are passed down from monarch to monarch, a sign of their overwhelming power and strength. The power of a king has waned over the centuries, no longer sovereigns of nations, but now masters of the clan. Servants of the High Queen, Kuldra, the god-eater.\n\nInside each token rests a single pebble taken from Antumnos, the Garou homeworld."
+        },
+        "stations": [
+          "Lougrim's Shrine"
+        ],
+        "step": 0
+      },
+      {
         "name": "Tastefully Torn Tights",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Tastefully_Torn_Tights.png/250px-Tastefully_Torn_Tights.png?26819",
         "tier": "",
@@ -59426,6 +61227,47 @@ window.WILDS_STORAGE = [
           ],
           "description": "The Twtiching Antenna is a vestige that unlocks the kalphite carapace helmet."
         },
+        "step": 0
+      },
+      {
+        "name": "Undead Draconic Visage",
+        "img": "https://dragonwilds.runescape.wiki/images/Undead_Draconic_Visage.png?82a6a",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "A quest reward from Death in exchange for Imaru's head; used to upgrade the anti-dragon shield into the dragoncurse shield, or forge Imaru's Talon.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "16 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "Dragon Visage"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Dragoncurse Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Undead Draconic Visage 1 × Anti-Dragon Shield 12 × Vault Shard 1 × Vault Core || Product: 1 × Imaru's Talon; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Undead Draconic Visage 1 × Steel Scimitar 12 × Vault Shard 1 × Vault Core"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Withering Heights Reward Pack; Quantity: 1; Rarity: Always"
+            }
+          ],
+          "description": "The undead draconic visage is an award obtained from Death in exchange for Imaru's head, which is obtained by killing Imaru during or after the quest Withering Heights. It can be used to upgrade the anti-dragon shield into the dragoncurse shield."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 0
       },
       {
@@ -59897,6 +61739,158 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Ascension Shard (Power Level 4)",
+        "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_4%29.png?1fc8a",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Dropped by high-level enemies; used to craft a Tier 4 Ascension Core for upgrading masterwork weapons.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Description",
+              "value": "Used to craft a Tier 4 Ascension Core"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Velgar; Quantity: 30-40; Rarity: Always || Source: Abyssal Demon; Quantity: 12-19; Rarity: 40/100 || Source: Garou King; Quantity: 6-12; Rarity: 1/2"
+            }
+          ],
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms. There is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+        },
+        "step": 0
+      },
+      {
+        "name": "Ascension Shard (Power Level 5)",
+        "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_5%29.png?6b741",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Dropped by high-level enemies; used to craft a Tier 5 Ascension Core for upgrading masterwork weapons.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Description",
+              "value": "Used to craft a Tier 5 Ascension Core"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Imaru; Quantity: 30-40; Rarity: Always || Source: Green Dragon; Quantity: 15-20; Rarity: Always || Source: Zogre; Quantity: 12-19; Rarity: 20/100 || Source: Reward Pack: Fellhollow Gold; Quantity: 1-3; Rarity: 1/4 || Source: Reward Pack: Fellhollow Silver; Quantity: 1-2; Rarity: 1/20"
+            }
+          ],
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms. There is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+        },
+        "step": 0
+      },
+      {
+        "name": "Ascension Shard (Power Level 6)",
+        "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_6%29.png?07ad3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Dropped by high-level enemies; used to craft a Tier 6 Ascension Core for upgrading masterwork weapons.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Description",
+              "value": "Used to craft a Tier 6 Ascension Core"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Blue Dragon; Quantity: 15-20; Rarity: Always || Source: Black Knight Titan; Quantity: 20-30; Rarity: Always || Source: Ulgo the Zogre; Quantity: 12-19; Rarity: 20/100 || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1-3; Rarity: 1/4 || Source: Reward Pack: Dowdun Reach Silver; Quantity: 1-2; Rarity: 1/20"
+            }
+          ],
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms. There is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+        },
+        "step": 0
+      },
+      {
+        "name": "Ascension Shard (Power Level 8)",
+        "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_8%29.png?a9a45",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Dropped by Black Dragons; used to craft a Tier 8 Ascension Core for upgrading masterwork weapons.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Description",
+              "value": "Used to craft a Tier 8 Ascension Core."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Black Dragon; Quantity: 8-12; Rarity: Always"
+            }
+          ],
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms. There is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+        },
+        "step": 0
+      },
+      {
         "name": "Black Crossbow Limbs",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Black_Crossbow_Limbs.png/250px-Black_Crossbow_Limbs.png",
         "tier": "",
@@ -60102,7 +62096,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Products",
-              "value": "Product: 1 × Bronze Bar; Facility: Blast Furnace; XP: 10; Materials: 10 × Bronze Leaf || Product: 1 × Bronze Medal; Facility: Build Menu; XP: 0; Materials: 1 × Bronze Leaf 1 × Padded Cloth || Product: 1 × Weak Focused Agility Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Clay Vessel 1 × Marrentill 1 × Bronze Leaf"
+              "value": "Product: 1 × Bronze Bar; Facility: Blast Furnace; XP: 10; Materials: 10 × Bronze Leaf || Product: 1 × Bronze Medal; Facility: Build Menu; XP: 0; Materials: 1 × Bronze Leaf 1 × Padded Cloth || Product: 1 × Weak Focused Agility Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Clay Vessel 1 × Marrentil 1 × Bronze Leaf"
             },
             {
               "label": "Item sources",
@@ -60663,6 +62657,173 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Cursed Essence",
+        "img": "https://dragonwilds.runescape.wiki/images/Cursed_Essence.png?e237d",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Harvested from demons; used as a tanning agent at the tannery to make cursed leather.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "Harvested from demons. Can be used as a tanning agent at the tannery."
+            },
+            {
+              "label": "Weight",
+              "value": "3.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Abyssal Whip; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Abysmal Whip 6 × Demonic Oil 6 × Scorch Leather 6 × Cursed Essence 4 × Dragonstone || Product: 1 × Cursed Leather; Facility: Tannery; XP: 40; Materials: 2 × Draconic Leather 1 × Cursed Essence"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Small Ash Pile; Quantity: 1; Rarity: 50/100 || Source: Ash Pile; Quantity: 2-3; Rarity: Always || Source: Stormpact Demon; Quantity: 1-2; Rarity: Always"
+            }
+          ],
+          "description": "Cursed essence is a basic material required for making cursed leather at the tannery.\n\n(Journal)\nCursed essence is a magical agent often used in tanning. It is also something of a curiosity, one that a simple tanner can't readily explain. It goes further than simply binding itself to material, it latches onto it, almost parasitically.\n\nDemonologists have a theory that, although cursed essence drops from the avernic demons of Dowdun Reach, it is actually cthonic in nature. It would explain the tendril-like tenacity."
+        },
+        "stations": [
+          "Blacksmith's Bench",
+          "Tannery"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Demonic Oil",
+        "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Brewed from necrotic bonemeal and vile ashes; a key crafting component for power level 6 armour.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "Made by combining necrotic bonemeal and vile ashes. A crafting component."
+            },
+            {
+              "label": "Weight",
+              "value": "3.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Abyssal Whip; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Abysmal Whip 6 × Demonic Oil 6 × Scorch Leather 6 × Cursed Essence 4 × Dragonstone || Product: 1 × Black Knight Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Black Metal Bar 2 × Mithril Bar 4 × Cursed Leather 1 × Mystic Cloth 1 × Demonic Oil || Product: 1 × Black Knight Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Black Metal Bar 2 × Mithril Bar 6 × Cursed Leather 4 × Mystic Cloth 3 × Demonic Oil || Product: 1 × Black Knight Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Black Metal Bar 2 × Mithril Bar 4 × Cursed Leather 2 × Mystic Cloth 2 × Demonic Oil || Product: 1 × Black Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Black Metal Bar 4 × Cursed Leather 2 × Demonic Oil || Product: 1 × Black Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Black Metal Bar 5 × Cursed Leather 4 × Mystic Thread 2 × Demonic Oil || Product: 1 × Blue Dragonhide Body; Facility: Armour Bench; XP: 100; Materials: 12 × Blue Dragon Leather 4 × Cursed Leather 4 × Mithril Bar 3 × Demonic Oil || Product: 1 × Blue Dragonhide Chaps; Facility: Armour Bench; XP: 100; Materials: 6 × Blue Dragon Leather 4 × Cursed Leather 2 × Mithril Bar 2 × Demonic Oil || Product: 1 × Blue Dragonhide Coif; Facility: Armour Bench; XP: 100; Materials: 4 × Blue Dragon Leather 2 × Cursed Leather 1 × Mithril Bar 1 × Demonic Oil || Product: 1 × Mithril Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Mithril Bar 4 × Cursed Leather 1 × Mystic Cloth 1 × Demonic Oil || Product: 1 × Mithril Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Mithril Bar 4 × Cursed Leather 1 × Mystic Cloth 1 × Demonic Oil || Product: 1 × Mithril Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Mithril Bar 6 × Cursed Leather 4 × Mystic Cloth 3 × Demonic Oil || Product: 1 × Mithril Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Mithril Bar 4 × Cursed Leather 2 × Mystic Cloth 2 × Demonic Oil || Product: 1 × Mystic Hat; Facility: Armour Bench; XP: 40; Materials: 4 × Mystic Cloth 1 × Cursed Leather 12 × Infernal Fragment 1 × Demonic Oil || Product: 1 × Mystic Robe Legs; Facility: Armour Bench; XP: 40; Materials: 8 × Mystic Cloth 2 × Cursed Leather 24 × Infernal Fragment 2 × Demonic Oil || Product: 1 × Mystic Robes; Facility: Armour Bench; XP: 40; Materials: 12 × Mystic Cloth 4 × Cursed Leather 32 × Infernal Fragment 3 × Demonic Oil || Product: 1 × Shadow Body; Facility: Armour Bench; XP: 100; Materials: 12 × Cursed Leather 4 × Black Metal Bar 4 × Blue Dragon Leather 3 × Demonic Oil || Product: 1 × Shadow Chaps; Facility: Armour Bench; XP: 100; Materials: 8 × Black Metal Bar 4 × Cursed Leather 4 × Blue Dragon Leather 2 × Demonic Oil || Product: 1 × Shadow Cowl; Facility: Armour Bench; XP: 100; Materials: 4 × Black Metal Bar 1 × Cursed Leather 2 × Blue Dragon Leather 1 × Demonic Oil || Product: 1 × Shadow Crossbow; Facility: Fletching Table; XP: 40; Materials: 1 × Black Crossbow Limbs 6 × Mystic Thread 16 × Maple Logs 2 × Demonic Oil || Product: 1 × Zamorak Hood; Facility: Armour Bench; XP: 40; Materials: 2 × Mystic Cloth 2 × Black Metal Bar 12 × Infernal Fragment 1 × Demonic Oil || Product: 1 × Zamorak Robe Legs; Facility: Armour Bench; XP: 40; Materials: 6 × Mystic Cloth 4 × Black Metal Bar 24 × Infernal Fragment 2 × Demonic Oil || Product: 1 × Zamorak Robes; Facility: Armour Bench; XP: 40; Materials: 8 × Mystic Cloth 6 × Black Metal Bar 32 × Infernal Fragment 3 × Demonic Oil || Product: 1 × Zamorak Staff; Facility: Mystic Forge; XP: 40; Materials: 10 × Black Metal Bar 10 × Cursed Leather 6 × Demonic Oil 4 × Diamond 64 × Infernal Fragment"
+            }
+          ],
+          "description": "Demonic oil is one of the materials required for making power level 6 armour.\n\n(Journal)\nCombine corrupt bonemean and vile ashes and the result is demonic oil. We should be specific about what kind of oil this is: please do not pour it into a frying pan or use it on a squeaky hinge. This is potent oil, as the \"demonic\" prefix will attest. It is used for crafting, and solely for crafting.\n\nNow you've got us wondering what would happen if you did actually add it to a frying pan or a squeaky hinge. Obviously, please don't do it. But if you happen to do it, through an accident or momentary lack of wisdom, could you let us know what happens?"
+        },
+        "step": 0
+      },
+      {
+        "name": "Discordant Residue",
+        "img": "https://dragonwilds.runescape.wiki/images/Discordant_Residue_%28Journal%29.png?c4c67",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Dropped by enemies and chests in the Scorned Wilderness; used at the Kiln to craft Harmonised Compound.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "Obtained from creatures in Kuldra's Tower. A core component of vis cloth."
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Harmonised Compound; Facility: Kiln; XP: 20; Materials: 1 × Discordant Residue"
+            },
+            {
+              "label": "Item sources",
+              "value": "Drops from any enemy or in chests in the Scorned Wilderness Zone"
+            },
+            {
+              "label": "Shop locations",
+              "value": "This item is not sold or bought in any shops."
+            }
+          ],
+          "description": "Discordant Residue is a material gathered from enemies and Chest within the Scorned Wilderness. They can be used on the Kiln to craft Harmonised Compound.\n\n(Journal)\nThe life of a creature within Kuldra's Tower is not a pleasant one. Every beast or warrior (even the undead ones) are at constant threat from any of Kuldra's five heads, and the tower itself is a font of anima. Any kind of life expectancy is a luxury.\n\nEvolution has handed the creatures of Kuldra's Tower something of a lifeline. Anima attaches itself to the creatures in a kind of symbiosis. The anima seeps into the creature, feeding on its softer tissue and leaving something like a crystal residue behind. This discordant symbiosis makes the creature hardier, at the cost of a humming, constant pain."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Draconic Vis Wax",
+        "img": "https://dragonwilds.runescape.wiki/images/Draconic_Vis_Wax_%28Journal%29.png?dbf4c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Brewed from harmonised compound, ground rune essence, and ground dragon tooth; spun with vis fibres into vis cloth on a loom.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "Made in a brewing cauldron. Alongside vis fibres, it can be spun into vis cloth on a loom."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Ancestral Hat; Facility: Armour Bench; XP: 100; Materials: 1 × Vis Cloth 1 × Black Dragon Leather 1 × Rune Bar 1 × Harmonised Compound 1 × Draconic Vis Wax || Product: 1 × Ancestral Leggings; Facility: Armour Bench; XP: 100; Materials: 2 × Vis Cloth 2 × Black Dragon Leather 2 × Rune Bar 2 × Harmonised Compound 2 × Draconic Vis Wax || Product: 1 × Ancestral Robes; Facility: Armour Bench; XP: 100; Materials: 4 × Vis Cloth 2 × Black Dragon Leather 2 × Rune Bar 2 × Harmonised Compound 2 × Draconic Vis Wax || Product: 1 × Ancestral Staff; Facility: Mystic Forge; XP: 60; Materials: 12 × Magic Logs 6 × Harmonised Compound 2 × Vis Cloth 3 × Dragonstone 2 × Draconic Vis Wax || Product: 1 × Ancestral Wand; Facility: Mystic Forge; XP: 20; Materials: 8 × Magic Logs 5 × Harmonised Compound 2 × Vis Cloth 2 × Dragonstone 2 × Draconic Vis Wax || Product: 1 × Black Dragonhide Body; Facility: Armour Bench; XP: 100; Materials: 12 × Black Dragon Leather 3 × Rune Bar 2 × Harmonised Compound 2 × Draconic Vis Wax 4 × Vis Cloth || Product: 1 × Black Dragonhide Chaps; Facility: Armour Bench; XP: 100; Materials: 6 × Black Dragon Leather 1 × Rune Bar 1 × Harmonised Compound 1 × Draconic Vis Wax 2 × Vis Cloth || Product: 1 × Black Dragonhide Coif; Facility: Armour Bench; XP: 100; Materials: 4 × Black Dragon Leather 1 × Rune Bar 1 × Harmonised Compound 1 × Draconic Vis Wax 2 × Vis Cloth || Product: 1 × Magic Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Magic Logs 3 × Rune Bar 6 × Vis Fibres 3 × Dragonstone 3 × Draconic Vis Wax || Product: 1 × Magic Shortbow; Facility: Fletching Bench; XP: 60; Materials: 7 × Magic Logs 2 × Rune Bar 3 × Vis Fibres 2 × Dragonstone 1 × Draconic Vis Wax || Product: 1 × Rune Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Magic Logs 4 × Vis Fibres 1 × Rune Crossbow Limbs 1 × Dragonstone 1 × Draconic Vis Wax || Product: 1 × Rune Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 4 × Harmonised Compound 2 × Vis Fibres 1 × Draconic Vis Wax || Product: 1 × Rune Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Rune Bar 3 × Magic Logs 4 × Black Dragon Leather 2 × Draconic Vis Wax || Product: 1 × Rune Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Rune Bar 3 × Black Dragon Leather 2 × Vis Fibres 2 × Draconic Vis Wax || Product: 1 × Rune Helm; Facility: Armour Bench; XP: 100; Materials: 3 × Rune Bar 3 × Black Dragon Leather 1 × Vis Cloth 1 × Harmonised Compound 1 × Draconic Vis Wax || Product: 1 × Rune Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 6 × Magic Logs 3 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Pickaxe; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 4 × Magic Logs 3 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Platebody; Facility: Armour Bench; XP: 100; Materials: 6 × Rune Bar 6 × Black Dragon Leather 2 × Vis Cloth 2 × Harmonised Compound 2 × Draconic Vis Wax || Product: 1 × Rune Platelegs; Facility: Armour Bench; XP: 100; Materials: 4 × Rune Bar 4 × Black Dragon Leather 1 × Vis Cloth 1 × Harmonised Compound 1 × Draconic Vis Wax || Product: 1 × Rune Scimitar; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Rune Bar 3 × Black Dragon Leather 1 × Vis Cloth 1 × Draconic Vis Wax || Product: 1 × Rune Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Rune Bar 3 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Spade; Facility: Blacksmith's Bench; XP: 50; Materials: 3 × Rune Bar 2 × Magic Logs 2 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Rune Bar 3 × Black Dragon Leather 2 × Vis Fibres 1 × Draconic Vis Wax || Product: 1 × Rune Warhammer; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Rune Bar 2 × Black Dragon Leather 2 × Draconic Vis Wax || Product: 1 × Runite Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Rune Bar 4 × Black Dragon Leather 1 × Vis Cloth 1 × Harmonised Compound 1 × Draconic Vis Wax || Product: 1 × Vis Cloth; Facility: Loom; XP: 20; Materials: 2 × Vis Fibres 2 × Draconic Vis Wax"
+            }
+          ],
+          "description": "Draconic Vis Wax is a processed material required for making Vis Cloth. It can be crafted in a Brewing Cauldron.\n\n(Journal)\nThe wizards of the Wizards' Tower have managed to artificially generate vis wax, through the Rune Goldberg Machine. It takes piles upon piles of runes and distills them to a thin, waxy substance. It's possibly the least efficient process in the world, the equivalent of sieving a mountain to get a couple of nuggets of gold.\n\nThe alternative is to find vis wax in its natural, unfiltered state, but that has its own mountain-sized problems. You need to siphon it from the most dangerous of dragons, and those dragons need to have been in a state of intense rage when they died. It's enough to make a wizard sigh and approach the mountain with a newly bought sieve."
+        },
+        "step": 0
+      },
+      {
         "name": "Garou Artefact",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Garou_Artefact.png/250px-Garou_Artefact.png?8346f",
         "tier": "",
@@ -60779,6 +62940,52 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Glass Pane",
+        "img": "https://dragonwilds.runescape.wiki/images/Glass_Pane.png?cb0fd",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Crafted from molten glass at a jeweler's bench; used for building glass windows.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "31 March 2026 (Update)"
+            },
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Description",
+              "value": "It's transparent that you're going to use this when building."
+            },
+            {
+              "label": "Weight",
+              "value": "0.1"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Recipe",
+              "value": "Facility | Jeweler's Bench || Skill | Experience || Artisan | 40 || Material | Quantity || Molten Glass | 1 || Output | Quantity || Glass Pane | 1"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Narrow Stained Glass Window Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Glass Pane || Product: 1 × Stained Glass Window Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Glass Pane"
+            }
+          ],
+          "description": "Glass panes can be created with molten glass at a jeweler's bench, and can be used for construction.\n\n(Journal)\nWhen you take me out of a window, you leave a grieving wife. When you stick me in a door, you will save somebody's life. What am I?"
+        },
+        "stations": [
+          "Jeweler's Bench",
+          "Build Menu"
+        ],
+        "step": 0
+      },
+      {
         "name": "Glass Vessel",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Glass_Vessel.png/250px-Glass_Vessel.png",
         "tier": "",
@@ -60872,6 +63079,48 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Gypsum Wax",
+        "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Brewed from dihydrogen monoxide, ground gypsum, and acrid adhesive; a key crafting component for power level 7 armour.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "A marvel of alchemy that, once applied to equipment, adds durability in extreme conditions."
+            },
+            {
+              "label": "Weight",
+              "value": "0.5"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Adamant Crossbow; Facility: Fletching Bench; XP: 40; Materials: 16 × Yew Logs 6 × Desert Thread 1 × Adamant Crossbow Limbs 1 × Dragonstone 2 × Gypsum Wax || Product: 1 × Adamant Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Adamant Bar 6 × Kalphite Shell 3 × Desert Thread 2 × Gypsum Wax || Product: 1 × Adamant Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Adamant Bar 5 × Yew Logs 6 × Scorch Leather 4 × Gypsum Wax || Product: 1 × Adamant Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Adamant Bar 5 × Scorch Leather 4 × Desert Thread 4 × Gypsum Wax || Product: 1 × Adamant Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Adamant Bar 4 × Scorch Leather 1 × Desert Cloth 1 × Refined Obsidian 1 × Gypsum Wax 1 × Garou Weave || Product: 1 × Adamant Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Adamant Bar 8 × Yew Logs 4 × Scorch Leather 2 × Gypsum Wax || Product: 1 × Adamant Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Adamant Bar 4 × Scorch Leather 1 × Desert Cloth 1 × Refined Obsidian 1 × Gypsum Wax 1 × Garou Weave || Product: 1 × Adamant Pickaxe; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Adamant Bar 6 × Yew Logs 4 × Scorch Leather 1 × Gypsum Wax || Product: 1 × Adamant Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Adamant Bar 8 × Scorch Leather 3 × Desert Cloth 3 × Refined Obsidian 3 × Gypsum Wax 3 × Garou Weave || Product: 1 × Adamant Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Adamant Bar 6 × Scorch Leather 2 × Desert Cloth 2 × Refined Obsidian 2 × Gypsum Wax 2 × Garou Weave || Product: 1 × Adamant Scimitar; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Adamant Bar 5 × Scorch Leather 2 × Infinity Cloth 2 × Gypsum Wax || Product: 1 × Adamant Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Adamant Bar 4 × Scorch Leather 2 × Gypsum Wax || Product: 1 × Adamant Spade; Facility: Blacksmith's Bench; XP: 0; Materials: 4 × Adamant Bar 2 × Yew Logs 2 × Scorch Leather 1 × Gypsum Wax || Product: 1 × Adamant Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Adamant Bar 5 × Scorch Leather 3 × Desert Thread 2 × Gypsum Wax || Product: 1 × Adamant Warhammer; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Adamant Bar 3 × Scorch Leather 4 × Gypsum Wax || Product: 1 × Bow of Elidinis; Facility: Fletching Bench; XP: 100; Materials: 12 × Gold Bar 12 × Silver Bar 8 × Desert Thread 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Desert Hood; Facility: Armour Bench; XP: 100; Materials: 4 × Garou Weave 1 × Scorch Leather 1 × Refined Obsidian 1 × Gypsum Wax || Product: 1 × Desert Robe Legs; Facility: Armour Bench; XP: 100; Materials: 8 × Garou Weave 2 × Scorch Leather 2 × Refined Obsidian 2 × Gypsum Wax || Product: 1 × Desert Robes; Facility: Armour Bench; XP: 100; Materials: 12 × Garou Weave 3 × Scorch Leather 3 × Refined Obsidian 3 × Gypsum Wax || Product: 1 × Imbuing Barrel; Facility: Build Menu; XP: 12; Materials: 16 × Yew Plank 4 × Desert Thread 2 × Gypsum Wax 4 × Wild Anima || Product: 1 × Infinity Robe Body; Facility: Armour Bench; XP: 100; Materials: 6 × Infinity Cloth 3 × Scorch Leather 3 × Adamant Bar 3 × Refined Obsidian 3 × Gypsum Wax 6 × Garou Weave || Product: 1 × Infinity Robe Hat; Facility: Armour Bench; XP: 100; Materials: 2 × Infinity Cloth 1 × Scorch Leather 1 × Adamant Bar 1 × Refined Obsidian 1 × Gypsum Wax 2 × Garou Weave || Product: 1 × Infinity Robe Legs; Facility: Armour Bench; XP: 100; Materials: 4 × Infinity Cloth 2 × Scorch Leather 2 × Adamant Bar 2 × Refined Obsidian 2 × Gypsum Wax 4 × Garou Weave || Product: 1 × Kalphite Carapace Chest; Facility: Armour Bench; XP: 100; Materials: 15 × Kalphite Shell 8 × Scorch Leather 3 × Gypsum Wax 6 × Garou Weave || Product: 1 × Kalphite Carapace Helmet; Facility: Armour Bench; XP: 100; Materials: 6 × Kalphite Shell 2 × Scorch Leather 1 × Gypsum Wax 2 × Garou Weave || Product: 1 × Kalphite Carapace Legs; Facility: Armour Bench; XP: 100; Materials: 10 × Kalphite Shell 4 × Scorch Leather 2 × Gypsum Wax 4 × Garou Weave || Product: 1 × Keris; Facility: Blacksmith's Bench; XP: 250; Materials: 8 × Adamant Bar 6 × Dragon Tooth 3 × Desert Thread 2 × Gypsum Wax || Product: 1 × Lunar Garou Hat; Facility: Armour Bench; XP: 125; Materials: 3 × Garou Weave 2 × Infinity Cloth 1 × Garou Artefact 1 × Refined Obsidian 1 × Gypsum Wax || Product: 1 × Lunar Garou Robe Legs; Facility: Armour Bench; XP: 125; Materials: 6 × Garou Weave 4 × Infinity Cloth 2 × Garou Artefact 2 × Refined Obsidian 2 × Gypsum Wax || Product: 1 × Lunar Garou Robes; Facility: Armour Bench; XP: 125; Materials: 9 × Garou Weave 6 × Infinity Cloth 3 × Garou Artefact 3 × Refined Obsidian 3 × Gypsum Wax || Product: 1 × Master Wand; Facility: Mystic Forge; XP: 20; Materials: 8 × Yew Logs 3 × Refined Obsidian 2 × Infinity Cloth 2 × Dragonstone 2 × Gypsum Wax || Product: 1 × Master's Staff; Facility: Mystic Forge; XP: 60; Materials: 16 × Yew Logs 6 × Refined Obsidian 4 × Infinity Cloth 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Pharaoh's Sceptre; Facility: Mystic Forge; XP: 60; Materials: 10 × Gold Bar 10 × Scorch Leather 32 × Shimmerscale Powder 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Red Dragonhide Body; Facility: Armour Bench; XP: 100; Materials: 12 × Red Dragonhide Leather 4 × Scorch Leather 4 × Adamant Bar 3 × Refined Obsidian 3 × Gypsum Wax 6 × Garou Weave || Product: 1 × Red Dragonhide Coif; Facility: Armour Bench; XP: 100; Materials: 4 × Red Dragonhide Leather 2 × Scorch Leather 1 × Adamant Bar 1 × Refined Obsidian 1 × Gypsum Wax 2 × Garou Weave || Product: 1 × Red Dragonhide Legs; Facility: Armour Bench; XP: 100; Materials: 6 × Red Dragonhide Leather 4 × Scorch Leather 2 × Adamant Bar 2 × Refined Obsidian 2 × Gypsum Wax 4 × Garou Weave || Product: 1 × Yew Longbow; Facility: Fletching Bench; XP: 60; Materials: 16 × Yew Logs 4 × Adamant Bar 8 × Desert Thread 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Yew Shortbow; Facility: Fletching Bench; XP: 60; Materials: 10 × Yew Logs 2 × Adamant Bar 2 × Desert Thread 2 × Dragonstone 1 × Gypsum Wax"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Moon Garou Pack; Quantity: 10; Rarity: Always"
+            }
+          ],
+          "description": "Gypsum wax is one of the materials required for making power level 7 armour.\n\n(Journal)\nA combination of gypsum powder and dihydrogen monoxide, gypsum wax contains the worst of both materials. It's as claggy and hard to remove as gypsum powder, and as deadly as dihydrogen monoxide."
+        },
+        "step": 0
+      },
+      {
         "name": "Harmonised Compound",
         "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound_%28Journal%29.png?ca52c",
         "tier": "",
@@ -60910,6 +63159,48 @@ window.WILDS_STORAGE = [
         "stations": [
           "Kiln"
         ],
+        "step": 0
+      },
+      {
+        "name": "Infernal Fragment",
+        "img": "https://dragonwilds.runescape.wiki/images/Infernal_Fragment.png?f3750",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "A currency material used at the Evil Emporium and in many Dowdun Reach weapon and armour recipes; dropped by demonic enemies and found in chests.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Type",
+              "value": "Special Material"
+            },
+            {
+              "label": "Description",
+              "value": "Used to craft magical equipment. Postie Pete also has a use for them."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "9999"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Animated Feather; Facility: Crafting Table; XP: 20; Materials: 1 × Feathers 1 × Infernal Fragment 1 × Mystic Fibres || Product: 1 × Black Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Black Metal Bar 5 × Maple Logs 6 × Cursed Leather 32 × Infernal Fragment || Product: 1 × Maple Battlestaff; Facility: Mystic Forge; XP: 40; Materials: 16 × Maple Logs 6 × Mithril Bar 3 × Glass Vessel 16 × Infernal Fragment || Product: 1 × Maple Longbow; Facility: Fletching Bench; XP: 40; Materials: 16 × Maple Logs 8 × Mystic Thread 4 × Mithril Bar 4 × Diamond 32 × Infernal Fragment || Product: 1 × Maple Shortbow; Facility: Fletching Bench; XP: 40; Materials: 10 × Maple Logs 4 × Mystic Thread 2 × Mithril Bar 2 × Diamond 16 × Infernal Fragment || Product: 1 × Maple Wand; Facility: Mystic Forge; XP: 20; Materials: 8 × Maple Logs 3 × Mithril Bar 2 × Glass Vessel 8 × Infernal Fragment || Product: 1 × Mithril Crossbow; Facility: Fletching Bench; XP: 40; Materials: 16 × Maple Logs 6 × Mystic Thread 1 × Mithril Crossbow Limbs 18 × Infernal Fragment || Product: 1 × Mithril Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Mithril Bar 3 × Cursed Leather 3 × Mystic Thread 18 × Infernal Fragment || Product: 1 × Mithril Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Mithril Bar 5 × Maple Logs 6 × Cursed Leather 32 × Infernal Fragment || Product: 1 × Mithril Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Mithril Bar 5 × Cursed Leather 4 × Mystic Thread 32 × Infernal Fragment || Product: 1 × Mithril Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Mithril Bar 8 × Maple Logs 4 × Cursed Leather 16 × Infernal Fragment || Product: 1 × Mithril Scimitar; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Mithril Bar 5 × Cursed Leather 1 × Mystic Cloth 16 × Infernal Fragment || Product: 1 × Mithril Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Mithril Bar 4 × Cursed Leather 18 × Infernal Fragment || Product: 1 × Mithril Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Mithril Bar 5 × Cursed Leather 3 × Mystic Thread 18 × Infernal Fragment || Product: 1 × Mithril Warhammer; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Mithril Bar 3 × Cursed Leather 32 × Infernal Fragment || Product: 1 × Mystic Hat; Facility: Armour Bench; XP: 40; Materials: 4 × Mystic Cloth 1 × Cursed Leather 12 × Infernal Fragment 1 × Demonic Oil || Product: 1 × Mystic Robe Legs; Facility: Armour Bench; XP: 40; Materials: 8 × Mystic Cloth 2 × Cursed Leather 24 × Infernal Fragment 2 × Demonic Oil || Product: 1 × Mystic Robes; Facility: Armour Bench; XP: 40; Materials: 12 × Mystic Cloth 4 × Cursed Leather 32 × Infernal Fragment 3 × Demonic Oil || Product: 1 × Subjugation Staff; Facility: Mystic Forge; XP: 40; Materials: 16 × Maple Logs 6 × Mithril Bar 4 × Glass Vessel 18 × Infernal Fragment || Product: 1 × Titan's Wrath; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Black Metal Bar 5 × Blue Dragon Leather 4 × Mystic Cloth 64 × Infernal Fragment 1 × Broken Titan's Wrath || Product: 1 × Zamorak Hood; Facility: Armour Bench; XP: 40; Materials: 2 × Mystic Cloth 2 × Black Metal Bar 12 × Infernal Fragment 1 × Demonic Oil || Product: 1 × Zamorak Robe Legs; Facility: Armour Bench; XP: 40; Materials: 6 × Mystic Cloth 4 × Black Metal Bar 24 × Infernal Fragment 2 × Demonic Oil || Product: 1 × Zamorak Robes; Facility: Armour Bench; XP: 40; Materials: 8 × Mystic Cloth 6 × Black Metal Bar 32 × Infernal Fragment 3 × Demonic Oil || Product: 1 × Zamorak Staff; Facility: Mystic Forge; XP: 40; Materials: 10 × Black Metal Bar 10 × Cursed Leather 6 × Demonic Oil 4 × Diamond 64 × Infernal Fragment"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Blue Dragon; Quantity: 40-50; Rarity: Always || Source: Zamorakian Warrior Pack; Quantity: 0-1; Rarity: Always || Source: Small Ash Pile; Quantity: 1; Rarity: Always || Source: Ash Pile; Quantity: 2; Rarity: Always || Source: Zamorakian Mage Pack; Quantity: 0-1; Rarity: Always || Source: Chest (Dowdun Reach); Quantity: 3-5; Rarity: 70/100 || Source: Chest (Dowdun Reach); Quantity: 7-10; Rarity: 20/100 || Source: Chest (Dowdun Reach); Quantity: 12-15; Rarity: 10/100 || Source: Chest (Dowdun Reach); Quantity: 25-30; Rarity: 90/100 || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1-30; Rarity: 1/6.67 || Source: Reward Pack: Dowdun Reach Silver; Quantity: 1-20; Rarity: 1/6.67"
+            }
+          ],
+          "description": "Infernal fragments is a type of currency used in Evil Emporium to purchase several item recipes, and capes, these can be found in chests within Dowdun Reach, or dropped by certain monsters, such as lesser demons, hellhounds, hellrats, Black Knights, Zamorakian acolytes, Mages of Zamorak and shardbound lesser demons."
+        },
         "step": 0
       },
       {
@@ -60959,6 +63250,56 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Kalphite Ichor",
+        "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Ichor.png?fef71",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "A sticky fluid obtained from kalphites and kalphite eggs in Umbral Sands; processed into acrid adhesive.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "A viscous, sticky fluid. Can be processed into a durable adhesive."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Acrid Adhesive; Facility: Kiln; XP: 20; Materials: 3 × Kalphite Ichor || Product: 1 × Kalphite Bait; Facility: Crafting Table; XP: 20; Materials: 1 × Feathers 1 × Desert Thread 1 × Kalphite Ichor"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Kalphite Queen; Quantity: 6-12; Rarity: Always || Source: Kalphite Worker; Quantity: 1; Rarity: 50/100 || Source: Kalphite Soldier; Quantity: 2; Rarity: 50/100 || Source: Kalphite Guardian; Quantity: 3; Rarity: 50/100 || Source: Chest (Umbral Sands); Quantity: 2-4; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 2-4; Rarity: 1.46/100 || Source: Kalphite egg; Quantity: 6-9; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 15"
+            }
+          ],
+          "description": "Kalphite ichor is a basic item obtained from kalphite enemies and kalphite eggs in Umbral Sands. It can be processed into acrid adhesive.\n\n(Journal)\nWhat are you doing with that? You're not... hyuk... picking it up, are you? With your bare hands?\n\nPut it down! That's... ouurngle... hideous stuff. You can't possibly use it for anything... HHKKKKKnnnggle... practical, can you?"
+        },
+        "stations": [
+          "Kiln",
+          "Crafting Table"
+        ],
+        "step": 0
+      },
+      {
         "name": "Kalphite Shell",
         "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d",
         "tier": "",
@@ -60993,6 +63334,55 @@ window.WILDS_STORAGE = [
             }
           ],
           "description": "Kalphite shell is a basic item used as a crafting material. It can be processed from kalphite shell fragments with acrid adhesive at the tannery.\n\n(Journal)\nAh, very good: you have cottoned onto something that mainland Gielinor has failed to understand. The way to make armour as strong as a kalphite's exoskeleton is not to hammer it into shapes that are suitable for humans. The carapace is too resistant, and you will get an armour that is ill-fitting for the human form. There will be plenty of gaps for someone to slip a Keris into.\n\nWhat you need to do is break the shell into its component fragments. You need to make a kind of kalphite mosaic, then adhere it with something acrid to make it into an armour. That's how you become as hardy as a kalphite."
+        },
+        "stations": [
+          "Tannery"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Kalphite Shell Fragments",
+        "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell_Fragments.png?36278",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Shattered kalphite chitin dropped by kalphite enemies in Umbral Sands; glued with acrid adhesive at a tannery to make kalphite shell.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "Shattered kalphite chitin. Could be salvaged with the right adhesive."
+            },
+            {
+              "label": "Weight",
+              "value": "0.1"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Kalphite Shell; Facility: Tannery; XP: 20; Materials: 3 × Kalphite Shell Fragments 1 × Acrid Adhesive"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Kalphite Worker; Quantity: 1-2; Rarity: Always || Source: Kalphite Soldier; Quantity: 2-4; Rarity: Always || Source: Kalphite Guardian; Quantity: 3-6; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 12"
+            }
+          ],
+          "description": "Kalphite shell fragments is a basic item obtained from kalphite enemies in Umbral Sands. It can be processed into kalphite shell at a tannery.\n\n(Journal)\nYou might get some looks, but make sure you pocket the little scraps of kalphite that you find. These little exoskeleton offcuts may not be much on their own, but grab some acrid adhesive and you can glue them together to make kalphite shells. Where you go after that is up to you. We recommend magic carpet battles, tossing shells at each other as you race."
         },
         "stations": [
           "Tannery"
@@ -61129,6 +63519,56 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Blast Furnace"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Naptha",
+        "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "A very flammable liquid distilled from swamp tar and charcoal; used to craft fire oil.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "11 September 2025 (Update)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "A very flammable liquid."
+            },
+            {
+              "label": "Weight",
+              "value": "0.5"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Recipe",
+              "value": "Facility | Brewing Cauldron || Skill | Experience || Artisan | 20 || Material | Quantity || Swamp Tar | 1 || Charcoal | 1 || Clay Vessel | 1 || Output | Quantity || Naptha | 1"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Dragon Wolf; Quantity: 1; Rarity: 33/100 || Source: Carnivorous Chinchompa; Quantity: 1; Rarity: 1/10 || Source: Wild Ruby Vine; Quantity: 1; Rarity: Always || Source: Wild Ruby Vine; Quantity: 1; Rarity: 1/2"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Fire Oil; Facility: Fletching Bench; XP: 20; Materials: 1 × Naptha 1 × Coarse Thread"
+            }
+          ],
+          "description": "Naptha is an item that is unlocked at level 45 Ranged, where players can use naptha to create fire oil. It is also dropped by dragon wolves.\n\n(Journal)\nDistilled from swamp tar and charcoal.\n\nOnce known as \"thick water\", naptha is liquid fire in waiting. It takes little to bring this substance to ignition, even too bright a sunny day can bring the raging flame from within.\n\nAs such, this material is widely sought by anyone with a strong desire to set things aflame. Pyromaniacs, alchemists and dragon cultists alike yearn for this liquid."
+        },
+        "stations": [
+          "Brewing Cauldron",
+          "Fletching Bench"
         ],
         "step": 0
       },
@@ -61397,6 +63837,55 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Poison Ichor",
+        "img": "https://dragonwilds.runescape.wiki/images/Poison_Ichor.png?21931",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Dropped by wild jade vines and putrid rats; used to brew antipoison potion and weapon poison.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "This stuff looks nasty."
+            },
+            {
+              "label": "Weight",
+              "value": "0.4"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Antipoison Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Irit 1 × Poison Ichor 1 × Glass Vessel || Product: 1 × Weapon Poison; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Clay Vessel 1 × Kwuarm 1 × Poison Ichor"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Putrid Rat; Quantity: 1; Rarity: 25/100 || Source: Wild Jade Vine; Quantity: 1; Rarity: Always || Source: Wild Jade Vine; Quantity: 1; Rarity: 50/100 || Source: Plague King; Quantity: 1; Rarity: Always || Source: Kalphite Queen; Quantity: 3-6; Rarity: Always"
+            },
+            {
+              "label": "Shop locations",
+              "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 4"
+            }
+          ],
+          "description": "Poison ichor is a basic item that comes from killing wild jade vines and putrid rats.\n\n(Journal)\nDropped by poisonous enemies.\n\nNature is full of malicious little critters who carry toxins. Snakes, spiders, politicians, each of them has ways to make other creatures suffer.\n\nThis ichor is prized by poisoners and alchemists, as it can be used to create deadly concoctions that will give someone, or something, a really bad day."
+        },
+        "stations": [
+          "Brewing Cauldron"
+        ],
+        "step": 0
+      },
+      {
         "name": "Refined Obsidian",
         "img": "https://dragonwilds.runescape.wiki/images/Refined_Obsidian.png?adca9",
         "tier": "",
@@ -61434,6 +63923,49 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Blast Furnace"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Sacred Oil",
+        "img": "https://dragonwilds.runescape.wiki/images/Sacred_Oil.png?d2492",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "Brewed from necrotic bonemeal and ectoplasm; a key crafting component for power level 5 armour.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "Made from combining necrotic bonemeal and ectoplasm. Used as a crafting component."
+            },
+            {
+              "label": "Weight",
+              "value": "0.5"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Fallen Hoplite's Chest; Facility: Armour Bench; XP: 100; Materials: 10 × Steel Bar 12 × Undead Bone 8 × Draconic Leather 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Fallen Hoplite's Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Steel Bar 8 × Undead Bone 2 × Draconic Leather 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Fallen Hoplite's Tassets; Facility: Armour Bench; XP: 100; Materials: 6 × Steel Bar 8 × Undead Bone 6 × Draconic Leather 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Green Dragonhide Body; Facility: Armour Bench; XP: 60; Materials: 12 × Green Dragonhide Leather 4 × Draconic Leather 4 × Steel Bar 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Green Dragonhide Chaps; Facility: Armour Bench; XP: 60; Materials: 6 × Green Dragonhide Leather 4 × Draconic Leather 2 × Steel Bar 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Green Dragonhide Coif; Facility: Armour Bench; XP: 60; Materials: 4 × Green Dragonhide Leather 2 × Draconic Leather 1 × Steel Bar 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Necromancer's Crown; Facility: Armour Bench; XP: 100; Materials: 6 × Undead Bone 2 × Fine Cloth 1 × Draconic Leather 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Necromancer's Robe Bottom; Facility: Armour Bench; XP: 100; Materials: 12 × Undead Bone 4 × Fine Cloth 2 × Draconic Leather 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Necromancer's Robe Top; Facility: Armour Bench; XP: 100; Materials: 16 × Undead Bone 8 × Fine Cloth 4 × Draconic Leather 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Necromancer's Staff; Facility: Mystic Forge; XP: 250; Materials: 24 × Undead Bone 6 × Sacred Oil 4 × Fine Thread 6 × Vault Shard || Product: 1 × Ranger Hat; Facility: Armour Bench; XP: 60; Materials: 4 × Fine Cloth 2 × Green Dragonhide Leather 1 × Draconic Leather 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Ranger Tights; Facility: Armour Bench; XP: 60; Materials: 6 × Fine Cloth 4 × Green Dragonhide Leather 2 × Draconic Leather 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Ranger Tunic; Facility: Armour Bench; XP: 60; Materials: 12 × Fine Cloth 4 × Green Dragonhide Leather 4 × Draconic Leather 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Shadowscale Hood; Facility: Armour Bench; XP: 60; Materials: 4 × Draconic Leather 6 × Undead Bone 2 × Fine Cloth 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Spectral Silver Thread; Facility: Edna; Materials: 1 × Silver Bar 1 × Fine Thread 1 × Sacred Oil 6 × Soul Fragment 1 × Bedraggled Spellbook || Product: 1 × Splitbark Body; Facility: Armour Bench; XP: 100; Materials: 8 × Hollow Bark 8 × Fine Cloth 4 × Draconic Leather 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Splitbark Helm; Facility: Armour Bench; XP: 100; Materials: 3 × Hollow Bark 2 × Fine Cloth 1 × Draconic Leather 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Splitbark Legs; Facility: Armour Bench; XP: 100; Materials: 6 × Hollow Bark 4 × Fine Cloth 2 × Draconic Leather 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Splitbark Staff; Facility: Mystic Forge; XP: 60; Materials: 16 × Hollow Bark 6 × Sacred Oil 4 × Fine Thread 6 × Vault Shard || Product: 1 × Splitbark Wand; Facility: Mystic Forge; XP: 20; Materials: 6 × Hollow Bark 3 × Sacred Oil 2 × Fine Thread 3 × Vault Shard || Product: 1 × Steel Full Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Steel Bar 4 × Draconic Leather 1 × Fine Cloth 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Steel Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Steel Bar 4 × Draconic Leather 1 × Fine Cloth 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Steel Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Steel Bar 6 × Draconic Leather 4 × Fine Cloth 3 × Sacred Oil 1 × Vault Shard || Product: 1 × Steel Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Steel Bar 4 × Draconic Leather 3 × Fine Cloth 2 × Sacred Oil 4 × Vault Shard || Product: 1 × White Full Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Steel Bar 2 × Silver Bar 4 × Draconic Leather 1 × Fine Cloth 1 × Sacred Oil 2 × Vault Shard || Product: 1 × White Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Steel Bar 2 × Silver Bar 6 × Draconic Leather 2 × Fine Cloth 3 × Sacred Oil 6 × Vault Shard || Product: 1 × White Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Steel Bar 2 × Silver Bar 4 × Draconic Leather 3 × Fine Cloth 2 × Sacred Oil 4 × Vault Shard"
+            }
+          ],
+          "description": "Sacred oil is one of the materials required for making power level 5 armour.\n\n(Journal)\nYou may think an undead bone is no different from a normal bone, and in most cases that's true. The animating forces of necromancy normally just puppet the bones, allowing them to be possessed by a spirit or controlled by some external force.\n\nThe undead of Fellhollow are different. They are animated by the last remnants of their humanity, tiny bits of soul clinging on in tattered forms. They move because they need to and they shudder because they fear what happens when they stop.\n\nAs such, the bones of the Fellhollow dead have strange properties that a skilled craftsman can refine and find uses for.\n\nMorbid, yes, but inventive."
+        },
+        "stations": [
+          "Armour Bench",
+          "Mystic Forge",
+          "Edna"
         ],
         "step": 0
       },
@@ -61531,6 +64063,52 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Soul Fragment",
+        "img": "https://dragonwilds.runescape.wiki/images/Soul_Fragment.png?47160",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "A currency and crafting material sourced from defeating undead monsters and mining soul stones; used at Death's Exchange.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Special Material"
+            },
+            {
+              "label": "Description",
+              "value": "Someone may have use for this."
+            },
+            {
+              "label": "Weight",
+              "value": "0.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "9999"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Shadow Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 64 × Soul Fragment 5 × Draconic Leather 4 × Fine Thread 6 × Vault Shard || Product: 1 × Spectral Silver Thread; Facility: Edna; Materials: 1 × Silver Bar 1 × Fine Thread 1 × Sacred Oil 6 × Soul Fragment 1 × Bedraggled Spellbook"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Green Dragon; Quantity: 40-50; Rarity: Always || Source: Skeletal Archer; Quantity: 3-5; Rarity: 25/100 || Source: Skeletal Archer; Quantity: 1; Rarity: Always || Source: Zogre; Quantity: 20; Rarity: Always || Source: Zogre; Quantity: 15-30; Rarity: 1/200 || Source: Zombie; Quantity: 1; Rarity: Always || Source: Skeletal Hoplite; Quantity: 1; Rarity: Always || Source: Skeletal Hoplite; Quantity: 3-5; Rarity: 25/100 || Source: Rotsworn Warrior; Quantity: 1; Rarity: Always || Source: Rotsworn Warrior; Quantity: 3-5; Rarity: 25/100 || Source: Rotsworn Marauder; Quantity: 1; Rarity: Always || Source: Rotsworn Marauder; Quantity: 3-5; Rarity: 25/100 || Source: Skeletal Warrior; Quantity: 1; Rarity: Always || Source: Skeletal Warrior; Quantity: 3-5; Rarity: 25/100 || Source: Rotsworn Necromancer; Quantity: 1; Rarity: Always || Source: Rotsworn Necromancer; Quantity: 3-5; Rarity: 25/100 || Source: Soul Stone; Quantity: 31-35; Rarity: Always || Source: Skeletal Necromancer; Quantity: 1; Rarity: Always || Source: Skeletal Necromancer; Quantity: 3-5; Rarity: 25/100 || Source: Skeletal Marauder; Quantity: 1; Rarity: Always || Source: Skeletal Marauder; Quantity: 3-5; Rarity: Always || Source: Spectral Bird; Quantity: 12-15; Rarity: Common || Source: Blightscale; Quantity: 40-50; Rarity: Always || Source: Ulgo the Zogre; Quantity: 20; Rarity: Always || Source: Ulgo the Zogre; Quantity: 15-30; Rarity: 1/200 || Source: Spectral Chest; Quantity: 50-100; Rarity: Always || Source: Reward Pack: Fellhollow Gold; Quantity: 1-30; Rarity: 1/6.67 || Source: Rotsworn Reanimator; Quantity: 3-5; Rarity: Always || Source: Skeletal Blightshot; Quantity: 1; Rarity: Always || Source: Skeletal Blightshot; Quantity: 6-10; Rarity: 1/4"
+            }
+          ],
+          "description": "A soul fragment is a special material sourced mainly from defeating monsters and mining soul stones. It is also a type of currency used in Death's Exchange to purchase several item recipes, and capes, these can be found in chests within Fellhollow, dropped by undead monsters, or mined through the soul stones found in the spectral doors."
+        },
+        "stations": [
+          "Blacksmith's Bench",
+          "Edna"
+        ],
+        "step": 0
+      },
+      {
         "name": "Steel Crossbow Limbs",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Crossbow_Limbs.png/250px-Steel_Crossbow_Limbs.png",
         "tier": "",
@@ -61624,6 +64202,95 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Vault Core",
+        "img": "https://dragonwilds.runescape.wiki/images/Vault_Core.png?dfc4f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "A dragonkin energy source found on pedestals in dragonkin vaults; used to craft lodestones, crafting stations, and masterwork weapons.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Description",
+              "value": "A dragonkin energy source, found only within dragonkin vaults."
+            },
+            {
+              "label": "Weight",
+              "value": "50.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "25"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Anti-Dragon Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Blightwood 4 × Wild Anima 4 × Hard Leather 4 × Opal 8 × Vault Shard 1 × Vault Core || Product: 1 × Armour Bench; Facility: Build Menu; XP: 12; Materials: 6 × Bronze Bar 20 × Ash Logs 8 × Coarse Thread 1 × Vault Core || Product: 1 × Blacksmith's Bench; Facility: Build Menu; XP: 12; Materials: 6 × Bronze Bar 20 × Ash Logs 8 × Coarse Thread 1 × Vault Core || Product: 1 × Blast Furnace; Facility: Build Menu; XP: 12; Materials: 12 × Granite 8 × Iron Bar 4 × Draconic Leather 10 × Fire Rune 2 × Vault Core || Product: 1 × Crystal Bow; Facility: Fletching Bench; XP: 300; Materials: 18 × Opal 4 × Wool Thread 4 × Bronze Bar 4 × Anima-Infused Bark 8 × Vault Shard 1 × Vault Core || Product: 1 × Dragonblight Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Noxious Draconic Visage 1 × Anti-Dragon Shield 12 × Vault Shard 1 × Vault Core || Product: 1 × Dragoncurse Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Undead Draconic Visage 1 × Anti-Dragon Shield 12 × Vault Shard 1 × Vault Core || Product: 1 × Dragonfire Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Smouldering Draconic Visage 1 × Anti-Dragon Shield 12 × Vault Shard 1 × Vault Core || Product: 1 × Fletching Bench; Facility: Build Menu; XP: 12; Materials: 20 × Ash Logs 1 × Vault Core 8 × Coarse Thread 6 × Bronze Bar || Product: 1 × Granite Maul; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Imbued Granite Maul Head 1 × Ornate Maul Handle 1 × Imbued Leather Wrappings 8 × Vault Shard 1 × Vault Core || Product: 1 × Imaru's Talon; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Undead Draconic Visage 1 × Steel Scimitar 12 × Vault Shard 1 × Vault Core || Product: 1 × Jeweler's Bench; Facility: Build Menu; XP: 15; Materials: 12 × Oak Plank 8 × Ground Sandstone 2 × Gold Bar 2 × Silver Bar 1 × Vault Core || Product: 1 × Lightning Rod; Facility: Build Menu; XP: 20; Materials: 6 × Iron Bar 3 × Gold Bar 2 × Vault Core 18 × Granite || Product: 1 × Lodestone; Facility: Build Menu; XP: 80; Materials: 32 × Stone 20 × Rune Essence 1 × Vault Core || Product: 1 × Mystic Forge; Facility: Build Menu; XP: 12; Materials: 6 × Bronze Bar 20 × Ash Logs 8 × Coarse Thread 1 × Vault Core || Product: 1 × Personal Chest (chest); Facility: Build Menu; XP: 0; Materials: 16 × Oak Logs 3 × Vault Core 99 × Law Rune || Product: 1 × Staff of Light; Facility: Mystic Forge; XP: 100; Materials: 16 × Blightwood 8 × Wild Anima 4 × Sapphire 12 × Vault Shard 1 × Vault Core || Product: 1 × Stonecutter; Facility: Build Menu; XP: 12; Materials: 18 × Oak Logs 4 × Steel Bar 8 × Fine Thread 1 × Vault Core || Product: 1 × Storage Ledger; Facility: Build Menu; XP: 0; Materials: 1 × Vault Core 5 × Ash Logs 20 × Law Rune || Product: 1 × Vault Core (Decoration); Facility: Build Menu; XP: 20; Materials: 1 × Vault Core || Product: 1 × Well; Facility: Build Menu; XP: 8; Materials: 32 × Stone 6 × Ash Logs 1 × Vault Core"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Misc. Salvage; Quantity: 1-2; Rarity: 5.26/100"
+            }
+          ],
+          "description": "A vault core can be found on pedestals in dragonkin vaults. Their primary use is to make lodestones, which serve as a teleport location that can be travelled to from any other lodestone the player has placed on the map. They are also components of several masterworks, such as the abyssal whip and dragonblight shield. Note that these respawn in their plinths every three in-game days, so their quantity is not limited.\n\n(Journal)\nA heart of alchemically modified rune essence. Layers of complex enchantments and veins of anima run through this core. It allows it to absorb ambient anima from its surroundings, which in turn powers the various functions of the vault guardian servitors.\n\nThis marvel of dragonkin science had revolutionary potential. The ability to create power sources that thrived off of the ambient anima of the region. Ashenfall, with it's surfeit of magical power, was the perfect place for such technology, and the dragonkin would apply it to all of their arcane machinery."
+        },
+        "step": 0
+      },
+      {
+        "name": "Vile Ashes",
+        "img": "https://dragonwilds.runescape.wiki/images/Vile_Ashes.png?22af8",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "The remains of a demonic creature, found in ash piles; used to brew demonic oil and craft giant krill bait.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Description",
+              "value": "Remains of a demonic creature. A crafting material used to make demonic oil."
+            },
+            {
+              "label": "Weight",
+              "value": "3.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Products",
+              "value": "Product: 1 × Demonic Oil; Facility: Brewing Cauldron; XP: 40; Materials: 6 × Necrotic Bonemeal 3 × Vile Ashes 1 × Glass Vessel || Product: 1 × Giant Krill Bait; Facility: Crafting Table; XP: 20; Materials: 1 × Raw Giant Krill 1 × Vile Ashes || Product: 1 × Hell Rat Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Vile Ashes 2 × Leather"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Small Ash Pile; Quantity: 1; Rarity: 50/100 || Source: Ash Pile; Quantity: 2-3; Rarity: Always"
+            }
+          ],
+          "description": "Vile ashes are a processed material required for making demonic oil and giant krill bait.\n\n(Journal)\nDemons do not leave bones behind on death. That would require a skeleton, a prospect that would make a demon queasy. Instead, demons are magical entities, composed of essence and energies. On death, they disperse, leaving an ashy composite.\n\nDon't be mistaken in thinking that it's similar to the ash left after a fire. Dab your tongue in Vile Ash and you'll soon understand where the \"vile\" comes from."
+        },
+        "stations": [
+          "Brewing Cauldron",
+          "Crafting Table",
+          "Build Menu"
+        ],
+        "step": 0
+      },
+      {
         "name": "Weeds",
         "img": "https://dragonwilds.runescape.wiki/images/thumb/Weeds.png/250px-Weeds.png?f9cdc",
         "tier": "",
@@ -61710,6 +64377,44 @@ window.WILDS_STORAGE = [
           "Kiln"
         ],
         "step": 0
+      },
+      {
+        "name": "Zombie Pack",
+        "img": "https://dragonwilds.runescape.wiki/images/Zombie_Pack.png?fc3cc",
+        "tier": "",
+        "tierRank": null,
+        "chest": "misc",
+        "note": "A loot container dropped by zombies and rotsworn zombies; opens into runes, ores, coarse animal fur, or watermelon seeds.",
+        "detail": {
+          "infobox": [
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Type",
+              "value": "Container"
+            },
+            {
+              "label": "Description",
+              "value": "A moist and squishy bag of bits."
+            },
+            {
+              "label": "Weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Item sources",
+              "value": "Source: Rotsworn Zombie; Quantity: 1; Rarity: Always || Source: Zombie; Quantity: 1; Rarity: Always || Source: Rod Fishing Spot; Quantity: 1; Rarity: 5/100 || Source: Net Fishing Spot; Quantity: 1; Rarity: 5/100 || Source: Rotsworn Reanimator; Quantity: 2; Rarity: Always"
+            }
+          ],
+          "description": "Zombie packs are a drop from zombies and rotsworn zombies. Opening one gives either a rune reward (Air, Astral, Earth, Fire, Law, Nature, or Water runes) or an other reward (Copper Ore, Tin Ore, Coarse Animal Fur, or Watermelon Seeds), each table equally weighted.\n\n(Journal)\nA decayed and blighted sack. Contains the meagre belongings of the restless dead."
+        },
+        "step": 0
       }
     ]
   }
@@ -61718,58 +64423,66 @@ window.WILDS_STORAGE_MAX_STEP = 8;
 window.WILDS_STATIONS = [
   {
     "name": "Armour Bench",
-    "count": 159,
+    "count": 161,
     "members": [
       "Armour Bench"
     ]
   },
   {
     "name": "Blacksmith's Bench",
-    "count": 85,
+    "count": 95,
     "members": [
       "Blacksmith's Bench"
     ]
   },
   {
     "name": "Brewing Cauldron",
-    "count": 60,
+    "count": 66,
     "members": [
       "Brewing Cauldron"
     ]
   },
   {
-    "name": "Crafting Table",
-    "count": 43,
-    "members": [
-      "Crafting Table"
-    ]
-  },
-  {
-    "name": "Mystic Forge",
-    "count": 37,
-    "members": [
-      "Mystic Forge"
-    ]
-  },
-  {
-    "name": "Fletching Bench",
-    "count": 36,
-    "members": [
-      "Fletching Bench"
-    ]
-  },
-  {
     "name": "Build Menu",
-    "count": 30,
+    "count": 46,
     "members": [
       "Build Menu"
     ]
   },
   {
+    "name": "Crafting Table",
+    "count": 46,
+    "members": [
+      "Crafting Table"
+    ]
+  },
+  {
+    "name": "Fletching Bench",
+    "count": 40,
+    "members": [
+      "Fletching Bench"
+    ]
+  },
+  {
+    "name": "Mystic Forge",
+    "count": 38,
+    "members": [
+      "Mystic Forge"
+    ]
+  },
+  {
     "name": "Jeweler's Bench",
-    "count": 28,
+    "count": 31,
     "members": [
       "Jeweler's Bench"
+    ]
+  },
+  {
+    "name": "Tannery",
+    "count": 27,
+    "members": [
+      "Advanced Tannery",
+      "Tannery"
     ]
   },
   {
@@ -61780,16 +64493,8 @@ window.WILDS_STATIONS = [
     ]
   },
   {
-    "name": "Tannery",
-    "count": 22,
-    "members": [
-      "Advanced Tannery",
-      "Tannery"
-    ]
-  },
-  {
     "name": "Kiln",
-    "count": 15,
+    "count": 18,
     "members": [
       "Kiln"
     ]
@@ -61803,9 +64508,30 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Blast Furnace",
-    "count": 10,
+    "count": 12,
     "members": [
       "Blast Furnace"
+    ]
+  },
+  {
+    "name": "Campfire",
+    "count": 12,
+    "members": [
+      "Campfire"
+    ]
+  },
+  {
+    "name": "Grill",
+    "count": 12,
+    "members": [
+      "Grill"
+    ]
+  },
+  {
+    "name": "Spinning Wheel",
+    "count": 11,
+    "members": [
+      "Spinning Wheel"
     ]
   },
   {
@@ -61816,10 +64542,17 @@ window.WILDS_STATIONS = [
     ]
   },
   {
-    "name": "Spinning Wheel",
-    "count": 10,
+    "name": "Cooking Range",
+    "count": 9,
     "members": [
-      "Spinning Wheel"
+      "Cooking Range"
+    ]
+  },
+  {
+    "name": "Loom",
+    "count": 9,
+    "members": [
+      "Loom"
     ]
   },
   {
@@ -61830,27 +64563,6 @@ window.WILDS_STATIONS = [
     ]
   },
   {
-    "name": "Loom",
-    "count": 8,
-    "members": [
-      "Loom"
-    ]
-  },
-  {
-    "name": "Campfire",
-    "count": 7,
-    "members": [
-      "Campfire"
-    ]
-  },
-  {
-    "name": "Grill",
-    "count": 7,
-    "members": [
-      "Grill"
-    ]
-  },
-  {
     "name": "Rune Altar",
     "count": 7,
     "members": [
@@ -61858,10 +64570,17 @@ window.WILDS_STATIONS = [
     ]
   },
   {
-    "name": "Cooking Range",
-    "count": 6,
+    "name": "Stone Range",
+    "count": 5,
     "members": [
-      "Cooking Range"
+      "Stone Range"
+    ]
+  },
+  {
+    "name": "Edna",
+    "count": 3,
+    "members": [
+      "Edna"
     ]
   },
   {
@@ -61879,17 +64598,17 @@ window.WILDS_STATIONS = [
     ]
   },
   {
-    "name": "Stone Range",
-    "count": 3,
-    "members": [
-      "Stone Range"
-    ]
-  },
-  {
     "name": "Fletching Table",
     "count": 2,
     "members": [
       "Fletching Table"
+    ]
+  },
+  {
+    "name": "Lougrim's Shrine",
+    "count": 2,
+    "members": [
+      "Lougrim's Shrine"
     ]
   }
 ];

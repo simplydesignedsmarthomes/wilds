@@ -8,8 +8,9 @@
    location, an item to bring, a warning) beyond the bare step list. A
    `stub: true` entry means the wiki page itself didn't have a full
    walkthrough documented yet - that's a gap in the source, not a guess
-   filled in here. Keys must match the quest name strings in quests.js
-   exactly. */
+   filled in here. A `youtube` field, when present, links to a real video
+   found via search that walks through that specific quest. Keys must match
+   the quest name strings in quests.js exactly. */
 
 window.WILDS_QUEST_WALKTHROUGHS = {
   "First Steps": {
@@ -22,7 +23,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Travel to Bramblemead Village and find the Wise Old Man on the first floor of a ruined building at the far end of the village.",
       "Speak to him to finish the quest and learn about your next steps."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/First_Steps.png"
+    img: "https://dragonwilds.runescape.wiki/images/First_Steps.png",
+    youtube: "https://www.youtube.com/watch?v=30VuqAIY020"
   },
   "Getting Started": {
     requirements: "Complete First Steps",
@@ -34,7 +36,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Use the crafting table to craft a stone club (6 ash logs and 8 stones).",
       "Speak to Doric again with the club to complete the quest; he sends you to Vannaka to start Ratcatcher."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/Getting_Started.png"
+    img: "https://dragonwilds.runescape.wiki/images/Getting_Started.png",
+    youtube: "https://www.youtube.com/watch?v=CJjahEQ-gQo"
   },
   "Ratcatcher": {
     requirements: "Complete Getting Started",
@@ -46,7 +49,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Cook the raw rat meat on the campfire to make 2 rat roasts.",
       "Bring the rat roasts to Vannaka to complete the quest; he sends you to Zanik to start Rune Mysteries."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/Ratcatcher.png"
+    img: "https://dragonwilds.runescape.wiki/images/Ratcatcher.png",
+    youtube: "https://www.youtube.com/watch?v=p05ne5Z9i8g"
   },
   "Rune Mysteries": {
     requirements: "Complete Ratcatcher",
@@ -62,7 +66,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/Rune_Mysteries.png",
     tips: [
       "The quest's item list shows 10 rune essence, but the walkthrough only actually spends 4 of them building the altar."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=NEFli94oiDU"
   },
   "Dragon Slayer": {
     requirements: "Complete First Steps; iron pickaxe and iron logging axe needed for later steps",
@@ -81,7 +86,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Place the horn on the dragonkin altar at Velgar's Rise to start the fight with Velgar.",
       "Defeat Velgar across four health phases, watching for poison attacks as he moves between three corners.",
       "Retrieve Velgar's head and return it to the Wise Old Man to complete the quest."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=GA7baeU4C9Q"
   },
   "Withering Heights": {
     requirements: "Complete Dragon Slayer",
@@ -105,7 +111,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "For the Armadyl shrine's ghost puzzle, choose options 3, 2, 3, then 3 again (the weather option also works on the last step) to solve the crime.",
       "Keep one free inventory slot before handing Imaru's head to Death.",
       "If you start a fresh world, you'll need to reactivate all four Emberwood shrine statues again even if you already finished the quest once."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=eD8iLYBHs48"
   },
   "Black Knight's Fortress": {
     requirements: "Complete Withering Heights; level 41 Cooking (to make maple syrup, or obtain a maple toastie from salvage); Steel/Undead Spade, Steel/Mithril Pickaxe, Mithril Logging Axe, and a Fishing Rod (any, preferably the best available)",
@@ -126,7 +133,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "The Crypt shard's grave location is randomized per world, so you may need to dig several graves to find it.",
       "The teleport barrier to The Bastion may stay locked until you've unblocked every other nodestone.",
       "The three underground shards (Crypt, Demon Gate, Lake) are reached via a staircase past the Hellrat pens; there's a second underground entrance nearby too."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=B-C2_EGtJdU"
   },
   "Icthlarin's Little Helper": {
     requirements: "Complete Black Knight's Fortress; Mithril pickaxe or better, Adamant logging axe or better, a spade (Adamant recommended), 1 clean water, 3 adamant bars, 3 raw farm meat, 3 kalphite shell fragments, 3 cactus steaks",
@@ -145,7 +153,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "It's recommended to interact with the Door to Umbral Sands at night and at full rest.",
       "Summon a scarab staff before entering the Manafem vault - it keeps the resident scarabs from hurting you while you transcribe the garou lyrics.",
       "If you're struggling with Fuzan himself, the quest's own Fuzan/Strategies wiki page has a dedicated boss guide."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=CGKbJnASBwc"
   },
   "Regicide": {
     requirements: "Complete Icthlarin's Little Helper",
@@ -164,7 +173,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "After the quest, bring Lougrim's Staff to Ancamairon in Umbral Sands for the Lougrim Memorial Shrine furniture reward.",
       "Every raid run you complete after this one restarts you at Dragontail Vines, not further into the Scorned Wilderness.",
       "Bring antipoison potions and strong tea - it's a long, poison-heavy raid best tackled with power level 7+ gear."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=F4vUWayKWbQ"
   },
 
   "Restless Ghosts": {
@@ -182,7 +192,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     tips: [
       "The four ghosts are only visible at night (sunset to sunrise), so look for them after dark.",
       "Bring a few grilled mushrooms for poison resistance while crossing Whispering Swamp to reach Kay."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=d5FGu0S_tI8"
   },
   "Goblin Diplomacy": {
     requirements: "Rune Mysteries completed; a logging axe and 20 Woodcutting, or one steak to bribe a caged goblin",
@@ -199,7 +210,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Build a lodestone near Zanik early on (32 stone, 20 rune essence, 1 vault core) so you can fast travel straight back to her when you're done.",
       "The swamp cave is at the very bottom of the swamp - descend into the swamp first, or you'll run right over the entrance and miss it.",
       "Only one of the two reliquaries can be looted; whichever one you check second has already had its amulet stolen by a garou druid, so you'll end up visiting both locations either way."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=P8g_-ryWYPA"
   },
   "Highlighting the Problem": {
     requirements: "First Steps completed",
@@ -214,7 +226,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/Runecrafting_Guild.png",
     tips: [
       "You don't need to clear the whole Thishepen Kara vault - just reach the password statue and you can leave."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=Nq8ButwIRXI"
   },
   "Granite Mauled": {
     requirements: "First Steps completed; one free inventory slot; 5+ air runes for Windstep, or ash logs to cross a bridge",
@@ -226,7 +239,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "At the lever, defeat the vault corruptor (hits hard and poisons, spawns putrid rats) - ranged or magic recommended.",
       "Interact with the final statue to get a blueprint, then return it to Doric."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/Ashien%27s_Watch.png"
+    img: "https://dragonwilds.runescape.wiki/images/Ashien%27s_Watch.png",
+    youtube: "https://www.youtube.com/watch?v=dh7VhqcYr8k"
   },
   "Heartstrings": {
     requirements: "Getting Started completed",
@@ -240,7 +254,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/Heartstrings_-_Starting_Point.png",
     tips: [
       "The memorial stones must be visited strictly in order (1 through 7) heading east - skipping ahead won't progress the quest."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=aH22BvXw4qA"
   },
   "Dog Days": {
     requirements: null,
@@ -252,7 +267,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Return the tainted token to Vannaka, then travel north to Lougrim's Shrine.",
       "Defeat the Garou druids at the shrine, then kill rams and wild lapulis vines to collect 2 ram horns and 3 shocking plant bulbs.",
       "Perform the purification ritual to receive a purified token, then return it to Vannaka to complete the quest."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=f9v1Flm0FCs"
   },
   "Cook's Assistant": {
     requirements: "Farming skill unlocked (with wheat already harvested)",
@@ -269,7 +285,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     tips: [
       "Build a lodestone near Slopfinger so you can quickly fast travel to Bramblemead Valley or Temple Woods for eggs.",
       "The quest's item list also shows 7 wheat (one earmarked for the cow), though the walkthrough itself only asks for 6 - bring an extra wheat just in case."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=FuEsheflf2w"
   },
   "Animal Magnetism": {
     requirements: null,
@@ -284,7 +301,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/Animal_Magnetism.png",
     tips: [
       "Bring a weak antipoison potion before heading into Bloodblight Swamp for the undead twigs."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=5jOLlKYuuB8"
   },
   "A Room With A Garou": {
     requirements: null,
@@ -294,7 +312,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Build a house around him using ash logs or another building material - four walls and one 45-degree roof (about 20 ash logs minimum) is the quickest way.",
       "Return and speak to Caratacus again to complete the quest."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/A_Room_With_A_Garou.png"
+    img: "https://dragonwilds.runescape.wiki/images/A_Room_With_A_Garou.png",
+    youtube: "https://www.youtube.com/watch?v=FfrBE8bO1hY"
   },
   "A Melody Remembered": {
     requirements: "An inspiring ring of Runecrafting (or craft one: 1 clay mould, 2 silver bars, 2 opals, 3 vault shards) and an Amulet of Magic (or craft one: 1 clay mould, 2 gold bars, 2 silver bars, 4 sapphires, 6 vault shards) - crafted at a Jeweler's bench (or build one: 12 oak planks, 8 ground sandstone, 2 gold bars, 2 silver bars, 1 vault core)",
@@ -307,7 +326,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/A_Melody_Remembered.png",
     tips: [
       "Ravanna's ring will delete your Salve Amulet if you're wearing one when you receive it - unequip it first."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=AtTn4_Vxm9o"
   },
 
   "Even More Restless Ghosts": {
@@ -327,7 +347,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/Even_More_Restless_Ghosts.png",
     tips: [
       "All four Emberwood god shrines (from Withering Heights) need to be active to keep the village barrier down - on a fresh world you may need to reactivate them first."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=20lBBBySHQw"
   },
   "The Wild Hunt": {
     requirements: "Withering Heights (partial completion, to unlock Fellhollow)",
@@ -339,7 +360,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Return the three primordial hearts to Vannaka.",
       "Watch Vannaka perform the old garou ritual to imbue you with the spirits' essence and complete the quest."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/The_Wild_Hunt.png"
+    img: "https://dragonwilds.runescape.wiki/images/The_Wild_Hunt.png",
+    youtube: "https://www.youtube.com/watch?v=zhAqIxe6URw"
   },
   "Seeking Salvation": {
     requirements: "Withering Heights (partial completion, to unlock Fellhollow)",
@@ -354,7 +376,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Proceed to the central staircase and climb to the second-highest level.",
       "Use Windstep to reach the opening and interact with the dragonkin statue to reveal its secrets and complete the quest."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/Seeking_Salvation_Quest_Image.png"
+    img: "https://dragonwilds.runescape.wiki/images/Seeking_Salvation_Quest_Image.png",
+    youtube: "https://www.youtube.com/watch?v=Xuafi-gHgJ4"
   },
   "Things That Go Boom In The Night": {
     requirements: "Withering Heights (partial completion, to unlock Fellhollow); completion of The Wild Hunt",
@@ -367,7 +390,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     ],
     tips: [
       "If you clear out the nearby spawns, spectral chinchompas can take up to 10 in-game days to respawn there - check the farther-out locations instead of waiting."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=u5EmWLtUz3Y"
   },
   "Doric's Quest": {
     requirements: "Withering Heights (partial completion, to unlock Fellhollow); completion of Seeking Salvation",
@@ -384,7 +408,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/Doric%27s_Quest_Image.png",
     tips: [
       "The shadow sword recipe is a rare zogre drop, so you may need to kill several before it drops."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=MiGaOeVU9qM"
   },
   "Letters for the Dead": {
     requirements: "Withering Heights (partial completion, to unlock Fellhollow)",
@@ -399,7 +424,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Deliver the ghostly letter to the postbox in front of Imaru's Tower.",
       "Return to Postie Pete, meet Parcel Pete, and complete the quest."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/Letters_for_the_Dead_Quest.png"
+    img: "https://dragonwilds.runescape.wiki/images/Letters_for_the_Dead_Quest.png",
+    youtube: "https://www.youtube.com/watch?v=T5vNurhveuE"
   },
   "What Remains is Written": {
     requirements: "Withering Heights (partial completion) and Restless Ghosts; full necromancer gear (crown, robe top, robe bottom) and a ghostspeak amulet recommended",
@@ -413,7 +439,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Defeat Ulgo the zogre, in Coalridge Pass, to obtain the scroll Coclear Malificarum.",
       "Defeat Blightscale, a green dragon near the Keep's cliffs, to obtain the scroll The Binding of Ib.",
       "Return all three scrolls to Abraxus to complete the quest."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=tabPEIupDxw"
   },
   "Mirror Mirror": {
     requirements: "Withering Heights (partial completion, to unlock Fellhollow)",
@@ -429,7 +456,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     ],
     tips: [
       "Precise candle spots: Fellhollow (right next to the mirror), Fractured Plains (small lake south-southeast of Velgar's Rise), Stormtouched Highlands (cliff edge northeast of the garou castle), Bloodblight Swamp (behind a tall rock west of the garou encampment), Whispering Swamp (by a giant swamp tree, third westernmost island from the vault), and Bramblemead Valley (south of the Crasorak Kara vault, atop the cliff behind the rocks)."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=ll2JirB1mQY"
   },
 
   "Biohazard": {
@@ -449,7 +477,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/Biohazard_start_image.png",
     tips: [
       "Watch out for a Black Knight sniper and a Black Knight guardian on the Grand Hall roof where you confront Putrilius."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=eBiy46A77Q0"
   },
   "Wanted!": {
     requirements: "Partial completion of Black Knight's Fortress; no required items; recommended tier-appropriate armour, weapons, and food",
@@ -467,7 +496,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/Wanted%21_Quest_Start_Image.png",
     tips: [
       "You'll need to cross The Library and defeat a lesser blue dragon guarding the entrance to The Menagerie before you can reach the Rat Master."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=UpGsNCx9hzw"
   },
   "What's Theirs is Mine!": {
     requirements: "Partial completion of Black Knight's Fortress; no required items; recommended tier-appropriate armour, weapons, and food",
@@ -485,7 +515,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     img: "https://dragonwilds.runescape.wiki/images/What%27s_Theirs_Is_Mine%21_Quest_Start.png",
     tips: [
       "There are nine nodestones total scattered across Dowdun Reach if you're going for the bonus portal reward pack."
-    ]
+    ],
+    youtube: "https://www.youtube.com/watch?v=--osgODV6vA"
   },
   "Contact!": {
     requirements: "Partial completion of Icthlarin's Little Helper; 1 shovel, 1 pickaxe, 4 vault shards; recommended plenty of food/drink",
@@ -501,7 +532,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Return all three crystal helix fragments to Vault Guardian Prime and use them to pass the barrier.",
       "Interact with the Avisk crystals and Veins of Consciousness, then speak to Zanik to finish the quest."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/Contact_Start_Image.png"
+    img: "https://dragonwilds.runescape.wiki/images/Contact_Start_Image.png",
+    youtube: "https://www.youtube.com/watch?v=y1XRzuozRxs"
   },
   "Mapping The Sands I": {
     requirements: "Partial completion of Icthlarin's Little Helper",
@@ -512,7 +544,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Return to Anamcara once the sprites are found to complete the quest."
     ],
     img: "https://dragonwilds.runescape.wiki/images/Mapping_The_Sands_I%21_Start_Image.png",
-    stub: true
+    stub: true,
+    youtube: "https://www.youtube.com/watch?v=jUZEdBd3qVM"
   },
   "Mapping The Sands II": {
     requirements: "Completion of Mapping The Sands I; partial completion of Icthlarin's Little Helper",
@@ -522,7 +555,8 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Visit the 8 Moon Sprite locations marked on the map across the Umbral Sands region.",
       "Return to Anamcara at Alcarrid Camp, next to the pond, to complete the quest."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/Mapping_The_Sands_I%21_Start_Image.png"
+    img: "https://dragonwilds.runescape.wiki/images/Mapping_The_Sands_I%21_Start_Image.png",
+    youtube: "https://www.youtube.com/watch?v=3g1QQIXah4c"
   },
   "Brink of Extinction": {
     requirements: "Partial completion of Icthlarin's Little Helper; 3 raw beltfish, 1 cactus steak",
@@ -538,6 +572,7 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       "Collect the Zi core that drops after the fight and exit the cave.",
       "Speak to the bouncer again to complete the quest and receive your reward."
     ],
-    img: "https://dragonwilds.runescape.wiki/images/Brink_of_Extinction_Start_Image.png"
+    img: "https://dragonwilds.runescape.wiki/images/Brink_of_Extinction_Start_Image.png",
+    youtube: "https://www.youtube.com/watch?v=6OuztvUAhJM"
   }
 };

@@ -941,23 +941,36 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   }
   // "3x Swamp Thread, 4x Vault Shard" -> [{qty:"3",name:"Swamp Thread"}, ...]
   // Different wiki infobox fields separate multi-material lists differently:
-  // "1x Abyssal Spine, 3x Shrapnel" (comma) from one source, but "1 × Oak
-  // Logs 1 × Padded Cloth 1 × Warped Feathers" (bare spaces, no commas at
-  // all) from the "Products" field's embedded Materials sub-value. Splitting
-  // on quantity markers ("N x"/"N ×") instead of a fixed separator handles
-  // both: each marker starts a new entry, and the name runs until the next
-  // marker or the end of the string.
-  function parseMaterials(value){
+  // "6x Bronze Bar, 3x Small Animal Fang, Wool Thread" (comma-separated, and
+  // the wiki's own recipe template sometimes omits the quantity entirely for
+  // a material - meaning 1 - rather than always writing "1x") from one
+  // source, but "1 × Oak Logs 1 × Padded Cloth 1 × Warped Feathers" (bare
+  // spaces, no commas at all) from the "Products" field's embedded Materials
+  // sub-value. Split on commas first (the outer list separator when
+  // present), then within each comma segment split further on quantity
+  // markers ("N x"/"N ×") in case several materials were packed into one
+  // segment with no commas at all.
+  function splitByMarkers(value){
     var markerRe = /(\d+)\s*[x×]\s*/gi;
     var marks = [];
     var m;
     while ((m = markerRe.exec(value))) marks.push({ qty: m[1], markerStart: m.index, nameStart: markerRe.lastIndex });
-    if (!marks.length) return value.trim() ? [{ qty: "", name: value.trim() }] : [];
+    if (!marks.length){
+      var bare = value.trim().replace(/^[x×]\s*/i, "");
+      return bare ? [{ qty: "1", name: bare }] : [];
+    }
     return marks.map(function(mk, i){
       var end = (i + 1 < marks.length) ? marks[i + 1].markerStart : value.length;
       var name = value.slice(mk.nameStart, end).replace(/[,;]+\s*$/, "").trim();
       return { qty: mk.qty, name: name };
     }).filter(function(m){ return m.name; });
+  }
+  function parseMaterials(value){
+    var out = [];
+    value.split(",").forEach(function(seg){
+      out = out.concat(splitByMarkers(seg));
+    });
+    return out;
   }
   function materialChip(m){
     var img = itemImgByName(m.name);

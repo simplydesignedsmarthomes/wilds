@@ -60689,7 +60689,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Products",
-              "value": "Product: 1 × Lunar Garou Hat; Facility: Armour Bench; XP: 125; Materials: 3 × Garou Weave 2 × Infinity Cloth 1 × File:Garou Artifact.png Garou Artifact 1 × Refined Obsidian 1 × Gypsum Wax || Product: 1 × Lunar Garou Robe Legs; Facility: Armour Bench; XP: 125; Materials: 6 × Garou Weave 4 × Infinity Cloth 2 × File:Garou Artifact.png Garou Artifact 2 × Refined Obsidian 2 × Gypsum Wax || Product: 1 × Lunar Garou Robes; Facility: Armour Bench; XP: 125; Materials: 9 × Garou Weave 6 × Infinity Cloth 3 × File:Garou Artifact.png Garou Artifact 3 × Refined Obsidian 3 × Gypsum Wax"
+              "value": "Product: 1 × Lunar Garou Hat; Facility: Armour Bench; XP: 125; Materials: 3 × Garou Weave 2 × Infinity Cloth 1 × Garou Artefact 1 × Refined Obsidian 1 × Gypsum Wax || Product: 1 × Lunar Garou Robe Legs; Facility: Armour Bench; XP: 125; Materials: 6 × Garou Weave 4 × Infinity Cloth 2 × Garou Artefact 2 × Refined Obsidian 2 × Gypsum Wax || Product: 1 × Lunar Garou Robes; Facility: Armour Bench; XP: 125; Materials: 9 × Garou Weave 6 × Infinity Cloth 3 × Garou Artefact 3 × Refined Obsidian 3 × Gypsum Wax"
             }
           ],
           "description": "Garou artefact is an item found in Umbral Sands . It can be sold to the merchants Domri , Beartach and Iasadair for 500 garou chits . Garou artefact can also be used to craft Lunar Robes .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)\n\n(Shop locations)\nThis item is not sold or bought in any shops."

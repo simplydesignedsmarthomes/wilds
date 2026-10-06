@@ -3,9 +3,9 @@
   "short_name": "Wilds",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#221C15",
-  "theme_color": "#3E3529",
-  "description": "Searchable RuneScape: Dragonwilds reference — skills, bestiary, quests, regions, crafting and achievements, with an offline progress tracker.",
+  "background_color": "#15120F",
+  "theme_color": "#15120F",
+  "description": "RuneScape: Dragonwilds companion — skill and quest progress tracking, a full searchable item database organized by storage chest or crafting station, and game guide videos.",
   "icons": [
     {
       "src": "icons/icon-192.png",

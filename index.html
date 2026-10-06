@@ -647,6 +647,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       trackerEl.hidden = false;
       resultsEl.innerHTML = ""; countEl.textContent = "";
       drawVideos();
+      refreshVideos();
       return;
     }
 
@@ -1105,29 +1106,57 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       (storageView === "station" ? stationBlock() : storageBlock());
   }
   // ---------- videos ----------
-  // Fixed list of the 25 most recent uploads as of when this was last
-  // refreshed (newest first) — YouTube's plain embed has no "latest N"
-  // parameter for a live-updating playlist, so this needs a manual refresh
-  // of the ID list every so often to stay current.
+  // Fallback only — used if the live /api/latest-videos fetch fails (e.g.
+  // testing locally without Netlify Functions, or offline). Whenever that
+  // fetch succeeds, videoState.ids is replaced with the real current list.
   var VIDEO_CHANNEL = {
     name: "Primitive Nomad",
     url: "https://www.youtube.com/@primitivenomad",
-    latest25: ["Gq03JgW3CZc","7FrGPpb2Vvo","qWguVYuxrqo","DOXQjNytftE","vma5KmAqtF8",
+    channelId: "UCRbqswsX9bDjWrQ2jxyVD3w",
+    fallback25: ["Gq03JgW3CZc","7FrGPpb2Vvo","qWguVYuxrqo","DOXQjNytftE","vma5KmAqtF8",
       "SgHrBkJJXHE","yLOAZNShmSU","TQRmB724Slc","bunuQfikXe8","gtqJNUOkIoQ",
       "oEzRyEebcLM","ti_8zKAjO5g","3oCXdp2lLA8","0_KiVr0mSa0","9uPt0wAU2Wg",
       "aBLhJcpsnD8","LNciYSOYddI","CWkDYIq_XkM","A0dRzp4rkD8","3hHfGxhOb-Q",
       "xDCuEOunnuk","odV1jVa65mU","HaHFmb88830","pmvC7r7_Y8Q","7PqWMTQJHKM"]
   };
+  var videoState = { ids: VIDEO_CHANNEL.fallback25, loading: false, stale: true, error: "" };
+  function videoEmbedSrc(ids){
+    return "https://www.youtube.com/embed/"+ids[0]+"?playlist="+ids.slice(1).join(",");
+  }
   function drawVideos(){
-    var ids = VIDEO_CHANNEL.latest25;
-    var embedSrc = "https://www.youtube.com/embed/"+ids[0]+"?playlist="+ids.slice(1).join(",");
-    trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2><p class="tk-head-note">The 25 latest uploads from '+esc(VIDEO_CHANNEL.name)+
-      ' — YouTube doesn’t support embedding a full channel page, so this plays through them as a playlist instead.</p></div>'+
-      '<div class="video-embed"><iframe src="'+esc(embedSrc)+'" '+
+    var note = videoState.stale
+      ? "Showing a saved list — fetching the current 25 latest…"
+      : "The 25 latest uploads from "+VIDEO_CHANNEL.name+", refreshed live.";
+    if (videoState.error) note = "Couldn’t refresh just now (" + videoState.error + ") — showing the last known list.";
+    trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2><p class="tk-head-note">'+esc(note)+'</p></div>'+
+      '<div class="power-ctl"><button type="button" class="view-tab" id="videoRefreshBtn"'+(videoState.loading?' disabled':'')+'>'+(videoState.loading?"Refreshing…":"Refresh latest videos")+'</button></div>'+
+      '<div class="video-embed"><iframe src="'+esc(videoEmbedSrc(videoState.ids))+'" '+
       'title="'+esc(VIDEO_CHANNEL.name)+' — latest 25 videos" frameborder="0" '+
       'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '+
       'allowfullscreen loading="lazy"></iframe></div>'+
       '<a class="video-channel-link" href="'+esc(VIDEO_CHANNEL.url)+'" target="_blank" rel="noopener">Open '+esc(VIDEO_CHANNEL.name)+' on YouTube ↗</a>';
+    var btn = document.getElementById("videoRefreshBtn");
+    if (btn) btn.addEventListener("click", function(){ refreshVideos(); });
+  }
+  function refreshVideos(){
+    videoState.loading = true;
+    if (view.tab === "videos") drawVideos();
+    fetch("/api/latest-videos?channelId="+VIDEO_CHANNEL.channelId+"&count=25")
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        videoState.loading = false;
+        if (data && data.ids && data.ids.length){
+          videoState.ids = data.ids; videoState.stale = false; videoState.error = "";
+        } else {
+          videoState.error = (data && data.error) || "empty response";
+        }
+        if (view.tab === "videos") drawVideos();
+      })
+      .catch(function(){
+        videoState.loading = false;
+        videoState.error = "offline?";
+        if (view.tab === "videos") drawVideos();
+      });
   }
   function drawSettings(){
     trackerEl.innerHTML = '<div class="tk-head"><h2>Settings</h2></div>'+

@@ -589,6 +589,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     var w = window.WILDS_QUEST_WALKTHROUGHS && window.WILDS_QUEST_WALKTHROUGHS[name];
     if (!w) return '';
     var html = '';
+    if (w.img) html += '<div class="wide"><img src="'+esc(w.img)+'" alt="" loading="lazy" style="width:100%;border-radius:var(--r);border:1px solid var(--edge-dark);display:block"></div>';
     if (w.requirements) html += '<div class="wide"><div class="fk">Requirements</div><div class="fv">'+esc(w.requirements)+'</div></div>';
     if (w.rewards) html += '<div class="wide"><div class="fk">Rewards</div><div class="fv">'+esc(w.rewards)+'</div></div>';
     if (w.steps && w.steps.length){
@@ -596,6 +597,10 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
         w.steps.map(function(s){ return '<li>'+esc(s)+'</li>'; }).join('')+'</ol></div>';
     } else if (w.stub){
       html += '<div class="note">Detailed walkthrough not yet documented for this quest.</div>';
+    }
+    if (w.tips && w.tips.length){
+      html += '<div class="r block"><div class="fk">Tips</div><ul class="steps">'+
+        w.tips.map(function(s){ return '<li>'+esc(s)+'</li>'; }).join('')+'</ul></div>';
     }
     return html;
   }

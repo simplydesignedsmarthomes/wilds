@@ -1105,16 +1105,26 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       (storageView === "station" ? stationBlock() : storageBlock());
   }
   // ---------- videos ----------
+  // Fixed list of the 25 most recent uploads as of when this was last
+  // refreshed (newest first) — YouTube's plain embed has no "latest N"
+  // parameter for a live-updating playlist, so this needs a manual refresh
+  // of the ID list every so often to stay current.
   var VIDEO_CHANNEL = {
     name: "Primitive Nomad",
-    uploadsPlaylist: "UURbqswsX9bDjWrQ2jxyVD3w",
-    url: "https://www.youtube.com/@primitivenomad"
+    url: "https://www.youtube.com/@primitivenomad",
+    latest25: ["Gq03JgW3CZc","7FrGPpb2Vvo","qWguVYuxrqo","DOXQjNytftE","vma5KmAqtF8",
+      "SgHrBkJJXHE","yLOAZNShmSU","TQRmB724Slc","bunuQfikXe8","gtqJNUOkIoQ",
+      "oEzRyEebcLM","ti_8zKAjO5g","3oCXdp2lLA8","0_KiVr0mSa0","9uPt0wAU2Wg",
+      "aBLhJcpsnD8","LNciYSOYddI","CWkDYIq_XkM","A0dRzp4rkD8","3hHfGxhOb-Q",
+      "xDCuEOunnuk","odV1jVa65mU","HaHFmb88830","pmvC7r7_Y8Q","7PqWMTQJHKM"]
   };
   function drawVideos(){
-    trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2><p class="tk-head-note">All uploads from '+esc(VIDEO_CHANNEL.name)+
-      ' — YouTube doesn’t support embedding a full channel page, so this plays through every video as a playlist instead.</p></div>'+
-      '<div class="video-embed"><iframe src="https://www.youtube.com/embed/videoseries?list='+esc(VIDEO_CHANNEL.uploadsPlaylist)+'" '+
-      'title="'+esc(VIDEO_CHANNEL.name)+' — all videos" frameborder="0" '+
+    var ids = VIDEO_CHANNEL.latest25;
+    var embedSrc = "https://www.youtube.com/embed/"+ids[0]+"?playlist="+ids.slice(1).join(",");
+    trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2><p class="tk-head-note">The 25 latest uploads from '+esc(VIDEO_CHANNEL.name)+
+      ' — YouTube doesn’t support embedding a full channel page, so this plays through them as a playlist instead.</p></div>'+
+      '<div class="video-embed"><iframe src="'+esc(embedSrc)+'" '+
+      'title="'+esc(VIDEO_CHANNEL.name)+' — latest 25 videos" frameborder="0" '+
       'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '+
       'allowfullscreen loading="lazy"></iframe></div>'+
       '<a class="video-channel-link" href="'+esc(VIDEO_CHANNEL.url)+'" target="_blank" rel="noopener">Open '+esc(VIDEO_CHANNEL.name)+' on YouTube ↗</a>';

@@ -60,7 +60,11 @@
    Safari/Chrome. Pinch-zoom stays available since only double-tap is cut. */
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
 [hidden]{display:none!important}
-html,body{margin:0;padding:0}
+/* touch-action is the intersection of an element's own value and all its
+   ancestors', so pinning the root to pan-y blocks horizontal swipe/pan
+   (and the browser's edge-swipe back/forward gesture) everywhere, while
+   the per-element "manipulation" above still kills the double-tap delay. */
+html,body{margin:0;padding:0;touch-action:pan-y}
 body{
   background:
     radial-gradient(ellipse at top, rgba(255,176,0,.09), transparent 55%),

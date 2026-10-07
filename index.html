@@ -153,6 +153,14 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .steps{margin:.3rem 0 0;padding-left:1.3rem;color:var(--text2);font-size:15px;line-height:1.6}
 .steps li{margin-bottom:.4rem}
 .steps li::marker{color:var(--gold);font-weight:700}
+.q-gallery{display:grid;gap:.6rem;margin-top:.35rem}
+.q-fig{margin:0}
+.q-fig img{display:block;width:100%;border-radius:var(--r);border:1px solid var(--edge-dark)}
+.q-fig figcaption{font-size:13px;color:var(--text3);margin-top:.3rem;line-height:1.4}
+.q-places{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:.5rem;margin-top:.35rem}
+.q-place{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);overflow:hidden;min-width:0}
+.q-place img{display:block;width:100%;aspect-ratio:16/10;object-fit:cover}
+.q-place span{display:block;padding:.35rem .5rem;font-size:13px;color:var(--text2)}
 .pill{display:inline-block;background:var(--panel2);border:1px solid var(--edge-light);border-radius:999px;padding:.3rem .7rem;font-size:12px;margin:.15rem .3rem .15rem 0;color:var(--text2)}
 .pillrow{margin:.3rem 0}
 .note{margin-top:.6rem;padding:.6rem .7rem;background:var(--note-bg);border:1px solid rgba(255,176,0,.3);border-radius:var(--r);font-size:13px;color:var(--note-fg)}
@@ -317,7 +325,13 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 
 /* Items/Storage: a chest's contents as a small icon grid, images hotlinked
    straight from the wiki */
-.item-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(76px,1fr));gap:.5rem;max-height:70vh;overflow-y:auto;padding-right:.1rem}
+/* No max-height/overflow here on purpose: a nested scroll container gets
+   its own touch-action scope (so the page-level pan-y lock can't stop
+   sideways swiping inside it) and its scroll position resets on every
+   redraw. One page-level scroll surface avoids both. dense packing lets
+   tiles after an opened detail backfill the row, so the detail lands
+   cleanly below the clicked tile's row instead of leaving gaps. */
+.item-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(76px,1fr));grid-auto-flow:row dense;gap:.5rem}
 .item-tile{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.4rem .3rem;text-align:center;width:100%;color:inherit;font-family:inherit;cursor:pointer}
 .item-tile.open{border-color:var(--gold)}
 .item-tile:active{background:var(--panel3)}
@@ -331,7 +345,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .item-tile-tier.tier-teal{color:#2dd4bf}
 .item-tile:has(.tier-ember){box-shadow:0 0 0 1px var(--ember-dim)}
 .item-tile:has(.tier-mystic){box-shadow:0 0 0 1px rgba(155,127,232,.18)}
-.item-grid > .item-detail{grid-column:1 / -1;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);padding:.7rem .85rem;box-shadow:var(--shadow)}
+.item-grid > .item-detail{grid-column:1 / -1;min-width:0;overflow-wrap:anywhere;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);padding:.7rem .85rem;box-shadow:var(--shadow)}
 .item-detail h5{margin:0 0 .4rem;font-family:var(--head);font-size:15px;font-weight:700;color:var(--text)}
 .item-detail-desc{white-space:pre-wrap}
 /* Stats laid out two-up so you can scan them at a glance instead of one
@@ -345,6 +359,18 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .mat-chip img{width:22px;height:22px;object-fit:contain;flex-shrink:0}
 .mat-chip-text{font-size:12px;color:var(--text2)}
 .mat-chip-text b{color:var(--gold)}
+.mat-chip-noimg{width:22px;height:22px;display:flex;align-items:center;justify-content:center;flex-shrink:0;color:var(--text3);font-size:11px}
+.recipe-card{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.5rem .6rem;margin-top:.4rem}
+.recipe-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.2rem .6rem}
+.recipe-station{font-family:var(--head);font-weight:700;font-size:13px;color:var(--gold)}
+.recipe-xp{font-size:12px;color:var(--text3)}
+.recipe-note{font-size:12px;color:var(--text3);margin-top:.35rem}
+.info-list{display:grid;gap:.3rem;margin-top:.3rem}
+.info-row{display:flex;justify-content:space-between;gap:.6rem;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.35rem .6rem;font-size:13px;color:var(--text2)}
+.info-row-stack{flex-direction:column;gap:.15rem}
+.info-meta{color:var(--text3);font-size:12px;text-align:right;flex-shrink:0}
+.info-row-stack .info-meta{text-align:left}
+.item-examine{font-style:italic;color:var(--text2);margin-bottom:.4rem}
 
 .view-tabs{display:flex;gap:.5rem;margin-bottom:.6rem}
 .view-tab{flex:1;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.5rem;color:var(--text3);font-family:var(--head);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.02em;cursor:pointer}
@@ -599,9 +625,22 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     } else if (w.stub){
       html += '<div class="note">Detailed walkthrough not yet documented for this quest.</div>';
     }
+    if (w.gallery && w.gallery.length){
+      html += '<div class="r block"><div class="fk">Maps &amp; pictures</div><div class="q-gallery">'+
+        w.gallery.map(function(g){
+          return '<figure class="q-fig"><a href="'+esc(g.img)+'" target="_blank" rel="noopener"><img src="'+esc(g.img)+'" alt="" loading="lazy"></a>'+
+            (g.caption ? '<figcaption>'+esc(g.caption)+'</figcaption>' : '')+'</figure>';
+        }).join('')+'</div></div>';
+    }
     if (w.tips && w.tips.length){
       html += '<div class="r block"><div class="fk">Tips</div><ul class="steps">'+
         w.tips.map(function(s){ return '<li>'+esc(s)+'</li>'; }).join('')+'</ul></div>';
+    }
+    if (w.locations && w.locations.length){
+      html += '<div class="r block"><div class="fk">Places you’ll go</div><div class="q-places">'+
+        w.locations.map(function(l){
+          return '<div class="q-place"><img src="'+esc(l.img)+'" alt="" loading="lazy"><span>'+esc(l.name)+'</span></div>';
+        }).join('')+'</div></div>';
     }
     return html;
   }
@@ -955,197 +994,79 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     }
     return ITEM_IMG_BY_NAME[name] || "";
   }
-  // "3x Swamp Thread, 4x Vault Shard" -> [{qty:"3",name:"Swamp Thread"}, ...]
-  // Different wiki infobox fields separate multi-material lists differently:
-  // "6x Bronze Bar, 3x Small Animal Fang, Wool Thread" (comma-separated, and
-  // the wiki's own recipe template sometimes omits the quantity entirely for
-  // a material - meaning 1 - rather than always writing "1x") from one
-  // source, but "1 × Oak Logs 1 × Padded Cloth 1 × Warped Feathers" (bare
-  // spaces, no commas at all) from the "Products" field's embedded Materials
-  // sub-value. Split on commas first (the outer list separator when
-  // present), then within each comma segment split further on quantity
-  // markers ("N x"/"N ×") in case several materials were packed into one
-  // segment with no commas at all.
-  function splitByMarkers(value){
-    var markerRe = /(\d+)\s*[x×]\s*/gi;
-    var marks = [];
-    var m;
-    while ((m = markerRe.exec(value))) marks.push({ qty: m[1], markerStart: m.index, nameStart: markerRe.lastIndex });
-    if (!marks.length){
-      var bare = value.trim().replace(/^[x×]\s*/i, "");
-      return bare ? [{ qty: "1", name: bare }] : [];
-    }
-    return marks.map(function(mk, i){
-      var end = (i + 1 < marks.length) ? marks[i + 1].markerStart : value.length;
-      var name = value.slice(mk.nameStart, end).replace(/[,;]+\s*$/, "").trim();
-      return { qty: mk.qty, name: name };
-    }).filter(function(m){ return m.name; });
-  }
-  function parseMaterials(value){
-    var out = [];
-    value.split(",").forEach(function(seg){
-      out = out.concat(splitByMarkers(seg));
-    });
-    return out;
-  }
-  function materialChip(m){
-    var img = itemImgByName(m.name);
+  // Every item's detail arrives from the build in one canonical shape (see
+  // .research/normalize_detail.py): stats, recipes, usedIn, sources, shops,
+  // perks, description. So this is the only renderer - no per-format parsing.
+  function itemChip(c){
+    var img = c.img || itemImgByName(c.name);
+    var qty = (c.qty && c.qty !== 1) ? '<b>'+esc(String(c.qty))+'×</b> ' : '';
     return '<div class="mat-chip">'+
-      (img ? '<img src="'+esc(img)+'" alt="" loading="lazy">' : '<span class="item-tile-noimg">?</span>')+
-      '<span class="mat-chip-text">'+(m.qty ? '<b>'+esc(m.qty)+'×</b> ' : '')+esc(m.name)+'</span>'+
-      '</div>';
+      (img ? '<img src="'+esc(img)+'" alt="" loading="lazy">' : '<span class="mat-chip-noimg">?</span>')+
+      '<span class="mat-chip-text">'+qty+esc(c.name)+'</span></div>';
   }
-  // Full wiki detail for one item, reorganized so the stuff you actually
-  // scan for - what it's made from, its stats - is up top in a compact
-  // grid, and the prose lore/description (the long part) sits at the
-  // bottom instead of pushing everything else off-screen.
-  // Raw materials describe their recipe differently: a combined "Products"
-  // field like "Product: 1 x Leather; Facility: Tannery; XP: 20; Materials:
-  // 1 x Animal Hide" (possibly several, joined by " || " for multi-recipe
-  // items) instead of separate Recipe/Crafting Station rows.
-  function renderProductsField(value){
-    return value.split("||").map(function(line){
-      var parts = {};
-      line.split(";").forEach(function(seg){
-        var i = seg.indexOf(":");
-        if (i < 0) return;
-        parts[seg.slice(0, i).trim().toLowerCase()] = seg.slice(i + 1).trim();
-      });
-      var out = "";
-      if (parts.product) out += '<span class="fk">Makes</span><span class="fv"> '+esc(parts.product)+'</span>';
-      if (parts.materials) out += '<div class="mat-chips">'+parseMaterials(parts.materials).map(materialChip).join("")+'</div>';
-      if (parts.xp) out += '<div style="margin-top:.2rem"><span class="fk">XP</span><span class="fv"> '+esc(parts.xp)+'</span></div>';
-      return '<div class="wide">'+out+'</div>';
-    }).join("");
-  }
-  // Some materials (mostly the textile/leather research pass) describe their
-  // recipe as a flattened wiki table instead of the "Products" semicolon
-  // format above: "Facility | Loom || Skill | Experience || Artisan | 40 ||
-  // Material | Quantity || Desert Thread | 3 || Cactus Fibres | 3 || Output |
-  // Quantity || Desert Cloth | 1" - pipe-separated key/value cells, "||"
-  // separated rows, with header cells ("Material | Quantity") marking the
-  // start of a run of data rows that follow until the next header. No colons
-  // at all, which is how we tell it apart from the "Products" field.
-  function isPipeTableRecipe(value){
-    return value.indexOf("|") !== -1 && !/:\s/.test(value);
-  }
-  function renderRecipeTableField(value, label){
-    var materials = [], outputs = [], skillLine = "", mode = null;
-    value.split("||").forEach(function(seg){
-      var parts = seg.split("|").map(function(p){ return p.trim(); });
-      if (parts.length < 2) return;
-      var key = parts[0], val = parts[1];
-      if (/^facility$/i.test(key)) { mode = null; return; }
-      if (/^skill$/i.test(key) && /^experience$/i.test(val)) { mode = "skill"; return; }
-      if (/^material$/i.test(key) && /^quantity$/i.test(val)) { mode = "material"; return; }
-      if (/^output$/i.test(key) && /^quantity$/i.test(val)) { mode = "output"; return; }
-      if (mode === "skill") { skillLine = key + " " + val + " XP"; return; }
-      if (mode === "material") { materials.push({ qty: val, name: key }); return; }
-      if (mode === "output") { outputs.push({ qty: val, name: key }); return; }
-    });
-    var variant = label.match(/\(([^)]+)\)/);
-    var out = variant ? '<div><span class="fk">'+esc(variant[1])+'</span></div>' : "";
-    if (outputs.length) out += '<span class="fk">Makes</span><span class="fv"> '+esc(outputs.map(function(o){ return o.qty+"× "+o.name; }).join(", "))+'</span>';
-    if (materials.length) out += '<div class="mat-chips">'+materials.map(materialChip).join("")+'</div>';
-    if (skillLine) out += '<div style="margin-top:.2rem"><span class="fk">XP</span><span class="fv"> '+esc(skillLine)+'</span></div>';
-    return '<div class="wide">'+out+'</div>';
-  }
-  // Basic food items write their recipe as a plain sentence instead of
-  // either table format: "1 x Rat Roast + 1 x Baked Potato + 1 x Fried Egg
-  // -> 1 x Cheeky Fryup (Cooking 20 XP)", with the facility named in the
-  // label's own parenthetical (already surfaced via "Made at" above) and
-  // sometimes a second parenthetical after it for a material variant, e.g.
-  // "Recipe (Campfire - Raw egg)".
-  function isArrowRecipe(value){
-    return value.indexOf("→") !== -1;
-  }
-  function renderArrowRecipeField(value, label){
-    var parts = value.split("→");
-    if (parts.length < 2) return '<div class="wide"><span class="fv">'+esc(value)+'</span></div>';
-    var materials = parts[0].split("+").map(function(s){ return splitByMarkers(s)[0]; }).filter(Boolean);
-    var outMatch = parts[1].match(/^\s*(.*?)\s*(?:\(([^)]+)\))?\s*$/);
-    var outputs = outMatch ? splitByMarkers(outMatch[1]) : [];
-    var skillLine = outMatch && outMatch[2] ? outMatch[2] : "";
-    var variant = label.match(/\(([^)]+)\)/);
-    var sub = variant ? variant[1].split(/\s*[-—]\s*/)[1] : "";
-    var out = sub ? '<div><span class="fk">'+esc(sub)+'</span></div>' : "";
-    if (outputs.length) out += '<span class="fk">Makes</span><span class="fv"> '+esc(outputs.map(function(o){ return o.qty+"× "+o.name; }).join(", "))+'</span>';
-    if (materials.length) out += '<div class="mat-chips">'+materials.map(materialChip).join("")+'</div>';
-    if (skillLine) out += '<div style="margin-top:.2rem"><span class="fk">XP</span><span class="fv"> '+esc(skillLine)+'</span></div>';
-    return '<div class="wide">'+out+'</div>';
-  }
-  // "Source: Deer; Quantity: 1; Rarity: Always || Source: Cow; ..." -> one
-  // clean line per source instead of a semicolon-and-pipe wall of text.
-  function renderSourcesField(value){
-    return value.split("||").map(function(line){
-      var parts = {};
-      line.split(";").forEach(function(seg){
-        var i = seg.indexOf(":");
-        if (i < 0) return;
-        parts[seg.slice(0, i).trim().toLowerCase()] = seg.slice(i + 1).trim();
-      });
-      var bits = [parts.source, parts.quantity, parts.rarity].filter(Boolean);
-      return '<div class="wide"><span class="fv">'+esc(bits.join(" - "))+'</span></div>';
-    }).join("");
-  }
-  function itemDetailHtml(it){
-    var d = it.detail;
-    var infobox = (d && d.infobox) || [];
-    var recipeRows = [], sourceRows = [], statRows = [];
-    infobox.forEach(function(r){
-      if (/^Crafting (Station|Facility)/i.test(r.label)) return; // redundant with "Made at" below
-      if (/item sources?/i.test(r.label)) return sourceRows.push(r);
-      (/recipe|product/i.test(r.label) ? recipeRows : statRows).push(r);
-    });
-
-    var recipeHtml = "";
-    if ((it.stations && it.stations.length) || recipeRows.length){
-      var inner = (it.stations && it.stations.length)
-        ? '<div class="wide"><span class="fk">Made at</span><span class="fv"> '+esc(it.stations.join(", "))+'</span></div>' : "";
-      inner += recipeRows.map(function(r){
-        if (/product/i.test(r.label)){
-          // Raw materials like Gold Bar or Dragonstone feed 15-30+ unrelated
-          // recipes. Rendering every one of those as a full block turns the
-          // item's own page into a wall of noise, so past a point we show a
-          // one-line summary instead and point at crafting-station browsing.
-          var lines = r.value.split("||");
-          if (lines.length > 6){
-            var facilities = [];
-            lines.forEach(function(line){
-              var fm = line.match(/Facility:\s*([^;]+)/i);
-              if (fm){ var f = fm[1].trim(); if (f && facilities.indexOf(f) === -1) facilities.push(f); }
-            });
-            return '<div class="wide"><span class="fv">Used in '+lines.length+' different recipes'+
-              (facilities.length ? ' across '+facilities.length+' crafting stations ('+esc(facilities.join(", "))+')' : '')+
-              '. Browse by crafting station to see them all.</span></div>';
-          }
-          return renderProductsField(r.value);
-        }
-        if (isArrowRecipe(r.value)) return renderArrowRecipeField(r.value, r.label);
-        if (isPipeTableRecipe(r.value)) return renderRecipeTableField(r.value, r.label);
-        if (/material/i.test(r.label)){
-          return '<div class="wide"><span class="fk">'+esc(r.label)+'</span><div class="mat-chips">'+parseMaterials(r.value).map(materialChip).join("")+'</div></div>';
-        }
-        return '<div class="wide"><span class="fk">'+esc(r.label)+'</span><span class="fv"> '+esc(r.value)+'</span></div>';
-      }).join("");
-      recipeHtml = '<div class="r block"><div class="fk subhead">Recipe</div>'+inner+'</div>';
+  function recipeCardHtml(it, r){
+    var xp = (r.skills || []).map(function(s){ return esc(s.name)+(s.xp ? ' '+esc(String(s.xp))+' XP' : ''); }).join(", ");
+    var html = '<div class="recipe-card"><div class="recipe-head"><span class="recipe-station">'+esc(r.station || "Unknown station")+'</span>'+
+      (xp ? '<span class="recipe-xp">'+xp+'</span>' : '')+'</div>';
+    html += r.materials.length
+      ? '<div class="mat-chips">'+r.materials.map(itemChip).join("")+'</div>'
+      : '<div class="recipe-note">No materials needed.</div>';
+    var out = r.output || {};
+    if (out.name && (out.name !== it.name || (out.qty && out.qty !== 1))){
+      html += '<div class="recipe-note">Makes '+esc(String(out.qty || 1))+'× '+esc(out.name)+'</div>';
     }
-
-    var statsHtml = statRows.length
-      ? '<div class="r block"><div class="fk subhead">Stats</div><div class="stat-grid">'+statRows.map(function(r){
-          return '<div class="stat-chip"><span class="fk">'+esc(r.label)+'</span><span class="fv">'+esc(r.value)+'</span></div>';
-        }).join("")+'</div></div>'
-      : "";
-
-    var sourcesHtml = sourceRows.length
-      ? '<div class="r block"><div class="fk subhead">Found from</div>'+sourceRows.map(function(r){ return renderSourcesField(r.value); }).join("")+'</div>'
-      : "";
-
-    var descText = (d && d.description) ? d.description : it.note;
-    var descHtml = descText ? '<div class="r"><div class="fk subhead">About</div><div class="fv item-detail-desc">'+esc(descText)+'</div></div>' : "";
-
-    if (!recipeHtml && !sourcesHtml && !statsHtml && !descHtml) return '<div class="note">No extra detail yet - still being researched.</div>';
-    return recipeHtml + sourcesHtml + statsHtml + descHtml;
+    if (r.unlock) html += '<div class="recipe-note">Unlocked by '+esc(r.unlock)+'</div>';
+    return html+'</div>';
+  }
+  var USED_IN_SHOWN = 24;
+  function itemDetailHtml(it){
+    var d = it.detail || {};
+    var html = "";
+    if (d.recipes && d.recipes.length){
+      html += '<div class="r block"><div class="fk subhead">'+(d.recipes.length > 1 ? 'Recipes' : 'Recipe')+'</div>'+
+        d.recipes.map(function(r){ return recipeCardHtml(it, r); }).join("")+'</div>';
+    }
+    if (d.usedIn && d.usedIn.length){
+      var shown = d.usedIn.slice(0, USED_IN_SHOWN);
+      html += '<div class="r block"><div class="fk subhead">Used to make ('+d.usedIn.length+')</div><div class="mat-chips">'+
+        shown.map(function(u){ return itemChip({ name: u.name, img: u.img, qty: 1 }); }).join("")+'</div>'+
+        (d.usedIn.length > shown.length ? '<div class="recipe-note">and '+(d.usedIn.length - shown.length)+' more</div>' : '')+'</div>';
+    }
+    if (d.sources && d.sources.length){
+      html += '<div class="r block"><div class="fk subhead">Found from</div><div class="info-list">'+
+        d.sources.map(function(s){
+          return '<div class="info-row"><span>'+esc(s.source)+'</span><span class="info-meta">'+
+            [s.qty ? '×'+esc(s.qty) : '', esc(s.rarity || '')].filter(Boolean).join(" · ")+'</span></div>';
+        }).join("")+'</div></div>';
+    }
+    if (d.shops && d.shops.length){
+      html += '<div class="r block"><div class="fk subhead">Merchants</div><div class="info-list">'+
+        d.shops.map(function(s){
+          var verb = s.mode === "buy" ? "Buys for" : "Sells for";
+          return '<div class="info-row"><span>'+esc(s.seller)+'</span><span class="info-meta">'+verb+' '+esc(String(s.cost))+' '+esc(s.currency)+'</span></div>';
+        }).join("")+'</div></div>';
+    }
+    if (d.perks && d.perks.length){
+      html += '<div class="r block"><div class="fk subhead">Perks</div><div class="info-list">'+
+        d.perks.map(function(p){ return '<div class="info-row info-row-stack"><span>'+esc(p.name)+'</span>'+(p.desc ? '<span class="info-meta">'+esc(p.desc)+'</span>' : '')+'</div>'; }).join("")+'</div></div>';
+    }
+    var examine = "";
+    var stats = (d.stats || []).filter(function(s){
+      if (s.label === "Description"){ examine = s.value; return false; }
+      return true;
+    });
+    if (stats.length){
+      html += '<div class="r block"><div class="fk subhead">Stats</div><div class="stat-grid">'+stats.map(function(s){
+        return '<div class="stat-chip"><span class="fk">'+esc(s.label)+'</span><span class="fv">'+esc(s.value)+'</span></div>';
+      }).join("")+'</div></div>';
+    }
+    var about = d.description || it.note || "";
+    if (examine || about){
+      html += '<div class="r"><div class="fk subhead">About</div>'+
+        (examine ? '<div class="item-examine">“'+esc(examine)+'”</div>' : '')+
+        (about ? '<div class="fv item-detail-desc">'+esc(about)+'</div>' : '')+'</div>';
+    }
+    return html || '<div class="note">No extra detail on the wiki for this one yet.</div>';
   }
   function itemGridHtml(items, scope){
     if (!items.length) return "";
@@ -1229,6 +1150,18 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       '<label class="power-toggle"><input type="checkbox" id="powerFilterOn"'+(STATE.powerFilterOn?' checked':'')+'><span>Only show my power level</span></label>'+
       (STATE.powerFilterOn ? '<div class="power-stp"><button type="button" data-pwr="-1" aria-label="Decrease">−</button><span>Level '+(STATE.powerLevel+1)+' of '+(max+1)+'</span><button type="button" data-pwr="1" aria-label="Increase">+</button></div>' : '')+
       '</div>';
+  }
+  // drawStorage() rebuilds the whole panel, so anything that opens/closes
+  // above the tapped element (e.g. a previously open item detail) shifts it
+  // up or down the page. Measure where the tapped element sits on screen,
+  // redraw, then scroll by however far it moved, so it stays under the
+  // user's finger.
+  function redrawStorageAnchored(el, attr, value, mutate){
+    var before = el.getBoundingClientRect().top;
+    mutate();
+    drawStorage();
+    var again = trackerEl.querySelector("button["+attr+'="'+CSS.escape(value)+'"]');
+    if (again) window.scrollBy(0, again.getBoundingClientRect().top - before);
   }
   function drawStorage(){
     var cats = window.WILDS_STORAGE || [];
@@ -1449,24 +1382,27 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     var chestBtn = e.target.closest("button[data-chest]");
     if (chestBtn){
       var ckey = chestBtn.dataset.chest;
-      openChest = (openChest === ckey) ? null : ckey;
-      openItem = null;
-      drawStorage();
+      redrawStorageAnchored(chestBtn, "data-chest", ckey, function(){
+        openChest = (openChest === ckey) ? null : ckey;
+        openItem = null;
+      });
       return;
     }
     var stationBtn = e.target.closest("button[data-station]");
     if (stationBtn){
       var sname = stationBtn.dataset.station;
-      selectedStations[sname] = !selectedStations[sname];
-      openItem = null;
-      drawStorage();
+      redrawStorageAnchored(stationBtn, "data-station", sname, function(){
+        selectedStations[sname] = !selectedStations[sname];
+        openItem = null;
+      });
       return;
     }
     var itemBtn = e.target.closest("button[data-item]");
     if (itemBtn){
       var ikey = itemBtn.dataset.item;
-      openItem = (openItem === ikey) ? null : ikey;
-      drawStorage();
+      redrawStorageAnchored(itemBtn, "data-item", ikey, function(){
+        openItem = (openItem === ikey) ? null : ikey;
+      });
       return;
     }
     var favBtn = e.target.closest("button[data-fav]");

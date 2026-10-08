@@ -161,6 +161,53 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 .q-place{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);overflow:hidden;min-width:0}
 .q-place img{display:block;width:100%;aspect-ratio:16/10;object-fit:cover}
 .q-place span{display:block;padding:.35rem .5rem;font-size:13px;color:var(--text2)}
+/* interactive map */
+.map-toolbar{display:flex;align-items:center;gap:.6rem;margin:.2rem 0 .5rem}
+.map-toolbar .view-tab{flex:0 0 auto;padding:.45rem .9rem}
+.map-hint{font-size:12px;color:var(--text3)}
+.map-full{position:relative;border:1px solid var(--edge-dark);border-radius:var(--r-lg);overflow:hidden;background:#0b0a0f;min-height:320px}
+.map-loading{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:var(--text3);font-size:13px;text-align:center;padding:1rem}
+.map-tab{position:relative}
+.map-sheet{position:fixed;left:0;right:0;bottom:0;z-index:1200;max-height:72vh;display:flex;flex-direction:column;background:var(--panel);border-top:1px solid var(--edge-light);border-radius:var(--r-lg) var(--r-lg) 0 0;box-shadow:0 -10px 30px rgba(0,0,0,.5);padding-bottom:env(safe-area-inset-bottom)}
+.map-sheet[hidden]{display:none}
+.map-sheet-head{display:flex;gap:.5rem;padding:.7rem .8rem .4rem}
+.map-sheet-head input{flex:1;min-width:0;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);color:var(--text);padding:.5rem .7rem;font:inherit;font-size:15px}
+.map-sheet-head .view-tab{flex:0 0 auto;padding:.45rem .9rem}
+.map-sheet-actions{display:flex;gap:.5rem;padding:0 .8rem .4rem}
+.map-sheet-actions button{background:none;border:0;color:var(--gold);font:inherit;font-size:13px;padding:.2rem 0;cursor:pointer}
+.map-sheet-body{overflow-y:auto;overflow-x:hidden;touch-action:pan-y;overscroll-behavior:contain;padding:0 .8rem .8rem}
+.map-group{border-bottom:1px solid var(--edge-dark)}
+.map-group summary{display:flex;align-items:center;gap:.5rem;padding:.55rem 0;cursor:pointer;list-style:none;font-size:14px;color:var(--text)}
+.map-group summary::-webkit-details-marker{display:none}
+.map-group-name{flex:1;min-width:0}
+.map-dot{width:11px;height:11px;border-radius:50%;flex-shrink:0;border:1px solid #0e0d12}
+.map-count{font-size:12px;color:var(--text3);flex-shrink:0}
+.map-cat{display:flex;align-items:center;gap:.5rem;padding:.35rem 0 .35rem 1.6rem;font-size:13px;color:var(--text2);cursor:pointer}
+.map-cat span:first-of-type{flex:1;min-width:0;overflow-wrap:anywhere}
+.map-group input,.map-cat input{width:18px;height:18px;accent-color:var(--gold);flex-shrink:0;margin:0}
+/* Leaflet's own stylesheet loads after this one (on demand), so these
+   overrides need higher specificity than its single-class rules. */
+.leaflet-container.leaflet-container{background:#0b0a0f;font-family:var(--ui)}
+.leaflet-container .leaflet-popup-content-wrapper,.leaflet-container .leaflet-popup-tip{background:var(--panel);color:var(--text);box-shadow:0 6px 20px rgba(0,0,0,.5)}
+.leaflet-container .leaflet-popup-content{margin:.6rem .8rem}
+.leaflet-container a.leaflet-popup-close-button{color:var(--text3)}
+.leaflet-container .leaflet-control-attribution{background:rgba(14,13,18,.75);color:var(--text3);font-size:10px}
+.leaflet-container .leaflet-control-attribution a{color:var(--text2)}
+.leaflet-container .leaflet-bar a,.leaflet-touch .leaflet-container .leaflet-bar a{background:var(--panel2);color:var(--text);border-bottom-color:var(--edge-dark)}
+.map-pop{display:flex;flex-direction:column;gap:.2rem;font-size:13px}
+.map-pop b{font-family:var(--head);color:var(--gold);font-size:14px}
+.map-pop-cat{color:var(--text3);font-size:12px}
+.map-pop-desc{color:var(--text2)}
+.map-pop-go{margin-top:.35rem;align-self:flex-start;background:var(--panel2);border:1px solid var(--edge-light);border-radius:var(--r);color:var(--gold);font:inherit;font-size:12px;padding:.3rem .6rem;cursor:pointer}
+.q-map-wrap{position:relative;margin-top:.35rem;cursor:pointer;border-radius:var(--r);overflow:hidden;border:1px solid var(--edge-dark)}
+.q-map{height:220px;position:relative;pointer-events:none;background:#0b0a0f}
+.q-map-cta{position:absolute;right:.5rem;bottom:.5rem;z-index:500;background:rgba(14,13,18,.85);color:var(--gold);font-size:12px;font-family:var(--head);font-weight:700;padding:.3rem .6rem;border-radius:999px;border:1px solid var(--edge-light)}
+.map-overlay{position:fixed;inset:0;z-index:1300;display:flex;flex-direction:column;background:var(--bg)}
+.map-overlay-bar{display:flex;align-items:center;gap:.5rem;padding:calc(.5rem + env(safe-area-inset-top)) .7rem .5rem;border-bottom:1px solid var(--edge-dark)}
+.map-overlay-bar span{flex:1;min-width:0;font-family:var(--head);font-weight:700;color:var(--gold);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.map-overlay-bar .view-tab{flex:0 0 auto;padding:.4rem .8rem}
+.map-overlay-map{flex:1;min-height:0}
+body.map-overlay-open{overflow:hidden}
 .pill{display:inline-block;background:var(--panel2);border:1px solid var(--edge-light);border-radius:999px;padding:.3rem .7rem;font-size:12px;margin:.15rem .3rem .15rem 0;color:var(--text2)}
 .pillrow{margin:.3rem 0}
 .note{margin-top:.6rem;padding:.6rem .7rem;background:var(--note-bg);border:1px solid rgba(255,176,0,.3);border-radius:var(--r);font-size:13px;color:var(--note-fg)}
@@ -431,6 +478,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
 <script src="level-unlocks.js" onerror="this.remove()"></script>
 <script src="quests.js"></script>
 <script src="quest-walkthroughs.js" onerror="this.remove()"></script>
+<script src="quest-maps.js" onerror="this.remove()"></script>
 <script src="storage.js"></script>
 <script>
 (function(){
@@ -438,6 +486,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   var TABS = [
     {key:"tracker", label:"Progress"},
     {key:"storage", label:"Items"},
+    {key:"map", label:"Map"},
     {key:"videos", label:"Videos"}
   ];
   var TAB_LABEL = {}; TABS.forEach(function(t){ TAB_LABEL[t.key] = t.label; });
@@ -447,7 +496,8 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
   var ICONS = {
     storage: '<rect x="4" y="9" width="16" height="11" rx="1" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M4 9 6 4h12l2 5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9 13h6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>',
     tracker: '<path d="M5 19V10M11 19V5M17 19v-7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
-    videos: '<rect x="3" y="5.5" width="18" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 9.5v5l4.5-2.5z" fill="currentColor" stroke="none"/>'
+    videos: '<rect x="3" y="5.5" width="18" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 9.5v5l4.5-2.5z" fill="currentColor" stroke="none"/>',
+    map: '<path d="M3 6.5 9 4l6 2.5L21 4v13.5L15 20l-6-2.5L3 20z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M9 4v13.5M15 6.5V20" stroke="currentColor" stroke-width="1.6"/>'
   };
 
   // One small original glyph per skill, as a visual aid next to the name - // a quick shape to scan for rather than reading twelve words each time.
@@ -625,6 +675,12 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     } else if (w.stub){
       html += '<div class="note">Detailed walkthrough not yet documented for this quest.</div>';
     }
+    if (questMapEntries(name)){
+      html += '<div class="r block"><div class="fk">Interactive map</div>'+
+        '<div class="q-map-wrap" data-quest-map-name="'+esc(name)+'" role="button" tabindex="0">'+
+        '<div class="q-map" data-quest-map="'+esc(name)+'"><div class="map-loading">Loading map…</div></div>'+
+        '<span class="q-map-cta">Tap to explore ›</span></div></div>';
+    }
     if (w.gallery && w.gallery.length){
       html += '<div class="r block"><div class="fk">Maps &amp; pictures</div><div class="q-gallery">'+
         w.gallery.map(function(g){
@@ -681,6 +737,7 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
     var q = view.q.trim();
     trackerEl.hidden = true;
     teardownVideos();
+    teardownMap();
 
     if (view.tab === "tracker" && !q){
       trackerEl.hidden = false;
@@ -698,6 +755,12 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
       trackerEl.hidden = false;
       resultsEl.innerHTML = ""; countEl.textContent = "";
       drawStorage();
+      return;
+    }
+    if (view.tab === "map" && !q){
+      trackerEl.hidden = false;
+      resultsEl.innerHTML = ""; countEl.textContent = "";
+      drawMap();
       return;
     }
     if (view.tab === "videos" && !q){
@@ -1356,6 +1419,321 @@ main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-ins
         if (view.tab === "videos") drawVideos();
       });
   }
+  // ---------- interactive map ----------
+  // Same map as the Dragonwilds Wiki's own (MediaWiki:Gadget-maps.js): their
+  // tile server, their coordinate transform, and every marker category from
+  // their Module:Map/*.json data (refreshed by .research/fetch_map_data.py).
+  // Leaflet and the 15k-marker file only load the first time a map opens.
+  var MAP_GROUP_COLORS = {
+    "Quests": "#ffb000", "Landmarks & fast travel": "#3ecf8e", "Merchants & NPCs": "#a78bfa",
+    "Anima vents": "#4fc3f7", "Ores & rocks": "#b0bec5", "Trees": "#66bb6a", "Plants & crops": "#c0ca33",
+    "Fishing": "#26c6da", "Treasure": "#ffd54f", "Dragonkin vaults": "#ff7043", "Soul rift": "#b388ff",
+    "Creatures": "#ef5350", "Bosses": "#ff1744", "Salvage": "#a1887f", "Lore & books": "#f48fb1",
+    "Quest items & vestiges": "#ffcc80", "Agility & activities": "#9ccc65"
+  };
+  var MAP_GROUP_ORDER = Object.keys(MAP_GROUP_COLORS);
+  var MAP_DEFAULT_GROUPS = ["Quests", "Landmarks & fast travel", "Merchants & NPCs"];
+  var leafletReady = null, mapDataReady = null;
+  function loadScriptOnce(src){
+    return new Promise(function(resolve, reject){
+      var s = document.createElement("script"); s.src = src; s.onload = resolve; s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  }
+  function ensureMapLibs(){
+    if (!leafletReady){
+      var css = document.createElement("link"); css.rel = "stylesheet"; css.href = "vendor/leaflet/leaflet.css";
+      document.head.appendChild(css);
+      leafletReady = window.L ? Promise.resolve() : loadScriptOnce("vendor/leaflet/leaflet.js");
+    }
+    if (!mapDataReady) mapDataReady = window.WILDS_MAP ? Promise.resolve() : loadScriptOnce("map-data.js");
+    return Promise.all([leafletReady, mapDataReady]);
+  }
+  var MAP_CAT_BY_ID = null;
+  function mapCategory(id){
+    if (!MAP_CAT_BY_ID){
+      MAP_CAT_BY_ID = {};
+      window.WILDS_MAP.categories.forEach(function(c){ MAP_CAT_BY_ID[c.id] = c; });
+    }
+    return MAP_CAT_BY_ID[id];
+  }
+  // The wiki's projection, copied as-is: game units -> pixels on a 6144px
+  // base map, shifted so the current map's origin lines up.
+  var MAP_MULT = 6144 / 420000 / 16, MAP_OFF_X = 11075, MAP_OFF_Y = 100800 + 16885;
+  function newWildsMap(el, opts){
+    var crs = L.extend({}, L.CRS.Simple, {
+      projection: L.Projection.LonLat,
+      transformation: new L.Transformation(MAP_MULT, MAP_MULT * MAP_OFF_X, MAP_MULT, MAP_MULT * MAP_OFF_Y)
+    });
+    var bounds = L.latLngBounds([[-MAP_OFF_Y, -MAP_OFF_X], [420000 - MAP_OFF_Y, 420000 - MAP_OFF_X]]);
+    var interactive = opts.interactive !== false;
+    var map = L.map(el, {
+      // Whole zoom levels only (the wiki allows halves): at a fractional zoom
+      // every tile is scaled, which leaves hairline seams between them.
+      crs: crs, maxBounds: bounds, maxBoundsViscosity: 0.7, minZoom: 0, maxZoom: 4, zoomSnap: 1,
+      preferCanvas: true, zoomControl: interactive, attributionControl: true,
+      dragging: interactive, touchZoom: interactive, doubleClickZoom: interactive,
+      scrollWheelZoom: interactive, boxZoom: interactive, keyboard: interactive, tap: false
+    });
+    L.tileLayer(window.WILDS_MAP.tiles, {
+      attribution: 'Map: <a href="https://dragonwilds.runescape.wiki/" target="_blank" rel="noopener">RuneScape: Dragonwilds Wiki</a>'
+    }).addTo(map);
+    if (opts.center) map.setView(opts.center, opts.zoom || 2);
+    else map.fitBounds(bounds);
+    map._wildsLayers = {};
+    return map;
+  }
+  function itemExists(name){ return !!itemImgByName(name); }
+  function mapPopupHtml(cat, p){
+    var title = p[2] || cat.id;
+    var html = '<div class="map-pop"><b>'+esc(title)+'</b>';
+    if (title !== cat.id) html += '<span class="map-pop-cat">'+esc(cat.id)+'</span>';
+    if (p[3]) html += '<span class="map-pop-desc">'+esc(p[3])+'</span>';
+    var gotoName = cat.group === "Quests" ? cat.id : (itemExists(cat.id) ? cat.id : (itemExists(title) ? title : ""));
+    if (gotoName) html += '<button type="button" class="map-pop-go" data-map-goto="'+esc(gotoName)+'">'+(cat.group === "Quests" ? "Open quest guide" : "View item")+' ›</button>';
+    return html + '</div>';
+  }
+  function showMapCategory(map, id, on){
+    var layer = map._wildsLayers[id];
+    if (on && !layer){
+      var cat = mapCategory(id);
+      if (!cat) return;
+      var color = MAP_GROUP_COLORS[cat.group] || "#9e9e9e";
+      var big = cat.group === "Quests" || cat.group === "Bosses";
+      layer = L.layerGroup(cat.points.map(function(p){
+        return L.circleMarker([p[1], p[0]], {
+          radius: big ? 7 : 5, color: "#0e0d12", weight: 1.5, fillColor: color, fillOpacity: 0.95
+        }).bindPopup(function(){ return mapPopupHtml(cat, p); }, { closeButton: true, maxWidth: 240 });
+      }));
+      map._wildsLayers[id] = layer;
+    }
+    if (!layer) return;
+    if (on && !map.hasLayer(layer)) layer.addTo(map);
+    if (!on && map.hasLayer(layer)) map.removeLayer(layer);
+  }
+  function fitMapToCategories(map, ids){
+    var pts = [];
+    ids.forEach(function(id){ var c = mapCategory(id); if (c) c.points.forEach(function(p){ pts.push([p[1], p[0]]); }); });
+    if (pts.length === 1) map.setView(pts[0], 3);
+    else if (pts.length) map.fitBounds(L.latLngBounds(pts), { padding: [30, 30], maxZoom: 3 });
+  }
+
+  // Full Map tab
+  var wildsMap = null, mapResizeHandler = null;
+  function mapVisibleIds(){
+    if (!STATE.mapCats){
+      STATE.mapCats = window.WILDS_MAP.categories
+        .filter(function(c){ return MAP_DEFAULT_GROUPS.indexOf(c.group) !== -1; })
+        .map(function(c){ return c.id; });
+    }
+    return STATE.mapCats;
+  }
+  function setMapCategory(id, on){
+    var ids = mapVisibleIds(), i = ids.indexOf(id);
+    if (on && i === -1) ids.push(id);
+    if (!on && i !== -1) ids.splice(i, 1);
+    if (wildsMap) showMapCategory(wildsMap, id, on);
+  }
+  function mapGroups(){
+    var groups = {};
+    window.WILDS_MAP.categories.forEach(function(c){ (groups[c.group] = groups[c.group] || []).push(c); });
+    return MAP_GROUP_ORDER.filter(function(g){ return groups[g]; }).map(function(g){
+      return { name: g, cats: groups[g].sort(function(a, b){ return a.id.localeCompare(b.id); }) };
+    });
+  }
+  function mapSheetBodyHtml(filter){
+    var vis = mapVisibleIds(), f = (filter || "").trim().toLowerCase();
+    return mapGroups().map(function(g){
+      var cats = f ? g.cats.filter(function(c){ return c.id.toLowerCase().indexOf(f) !== -1 || g.name.toLowerCase().indexOf(f) !== -1; }) : g.cats;
+      if (!cats.length) return "";
+      var onCount = cats.filter(function(c){ return vis.indexOf(c.id) !== -1; }).length;
+      var color = MAP_GROUP_COLORS[g.name];
+      return '<details class="map-group"'+(f ? " open" : "")+'><summary>'+
+        '<input type="checkbox" data-map-group="'+esc(g.name)+'"'+(onCount === cats.length ? " checked" : "")+(onCount && onCount < cats.length ? ' data-partial="1"' : "")+'>'+
+        '<span class="map-dot" style="background:'+color+'"></span><span class="map-group-name">'+esc(g.name)+'</span>'+
+        '<span class="map-count">'+onCount+'/'+cats.length+'</span></summary>'+
+        cats.map(function(c){
+          return '<label class="map-cat"><input type="checkbox" data-map-cat="'+esc(c.id)+'"'+(vis.indexOf(c.id) !== -1 ? " checked" : "")+'>'+
+            '<span>'+esc(c.id)+'</span><span class="map-count">'+c.points.length+'</span></label>';
+        }).join("")+'</details>';
+    }).join("") || '<div class="note">Nothing on the map matches that.</div>';
+  }
+  function refreshMapSheet(){
+    var body = document.getElementById("mapSheetBody");
+    if (!body) return;
+    var find = document.getElementById("mapFind");
+    var openGroups = {};
+    body.querySelectorAll("details[open] input[data-map-group]").forEach(function(i){ openGroups[i.dataset.mapGroup] = 1; });
+    body.innerHTML = mapSheetBodyHtml(find ? find.value : "");
+    body.querySelectorAll("input[data-map-group]").forEach(function(i){
+      if (i.dataset.partial) i.indeterminate = true;
+      if (openGroups[i.dataset.mapGroup]) i.closest("details").open = true;
+    });
+    var btn = document.getElementById("mapLayersBtn");
+    if (btn) btn.textContent = "Layers (" + mapVisibleIds().length + ")";
+  }
+  function sizeMapTab(){
+    var el = document.getElementById("wildsMap");
+    if (!el) return;
+    var top = el.getBoundingClientRect().top + window.scrollY;
+    var h = window.innerHeight - top - tabbarEl.offsetHeight - 8;
+    el.style.height = Math.max(320, h) + "px";
+    if (wildsMap) wildsMap.invalidateSize();
+  }
+  function drawMap(){
+    trackerEl.innerHTML = '<div class="map-tab">'+
+      '<div class="map-toolbar"><button type="button" class="view-tab" id="mapLayersBtn">Layers</button>'+
+      '<span class="map-hint">Tap a pin for details</span></div>'+
+      '<div id="wildsMap" class="map-full"><div class="map-loading">Loading map…</div></div>'+
+      '<div class="map-sheet" id="mapSheet" hidden>'+
+        '<div class="map-sheet-head"><input type="search" id="mapFind" placeholder="Find, e.g. law, chest, garou, coal" autocomplete="off">'+
+        '<button type="button" class="view-tab" id="mapSheetDone">Done</button></div>'+
+        '<div class="map-sheet-actions"><button type="button" data-map-preset="defaults">Reset</button><button type="button" data-map-preset="none">Clear all</button></div>'+
+        '<div class="map-sheet-body" id="mapSheetBody"></div>'+
+      '</div></div>';
+    sizeMapTab();
+    mapResizeHandler = sizeMapTab;
+    window.addEventListener("resize", mapResizeHandler);
+    ensureMapLibs().then(function(){
+      var el = document.getElementById("wildsMap");
+      if (!el || view.tab !== "map") return;
+      el.innerHTML = "";
+      wildsMap = newWildsMap(el, {});
+      mapVisibleIds().forEach(function(id){ showMapCategory(wildsMap, id, true); });
+      if (pendingMapFocus){
+        pendingMapFocus.forEach(function(id){ setMapCategory(id, true); });
+        fitMapToCategories(wildsMap, pendingMapFocus);
+        pendingMapFocus = null;
+        saveState();
+      }
+      refreshMapSheet();
+    }).catch(function(){
+      var el = document.getElementById("wildsMap");
+      if (el) el.innerHTML = '<div class="map-loading">Couldn’t load the map. Check your connection and try again.</div>';
+    });
+  }
+  function teardownMap(){
+    if (wildsMap){ wildsMap.remove(); wildsMap = null; }
+    if (mapResizeHandler){ window.removeEventListener("resize", mapResizeHandler); mapResizeHandler = null; }
+  }
+  var pendingMapFocus = null;
+  function openFullMapAt(ids){
+    pendingMapFocus = ids.slice();
+    closeMapOverlay();
+    goTab("map");
+  }
+
+  // Quest guides: a static preview that opens a full-screen interactive map
+  // (a draggable map inside a scrolling page would hijack vertical swipes).
+  function questMapEntries(name){ return (window.WILDS_QUEST_MAPS && window.WILDS_QUEST_MAPS[name]) || null; }
+  function questMapIds(entries){
+    var ids = [];
+    entries.forEach(function(e){ e.categories.forEach(function(c){ if (ids.indexOf(c) === -1) ids.push(c); }); });
+    return ids;
+  }
+  function initQuestMaps(){
+    document.querySelectorAll(".q-map:not([data-ready])").forEach(function(el){
+      if (!el.offsetParent) return;
+      el.setAttribute("data-ready", "1");
+      ensureMapLibs().then(function(){
+        var entries = questMapEntries(el.dataset.questMap);
+        if (!entries) return;
+        el.innerHTML = "";
+        var map = newWildsMap(el, { interactive: false, center: entries[0].center, zoom: entries[0].zoom });
+        var ids = questMapIds(entries);
+        ids.forEach(function(id){ showMapCategory(map, id, true); });
+        if (!entries[0].center) fitMapToCategories(map, ids);
+      }).catch(function(){ el.innerHTML = '<div class="map-loading">Map unavailable offline.</div>'; });
+    });
+  }
+  var overlayMap = null;
+  function openQuestMapOverlay(name){
+    var entries = questMapEntries(name);
+    if (!entries) return;
+    closeMapOverlay();
+    var ov = document.createElement("div");
+    ov.className = "map-overlay"; ov.id = "mapOverlay";
+    ov.innerHTML = '<div class="map-overlay-bar"><span>'+esc(name)+'</span>'+
+      '<button type="button" class="view-tab" data-map-fullmap="'+esc(name)+'">Full map</button>'+
+      '<button type="button" class="view-tab" data-map-overlay-close>Close</button></div>'+
+      '<div class="map-overlay-map" id="mapOverlayMap"></div>';
+    document.body.appendChild(ov);
+    document.body.classList.add("map-overlay-open");
+    ensureMapLibs().then(function(){
+      var el = document.getElementById("mapOverlayMap");
+      if (!el) return;
+      overlayMap = newWildsMap(el, { center: entries[0].center, zoom: entries[0].zoom });
+      var ids = questMapIds(entries);
+      ids.forEach(function(id){ showMapCategory(overlayMap, id, true); });
+      if (!entries[0].center) fitMapToCategories(overlayMap, ids);
+    });
+  }
+  function closeMapOverlay(){
+    if (overlayMap){ overlayMap.remove(); overlayMap = null; }
+    var ov = document.getElementById("mapOverlay");
+    if (ov) ov.remove();
+    document.body.classList.remove("map-overlay-open");
+  }
+  function gotoByName(name){
+    closeMapOverlay();
+    view.tab = "tracker"; view.q = name; qInput.value = name; clearBtn.classList.add("on");
+    window.scrollTo(0, 0); draw();
+    var cards = resultsEl.querySelectorAll(".card");
+    for (var i = 0; i < cards.length; i++){
+      var h = cards[i].querySelector("h2");
+      if (h && h.textContent === name){ cards[i].querySelector("button[data-open]").click(); break; }
+    }
+  }
+  document.addEventListener("click", function(e){
+    var go = e.target.closest("[data-map-goto]");
+    if (go){ gotoByName(go.dataset.mapGoto); return; }
+    if (e.target.closest("[data-map-overlay-close]")){ closeMapOverlay(); return; }
+    var full = e.target.closest("[data-map-fullmap]");
+    if (full){ var en = questMapEntries(full.dataset.mapFullmap); if (en) openFullMapAt(questMapIds(en)); return; }
+    var qm = e.target.closest(".q-map-wrap");
+    if (qm){ openQuestMapOverlay(qm.dataset.questMapName); return; }
+    if (e.target.closest("#mapLayersBtn")){
+      var sheet = document.getElementById("mapSheet");
+      sheet.hidden = !sheet.hidden;
+      if (!sheet.hidden) refreshMapSheet();
+      return;
+    }
+    if (e.target.closest("#mapSheetDone")){ document.getElementById("mapSheet").hidden = true; return; }
+    var preset = e.target.closest("[data-map-preset]");
+    if (preset){
+      var want = preset.dataset.mapPreset === "none" ? [] :
+        window.WILDS_MAP.categories.filter(function(c){ return MAP_DEFAULT_GROUPS.indexOf(c.group) !== -1; }).map(function(c){ return c.id; });
+      mapVisibleIds().slice().forEach(function(id){ if (want.indexOf(id) === -1) setMapCategory(id, false); });
+      want.forEach(function(id){ setMapCategory(id, true); });
+      saveState(); refreshMapSheet();
+      return;
+    }
+    // Opening a quest card or panel can reveal a map preview.
+    setTimeout(initQuestMaps, 0);
+  });
+  document.addEventListener("change", function(e){
+    var cat = e.target.closest("input[data-map-cat]");
+    var grp = e.target.closest("input[data-map-group]");
+    if (!cat && !grp) return;
+    if (cat){
+      setMapCategory(cat.dataset.mapCat, cat.checked);
+      var find = document.getElementById("mapFind");
+      if (cat.checked && wildsMap && find && find.value.trim()) fitMapToCategories(wildsMap, [cat.dataset.mapCat]);
+    } else {
+      var f = (document.getElementById("mapFind") || {}).value || "";
+      var g = mapGroups().filter(function(x){ return x.name === grp.dataset.mapGroup; })[0];
+      g.cats.filter(function(c){ return !f.trim() || c.id.toLowerCase().indexOf(f.trim().toLowerCase()) !== -1 || g.name.toLowerCase().indexOf(f.trim().toLowerCase()) !== -1; })
+        .forEach(function(c){ setMapCategory(c.id, grp.checked); });
+    }
+    saveState(); refreshMapSheet();
+  });
+  document.addEventListener("input", function(e){
+    if (e.target.id === "mapFind") refreshMapSheet();
+  });
+  document.addEventListener("keydown", function(e){
+    if (e.key === "Escape") closeMapOverlay();
+  });
+
   function drawSettings(){
     trackerEl.innerHTML = '<div class="tk-head"><h2>Settings</h2></div>'+
       '<div class="tk-panel">'+syncBlock()+backupBlock()+'<button class="tk-reset" id="tkReset">Reset all progress</button></div>';

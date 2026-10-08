@@ -1508,6 +1508,78 @@ window.WILDS_STORAGE = [
         "step": 1
       },
       {
+        "name": "Bronze Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Bronze_Crossbow_Limbs.png?2a3c3",
+        "tier": "Bronze",
+        "tierRank": 1,
+        "chest": "weapons",
+        "note": "A pair of bronze crossbow limbs, used in crafting a Bronze Crossbow.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "A pair of bronze crossbow limbs. Used in crafting a Bronze Crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Bronze Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Bar.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Bronze Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Bronze_Crossbow_Limbs.png?2a3c3"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Bronze Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Crossbow.png?22330",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Bronze crossbow limbs are used in crafting bronze crossbows. They are crafted at a blacksmith's bench.\n\n(Journal)\nThe complicated mechanisms of the crossbow sparked a small technological revolution in Bramblemead. Such devices had once been the domain of the dwarves, who guarded their advanced techniques to maintain their smithing dominion. However, soon human smiths found themselves creating these complex trigger mechanisms.\n\nThere were casualties, certainly. Some mechanisms tightened strings too greatly, snapping back with a force that could cause serious harm.\n\nOne notable example involved the pet belonging to the village priest, a curious feline with absolutely no sense of self-preservation. The cat entered the workshop, as she so often did, and took it upon herself to knock everything she could to the floor. Unfortunately, in doing so, she triggered the release mechanism being worked on and quickly learned that cats are not meant to fly."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 1
+      },
+      {
         "name": "Blightwood Battlestaff",
         "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Battlestaff.png?240ee",
         "tier": "Blightwood",
@@ -2683,6 +2755,78 @@ window.WILDS_STORAGE = [
           "shops": [],
           "perks": [],
           "description": "The iron warhammer is a power level 4 two-handed melee weapon crafted at a blacksmith's bench. Its special attack is a slow and heavy slam in front of the player, with a small area-of-effect shockwave that will cause a hard knockdown on most opponents and deal heavy damage.\n\n(Journal)\nImcando dwarves preferred the forge to the battlefield but were not afraid to join the frontlines when their aid was needed. They waded into conflict with warhammers held high, ready to smash their enemies out of existence.\n\nOnly one Imcando dwarf made her way to Ashenfall, and she came here for vengeance. Her foes were not the garou or the dragon army, but the green-skinned goblins who had earned her ire.\n\nShe was given a wide berth in Bramblemead, partially because of the enormous hammer hefted across her shoulder but mostly because of the fury that radiated, as if her hate were flames and she was perpetually burning. In the rare times the dwarf spoke, she simply mentioned that she was looking for someone the goblins had taken, and she would never rest until she got them back."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 2
+      },
+      {
+        "name": "Iron Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Iron_Crossbow_Limbs.png?28f7b",
+        "tier": "Iron",
+        "tierRank": 2,
+        "chest": "weapons",
+        "note": "A pair of iron crossbow limbs, crafted at a blacksmith's bench using 2 iron bars and used in crafting an Iron Crossbow.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "A pair of iron crossbow limbs. Used in crafting an Iron Crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Iron Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Iron_Bar.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Iron Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Iron_Crossbow_Limbs.png?28f7b"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Iron Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Iron_Crossbow.png?69731",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Iron crossbow limbs are used in crafting iron crossbows. They are created at a blacksmith's bench.\n\n(Journal)\nFollowing certain incidents with cats and crossbow limbs, a superstition began to build in Bramblemead about the danger of crossbows and felines. It was considered bad luck to house a cat in the same home as a crossbow, with reasoning ranging from the safety of the cat, to the safety of the human population should the cats rise up and develop opposable thumbs.\n\nWhilst harmless at first, when the need for crossbows grew due to the conflict with the garou, cats found themselves with fewer and fewer homes willing to house them. Over the years this led to domestic cats being a rare sight in Bramblemead.\n\nIt also created a deep-seated resentment in the cats, and they plotted their revenge. Most would tell you that cats had nothing to do with the destruction of Bramblemead and the Brynmoor settlements, yet if you ask a cat, they will simply purr with a sinister grin on their face."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -3983,6 +4127,74 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Steel Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Steel_Crossbow_Limbs.png?0298e",
+        "tier": "Steel",
+        "tierRank": 3,
+        "chest": "weapons",
+        "note": "A component crafted from 2 steel bars at a blacksmith's bench requiring level 40 Artisan skill.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A pair of Steel crossbow limbs. Used in crafting a Steel Crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Steel Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Steel_Bar.png?5fe67"
+                }
+              ],
+              "output": {
+                "name": "Steel Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Steel_Crossbow_Limbs.png?0298e"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Steel Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steel_Crossbow.png?26d03",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Steel crossbow limbs are used for crafting steel crossbows. They are created at a blacksmith's bench.\n\n(Journal)\nSteel crossbow limbs are sturdier than their counterparts, with a greater durability that allows them to create stronger and more dangerous crossbows.\n\nIndeed, this durability seems to have put a nominal end to the unfortunate curse between cats and crossbow limb related catastrophes.\n\nAs a result, in Fellhollow, cats still had a place in the home, even after they had been systematically outcast from Bramblemead. It was said that Xikotal, in particular, enjoyed the gentle purring noises that they made and would surround his lair with hundreds of the creatures so that he might be lulled into a gentle sleep."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 3
+      },
+      {
         "name": "Maple Battlestaff",
         "img": "https://dragonwilds.runescape.wiki/images/Maple_Battlestaff.png?0e0a2",
         "tier": "Maple",
@@ -5233,6 +5445,74 @@ window.WILDS_STORAGE = [
           "shops": [],
           "perks": [],
           "description": "The mithril warhammer is a power level 6 two-handed melee weapon that can be crafted at a blacksmith's bench.\n\n(Journal)\nThe mithril warhammer was once the weapon most associated with Lord Rasmodel of Dowdun Reach. He was rarely seen without it. In the mornings, when he was most in pain, it would be a prop, something to lean on while the night's watch recounted the events of the early hours. In the afternoons, it was a beautiful warning, a threat of what might happen if you disobeyed him.\n\nLord Rasmodel wasn't one for naming his weapons. He found the custom a little juvenile. But when his thoughts were elsewhere, you might see him pat the head of the warhammer. There was kinship there, even if he wouldn't admit it."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 4
+      },
+      {
+        "name": "Mithril Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Mithril_Crossbow_Limbs.png?2487d",
+        "tier": "Mithril",
+        "tierRank": 4,
+        "chest": "weapons",
+        "note": "A crafted component made from mithril bars at a blacksmith's bench, used to create mithril crossbows.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A pair of mithril crossbow limbs. Essential for crafting mithril crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Mithril Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Bar.png?fe907"
+                }
+              ],
+              "output": {
+                "name": "Mithril Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Mithril_Crossbow_Limbs.png?2487d"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Mithril Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Crossbow.png?cfa4c",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Mithril crossbow limbs are used in crafting mithril crossbows. They are created at a blacksmith's bench.\n\n(Journal)\nWhat do you call a crossbow without limbs? A REALLY cross bow.\n\nOh shush, you. That joke plays well at fletching conventions."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -6496,6 +6776,74 @@ window.WILDS_STORAGE = [
         "step": 5
       },
       {
+        "name": "Adamant Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow_Limbs.png?df5a6",
+        "tier": "Adamant",
+        "tierRank": 5,
+        "chest": "weapons",
+        "note": "A crafting component made from 2 Adamant Bars at level 40 Artisan, used to create an Adamant Crossbow.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A pair of adamant crossbow limbs. Used in crafting a adamant crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Adamant Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Bar.png?cd59b"
+                }
+              ],
+              "output": {
+                "name": "Adamant Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow_Limbs.png?df5a6"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Adamant Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow.png?a5d74",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Adamant crossbow limbs are used for creating a adamant crossbow."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 5
+      },
+      {
         "name": "Ancestral Staff",
         "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Staff_%28journal%29.png?73a03",
         "tier": "Ancestral",
@@ -7124,6 +7472,74 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Fletching Bench"
+        ],
+        "step": 6
+      },
+      {
+        "name": "Black Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Black_Crossbow_Limbs.png?ebb41",
+        "tier": "Black metal",
+        "tierRank": 6,
+        "chest": "weapons",
+        "note": "Crafting components made from black metal bars at a blacksmith's bench, used to create a shadow crossbow.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A pair of Black crossbow limbs. Used in crafting a Black Knight Crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Black Metal Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Black_Metal_Bar.png?70330"
+                }
+              ],
+              "output": {
+                "name": "Black Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Black_Crossbow_Limbs.png?ebb41"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Shadow Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
+              "station": "Fletching Table"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Black crossbow limbs are a component in creating the shadow crossbow. They are created at a blacksmith's bench.\n\n(Journal)\nDid you know that someone who fires a crossbow is often considered an 'arbalister' or 'arbalist'? Don't say that these journals don't teach you something."
+        },
+        "stations": [
+          "Blacksmith's Bench"
         ],
         "step": 6
       },
@@ -7972,6 +8388,78 @@ window.WILDS_STORAGE = [
         "step": 7
       },
       {
+        "name": "Rune Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow_Limbs_%28Journal%29.png?78d70",
+        "tier": "Rune",
+        "tierRank": 7,
+        "chest": "weapons",
+        "note": "Forged at a blacksmith's bench from a rune bar; used to craft the rune crossbow at a fletching bench.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Expertly forged rune limbs that provide exceptional strength and durability when fitted to a crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Rune Bar",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Rune_Bar.png?965c9"
+                }
+              ],
+              "output": {
+                "name": "Rune Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow_Limbs.png?78d70"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Rune Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow.png?78d70",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Rune crossbow limbs are used for crafting a rune crossbow with a fletching bench.\n\n(Journal)\nDid you hear about the crossbow limb shop? They were always out of stock!\n\nPeople used to chase after me because of my bad crossbow jokes, so I had to make a bolt for it."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 7
+      },
+      {
         "name": "Abysmal Whip",
         "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip_%28Journal%29.png?7a40d",
         "tier": "",
@@ -8424,6 +8912,78 @@ window.WILDS_STORAGE = [
         "step": 7
       },
       {
+        "name": "Blurite Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Blurite_Crossbow_Limbs.png?606b0",
+        "tier": "",
+        "tierRank": null,
+        "chest": "weapons",
+        "note": "Crafted components assembled at a blacksmith's bench using blurite bars, used to create blurite crossbows.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "A pair of blurite crossbow limbs. Used in crafting a Blurite Crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Blurite Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Blurite_Bar.png?67753"
+                }
+              ],
+              "output": {
+                "name": "Blurite Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Blurite_Crossbow_Limbs.png?606b0"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Blurite Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blurite_Crossbow.png?328e7",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Blurite crossbow limbs are used in crafting blurite crossbows. They are crafted at a blacksmith's bench after unlocking the recipe with the vestige: azure metal contraption.\n\n(Journal)\nNot all cats are terrified of crossbows, though most of the Bramblemead population quickly learned to fear them. Some cats could see their merit but were painfully aware of their human pet’s limited imagination.\n\nMittens was the lifelong owner of Gothren Actillian. A blacksmith’s cat, he had learned how to keep the forge fires perfectly hot by playfully jumping on the bellows periodically – something his pet seemed to enjoy. He knew the right length of time a sword should be cooled for and would make sure his human stuck to that timing by offering useful alarms made of glorious clattering things.\n\nBut blurite? That was a new one. Mittens could see there was little value to the metal, beyond some weird human aesthetic that he did not understand, yet there was some potential to the construction. With carefully timed meows, and some creative knocking over of reagents, Mittens was able to engineer a crossbow of superior design, worthy of his cherished pet."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 7
+      },
+      {
         "name": "Bone Club",
         "img": "https://dragonwilds.runescape.wiki/images/Bone_Club.png?240ee",
         "tier": "",
@@ -8527,6 +9087,74 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Crafting Table"
+        ],
+        "step": 7
+      },
+      {
+        "name": "Bone Crossbow Limbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Bone_Crossbow_Limbs.png?2bdc6",
+        "tier": "",
+        "tierRank": null,
+        "chest": "weapons",
+        "note": "A component crafted from 2 Undead Bones at a Blacksmith's Bench requiring Artisan 40, used to create the Dorgeshuun Crossbow.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Description",
+              "value": "Crossbow limbs made from powerful bone. Used in crafting the Dorgeshuun Crossbow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Undead Bone",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Undead_Bone.png?85793"
+                }
+              ],
+              "output": {
+                "name": "Bone Crossbow Limbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Bone_Crossbow_Limbs.png?2bdc6"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Dorgeshuun Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Dorgeshuun_Crossbow.png?aaf68",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Bone crossbow limbs can be created at a blacksmith's bench and can be used to craft a Dorgeshuun crossbow.\n\n(Journal)\nFollowing certain incidents with cats and crossbow limbs, a superstition began to build in Bramblemead about the danger of crossbows and felines. It was considered bad luck to house a cat in the same home as a crossbow, with reasoning ranging from the safety of the cat, to the safety of the human population should cats rise up and develop opposable thumbs.\n\nWhile harmless at first, as the conflict with the garou grew the need for crossbows, cats found themselves with fewer and fewer homes willing to house them. Over the years, this led to domestic cats becoming a rare sight in Bramblemead.\n\nIt also created a deep-seated resentment among cats, and they plotted their revenge. Most would tell you that cats had nothing to do with the destruction of Bramblemead and the Brynmoor settlements. Yet, if you ask a cat, they will simply purr with a sinister grin."
+        },
+        "stations": [
+          "Blacksmith's Bench"
         ],
         "step": 7
       },
@@ -29346,6 +29974,226 @@ window.WILDS_STORAGE = [
         "stations": [
           "Armour Bench"
         ],
+        "step": 7
+      },
+      {
+        "name": "PATTERN: Bloodblight Cape",
+        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Bloodblight_Cape.png?8743f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "armour",
+        "note": "A consumable item that unlocks creation of the Bloodblight cape, found in a chest in Bloodblight Swamp.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Pattern"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0 kg"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Bloodblight Swamp)",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "PATTERN: Bloodblight cape is a consumable item that unlocks creation of the Bloodblight cape."
+        },
+        "step": 7
+      },
+      {
+        "name": "PATTERN: Bramblemead Cape",
+        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Bramblemead_Cape.png?0faeb",
+        "tier": "",
+        "tierRank": null,
+        "chest": "armour",
+        "note": "A consumable pattern item that unlocks the creation of the Bramblemead cape.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Pattern"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Brynmoor)",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "PATTERN: Bramblemead cape is a consumable item that unlocks the creation of the Bramblemead cape."
+        },
+        "step": 7
+      },
+      {
+        "name": "PATTERN: Fell Cape",
+        "img": "https://dragonwilds.runescape.wiki/images/PATTERN_-_Fell_Cape.png?3424f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "armour",
+        "note": "A blueprint found in Hope's Fall that crafts the Fellhollow Cape at an Armour Bench.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Pattern"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The fell cape pattern is a blueprint for making the Fellhollow cape. This blueprint is found in Hope's Fall near the middle part of the dragon skeleton. Players will need to cast Rocksplosion or mine the stone boulders to get to the chest."
+        },
+        "step": 7
+      },
+      {
+        "name": "PATTERN: Fractured Cape",
+        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Fractured_Cape.png?dd954",
+        "tier": "",
+        "tierRank": null,
+        "chest": "armour",
+        "note": "A consumable pattern item that unlocks crafting of the Fractured Cape at an Armour Bench.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Pattern"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Fractured Plains)",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "PATTERN: fractured cape is a consumable item that unlocks the creation of the fractured cape. The blueprint is within a chest at the north-north-east tip of the Fractured Plains."
+        },
+        "step": 7
+      },
+      {
+        "name": "PATTERN: Stormtouched Cape",
+        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Stormtouched_Cape.png?ae85f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "armour",
+        "note": "A consumable item that unlocks creation of the Stormtouched cape, obtained from a chest at Highland Castle's tower.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Pattern"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Stormtouched Highlands)",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "PATTERN: stormtouched cape is a consumable item that unlocks creation of the stormtouched cape."
+        },
+        "step": 7
+      },
+      {
+        "name": "PATTERN: Whispering Cape",
+        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Whispering_Cape.png?db6f1",
+        "tier": "",
+        "tierRank": null,
+        "chest": "armour",
+        "note": "A consumable pattern item that unlocks creation of the Whispering cape when used at an Armour Bench.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Pattern"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0 kg"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Whispering Swamp)",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "PATTERN: whispering cape is a consumable item that unlocks creation of the whispering cape. The blueprint is found in Whispering Swamp, within a chest tucked into an alcove, slightly north of the cave entrance where you find the garou druid during the Goblin Diplomacy quest."
+        },
         "step": 7
       },
       {
@@ -57060,6 +57908,76 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Amylase Crystal",
+        "img": "https://dragonwilds.runescape.wiki/images/Amylase_Crystal.png?606b5",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "A crystalline component obtained from Agility course reward packs, used as a reagent in brewing stamina potions.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "29 July 2026 (0.12.1 is now live!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A crystallised mass of amylase enzymes, can be used as a reagent potions."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Stamina Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Stamina_Potion.png?7f693",
+              "station": "Brewing Cauldron"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Reward Pack: Dowdun Reach Gold",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Dowdun Reach Silver",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Gold",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Silver",
+              "qty": "1-2",
+              "rarity": "1/5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Amylase crystal can be obtained by opening Agility course reward packs. It is used in making stamina potions.\n\n(Journal)\nDo you really want to know what amylase crystals are? I know this is a journal and you would expect some elaboration, but sometimes a little mystery is best when it comes to alchemical reagents.\n\nUgh, you're still here? Fine. Amylase crystal is a concentrated deposit of saliva. There's no way of sugar-coating it: you're holding some sun-dried spit right here. And just as it does wonders for digestive processes, it's pretty good at breaking down roughage in potion-crafting."
+        },
+        "stations": [
+          "Brewing Cauldron"
+        ],
+        "step": 3
+      },
+      {
         "name": "Arcane Infusion",
         "img": "https://dragonwilds.runescape.wiki/images/Arcane_Infusion.png?935da",
         "tier": "",
@@ -59346,6 +60264,166 @@ window.WILDS_STORAGE = [
         "stations": [
           "Furnace",
           "Blast Furnace"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Bronze Leaf",
+        "img": "https://dragonwilds.runescape.wiki/images/Bronze_Leaf.png?67148",
+        "tier": "Bronze",
+        "tierRank": 1,
+        "chest": "ores",
+        "note": "A craftable component from Agility courses that can be used for potions, construction, or recycled into bronze bars.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "29 July 2026 (0.12.1 is now live!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A thin sheet of purest bronze, can be used for demonstrating your prowess, potion making or even recycling into bronze bars."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Jeweler's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Bronze Bar",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Bar.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Bronze Leaf",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Bronze_Leaf.png?67148"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Bronze Bar",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Bar.png?dfc4f",
+              "station": "Blast Furnace"
+            },
+            {
+              "name": "Weak Focused Agility Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Agility_Potion.png?91662",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Bronze Medal",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Medal.png?fe501",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Reward Pack: Brynmoor Gold",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Ghornfell Gold",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Brynmoor Bronze",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Brynmoor Silver",
+              "qty": "1-5",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Dowdun Reach Bronze",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Dowdun Reach Gold",
+              "qty": "1-10",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Dowdun Reach Silver",
+              "qty": "1-5",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Fellhollow Bronze",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Fellhollow Gold",
+              "qty": "1-5",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Fellhollow Silver",
+              "qty": "1-5",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Ghornfell Bronze",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Ghornfell Silver",
+              "qty": "1-5",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Bronze",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Gold",
+              "qty": "1-12",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Silver",
+              "qty": "1-5",
+              "rarity": "1/5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Bronze leaves are a craftable item reward from various Agility courses that allows the player to make potions or create bronze bars. To obtain these, players must either collect them from bronze (or better) reward packs or recycle bronze bars in the jeweler's bench to make sheets of ten per bar.\n\n(Journal)\nIf you want to prettify some jewellery or clothing, there's nothing quite like leaf filigree. It makes you realise that nature really knows what it is doing. Everywhere you look, we've embellished our craftmanshipincorrectly spelled \"craftsmanship\" with stuff from nature: animal feet on the legs of furniture, animal-skin rugs, carved foliage on bigger units. There really is no better muse than Mother Nature."
+        },
+        "stations": [
+          "Jeweler's Bench"
         ],
         "step": 0
       },
@@ -62570,6 +63648,170 @@ window.WILDS_STORAGE = [
         "step": 6
       },
       {
+        "name": "Gold Leaf",
+        "img": "https://dragonwilds.runescape.wiki/images/Gold_Leaf.png?b9cf9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "ores",
+        "note": "A craftable component obtained from Agility courses, used to create potions, gilded capes, and jewelry.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "29 July 2026 (0.12.1 is now live!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A thin sheet of brilliant gold, can be used for demonstrating your prowess, potion making or even recycling into gold bars."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Jeweler's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Gold Bar",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Gold_Bar.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Gold Leaf",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Gold_Leaf.png?b9cf9"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Gold Bar",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Gold_Bar.png?dfc4f",
+              "station": "Blast Furnace"
+            },
+            {
+              "name": "Golden Bloodblight Cape",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bloodblight_Cape_%28gilded%29.png?bd0cb",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Golden Fractured Cape",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fractured_Cape_%28gilded%29.png?94a55",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Golden Bramblemead Cape",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bramblemead_Cape_%28gilded%29.png?2fb34",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Golden Stormtouched Cape",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Stormtouched_Cape_%28gilded%29.png?eda55",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Golden Whispering Cape",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Whispering_Cape_%28gilded%29.png?c15ab",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Golden Fellhollow Cape",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fellhollow_Cape_%28gilded%29.png?d092f",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Golden Dowdun Reach Cape",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Dowdun_Reach_Cape_%28gilded%29.png?852e1",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Golden Umbral Sands Cape",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Umbral_Sands_Cape_%28gilded%29.png?cc245",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Focused Agility Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Agility_Potion.png?a9f9f",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Gilded Gyrhawk Amulet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Gilded_Gyrhawk_Amulet.png?fd035",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Gold Medal",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Gold_Medal.png?fab94",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Reward Pack: Brynmoor Gold",
+              "qty": "1-2",
+              "rarity": "1/10"
+            },
+            {
+              "source": "Reward Pack: Ghornfell Gold",
+              "qty": "1-2",
+              "rarity": "1/10"
+            },
+            {
+              "source": "Reward Pack: Dowdun Reach Gold",
+              "qty": "1-10",
+              "rarity": "1/10"
+            },
+            {
+              "source": "Reward Pack: Fellhollow Gold",
+              "qty": "1-4",
+              "rarity": "1/10"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Gold",
+              "qty": "1-12",
+              "rarity": "1/10"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Gold leaf is a craftable item reward from various Agility courses that allows the player to make potions, golden regional capes, and a gilded version of the gyrhawk amulet. To obtain these, players must either collect them from golden reward packs or recycle gold bars at the jeweler's bench to make sheets of ten per bar.\n\n(Journal)\nFashion is often described as circular, turning from modish to outmoded and back again. Or it's portrayed like waves, as fads come and go, never to be seen again.\n\nBut some fashions are like trees. They've always been there, unmoving, over generations. Gold leaf is one of them. You can definitely over-use it, but when used with care, it's timeless."
+        },
+        "stations": [
+          "Jeweler's Bench"
+        ],
+        "step": 6
+      },
+      {
         "name": "Gold Ore",
         "img": "https://dragonwilds.runescape.wiki/images/Gold_Ore.png?dfc4f",
         "tier": "",
@@ -63112,6 +64354,141 @@ window.WILDS_STORAGE = [
         "stations": [
           "Furnace",
           "Blast Furnace"
+        ],
+        "step": 6
+      },
+      {
+        "name": "Silver Leaf",
+        "img": "https://dragonwilds.runescape.wiki/images/Silver_Leaf.png?bbc2e",
+        "tier": "",
+        "tierRank": null,
+        "chest": "ores",
+        "note": "A craftable silver component obtainable from Agility courses, used for potion-making or bar recycling.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "29 July 2026 (0.12.1 is now live!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A thin sheet of finest silver, can be used for demonstrating your prowess, potion making or even recycling into silver bars."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Jeweler's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Silver Bar",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Silver_Bar.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Silver Leaf",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Silver_Leaf.png?bbc2e"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Silver Bar",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Silver_Bar.png?dfc4f",
+              "station": "Blast Furnace"
+            },
+            {
+              "name": "Lesser Focused Agility Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Agility_Potion.png?d9377",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Silver Medal",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Silver_Medal.png?e16ba",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Reward Pack: Brynmoor Gold",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Ghornfell Gold",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Brynmoor Silver",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Dowdun Reach Gold",
+              "qty": "1-10",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Dowdun Reach Silver",
+              "qty": "1-5",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Fellhollow Gold",
+              "qty": "1-4",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Fellhollow Silver",
+              "qty": "1-3",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Ghornfell Silver",
+              "qty": "1-2",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Gold",
+              "qty": "1-12",
+              "rarity": "1/5"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Silver",
+              "qty": "1-5",
+              "rarity": "1/5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Silver leaf is a craftable item reward from various Agility courses that allows the player to make potions or create silver bars. To obtain these, players must either collect them from silver (or golden) reward packs or recycle silver bars in the jeweler's bench to make sheets of ten per bar.\n\n(Journal)\nIf you're getting bored of your amulet or cloak, why not liven it up with a bit of silver leaf? Be a bit of a fancy dandy: treat yourself to a little embellishment. Round it off by wearing a monocle and a ruff."
+        },
+        "stations": [
+          "Jeweler's Bench"
         ],
         "step": 6
       },
@@ -63820,213 +65197,6 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
-        "name": "Clay",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b",
-        "tier": "",
-        "tierRank": null,
-        "chest": "stone",
-        "note": "Mined from clay nodes near water sources and used as a crafting material for pottery and construction.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Material"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Essential for pottery and construction, dig it up from nearby water sources."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Brewing Cauldron",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Brewing_Cauldron.png?6bf2b",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Weak Quarrymaster Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Quarrymaster_Potion.png?ab688",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Clay Vessel (Unfired)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel_%28Unfired%29.png?d4d9c",
-              "station": "Pottery Wheel"
-            },
-            {
-              "name": "Kiln",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kiln.png?6bf2b",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Furnace",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Furnace.png?6bf2b",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Cooking Range",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Cooking_Range.png?6bf2b",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Clay Decoration (Unfired)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration_%28Unfired%29.png?d4d9c",
-              "station": "Pottery Wheel"
-            },
-            {
-              "name": "Ground Clay",
-              "qty": 5,
-              "img": "https://dragonwilds.runescape.wiki/images/Ground_Clay.png?d4d9c",
-              "station": "Grindstone"
-            },
-            {
-              "name": "Medium Clay Pile",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Medium_Clay_Pile.png?f6ca4",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Small Clay Pile",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Small_Clay_Pile.png?44974",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Small Clay Bin",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Small_Clay_Bin.png?ab21d",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Clay Mould (Unfired)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould_%28Unfired%29.png?6b36b",
-              "station": "Pottery Wheel"
-            },
-            {
-              "name": "Pots on a Bench",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Pots_on_a_Bench.png?14f4f",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Clay Node",
-              "qty": "1-2",
-              "rarity": "Always"
-            },
-            {
-              "source": "Dragon Slayer Reward Pack",
-              "qty": "3",
-              "rarity": "Always"
-            },
-            {
-              "source": "Chest (Skeklac Kara)",
-              "qty": "4-8",
-              "rarity": "1/19"
-            },
-            {
-              "source": "Chest (Takla Kara)",
-              "qty": "4-8",
-              "rarity": "1/19"
-            },
-            {
-              "source": "Chest (Chaktan Kara)",
-              "qty": "4-8",
-              "rarity": "1/11.4"
-            },
-            {
-              "source": "Chest (Kletterbuja Kara)",
-              "qty": "4-8",
-              "rarity": "1/28.6"
-            },
-            {
-              "source": "Chest (Vertentis Kara)",
-              "qty": "2-6",
-              "rarity": "1/4"
-            },
-            {
-              "source": "Chest (Stormtouched Highlands)",
-              "qty": "4-8",
-              "rarity": "1/8.2"
-            },
-            {
-              "source": "Chest (Fractured Plains)",
-              "qty": "4-8",
-              "rarity": "1/19"
-            },
-            {
-              "source": "Chest (Bloodblight Swamp)",
-              "qty": "4-8",
-              "rarity": "1/19"
-            },
-            {
-              "source": "Chest (Whispering Swamp)",
-              "qty": "2-6",
-              "rarity": "1/4"
-            },
-            {
-              "source": "Chest (Whispering Swamp)",
-              "qty": "2-6",
-              "rarity": "1/10"
-            },
-            {
-              "source": "Chest (Dowdun Reach)",
-              "qty": "2-4",
-              "rarity": "1/17"
-            },
-            {
-              "source": "Chest (Dowdun Reach)",
-              "qty": "2-4",
-              "rarity": "1/100"
-            },
-            {
-              "source": "Chest (Dowdun Reach)",
-              "qty": "2-6",
-              "rarity": "4.25/100"
-            }
-          ],
-          "shops": [
-            {
-              "seller": "Beartach - The Merchant",
-              "mode": "buy",
-              "cost": 2,
-              "currency": "Garou Chit"
-            },
-            {
-              "seller": "Beartach - The Merchant",
-              "mode": "sell",
-              "cost": 6,
-              "currency": "Garou Chit"
-            }
-          ],
-          "perks": [],
-          "description": "Clay is a basic Mining material that can be mined from clay nodes. It can be used at a pottery wheel to craft a variety of items, which must then be fired using a kiln. Note that clay can be worked directly, and does not need to be made into soft clay.\n\nReceiving clay from any source is required to unlock the pottery wheel, kiln, and brewing cauldron.\n\n(Journal)\nThis sticky brown substance is rarely considered the right answer to the classic joke. However, it has many more uses outside the realm of low-tier comedy."
-        },
-        "step": 0
-      },
-      {
         "name": "Diamond",
         "img": "https://dragonwilds.runescape.wiki/images/Diamond.png?43847",
         "tier": "",
@@ -64475,78 +65645,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Granite is a basic Mining material that can be mined from granite deposits.\n\nGranite can be processed at a grindstone to create ground granite. Additionally, granite is a reagent for other items and buildings.\n\n(Journal)\nThis stone is stubbornly resistant to magic. Whereas other stones absorb the nascent anima, Granite refuses. It exists on its own terms, not the whims of magic. As such, it is highly prized in construction projects, as it resists most magic and those enchantments that do affect it, last much longer.\n\nLegend speaks of a weapon forged from this stone. A great hammer, said to be able to crush almost any armour."
         },
-        "step": 0
-      },
-      {
-        "name": "Ground Clay",
-        "img": "https://dragonwilds.runescape.wiki/images/Ground_Clay.png?d4d9c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "stone",
-        "note": "Ground from clay at a grindstone; used in building and as an Herblore ingredient for lesser Focused Artisan potions.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Resource"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Pulverised stone, used in building, and as an Herblore ingredient."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Grindstone",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": "?"
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Clay",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Ground Clay",
-                "qty": 5,
-                "img": "https://dragonwilds.runescape.wiki/images/Ground_Clay.png?d4d9c"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Lesser Focused Artisan Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Artisan_Potion.png?1e8fb",
-              "station": "Brewing Cauldron"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Ground clay is made by using clay on a grindstone. It is used to make lesser Focused Artisan potions.\n\n(Journal)\nBy grinding clay down into powder, you can create a much smoother medium for crafting. The grinding process gets rid of various impurities and allows for more resilient results."
-        },
-        "stations": [
-          "Grindstone"
-        ],
         "step": 0
       },
       {
@@ -65597,6 +66695,233 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Grindstone"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Refined Obsidian",
+        "img": "https://dragonwilds.runescape.wiki/images/Refined_Obsidian.png?adca9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "stone",
+        "note": "Processed from ground obsidian at a blast furnace.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An object of pure, refined obsidian."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blast Furnace",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ground Obsidian",
+                  "qty": 9,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Obsidian.png?8e968"
+                }
+              ],
+              "output": {
+                "name": "Refined Obsidian",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Refined_Obsidian.png?adca9"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Desert Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Robes.png?eb854",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Adamant Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Helmet.png?0728c",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Adamant Platebody",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platebody.png?eb43f",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Adamant Platelegs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platelegs.png?499cf",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Lunar Garou Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Hat.png?b3a6b",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Lunar Garou Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robes.png?345d5",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Lunar Garou Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robe_Legs.png?d2e0b",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Infinity Robe Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Hat.png?aa8fe",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Infinity Robe Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Body.png?892c5",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Infinity Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Legs.png?3b400",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Master's Staff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Master%27s_Staff.png?060f3",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Toktz-Mej-Tal",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Toktz-Mej-Tal.png?67a11",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Red Dragonhide Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Body.png?95f13",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Red Dragonhide Coif",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Coif.png?99b7e",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Red Dragonhide Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Legs.png?be9c9",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Obsidian Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Helmet.png?647e6",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Obsidian Chest",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Chest.png?00b73",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Obsidian Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Legs.png?6621a",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Desert Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Robe_Legs.png?a1791",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Desert Hood",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Hood.png?a717f",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Toktz-Xil-Ak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Toktz-Xil-Ak.png?30651",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "TzHaar-Ket-Om",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/TzHaar-Ket-Om.png?d0383",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "TokTz-Ket-Xil",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/TokTz-Ket-Xil.png?ff2a4",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Master Wand",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Master_Wand.png?fa08a",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Adamant Med Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Med_Helm.png?f38b3",
+              "station": "Armour Bench"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "1/24"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "1.46/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Refined obsidian is a basic item processed from nine ground obsidian at the blast furnace.\n\n(Journal)\nIt's hard for a human to understand just how much obsidian means to a KotHaar. Imagine that your homes, tools and weapons were the flesh of your ancestors. Imagine that the money in your wallet was stretched skin from a distant relative. Now, switch out your disgust for a kind of holy reverence: the KotHaar feel this towards all the obsidian about them. That flesh isn't just a physical remnant of their ancestors, it carries their memories too. Knowledge permeates the rock."
+        },
+        "stations": [
+          "Blast Furnace"
         ],
         "step": 0
       },
@@ -67329,6 +68654,1754 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Vault shards are items used in crafting several items and can be obtained from vault guardians found in dragonkin vaults.\n\n(Journal)\nA shard of rune essence, refined and manipulated by dragonkin alchemy. Tiny lines, like veins, run through the shard in very specific patterns, allowing the precise control of anima flow through the construction. When used correctly, these shards can create magical circuits, allowing the vault guardians to move, sense and attack with impunity.\n\nIt was the dragonkin Lacrussa who discovered this technology, and it paved the way for powerful servitors to be constructed. Ultimately, she would consider the technology a failure, albeit a useful one."
         },
+        "step": 0
+      }
+    ]
+  },
+  {
+    "key": "pottery",
+    "label": "Clay & Glass",
+    "items": [
+      {
+        "name": "Clay",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "Mined from clay nodes near water sources and used as a crafting material for pottery and construction.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Essential for pottery and construction, dig it up from nearby water sources."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Brewing Cauldron",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Brewing_Cauldron.png?6bf2b",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Weak Quarrymaster Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Quarrymaster_Potion.png?ab688",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Clay Vessel (Unfired)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel_%28Unfired%29.png?d4d9c",
+              "station": "Pottery Wheel"
+            },
+            {
+              "name": "Kiln",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kiln.png?6bf2b",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Furnace",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Furnace.png?6bf2b",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Cooking Range",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Cooking_Range.png?6bf2b",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Clay Decoration (Unfired)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration_%28Unfired%29.png?d4d9c",
+              "station": "Pottery Wheel"
+            },
+            {
+              "name": "Ground Clay",
+              "qty": 5,
+              "img": "https://dragonwilds.runescape.wiki/images/Ground_Clay.png?d4d9c",
+              "station": "Grindstone"
+            },
+            {
+              "name": "Medium Clay Pile",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Medium_Clay_Pile.png?f6ca4",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Small Clay Pile",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Small_Clay_Pile.png?44974",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Small Clay Bin",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Small_Clay_Bin.png?ab21d",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Clay Mould (Unfired)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould_%28Unfired%29.png?6b36b",
+              "station": "Pottery Wheel"
+            },
+            {
+              "name": "Pots on a Bench",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pots_on_a_Bench.png?14f4f",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Clay Node",
+              "qty": "1-2",
+              "rarity": "Always"
+            },
+            {
+              "source": "Dragon Slayer Reward Pack",
+              "qty": "3",
+              "rarity": "Always"
+            },
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "4-8",
+              "rarity": "1/19"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "4-8",
+              "rarity": "1/19"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "4-8",
+              "rarity": "1/11.4"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "4-8",
+              "rarity": "1/28.6"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "2-6",
+              "rarity": "1/4"
+            },
+            {
+              "source": "Chest (Stormtouched Highlands)",
+              "qty": "4-8",
+              "rarity": "1/8.2"
+            },
+            {
+              "source": "Chest (Fractured Plains)",
+              "qty": "4-8",
+              "rarity": "1/19"
+            },
+            {
+              "source": "Chest (Bloodblight Swamp)",
+              "qty": "4-8",
+              "rarity": "1/19"
+            },
+            {
+              "source": "Chest (Whispering Swamp)",
+              "qty": "2-6",
+              "rarity": "1/4"
+            },
+            {
+              "source": "Chest (Whispering Swamp)",
+              "qty": "2-6",
+              "rarity": "1/10"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "2-4",
+              "rarity": "1/17"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "2-4",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "2-6",
+              "rarity": "4.25/100"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Beartach - The Merchant",
+              "mode": "buy",
+              "cost": 2,
+              "currency": "Garou Chit"
+            },
+            {
+              "seller": "Beartach - The Merchant",
+              "mode": "sell",
+              "cost": 6,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Clay is a basic Mining material that can be mined from clay nodes. It can be used at a pottery wheel to craft a variety of items, which must then be fired using a kiln. Note that clay can be worked directly, and does not need to be made into soft clay.\n\nReceiving clay from any source is required to unlock the pottery wheel, kiln, and brewing cauldron.\n\n(Journal)\nThis sticky brown substance is rarely considered the right answer to the classic joke. However, it has many more uses outside the realm of low-tier comedy."
+        },
+        "step": 0
+      },
+      {
+        "name": "Clay Decoration",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration.png?6b36b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "A hardened clay figurine component crafted using pottery and kiln, used in construction recipes.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "A figurine made of clay. Now hardened."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay Decoration (Unfired)",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration_%28Unfired%29.png?d4d9c"
+                }
+              ],
+              "output": {
+                "name": "Clay Decoration",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration.png?6b36b"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Stack of Bowls",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Stack_of_Bowls.png?54955",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Bowl of Onions",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bowl_of_Onions.png?b85af",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Bowl of Peaches",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bowl_of_Peaches.png?615a8",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Vial Shelf",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Vial_Shelf.png?3b6da",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Potted Onion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Potted_Onion.png?5bbb5",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Potted Dwellberry Bush",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Potted_Dwellberry_Bush.png?5bbb5",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Potted Redberry Bush",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Potted_Redberry_Bush.png?5bbb5",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Pan Rack",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pan_Rack.png?4b0ad",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Pungent Omelette (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pungent_Omelette_%28decoration%29.png?3afd9",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Roast Dinner (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Roast_Dinner_%28decoration%29.png?a712c",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Steak 'N' Eggs (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steak_%27N%27_Eggs_%28decoration%29.png?b068c",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Sweet Veg Ball (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Sweet_Veg_Ball_%28decoration%29.png?956f3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Cheeky Fryup (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Cheeky_Fryup_%28decoration%29.png?a033b",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Vegan Fryup (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Vegan_Fryup_%28decoration%29.png?4a918",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Pumpkin Soup (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pumpkin_Soup_%28decoration%29.png?3382c",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Beef & Tomato Stew (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Beef_%26_Tomato_Stew_%28decoration%29.png?5c9aa",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Meat Stew (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Meat_Stew_%28decoration%29.png?319bb",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Evasive Infusion (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Evasive_Infusion_%28decoration%29.png?e39e3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Fleet-Footed Infusion (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fleet-Footed_Infusion_%28decoration%29.png?e39e3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Ferocious Infusion (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ferocious_Infusion_%28decoration%29.png?e39e3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Pumpkin Spice Infusion (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pumpkin_Spice_Infusion_%28decoration%29.png?e39e3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Relentless Infusion (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Relentless_Infusion_%28decoration%29.png?e39e3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Redberry Infusion (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Redberry_Infusion_%28decoration%29.png?e39e3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Dwellberry Infusion (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Infusion_%28decoration%29.png?e39e3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Arcane Infusion (decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Arcane_Infusion_%28decoration%29.png?86cd8",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Lougrim Memorial Shrine",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lougrim_Memorial_Shrine.png?1933a",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Artifact Salvage",
+              "qty": "1",
+              "rarity": "20/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "A clay decoration is an item that can be crafted by using three pieces of clay on a pottery wheel to produce a clay decoration (unfired), and then using the unfired clay decoration on a kiln to create the finished clay decoration.\n\n(Journal)\nMuch prettier now that it's not leaving nasty red stains everywhere."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Clay Decoration (Unfired)",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration_%28Unfired%29.png?d4d9c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "An unfired clay item crafted at a pottery wheel that can be fired in a kiln to create a finished decoration.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "A figurine made of clay. Still wet."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Pottery Wheel",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 25
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Clay Decoration (Unfired)",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration_%28Unfired%29.png?d4d9c"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Clay Decoration",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration.png?6b36b",
+              "station": "Kiln"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Clay decoration (unfired) is an item that is unlocked after mining and receiving clay for the first time. Players can fire the clay with a kiln, creating a fired clay decoration.\n\n(Journal)\nThis clay nicknack will look really nice on a shelf, once you’ve fired it in the kiln. Otherwise, it’ll just leave red stains everywhere."
+        },
+        "stations": [
+          "Pottery Wheel"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Clay Mould",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "A fired clay component used at the jeweler's bench to craft enchanted trinkets and amulets.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "A blank canvas for creating enchanted amulets; just add precious metals and gems."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay Mould (Unfired)",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould_%28Unfired%29.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Clay Mould",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Ring of Pursuit",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Pursuit.png?55b45",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Artisan",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Artisan.png?24f33",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Construction",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Construction.png?a122b",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Cooking",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Cooking.png?4adaa",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Mining",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Mining.png?32545",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Runecrafting",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Runecrafting.png?14c3f",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Woodcutting",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Woodcutting.png?22f5b",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Amulet of Attack",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Attack.png?2833e",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Amulet of Ranged",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Ranged.png?92f24",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Amulet of Magic",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Magic.png?2cab7",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Ring of Recoil",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Recoil.png?a9fd4",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Ring of Life",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Life.png?c801e",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Salve Amulet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Salve_Amulet.png?ed377",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Amulet of Magic",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Magic.png?b6348",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Amulet of Strength",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Strength.png?4232f",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Amulet of Accuracy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Accuracy.png?a87fc",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Amulet of Defence",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Defence.png?10832",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Abraxus Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Abraxus_Ring.png?4e3ff",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Unholy Symbol",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Unholy_Symbol.png?cd333",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Farming",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Farming.png?9c238",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Fishing",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Fishing.png?bdeaa",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Ravanna's Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ravanna%27s_Ring.png?f500d",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Amulet of Glory",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Glory.png?bc75c",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Skills Necklace",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Skills_Necklace.png?6268e",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Inspiring Ring of Agility",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Agility.png?91a88",
+              "station": "Jeweler's Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A clay mould is a clay mould that is fired in a kiln and is used as an ingredient at the jeweler's bench for making trinkets.\n\n(Journal)\nThis mould can be used in crafting."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Clay Mould (Unfired)",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould_%28Unfired%29.png?6b36b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "An unfired clay component created by combining three clay on a pottery wheel, fired in a kiln to produce a finished amulet mould.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Bake this in a kiln to create an amulet mould."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Pottery Wheel",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 60
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Clay Mould (Unfired)",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould_%28Unfired%29.png?6b36b"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Clay Mould",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b",
+              "station": "Kiln"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "An unfired clay mould is a resource that is created by combining three clay on a pottery wheel. It can be fired at a kiln to create a clay mould.\n\nThe recipe to make the unfired clay mould is unlocked upon first building a jeweler's bench.\n\n(Journal)\nOnce fired, this will serve as a useful template for further crafting projects."
+        },
+        "stations": [
+          "Pottery Wheel"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Clay Slab",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay_Slab.png?d4d9c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "An item not currently found in the game; its unfired variant also exists in the game cache.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Unknown"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A clay slab is an item that is not currently found in the game. An unfired clay slab exists in the cache, implying that the fired clay slab may come from the unfired version."
+        },
+        "step": 0
+      },
+      {
+        "name": "Clay Slab (Unfired)",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay_Slab_%28Unfired%29.png?d4d9c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "An unreleased item discovered in game files, not yet accessible to players.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Unknown"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A clay slab is an item that is currently not in the game."
+        },
+        "step": 0
+      },
+      {
+        "name": "Clay Vessel",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "A component created by firing unfired clay vessels at a kiln with Artisan level 40, used to brew potions at a brewing cauldron.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "This bowl is empty."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay Vessel (Unfired)",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel_%28Unfired%29.png?d4d9c"
+                }
+              ],
+              "output": {
+                "name": "Clay Vessel",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Weak Focused Cooking Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Cooking_Potion.png?4c820",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Artisan Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Artisan_Potion.png?4c820",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Woodcutting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Woodcutting_Potion.png?ab688",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Antipoison Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Antipoison_Potion.png?5a0d4",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Lumberjack Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Lumberjack_Potion.png?5a0d4",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Quarrymaster Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Quarrymaster_Potion.png?ab688",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Runecrafting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Runecrafting_Potion.png?d1bca",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Construction Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Construction_Potion.png?ab688",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Attack Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Attack_Potion.png?739c3",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Attack Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Attack_Potion.png?4c820",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Mining Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Mining_Potion.png?5a0d4",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Pan Rack",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pan_Rack.png?4b0ad",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Lesser Magic Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Magic_Potion.png?90fb3",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weapon Poison",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weapon_Poison.png?3437b",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Naptha",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Sacred Oil",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Sacred_Oil.png?d2492",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Artisan Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Artisan_Potion.png?1e8fb",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Quarrymaster Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Quarrymaster_Potion.png?15eb3",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Lumberjack Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Lumberjack_Potion.png?6b6f5",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Attack Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Attack_Potion.png?3199f",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Woodcutting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Woodcutting_Potion.png?80367",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Cooking Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Cooking_Potion.png?cc19d",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Runecrafting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Runecrafting_Potion.png?83961",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Mining Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Mining_Potion.png?d94a9",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Construction Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Construction_Potion.png?436de",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Farming Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Farming_Potion.png?7e104",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Farming Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Farming_Potion.png?8ad2e",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Antipoison Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Antipoison_Potion.png?d3d65",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Fishing Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Fishing_Potion.png?4c7bd",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Focused Fishing Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Fishing_Potion.png?30834",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Small Desert Vase",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Small_Desert_Vase.png?25a36",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Medium Desert Vase",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Medium_Desert_Vase.png?b4174",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Desert Vase Collection 02",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Vase_Collection_02.png?339cf",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Desert Vase Collection 04",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Vase_Collection_04.png?955aa",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Desert Vase Collection 03",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Vase_Collection_03.png?b0a53",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Desert Vase Collection 01",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Vase_Collection_01.png?f9062",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Moon Garou Table 02",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Moon_Garou_Table_02.png?1d79c",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Lesser Focused Agility Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Agility_Potion.png?d9377",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Focused Agility Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Agility_Potion.png?91662",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lesser Healing Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Healing_Potion.png?39e25",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Weak Healing Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c",
+              "station": "Brewing Cauldron"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Artifact Salvage",
+              "qty": "1",
+              "rarity": "20/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Clay vessels can be created with clay vessel (unfired) at a kiln, and can be used at a brewing cauldron to hold potions.\n\n(Journal)\nThis vessel can be sealed to allow for the storage of potions."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Clay Vessel (Unfired)",
+        "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel_%28Unfired%29.png?d4d9c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "An unfired clay item created at a pottery wheel requiring level 60 Artisan that can be kiln-fired into a finished clay vessel.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "A formed clay bowl, ready to be fired in a kiln."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Pottery Wheel",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 60
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Clay Vessel (Unfired)",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel_%28Unfired%29.png?d4d9c"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Clay Vessel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b",
+              "station": "Kiln"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A clay vessel (unfired) can be created with clay at a pottery wheel. Can be fired using a kiln to make a clay vessel.\n\n(Journal)\nA sticky clay container in need of a kiln."
+        },
+        "stations": [
+          "Pottery Wheel"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Glass Decoration",
+        "img": "https://dragonwilds.runescape.wiki/images/Glass_Decoration.png?98a68",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "A craftable ornament made from molten glass at a jeweler's bench requiring level 40 Artisan skill.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "A delightful ornament that will really tie your home together."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Jeweler's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Molten Glass",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c"
+                }
+              ],
+              "output": {
+                "name": "Glass Decoration",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Glass_Decoration.png?98a68"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Moon Garou Table 02",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Moon_Garou_Table_02.png?1d79c",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A glass decoration is an item that can be crafted using molten glass at the jeweler's bench.\n\n(Journal)\nLet's take a moment to recognise your glass-blowing skills.\n\n...\n\nCongratulations on your craftmanship. You have the puff of an angel."
+        },
+        "stations": [
+          "Jeweler's Bench"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Glass Pane",
+        "img": "https://dragonwilds.runescape.wiki/images/Glass_Pane.png?cb0fd",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "Crafted from molten glass at a jeweler's bench; used for building glass windows.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "It's transparent that you're going to use this when building."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Jeweler's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Molten Glass",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c"
+                }
+              ],
+              "output": {
+                "name": "Glass Pane",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Glass_Pane.png?cb0fd"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Stained Glass Window Wall",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Stained_Glass_Window_Wall.png?b4308",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Narrow Stained Glass Window Wall",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Narrow_Stained_Glass_Window_Wall.png?ba5c6",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Glass panes can be created with molten glass at a jeweler's bench, and can be used for construction.\n\n(Journal)\nWhen you take me out of a window, you leave a grieving wife. When you stick me in a door, you will save somebody’s life. What am I?"
+        },
+        "stations": [
+          "Jeweler's Bench"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Glass Vessel",
+        "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "A glassblown component created from molten glass at a jeweler's bench, used in various potion and weapon recipes.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A glass item made by glassblowing."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Jeweler's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0.5
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Molten Glass",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c"
+                }
+              ],
+              "output": {
+                "name": "Glass Vessel",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Demonic Oil",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Antifire Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Antifire_Potion.png?74865",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Subjugation Staff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Subjugation_Staff.png?a7826",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Maple Battlestaff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Maple_Battlestaff.png?0e0a2",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Antipoison Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Antipoison_Potion.png?bdc35",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Artisan Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Artisan_Potion.png?f3600",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Attack Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Attack_Potion.png?b65b4",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Construction Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Construction_Potion.png?fb45c",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Cooking Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Cooking_Potion.png?60376",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Mining Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Mining_Potion.png?4b8dd",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Runecrafting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Runecrafting_Potion.png?67a33",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Woodcutting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Woodcutting_Potion.png?b4f99",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Farming Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Farming_Potion.png?0804c",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Lumberjack Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lumberjack_Potion.png?18600",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Quarrymaster Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Quarrymaster_Potion.png?ccda5",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Fishing Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Fishing_Potion.png?57912",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Focused Agility Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Focused_Agility_Potion.png?a9f9f",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Stamina Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Stamina_Potion.png?7f693",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Maple Wand",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Maple_Wand.png?36220",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Healing Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Healing_Potion.png?b83dc",
+              "station": "Brewing Cauldron"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Glass vessels can be created with molten glass at a jeweler's bench, and can be used for various recipes.\n\n(Journal)\nThe glass vessel. The emblem of potential. It could find itself filled with anything. Water, demonic oil, maple syrup. It could smash before it ever sees use. It could languish in someone's inventory, forgotten for months. In many ways, we are all glass vessels.\n\nCheck back in your journal for other delightful moments of poignancy and philosophy. You may find your life unutterably changed by the wisdom there."
+        },
+        "stations": [
+          "Jeweler's Bench"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Ground Clay",
+        "img": "https://dragonwilds.runescape.wiki/images/Ground_Clay.png?d4d9c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "Ground from clay at a grindstone; used in building and as an Herblore ingredient for lesser Focused Artisan potions.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Pulverised stone, used in building, and as an Herblore ingredient."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Grindstone",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": "?"
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Ground Clay",
+                "qty": 5,
+                "img": "https://dragonwilds.runescape.wiki/images/Ground_Clay.png?d4d9c"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Lesser Focused Artisan Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Artisan_Potion.png?1e8fb",
+              "station": "Brewing Cauldron"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Ground clay is made by using clay on a grindstone. It is used to make lesser Focused Artisan potions.\n\n(Journal)\nBy grinding clay down into powder, you can create a much smoother medium for crafting. The grinding process gets rid of various impurities and allows for more resilient results."
+        },
+        "stations": [
+          "Grindstone"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Molten Glass",
+        "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "pottery",
+        "note": "Made at a blast furnace from ground sandstone and ground limestone; blown into glass vessels, decorations and panes at a jeweler's bench.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Hot glass ready to be blown into useful objects."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blast Furnace",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 60
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ground Limestone",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Limestone.png?b5af2"
+                },
+                {
+                  "name": "Ground Sandstone",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Sandstone.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Molten Glass",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Glass Vessel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Glass Pane",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Glass_Pane.png?cb0fd",
+              "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Glass Decoration",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Glass_Decoration.png?98a68",
+              "station": "Jeweler's Bench"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Artifact Salvage",
+              "qty": "1",
+              "rarity": "20/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Molten glass is a processed material. It can be created with three ground sandstone and three ground limestone at a blast furnace. This is used at a jeweler's bench to craft glass vessel, glass decoration & glass pane.\n\n(Journal)\nBeautiful, yet hard to handle, the creation of molten glass was a turning point for Gielinorian civilization. It allowed the creation of vials, windows, and those pretty little animals that grandmothers love to collect and put on shelves."
+        },
+        "stations": [
+          "Blast Furnace"
+        ],
         "step": 0
       }
     ]
@@ -76812,6 +79885,331 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Kalphite Ichor",
+        "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Ichor.png?fef71",
+        "tier": "",
+        "tierRank": null,
+        "chest": "bones",
+        "note": "A sticky fluid obtained from kalphites and kalphite eggs in Umbral Sands; processed into acrid adhesive.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A viscous, sticky fluid. Can be processed into a durable adhesive."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Acrid Adhesive",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117",
+              "station": "Kiln"
+            },
+            {
+              "name": "Kalphite Bait",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Bait.png?7bf36",
+              "station": "Crafting Table"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Kalphite Queen",
+              "qty": "6-12",
+              "rarity": "Always"
+            },
+            {
+              "source": "Kalphite Worker",
+              "qty": "1",
+              "rarity": "50/100"
+            },
+            {
+              "source": "Kalphite Soldier",
+              "qty": "2",
+              "rarity": "50/100"
+            },
+            {
+              "source": "Kalphite Guardian",
+              "qty": "3",
+              "rarity": "50/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "2-4",
+              "rarity": "1/24"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "2-4",
+              "rarity": "1.46/100"
+            },
+            {
+              "source": "Kalphite egg",
+              "qty": "6-9",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "buy",
+              "cost": 15,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Kalphite ichor is a basic item obtained from kalphite enemies and kalphite eggs in Umbral Sands. It can be processed into acrid adhesive.\n\n(Journal)\nWhat are you doing with that? You're not... hyuk... picking it up, are you? With your bare hands?\n\nPut it down! That's... ouurngle... hideous stuff. You can't possibly use it for anything... HHKKKKKnnnggle... practical, can you?"
+        },
+        "stations": [
+          "Kiln",
+          "Crafting Table"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Kalphite Shell",
+        "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d",
+        "tier": "",
+        "tierRank": null,
+        "chest": "bones",
+        "note": "A durable carapace processed at a tannery from kalphite shell fragments and acrid adhesive.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.3 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A durable kalphite carapace, suitable for crafting."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Tannery",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Kalphite Shell Fragments",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell_Fragments.png?36278"
+                },
+                {
+                  "name": "Acrid Adhesive",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117"
+                }
+              ],
+              "output": {
+                "name": "Kalphite Shell",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Scorch Leather",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Scorch_Leather.png?90c77",
+              "station": "Advanced Tannery"
+            },
+            {
+              "name": "Adamant Dagger",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Dagger.png?9f145",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Kalphite Carapace Chest",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Chest.png?a9d03",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Kalphite Carapace Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Helmet.png?21975",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Kalphite Carapace Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Legs.png?04bab",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Kalphite Guardian Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Guardian_Trophy.png?1cc2d",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Kalphite Queen Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Queen_Trophy.png?732e8",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Kalphite Soldier Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Soldier_Trophy.png?f024b",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Kalphite Worker Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Worker_Trophy.png?8bc53",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Winged Kalphite Queen Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Winged_Kalphite_Queen_Trophy.png?15220",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Kalphite Queen",
+              "qty": "5-8",
+              "rarity": "Always"
+            },
+            {
+              "source": "Kalphite Soldier",
+              "qty": "1-2",
+              "rarity": "25/100"
+            },
+            {
+              "source": "Kalphite Guardian",
+              "qty": "2-4",
+              "rarity": "50/100"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "buy",
+              "cost": 15,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Kalphite shell is a basic item used as a crafting material. It can be processed from kalphite shell fragments with acrid adhesive at the tannery.\n\n(Journal)\nAh, very good: you have cottoned onto something that mainland Gielinor has failed to understand. The way to make armour as strong as a kalphite's exoskeleton is not to hammer it into shapes that are suitable for humans. The carapace is too resistant, and you will get an armour that is ill-fitting for the human form. There will be plenty of gaps for someone to slip a Keris into.\n\nWhat you need to do is break the shell into its component fragments. You need to make a kind of kalphite mosaic, then adhere it with something acrid to make it into an armour. That's how you become as hardy as a kalphite."
+        },
+        "stations": [
+          "Tannery"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Kalphite Shell Fragments",
+        "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell_Fragments.png?36278",
+        "tier": "",
+        "tierRank": null,
+        "chest": "bones",
+        "note": "Shattered kalphite chitin dropped by kalphite enemies in Umbral Sands; glued with acrid adhesive at a tannery to make kalphite shell.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Shattered kalphite chitin. Could be salvaged with the right adhesive."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Kalphite Shell",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d",
+              "station": "Tannery"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Kalphite Worker",
+              "qty": "1-2",
+              "rarity": "Always"
+            },
+            {
+              "source": "Kalphite Soldier",
+              "qty": "2-4",
+              "rarity": "Always"
+            },
+            {
+              "source": "Kalphite Guardian",
+              "qty": "3-6",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "buy",
+              "cost": 12,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Kalphite shell fragments is a basic item obtained from kalphite enemies in Umbral Sands. It can be processed into kalphite shell at a tannery.\n\n(Journal)\nYou might get some looks, but make sure you pocket the little scraps of kalphite that you find. These little exoskeleton offcuts may not be much on their own, but grab some acrid adhesive and you can glue them together to make kalphite shells. Where you go after that is up to you. We recommend magic carpet battles, tossing shells at each other as you race."
+        },
+        "stations": [
+          "Tannery"
+        ],
+        "step": 0
+      },
+      {
         "name": "Kalphite Wing",
         "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Wing.png?f6ac3",
         "tier": "",
@@ -77041,6 +80439,145 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Grindstone"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Noxious Draconic Visage",
+        "img": "https://dragonwilds.runescape.wiki/images/Noxious_Draconic_Visage.png?debd6",
+        "tier": "",
+        "tierRank": null,
+        "chest": "bones",
+        "note": "A crafting component obtained from the Dragon Slayer quest that upgrades the anti-dragon shield into the dragonblight shield.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Component"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Description",
+              "value": "The image of a fearsome dragon. Used in crafting powerful equipment."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Dragonblight Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Dragonblight_Shield.png?00af6",
+              "station": "Blacksmith's Bench"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Dragon Slayer Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "The noxious draconic visage is an award obtained from the Wise Old Man in exchange for Velgar's head, which is obtained by killing Velgar during or after the quest Dragon Slayer. It can be used to upgrade the anti-dragon shield into the dragonblight shield."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Poison Ichor",
+        "img": "https://dragonwilds.runescape.wiki/images/Poison_Ichor.png?21931",
+        "tier": "",
+        "tierRank": null,
+        "chest": "bones",
+        "note": "Dropped by wild jade vines and putrid rats; used to brew antipoison potion and weapon poison.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.4 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "This stuff looks nasty."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Weapon Poison",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weapon_Poison.png?3437b",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Antipoison Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Antipoison_Potion.png?bdc35",
+              "station": "Brewing Cauldron"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Putrid Rat",
+              "qty": "1",
+              "rarity": "25/100"
+            },
+            {
+              "source": "Wild Jade Vine",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Wild Jade Vine",
+              "qty": "1",
+              "rarity": "50/100"
+            },
+            {
+              "source": "Plague King",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Kalphite Queen",
+              "qty": "3-6",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Domri - The Merchant",
+              "mode": "buy",
+              "cost": 4,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Poison ichor is a basic item that comes from killing wild jade vines and putrid rats.\n\n(Journal)\nDropped by poisonous enemies.\n\nNature is full of malicious little critters who carry toxins. Snakes, spiders, politicians, each of them has ways to make other creatures suffer.\n\nThis ichor is prized by poisoners and alchemists, as it can be used to create deadly concoctions that will give someone, or something, a really bad day."
+        },
+        "stations": [
+          "Brewing Cauldron"
         ],
         "step": 0
       },
@@ -77302,6 +80839,111 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Grindstone"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Shrapnel",
+        "img": "https://dragonwilds.runescape.wiki/images/Shrapnel.png?157b3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "bones",
+        "note": "Drops from enemies that inflict Bleed status, used to craft weapons and potions at various crafting stations.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Released",
+              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A collection of various sharp objects."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Weapon Barbs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weapon_Barbs.png?f915e",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Lesser Focused Woodcutting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Woodcutting_Potion.png?80367",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Cooling Relentless Infusion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Cooling_Relentless_Infusion.png?f5376",
+              "station": "Cooking Range"
+            },
+            {
+              "name": "Abysmal Whip",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip.png?83615",
+              "station": "Blacksmith's Bench"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Garou Hunter",
+              "qty": "1",
+              "rarity": "1/4"
+            },
+            {
+              "source": "Terrorbird",
+              "qty": "1",
+              "rarity": "25/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "2-3",
+              "rarity": "1/24"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "2-3",
+              "rarity": "1.46/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1-2",
+              "rarity": "1/17"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1-2",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Aggressive Terrorbird",
+              "qty": "2-4",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Shrapnel can be found whilst killing terrorbirds and garou hunters found within the Fractured Plains.\n\n(Journal)\nDropped by enemies who inflict Bleed.\n\nSmall collections of sharp little objects. Stone, metal, bone, each of these combines to create a little bit of hate in the palm of your hand. The brutal points of these bits of shrapnel can tear the skin and rend the flesh, making them perfect for crafting weapons to make things bleed."
+        },
+        "stations": [
+          "Blacksmith's Bench",
+          "Brewing Cauldron",
+          "Cooking Range"
         ],
         "step": 0
       },
@@ -77865,6 +81507,80 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Vile Ashes",
+        "img": "https://dragonwilds.runescape.wiki/images/Vile_Ashes.png?22af8",
+        "tier": "",
+        "tierRank": null,
+        "chest": "bones",
+        "note": "The remains of a demonic creature, found in ash piles; used to brew demonic oil and craft giant krill bait.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "3.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Remains of a demonic creature. A crafting material used to make demonic oil."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Demonic Oil",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Giant Krill Bait",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Giant_Krill_Bait.png?f0ce6",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Hell Rat Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Hell_Rat_Trophy.png?5535b",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Small Ash Pile",
+              "qty": "1",
+              "rarity": "50/100"
+            },
+            {
+              "source": "Ash Pile",
+              "qty": "2-3",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Vile ashes are a processed material required for making demonic oil and giant krill bait.\n\n(Journal)\nDemons do not leave bones behind on death. That would require a skeleton, a prospect that would make a demon queasy. Instead, demons are magical entities, composed of essence and energies. On death, they disperse, leaving an ashy composite.\n\nDon't be mistaken in thinking that it's similar to the ash left after a fire. Dab your tongue in Vile Ash and you'll soon understand where the \"vile\" comes from."
+        },
+        "stations": [
+          "Brewing Cauldron",
+          "Crafting Table",
+          "Build Menu"
+        ],
+        "step": 0
+      },
+      {
         "name": "Withered Heart",
         "img": "https://dragonwilds.runescape.wiki/images/Withered_Heart.png?34cd4",
         "tier": "",
@@ -77946,6 +81662,81 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Zombie Pack",
+        "img": "https://dragonwilds.runescape.wiki/images/Zombie_Pack.png?fc3cc",
+        "tier": "",
+        "tierRank": null,
+        "chest": "bones",
+        "note": "A loot container dropped by zombies and rotsworn zombies; opens into runes, ores, coarse animal fur, or watermelon seeds.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Container"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A moist and squishy bag of bits."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Shroud of Noggin",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Shroud_of_Noggin.png?59792",
+              "station": "Crafting Table"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rotsworn Zombie",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Zombie",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "5/100"
+            },
+            {
+              "source": "Net Fishing Spot",
+              "qty": "1",
+              "rarity": "5/100"
+            },
+            {
+              "source": "Rotsworn Reanimator",
+              "qty": "2",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Zombie packs are a drop from zombies and rotsworn zombies.\n\n(Journal)\nA decayed and blighted sack. Contains the meagre belongings of the restless dead."
+        },
+        "stations": [
+          "Crafting Table"
         ],
         "step": 0
       }
@@ -82896,6 +86687,93 @@ window.WILDS_STORAGE = [
           "description": "Anima-infused bark is a basic crafting item that is required to create wild anima. Anima bark can be found on the ground around the anima trees and certain crystal trees located throughout the Fractured Plains biome. Players can interact with the item by picking it up, receiving 7 Woodcutting experience. Anima-infused bark can respawn after 72 minutes.\n\n(Journal)\nThe magic of Ashenfall permeates the very trees of the region, imbuing their bark with mystical properties. This bark can be refined into wild anima, a magical crafting component that is popular with spellcasters of all kinds."
         },
         "step": 6
+      },
+      {
+        "name": "Maple Sap",
+        "img": "https://dragonwilds.runescape.wiki/images/Maple_Sap.png?38532",
+        "tier": "",
+        "tierRank": null,
+        "chest": "wood",
+        "note": "Gathered from chopped maple trees and cooked at a campfire or grill into maple syrup from Cooking level 41.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "999"
+            },
+            {
+              "label": "Description",
+              "value": "Harvested from maple trees. An ingredient that can be cooked on a campfire."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Maple Syrup",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Maple_Syrup.png?ced86",
+              "station": "Campfire"
+            },
+            {
+              "name": "Maple Syrup",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Maple_Syrup.png?ced86",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Maple Syrup",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Maple_Syrup.png?63297",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Maple Syrup",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Maple_Syrup.png?63297",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Maple Tree",
+              "qty": "1",
+              "rarity": "50/100"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Domri - The Merchant",
+              "mode": "buy",
+              "cost": 10,
+              "currency": "Garou Chit"
+            },
+            {
+              "seller": "Domri - The Merchant",
+              "mode": "sell",
+              "cost": 30,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Maple sap is a Power Level 4 basic material, which means it can be cooked at a campfire or grill into maple syrup starting at Cooking level 41, and not burnt into burnt maple syrup at level 50. It can be gathered from chopped maple trees.\n\n(Journal)\nIt's like the maple tree wants to be cut down. Not only does it produce hardy, versatile wood for tools and weaponry, it bleeds sap that is only a single step away from being maple syrup. If you want proof of the gods' existence in RuneScape, you need only look at maple trees.\n\nThe maple tree gets its revenge in subtle ways. Its sap is inordinately sticky and too much syrup will give you a paunch. They're small victories, but the maple tree takes them."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 6
       }
     ]
   },
@@ -84688,6 +88566,78 @@ window.WILDS_STORAGE = [
         "step": 6
       },
       {
+        "name": "Cursed Essence",
+        "img": "https://dragonwilds.runescape.wiki/images/Cursed_Essence.png?e237d",
+        "tier": "",
+        "tierRank": null,
+        "chest": "runes",
+        "note": "Harvested from demons; used as a tanning agent at the tannery to make cursed leather.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "3.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Harvested from demons. Can be used as a tanning agent at the tannery."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Abyssal Whip",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip.png?eb679",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Cursed Leather",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Cursed_Leather.png?569bf",
+              "station": "Tannery"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Small Ash Pile",
+              "qty": "1",
+              "rarity": "50/100"
+            },
+            {
+              "source": "Ash Pile",
+              "qty": "2-3",
+              "rarity": "Always"
+            },
+            {
+              "source": "Stormpact Demon",
+              "qty": "1-2",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Cursed essence is a basic material required for making cursed leather at the tannery.\n\n(Journal)\nCursed essence is a magical agent often used in tanning. It is also something of a curiosity, one that a simple tanner can't readily explain. It goes further than simply binding itself to material; it latches onto it, almost parasitically.\n\nDemonologists have a theory that, altough cursed essence drops from the avernic demons of Dowdun Reach, it is actually cthonic in nature. It would explain the tendril-like tenacity."
+        },
+        "stations": [
+          "Blacksmith's Bench",
+          "Tannery"
+        ],
+        "step": 6
+      },
+      {
         "name": "Ground Rune Essence",
         "img": "https://dragonwilds.runescape.wiki/images/Ground_Rune_Essence_%28Journal%29.png?a41c8",
         "tier": "",
@@ -85161,6 +89111,2405 @@ window.WILDS_STORAGE = [
           "description": "Rune essence can be gathered by mining rune essence stones surrounding the geysers around Ashenfall. Some spawn with rocks on the ground that you can easily gather from. The floating rocks require being hit (most easily with an arrow or an attack from a staff), and they will then fall to the ground to be mined. Alternatively, players can cast Rocksplosion whilst aiming at the floating rocks and can collect rune essence without affecting the pickaxe's durability.\n\nCollecting rune essence in their inventory for the first time unlocks the rune altar.\n\n(Journal)\nA magical stone with the ability to absorb the ambient anima around it. On Ashenfall, the rocks hover in the air as if resting on some invisible structure, held aloft by invisible currents of magical energy.\n\nWith the right equipment and skill, Rune Essence can be infused with certain magical resonances, taking on the elemental power of the air or the flame.\n\nThis discovery is one of Guthix’s greatest triumphs and perhaps his most enduring miracle."
         },
         "step": 6
+      },
+      {
+        "name": "Vault Core",
+        "img": "https://dragonwilds.runescape.wiki/images/Vault_Core.png?dfc4f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "runes",
+        "note": "A dragonkin energy source found on pedestals in dragonkin vaults; used to craft lodestones, crafting stations, and masterwork weapons.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "50.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "25"
+            },
+            {
+              "label": "Description",
+              "value": "A dragonkin energy source, found only within dragonkin vaults."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Lodestone",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lodestone.png?e1627",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Staff of Light",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Staff_of_Light.png?789d1",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Dragonblight Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Dragonblight_Shield.png?00af6",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Crystal Bow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Crystal_Bow.png?789d1",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Anti-Dragon Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Anti-Dragon_Shield.png?de704",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Granite Maul",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Granite_Maul.png?789d1",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Personal Chest (chest)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Personal_Chest_%28chest%29.png?cb340",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Fletching Bench",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fletching_Bench.png?f9517",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Well",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Well.png?649c5",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Jeweler's Bench",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Jeweler%27s_Bench.png?54682",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Blast Furnace",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blast_Furnace.png?941b3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Stonecutter",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Stonecutter.png?f9985",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Dragoncurse Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Dragoncurse_Shield.png?b572d",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Imaru's Talon",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Imaru%27s_Talon.png?13310",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Armour Bench",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Armour_Bench.png?7af4a",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Mystic Forge",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mystic_Forge.png?3dab2",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Dragonfire Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Dragonfire_Shield.png?22188",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Blacksmith's Bench",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blacksmith%27s_Bench.png?b4989",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Lightning Rod",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lightning_Rod.png?2acef",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Storage Ledger",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Storage_Ledger.png?f38b3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Vault Core (Decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Vault_Core_%28Decoration%29.png?96c0c",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Gourmand Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Gourmand_Ring.png?9b2da",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Hermit Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Hermit_Ring.png?9b2da",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Herd Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Herd_Ring.png?9b2da",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Moon Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Moon_Ring.png?0b97c",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Miner Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Miner_Ring.png?0b97c",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Mule Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mule_Ring.png?0b97c",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Phoenix Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Phoenix_Ring.png?0b97c",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Sun Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Sun_Ring.png?aeaba",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Woodsman Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Woodsman_Ring.png?6806e",
+              "station": "Smithing Forge"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1-2",
+              "rarity": "5.26/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "A vault core can be found on pedestals in dragonkin vaults. Their primary use is to make lodestones, which serve as a teleport location that can be travelled to from any other lodestone the player has placed on the map. They are also components of several masterworks, such as the abyssal whip and dragonblight shield. Note that these respawn in their plinths every three in-game days, so their quantity is not limited.\n\n(Journal)\nA heart of alchemically modified rune essence. Layers of complex enchantments and veins of anima run through this core. It allows it to absorb ambient anima from its surroundings, which in turn powers the various functions of the vault guardian servitors.\n\nThis marvel of dragonkin science had revolutionary potential. The ability to create power sources that thrived off of the ambient anima of the region. Ashenfall, with it’s surfeit of magical power, was the perfect place for such technology, and the dragonkin would apply it to all of their arcane machinery."
+        },
+        "step": 6
+      },
+      {
+        "name": "Wild Anima",
+        "img": "https://dragonwilds.runescape.wiki/images/Wild_Anima.png?dfc4f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "runes",
+        "note": "Refined from anima-infused bark at a kiln; raw magical essence used in magic recipes and equipment.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Raw magical essence, extremely useful in magical recipes and equipment. Refined by herblore masters from anima-infused bark."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Kiln",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Anima-Infused Bark",
+                  "qty": 4,
+                  "img": "https://dragonwilds.runescape.wiki/images/Anima-Infused_Bark.png?789d1"
+                }
+              ],
+              "output": {
+                "name": "Wild Anima",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Wild_Anima.png?dfc4f"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Blightwood Battlestaff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Battlestaff.png?240ee",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Staff of Light",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Staff_of_Light.png?789d1",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Anti-Dragon Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Anti-Dragon_Shield.png?de704",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Imbued Granite Maul Head",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Imbued_Granite_Maul_Head.png?4e16e",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Wizard Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Wizard_Hat.png?d1f99",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Wizard Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Wizard_Robe_Legs.png?d1f99",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Wizard Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Wizard_Robes.png?d1f99",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Lesser Magic Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Magic_Potion.png?90fb3",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Magical Focus",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Magical_Focus.png?86e48",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Wild Anima (Decoration)",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Wild_Anima_%28Decoration%29.png?5299b",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Imbuing Barrel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Imbuing_Barrel.png?a8f3e",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Super Focused Mining Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Mining_Potion.png?4971f",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Zombie Arm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Zombie_Arm.png?40d83",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Super Antifire Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Antifire_Potion.png?bcc4a",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Antipoison Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Antipoison_Potion.png?11ae2",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Focused Attack Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Attack_Potion.png?e9136",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Focused Construction Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Construction_Potion.png?662c0",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Focused Cooking Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Cooking_Potion.png?bd4d4",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Focused Farming Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Farming_Potion.png?ad606",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Focused Fishing Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Fishing_Potion.png?623a7",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Focused Runecrafting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Runecrafting_Potion.png?0c047",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Focused Woodcutting Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Woodcutting_Potion.png?85caf",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Super Focused Agility Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Agility_Potion.png?428b2",
+              "station": "Imbuing Barrel"
+            },
+            {
+              "name": "Agility Orb",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Agility_Orb.png?b3f0c",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Blightwood Wand",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Wand.png?ebeb7",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Large Wardstone",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Large_Wardstone.png?183b0",
+              "station": "Crafting Table"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "3-6",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Wildcaller Druid",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Wild anima can be made with anima-infused bark in a kiln.\n\n(Journal)\nMagic is made up of motes of anima, refined and collected into specific forms. Rune essence can be made to hold these motes, creating dedicated magical components for spells and enchantments. Wild anima is useful for magical construction, but cannot be converted into true spellcraft, as the motes are unaligned and prone to strange reactions."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 6
+      }
+    ]
+  },
+  {
+    "key": "alchemy",
+    "label": "Oils, Waxes & Compounds",
+    "items": [
+      {
+        "name": "Acrid Adhesive",
+        "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "A resilient adhesive processed from kalphite ichor at a kiln; withstands high temperatures.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A resilient adhesive that can withstand high temperatures."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Kalphite Ichor",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Ichor.png?fef71"
+                }
+              ],
+              "output": {
+                "name": "Acrid Adhesive",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Kalphite Shell",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d",
+              "station": "Tannery"
+            },
+            {
+              "name": "Gypsum Wax",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Scorch Leather",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Scorch_Leather.png?90c77",
+              "station": "Advanced Tannery"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1-2",
+              "rarity": "1/24"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1-2",
+              "rarity": "1.46/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Acrid adhesive is a basic item processed from kalphite ichor at the kiln.\n\n(Journal)\nPlease, for the love of the River Goddess, don't lick, sniff or apply acrid adhesive to your skin. You might think it would be worse for the Moon Garou who are covered in fur, but at least they can shed the fur when gets sticky. Its harder to shed a finger or lip."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Adhesive",
+        "img": "https://dragonwilds.runescape.wiki/images/Adhesive_%28Journal%29.png?1b828",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Created by processing swamp tar in a kiln, used in crafting fuel pellets, hard leather, tanner's kits, and weapon barbs.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Glue friendly or else I'll take away the glue and then nobody will have any glue to glue with!"
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Swamp Tar",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Swamp_Tar.png?58308"
+                }
+              ],
+              "output": {
+                "name": "Adhesive",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Adhesive.png?44043"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Hard Leather",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather.png?d4d9c",
+              "station": "Tannery"
+            },
+            {
+              "name": "Tanner's Kit",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Tanner%27s_Kit.png?548f9",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Lumber Storage",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lumber_Storage.png?6c3d2",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Weapon Barbs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weapon_Barbs.png?f915e",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Fuel Pellet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c",
+              "station": "Blacksmith Bench"
+            },
+            {
+              "name": "Iron Chest",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Iron_Chest.png?f0d6f",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Ore & Stone Storage",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?8110e",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Abysmal Whip",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip.png?83615",
+              "station": "Blacksmith's Bench"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "3-6",
+              "rarity": "5.26/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Adhesive is a product as well as a crafting item. It is created by adding swamp tar to the kiln. Adhesive is made in a one-to-one ratio, with one swamp tar creating one adhesive.\n\nAdhesive has multiple uses as a crafting material in the production of fuel pellets, hard leather, tanner's kits, and weapon barbs.\n\n(Journal)\nTacky like your great aunt's wardrobe, this sticky substance has a wide range of uses when it comes to crafting."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Charcoal",
+        "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Produced by burning logs or planks at a kiln; an efficient fuel and crafting reagent (milling logs into planks first doubles the yield).",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Produced by burning wood in a kiln. ; Charcoal is a very efficient fuel."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ash Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Logs.png?fd9a7"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Oak Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Oak_Logs.png?58308"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Willow Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Willow_Logs.png?abad3"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Blightwood",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Blightwood.png?58308"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Maple Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Maple_Logs.png?f0c64"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Yew Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Yew_Logs.png?29d27"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ash Plank",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Plank.png?58308"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Oak Plank",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Oak_Plank.png?789d1"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Yew Plank",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Yew_Plank.png?0587b"
+                }
+              ],
+              "output": {
+                "name": "Charcoal",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Furnace",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Furnace.png?6bf2b",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Naptha",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Fuel Pellet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c",
+              "station": "Blacksmith Bench"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Dead Tree",
+              "qty": "1",
+              "rarity": "Common"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Beartach - The Merchant",
+              "mode": "buy",
+              "cost": 3,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Charcoal is a form of fuel created by processing wood at a kiln. Charcoal provides facilities 3 minutes of fuel time, serving as an improvement over using wood as a fuel source. In addition to being a fuel source, charcoal is a reagent for other items and buildings.\n\nNote: Twice as much charcoal can be produced if first milling logs into planks.\n\n(Journal)\nWhat's better than a dead tree? A dead tree that has been burned to the point of carbonization. No longer do you see unsightly green leaves, but now the wonderful blackness of charcoal. Highly praised by smiths. Way better than stupid old logs of wood.\n\nThis journal entry was sponsored by the tree haters of Lumbridge, if you're interested in joining their focus group, please speak to Tim near Bob's Axes."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Demonic Oil",
+        "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Brewed from necrotic bonemeal and vile ashes; a key crafting component for power level 6 armour.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+            },
+            {
+              "label": "Weight",
+              "value": "3.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Made by combining necrotic bonemeal and vile ashes. A crafting component."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Brewing Cauldron",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Necrotic Bonemeal",
+                  "qty": 6,
+                  "img": "https://dragonwilds.runescape.wiki/images/Necrotic_Bonemeal.png?dd90f"
+                },
+                {
+                  "name": "Vile Ashes",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Vile_Ashes.png?22af8"
+                },
+                {
+                  "name": "Glass Vessel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39"
+                }
+              ],
+              "output": {
+                "name": "Demonic Oil",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Abyssal Whip",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip.png?eb679",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Black Knight Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Helmet.png?cadc9",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Mithril Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Helmet.png?f3bcf",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Mithril Platebody",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Platebody.png?00114",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Mithril Platelegs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Platelegs.png?6ce42",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Knight Platebody",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Platebody.png?7a846",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Knight Platelegs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Platelegs.png?d7d78",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Blue Dragonhide Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Body.png?a9b8b",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Blue Dragonhide Coif",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Coif.png?2948c",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Blue Dragonhide Chaps",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Chaps.png?d11d5",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Mystic Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mystic_Hat.png?0f26d",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Mystic Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mystic_Robes.png?694fe",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Mystic Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mystic_Robe_Legs.png?38081",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Shadow Cowl",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Cowl.png?2cdd1",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Sword",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Sword.png?e4949",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Zamorak Staff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Staff.png?ad315",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Zamorak Hood",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Hood.png?de324",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Shadow Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
+              "station": "Fletching Table"
+            },
+            {
+              "name": "Shadow Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Body.png?d9370",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Shadow Chaps",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Chaps.png?f05d5",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Zamorak Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Robes.png?f365f",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Zamorak Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Robe_Legs.png?24e4a",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Shield.png?97c8f",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Mithril Med Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Med_Helm.png?78d70",
+              "station": "Armour Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Demonic oil is one of the materials required for making power level 6 armour.\n\n(Journal)\nCombine corrupt bonemean and vile ashes and the result is demonic oil. We should be specific about waht kind of oil this is: please do not pour it into a frying pan or use it on a squeaky hinge. This is potent oil, as the \"demonic\" prefix will attest. It is used for crafting, and solely for crafting.\n\nNow you've got us wondering what would happen if you did actually add it to a frying pan or a squeaky hinge. Oviously, please don't do it. But if you happen to do it, through an accident or momentary lack of wisdom, could you let us know what happens?"
+        },
+        "stations": [
+          "Brewing Cauldron"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Discordant Residue",
+        "img": "https://dragonwilds.runescape.wiki/images/Discordant_Residue_%28Journal%29.png?c4c67",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Dropped by enemies and chests in the Scorned Wilderness; used at the Kiln to craft Harmonised Compound.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Obtained from creatures in Kuldra's Tower. A core component of vis cloth."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Harmonised Compound",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound.png?ec544",
+              "station": "Kiln"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Black Dragon",
+              "qty": "12-15",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Discordant Residue is a material gathered from enemies and Chest within the Scorned Wilderness. They can be used on the Kiln to craft Harmonised Compound.\n\n(Journal)\nThe life of a creature within Kuldra's Tower is not a pleasant one. Every beast or warrior (even the undead ones) are at constant threat from any of Kuldra's five heads, and the tower itself is a font of anima. Any kind of life expectancy is a luxury.\n\nEvolution has handed the creatures of Kuldra's Tower something of a lifeline. Anima attaches itself to the creatures in a kind of symbiosis. The anima seeps into the creature, feeding on its softer tissue and leaving something like a crystal residue behind. This discordant symbiosis makes the creature hardier, at the cost of a humming, constant pain."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Draconic Vis Wax",
+        "img": "https://dragonwilds.runescape.wiki/images/Draconic_Vis_Wax_%28Journal%29.png?dbf4c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Brewed from harmonised compound, ground rune essence, and ground dragon tooth; spun with vis fibres into vis cloth on a loom.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Made in a brewing cauldron. Alongside vis fibres, it can be spun into vis cloth on a loom."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Brewing Cauldron",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Harmonised Compound",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound.png?ec544"
+                },
+                {
+                  "name": "Ground Rune Essence",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Rune_Essence.png?7980a"
+                },
+                {
+                  "name": "Ground Dragon Tooth",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Dragon_Tooth.png?03196"
+                }
+              ],
+              "output": {
+                "name": "Draconic Vis Wax",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Draconic_Vis_Wax.png?e6049"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Ancestral Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Robes.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Vis Cloth",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Vis_Cloth.png?85b78",
+              "station": "Loom"
+            },
+            {
+              "name": "Rune Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Helm.png?034dd",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Rune Platebody",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Platebody.png?034dd",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Rune Platelegs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Platelegs.png?034dd",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Dragonhide Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Body.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Rune Dagger",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Dagger.png?78d70",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Rune Mace",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Mace.png?034dd",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Rune Pickaxe",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Pickaxe.png?034dd",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Ancestral Staff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Staff.png?243f9",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Rune Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Shield.png?034dd",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Rune Spade",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Spade.png?034dd",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Ancestral Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Hat.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Ancestral Leggings",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Leggings.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Dragonhide Coif",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Coif.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Dragonhide Chaps",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Chaps.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Rune Sword",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Sword.png?034dd",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Rune Scimitar",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Scimitar.png?034dd",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Rune Greataxe",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Greataxe.png?034dd",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Rune Greatsword",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Greatsword.png?034dd",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Rune Warhammer",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Warhammer.png?f38b3",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Rune Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow.png?78d70",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Magic Shortbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Magic_Shortbow.png?78d70",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Magic Longbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Magic_Longbow.png?78d70",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Ancestral Wand",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Wand.png?b12ab",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Runite Med Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Runite_Med_Helm.png?1d50f",
+              "station": "Armour Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Draconic Vis Wax is a processed material required for making Vis Cloth. It can be crafted in a Brewing Cauldron.\n\n(Journal)\nThe wizards of the Wizards' Tower have managed to artificially generate vis wax, through the Rune Goldberg Machine. It takes piles upon piles of runes and distills them to a thin, waxy substance. It's possibly the least efficient process in the world - the equivalent of sieving a mountain to get a couple of nuggets of gold.\n\nThe alternative is to find vis wax in its natural, unfiltered state, but that has its own mountain-sized problems. You need to siphon it from the most dangerous of dragons, and those dragons need to have been in a state of intense rage when they died. It's enough to make a wizard sigh and approach the mountain with a newly bought sieve."
+        },
+        "stations": [
+          "Brewing Cauldron"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Gypsum Wax",
+        "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Brewed from dihydrogen monoxide, ground gypsum, and acrid adhesive; a key crafting component for power level 7 armour.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "A marvel of alchemy that, once applied to equipment, adds durability in extreme conditions."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Brewing Cauldron",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Dihydrogen Monoxide",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Dihydrogen_Monoxide.png?9d65f"
+                },
+                {
+                  "name": "Ground Gypsum",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Gypsum.png?87205"
+                },
+                {
+                  "name": "Acrid Adhesive",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117"
+                }
+              ],
+              "output": {
+                "name": "Gypsum Wax",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Desert Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Robes.png?eb854",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Adamant Pickaxe",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Pickaxe.png?dbce0",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Spade",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Spade.png?df559",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Crossbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow.png?a5d74",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Adamant Mace",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Mace.png?6ac82",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Warhammer",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Warhammer.png?e9445",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Sword",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Sword.png?ef5bc",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Greatsword",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Greatsword.png?856a3",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Dagger",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Dagger.png?9f145",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Greataxe",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Greataxe.png?952ba",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Scimitar",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Scimitar.png?53f5d",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Adamant Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Helmet.png?0728c",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Adamant Platebody",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platebody.png?eb43f",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Adamant Platelegs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platelegs.png?499cf",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Adamant Shield",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Shield.png?e9de4",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Lunar Garou Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Hat.png?b3a6b",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Lunar Garou Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robes.png?345d5",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Lunar Garou Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robe_Legs.png?d2e0b",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Infinity Robe Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Hat.png?aa8fe",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Infinity Robe Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Body.png?892c5",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Infinity Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Legs.png?3b400",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Master's Staff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Master%27s_Staff.png?060f3",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Pharaoh's Sceptre",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pharaoh%27s_Sceptre.png?c2d6b",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Yew Longbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Yew_Longbow.png?7619b",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Yew Shortbow",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Yew_Shortbow.png?122bd",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Bow of Elidinis",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bow_of_Elidinis.png?1c077",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Red Dragonhide Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Body.png?95f13",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Red Dragonhide Coif",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Coif.png?99b7e",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Red Dragonhide Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Legs.png?be9c9",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Imbuing Barrel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Imbuing_Barrel.png?a8f3e",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Keris",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Keris.png?5247d",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Desert Robe Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Robe_Legs.png?a1791",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Kalphite Carapace Chest",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Chest.png?a9d03",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Desert Hood",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Desert_Hood.png?a717f",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Kalphite Carapace Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Helmet.png?21975",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Kalphite Carapace Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Legs.png?04bab",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Master Wand",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Master_Wand.png?fa08a",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Adamant Med Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Med_Helm.png?f38b3",
+              "station": "Armour Bench"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Moon Garou Pack",
+              "qty": "10",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Gypsum wax is one of the materials required for making power level 7 armour.\n\n(Journal)\nA combination of gypsum powder and dihydrogen monoxide, gypsum wax contains the worst of both materials. It's as claggy and hard to remove as gypsum powder, and as deadly as dihydrogen monoxide."
+        },
+        "stations": [
+          "Brewing Cauldron"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Harmonised Compound",
+        "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound_%28Journal%29.png?ca52c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Made from discordant residue at a kiln; can be combined with runic powder at an advanced spinning wheel.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 September 2026 (Our 1.0 Release is live!)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Made from discordant residue in a kiln. Can be combined with runic powder on an advanced spinning wheel."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Kiln",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Discordant Residue",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Discordant_Residue.png?f4fb4"
+                }
+              ],
+              "output": {
+                "name": "Harmonised Compound",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound.png?ec544"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Ancestral Robes",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Robes.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Vis Fibres",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Vis_Fibres.png?2b277",
+              "station": "Advanced Spinning Wheel"
+            },
+            {
+              "name": "Draconic Vis Wax",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Draconic_Vis_Wax.png?e6049",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Rune Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Helm.png?034dd",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Rune Platebody",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Platebody.png?034dd",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Rune Platelegs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Platelegs.png?034dd",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Dragonhide Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Body.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Rune Dagger",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Dagger.png?78d70",
+              "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Ancestral Staff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Staff.png?243f9",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Ancestral Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Hat.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Ancestral Leggings",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Leggings.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Dragonhide Coif",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Coif.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Black Dragonhide Chaps",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Chaps.png?f38b3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Ancestral Wand",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Wand.png?b12ab",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Runite Med Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Runite_Med_Helm.png?1d50f",
+              "station": "Armour Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Harmonised Compound is a processed material created at a kiln from discordant residue.\n\n(Journal)\nSmelting discordant residue into harmonised compound is astonishingly reckless. In essence, you're 'cooking anima', which is akin to gargling fuel and then sipping on fire. You are dealing with some of the highest percentages of anima - the lifeblood of the world. We'd tell you to be careful, but this is the person who has wandered into the home of a five-headed dragon with the express intention of killing it."
+        },
+        "stations": [
+          "Kiln"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Naptha",
+        "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "A very flammable liquid distilled from swamp tar and charcoal; used to craft fire oil.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "A very flammable liquid."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Brewing Cauldron",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Swamp Tar",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Swamp_Tar.png?58308"
+                },
+                {
+                  "name": "Charcoal",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+                },
+                {
+                  "name": "Clay Vessel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Naptha",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Fire Oil",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fire_Oil.png?f60f9",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Sleeping Chinchompa",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Sleeping_Chinchompa.png?44f6e",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Dragon Wolf",
+              "qty": "1",
+              "rarity": "33/100"
+            },
+            {
+              "source": "Carnivorous Chinchompa",
+              "qty": "1",
+              "rarity": "1/10"
+            },
+            {
+              "source": "Wild Ruby Vine",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Wild Ruby Vine",
+              "qty": "1",
+              "rarity": "1/2"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Naptha is an item that is unlocked at level 45 Ranged, where players can use naptha to create fire oil. It is also dropped by dragon wolves.\n\n(Journal)\nDistilled from swamp tar and charcoal.\n\nOnce known as “thick water”, naptha is liquid fire in waiting. It takes little to bring this substance to ignition, even too bright a sunny day can bring the raging flame from within.\n\nAs such, this material is widely sought by anyone with a strong desire to set things aflame. Pyromaniacs, alchemists and dragon cultists alike yearn for this liquid."
+        },
+        "stations": [
+          "Brewing Cauldron"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Sacred Oil",
+        "img": "https://dragonwilds.runescape.wiki/images/Sacred_Oil.png?d2492",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Brewed from necrotic bonemeal and ectoplasm; a key crafting component for power level 5 armour.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Made from combining necrotic bonemeal and ectoplasm. Used as a crafting component."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Brewing Cauldron",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ectoplasm",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ectoplasm.png?c22b3"
+                },
+                {
+                  "name": "Necrotic Bonemeal",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Necrotic_Bonemeal.png?dd90f"
+                },
+                {
+                  "name": "Clay Vessel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Sacred Oil",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Sacred_Oil.png?d2492"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Steel Full Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steel_Full_Helm.png?8267a",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Steel Platebody",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steel_Platebody.png?bd65d",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Steel Platelegs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steel_Platelegs.png?40565",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Splitbark Staff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Staff.png?92550",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Necromancer's Staff",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Staff.png?92c69",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Green Dragonhide Coif",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Coif.png?f0ba4",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Green Dragonhide Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Body.png?32562",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Green Dragonhide Chaps",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Chaps.png?19ab2",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Shadowscale Hood",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Shadowscale_Hood.png?7986f",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Fallen Hoplite's Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Helm.png?ba07d",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Fallen Hoplite's Chest",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Chest.png?fb0d1",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Fallen Hoplite's Tassets",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Tassets.png?a85d2",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "White Platelegs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/White_Platelegs.png?302e3",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Necromancer's Robe Bottom",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Robe_Bottom.png?8f047",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Necromancer's Crown",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Crown.png?8dab5",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Necromancer's Robe Top",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Robe_Top.png?40ad2",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Splitbark Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Helm.png?5cdb1",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Ranger Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ranger_Hat.png?07a9f",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Ranger Tunic",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ranger_Tunic.png?69c19",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Ranger Tights",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ranger_Tights.png?d945e",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "White Full Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/White_Full_Helm.png?0273b",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "White Platebody",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/White_Platebody.png?76cff",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Splitbark Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Body.png?25d30",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Splitbark Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Legs.png?60e20",
+              "station": "Armour Bench"
+            },
+            {
+              "name": "Spectral Silver Thread",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Spectral_Silver_Thread.png?24a63",
+              "station": "Edna"
+            },
+            {
+              "name": "Splitbark Wand",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Wand.png?df18f",
+              "station": "Mystic Forge"
+            },
+            {
+              "name": "Steel Med Helm",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steel_Med_Helm.png?f38b3",
+              "station": "Armour Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Sacred oil is one of the materials required for making power level 5 armour.\n\n(Journal)\nYou may think an undead bone is no different from a normal bone, and in most cases that's true. The animating forces of necromancy normally just puppet the bones, allowing them to be possessed by a spirit or controlled by some external force.\n\nThe undead of Fellhollow are different. They are animated by the last remnants of their humanity, tiny bits of soul clinging on in tattered forms. They move because they need to and they shudder because they fear what happens when they stop.\n\nAs such, the bones of the Fellhollow dead have strange properties that a skilled craftsman can refine and find uses for.\n\nMorbid, yes, but inventive."
+        },
+        "stations": [
+          "Brewing Cauldron"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Swamp Tar",
+        "img": "https://dragonwilds.runescape.wiki/images/Swamp_Tar.png?58308",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "Gathered from the Whispering Swamp and processed in a kiln into adhesive, also used in chandelier and other crafting recipes.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "It's sticky!"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Adhesive",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Adhesive.png?44043",
+              "station": "Kiln"
+            },
+            {
+              "name": "Naptha",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
+              "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Chandelier",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Chandelier.png?53c7f",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Blue Chandelier",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Blue_Chandelier.png?530f5",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Red Chandelier",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Red_Chandelier.png?d8ad2",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Purple Chandelier",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Purple_Chandelier.png?5c526",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Green Chandelier",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Green_Chandelier.png?8f8de",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Putrid Rat",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Plague King",
+              "qty": "3",
+              "rarity": "Always"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "2-6",
+              "rarity": "1/1.3"
+            },
+            {
+              "source": "Chest (Whispering Swamp)",
+              "qty": "2-6",
+              "rarity": "1/1.3"
+            },
+            {
+              "source": "Chest (Whispering Swamp)",
+              "qty": "2-6",
+              "rarity": "1/3.3"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "3-6",
+              "rarity": "1/17"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "3-6",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "2-6",
+              "rarity": "12.75/100"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Domri - The Merchant",
+              "mode": "sell",
+              "cost": 12,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Swamp tar is obtained by gathering from the ground in the Whispering Swamp, and is used inside a kiln to create adhesive.\n\n(Journal)\nOnce this tar was some living creature, perhaps an ancient dragon or other colossal beast. Time and pressure refined it down into this sticky substance that can be used for a variety of crafting purposes."
+        },
+        "stations": [
+          "Kiln",
+          "Brewing Cauldron",
+          "Build Menu"
+        ],
+        "step": 0
       }
     ]
   },
@@ -88612,6 +94961,110 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Watermelon seeds are a type of Fellhollow seed, used in the Farming skill. Watermelon seeds can be used to grow watermelon plants in a farming plot. However, it is best to plant them in a willow farming plot. Planting watermelon seeds in a farming plot will yield 5 experience in Farming.\n\n(Journal)\nThese tiny seeds can grow into a delightful patch of scrumptious watermelons. Use them to cultivate plants for delicious fruit salads, add garnish to garnish cocktails, or paint faces on them if you're very lonely."
         },
+        "step": 0
+      },
+      {
+        "name": "Weeds",
+        "img": "https://dragonwilds.runescape.wiki/images/Weeds.png?f9cdc",
+        "tier": "",
+        "tierRank": null,
+        "chest": "farming",
+        "note": "Dug from empty farming patches using a spade, converted into compost via a compost bin.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+            },
+            {
+              "label": "Weight",
+              "value": "0.4 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A bunch of weeds."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Plant Cure",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Plant_Cure.png?ab06e",
+              "station": "Stone Range"
+            },
+            {
+              "name": "Plant Cure",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Plant_Cure.png?ab06e",
+              "station": "Cooking Range"
+            },
+            {
+              "name": "Weak Focused Farming Potion",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Farming_Potion.png?7e104",
+              "station": "Brewing Cauldron"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Cow",
+              "qty": "2",
+              "rarity": "15/100"
+            },
+            {
+              "source": "Bird Nest",
+              "qty": "1",
+              "rarity": "15/100"
+            },
+            {
+              "source": "Zombie Cow",
+              "qty": "1",
+              "rarity": "15/100"
+            },
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "70/100"
+            },
+            {
+              "source": "Net Fishing Spot",
+              "qty": "1",
+              "rarity": "70/100"
+            },
+            {
+              "source": "Desert Devil Kebbit",
+              "qty": "1-3",
+              "rarity": "15/100"
+            },
+            {
+              "source": "Wild Ruby Vine",
+              "qty": "2",
+              "rarity": "Always"
+            },
+            {
+              "source": "Wild Ruby Vine",
+              "qty": "2",
+              "rarity": "1/2"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Weeds are a Farming item, dug from Farming patches when nothing is growing on them. Players will need a spade to harvest this item, and can place it into a compost bin to convert to compost.\n\n(Journal)\nEven the plant world has its outcasts. Weeds are unloved, unwanted and yet they always find a way to turn up in the most unexpected of places. Just like my cousin Terry.\n\nStill, at least weeds have some uses.. unlike Terry."
+        },
+        "stations": [
+          "Stone Range",
+          "Cooking Range",
+          "Brewing Cauldron"
+        ],
         "step": 0
       },
       {
@@ -97655,78 +104108,6 @@ window.WILDS_STORAGE = [
           "Crafting Table"
         ],
         "step": 6
-      },
-      {
-        "name": "Rune Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow_Limbs_%28Journal%29.png?78d70",
-        "tier": "",
-        "tierRank": null,
-        "chest": "ammo",
-        "note": "Forged at a blacksmith's bench from a rune bar; used to craft the rune crossbow at a fletching bench.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Expertly forged rune limbs that provide exceptional strength and durability when fitted to a crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Rune Bar",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Rune_Bar.png?965c9"
-                }
-              ],
-              "output": {
-                "name": "Rune Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow_Limbs.png?78d70"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Rune Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow.png?78d70",
-              "station": "Fletching Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Rune crossbow limbs are used for crafting a rune crossbow with a fletching bench.\n\n(Journal)\nDid you hear about the crossbow limb shop? They were always out of stock!\n\nPeople used to chase after me because of my bad crossbow jokes, so I had to make a bolt for it."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 6
       }
     ]
   },
@@ -103358,368 +109739,15 @@ window.WILDS_STORAGE = [
     ]
   },
   {
-    "key": "misc",
-    "label": "Miscellaneous",
+    "key": "progression",
+    "label": "Upgrades, Keys & Currency",
     "items": [
-      {
-        "name": "Acrid Adhesive",
-        "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A resilient adhesive processed from kalphite ichor at a kiln; withstands high temperatures.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A resilient adhesive that can withstand high temperatures."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Kalphite Ichor",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Ichor.png?fef71"
-                }
-              ],
-              "output": {
-                "name": "Acrid Adhesive",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Kalphite Shell",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d",
-              "station": "Tannery"
-            },
-            {
-              "name": "Gypsum Wax",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Scorch Leather",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Scorch_Leather.png?90c77",
-              "station": "Advanced Tannery"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Chest (Umbral Sands)",
-              "qty": "1-2",
-              "rarity": "1/24"
-            },
-            {
-              "source": "Chest (Umbral Sands)",
-              "qty": "1-2",
-              "rarity": "1.46/100"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Acrid adhesive is a basic item processed from kalphite ichor at the kiln.\n\n(Journal)\nPlease, for the love of the River Goddess, don't lick, sniff or apply acrid adhesive to your skin. You might think it would be worse for the Moon Garou who are covered in fur, but at least they can shed the fur when gets sticky. Its harder to shed a finger or lip."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Adamant Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow_Limbs.png?df5a6",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A crafting component made from 2 Adamant Bars at level 40 Artisan, used to create an Adamant Crossbow.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Description",
-              "value": "A pair of adamant crossbow limbs. Used in crafting a adamant crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Adamant Bar",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Bar.png?cd59b"
-                }
-              ],
-              "output": {
-                "name": "Adamant Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow_Limbs.png?df5a6"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Adamant Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow.png?a5d74",
-              "station": "Fletching Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Adamant crossbow limbs are used for creating a adamant crossbow."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Adhesive",
-        "img": "https://dragonwilds.runescape.wiki/images/Adhesive_%28Journal%29.png?1b828",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Created by processing swamp tar in a kiln, used in crafting fuel pellets, hard leather, tanner's kits, and weapon barbs.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Glue friendly or else I'll take away the glue and then nobody will have any glue to glue with!"
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Swamp Tar",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Swamp_Tar.png?58308"
-                }
-              ],
-              "output": {
-                "name": "Adhesive",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Adhesive.png?44043"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Hard Leather",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather.png?d4d9c",
-              "station": "Tannery"
-            },
-            {
-              "name": "Tanner's Kit",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Tanner%27s_Kit.png?548f9",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Lumber Storage",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lumber_Storage.png?6c3d2",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Weapon Barbs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weapon_Barbs.png?f915e",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Fuel Pellet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c",
-              "station": "Blacksmith Bench"
-            },
-            {
-              "name": "Iron Chest",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Iron_Chest.png?f0d6f",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Ore & Stone Storage",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?8110e",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Abysmal Whip",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip.png?83615",
-              "station": "Blacksmith's Bench"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Misc. Salvage",
-              "qty": "3-6",
-              "rarity": "5.26/100"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Adhesive is a product as well as a crafting item. It is created by adding swamp tar to the kiln. Adhesive is made in a one-to-one ratio, with one swamp tar creating one adhesive.\n\nAdhesive has multiple uses as a crafting material in the production of fuel pellets, hard leather, tanner's kits, and weapon barbs.\n\n(Journal)\nTacky like your great aunt's wardrobe, this sticky substance has a wide range of uses when it comes to crafting."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Amylase Crystal",
-        "img": "https://dragonwilds.runescape.wiki/images/Amylase_Crystal.png?606b5",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A crystalline component obtained from Agility course reward packs, used as a reagent in brewing stamina potions.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.1 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A crystallised mass of amylase enzymes, can be used as a reagent potions."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Stamina Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Stamina_Potion.png?7f693",
-              "station": "Brewing Cauldron"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Reward Pack: Dowdun Reach Gold",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Dowdun Reach Silver",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Umbral Sands Gold",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Umbral Sands Silver",
-              "qty": "1-2",
-              "rarity": "1/5"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Amylase crystal can be obtained by opening Agility course reward packs. It is used in making stamina potions.\n\n(Journal)\nDo you really want to know what amylase crystals are? I know this is a journal and you would expect some elaboration, but sometimes a little mystery is best when it comes to alchemical reagents.\n\nUgh, you're still here? Fine. Amylase crystal is a concentrated deposit of saliva. There's no way of sugar-coating it: you're holding some sun-dried spit right here. And just as it does wonders for digestive processes, it's pretty good at breaking down roughage in potion-crafting."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
       {
         "name": "Ascension Core",
         "img": "https://dragonwilds.runescape.wiki/images/Ascension_Core_%28Power_Level_4%29.png?b6101",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Crafted at the Mystic Forge, or rewarded from Nightmare Crucible instances, to upgrade masterwork weapons and vestiges to the next power level.",
         "detail": {
           "stats": [
@@ -103910,7 +109938,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_4%29.png?1fc8a",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Used to craft ascension cores, which in turn upgrade masterwork weapons into stronger forms.",
         "detail": {
           "stats": [
@@ -103949,7 +109977,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_4%29.png?1fc8a",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Dropped by high-level enemies; used to craft a Tier 4 Ascension Core for upgrading masterwork weapons.",
         "detail": {
           "stats": [
@@ -104014,7 +110042,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_4%29.png?1fc8a",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Dropped by high-level enemies; used to craft a Tier 5 Ascension Core for upgrading masterwork weapons.",
         "detail": {
           "stats": [
@@ -104089,7 +110117,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_4%29.png?1fc8a",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Dropped by high-level enemies; used to craft a Tier 6 Ascension Core for upgrading masterwork weapons.",
         "detail": {
           "stats": [
@@ -104164,7 +110192,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_4%29.png?1fc8a",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Dropped by Black Dragons; used to craft a Tier 8 Ascension Core for upgrading masterwork weapons.",
         "detail": {
           "stats": [
@@ -104215,1832 +110243,11 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
-        "name": "Black Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Black_Crossbow_Limbs.png?ebb41",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Crafting components made from black metal bars at a blacksmith's bench, used to create a shadow crossbow.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Description",
-              "value": "A pair of Black crossbow limbs. Used in crafting a Black Knight Crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Black Metal Bar",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Black_Metal_Bar.png?70330"
-                }
-              ],
-              "output": {
-                "name": "Black Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Black_Crossbow_Limbs.png?ebb41"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Shadow Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
-              "station": "Fletching Table"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Black crossbow limbs are a component in creating the shadow crossbow. They are created at a blacksmith's bench.\n\n(Journal)\nDid you know that someone who fires a crossbow is often considered an 'arbalister' or 'arbalist'? Don't say that these journals don't teach you something."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Blurite Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Blurite_Crossbow_Limbs.png?606b0",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Crafted components assembled at a blacksmith's bench using blurite bars, used to create blurite crossbows.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "1"
-            },
-            {
-              "label": "Description",
-              "value": "A pair of blurite crossbow limbs. Used in crafting a Blurite Crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Blurite Bar",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Blurite_Bar.png?67753"
-                }
-              ],
-              "output": {
-                "name": "Blurite Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Blurite_Crossbow_Limbs.png?606b0"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Blurite Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blurite_Crossbow.png?328e7",
-              "station": "Fletching Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Blurite crossbow limbs are used in crafting blurite crossbows. They are crafted at a blacksmith's bench after unlocking the recipe with the vestige: azure metal contraption.\n\n(Journal)\nNot all cats are terrified of crossbows, though most of the Bramblemead population quickly learned to fear them. Some cats could see their merit but were painfully aware of their human pet’s limited imagination.\n\nMittens was the lifelong owner of Gothren Actillian. A blacksmith’s cat, he had learned how to keep the forge fires perfectly hot by playfully jumping on the bellows periodically – something his pet seemed to enjoy. He knew the right length of time a sword should be cooled for and would make sure his human stuck to that timing by offering useful alarms made of glorious clattering things.\n\nBut blurite? That was a new one. Mittens could see there was little value to the metal, beyond some weird human aesthetic that he did not understand, yet there was some potential to the construction. With carefully timed meows, and some creative knocking over of reagents, Mittens was able to engineer a crossbow of superior design, worthy of his cherished pet."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Bone Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Bone_Crossbow_Limbs.png?2bdc6",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A component crafted from 2 Undead Bones at a Blacksmith's Bench requiring Artisan 40, used to create the Dorgeshuun Crossbow.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Description",
-              "value": "Crossbow limbs made from powerful bone. Used in crafting the Dorgeshuun Crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Undead Bone",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Undead_Bone.png?85793"
-                }
-              ],
-              "output": {
-                "name": "Bone Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Bone_Crossbow_Limbs.png?2bdc6"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Dorgeshuun Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dorgeshuun_Crossbow.png?aaf68",
-              "station": "Fletching Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Bone crossbow limbs can be created at a blacksmith's bench and can be used to craft a Dorgeshuun crossbow.\n\n(Journal)\nFollowing certain incidents with cats and crossbow limbs, a superstition began to build in Bramblemead about the danger of crossbows and felines. It was considered bad luck to house a cat in the same home as a crossbow, with reasoning ranging from the safety of the cat, to the safety of the human population should cats rise up and develop opposable thumbs.\n\nWhile harmless at first, as the conflict with the garou grew the need for crossbows, cats found themselves with fewer and fewer homes willing to house them. Over the years, this led to domestic cats becoming a rare sight in Bramblemead.\n\nIt also created a deep-seated resentment among cats, and they plotted their revenge. Most would tell you that cats had nothing to do with the destruction of Bramblemead and the Brynmoor settlements. Yet, if you ask a cat, they will simply purr with a sinister grin."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Brewing Cauldron",
-        "img": "https://dragonwilds.runescape.wiki/images/Brewing_Cauldron.png?6bf2b",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "This cauldron is built to brew liquids. Potions can be created here.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Buildable"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Build category",
-              "value": "Crafting"
-            },
-            {
-              "label": "Description",
-              "value": "This cauldron is built to brew liquids. Potions can be created here."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Build Menu",
-              "skills": [
-                {
-                  "name": "Construction",
-                  "xp": 12
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Ash Logs",
-                  "qty": 16,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Logs.png?fd9a7"
-                },
-                {
-                  "name": "Coarse Thread",
-                  "qty": 6,
-                  "img": "https://dragonwilds.runescape.wiki/images/Coarse_Thread.png?71f62"
-                },
-                {
-                  "name": "Rune Essence",
-                  "qty": 10,
-                  "img": "https://dragonwilds.runescape.wiki/images/Rune_Essence.png?6f589"
-                },
-                {
-                  "name": "Clay",
-                  "qty": 6,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Brewing Cauldron",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Brewing_Cauldron.png?6bf2b"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "The brewing cauldron is used to brew various potions that can boost the player's abilities, increase experience gained, grant immunities to status effects, or restore their health. It will display all known recipes in its crafting menu and will draw from nearby linked storages. It does not have any shelter restrictions and can be placed without a foundation. It is learned when picking up clay for the first time."
-        },
-        "stations": [
-          "Build Menu"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Bronze Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Bronze_Crossbow_Limbs.png?2a3c3",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A pair of bronze crossbow limbs, used in crafting a Bronze Crossbow.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "1"
-            },
-            {
-              "label": "Description",
-              "value": "A pair of bronze crossbow limbs. Used in crafting a Bronze Crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Bronze Bar",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Bar.png?dfc4f"
-                }
-              ],
-              "output": {
-                "name": "Bronze Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Bronze_Crossbow_Limbs.png?2a3c3"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Bronze Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Crossbow.png?22330",
-              "station": "Fletching Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Bronze crossbow limbs are used in crafting bronze crossbows. They are crafted at a blacksmith's bench.\n\n(Journal)\nThe complicated mechanisms of the crossbow sparked a small technological revolution in Bramblemead. Such devices had once been the domain of the dwarves, who guarded their advanced techniques to maintain their smithing dominion. However, soon human smiths found themselves creating these complex trigger mechanisms.\n\nThere were casualties, certainly. Some mechanisms tightened strings too greatly, snapping back with a force that could cause serious harm.\n\nOne notable example involved the pet belonging to the village priest, a curious feline with absolutely no sense of self-preservation. The cat entered the workshop, as she so often did, and took it upon herself to knock everything she could to the floor. Unfortunately, in doing so, she triggered the release mechanism being worked on and quickly learned that cats are not meant to fly."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Bronze Leaf",
-        "img": "https://dragonwilds.runescape.wiki/images/Bronze_Leaf.png?67148",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A craftable component from Agility courses that can be used for potions, construction, or recycled into bronze bars.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.1 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A thin sheet of purest bronze, can be used for demonstrating your prowess, potion making or even recycling into bronze bars."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Jeweler's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 10
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Bronze Bar",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Bar.png?dfc4f"
-                }
-              ],
-              "output": {
-                "name": "Bronze Leaf",
-                "qty": 10,
-                "img": "https://dragonwilds.runescape.wiki/images/Bronze_Leaf.png?67148"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Bronze Bar",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Bar.png?dfc4f",
-              "station": "Blast Furnace"
-            },
-            {
-              "name": "Weak Focused Agility Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Agility_Potion.png?91662",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Bronze Medal",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Medal.png?fe501",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Reward Pack: Brynmoor Gold",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Ghornfell Gold",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Brynmoor Bronze",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Brynmoor Silver",
-              "qty": "1-5",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Dowdun Reach Bronze",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Dowdun Reach Gold",
-              "qty": "1-10",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Dowdun Reach Silver",
-              "qty": "1-5",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Fellhollow Bronze",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Fellhollow Gold",
-              "qty": "1-5",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Fellhollow Silver",
-              "qty": "1-5",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Ghornfell Bronze",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Ghornfell Silver",
-              "qty": "1-5",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Umbral Sands Bronze",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Umbral Sands Gold",
-              "qty": "1-12",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Umbral Sands Silver",
-              "qty": "1-5",
-              "rarity": "1/5"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Bronze leaves are a craftable item reward from various Agility courses that allows the player to make potions or create bronze bars. To obtain these, players must either collect them from bronze (or better) reward packs or recycle bronze bars in the jeweler's bench to make sheets of ten per bar.\n\n(Journal)\nIf you want to prettify some jewellery or clothing, there's nothing quite like leaf filigree. It makes you realise that nature really knows what it is doing. Everywhere you look, we've embellished our craftmanshipincorrectly spelled \"craftsmanship\" with stuff from nature: animal feet on the legs of furniture, animal-skin rugs, carved foliage on bigger units. There really is no better muse than Mother Nature."
-        },
-        "stations": [
-          "Jeweler's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Charcoal",
-        "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Produced by burning logs or planks at a kiln; an efficient fuel and crafting reagent (milling logs into planks first doubles the yield).",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Produced by burning wood in a kiln. ; Charcoal is a very efficient fuel."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Ash Logs",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Logs.png?fd9a7"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Oak Logs",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Oak_Logs.png?58308"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Willow Logs",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Willow_Logs.png?abad3"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Blightwood",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Blightwood.png?58308"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Maple Logs",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Maple_Logs.png?f0c64"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Yew Logs",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Yew_Logs.png?29d27"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Ash Plank",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Plank.png?58308"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Oak Plank",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Oak_Plank.png?789d1"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Yew Plank",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Yew_Plank.png?0587b"
-                }
-              ],
-              "output": {
-                "name": "Charcoal",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Furnace",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Furnace.png?6bf2b",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Naptha",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Fuel Pellet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c",
-              "station": "Blacksmith Bench"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Dead Tree",
-              "qty": "1",
-              "rarity": "Common"
-            }
-          ],
-          "shops": [
-            {
-              "seller": "Beartach - The Merchant",
-              "mode": "buy",
-              "cost": 3,
-              "currency": "Garou Chit"
-            }
-          ],
-          "perks": [],
-          "description": "Charcoal is a form of fuel created by processing wood at a kiln. Charcoal provides facilities 3 minutes of fuel time, serving as an improvement over using wood as a fuel source. In addition to being a fuel source, charcoal is a reagent for other items and buildings.\n\nNote: Twice as much charcoal can be produced if first milling logs into planks.\n\n(Journal)\nWhat's better than a dead tree? A dead tree that has been burned to the point of carbonization. No longer do you see unsightly green leaves, but now the wonderful blackness of charcoal. Highly praised by smiths. Way better than stupid old logs of wood.\n\nThis journal entry was sponsored by the tree haters of Lumbridge, if you're interested in joining their focus group, please speak to Tim near Bob's Axes."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Clay Decoration",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration.png?6b36b",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A hardened clay figurine component crafted using pottery and kiln, used in construction recipes.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A figurine made of clay. Now hardened."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Clay Decoration (Unfired)",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration_%28Unfired%29.png?d4d9c"
-                }
-              ],
-              "output": {
-                "name": "Clay Decoration",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration.png?6b36b"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Stack of Bowls",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Stack_of_Bowls.png?54955",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Bowl of Onions",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Bowl_of_Onions.png?b85af",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Bowl of Peaches",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Bowl_of_Peaches.png?615a8",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Vial Shelf",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Vial_Shelf.png?3b6da",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Potted Onion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Potted_Onion.png?5bbb5",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Potted Dwellberry Bush",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Potted_Dwellberry_Bush.png?5bbb5",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Potted Redberry Bush",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Potted_Redberry_Bush.png?5bbb5",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Pan Rack",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Pan_Rack.png?4b0ad",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Pungent Omelette (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Pungent_Omelette_%28decoration%29.png?3afd9",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Roast Dinner (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Roast_Dinner_%28decoration%29.png?a712c",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Steak 'N' Eggs (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Steak_%27N%27_Eggs_%28decoration%29.png?b068c",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Sweet Veg Ball (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Sweet_Veg_Ball_%28decoration%29.png?956f3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Cheeky Fryup (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Cheeky_Fryup_%28decoration%29.png?a033b",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Vegan Fryup (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Vegan_Fryup_%28decoration%29.png?4a918",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Pumpkin Soup (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Pumpkin_Soup_%28decoration%29.png?3382c",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Beef & Tomato Stew (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Beef_%26_Tomato_Stew_%28decoration%29.png?5c9aa",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Meat Stew (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Meat_Stew_%28decoration%29.png?319bb",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Evasive Infusion (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Evasive_Infusion_%28decoration%29.png?e39e3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Fleet-Footed Infusion (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fleet-Footed_Infusion_%28decoration%29.png?e39e3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Ferocious Infusion (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ferocious_Infusion_%28decoration%29.png?e39e3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Pumpkin Spice Infusion (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Pumpkin_Spice_Infusion_%28decoration%29.png?e39e3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Relentless Infusion (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Relentless_Infusion_%28decoration%29.png?e39e3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Redberry Infusion (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Redberry_Infusion_%28decoration%29.png?e39e3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Dwellberry Infusion (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Infusion_%28decoration%29.png?e39e3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Arcane Infusion (decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Arcane_Infusion_%28decoration%29.png?86cd8",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Lougrim Memorial Shrine",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lougrim_Memorial_Shrine.png?1933a",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Artifact Salvage",
-              "qty": "1",
-              "rarity": "20/100"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "A clay decoration is an item that can be crafted by using three pieces of clay on a pottery wheel to produce a clay decoration (unfired), and then using the unfired clay decoration on a kiln to create the finished clay decoration.\n\n(Journal)\nMuch prettier now that it's not leaving nasty red stains everywhere."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Clay Decoration (Unfired)",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration_%28Unfired%29.png?d4d9c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "An unfired clay item crafted at a pottery wheel that can be fired in a kiln to create a finished decoration.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A figurine made of clay. Still wet."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Pottery Wheel",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 25
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Clay",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Clay Decoration (Unfired)",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration_%28Unfired%29.png?d4d9c"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Clay Decoration",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Clay_Decoration.png?6b36b",
-              "station": "Kiln"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Clay decoration (unfired) is an item that is unlocked after mining and receiving clay for the first time. Players can fire the clay with a kiln, creating a fired clay decoration.\n\n(Journal)\nThis clay nicknack will look really nice on a shelf, once you’ve fired it in the kiln. Otherwise, it’ll just leave red stains everywhere."
-        },
-        "stations": [
-          "Pottery Wheel"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Clay Mould",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A fired clay component used at the jeweler's bench to craft enchanted trinkets and amulets.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A blank canvas for creating enchanted amulets; just add precious metals and gems."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Clay Mould (Unfired)",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould_%28Unfired%29.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Clay Mould",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Ring of Pursuit",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Pursuit.png?55b45",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Artisan",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Artisan.png?24f33",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Construction",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Construction.png?a122b",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Cooking",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Cooking.png?4adaa",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Mining",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Mining.png?32545",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Runecrafting",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Runecrafting.png?14c3f",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Woodcutting",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Woodcutting.png?22f5b",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Amulet of Attack",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Attack.png?2833e",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Amulet of Ranged",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Ranged.png?92f24",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Amulet of Magic",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Magic.png?2cab7",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Ring of Recoil",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Recoil.png?a9fd4",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Ring of Life",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Life.png?c801e",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Salve Amulet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Salve_Amulet.png?ed377",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Amulet of Magic",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Magic.png?b6348",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Amulet of Strength",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Strength.png?4232f",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Amulet of Accuracy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Accuracy.png?a87fc",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Amulet of Defence",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Defence.png?10832",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Abraxus Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Abraxus_Ring.png?4e3ff",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Unholy Symbol",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Unholy_Symbol.png?cd333",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Farming",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Farming.png?9c238",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Fishing",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Fishing.png?bdeaa",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Ravanna's Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ravanna%27s_Ring.png?f500d",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Amulet of Glory",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Glory.png?bc75c",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Skills Necklace",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Skills_Necklace.png?6268e",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Inspiring Ring of Agility",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Agility.png?91a88",
-              "station": "Jeweler's Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "A clay mould is a clay mould that is fired in a kiln and is used as an ingredient at the jeweler's bench for making trinkets.\n\n(Journal)\nThis mould can be used in crafting."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Clay Mould (Unfired)",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould_%28Unfired%29.png?6b36b",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "An unfired clay component created by combining three clay on a pottery wheel, fired in a kiln to produce a finished amulet mould.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Bake this in a kiln to create an amulet mould."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Pottery Wheel",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 60
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Clay",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Clay Mould (Unfired)",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould_%28Unfired%29.png?6b36b"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Clay Mould",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b",
-              "station": "Kiln"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "An unfired clay mould is a resource that is created by combining three clay on a pottery wheel. It can be fired at a kiln to create a clay mould.\n\nThe recipe to make the unfired clay mould is unlocked upon first building a jeweler's bench.\n\n(Journal)\nOnce fired, this will serve as a useful template for further crafting projects."
-        },
-        "stations": [
-          "Pottery Wheel"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Clay Slab",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay_Slab.png?d4d9c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "An item not currently found in the game; its unfired variant also exists in the game cache.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Unknown"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "A clay slab is an item that is not currently found in the game. An unfired clay slab exists in the cache, implying that the fired clay slab may come from the unfired version."
-        },
-        "step": 0
-      },
-      {
-        "name": "Clay Slab (Unfired)",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay_Slab_%28Unfired%29.png?d4d9c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "An unreleased item discovered in game files, not yet accessible to players.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Unknown"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "A clay slab is an item that is currently not in the game."
-        },
-        "step": 0
-      },
-      {
-        "name": "Clay Vessel",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A component created by firing unfired clay vessels at a kiln with Artisan level 40, used to brew potions at a brewing cauldron.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "This bowl is empty."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Clay Vessel (Unfired)",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel_%28Unfired%29.png?d4d9c"
-                }
-              ],
-              "output": {
-                "name": "Clay Vessel",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Weak Focused Cooking Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Cooking_Potion.png?4c820",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Artisan Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Artisan_Potion.png?4c820",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Woodcutting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Woodcutting_Potion.png?ab688",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Antipoison Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Antipoison_Potion.png?5a0d4",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Lumberjack Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Lumberjack_Potion.png?5a0d4",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Quarrymaster Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Quarrymaster_Potion.png?ab688",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Runecrafting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Runecrafting_Potion.png?d1bca",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Construction Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Construction_Potion.png?ab688",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Attack Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Attack_Potion.png?739c3",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Attack Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Attack_Potion.png?4c820",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Mining Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Mining_Potion.png?5a0d4",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Pan Rack",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Pan_Rack.png?4b0ad",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Lesser Magic Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Magic_Potion.png?90fb3",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weapon Poison",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weapon_Poison.png?3437b",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Naptha",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Sacred Oil",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Sacred_Oil.png?d2492",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Artisan Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Artisan_Potion.png?1e8fb",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Quarrymaster Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Quarrymaster_Potion.png?15eb3",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Lumberjack Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Lumberjack_Potion.png?6b6f5",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Attack Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Attack_Potion.png?3199f",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Woodcutting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Woodcutting_Potion.png?80367",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Cooking Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Cooking_Potion.png?cc19d",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Runecrafting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Runecrafting_Potion.png?83961",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Mining Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Mining_Potion.png?d94a9",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Construction Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Construction_Potion.png?436de",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Farming Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Farming_Potion.png?7e104",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Farming Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Farming_Potion.png?8ad2e",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Antipoison Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Antipoison_Potion.png?d3d65",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Fishing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Fishing_Potion.png?4c7bd",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Focused Fishing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Fishing_Potion.png?30834",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Small Desert Vase",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Small_Desert_Vase.png?25a36",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Medium Desert Vase",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Medium_Desert_Vase.png?b4174",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Desert Vase Collection 02",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Vase_Collection_02.png?339cf",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Desert Vase Collection 04",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Vase_Collection_04.png?955aa",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Desert Vase Collection 03",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Vase_Collection_03.png?b0a53",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Desert Vase Collection 01",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Vase_Collection_01.png?f9062",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Moon Garou Table 02",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Moon_Garou_Table_02.png?1d79c",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Lesser Focused Agility Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Agility_Potion.png?d9377",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Focused Agility Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Agility_Potion.png?91662",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Healing_Potion.png?39e25",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c",
-              "station": "Brewing Cauldron"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Artifact Salvage",
-              "qty": "1",
-              "rarity": "20/100"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Clay vessels can be created with clay vessel (unfired) at a kiln, and can be used at a brewing cauldron to hold potions.\n\n(Journal)\nThis vessel can be sealed to allow for the storage of potions."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Clay Vessel (Unfired)",
-        "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel_%28Unfired%29.png?d4d9c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "An unfired clay item created at a pottery wheel requiring level 60 Artisan that can be kiln-fired into a finished clay vessel.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A formed clay bowl, ready to be fired in a kiln."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Pottery Wheel",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 60
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Clay",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Clay Vessel (Unfired)",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel_%28Unfired%29.png?d4d9c"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Clay Vessel",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b",
-              "station": "Kiln"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "A clay vessel (unfired) can be created with clay at a pottery wheel. Can be fired using a kiln to make a clay vessel.\n\n(Journal)\nA sticky clay container in need of a kiln."
-        },
-        "stations": [
-          "Pottery Wheel"
-        ],
-        "step": 0
-      },
-      {
         "name": "Crucible Engram of Betrayal",
         "img": "https://dragonwilds.runescape.wiki/images/Crucible_Engram_of_Betrayal.png?09010",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "A key to a specific Nightmare Crucible, obtained by defeating various mini-bosses.",
         "detail": {
           "stats": [
@@ -106131,7 +110338,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Crucible_Engram_of_Helplessness.png?ed646",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Obtained by defeating various mini-bosses and used to enter the Nightmare Crucible.",
         "detail": {
           "stats": [
@@ -106222,7 +110429,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Crucible_Engram_of_Humiliation.png?214eb",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "A key to a specific Nightmare Crucible, obtained by defeating various mini-bosses.",
         "detail": {
           "stats": [
@@ -106313,7 +110520,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Crucible_Engram_of_the_Hounded.png?48b62",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Obtained by defeating various mini-bosses and used to access the Nightmare Crucible.",
         "detail": {
           "stats": [
@@ -106400,586 +110607,11 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
-        "name": "Cursed Essence",
-        "img": "https://dragonwilds.runescape.wiki/images/Cursed_Essence.png?e237d",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Harvested from demons; used as a tanning agent at the tannery to make cursed leather.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "3.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Harvested from demons. Can be used as a tanning agent at the tannery."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Abyssal Whip",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip.png?eb679",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Cursed Leather",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Cursed_Leather.png?569bf",
-              "station": "Tannery"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Small Ash Pile",
-              "qty": "1",
-              "rarity": "50/100"
-            },
-            {
-              "source": "Ash Pile",
-              "qty": "2-3",
-              "rarity": "Always"
-            },
-            {
-              "source": "Stormpact Demon",
-              "qty": "1-2",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Cursed essence is a basic material required for making cursed leather at the tannery.\n\n(Journal)\nCursed essence is a magical agent often used in tanning. It is also something of a curiosity, one that a simple tanner can't readily explain. It goes further than simply binding itself to material; it latches onto it, almost parasitically.\n\nDemonologists have a theory that, altough cursed essence drops from the avernic demons of Dowdun Reach, it is actually cthonic in nature. It would explain the tendril-like tenacity."
-        },
-        "stations": [
-          "Blacksmith's Bench",
-          "Tannery"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Demonic Oil",
-        "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Brewed from necrotic bonemeal and vile ashes; a key crafting component for power level 6 armour.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "3.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Made by combining necrotic bonemeal and vile ashes. A crafting component."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Brewing Cauldron",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Necrotic Bonemeal",
-                  "qty": 6,
-                  "img": "https://dragonwilds.runescape.wiki/images/Necrotic_Bonemeal.png?dd90f"
-                },
-                {
-                  "name": "Vile Ashes",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Vile_Ashes.png?22af8"
-                },
-                {
-                  "name": "Glass Vessel",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39"
-                }
-              ],
-              "output": {
-                "name": "Demonic Oil",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Abyssal Whip",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip.png?eb679",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Black Knight Helmet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Helmet.png?cadc9",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Mithril Helmet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Helmet.png?f3bcf",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Mithril Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Platebody.png?00114",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Mithril Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Platelegs.png?6ce42",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Knight Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Platebody.png?7a846",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Knight Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Platelegs.png?d7d78",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Blue Dragonhide Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Body.png?a9b8b",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Blue Dragonhide Coif",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Coif.png?2948c",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Blue Dragonhide Chaps",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Chaps.png?d11d5",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Mystic Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mystic_Hat.png?0f26d",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Mystic Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mystic_Robes.png?694fe",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Mystic Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mystic_Robe_Legs.png?38081",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Shadow Cowl",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Cowl.png?2cdd1",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Sword",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Sword.png?e4949",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Zamorak Staff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Staff.png?ad315",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Zamorak Hood",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Hood.png?de324",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Shadow Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
-              "station": "Fletching Table"
-            },
-            {
-              "name": "Shadow Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Body.png?d9370",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Shadow Chaps",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Shadow_Chaps.png?f05d5",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Zamorak Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Robes.png?f365f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Zamorak Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Robe_Legs.png?24e4a",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Shield.png?97c8f",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Mithril Med Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Med_Helm.png?78d70",
-              "station": "Armour Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Demonic oil is one of the materials required for making power level 6 armour.\n\n(Journal)\nCombine corrupt bonemean and vile ashes and the result is demonic oil. We should be specific about waht kind of oil this is: please do not pour it into a frying pan or use it on a squeaky hinge. This is potent oil, as the \"demonic\" prefix will attest. It is used for crafting, and solely for crafting.\n\nNow you've got us wondering what would happen if you did actually add it to a frying pan or a squeaky hinge. Oviously, please don't do it. But if you happen to do it, through an accident or momentary lack of wisdom, could you let us know what happens?"
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Discordant Residue",
-        "img": "https://dragonwilds.runescape.wiki/images/Discordant_Residue_%28Journal%29.png?c4c67",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Dropped by enemies and chests in the Scorned Wilderness; used at the Kiln to craft Harmonised Compound.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Obtained from creatures in Kuldra's Tower. A core component of vis cloth."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Harmonised Compound",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound.png?ec544",
-              "station": "Kiln"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Black Dragon",
-              "qty": "12-15",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Discordant Residue is a material gathered from enemies and Chest within the Scorned Wilderness. They can be used on the Kiln to craft Harmonised Compound.\n\n(Journal)\nThe life of a creature within Kuldra's Tower is not a pleasant one. Every beast or warrior (even the undead ones) are at constant threat from any of Kuldra's five heads, and the tower itself is a font of anima. Any kind of life expectancy is a luxury.\n\nEvolution has handed the creatures of Kuldra's Tower something of a lifeline. Anima attaches itself to the creatures in a kind of symbiosis. The anima seeps into the creature, feeding on its softer tissue and leaving something like a crystal residue behind. This discordant symbiosis makes the creature hardier, at the cost of a humming, constant pain."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Draconic Vis Wax",
-        "img": "https://dragonwilds.runescape.wiki/images/Draconic_Vis_Wax_%28Journal%29.png?dbf4c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Brewed from harmonised compound, ground rune essence, and ground dragon tooth; spun with vis fibres into vis cloth on a loom.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Made in a brewing cauldron. Alongside vis fibres, it can be spun into vis cloth on a loom."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Brewing Cauldron",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Harmonised Compound",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound.png?ec544"
-                },
-                {
-                  "name": "Ground Rune Essence",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Rune_Essence.png?7980a"
-                },
-                {
-                  "name": "Ground Dragon Tooth",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Dragon_Tooth.png?03196"
-                }
-              ],
-              "output": {
-                "name": "Draconic Vis Wax",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Draconic_Vis_Wax.png?e6049"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Ancestral Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Robes.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Vis Cloth",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Vis_Cloth.png?85b78",
-              "station": "Loom"
-            },
-            {
-              "name": "Rune Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Helm.png?034dd",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Rune Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Platebody.png?034dd",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Rune Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Platelegs.png?034dd",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Dragonhide Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Body.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Rune Dagger",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Dagger.png?78d70",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Rune Mace",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Mace.png?034dd",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Rune Pickaxe",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Pickaxe.png?034dd",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Ancestral Staff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Staff.png?243f9",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Rune Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Shield.png?034dd",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Rune Spade",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Spade.png?034dd",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Ancestral Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Hat.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Ancestral Leggings",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Leggings.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Dragonhide Coif",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Coif.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Dragonhide Chaps",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Chaps.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Rune Sword",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Sword.png?034dd",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Rune Scimitar",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Scimitar.png?034dd",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Rune Greataxe",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Greataxe.png?034dd",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Rune Greatsword",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Greatsword.png?034dd",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Rune Warhammer",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Warhammer.png?f38b3",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Rune Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow.png?78d70",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Magic Shortbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Magic_Shortbow.png?78d70",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Magic Longbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Magic_Longbow.png?78d70",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Ancestral Wand",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Wand.png?b12ab",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Runite Med Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Runite_Med_Helm.png?1d50f",
-              "station": "Armour Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Draconic Vis Wax is a processed material required for making Vis Cloth. It can be crafted in a Brewing Cauldron.\n\n(Journal)\nThe wizards of the Wizards' Tower have managed to artificially generate vis wax, through the Rune Goldberg Machine. It takes piles upon piles of runes and distills them to a thin, waxy substance. It's possibly the least efficient process in the world - the equivalent of sieving a mountain to get a couple of nuggets of gold.\n\nThe alternative is to find vis wax in its natural, unfiltered state, but that has its own mountain-sized problems. You need to siphon it from the most dangerous of dragons, and those dragons need to have been in a state of intense rage when they died. It's enough to make a wizard sigh and approach the mountain with a newly bought sieve."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
-      {
         "name": "Garou Artefact",
         "img": "https://dragonwilds.runescape.wiki/images/Garou_Artefact.png?8346f",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Found in Umbral Sands and sold to merchants for garou chits, or crafted into Lunar Garou armour at an Armour Bench.",
         "detail": {
           "stats": [
@@ -107036,7 +110668,7 @@ window.WILDS_STORAGE = [
         "img": "https://dragonwilds.runescape.wiki/images/Garou_Chit.png?a7212",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "Currency used by the Moon Garou in Umbral Sands, obtained from chests, quests, or selling items to garou merchants.",
         "detail": {
           "stats": [
@@ -107107,977 +110739,11 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
-        "name": "Glass Decoration",
-        "img": "https://dragonwilds.runescape.wiki/images/Glass_Decoration.png?98a68",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A craftable ornament made from molten glass at a jeweler's bench requiring level 40 Artisan skill.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.1 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A delightful ornament that will really tie your home together."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Jeweler's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Molten Glass",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c"
-                }
-              ],
-              "output": {
-                "name": "Glass Decoration",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Glass_Decoration.png?98a68"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Moon Garou Table 02",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Moon_Garou_Table_02.png?1d79c",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "A glass decoration is an item that can be crafted using molten glass at the jeweler's bench.\n\n(Journal)\nLet's take a moment to recognise your glass-blowing skills.\n\n...\n\nCongratulations on your craftmanship. You have the puff of an angel."
-        },
-        "stations": [
-          "Jeweler's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Glass Pane",
-        "img": "https://dragonwilds.runescape.wiki/images/Glass_Pane.png?cb0fd",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Crafted from molten glass at a jeweler's bench; used for building glass windows.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Resource"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.1 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "It's transparent that you're going to use this when building."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Jeweler's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Molten Glass",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c"
-                }
-              ],
-              "output": {
-                "name": "Glass Pane",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Glass_Pane.png?cb0fd"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Stained Glass Window Wall",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Stained_Glass_Window_Wall.png?b4308",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Narrow Stained Glass Window Wall",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Narrow_Stained_Glass_Window_Wall.png?ba5c6",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Glass panes can be created with molten glass at a jeweler's bench, and can be used for construction.\n\n(Journal)\nWhen you take me out of a window, you leave a grieving wife. When you stick me in a door, you will save somebody’s life. What am I?"
-        },
-        "stations": [
-          "Jeweler's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Glass Vessel",
-        "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A glassblown component created from molten glass at a jeweler's bench, used in various potion and weapon recipes.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A glass item made by glassblowing."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Jeweler's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 0.5
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Molten Glass",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c"
-                }
-              ],
-              "output": {
-                "name": "Glass Vessel",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Demonic Oil",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Antifire Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Antifire_Potion.png?74865",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Subjugation Staff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Subjugation_Staff.png?a7826",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Maple Battlestaff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Maple_Battlestaff.png?0e0a2",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Antipoison Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Antipoison_Potion.png?bdc35",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Artisan Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Artisan_Potion.png?f3600",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Attack Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Attack_Potion.png?b65b4",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Construction Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Construction_Potion.png?fb45c",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Cooking Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Cooking_Potion.png?60376",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Mining Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Mining_Potion.png?4b8dd",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Runecrafting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Runecrafting_Potion.png?67a33",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Woodcutting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Woodcutting_Potion.png?b4f99",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Farming Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Farming_Potion.png?0804c",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lumberjack Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lumberjack_Potion.png?18600",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Quarrymaster Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Quarrymaster_Potion.png?ccda5",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Fishing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Fishing_Potion.png?57912",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Focused Agility Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Agility_Potion.png?a9f9f",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Stamina Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Stamina_Potion.png?7f693",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Maple Wand",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Maple_Wand.png?36220",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Healing_Potion.png?b83dc",
-              "station": "Brewing Cauldron"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Glass vessels can be created with molten glass at a jeweler's bench, and can be used for various recipes.\n\n(Journal)\nThe glass vessel. The emblem of potential. It could find itself filled with anything. Water, demonic oil, maple syrup. It could smash before it ever sees use. It could languish in someone's inventory, forgotten for months. In many ways, we are all glass vessels.\n\nCheck back in your journal for other delightful moments of poignancy and philosophy. You may find your life unutterably changed by the wisdom there."
-        },
-        "stations": [
-          "Jeweler's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Gold Leaf",
-        "img": "https://dragonwilds.runescape.wiki/images/Gold_Leaf.png?b9cf9",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A craftable component obtained from Agility courses, used to create potions, gilded capes, and jewelry.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.1 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A thin sheet of brilliant gold, can be used for demonstrating your prowess, potion making or even recycling into gold bars."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Jeweler's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 10
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Gold Bar",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Gold_Bar.png?dfc4f"
-                }
-              ],
-              "output": {
-                "name": "Gold Leaf",
-                "qty": 10,
-                "img": "https://dragonwilds.runescape.wiki/images/Gold_Leaf.png?b9cf9"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Gold Bar",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Gold_Bar.png?dfc4f",
-              "station": "Blast Furnace"
-            },
-            {
-              "name": "Golden Bloodblight Cape",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Bloodblight_Cape_%28gilded%29.png?bd0cb",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Golden Fractured Cape",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fractured_Cape_%28gilded%29.png?94a55",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Golden Bramblemead Cape",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Bramblemead_Cape_%28gilded%29.png?2fb34",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Golden Stormtouched Cape",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Stormtouched_Cape_%28gilded%29.png?eda55",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Golden Whispering Cape",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Whispering_Cape_%28gilded%29.png?c15ab",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Golden Fellhollow Cape",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fellhollow_Cape_%28gilded%29.png?d092f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Golden Dowdun Reach Cape",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dowdun_Reach_Cape_%28gilded%29.png?852e1",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Golden Umbral Sands Cape",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Umbral_Sands_Cape_%28gilded%29.png?cc245",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Focused Agility Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Focused_Agility_Potion.png?a9f9f",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Gilded Gyrhawk Amulet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Gilded_Gyrhawk_Amulet.png?fd035",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Gold Medal",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Gold_Medal.png?fab94",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Reward Pack: Brynmoor Gold",
-              "qty": "1-2",
-              "rarity": "1/10"
-            },
-            {
-              "source": "Reward Pack: Ghornfell Gold",
-              "qty": "1-2",
-              "rarity": "1/10"
-            },
-            {
-              "source": "Reward Pack: Dowdun Reach Gold",
-              "qty": "1-10",
-              "rarity": "1/10"
-            },
-            {
-              "source": "Reward Pack: Fellhollow Gold",
-              "qty": "1-4",
-              "rarity": "1/10"
-            },
-            {
-              "source": "Reward Pack: Umbral Sands Gold",
-              "qty": "1-12",
-              "rarity": "1/10"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Gold leaf is a craftable item reward from various Agility courses that allows the player to make potions, golden regional capes, and a gilded version of the gyrhawk amulet. To obtain these, players must either collect them from golden reward packs or recycle gold bars at the jeweler's bench to make sheets of ten per bar.\n\n(Journal)\nFashion is often described as circular, turning from modish to outmoded and back again. Or it's portrayed like waves, as fads come and go, never to be seen again.\n\nBut some fashions are like trees. They've always been there, unmoving, over generations. Gold leaf is one of them. You can definitely over-use it, but when used with care, it's timeless."
-        },
-        "stations": [
-          "Jeweler's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Gypsum Wax",
-        "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Brewed from dihydrogen monoxide, ground gypsum, and acrid adhesive; a key crafting component for power level 7 armour.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A marvel of alchemy that, once applied to equipment, adds durability in extreme conditions."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Brewing Cauldron",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dihydrogen Monoxide",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dihydrogen_Monoxide.png?9d65f"
-                },
-                {
-                  "name": "Ground Gypsum",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Gypsum.png?87205"
-                },
-                {
-                  "name": "Acrid Adhesive",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117"
-                }
-              ],
-              "output": {
-                "name": "Gypsum Wax",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Desert Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Robes.png?eb854",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Adamant Pickaxe",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Pickaxe.png?dbce0",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Spade",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Spade.png?df559",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow.png?a5d74",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Adamant Mace",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Mace.png?6ac82",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Warhammer",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Warhammer.png?e9445",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Sword",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Sword.png?ef5bc",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Greatsword",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Greatsword.png?856a3",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Dagger",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Dagger.png?9f145",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Greataxe",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Greataxe.png?952ba",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Scimitar",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Scimitar.png?53f5d",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Adamant Helmet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Helmet.png?0728c",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Adamant Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platebody.png?eb43f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Adamant Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platelegs.png?499cf",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Adamant Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Shield.png?e9de4",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Lunar Garou Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Hat.png?b3a6b",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Lunar Garou Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robes.png?345d5",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Lunar Garou Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robe_Legs.png?d2e0b",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Infinity Robe Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Hat.png?aa8fe",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Infinity Robe Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Body.png?892c5",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Infinity Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Legs.png?3b400",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Master's Staff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Master%27s_Staff.png?060f3",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Pharaoh's Sceptre",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Pharaoh%27s_Sceptre.png?c2d6b",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Yew Longbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Yew_Longbow.png?7619b",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Yew Shortbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Yew_Shortbow.png?122bd",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Bow of Elidinis",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Bow_of_Elidinis.png?1c077",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Red Dragonhide Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Body.png?95f13",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Red Dragonhide Coif",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Coif.png?99b7e",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Red Dragonhide Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Legs.png?be9c9",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Imbuing Barrel",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Imbuing_Barrel.png?a8f3e",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Keris",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Keris.png?5247d",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Desert Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Robe_Legs.png?a1791",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Kalphite Carapace Chest",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Chest.png?a9d03",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Desert Hood",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Hood.png?a717f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Kalphite Carapace Helmet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Helmet.png?21975",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Kalphite Carapace Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Legs.png?04bab",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Master Wand",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Master_Wand.png?fa08a",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Adamant Med Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Med_Helm.png?f38b3",
-              "station": "Armour Bench"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Moon Garou Pack",
-              "qty": "10",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Gypsum wax is one of the materials required for making power level 7 armour.\n\n(Journal)\nA combination of gypsum powder and dihydrogen monoxide, gypsum wax contains the worst of both materials. It's as claggy and hard to remove as gypsum powder, and as deadly as dihydrogen monoxide."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Harmonised Compound",
-        "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound_%28Journal%29.png?ca52c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Made from discordant residue at a kiln; can be combined with runic powder at an advanced spinning wheel.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Made from discordant residue in a kiln. Can be combined with runic powder on an advanced spinning wheel."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Kiln",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Discordant Residue",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Discordant_Residue.png?f4fb4"
-                }
-              ],
-              "output": {
-                "name": "Harmonised Compound",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound.png?ec544"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Ancestral Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Robes.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Vis Fibres",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Vis_Fibres.png?2b277",
-              "station": "Advanced Spinning Wheel"
-            },
-            {
-              "name": "Draconic Vis Wax",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Draconic_Vis_Wax.png?e6049",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Rune Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Helm.png?034dd",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Rune Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Platebody.png?034dd",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Rune Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Platelegs.png?034dd",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Dragonhide Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Body.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Rune Dagger",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rune_Dagger.png?78d70",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Ancestral Staff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Staff.png?243f9",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Ancestral Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Hat.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Ancestral Leggings",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Leggings.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Dragonhide Coif",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Coif.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Black Dragonhide Chaps",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Chaps.png?f38b3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Ancestral Wand",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Wand.png?b12ab",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Runite Med Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Runite_Med_Helm.png?1d50f",
-              "station": "Armour Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Harmonised Compound is a processed material created at a kiln from discordant residue.\n\n(Journal)\nSmelting discordant residue into harmonised compound is astonishingly reckless. In essence, you're 'cooking anima', which is akin to gargling fuel and then sipping on fire. You are dealing with some of the highest percentages of anima - the lifeblood of the world. We'd tell you to be careful, but this is the person who has wandered into the home of a five-headed dragon with the express intention of killing it."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
         "name": "Infernal Fragment",
         "img": "https://dragonwilds.runescape.wiki/images/Infernal_Fragment.png?f3750",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "A currency material used at the Evil Emporium and in many Dowdun Reach weapon and armour recipes; dropped by demonic enemies and found in chests.",
         "detail": {
           "stats": [
@@ -108313,1831 +110979,11 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
-        "name": "Iron Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Iron_Crossbow_Limbs.png?28f7b",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A pair of iron crossbow limbs, crafted at a blacksmith's bench using 2 iron bars and used in crafting an Iron Crossbow.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "1"
-            },
-            {
-              "label": "Description",
-              "value": "A pair of iron crossbow limbs. Used in crafting an Iron Crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Iron Bar",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Iron_Bar.png?dfc4f"
-                }
-              ],
-              "output": {
-                "name": "Iron Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Iron_Crossbow_Limbs.png?28f7b"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Iron Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Iron_Crossbow.png?69731",
-              "station": "Fletching Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Iron crossbow limbs are used in crafting iron crossbows. They are created at a blacksmith's bench.\n\n(Journal)\nFollowing certain incidents with cats and crossbow limbs, a superstition began to build in Bramblemead about the danger of crossbows and felines. It was considered bad luck to house a cat in the same home as a crossbow, with reasoning ranging from the safety of the cat, to the safety of the human population should the cats rise up and develop opposable thumbs.\n\nWhilst harmless at first, when the need for crossbows grew due to the conflict with the garou, cats found themselves with fewer and fewer homes willing to house them. Over the years this led to domestic cats being a rare sight in Bramblemead.\n\nIt also created a deep-seated resentment in the cats, and they plotted their revenge. Most would tell you that cats had nothing to do with the destruction of Bramblemead and the Brynmoor settlements, yet if you ask a cat, they will simply purr with a sinister grin on their face."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Kalphite Ichor",
-        "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Ichor.png?fef71",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A sticky fluid obtained from kalphites and kalphite eggs in Umbral Sands; processed into acrid adhesive.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A viscous, sticky fluid. Can be processed into a durable adhesive."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Acrid Adhesive",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117",
-              "station": "Kiln"
-            },
-            {
-              "name": "Kalphite Bait",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Bait.png?7bf36",
-              "station": "Crafting Table"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Kalphite Queen",
-              "qty": "6-12",
-              "rarity": "Always"
-            },
-            {
-              "source": "Kalphite Worker",
-              "qty": "1",
-              "rarity": "50/100"
-            },
-            {
-              "source": "Kalphite Soldier",
-              "qty": "2",
-              "rarity": "50/100"
-            },
-            {
-              "source": "Kalphite Guardian",
-              "qty": "3",
-              "rarity": "50/100"
-            },
-            {
-              "source": "Chest (Umbral Sands)",
-              "qty": "2-4",
-              "rarity": "1/24"
-            },
-            {
-              "source": "Chest (Umbral Sands)",
-              "qty": "2-4",
-              "rarity": "1.46/100"
-            },
-            {
-              "source": "Kalphite egg",
-              "qty": "6-9",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [
-            {
-              "seller": "Iasadair - The Merchant",
-              "mode": "buy",
-              "cost": 15,
-              "currency": "Garou Chit"
-            }
-          ],
-          "perks": [],
-          "description": "Kalphite ichor is a basic item obtained from kalphite enemies and kalphite eggs in Umbral Sands. It can be processed into acrid adhesive.\n\n(Journal)\nWhat are you doing with that? You're not... hyuk... picking it up, are you? With your bare hands?\n\nPut it down! That's... ouurngle... hideous stuff. You can't possibly use it for anything... HHKKKKKnnnggle... practical, can you?"
-        },
-        "stations": [
-          "Kiln",
-          "Crafting Table"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Kalphite Shell",
-        "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A durable carapace processed at a tannery from kalphite shell fragments and acrid adhesive.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.3 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A durable kalphite carapace, suitable for crafting."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Tannery",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Kalphite Shell Fragments",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell_Fragments.png?36278"
-                },
-                {
-                  "name": "Acrid Adhesive",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117"
-                }
-              ],
-              "output": {
-                "name": "Kalphite Shell",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Scorch Leather",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Scorch_Leather.png?90c77",
-              "station": "Advanced Tannery"
-            },
-            {
-              "name": "Adamant Dagger",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Dagger.png?9f145",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Kalphite Carapace Chest",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Chest.png?a9d03",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Kalphite Carapace Helmet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Helmet.png?21975",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Kalphite Carapace Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Legs.png?04bab",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Kalphite Guardian Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Guardian_Trophy.png?1cc2d",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Kalphite Queen Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Queen_Trophy.png?732e8",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Kalphite Soldier Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Soldier_Trophy.png?f024b",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Kalphite Worker Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Worker_Trophy.png?8bc53",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Winged Kalphite Queen Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Winged_Kalphite_Queen_Trophy.png?15220",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Kalphite Queen",
-              "qty": "5-8",
-              "rarity": "Always"
-            },
-            {
-              "source": "Kalphite Soldier",
-              "qty": "1-2",
-              "rarity": "25/100"
-            },
-            {
-              "source": "Kalphite Guardian",
-              "qty": "2-4",
-              "rarity": "50/100"
-            }
-          ],
-          "shops": [
-            {
-              "seller": "Iasadair - The Merchant",
-              "mode": "buy",
-              "cost": 15,
-              "currency": "Garou Chit"
-            }
-          ],
-          "perks": [],
-          "description": "Kalphite shell is a basic item used as a crafting material. It can be processed from kalphite shell fragments with acrid adhesive at the tannery.\n\n(Journal)\nAh, very good: you have cottoned onto something that mainland Gielinor has failed to understand. The way to make armour as strong as a kalphite's exoskeleton is not to hammer it into shapes that are suitable for humans. The carapace is too resistant, and you will get an armour that is ill-fitting for the human form. There will be plenty of gaps for someone to slip a Keris into.\n\nWhat you need to do is break the shell into its component fragments. You need to make a kind of kalphite mosaic, then adhere it with something acrid to make it into an armour. That's how you become as hardy as a kalphite."
-        },
-        "stations": [
-          "Tannery"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Kalphite Shell Fragments",
-        "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell_Fragments.png?36278",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Shattered kalphite chitin dropped by kalphite enemies in Umbral Sands; glued with acrid adhesive at a tannery to make kalphite shell.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.1 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Shattered kalphite chitin. Could be salvaged with the right adhesive."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Kalphite Shell",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d",
-              "station": "Tannery"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Kalphite Worker",
-              "qty": "1-2",
-              "rarity": "Always"
-            },
-            {
-              "source": "Kalphite Soldier",
-              "qty": "2-4",
-              "rarity": "Always"
-            },
-            {
-              "source": "Kalphite Guardian",
-              "qty": "3-6",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [
-            {
-              "seller": "Iasadair - The Merchant",
-              "mode": "buy",
-              "cost": 12,
-              "currency": "Garou Chit"
-            }
-          ],
-          "perks": [],
-          "description": "Kalphite shell fragments is a basic item obtained from kalphite enemies in Umbral Sands. It can be processed into kalphite shell at a tannery.\n\n(Journal)\nYou might get some looks, but make sure you pocket the little scraps of kalphite that you find. These little exoskeleton offcuts may not be much on their own, but grab some acrid adhesive and you can glue them together to make kalphite shells. Where you go after that is up to you. We recommend magic carpet battles, tossing shells at each other as you race."
-        },
-        "stations": [
-          "Tannery"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Maple Sap",
-        "img": "https://dragonwilds.runescape.wiki/images/Maple_Sap.png?38532",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Gathered from chopped maple trees and cooked at a campfire or grill into maple syrup from Cooking level 41.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Material"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "2.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "999"
-            },
-            {
-              "label": "Description",
-              "value": "Harvested from maple trees. An ingredient that can be cooked on a campfire."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Maple Syrup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Maple_Syrup.png?ced86",
-              "station": "Campfire"
-            },
-            {
-              "name": "Maple Syrup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Maple_Syrup.png?ced86",
-              "station": "Grill"
-            },
-            {
-              "name": "Burnt Maple Syrup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Maple_Syrup.png?63297",
-              "station": "Campfire"
-            },
-            {
-              "name": "Burnt Maple Syrup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Maple_Syrup.png?63297",
-              "station": "Grill"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Maple Tree",
-              "qty": "1",
-              "rarity": "50/100"
-            }
-          ],
-          "shops": [
-            {
-              "seller": "Domri - The Merchant",
-              "mode": "buy",
-              "cost": 10,
-              "currency": "Garou Chit"
-            },
-            {
-              "seller": "Domri - The Merchant",
-              "mode": "sell",
-              "cost": 30,
-              "currency": "Garou Chit"
-            }
-          ],
-          "perks": [],
-          "description": "Maple sap is a Power Level 4 basic material, which means it can be cooked at a campfire or grill into maple syrup starting at Cooking level 41, and not burnt into burnt maple syrup at level 50. It can be gathered from chopped maple trees.\n\n(Journal)\nIt's like the maple tree wants to be cut down. Not only does it produce hardy, versatile wood for tools and weaponry, it bleeds sap that is only a single step away from being maple syrup. If you want proof of the gods' existence in RuneScape, you need only look at maple trees.\n\nThe maple tree gets its revenge in subtle ways. Its sap is inordinately sticky and too much syrup will give you a paunch. They're small victories, but the maple tree takes them."
-        },
-        "stations": [
-          "Campfire",
-          "Grill"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Mithril Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Mithril_Crossbow_Limbs.png?2487d",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A crafted component made from mithril bars at a blacksmith's bench, used to create mithril crossbows.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Description",
-              "value": "A pair of mithril crossbow limbs. Essential for crafting mithril crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Mithril Bar",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Bar.png?fe907"
-                }
-              ],
-              "output": {
-                "name": "Mithril Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Mithril_Crossbow_Limbs.png?2487d"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Mithril Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Crossbow.png?cfa4c",
-              "station": "Fletching Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Mithril crossbow limbs are used in crafting mithril crossbows. They are created at a blacksmith's bench.\n\n(Journal)\nWhat do you call a crossbow without limbs? A REALLY cross bow.\n\nOh shush, you. That joke plays well at fletching conventions."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Molten Glass",
-        "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Made at a blast furnace from ground sandstone and ground limestone; blown into glass vessels, decorations and panes at a jeweler's bench.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Resource"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Hot glass ready to be blown into useful objects."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blast Furnace",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 60
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Ground Limestone",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Limestone.png?b5af2"
-                },
-                {
-                  "name": "Ground Sandstone",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Sandstone.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Molten Glass",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Glass Vessel",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Glass Pane",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Glass_Pane.png?cb0fd",
-              "station": "Jeweler's Bench"
-            },
-            {
-              "name": "Glass Decoration",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Glass_Decoration.png?98a68",
-              "station": "Jeweler's Bench"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Artifact Salvage",
-              "qty": "1",
-              "rarity": "20/100"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Molten glass is a processed material. It can be created with three ground sandstone and three ground limestone at a blast furnace. This is used at a jeweler's bench to craft glass vessel, glass decoration & glass pane.\n\n(Journal)\nBeautiful, yet hard to handle, the creation of molten glass was a turning point for Gielinorian civilization. It allowed the creation of vials, windows, and those pretty little animals that grandmothers love to collect and put on shelves."
-        },
-        "stations": [
-          "Blast Furnace"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Naptha",
-        "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A very flammable liquid distilled from swamp tar and charcoal; used to craft fire oil.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A very flammable liquid."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Brewing Cauldron",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Swamp Tar",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Swamp_Tar.png?58308"
-                },
-                {
-                  "name": "Charcoal",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
-                },
-                {
-                  "name": "Clay Vessel",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Naptha",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Fire Oil",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fire_Oil.png?f60f9",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Sleeping Chinchompa",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Sleeping_Chinchompa.png?44f6e",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Dragon Wolf",
-              "qty": "1",
-              "rarity": "33/100"
-            },
-            {
-              "source": "Carnivorous Chinchompa",
-              "qty": "1",
-              "rarity": "1/10"
-            },
-            {
-              "source": "Wild Ruby Vine",
-              "qty": "1",
-              "rarity": "Always"
-            },
-            {
-              "source": "Wild Ruby Vine",
-              "qty": "1",
-              "rarity": "1/2"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Naptha is an item that is unlocked at level 45 Ranged, where players can use naptha to create fire oil. It is also dropped by dragon wolves.\n\n(Journal)\nDistilled from swamp tar and charcoal.\n\nOnce known as “thick water”, naptha is liquid fire in waiting. It takes little to bring this substance to ignition, even too bright a sunny day can bring the raging flame from within.\n\nAs such, this material is widely sought by anyone with a strong desire to set things aflame. Pyromaniacs, alchemists and dragon cultists alike yearn for this liquid."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Noxious Draconic Visage",
-        "img": "https://dragonwilds.runescape.wiki/images/Noxious_Draconic_Visage.png?debd6",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A crafting component obtained from the Dragon Slayer quest that upgrades the anti-dragon shield into the dragonblight shield.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.5 kg"
-            },
-            {
-              "label": "Description",
-              "value": "The image of a fearsome dragon. Used in crafting powerful equipment."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Dragonblight Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dragonblight_Shield.png?00af6",
-              "station": "Blacksmith's Bench"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Dragon Slayer Reward Pack",
-              "qty": "1",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "The noxious draconic visage is an award obtained from the Wise Old Man in exchange for Velgar's head, which is obtained by killing Velgar during or after the quest Dragon Slayer. It can be used to upgrade the anti-dragon shield into the dragonblight shield."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "PATTERN: Bloodblight Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Bloodblight_Cape.png?8743f",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A consumable item that unlocks creation of the Bloodblight cape, found in a chest in Bloodblight Swamp.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Pattern"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0 kg"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [
-            {
-              "source": "Chest (Bloodblight Swamp)",
-              "qty": "1",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "PATTERN: Bloodblight cape is a consumable item that unlocks creation of the Bloodblight cape."
-        },
-        "step": 0
-      },
-      {
-        "name": "PATTERN: Bramblemead Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Bramblemead_Cape.png?0faeb",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A consumable pattern item that unlocks the creation of the Bramblemead cape.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Pattern"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.0 kg"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [
-            {
-              "source": "Chest (Brynmoor)",
-              "qty": "1",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "PATTERN: Bramblemead cape is a consumable item that unlocks the creation of the Bramblemead cape."
-        },
-        "step": 0
-      },
-      {
-        "name": "PATTERN: Fell Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/PATTERN_-_Fell_Cape.png?3424f",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A blueprint found in Hope's Fall that crafts the Fellhollow Cape at an Armour Bench.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Pattern"
-            },
-            {
-              "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "1"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "The fell cape pattern is a blueprint for making the Fellhollow cape. This blueprint is found in Hope's Fall near the middle part of the dragon skeleton. Players will need to cast Rocksplosion or mine the stone boulders to get to the chest."
-        },
-        "step": 0
-      },
-      {
-        "name": "PATTERN: Fractured Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Fractured_Cape.png?dd954",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A consumable pattern item that unlocks crafting of the Fractured Cape at an Armour Bench.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Pattern"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.0 kg"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [
-            {
-              "source": "Chest (Fractured Plains)",
-              "qty": "1",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "PATTERN: fractured cape is a consumable item that unlocks the creation of the fractured cape. The blueprint is within a chest at the north-north-east tip of the Fractured Plains."
-        },
-        "step": 0
-      },
-      {
-        "name": "PATTERN: Stormtouched Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Stormtouched_Cape.png?ae85f",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A consumable item that unlocks creation of the Stormtouched cape, obtained from a chest at Highland Castle's tower.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Pattern"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.0 kg"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [
-            {
-              "source": "Chest (Stormtouched Highlands)",
-              "qty": "1",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "PATTERN: stormtouched cape is a consumable item that unlocks creation of the stormtouched cape."
-        },
-        "step": 0
-      },
-      {
-        "name": "PATTERN: Whispering Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/PATTERN-_Whispering_Cape.png?db6f1",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A consumable pattern item that unlocks creation of the Whispering cape when used at an Armour Bench.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Pattern"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0 kg"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [
-            {
-              "source": "Chest (Whispering Swamp)",
-              "qty": "1",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "PATTERN: whispering cape is a consumable item that unlocks creation of the whispering cape. The blueprint is found in Whispering Swamp, within a chest tucked into an alcove, slightly north of the cave entrance where you find the garou druid during the Goblin Diplomacy quest."
-        },
-        "step": 0
-      },
-      {
-        "name": "Poison Ichor",
-        "img": "https://dragonwilds.runescape.wiki/images/Poison_Ichor.png?21931",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Dropped by wild jade vines and putrid rats; used to brew antipoison potion and weapon poison.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.4 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "This stuff looks nasty."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Weapon Poison",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weapon_Poison.png?3437b",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Antipoison Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Antipoison_Potion.png?bdc35",
-              "station": "Brewing Cauldron"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Putrid Rat",
-              "qty": "1",
-              "rarity": "25/100"
-            },
-            {
-              "source": "Wild Jade Vine",
-              "qty": "1",
-              "rarity": "Always"
-            },
-            {
-              "source": "Wild Jade Vine",
-              "qty": "1",
-              "rarity": "50/100"
-            },
-            {
-              "source": "Plague King",
-              "qty": "1",
-              "rarity": "Always"
-            },
-            {
-              "source": "Kalphite Queen",
-              "qty": "3-6",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [
-            {
-              "seller": "Domri - The Merchant",
-              "mode": "buy",
-              "cost": 4,
-              "currency": "Garou Chit"
-            }
-          ],
-          "perks": [],
-          "description": "Poison ichor is a basic item that comes from killing wild jade vines and putrid rats.\n\n(Journal)\nDropped by poisonous enemies.\n\nNature is full of malicious little critters who carry toxins. Snakes, spiders, politicians, each of them has ways to make other creatures suffer.\n\nThis ichor is prized by poisoners and alchemists, as it can be used to create deadly concoctions that will give someone, or something, a really bad day."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Refined Obsidian",
-        "img": "https://dragonwilds.runescape.wiki/images/Refined_Obsidian.png?adca9",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Processed from ground obsidian at a blast furnace.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
-            },
-            {
-              "label": "Weight",
-              "value": "2.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "An object of pure, refined obsidian."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blast Furnace",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Ground Obsidian",
-                  "qty": 9,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Obsidian.png?8e968"
-                }
-              ],
-              "output": {
-                "name": "Refined Obsidian",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Refined_Obsidian.png?adca9"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Desert Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Robes.png?eb854",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Adamant Helmet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Helmet.png?0728c",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Adamant Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platebody.png?eb43f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Adamant Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platelegs.png?499cf",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Lunar Garou Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Hat.png?b3a6b",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Lunar Garou Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robes.png?345d5",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Lunar Garou Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robe_Legs.png?d2e0b",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Infinity Robe Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Hat.png?aa8fe",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Infinity Robe Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Body.png?892c5",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Infinity Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Legs.png?3b400",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Master's Staff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Master%27s_Staff.png?060f3",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Toktz-Mej-Tal",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Toktz-Mej-Tal.png?67a11",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Red Dragonhide Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Body.png?95f13",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Red Dragonhide Coif",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Coif.png?99b7e",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Red Dragonhide Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Legs.png?be9c9",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Obsidian Helmet",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Helmet.png?647e6",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Obsidian Chest",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Chest.png?00b73",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Obsidian Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Legs.png?6621a",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Desert Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Robe_Legs.png?a1791",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Desert Hood",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Desert_Hood.png?a717f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Toktz-Xil-Ak",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Toktz-Xil-Ak.png?30651",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "TzHaar-Ket-Om",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/TzHaar-Ket-Om.png?d0383",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "TokTz-Ket-Xil",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/TokTz-Ket-Xil.png?ff2a4",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Master Wand",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Master_Wand.png?fa08a",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Adamant Med Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Med_Helm.png?f38b3",
-              "station": "Armour Bench"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Chest (Umbral Sands)",
-              "qty": "1",
-              "rarity": "1/24"
-            },
-            {
-              "source": "Chest (Umbral Sands)",
-              "qty": "1",
-              "rarity": "1.46/100"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Refined obsidian is a basic item processed from nine ground obsidian at the blast furnace.\n\n(Journal)\nIt's hard for a human to understand just how much obsidian means to a KotHaar. Imagine that your homes, tools and weapons were the flesh of your ancestors. Imagine that the money in your wallet was stretched skin from a distant relative. Now, switch out your disgust for a kind of holy reverence: the KotHaar feel this towards all the obsidian about them. That flesh isn't just a physical remnant of their ancestors, it carries their memories too. Knowledge permeates the rock."
-        },
-        "stations": [
-          "Blast Furnace"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Sacred Oil",
-        "img": "https://dragonwilds.runescape.wiki/images/Sacred_Oil.png?d2492",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Brewed from necrotic bonemeal and ectoplasm; a key crafting component for power level 5 armour.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.5 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Made from combining necrotic bonemeal and ectoplasm. Used as a crafting component."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Brewing Cauldron",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Ectoplasm",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ectoplasm.png?c22b3"
-                },
-                {
-                  "name": "Necrotic Bonemeal",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Necrotic_Bonemeal.png?dd90f"
-                },
-                {
-                  "name": "Clay Vessel",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Sacred Oil",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Sacred_Oil.png?d2492"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Steel Full Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Steel_Full_Helm.png?8267a",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Steel Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Steel_Platebody.png?bd65d",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Steel Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Steel_Platelegs.png?40565",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Splitbark Staff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Staff.png?92550",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Necromancer's Staff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Staff.png?92c69",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Green Dragonhide Coif",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Coif.png?f0ba4",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Green Dragonhide Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Body.png?32562",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Green Dragonhide Chaps",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Chaps.png?19ab2",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Shadowscale Hood",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Shadowscale_Hood.png?7986f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Fallen Hoplite's Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Helm.png?ba07d",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Fallen Hoplite's Chest",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Chest.png?fb0d1",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Fallen Hoplite's Tassets",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Tassets.png?a85d2",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "White Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/White_Platelegs.png?302e3",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Necromancer's Robe Bottom",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Robe_Bottom.png?8f047",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Necromancer's Crown",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Crown.png?8dab5",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Necromancer's Robe Top",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Robe_Top.png?40ad2",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Splitbark Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Helm.png?5cdb1",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Ranger Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ranger_Hat.png?07a9f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Ranger Tunic",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ranger_Tunic.png?69c19",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Ranger Tights",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ranger_Tights.png?d945e",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "White Full Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/White_Full_Helm.png?0273b",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "White Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/White_Platebody.png?76cff",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Splitbark Body",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Body.png?25d30",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Splitbark Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Legs.png?60e20",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Spectral Silver Thread",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Spectral_Silver_Thread.png?24a63",
-              "station": "Edna"
-            },
-            {
-              "name": "Splitbark Wand",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Wand.png?df18f",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Steel Med Helm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Steel_Med_Helm.png?f38b3",
-              "station": "Armour Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Sacred oil is one of the materials required for making power level 5 armour.\n\n(Journal)\nYou may think an undead bone is no different from a normal bone, and in most cases that's true. The animating forces of necromancy normally just puppet the bones, allowing them to be possessed by a spirit or controlled by some external force.\n\nThe undead of Fellhollow are different. They are animated by the last remnants of their humanity, tiny bits of soul clinging on in tattered forms. They move because they need to and they shudder because they fear what happens when they stop.\n\nAs such, the bones of the Fellhollow dead have strange properties that a skilled craftsman can refine and find uses for.\n\nMorbid, yes, but inventive."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Shrapnel",
-        "img": "https://dragonwilds.runescape.wiki/images/Shrapnel.png?157b3",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Drops from enemies that inflict Bleed status, used to craft weapons and potions at various crafting stations.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Material"
-            },
-            {
-              "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A collection of various sharp objects."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Weapon Barbs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weapon_Barbs.png?f915e",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Lesser Focused Woodcutting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Woodcutting_Potion.png?80367",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Cooling Relentless Infusion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Cooling_Relentless_Infusion.png?f5376",
-              "station": "Cooking Range"
-            },
-            {
-              "name": "Abysmal Whip",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip.png?83615",
-              "station": "Blacksmith's Bench"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Garou Hunter",
-              "qty": "1",
-              "rarity": "1/4"
-            },
-            {
-              "source": "Terrorbird",
-              "qty": "1",
-              "rarity": "25/100"
-            },
-            {
-              "source": "Chest (Umbral Sands)",
-              "qty": "2-3",
-              "rarity": "1/24"
-            },
-            {
-              "source": "Chest (Umbral Sands)",
-              "qty": "2-3",
-              "rarity": "1.46/100"
-            },
-            {
-              "source": "Chest (Dowdun Reach)",
-              "qty": "1-2",
-              "rarity": "1/17"
-            },
-            {
-              "source": "Chest (Dowdun Reach)",
-              "qty": "1-2",
-              "rarity": "1/100"
-            },
-            {
-              "source": "Aggressive Terrorbird",
-              "qty": "2-4",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Shrapnel can be found whilst killing terrorbirds and garou hunters found within the Fractured Plains.\n\n(Journal)\nDropped by enemies who inflict Bleed.\n\nSmall collections of sharp little objects. Stone, metal, bone, each of these combines to create a little bit of hate in the palm of your hand. The brutal points of these bits of shrapnel can tear the skin and rend the flesh, making them perfect for crafting weapons to make things bleed."
-        },
-        "stations": [
-          "Blacksmith's Bench",
-          "Brewing Cauldron",
-          "Cooking Range"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Silver Leaf",
-        "img": "https://dragonwilds.runescape.wiki/images/Silver_Leaf.png?bbc2e",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A craftable silver component obtainable from Agility courses, used for potion-making or bar recycling.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.1 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A thin sheet of finest silver, can be used for demonstrating your prowess, potion making or even recycling into silver bars."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Jeweler's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 10
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Silver Bar",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Silver_Bar.png?dfc4f"
-                }
-              ],
-              "output": {
-                "name": "Silver Leaf",
-                "qty": 10,
-                "img": "https://dragonwilds.runescape.wiki/images/Silver_Leaf.png?bbc2e"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Silver Bar",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Silver_Bar.png?dfc4f",
-              "station": "Blast Furnace"
-            },
-            {
-              "name": "Lesser Focused Agility Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Agility_Potion.png?d9377",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Silver Medal",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Silver_Medal.png?e16ba",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Reward Pack: Brynmoor Gold",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Ghornfell Gold",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Brynmoor Silver",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Dowdun Reach Gold",
-              "qty": "1-10",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Dowdun Reach Silver",
-              "qty": "1-5",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Fellhollow Gold",
-              "qty": "1-4",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Fellhollow Silver",
-              "qty": "1-3",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Ghornfell Silver",
-              "qty": "1-2",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Umbral Sands Gold",
-              "qty": "1-12",
-              "rarity": "1/5"
-            },
-            {
-              "source": "Reward Pack: Umbral Sands Silver",
-              "qty": "1-5",
-              "rarity": "1/5"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Silver leaf is a craftable item reward from various Agility courses that allows the player to make potions or create silver bars. To obtain these, players must either collect them from silver (or golden) reward packs or recycle silver bars in the jeweler's bench to make sheets of ten per bar.\n\n(Journal)\nIf you're getting bored of your amulet or cloak, why not liven it up with a bit of silver leaf? Be a bit of a fancy dandy: treat yourself to a little embellishment. Round it off by wearing a monocle and a ruff."
-        },
-        "stations": [
-          "Jeweler's Bench"
-        ],
-        "step": 0
-      },
-      {
         "name": "Soul Fragment",
         "img": "https://dragonwilds.runescape.wiki/images/Soul_Fragment.png?47160",
         "tier": "",
         "tierRank": null,
-        "chest": "misc",
+        "chest": "progression",
         "note": "A currency and crafting material sourced from defeating undead monsters and mining soul stones; used at Death's Exchange.",
         "detail": {
           "stats": [
@@ -110338,916 +111184,6 @@ window.WILDS_STORAGE = [
           "Edna"
         ],
         "step": 0
-      },
-      {
-        "name": "Steel Crossbow Limbs",
-        "img": "https://dragonwilds.runescape.wiki/images/Steel_Crossbow_Limbs.png?0298e",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A component crafted from 2 steel bars at a blacksmith's bench requiring level 40 Artisan skill.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Component"
-            },
-            {
-              "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
-            },
-            {
-              "label": "Weight",
-              "value": "4.5 kg"
-            },
-            {
-              "label": "Description",
-              "value": "A pair of Steel crossbow limbs. Used in crafting a Steel Crossbow."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Blacksmith's Bench",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 40
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Steel Bar",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Steel_Bar.png?5fe67"
-                }
-              ],
-              "output": {
-                "name": "Steel Crossbow Limbs",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Steel_Crossbow_Limbs.png?0298e"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Steel Crossbow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Steel_Crossbow.png?26d03",
-              "station": "Fletching Bench"
-            }
-          ],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Steel crossbow limbs are used for crafting steel crossbows. They are created at a blacksmith's bench.\n\n(Journal)\nSteel crossbow limbs are sturdier than their counterparts, with a greater durability that allows them to create stronger and more dangerous crossbows.\n\nIndeed, this durability seems to have put a nominal end to the unfortunate curse between cats and crossbow limb related catastrophes.\n\nAs a result, in Fellhollow, cats still had a place in the home, even after they had been systematically outcast from Bramblemead. It was said that Xikotal, in particular, enjoyed the gentle purring noises that they made and would surround his lair with hundreds of the creatures so that he might be lulled into a gentle sleep."
-        },
-        "stations": [
-          "Blacksmith's Bench"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Swamp Tar",
-        "img": "https://dragonwilds.runescape.wiki/images/Swamp_Tar.png?58308",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Gathered from the Whispering Swamp and processed in a kiln into adhesive, also used in chandelier and other crafting recipes.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Material"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "2.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "It's sticky!"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Adhesive",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adhesive.png?44043",
-              "station": "Kiln"
-            },
-            {
-              "name": "Naptha",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Chandelier",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Chandelier.png?53c7f",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Blue Chandelier",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blue_Chandelier.png?530f5",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Red Chandelier",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Red_Chandelier.png?d8ad2",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Purple Chandelier",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Purple_Chandelier.png?5c526",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Green Chandelier",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Green_Chandelier.png?8f8de",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Putrid Rat",
-              "qty": "1",
-              "rarity": "Always"
-            },
-            {
-              "source": "Plague King",
-              "qty": "3",
-              "rarity": "Always"
-            },
-            {
-              "source": "Chest (Vertentis Kara)",
-              "qty": "2-6",
-              "rarity": "1/1.3"
-            },
-            {
-              "source": "Chest (Whispering Swamp)",
-              "qty": "2-6",
-              "rarity": "1/1.3"
-            },
-            {
-              "source": "Chest (Whispering Swamp)",
-              "qty": "2-6",
-              "rarity": "1/3.3"
-            },
-            {
-              "source": "Chest (Dowdun Reach)",
-              "qty": "3-6",
-              "rarity": "1/17"
-            },
-            {
-              "source": "Chest (Dowdun Reach)",
-              "qty": "3-6",
-              "rarity": "1/100"
-            },
-            {
-              "source": "Chest (Dowdun Reach)",
-              "qty": "2-6",
-              "rarity": "12.75/100"
-            }
-          ],
-          "shops": [
-            {
-              "seller": "Domri - The Merchant",
-              "mode": "sell",
-              "cost": 12,
-              "currency": "Garou Chit"
-            }
-          ],
-          "perks": [],
-          "description": "Swamp tar is obtained by gathering from the ground in the Whispering Swamp, and is used inside a kiln to create adhesive.\n\n(Journal)\nOnce this tar was some living creature, perhaps an ancient dragon or other colossal beast. Time and pressure refined it down into this sticky substance that can be used for a variety of crafting purposes."
-        },
-        "stations": [
-          "Kiln",
-          "Brewing Cauldron",
-          "Build Menu"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Vault Core",
-        "img": "https://dragonwilds.runescape.wiki/images/Vault_Core.png?dfc4f",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A dragonkin energy source found on pedestals in dragonkin vaults; used to craft lodestones, crafting stations, and masterwork weapons.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "50.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "25"
-            },
-            {
-              "label": "Description",
-              "value": "A dragonkin energy source, found only within dragonkin vaults."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Lodestone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lodestone.png?e1627",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Staff of Light",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Staff_of_Light.png?789d1",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Dragonblight Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dragonblight_Shield.png?00af6",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Crystal Bow",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Crystal_Bow.png?789d1",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Anti-Dragon Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Anti-Dragon_Shield.png?de704",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Granite Maul",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Granite_Maul.png?789d1",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Personal Chest (chest)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Personal_Chest_%28chest%29.png?cb340",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Fletching Bench",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fletching_Bench.png?f9517",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Well",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Well.png?649c5",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Jeweler's Bench",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Jeweler%27s_Bench.png?54682",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Blast Furnace",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blast_Furnace.png?941b3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Stonecutter",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Stonecutter.png?f9985",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Dragoncurse Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dragoncurse_Shield.png?b572d",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Imaru's Talon",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Imaru%27s_Talon.png?13310",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Armour Bench",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Armour_Bench.png?7af4a",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Mystic Forge",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mystic_Forge.png?3dab2",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Dragonfire Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dragonfire_Shield.png?22188",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Blacksmith's Bench",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blacksmith%27s_Bench.png?b4989",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Lightning Rod",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lightning_Rod.png?2acef",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Storage Ledger",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Storage_Ledger.png?f38b3",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Vault Core (Decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Vault_Core_%28Decoration%29.png?96c0c",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Gourmand Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Gourmand_Ring.png?9b2da",
-              "station": "Smithing Forge"
-            },
-            {
-              "name": "Hermit Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hermit_Ring.png?9b2da",
-              "station": "Smithing Forge"
-            },
-            {
-              "name": "Herd Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Herd_Ring.png?9b2da",
-              "station": "Smithing Forge"
-            },
-            {
-              "name": "Moon Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Moon_Ring.png?0b97c",
-              "station": "Smithing Forge"
-            },
-            {
-              "name": "Miner Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Miner_Ring.png?0b97c",
-              "station": "Smithing Forge"
-            },
-            {
-              "name": "Mule Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mule_Ring.png?0b97c",
-              "station": "Smithing Forge"
-            },
-            {
-              "name": "Phoenix Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Phoenix_Ring.png?0b97c",
-              "station": "Smithing Forge"
-            },
-            {
-              "name": "Sun Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Sun_Ring.png?aeaba",
-              "station": "Smithing Forge"
-            },
-            {
-              "name": "Woodsman Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Woodsman_Ring.png?6806e",
-              "station": "Smithing Forge"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Misc. Salvage",
-              "qty": "1-2",
-              "rarity": "5.26/100"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "A vault core can be found on pedestals in dragonkin vaults. Their primary use is to make lodestones, which serve as a teleport location that can be travelled to from any other lodestone the player has placed on the map. They are also components of several masterworks, such as the abyssal whip and dragonblight shield. Note that these respawn in their plinths every three in-game days, so their quantity is not limited.\n\n(Journal)\nA heart of alchemically modified rune essence. Layers of complex enchantments and veins of anima run through this core. It allows it to absorb ambient anima from its surroundings, which in turn powers the various functions of the vault guardian servitors.\n\nThis marvel of dragonkin science had revolutionary potential. The ability to create power sources that thrived off of the ambient anima of the region. Ashenfall, with it’s surfeit of magical power, was the perfect place for such technology, and the dragonkin would apply it to all of their arcane machinery."
-        },
-        "step": 0
-      },
-      {
-        "name": "Vile Ashes",
-        "img": "https://dragonwilds.runescape.wiki/images/Vile_Ashes.png?22af8",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "The remains of a demonic creature, found in ash piles; used to brew demonic oil and craft giant krill bait.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Processed Material"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
-            },
-            {
-              "label": "Weight",
-              "value": "3.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Remains of a demonic creature. A crafting material used to make demonic oil."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Demonic Oil",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Demonic_Oil.png?02ee9",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Giant Krill Bait",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Giant_Krill_Bait.png?f0ce6",
-              "station": "Crafting Table"
-            },
-            {
-              "name": "Hell Rat Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hell_Rat_Trophy.png?5535b",
-              "station": "Build Menu"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Small Ash Pile",
-              "qty": "1",
-              "rarity": "50/100"
-            },
-            {
-              "source": "Ash Pile",
-              "qty": "2-3",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Vile ashes are a processed material required for making demonic oil and giant krill bait.\n\n(Journal)\nDemons do not leave bones behind on death. That would require a skeleton, a prospect that would make a demon queasy. Instead, demons are magical entities, composed of essence and energies. On death, they disperse, leaving an ashy composite.\n\nDon't be mistaken in thinking that it's similar to the ash left after a fire. Dab your tongue in Vile Ash and you'll soon understand where the \"vile\" comes from."
-        },
-        "stations": [
-          "Brewing Cauldron",
-          "Crafting Table",
-          "Build Menu"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Weeds",
-        "img": "https://dragonwilds.runescape.wiki/images/Weeds.png?f9cdc",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Dug from empty farming patches using a spade, converted into compost via a compost bin.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Material"
-            },
-            {
-              "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.4 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A bunch of weeds."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Plant Cure",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Plant_Cure.png?ab06e",
-              "station": "Stone Range"
-            },
-            {
-              "name": "Plant Cure",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Plant_Cure.png?ab06e",
-              "station": "Cooking Range"
-            },
-            {
-              "name": "Weak Focused Farming Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Farming_Potion.png?7e104",
-              "station": "Brewing Cauldron"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Cow",
-              "qty": "2",
-              "rarity": "15/100"
-            },
-            {
-              "source": "Bird Nest",
-              "qty": "1",
-              "rarity": "15/100"
-            },
-            {
-              "source": "Zombie Cow",
-              "qty": "1",
-              "rarity": "15/100"
-            },
-            {
-              "source": "Rod Fishing Spot",
-              "qty": "1",
-              "rarity": "70/100"
-            },
-            {
-              "source": "Net Fishing Spot",
-              "qty": "1",
-              "rarity": "70/100"
-            },
-            {
-              "source": "Desert Devil Kebbit",
-              "qty": "1-3",
-              "rarity": "15/100"
-            },
-            {
-              "source": "Wild Ruby Vine",
-              "qty": "2",
-              "rarity": "Always"
-            },
-            {
-              "source": "Wild Ruby Vine",
-              "qty": "2",
-              "rarity": "1/2"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Weeds are a Farming item, dug from Farming patches when nothing is growing on them. Players will need a spade to harvest this item, and can place it into a compost bin to convert to compost.\n\n(Journal)\nEven the plant world has its outcasts. Weeds are unloved, unwanted and yet they always find a way to turn up in the most unexpected of places. Just like my cousin Terry.\n\nStill, at least weeds have some uses.. unlike Terry."
-        },
-        "stations": [
-          "Stone Range",
-          "Cooking Range",
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Wild Anima",
-        "img": "https://dragonwilds.runescape.wiki/images/Wild_Anima.png?dfc4f",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "Refined from anima-infused bark at a kiln; raw magical essence used in magic recipes and equipment.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
-            },
-            {
-              "label": "Weight",
-              "value": "2.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Raw magical essence, extremely useful in magical recipes and equipment. Refined by herblore masters from anima-infused bark."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Kiln",
-              "skills": [],
-              "materials": [
-                {
-                  "name": "Anima-Infused Bark",
-                  "qty": 4,
-                  "img": "https://dragonwilds.runescape.wiki/images/Anima-Infused_Bark.png?789d1"
-                }
-              ],
-              "output": {
-                "name": "Wild Anima",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Wild_Anima.png?dfc4f"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [
-            {
-              "name": "Blightwood Battlestaff",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Battlestaff.png?240ee",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Staff of Light",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Staff_of_Light.png?789d1",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Anti-Dragon Shield",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Anti-Dragon_Shield.png?de704",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Imbued Granite Maul Head",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Imbued_Granite_Maul_Head.png?4e16e",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Wizard Hat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Wizard_Hat.png?d1f99",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Wizard Robe Legs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Wizard_Robe_Legs.png?d1f99",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Wizard Robes",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Wizard_Robes.png?d1f99",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Lesser Magic Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Magic_Potion.png?90fb3",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Magical Focus",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Magical_Focus.png?86e48",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Wild Anima (Decoration)",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Wild_Anima_%28Decoration%29.png?5299b",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Imbuing Barrel",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Imbuing_Barrel.png?a8f3e",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Super Focused Mining Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Mining_Potion.png?4971f",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Zombie Arm",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Zombie_Arm.png?40d83",
-              "station": "Blacksmith's Bench"
-            },
-            {
-              "name": "Super Antifire Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Antifire_Potion.png?bcc4a",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Antipoison Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Antipoison_Potion.png?11ae2",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Focused Attack Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Attack_Potion.png?e9136",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Focused Construction Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Construction_Potion.png?662c0",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Focused Cooking Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Cooking_Potion.png?bd4d4",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Focused Farming Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Farming_Potion.png?ad606",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Focused Fishing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Fishing_Potion.png?623a7",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Focused Runecrafting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Runecrafting_Potion.png?0c047",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Focused Woodcutting Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Woodcutting_Potion.png?85caf",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Super Focused Agility Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Super_Focused_Agility_Potion.png?428b2",
-              "station": "Imbuing Barrel"
-            },
-            {
-              "name": "Agility Orb",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Agility_Orb.png?b3f0c",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Blightwood Wand",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Wand.png?ebeb7",
-              "station": "Mystic Forge"
-            },
-            {
-              "name": "Large Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Large_Wardstone.png?183b0",
-              "station": "Crafting Table"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Misc. Salvage",
-              "qty": "3-6",
-              "rarity": "5.26/100"
-            },
-            {
-              "source": "Wildcaller Druid",
-              "qty": "1",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Wild anima can be made with anima-infused bark in a kiln.\n\n(Journal)\nMagic is made up of motes of anima, refined and collected into specific forms. Rune essence can be made to hold these motes, creating dedicated magical components for spells and enchantments. Wild anima is useful for magical construction, but cannot be converted into true spellcraft, as the motes are unaligned and prone to strange reactions."
-        },
-        "stations": [
-          "Kiln"
-        ],
-        "step": 0
-      },
-      {
-        "name": "Zombie Pack",
-        "img": "https://dragonwilds.runescape.wiki/images/Zombie_Pack.png?fc3cc",
-        "tier": "",
-        "tierRank": null,
-        "chest": "misc",
-        "note": "A loot container dropped by zombies and rotsworn zombies; opens into runes, ores, coarse animal fur, or watermelon seeds.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Container"
-            },
-            {
-              "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "A moist and squishy bag of bits."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Shroud of Noggin",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Shroud_of_Noggin.png?59792",
-              "station": "Crafting Table"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Rotsworn Zombie",
-              "qty": "1",
-              "rarity": "Always"
-            },
-            {
-              "source": "Zombie",
-              "qty": "1",
-              "rarity": "Always"
-            },
-            {
-              "source": "Rod Fishing Spot",
-              "qty": "1",
-              "rarity": "5/100"
-            },
-            {
-              "source": "Net Fishing Spot",
-              "qty": "1",
-              "rarity": "5/100"
-            },
-            {
-              "source": "Rotsworn Reanimator",
-              "qty": "2",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Zombie packs are a drop from zombies and rotsworn zombies.\n\n(Journal)\nA decayed and blighted sack. Contains the meagre belongings of the restless dead."
-        },
-        "stations": [
-          "Crafting Table"
-        ],
-        "step": 0
       }
     ]
   }
@@ -111333,7 +111269,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Build Menu",
-    "count": 28,
+    "count": 27,
     "members": [
       "Build Menu"
     ]

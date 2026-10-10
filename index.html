@@ -388,6 +388,12 @@ body.map-overlay-open{overflow:hidden}
 .tk-subbox.open{border-color:var(--gold)}
 .tk-subbox:active{background:var(--panel3)}
 .tk-subbox-label{font-family:var(--head);font-size:11px;font-weight:700;color:var(--gold);text-transform:uppercase;letter-spacing:.03em}
+.station-label{display:flex;align-items:center;gap:.4rem}
+.station-icon{width:20px;height:20px;object-fit:contain;flex-shrink:0}
+.item-tile-img img,.mat-chip img,.cc-icon,.station-icon{cursor:zoom-in}
+.icon-lightbox{position:fixed;inset:0;z-index:90;background:rgba(5,4,8,.92);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1rem;padding:2rem;cursor:zoom-out}
+.icon-lightbox img{max-width:min(70vw,320px);max-height:50vh;object-fit:contain;filter:drop-shadow(0 6px 24px rgba(0,0,0,.6))}
+.icon-lightbox-caption{font-family:var(--head);font-size:16px;font-weight:700;color:var(--gold);text-align:center}
 .tk-subbox-stat{font-family:var(--head);font-size:17px;font-weight:700;color:var(--text);font-variant-numeric:tabular-nums}
 .tk-subbox-sub{font-size:11px;color:var(--text3)}
 .tk-subbox .bar{margin-top:.25rem;height:5px}
@@ -514,6 +520,11 @@ body.map-overlay-open{overflow:hidden}
 </main>
 
 <nav class="tabbar" id="tabbar"></nav>
+
+<div class="icon-lightbox" id="iconLightbox" hidden>
+  <img id="iconLightboxImg" src="" alt="">
+  <div class="icon-lightbox-caption" id="iconLightboxCaption"></div>
+</div>
 
 <script src="skills.js"></script>
 <script src="level-unlocks.js" onerror="this.remove()"></script>
@@ -676,7 +687,29 @@ body.map-overlay-open{overflow:hidden}
 
   var $ = function(sel, root){ return (root||document).querySelector(sel); };
   var qInput = $("#q"), clearBtn = $("#clear"), resultsEl = $("#results"),
-      countEl = $("#count"), trackerEl = $("#tracker"), tabbarEl = $("#tabbar"), gearBtn = $("#gearBtn");
+      countEl = $("#count"), trackerEl = $("#tracker"), tabbarEl = $("#tabbar"), gearBtn = $("#gearBtn"),
+      iconLightboxEl = $("#iconLightbox"), iconLightboxImgEl = $("#iconLightboxImg"), iconLightboxCaptionEl = $("#iconLightboxCaption");
+
+  // Tap any item/station icon to see it bigger - the wiki's own art, full
+  // size, nothing fancier. One overlay shared by every icon in the app
+  // (Items, Construction, stations) rather than per-context markup.
+  function openIconLightbox(src, caption){
+    if (!src) return;
+    iconLightboxImgEl.src = src;
+    iconLightboxCaptionEl.textContent = caption || "";
+    iconLightboxEl.hidden = false;
+  }
+  function closeIconLightbox(){ iconLightboxEl.hidden = true; iconLightboxImgEl.src = ""; }
+  iconLightboxEl.addEventListener("click", closeIconLightbox);
+  document.addEventListener("keydown", function(e){
+    if (e.key === "Escape" && !iconLightboxEl.hidden) closeIconLightbox();
+  });
+  function nearbyIconName(img){
+    var host = img.closest(".item-tile, .mat-chip, .cc-card, .tk-subbox, .item-detail, .cc-head");
+    if (!host) return "";
+    var nameEl = host.querySelector(".item-tile-name, .mat-chip-text, .cc-name, .tk-subbox-label, h5");
+    return nameEl ? nameEl.textContent.trim() : "";
+  }
 
   function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g, function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c];
@@ -1301,8 +1334,9 @@ body.map-overlay-open{overflow:hidden}
   // ---------- items / by crafting station ----------
   function stationBox(st){
     var on = !!selectedStations[st.name];
+    var icon = st.img ? '<img src="'+esc(st.img)+'" alt="" loading="lazy" class="station-icon">' : '';
     return '<button type="button" class="tk-subbox'+(on?" open":"")+'" data-station="'+esc(st.name)+'">'+
-      '<span class="tk-subbox-label">'+esc(st.name)+'</span>'+
+      '<span class="tk-subbox-label station-label">'+icon+'<span>'+esc(st.name)+'</span></span>'+
       '<span class="tk-subbox-stat">'+st.count+'</span>'+
       '<span class="tk-subbox-sub">items</span>'+
       '</button>';
@@ -2032,6 +2066,10 @@ body.map-overlay-open{overflow:hidden}
   });
 
   trackerEl.addEventListener("click", function(e){
+    if (e.target.tagName === "IMG" && e.target.closest(".item-tile-img, .mat-chip, .cc-icon, .station-icon")){
+      openIconLightbox(e.target.src, nearbyIconName(e.target));
+      return;
+    }
     var viewBtn = e.target.closest("button[data-view]");
     if (viewBtn){
       storageView = viewBtn.dataset.view;

@@ -312,8 +312,18 @@ def main():
                 display = member_to_group.get(s, s)
                 station_counts[display] = station_counts.get(display, 0) + 1
                 station_members.setdefault(display, set()).add(s)
-    stations_out = [{"name": k, "count": v, "members": sorted(station_members[k])} for k, v in
-                     sorted(station_counts.items(), key=lambda kv: (-kv[1], kv[0]))]
+    # A station is itself something you build, so its icon comes from its
+    # own Build Menu recipe (the same way Construction resolves icons)
+    # rather than a regular item infobox, which stations don't have.
+    station_wiki = WikiData()
+    def station_icon(name):
+        recs = station_wiki.lookup(station_wiki.recipes_by_output, name)
+        if recs and recs[0]["output"]["img"]:
+            return recs[0]["output"]["img"]
+        return station_wiki.item_image(name) or ""
+    stations_out = [{"name": k, "count": v, "members": sorted(station_members[k]),
+                      "img": station_icon(sorted(station_members[k])[0])}
+                     for k, v in sorted(station_counts.items(), key=lambda kv: (-kv[1], kv[0]))]
 
     # Research data (wiki descriptions, infobox labels) comes from many source
     # files and regenerates on every build, so em dashes sneak back in even

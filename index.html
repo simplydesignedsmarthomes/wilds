@@ -386,8 +386,8 @@ body.map-overlay-open{overflow:hidden}
 .tk-subbox-stat{font-family:var(--head);font-size:17px;font-weight:700;color:var(--text);font-variant-numeric:tabular-nums}
 .tk-subbox-sub{font-size:11px;color:var(--text3)}
 .tk-subbox .bar{margin-top:.25rem;height:5px}
-.tk-subpanel{margin-top:.75rem}
-.tk-subpanel h4{font-family:var(--head);font-size:15px;font-weight:700;color:var(--text);margin:0 0 .4rem}
+.tk-subpanel{margin-top:.75rem;background:var(--panel2);border:1px solid var(--edge-dark);border-left:3px solid var(--gold);border-radius:var(--r);padding:.75rem .8rem;box-shadow:var(--shadow)}
+.tk-subpanel h4{font-family:var(--head);font-size:15px;font-weight:700;color:var(--gold);margin:0 0 .5rem}
 /* skill box: tap the icon/name to expand, but the stepper works right
    there without opening anything */
 .tk-skillbox{cursor:default}
@@ -408,6 +408,13 @@ body.map-overlay-open{overflow:hidden}
    tiles after an opened detail backfill the row, so the detail lands
    cleanly below the clicked tile's row instead of leaving gaps. */
 .item-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(76px,1fr));grid-auto-flow:row dense;gap:.5rem}
+.construct-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:.6rem;margin-top:.5rem}
+.cc-card{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.6rem .7rem}
+.cc-head{display:flex;align-items:center;gap:.5rem;margin-bottom:.3rem}
+.cc-icon{width:28px;height:28px;object-fit:contain;flex-shrink:0}
+.cc-icon-noimg{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;background:var(--panel3);border-radius:6px;font-size:12px;color:var(--text3);flex-shrink:0}
+.cc-name{font-family:var(--head);font-weight:700;font-size:13.5px;color:var(--gold);line-height:1.25}
+.cc-xp{font-size:11px;color:var(--text3);margin-bottom:.4rem}
 .item-tile{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.4rem .3rem;text-align:center;width:100%;color:inherit;font-family:inherit;cursor:pointer}
 .item-tile.open{border-color:var(--gold)}
 .item-tile:active{background:var(--panel3)}
@@ -653,7 +660,6 @@ body.map-overlay-open{overflow:hidden}
   var openConstructionCat = null;
   var openConstructionSub = null;
   var openConstructionGroups = {};
-  var openConstructionItem = null;
   // "items" (default) or "construction" - which box is open on the
   // Catalogue tab, same one-of-several-boxes pattern as Progress.
   var catalogueView = "items";
@@ -1001,36 +1007,31 @@ body.map-overlay-open{overflow:hidden}
       '<span class="tk-subbox-stat">'+count+'</span>'+
       '<span class="tk-subbox-sub">buildable</span></button>';
   }
-  function constructionItemTile(it, scope){
-    var key = scope+"::"+it.name;
-    var open = openConstructionItem === key;
-    var img = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy">' : '<span class="item-tile-noimg">?</span>';
-    var tile = '<button type="button" class="item-tile'+(open?" open":"")+'" data-citem="'+esc(key)+'">'+
-      '<div class="item-tile-img">'+img+'</div><div class="item-tile-name">'+esc(it.name)+'</div></button>';
-    if (open){
-      var xp = (it.skills || []).map(function(s){ return esc(s.name)+(s.xp ? ' '+esc(String(s.xp))+' XP' : ''); }).join(", ");
-      tile += '<div class="item-detail"><h5>'+esc(it.name)+'</h5>'+
-        (xp ? '<div class="recipe-xp" style="display:block;margin-bottom:.4rem">'+xp+'</div>' : '')+
-        (it.materials.length ? '<div class="mat-chips">'+it.materials.map(itemChip).join("")+'</div>' : '<div class="recipe-note">No materials needed.</div>')+
-        '</div>';
-    }
-    return tile;
+  // Every card shows its icon, name, Construction XP and full materials up
+  // front - no click needed - laid out in a responsive multi-column grid so
+  // several sit side by side instead of one per row.
+  function constructionItemCardHtml(it){
+    var xp = (it.skills || []).map(function(s){ return esc(s.name)+(s.xp ? ' '+esc(String(s.xp))+' XP' : ''); }).join(", ");
+    var icon = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy" class="cc-icon">' : '<span class="cc-icon cc-icon-noimg">?</span>';
+    return '<div class="cc-card">'+
+      '<div class="cc-head">'+icon+'<span class="cc-name">'+esc(it.name)+'</span></div>'+
+      (xp ? '<div class="cc-xp">'+xp+'</div>' : '')+
+      (it.materials.length ? '<div class="mat-chips">'+it.materials.map(itemChip).join("")+'</div>' : '<div class="recipe-note">No materials needed.</div>')+
+      '</div>';
   }
   // A group with no label is the only content in its subcategory (nothing
-  // to close), so it renders straight into an item grid; a named group
+  // to close), so it renders straight into a card grid; a named group
   // (a material set) gets its own collapsible header, closed by default.
   function constructionGroupSection(catKey, subKey, g){
     var scope = catKey+"::"+subKey+"::"+(g.label || "_");
-    if (!g.label){
-      return '<div class="item-grid">'+g.items.map(function(it){ return constructionItemTile(it, scope); }).join("")+'</div>';
-    }
+    var cards = '<div class="construct-grid">'+g.items.map(constructionItemCardHtml).join("")+'</div>';
+    if (!g.label) return cards;
     var open = !!openConstructionGroups[scope];
     var header = '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-cgroup="'+esc(scope)+'">'+
       '<span class="tk-subbox-label">'+esc(g.label)+'</span>'+
       '<span class="tk-subbox-stat">'+g.items.length+'</span>'+
       '<span class="tk-subbox-sub">buildable</span></button>';
-    var body = open ? '<div class="item-grid">'+g.items.map(function(it){ return constructionItemTile(it, scope); }).join("")+'</div>' : "";
-    return header + body;
+    return header + (open ? cards : "");
   }
   function constructionTotal(){
     return (window.WILDS_CONSTRUCTION || []).reduce(function(s, cat){
@@ -2043,7 +2044,7 @@ body.map-overlay-open{overflow:hidden}
       var ckey2 = ccatBtn.dataset.ccat;
       redrawStorageAnchored(ccatBtn, "data-ccat", ckey2, function(){
         openConstructionCat = (openConstructionCat === ckey2) ? null : ckey2;
-        openConstructionSub = null; openConstructionGroups = {}; openConstructionItem = null;
+        openConstructionSub = null; openConstructionGroups = {};
       }, drawStorage);
       return;
     }
@@ -2052,7 +2053,7 @@ body.map-overlay-open{overflow:hidden}
       var skey2 = csubBtn.dataset.csub;
       redrawStorageAnchored(csubBtn, "data-csub", skey2, function(){
         openConstructionSub = (openConstructionSub === skey2) ? null : skey2;
-        openConstructionGroups = {}; openConstructionItem = null;
+        openConstructionGroups = {};
       }, drawStorage);
       return;
     }
@@ -2061,14 +2062,6 @@ body.map-overlay-open{overflow:hidden}
       var gkey2 = cgroupBtn.dataset.cgroup;
       redrawStorageAnchored(cgroupBtn, "data-cgroup", gkey2, function(){
         openConstructionGroups[gkey2] = !openConstructionGroups[gkey2];
-      }, drawStorage);
-      return;
-    }
-    var citemBtn = e.target.closest("button[data-citem]");
-    if (citemBtn){
-      var ikey2 = citemBtn.dataset.citem;
-      redrawStorageAnchored(citemBtn, "data-citem", ikey2, function(){
-        openConstructionItem = (openConstructionItem === ikey2) ? null : ikey2;
       }, drawStorage);
       return;
     }

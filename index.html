@@ -234,11 +234,11 @@ body.map-overlay-open{overflow:hidden}
 }
 .tabbar button{
   flex:1 1 0;background:none;border:0;border-top:2px solid transparent;
-  color:var(--text3);font-family:var(--head);font-size:10px;font-weight:600;
+  color:var(--text3);font-family:var(--head);font-size:8.7px;font-weight:600;
   letter-spacing:0;text-transform:uppercase;white-space:nowrap;cursor:pointer;overflow:hidden;
-  padding:.35rem .05rem;display:flex;flex-direction:row;align-items:center;justify-content:center;gap:.22rem;
+  padding:.35rem .05rem;display:flex;flex-direction:row;align-items:center;justify-content:center;gap:.12rem;
 }
-.tabbar button svg{width:16px;height:16px;flex-shrink:0}
+.tabbar button svg{width:14px;height:14px;flex-shrink:0}
 .tabbar button.on{color:var(--gold);border-top-color:var(--gold);border-image:linear-gradient(90deg,var(--ember),var(--gold)) 1}
 .tabbar button:active{background:var(--panel3)}
 
@@ -438,9 +438,7 @@ body.map-overlay-open{overflow:hidden}
 .mat-chip-noimg{width:22px;height:22px;display:flex;align-items:center;justify-content:center;flex-shrink:0;color:var(--text3);font-size:11px}
 .recipe-card{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.5rem .6rem;margin-top:.4rem}
 .recipe-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.2rem .6rem}
-.recipe-station{font-family:var(--head);font-weight:700;font-size:13px;color:var(--gold);display:inline-flex;align-items:center;gap:.4rem}
-.construct-icon{width:22px;height:22px;object-fit:contain;flex-shrink:0}
-.construct-icon-noimg{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;background:var(--panel3);border-radius:5px;font-size:11px;color:var(--text3)}
+.recipe-station{font-family:var(--head);font-weight:700;font-size:13px;color:var(--gold)}
 .recipe-xp{font-size:12px;color:var(--text3)}
 .recipe-note{font-size:12px;color:var(--text3);margin-top:.35rem}
 .info-list{display:grid;gap:.3rem;margin-top:.3rem}
@@ -518,7 +516,7 @@ body.map-overlay-open{overflow:hidden}
 
   var TABS = [
     {key:"tracker", label:"Progress"},
-    {key:"storage", label:"Items"},
+    {key:"storage", label:"Catalogue"},
     {key:"map", label:"Map"},
     {key:"videos", label:"Videos"},
     {key:"updates", label:"Updates"}
@@ -649,9 +647,16 @@ body.map-overlay-open{overflow:hidden}
   // more crafting stations and see everything makeable there, combined).
   var storageView = "station";
   var selectedStations = {};
-  // Which Construction category (Roofs & walls, Furniture, ...) is expanded
-  // under the Construction box on Progress.
-  var openConstructionGroup = null;
+  // Construction drill-down state (Category -> Subcategory -> material-set
+  // group(s) -> a single item's expanded materials), all scoped by key so
+  // switching a higher level resets whatever was open below it.
+  var openConstructionCat = null;
+  var openConstructionSub = null;
+  var openConstructionGroups = {};
+  var openConstructionItem = null;
+  // "items" (default) or "construction" - which box is open on the
+  // Catalogue tab, same one-of-several-boxes pattern as Progress.
+  var catalogueView = "items";
 
   // ---------- view state ----------
   // Progress is the app's home now - there's no separate landing screen to
@@ -970,45 +975,88 @@ body.map-overlay-open{overflow:hidden}
     return subGrid + panel;
   }
 
-  // ---------- tracker: construction ----------
-  // Everything placeable from the game's own Build Menu - stations,
-  // structure pieces, furniture, decorations - grouped for browsing, with
-  // the materials each one costs. Reuses itemChip() for the material icons,
-  // the same chip the Items tab's recipes use, and .recipe-card for the
-  // per-build layout, so it looks and feels like the rest of the app
-  // instead of a bolted-on list. See .research/fetch_construction_data.py.
-  function constructionGroupBox(g){
-    var open = openSub === "construction:"+g.key;
-    return '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-subbox="construction:'+esc(g.key)+'">'+
+  // ---------- construction (lives under the Catalogue tab) ----------
+  // Grouped exactly the way the game's own Build Menu groups it - Category
+  // (General, Crafting, Furniture, Decoration, Flooring, Walls, Roofing,
+  // Beams and Pillars) -> Subcategory -> an optional material-set group
+  // (Cabin/Cottage/Castle/Kharidian, a colour, a faction...) -> items. The
+  // group level is what lets you close the styles you don't care about and
+  // zero in on, say, just the Castle walls. See fetch_construction_data.py.
+  function constructionCatBox(cat){
+    var open = openConstructionCat === cat.key;
+    var count = cat.subcats.reduce(function(s, sc){
+      return s + sc.groups.reduce(function(s2, g){ return s2 + g.items.length; }, 0);
+    }, 0);
+    return '<button type="button" class="tk-box'+(open?" open":"")+'" data-ccat="'+esc(cat.key)+'">'+
+      '<span class="tk-box-label">'+esc(cat.label)+'</span>'+
+      '<span class="tk-box-stat">'+count+'</span>'+
+      '<span class="tk-box-sub">buildable</span></button>';
+  }
+  function constructionSubBox(catKey, sub){
+    var skey = catKey+"::"+sub.key;
+    var open = openConstructionSub === skey;
+    var count = sub.groups.reduce(function(s, g){ return s + g.items.length; }, 0);
+    return '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-csub="'+esc(skey)+'">'+
+      '<span class="tk-subbox-label">'+esc(sub.label)+'</span>'+
+      '<span class="tk-subbox-stat">'+count+'</span>'+
+      '<span class="tk-subbox-sub">buildable</span></button>';
+  }
+  function constructionItemTile(it, scope){
+    var key = scope+"::"+it.name;
+    var open = openConstructionItem === key;
+    var img = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy">' : '<span class="item-tile-noimg">?</span>';
+    var tile = '<button type="button" class="item-tile'+(open?" open":"")+'" data-citem="'+esc(key)+'">'+
+      '<div class="item-tile-img">'+img+'</div><div class="item-tile-name">'+esc(it.name)+'</div></button>';
+    if (open){
+      var xp = (it.skills || []).map(function(s){ return esc(s.name)+(s.xp ? ' '+esc(String(s.xp))+' XP' : ''); }).join(", ");
+      tile += '<div class="item-detail"><h5>'+esc(it.name)+'</h5>'+
+        (xp ? '<div class="recipe-xp" style="display:block;margin-bottom:.4rem">'+xp+'</div>' : '')+
+        (it.materials.length ? '<div class="mat-chips">'+it.materials.map(itemChip).join("")+'</div>' : '<div class="recipe-note">No materials needed.</div>')+
+        '</div>';
+    }
+    return tile;
+  }
+  // A group with no label is the only content in its subcategory (nothing
+  // to close), so it renders straight into an item grid; a named group
+  // (a material set) gets its own collapsible header, closed by default.
+  function constructionGroupSection(catKey, subKey, g){
+    var scope = catKey+"::"+subKey+"::"+(g.label || "_");
+    if (!g.label){
+      return '<div class="item-grid">'+g.items.map(function(it){ return constructionItemTile(it, scope); }).join("")+'</div>';
+    }
+    var open = !!openConstructionGroups[scope];
+    var header = '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-cgroup="'+esc(scope)+'">'+
       '<span class="tk-subbox-label">'+esc(g.label)+'</span>'+
       '<span class="tk-subbox-stat">'+g.items.length+'</span>'+
-      '<span class="tk-subbox-sub">buildable</span>'+
-      '</button>';
-  }
-  function constructionItemCardHtml(it){
-    var xp = (it.skills || []).map(function(s){ return esc(s.name)+(s.xp ? ' '+esc(String(s.xp))+' XP' : ''); }).join(", ");
-    var icon = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy" class="construct-icon">' : '<span class="construct-icon construct-icon-noimg">?</span>';
-    return '<div class="recipe-card"><div class="recipe-head"><span class="recipe-station">'+icon+esc(it.name)+'</span>'+
-      (xp ? '<span class="recipe-xp">'+xp+'</span>' : '')+'</div>'+
-      (it.materials.length
-        ? '<div class="mat-chips">'+it.materials.map(itemChip).join("")+'</div>'
-        : '<div class="recipe-note">No materials needed.</div>')+
-      '</div>';
+      '<span class="tk-subbox-sub">buildable</span></button>';
+    var body = open ? '<div class="item-grid">'+g.items.map(function(it){ return constructionItemTile(it, scope); }).join("")+'</div>' : "";
+    return header + body;
   }
   function constructionTotal(){
-    return (window.WILDS_CONSTRUCTION || []).reduce(function(s, g){ return s + g.items.length; }, 0);
+    return (window.WILDS_CONSTRUCTION || []).reduce(function(s, cat){
+      return s + cat.subcats.reduce(function(s2, sc){
+        return s2 + sc.groups.reduce(function(s3, g){ return s3 + g.items.length; }, 0);
+      }, 0);
+    }, 0);
   }
   function constructionBlock(){
-    var groups = window.WILDS_CONSTRUCTION || [];
-    if (!groups.length) return '<div class="note">Not catalogued yet.</div>';
-    var grid = '<div class="tk-subgrid">'+groups.map(constructionGroupBox).join("")+'</div>';
-    var panel = "";
-    if (openSub && openSub.indexOf("construction:") === 0){
-      var key = openSub.slice("construction:".length);
-      var g = groups.filter(function(x){ return x.key === key; })[0];
-      if (g) panel = '<div class="tk-subpanel"><h4>'+esc(g.label)+'</h4>'+g.items.map(constructionItemCardHtml).join("")+'</div>';
+    var cats = window.WILDS_CONSTRUCTION || [];
+    if (!cats.length) return '<div class="note">Not catalogued yet.</div>';
+    var grid = '<div class="tk-grid">'+cats.map(constructionCatBox).join("")+'</div>';
+    var cat = cats.filter(function(c){ return c.key === openConstructionCat; })[0];
+    if (!cat) return grid;
+    var subGrid = '<div class="tk-subgrid">'+cat.subcats.map(function(sc){ return constructionSubBox(cat.key, sc); }).join("")+'</div>';
+    var subPanel = "";
+    var prefix = cat.key+"::";
+    if (openConstructionSub && openConstructionSub.indexOf(prefix) === 0){
+      var subKey = openConstructionSub.slice(prefix.length);
+      var sub = cat.subcats.filter(function(s){ return s.key === subKey; })[0];
+      if (sub){
+        subPanel = '<div class="tk-subpanel"><h4>'+esc(sub.label)+'</h4>'+
+          sub.groups.map(function(g){ return constructionGroupSection(cat.key, sub.key, g); }).join("")+'</div>';
+      }
     }
-    return grid + panel;
+    return grid + subGrid + subPanel;
   }
 
   // ---------- tracker: sync + backup ----------
@@ -1087,13 +1135,11 @@ body.map-overlay-open{overflow:hidden}
     var grid = '<div class="tk-grid">'+
       tkBox("skills", "Skills", sk.done+" / "+sk.total, "Total level", Math.round(sk.done/sk.total*100), "boxStatSkills", "boxBarSkills")+
       tkBox("quests", "Quests", qt.done+" / "+qt.total, "Completed", Math.round(qt.done/qt.total*100))+
-      tkBox("construction", "Construction", String(constructionTotal()), "Buildable", null)+
       '</div>';
 
     var panel = "";
     if (openBox === "skills") panel = '<div class="tk-panel"><h3>Skills</h3>'+skillsBlock()+'</div>';
     else if (openBox === "quests") panel = '<div class="tk-panel"><h3>Quests</h3>'+questsBlock()+'</div>';
-    else if (openBox === "construction") panel = '<div class="tk-panel"><h3>Construction</h3>'+constructionBlock()+'</div>';
 
     trackerEl.innerHTML = '<div class="tk-head"><h2>My progress</h2></div>'+grid+panel;
   }
@@ -1308,19 +1354,38 @@ body.map-overlay-open{overflow:hidden}
   // up or down the page. Measure where the tapped element sits on screen,
   // redraw, then scroll by however far it moved, so it stays under the
   // user's finger.
-  function redrawStorageAnchored(el, attr, value, mutate){
+  function redrawStorageAnchored(el, attr, value, mutate, drawFn){
     var before = el.getBoundingClientRect().top;
     mutate();
-    drawStorage();
+    (drawFn || drawStorage)();
     var again = trackerEl.querySelector("button["+attr+'="'+CSS.escape(value)+'"]');
     if (again) window.scrollBy(0, again.getBoundingClientRect().top - before);
   }
   function drawStorage(){
     var cats = window.WILDS_STORAGE || [];
     var total = cats.reduce(function(s,c){ return s + c.items.length; }, 0);
-    trackerEl.innerHTML = '<div class="tk-head"><h2>Items</h2><p class="tk-head-note">'+total+' items, sorted lowest to highest quality. Tap one to see everything the wiki has on it.</p></div>'+
-      storageTabs() + powerControl() +
-      (storageView === "station" ? stationBlock() : storageBlock());
+    var grid = '<div class="tk-grid">'+
+      tkBox2("items", "Items", String(total), "Catalogued")+
+      tkBox2("construction", "Construction", String(constructionTotal()), "Buildable")+
+      '</div>';
+    var body = "";
+    if (catalogueView === "items"){
+      body = '<div class="tk-panel"><h3>Items</h3><p class="tk-head-note">'+total+' items, sorted lowest to highest quality. Tap one to see everything the wiki has on it.</p>'+
+        storageTabs() + powerControl() +
+        (storageView === "station" ? stationBlock() : storageBlock())+'</div>';
+    } else {
+      body = '<div class="tk-panel"><h3>Construction</h3><p class="tk-head-note">Everything placeable from the Build Menu, grouped the way the game groups it. Tap a category, then a material set, to find what you need.</p>'+
+        constructionBlock()+'</div>';
+    }
+    trackerEl.innerHTML = '<div class="tk-head"><h2>Catalogue</h2></div>'+grid+body;
+  }
+  function tkBox2(key, label, stat, sub){
+    var open = catalogueView === key;
+    return '<button type="button" class="tk-box'+(open?" open":"")+'" data-catview="'+key+'">'+
+      '<span class="tk-box-label">'+esc(label)+'</span>'+
+      '<span class="tk-box-stat">'+esc(stat)+'</span>'+
+      '<span class="tk-box-sub">'+esc(sub)+'</span>'+
+      '</button>';
   }
   // ---------- videos ----------
   // STATE.videoChannels is the user-managed list (seeded with one default
@@ -1498,7 +1563,6 @@ body.map-overlay-open{overflow:hidden}
     var rows = data.updates || [];
     var hero = updateHeroHtml(data.gallery);
     trackerEl.innerHTML = (hero || '<div class="tk-head"><h2>Updates</h2></div>')+
-      (data.discord ? '<a class="video-channel-link" href="'+esc(data.discord)+'" target="_blank" rel="noopener">Join the Dragonwilds wiki’s Discord (where Jagex staff post) ↗</a>' : "")+
       (rows.length ? rows.map(updateCardHtml).join("") : '<div class="note">No updates loaded yet.</div>');
   }
   function teardownUpdates(){}
@@ -1966,6 +2030,46 @@ body.map-overlay-open{overflow:hidden}
       storageView = viewBtn.dataset.view;
       openItem = null;
       drawStorage();
+      return;
+    }
+    var catViewBtn = e.target.closest("button[data-catview]");
+    if (catViewBtn){
+      var cv = catViewBtn.dataset.catview;
+      redrawStorageAnchored(catViewBtn, "data-catview", cv, function(){ catalogueView = cv; }, drawStorage);
+      return;
+    }
+    var ccatBtn = e.target.closest("button[data-ccat]");
+    if (ccatBtn){
+      var ckey2 = ccatBtn.dataset.ccat;
+      redrawStorageAnchored(ccatBtn, "data-ccat", ckey2, function(){
+        openConstructionCat = (openConstructionCat === ckey2) ? null : ckey2;
+        openConstructionSub = null; openConstructionGroups = {}; openConstructionItem = null;
+      }, drawStorage);
+      return;
+    }
+    var csubBtn = e.target.closest("button[data-csub]");
+    if (csubBtn){
+      var skey2 = csubBtn.dataset.csub;
+      redrawStorageAnchored(csubBtn, "data-csub", skey2, function(){
+        openConstructionSub = (openConstructionSub === skey2) ? null : skey2;
+        openConstructionGroups = {}; openConstructionItem = null;
+      }, drawStorage);
+      return;
+    }
+    var cgroupBtn = e.target.closest("button[data-cgroup]");
+    if (cgroupBtn){
+      var gkey2 = cgroupBtn.dataset.cgroup;
+      redrawStorageAnchored(cgroupBtn, "data-cgroup", gkey2, function(){
+        openConstructionGroups[gkey2] = !openConstructionGroups[gkey2];
+      }, drawStorage);
+      return;
+    }
+    var citemBtn = e.target.closest("button[data-citem]");
+    if (citemBtn){
+      var ikey2 = citemBtn.dataset.citem;
+      redrawStorageAnchored(citemBtn, "data-citem", ikey2, function(){
+        openConstructionItem = (openConstructionItem === ikey2) ? null : ikey2;
+      }, drawStorage);
       return;
     }
     var chestBtn = e.target.closest("button[data-chest]");

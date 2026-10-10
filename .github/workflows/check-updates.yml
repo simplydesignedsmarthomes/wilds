@@ -1,0 +1,82 @@
+name: Check for Dragonwilds updates
+
+# Polls the wiki's Update: namespace (which mirrors Jagex's own patch notes,
+# usually the same day) every couple of hours. Nothing else runs unless a
+# new post actually shows up there - see .research/run_pipeline.py for the
+# full refresh-and-decide logic.
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: check-updates
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run the data-refresh pipeline
+        run: python3 .research/run_pipeline.py
+
+      - name: Decide what to do with the result
+        id: result
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          r = json.load(open(".research/_ci_result.json"))
+          print("changed=%s" % str(r["changed"]).lower())
+          print("needs_review=%s" % str(r["needsReview"]).lower())
+          delim = "SUMMARY_EOF"
+          print("summary<<%s" % delim)
+          print(r["summary"])
+          print(delim)
+          PY
+
+      # The page titles that make up the summary come straight from the
+      # wiki, so they're untrusted text - it's passed through env, never
+      # interpolated into the script itself, so nothing in it can break out
+      # into a shell command.
+      - name: Publish straight to main (clean update)
+        if: steps.result.outputs.changed == 'true' && steps.result.outputs.needs_review == 'false'
+        env:
+          SUMMARY: ${{ steps.result.outputs.summary }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A -- . ':!.research/_ci_result.json' ':!.research/_audit_run.json'
+          printf 'Auto-refresh from a Dragonwilds update\n\n%s\n' "$SUMMARY" > /tmp/commit-msg.txt
+          git commit -F /tmp/commit-msg.txt
+          git push origin HEAD:main
+
+      - name: Open a pull request instead (needs a look)
+        if: steps.result.outputs.changed == 'true' && steps.result.outputs.needs_review == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SUMMARY: ${{ steps.result.outputs.summary }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          branch="auto-update/$(date +%Y%m%d-%H%M%S)"
+          git checkout -b "$branch"
+          git add -A -- . ':!.research/_ci_result.json' ':!.research/_audit_run.json'
+          git commit -m "Dragonwilds update needs a quick look before it ships"
+          git push origin "$branch"
+          {
+            printf '%s\n\n' "$SUMMARY"
+            printf 'This did not auto-publish because something here needs a judgement call - most likely a new item that does not fit an existing category (see `.research/needs-review.json`) or a new audit flag. Everything else in the refresh is already included; merging this ships all of it at once.\n'
+          } > /tmp/pr-body.txt
+          gh pr create --base main --head "$branch" \
+            --title "Dragonwilds update needs a quick look" \
+            --body-file /tmp/pr-body.txt

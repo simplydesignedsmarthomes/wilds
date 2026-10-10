@@ -307,6 +307,16 @@ body.map-overlay-open{overflow:hidden}
 .video-fav-row-label{font-family:var(--head);color:var(--gold);font-size:13px;font-weight:700;margin-bottom:.4rem}
 .video-more-note{text-align:center;color:var(--text3);font-size:13px;padding:.8rem 0}
 .video-channel-link{display:block;text-align:center;margin-top:.8rem;padding:.65rem;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);color:var(--gold);font-family:var(--head);font-size:13px;font-weight:700;text-decoration:none}
+.video-channels-row{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-bottom:.4rem}
+.video-channel-chip{display:inline-flex;align-items:center;gap:.35rem;padding:.4rem .7rem;background:var(--panel);border:1px solid var(--edge-dark);border-radius:999px;font-family:var(--head);font-size:12.5px;font-weight:700;color:var(--text3);cursor:pointer}
+.video-channel-chip.on{color:var(--gold);border-color:var(--gold)}
+.video-channel-remove{background:none;border:0;color:inherit;opacity:.6;font-size:15px;line-height:1;padding:0 0 0 .1rem;cursor:pointer}
+.video-channel-remove:active{opacity:1}
+.video-add-channel{display:inline-flex;gap:.4rem;flex:1 1 220px;min-width:220px}
+.video-add-channel input{flex:1;min-width:0;background:var(--panel);border:1px solid var(--edge-dark);border-radius:999px;padding:.4rem .8rem;color:var(--text);font-size:12.5px}
+.video-add-channel button{background:var(--panel);border:1px solid var(--edge-dark);border-radius:999px;padding:.4rem .9rem;color:var(--gold);font-family:var(--head);font-size:12.5px;font-weight:700;cursor:pointer}
+.video-add-channel button:active{background:var(--panel3)}
+.video-add-status{font-size:12px;color:var(--text3);min-height:1.2em;margin:.2rem 0 .6rem}
 .video-channel-link:active{background:var(--panel3)}
 .update-hero{position:relative;border-radius:var(--r-lg);overflow:hidden;margin-bottom:1rem;box-shadow:var(--shadow);aspect-ratio:16/8;background:var(--panel)}
 .update-hero img{width:100%;height:100%;object-fit:cover;display:block}
@@ -324,10 +334,9 @@ body.map-overlay-open{overflow:hidden}
 .update-meta{display:flex;gap:.5rem;align-items:center;font-size:11.5px;color:var(--text3);margin-bottom:.35rem;text-transform:uppercase;letter-spacing:.03em;font-family:var(--head);font-weight:700}
 .update-cat{color:var(--gold)}
 .update-card h3{font-family:var(--head);font-size:16px;font-weight:700;margin:0 0 .4rem;color:var(--text)}
+.update-card h3 a{color:inherit;text-decoration:none}
+.update-card h3 a:active{color:var(--gold)}
 .update-summary{font-size:13px;color:var(--text2);line-height:1.5;margin:0 0 .65rem}
-.update-links{display:flex;gap:1rem;flex-wrap:wrap}
-.update-links a{color:var(--gold);font-family:var(--head);font-size:12.5px;font-weight:700;text-decoration:none}
-.update-links a:active{opacity:.7}
 .power-ctl{display:flex;align-items:center;flex-wrap:wrap;gap:.7rem;background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r-lg);padding:.6rem .75rem;margin-bottom:.8rem;box-shadow:var(--shadow)}
 .power-toggle{display:flex;align-items:center;gap:.5rem;font-size:13px;color:var(--text2);cursor:pointer}
 .power-toggle input{width:16px;height:16px;accent-color:var(--gold);cursor:pointer}
@@ -601,7 +610,9 @@ body.map-overlay-open{overflow:hidden}
   var LS_KEY = "wilds-state-v1";
   var STATE = loadState();
   function defaultState(){
-    return { skills:{}, quests:{}, code:"", powerFilterOn:false, powerLevel:0, favoriteVideoIds:[] };
+    return { skills:{}, quests:{}, code:"", powerFilterOn:false, powerLevel:0, favoriteVideoIds:[],
+      videoChannels:[{id:"UCRbqswsX9bDjWrQ2jxyVD3w", name:"Primitive Nomad"}],
+      activeVideoChannelId:"UCRbqswsX9bDjWrQ2jxyVD3w" };
   }
   function loadState(){
     try {
@@ -791,7 +802,6 @@ body.map-overlay-open{overflow:hidden}
       trackerEl.hidden = false;
       resultsEl.innerHTML = ""; countEl.textContent = "";
       drawVideos();
-      refreshVideos();
       return;
     }
     if (view.tab === "updates" && !q){
@@ -1264,28 +1274,35 @@ body.map-overlay-open{overflow:hidden}
       (storageView === "station" ? stationBlock() : storageBlock());
   }
   // ---------- videos ----------
-  // Fallback only - used if the live /api/latest-videos fetch fails (e.g.
-  // testing locally without Netlify Functions, or offline). Whenever that
-  // fetch succeeds, videoState.ids is replaced with the real current list.
-  var VIDEO_CHANNEL = {
-    name: "Primitive Nomad",
-    url: "https://www.youtube.com/@primitivenomad",
-    channelId: "UCRbqswsX9bDjWrQ2jxyVD3w",
-    fallback: ["Gq03JgW3CZc","7FrGPpb2Vvo","qWguVYuxrqo","DOXQjNytftE","vma5KmAqtF8",
-      "SgHrBkJJXHE","yLOAZNShmSU","TQRmB724Slc","bunuQfikXe8","gtqJNUOkIoQ",
-      "oEzRyEebcLM","ti_8zKAjO5g","3oCXdp2lLA8","0_KiVr0mSa0","9uPt0wAU2Wg",
-      "aBLhJcpsnD8","LNciYSOYddI","CWkDYIq_XkM","A0dRzp4rkD8","3hHfGxhOb-Q",
-      "xDCuEOunnuk","odV1jVa65mU","HaHFmb88830","pmvC7r7_Y8Q","7PqWMTQJHKM"]
-  };
-  // ids/cursor grow forever as the user scrolls (true infinite scroll, one
-  // page at a time from the server) - this is never fully reset except by
-  // the explicit Refresh button, so appending to the DOM (not rebuilding
-  // it) matters: a full redraw mid-scroll would tear down and restart the
-  // iframe's video and reset the user's scroll position.
-  var videoState = {
-    ids: VIDEO_CHANNEL.fallback, cursor: null, selected: null,
-    loading: false, loadingMore: false, exhausted: false, stale: true, error: ""
-  };
+  // STATE.videoChannels is the user-managed list (seeded with one default
+  // channel - see defaultState()); STATE.activeVideoChannelId picks which
+  // one is on screen. Each channel gets its own slot in videoStateByChannel
+  // for its video list / scroll cursor, built lazily the first time it's
+  // viewed, so switching channels and back doesn't refetch or lose scroll
+  // position. ids/cursor grow forever as the user scrolls (true infinite
+  // scroll, one page at a time from the server), so loading more appends to
+  // the DOM rather than rebuilding it - a full redraw mid-scroll would tear
+  // down and restart the iframe's video and reset scroll position.
+  var DEFAULT_VIDEO_FALLBACK_IDS = ["Gq03JgW3CZc","7FrGPpb2Vvo","qWguVYuxrqo","DOXQjNytftE","vma5KmAqtF8",
+    "SgHrBkJJXHE","yLOAZNShmSU","TQRmB724Slc","bunuQfikXe8","gtqJNUOkIoQ",
+    "oEzRyEebcLM","ti_8zKAjO5g","3oCXdp2lLA8","0_KiVr0mSa0","9uPt0wAU2Wg",
+    "aBLhJcpsnD8","LNciYSOYddI","CWkDYIq_XkM","A0dRzp4rkD8","3hHfGxhOb-Q",
+    "xDCuEOunnuk","odV1jVa65mU","HaHFmb88830","pmvC7r7_Y8Q","7PqWMTQJHKM"];
+  var videoStateByChannel = {};
+  function activeVideoChannel(){
+    var list = STATE.videoChannels || [];
+    return list.filter(function(c){ return c.id === STATE.activeVideoChannelId; })[0] || list[0] || null;
+  }
+  function videoStateFor(channelId){
+    if (!videoStateByChannel[channelId]){
+      var fallback = channelId === "UCRbqswsX9bDjWrQ2jxyVD3w" ? DEFAULT_VIDEO_FALLBACK_IDS : [];
+      videoStateByChannel[channelId] = {
+        ids: fallback, cursor: null, selected: null,
+        loading: false, loadingMore: false, exhausted: false, stale: !!fallback.length, error: ""
+      };
+    }
+    return videoStateByChannel[channelId];
+  }
   var ytPlayer = null; // bound once the IFrame Player API finishes loading
   function videoEmbedSrc(id){
     // enablejsapi lets us call setPlaybackQuality once the IFrame API
@@ -1296,7 +1313,6 @@ body.map-overlay-open{overflow:hidden}
     // guarantee you'll always get 1080p.
     return "https://www.youtube.com/embed/"+id+"?enablejsapi=1&playsinline=1&vq=hd1080";
   }
-  function videoWatchUrl(id){ return "https://www.youtube.com/watch?v="+encodeURIComponent(id); }
   function loadYouTubeIframeApi(){
     if (window.YT && window.YT.Player) { bindYouTubePlayer(); return; }
     if (document.getElementById("ytIframeApiScript")) return;
@@ -1333,45 +1349,62 @@ body.map-overlay-open{overflow:hidden}
       '<button type="button" class="video-fav'+(fav?" on":"")+'" data-fav="'+esc(id)+'" aria-label="Favorite">'+(fav?"★":"☆")+'</button>'+
       '</div>';
   }
-  function videoFavRowHtml(){
+  function videoFavRowHtml(vstate){
     // Favorited videos stay reachable forever, even ones that scrolled out
     // of the loaded pages entirely - that's the whole point of favoriting.
-    var favs = STATE.favoriteVideoIds.filter(function(id){ return videoState.ids.indexOf(id) === -1; });
+    var favs = STATE.favoriteVideoIds.filter(function(id){ return vstate.ids.indexOf(id) === -1; });
     if (!favs.length) return "";
-    var selectedId = videoState.selected || videoState.ids[0];
+    var selectedId = vstate.selected || vstate.ids[0];
     return '<div class="video-fav-row"><div class="video-fav-row-label">Favorites</div>'+
       '<div class="video-grid" id="videoFavGrid">'+favs.map(function(id){ return videoThumbHtml(id, id === selectedId); }).join('')+'</div></div>';
   }
-  function videoGridHtml(){
-    var selectedId = videoState.selected || videoState.ids[0];
-    return videoState.ids.map(function(id){ return videoThumbHtml(id, id === selectedId); }).join('');
+  function videoGridHtml(vstate){
+    var selectedId = vstate.selected || vstate.ids[0];
+    return vstate.ids.map(function(id){ return videoThumbHtml(id, id === selectedId); }).join('');
   }
-  function videoMoreNoteHtml(){
-    if (videoState.loadingMore) return '<div class="video-more-note">Loading more…</div>';
-    if (videoState.exhausted) return '<div class="video-more-note">That’s every upload from '+esc(VIDEO_CHANNEL.name)+'.</div>';
+  function videoMoreNoteHtml(vstate, channelName){
+    if (vstate.loadingMore) return '<div class="video-more-note">Loading more…</div>';
+    if (vstate.exhausted) return '<div class="video-more-note">That’s every upload from '+esc(channelName)+'.</div>';
     return '';
   }
+  function videoChannelsRowHtml(){
+    var list = STATE.videoChannels || [];
+    var activeId = STATE.activeVideoChannelId;
+    var chips = list.map(function(c){
+      return '<span class="video-channel-chip'+(c.id === activeId ? ' on' : '')+'" data-channel="'+esc(c.id)+'">'+
+        esc(c.name)+(list.length > 1 ? ' <button type="button" class="video-channel-remove" data-remove-channel="'+esc(c.id)+'" aria-label="Remove channel">×</button>' : '')+
+        '</span>';
+    }).join('');
+    return '<div class="video-channels-row">'+chips+
+      '<span class="video-add-channel"><input type="text" id="videoAddInput" placeholder="Add a channel (URL, @handle, or name)">'+
+      '<button type="button" id="videoAddBtn">Add</button></span></div>'+
+      '<div class="video-add-status" id="videoAddStatus"></div>';
+  }
   function drawVideos(){
-    var note = videoState.stale
+    var channel = activeVideoChannel();
+    if (!channel){
+      trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2></div>'+videoChannelsRowHtml()+
+        '<div class="note">Add a YouTube channel above to get started.</div>';
+      return;
+    }
+    var vstate = videoStateFor(channel.id);
+    var note = vstate.stale
       ? "Showing a saved list - fetching the latest uploads…"
-      : "Uploads from "+VIDEO_CHANNEL.name+", newest first. Scroll for more.";
-    if (videoState.error) note = "Couldn’t refresh just now (" + videoState.error + ") - showing the last known list.";
-    var selectedId = videoState.selected || videoState.ids[0];
+      : "Uploads from "+channel.name+", newest first. Scroll for more.";
+    if (vstate.error) note = "Couldn’t refresh just now (" + vstate.error + ") - showing the last known list.";
+    var selectedId = vstate.selected || vstate.ids[0];
     trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2><p class="tk-head-note">'+esc(note)+'</p></div>'+
-      '<div class="power-ctl"><button type="button" class="view-tab" id="videoRefreshBtn"'+(videoState.loading?' disabled':'')+'>'+(videoState.loading?"Refreshing…":"Refresh latest videos")+'</button></div>'+
+      videoChannelsRowHtml()+
       '<div class="video-embed"><iframe id="ytPlayer" src="'+esc(videoEmbedSrc(selectedId))+'" '+
-      'title="'+esc(VIDEO_CHANNEL.name)+'" frameborder="0" '+
+      'title="'+esc(channel.name)+'" frameborder="0" '+
       'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '+
       'allowfullscreen loading="lazy"></iframe></div>'+
-      '<a class="video-channel-link" id="videoWatchLink" href="'+esc(videoWatchUrl(selectedId))+'" target="_blank" rel="noopener">▶ Watch this video on YouTube (full quality + picture-in-picture)</a>'+
-      '<a class="video-channel-link" href="'+esc(VIDEO_CHANNEL.url)+'" target="_blank" rel="noopener">Open '+esc(VIDEO_CHANNEL.name)+' on YouTube ↗</a>'+
-      '<div id="videoFavRowWrap">'+videoFavRowHtml()+'</div>'+
-      '<div class="video-grid" id="videoGrid">'+videoGridHtml()+'</div>'+
-      '<div id="videoMoreNote">'+videoMoreNoteHtml()+'</div>';
-    var btn = document.getElementById("videoRefreshBtn");
-    if (btn) btn.addEventListener("click", function(){ refreshVideos(); });
+      '<div id="videoFavRowWrap">'+videoFavRowHtml(vstate)+'</div>'+
+      '<div class="video-grid" id="videoGrid">'+videoGridHtml(vstate)+'</div>'+
+      '<div id="videoMoreNote">'+videoMoreNoteHtml(vstate, channel.name)+'</div>';
     loadYouTubeIframeApi();
     window.addEventListener("scroll", onVideosScroll);
+    if (vstate.stale && !vstate.loading) refreshVideos();
   }
   function teardownVideos(){
     window.removeEventListener("scroll", onVideosScroll);
@@ -1393,16 +1426,16 @@ body.map-overlay-open{overflow:hidden}
     if (u.image) return '<div class="update-media"><img src="'+esc(u.image)+'" alt="" loading="lazy"></div>';
     return "";
   }
+  var DRAGONWILDS_NEWS_URL = "https://dragonwilds.runescape.com/news";
   function updateCardHtml(u){
     var meta = (u.date || u.category)
       ? '<div class="update-meta">'+(u.date ? esc(u.date) : "")+(u.category ? ' <span class="update-cat">'+esc(u.category)+'</span>' : '')+'</div>'
       : "";
-    var links = (u.officialUrl ? '<a href="'+esc(u.officialUrl)+'" target="_blank" rel="noopener">Official post ↗</a>' : "")+
-      '<a href="'+esc(u.wikiUrl)+'" target="_blank" rel="noopener">Full notes on the wiki ↗</a>';
     return '<div class="update-card">'+updateMediaHtml(u)+
-      '<div class="update-card-body">'+meta+'<h3>'+esc(u.title)+'</h3>'+
+      '<div class="update-card-body">'+meta+
+      '<h3><a href="'+esc(DRAGONWILDS_NEWS_URL)+'" target="_blank" rel="noopener">'+esc(u.title)+'</a></h3>'+
       (u.summary ? '<p class="update-summary">'+esc(u.summary)+(u.summary.length >= 400 ? "…" : "")+'</p>' : "")+
-      '<div class="update-links">'+links+'</div></div></div>';
+      '</div></div>';
   }
   function updateHeroHtml(gallery){
     if (!gallery || !gallery.length) return "";
@@ -1425,7 +1458,9 @@ body.map-overlay-open{overflow:hidden}
   // so the currently playing video and the user's scroll position both
   // survive it.
   function selectVideo(id){
-    videoState.selected = id;
+    var channel = activeVideoChannel();
+    if (!channel) return;
+    videoStateFor(channel.id).selected = id;
     if (ytPlayer && ytPlayer.loadVideoById) {
       ytPlayer.loadVideoById(id);
       setTimeout(function(){ try { ytPlayer.setPlaybackQuality("hd1080"); } catch(e){} }, 300);
@@ -1436,66 +1471,109 @@ body.map-overlay-open{overflow:hidden}
     document.querySelectorAll(".video-thumb[data-vid]").forEach(function(el){
       el.classList.toggle("active", el.dataset.vid === id);
     });
-    var watchLink = document.getElementById("videoWatchLink");
-    if (watchLink) watchLink.href = videoWatchUrl(id);
   }
   function onVideosScroll(){
     if (view.tab !== "videos") return;
-    if (videoState.loadingMore || videoState.exhausted || !videoState.cursor) return;
+    var channel = activeVideoChannel();
+    if (!channel) return;
+    var vstate = videoStateFor(channel.id);
+    if (vstate.loadingMore || vstate.exhausted || !vstate.cursor) return;
     if (window.scrollY + window.innerHeight < document.documentElement.scrollHeight - 800) return;
     loadMoreVideos();
   }
   function loadMoreVideos(){
-    videoState.loadingMore = true;
+    var channel = activeVideoChannel();
+    if (!channel) return;
+    var channelId = channel.id, vstate = videoStateFor(channelId);
+    vstate.loadingMore = true;
     var noteEl = document.getElementById("videoMoreNote");
-    if (noteEl) noteEl.innerHTML = videoMoreNoteHtml();
-    fetch("/api/latest-videos?channelId="+VIDEO_CHANNEL.channelId+"&cursor="+encodeURIComponent(videoState.cursor))
+    if (noteEl) noteEl.innerHTML = videoMoreNoteHtml(vstate, channel.name);
+    fetch("/api/latest-videos?channelId="+channelId+"&cursor="+encodeURIComponent(vstate.cursor))
       .then(function(r){ return r.json(); })
       .then(function(data){
-        videoState.loadingMore = false;
+        vstate.loadingMore = false;
         if (data && data.ids && data.ids.length){
-          var fresh = data.ids.filter(function(id){ return videoState.ids.indexOf(id) === -1; });
-          videoState.ids = videoState.ids.concat(fresh);
-          videoState.cursor = data.cursor || null;
-          if (!data.cursor) videoState.exhausted = true;
-          var grid = document.getElementById("videoGrid");
-          if (grid) grid.insertAdjacentHTML("beforeend", fresh.map(function(id){ return videoThumbHtml(id, false); }).join(''));
-          var favWrap = document.getElementById("videoFavRowWrap");
-          if (favWrap) favWrap.innerHTML = videoFavRowHtml();
+          var fresh = data.ids.filter(function(id){ return vstate.ids.indexOf(id) === -1; });
+          vstate.ids = vstate.ids.concat(fresh);
+          vstate.cursor = data.cursor || null;
+          if (!data.cursor) vstate.exhausted = true;
+          if (activeVideoChannel() && activeVideoChannel().id === channelId){
+            var grid = document.getElementById("videoGrid");
+            if (grid) grid.insertAdjacentHTML("beforeend", fresh.map(function(id){ return videoThumbHtml(id, false); }).join(''));
+            var favWrap = document.getElementById("videoFavRowWrap");
+            if (favWrap) favWrap.innerHTML = videoFavRowHtml(vstate);
+          }
         } else {
-          videoState.exhausted = true;
+          vstate.exhausted = true;
         }
-        var note2 = document.getElementById("videoMoreNote");
-        if (note2) note2.innerHTML = videoMoreNoteHtml();
+        if (activeVideoChannel() && activeVideoChannel().id === channelId){
+          var note2 = document.getElementById("videoMoreNote");
+          if (note2) note2.innerHTML = videoMoreNoteHtml(vstate, channel.name);
+        }
       })
       .catch(function(){
-        videoState.loadingMore = false;
-        var note2 = document.getElementById("videoMoreNote");
-        if (note2) note2.innerHTML = videoMoreNoteHtml();
+        vstate.loadingMore = false;
+        if (activeVideoChannel() && activeVideoChannel().id === channelId){
+          var note2 = document.getElementById("videoMoreNote");
+          if (note2) note2.innerHTML = videoMoreNoteHtml(vstate, channel.name);
+        }
       });
   }
   function refreshVideos(){
-    videoState.loading = true;
-    videoState.exhausted = false;
+    var channel = activeVideoChannel();
+    if (!channel) return;
+    var channelId = channel.id, vstate = videoStateFor(channelId);
+    vstate.loading = true;
+    vstate.exhausted = false;
     if (view.tab === "videos") drawVideos();
-    fetch("/api/latest-videos?channelId="+VIDEO_CHANNEL.channelId)
+    fetch("/api/latest-videos?channelId="+channelId)
       .then(function(r){ return r.json(); })
       .then(function(data){
-        videoState.loading = false;
+        vstate.loading = false;
         if (data && data.ids && data.ids.length){
-          videoState.ids = data.ids; videoState.cursor = data.cursor || null;
-          videoState.selected = null; videoState.stale = false; videoState.error = "";
-          if (!data.cursor) videoState.exhausted = true;
+          vstate.ids = data.ids; vstate.cursor = data.cursor || null;
+          vstate.selected = null; vstate.stale = false; vstate.error = "";
+          if (!data.cursor) vstate.exhausted = true;
         } else {
-          videoState.error = (data && data.error) || "empty response";
+          vstate.error = (data && data.error) || "empty response";
         }
-        if (view.tab === "videos") drawVideos();
+        if (view.tab === "videos" && activeVideoChannel() && activeVideoChannel().id === channelId) drawVideos();
       })
       .catch(function(){
-        videoState.loading = false;
-        videoState.error = "offline?";
-        if (view.tab === "videos") drawVideos();
+        vstate.loading = false;
+        vstate.error = "offline?";
+        if (view.tab === "videos" && activeVideoChannel() && activeVideoChannel().id === channelId) drawVideos();
       });
+  }
+  function addVideoChannel(query){
+    var statusEl = document.getElementById("videoAddStatus");
+    if (!query) return;
+    if (statusEl) statusEl.textContent = "Looking that up…";
+    fetch("/api/resolve-channel?q="+encodeURIComponent(query))
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        if (!data || data.error || !data.channelId){
+          if (statusEl) statusEl.textContent = (data && data.error) || "Couldn’t find that channel.";
+          return;
+        }
+        var exists = (STATE.videoChannels || []).some(function(c){ return c.id === data.channelId; });
+        if (!exists) STATE.videoChannels.push({id: data.channelId, name: data.name});
+        STATE.activeVideoChannelId = data.channelId;
+        saveState();
+        drawVideos();
+      })
+      .catch(function(){
+        if (statusEl) statusEl.textContent = "Couldn’t reach YouTube.";
+      });
+  }
+  function removeVideoChannel(id){
+    var list = STATE.videoChannels || [];
+    if (list.length <= 1) return;
+    STATE.videoChannels = list.filter(function(c){ return c.id !== id; });
+    delete videoStateByChannel[id];
+    if (STATE.activeVideoChannelId === id) STATE.activeVideoChannelId = STATE.videoChannels[0].id;
+    saveState();
+    drawVideos();
   }
   // ---------- interactive map ----------
   // Same map as the Dragonwilds Wiki's own (MediaWiki:Gadget-maps.js): their
@@ -1819,6 +1897,12 @@ body.map-overlay-open{overflow:hidden}
     if (box) box.value = backupJSON();
   }
 
+  trackerEl.addEventListener("keydown", function(e){
+    if (e.key === "Enter" && e.target.id === "videoAddInput"){
+      e.preventDefault();
+      addVideoChannel(e.target.value.trim());
+    }
+  });
   trackerEl.addEventListener("change", function(e){
     if (e.target.id === "powerFilterOn"){
       STATE.powerFilterOn = e.target.checked;
@@ -1875,6 +1959,23 @@ body.map-overlay-open{overflow:hidden}
     var vidBtn = e.target.closest("[data-vid]");
     if (vidBtn){
       selectVideo(vidBtn.dataset.vid);
+      return;
+    }
+    var removeChBtn = e.target.closest("[data-remove-channel]");
+    if (removeChBtn){
+      removeVideoChannel(removeChBtn.dataset.removeChannel);
+      return;
+    }
+    var chBtn = e.target.closest("[data-channel]");
+    if (chBtn){
+      STATE.activeVideoChannelId = chBtn.dataset.channel;
+      saveState();
+      drawVideos();
+      return;
+    }
+    if (e.target.id === "videoAddBtn"){
+      var input = document.getElementById("videoAddInput");
+      if (input) addVideoChannel(input.value.trim());
       return;
     }
     var pwrBtn = e.target.closest("button[data-pwr]");

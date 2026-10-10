@@ -1266,6 +1266,7 @@ body.map-overlay-open{overflow:hidden}
     // guarantee you'll always get 1080p.
     return "https://www.youtube.com/embed/"+id+"?enablejsapi=1&playsinline=1&vq=hd1080";
   }
+  function videoWatchUrl(id){ return "https://www.youtube.com/watch?v="+encodeURIComponent(id); }
   function loadYouTubeIframeApi(){
     if (window.YT && window.YT.Player) { bindYouTubePlayer(); return; }
     if (document.getElementById("ytIframeApiScript")) return;
@@ -1332,6 +1333,7 @@ body.map-overlay-open{overflow:hidden}
       'title="'+esc(VIDEO_CHANNEL.name)+'" frameborder="0" '+
       'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '+
       'allowfullscreen loading="lazy"></iframe></div>'+
+      '<a class="video-channel-link" id="videoWatchLink" href="'+esc(videoWatchUrl(selectedId))+'" target="_blank" rel="noopener">▶ Watch this video on YouTube (full quality + picture-in-picture)</a>'+
       '<a class="video-channel-link" href="'+esc(VIDEO_CHANNEL.url)+'" target="_blank" rel="noopener">Open '+esc(VIDEO_CHANNEL.name)+' on YouTube ↗</a>'+
       '<div id="videoFavRowWrap">'+videoFavRowHtml()+'</div>'+
       '<div class="video-grid" id="videoGrid">'+videoGridHtml()+'</div>'+
@@ -1360,6 +1362,8 @@ body.map-overlay-open{overflow:hidden}
     document.querySelectorAll(".video-thumb[data-vid]").forEach(function(el){
       el.classList.toggle("active", el.dataset.vid === id);
     });
+    var watchLink = document.getElementById("videoWatchLink");
+    if (watchLink) watchLink.href = videoWatchUrl(id);
   }
   function onVideosScroll(){
     if (view.tab !== "videos") return;

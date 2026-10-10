@@ -1,0 +1,2954 @@
+[
+  {
+    "name": "Abyssal Ashes",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "The sinister remnants of an abyssal creature."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Abyssal Demon; Quantity: 3; Rarity: Always || Source: Abyssal Demon; Quantity: 3; Rarity: 75/100 || Source: Abyssal Demon; Quantity: 3; Rarity: 25/100"
+      }
+    ],
+    "description": "Abyssal ashes are dropped from killing the abyssal demon . They currently have no use.\n\n(Products)\nNone"
+  },
+  {
+    "name": "Abyssal Spine",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "The spine from a deceased abyssal demon."
+      },
+      {
+        "label": "Weight",
+        "value": "10"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Abysmal Whip; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Abyssal Spine 3 × Shrapnel 3 × Swamp Thread 3 × Adhesive 4 × Vault Shard || Product: 1 × Abyssal Demon Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Abyssal Spine 2 × Monstrous Fang"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Abyssal Demon; Quantity: 1; Rarity: 45/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 30"
+      }
+    ],
+    "description": "Abyssal spines are dropped from killing the abyssal demon and are a key material for players wishing to craft the abyssal whip . Players will need to bring this abyssal spine to a Dragonkin effigy at the Kletterbuja Kara vault in Bloodblight Swamp to receive the recipe to create the abyssal whip."
+  },
+  {
+    "name": "Adamantite Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Mined from adamantite deposits. It can be smelted into bars at a Blast Furnace."
+      },
+      {
+        "label": "Weight",
+        "value": "3.6"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Adamant Bar; Facility: Blast Furnace; XP: 40; Materials: 3 × Adamantite Ore 3 × Coal"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Adamantite Ore Node; Quantity: 1; Rarity: Always || Source: Moon Garou Pack; Quantity: 20; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 12"
+      }
+    ],
+    "description": "Adamantite ore is a basic Mining material mined from adamantite ore nodes , which can be found all over the Umbral Sands region. Three ores can be smelted along 3 pieces of coal in a blast furnace to produce adamant bars ."
+  },
+  {
+    "name": "Animal Bone",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A sturdy bone from a sizable creature."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Bone Club; Facility: Crafting Table; XP: 40; Materials: 8 × Animal Bone 6 × Ash Logs 4 × Leather || Product: 1 × Bone Dagger; Facility: Crafting Table; XP: 40; Materials: 4 × Small Animal Fang 4 × Animal Bone 2 × Coarse Thread || Product: 1 × Bone Pickaxe; Facility: Crafting Table; XP: 40; Materials: 8 × Animal Bone 6 × Ash Logs 4 × Leather || Product: 1 × Chieftain's Blade; Facility: Blacksmith's Bench; XP: 40; Materials: 10 × Bronze Bar 2 × Antler 2 × Animal Bone || Product: 1 × Ferocious Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Bone 1 × Harralander || Product: 1 × Ferocious Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Bone 1 × Harralander || Product: 1 × Garou Hanging Ornament 01; Facility: Build Menu; XP: 20; Materials: 4 × Animal Bone 2 × Coarse Thread || Product: 1 × Garou Hanging Ornament 02; Facility: Build Menu; XP: 20; Materials: 4 × Animal Bone 2 × Coarse Thread || Product: 1 × Garou Hanging Ornament 03; Facility: Build Menu; XP: 20; Materials: 4 × Animal Bone 2 × Coarse Thread || Product: 1 × Garou Hanging Ornament 04; Facility: Build Menu; XP: 20; Materials: 4 × Animal Bone 2 × Coarse Thread || Product: 1 × Garou Trophy 01; Facility: Build Menu; XP: 20; Materials: 6 × Animal Bone 3 × Coarse Thread || Product: 1 × Garou Trophy 02; Facility: Build Menu; XP: 20; Materials: 6 × Animal Bone 3 × Coarse Thread || Product: 1 × Garou Trophy 03; Facility: Build Menu; XP: 20; Materials: 6 × Animal Bone 3 × Coarse Thread || Product: 1 × Garou Trophy 04; Facility: Build Menu; XP: 20; Materials: 6 × Animal Bone 3 × Coarse Thread || Product: 1 × Garou Tusks 01; Facility: Build Menu; XP: 20; Materials: 24 × Animal Bone || Product: 1 × Garou Tusks 02; Facility: Build Menu; XP: 20; Materials: 3 × Animal Bone || Product: 1 × Garou Tusks 03; Facility: Build Menu; XP: 20; Materials: 3 × Animal Bone || Product: 1 × Goblin \"Swingslash\"; Facility: Crafting Table; XP: 40; Materials: 10 × Animal Bone 6 × Ash Logs 2 × Leather || Product: 1 × Grieving Moonstaff; Facility: Mystic Forge; XP: 40; Materials: 8 × Oak Logs 6 × Antler 2 × Animal Bone || Product: 1 × Leather Shield; Facility: Crafting Table; XP: 40; Materials: 10 × Leather 6 × Animal Bone || Product: 1 × Lougrim Memorial Shrine; Facility: Build Menu; XP: 20; Materials: 6 × Granite 4 × Animal Bone 2 × Clay Decoration 1 × Dragon Tooth || Product: 1 × Plant Cure; Facility: Stone Range; XP: 2; Materials: 2 × Weeds 1 × Animal Bone 1 × Clean Water || Product: 1 × Plant Cure; Facility: Cooking Range; XP: 2; Materials: 2 × Weeds 1 × Animal Bone 1 × Clean Water || Product: 1 × Reinforced Body; Facility: Crafting Table; XP: 40; Materials: 10 × Animal Bone 8 × Leather || Product: 1 × Reinforced Helmet; Facility: Crafting Table; XP: 40; Materials: 4 × Animal Bone 2 × Leather || ... and 10 more rows (table has 35 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Deer; Quantity: 2; Rarity: Always || Source: Cow; Quantity: 2; Rarity: Always || Source: Cow; Quantity: 2; Rarity: 50/100 || Source: Sheep; Quantity: 2; Rarity: Always || Source: Chest (Brynmoor); Quantity: 2–4; Rarity: 1/17.9 || Source: Chest (Fractured Plains); Quantity: 2–4; Rarity: 1/35.7 || Source: Chest (Whispering Swamp); Quantity: 2–4; Rarity: 1/15.9 || Source: Zombie Cow; Quantity: 1–3; Rarity: 50/100 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 2.43/100 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/100 || Source: Buried Treasure (Brynmoor); Quantity: 1–5; Rarity: 80/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 3"
+      }
+    ],
+    "description": "Animal bones are retrieved from killing animals such as cows , deer , and sheep . They can also be found on the ground in a cave in the Stormtouched Highlands . Players can also receive it by casting Bark To Bones on a tree. Upon receiving a bone for the first time, players can unlock the tannery and the stone range .\n\n(Item sources)\nAnimal bones can also be acquired using the Bark To Bones spell . It requires 10 nature runes and 10 earth runes to cast, and the spell must target a tree."
+  },
+  {
+    "name": "Animal Hide",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Gathered from big creatures, this hide is essential for crafting leather equipment."
+      },
+      {
+        "label": "Weight",
+        "value": "2.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Leather; Facility: Tannery; XP: 20; Materials: 1 × Animal Hide"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Deer; Quantity: 1; Rarity: Always || Source: Deer; Quantity: 1; Rarity: 20/100 || Source: Cow; Quantity: 2; Rarity: Always || Source: Cow; Quantity: 1; Rarity: 75/100 || Source: Wolf; Quantity: 2; Rarity: Always || Source: Wolf; Quantity: 1; Rarity: 50/100 || Source: Dire Wolf; Quantity: 4; Rarity: Always || Source: Dire Wolf; Quantity: 2; Rarity: 50/100 || Source: Ram; Quantity: 1; Rarity: Always || Source: Ram; Quantity: 1; Rarity: 50/100 || Source: Chest (Skeklac Kara); Quantity: 3–6; Rarity: 1/19 || Source: Chest (Takla Kara); Quantity: 3–6; Rarity: 1/19 || Source: Chest (Chaktan Kara); Quantity: 3–6; Rarity: 1/28.6 || Source: Chest (Kletterbuja Kara); Quantity: 3–6; Rarity: 1/19 || Source: Chest (Stormtouched Highlands); Quantity: 3–6; Rarity: 1/14.3 || Source: Chest (Fractured Plains); Quantity: 3–6; Rarity: 1/19 || Source: Chest (Bloodblight Swamp); Quantity: 3–6; Rarity: 1/14.3 || Source: Goat; Quantity: 1–2; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: 6; Price bought at: N/A"
+      }
+    ],
+    "description": "Animal hide is a basic item gathered from animals like cows , deer , and wolves . It can be put into the tannery to create leather ."
+  },
+  {
+    "name": "Antler",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A cartilaginous extension of a deer skull."
+      },
+      {
+        "label": "Weight",
+        "value": "1.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Arcane Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Antler 1 × Harralander || Product: 1 × Arcane Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Antler 1 × Harralander || Product: 1 × Chieftain's Blade; Facility: Blacksmith's Bench; XP: 40; Materials: 10 × Bronze Bar 2 × Antler 2 × Animal Bone || Product: 1 × Dragonbone Dagger; Facility: Blacksmith's Bench; XP: 40; Materials: 6 × Ram Horn 3 × Antler 1 × Hard Leather 4 × Vault Shard || Product: 1 × Grieving Moonstaff; Facility: Mystic Forge; XP: 40; Materials: 8 × Oak Logs 6 × Antler 2 × Animal Bone || Product: 1 × Hunter Stagbow; Facility: Fletching Bench; XP: 40; Materials: 18 × Antler 6 × Ram Horn 4 × Swamp Thread 4 × Jade 4 × Vault Shard || Product: 1 × Skullsplitter; Facility: Blacksmith's Bench; XP: 40; Materials: 6 × Bronze Bar 4 × Antler 4 × Oak Logs 2 × Hard Leather || Product: 1 × Weak Lumberjack Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Harralander 1 × Antler 1 × Clay Vessel || Product: 1 × Wild Scout's Shortbow; Facility: Fletching Bench; XP: 125; Materials: 10 × Oak Logs 2 × Antler 2 × Wool Thread 2 × Dwellberries"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Deer; Quantity: 1; Rarity: Always"
+      }
+    ],
+    "description": "Antlers are obtained by killing deer and are used in drinks, weapons , and armour ."
+  },
+  {
+    "name": "Ascension Core",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Used to upgrade Masterwork Weapons and Vestiges from a lower Power level to Power Level 4."
+      },
+      {
+        "label": "Weight",
+        "value": "0.3"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands . For most cores, players can gain core shards by killing mini-bosses (such as red dragons , green dragons , and blue dragons ).\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible ."
+  },
+  {
+    "name": "Ascension Shard",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Used to craft a Tier 4 Ascension Core"
+      },
+      {
+        "label": "Weight",
+        "value": "0.1"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Power Level 4",
+        "value": "Source: Velgar; Quantity: 30–40; Rarity: Always || Source: Abyssal Demon; Quantity: 12–19; Rarity: 40/100 || Source: Garou King; Quantity: 6–12; Rarity: 1/2"
+      },
+      {
+        "label": "Power Level 5",
+        "value": "Source: Imaru; Quantity: 30–40; Rarity: Always || Source: Green Dragon; Quantity: 15–20; Rarity: Always || Source: Zogre; Quantity: 12–19; Rarity: 20/100 || Source: Reward Pack: Fellhollow Gold; Quantity: 1–3; Rarity: 1/4 || Source: Reward Pack: Fellhollow Silver; Quantity: 1–2; Rarity: 1/20"
+      },
+      {
+        "label": "Power Level 6",
+        "value": "Source: Blue Dragon; Quantity: 15–20; Rarity: Always || Source: Black Knight Titan; Quantity: 20–30; Rarity: Always || Source: Ulgo the Zogre; Quantity: 12–19; Rarity: 20/100 || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1–3; Rarity: 1/4 || Source: Reward Pack: Dowdun Reach Silver; Quantity: 1–2; Rarity: 1/20"
+      },
+      {
+        "label": "Power Level 8",
+        "value": "Source: Black Dragon; Quantity: 8–12; Rarity: Always"
+      }
+    ],
+    "description": "Ascension shard is a basic item used to craft ascension cores , which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible .\n\n(Trivia)\n- During the release of Umbral Sands , players could obtain the Ascension Shard 7 from Lava Fields reward packs, which was not a intended reward, as the Ascension Core would be obtainable through the Nightmare Crucible However, even after the 1.0 release, the shard are still rewards of the agility course."
+  },
+  {
+    "name": "Black Dragon Hide",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 September 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Obtained from felling black dragons. Can be processed at the tannery."
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Black Dragon Leather; Facility: Advanced Tannery; XP: 20; Materials: 1 × Black Dragon Hide 1 × Dragon Blood 1 × Ground Rune Essence"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Black Dragon; Quantity: 10–12; Rarity: Always"
+      }
+    ],
+    "description": "Black dragon hide is a basic material dropped by Black dragons which can be tanned to create Black Dragon Leather .\n\n(Shop locations)\nThis item is not sold or bought in any shops."
+  },
+  {
+    "name": "Black Metal Scraps",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Dropped from Black Knights. Can be reforged into black metal at a Blast Furnace."
+      },
+      {
+        "label": "Weight",
+        "value": "0.8"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Arched Window Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Black Metal Scraps || Product: 1 × Barricade; Facility: Build Menu; XP: 12; Materials: 3 × Stone Block 1 × Black Metal Scraps || Product: 1 × Barricade End; Facility: Build Menu; XP: 12; Materials: 3 × Stone Block 1 × Black Metal Scraps || Product: 1 × Black Metal Bar; Facility: Blast Furnace; XP: 20; Materials: 6 × Black Metal Scraps 3 × Coal || Product: 1 × Blue Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Blue Standing Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Blue Wall-mounted Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 1 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Cross Slit Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Black Metal Scraps || Product: 1 × Dual Tall Slit Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Black Metal Scraps || Product: 1 × Grated Floor; Facility: Build Menu; XP: 16; Materials: 2 × Black Metal Scraps 3 × Bronze Bar || Product: 1 × Green Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Green Standing Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Green Wall-mounted Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 1 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Medium Grated Floor; Facility: Build Menu; XP: 10; Materials: 2 × Black Metal Scraps 3 × Bronze Bar || Product: 1 × Narrow Arched Window Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Black Metal Scraps || Product: 1 × Narrow Cross Slit Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Black Metal Scraps || Product: 1 × Narrow Stone Inset Window Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Black Metal Scraps || Product: 1 × Narrow Tall Slit Wall; Facility: Build Menu; XP: 12; Materials: 4 × Stone Block 2 × Black Metal Scraps || Product: 1 × Purple Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Purple Standing Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Purple Wall-mounted Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 1 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Red Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Red Standing Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Red Wall-mounted Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 1 × Black Metal Scraps 2 × Coarse Animal Fur || ... and 5 more rows (table has 30 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Zamorakian Warrior Pack; Quantity: 1; Rarity: 40/100"
+      }
+    ],
+    "description": "Black metal scraps is dropped from Black Knights . Six scraps can be combined with three coal in a blast furnace to create one black metal bar . Alternatively, players can create different coloured chandeliers and torches ."
+  },
+  {
+    "name": "Black Salvage Pile",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Scraps that can be searched through. Little bits of Black Knight are in there."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × 30° Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × 30° Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × 45° Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × 45° Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × 60° Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × 60° Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Black Metal Bar; Facility: Blast Furnace; XP: 20; Materials: 9 × Black Salvage Pile 3 × Coal || Product: 1 × Horizontal Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Horizontal Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short 30° Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short 30° Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short 45° Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short 45° Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short 60° Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short 60° Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short Horizontal Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short Horizontal Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short Vertical Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Short Vertical Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Vertical Thick Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile || Product: 1 × Vertical Thin Beam; Facility: Build Menu; XP: 12; Materials: 2 × Willow Logs 1 × Black Salvage Pile"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Zamorakian Warrior Pack; Quantity: 1–2; Rarity: Always || Source: Zamorakian Mage Pack; Quantity: 1–2; Rarity: 10/100 || Source: Metal Salvage; Quantity: 2–5; Rarity: 5.56/100"
+      }
+    ],
+    "description": "Black salvage piles are drops from defeating Black Knights . Nine salvage piles can be combined with three coal in a blast furnace , to create one black metal bar ."
+  },
+  {
+    "name": "Blue Dragon Scale",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Obtained from felled lesser blue dragons. Can be ground into blue dragon dust."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 2 × Blue Dragon Scale Dust; Facility: Grindstone; XP: 0; Materials: 1 × Blue Dragon Scale"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Blue Dragon; Quantity: 5–8; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 24"
+      }
+    ],
+    "description": "Blue dragon scale is dropped from blue dragon . One scale can be ground into two blue dragon scale dust ."
+  },
+  {
+    "name": "Blurite Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "11 September 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A chunk of rare and unrefined blurite."
+      },
+      {
+        "label": "Weight",
+        "value": "1.7"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Blurite Bar; Facility: Furnace; XP: 10; Materials: 3 × Blurite Ore || Product: 1 × Medium Blurite Nugget; Facility: Build Menu; XP: 20; Materials: 3 × Blurite Ore || Product: 1 × Small Blurite Bin; Facility: Build Menu; XP: 20; Materials: 50 × Blurite Ore 4 × Ash Logs || Product: 1 × Small Blurite Nugget; Facility: Build Menu; XP: 20; Materials: 1 × Blurite Ore"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Blurite Ore Node; Quantity: 1; Rarity: Always"
+      }
+    ],
+    "description": "Blurite ore is a basic Mining material found by mining the blurite ore nodes in the Takla Kara vault . Players can smelt this ore in a furnace to make blurite bars ."
+  },
+  {
+    "name": "Bronze Salvage Pile",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Scraps that can be searched through. Seems like it's just a pile of bronze offcuts."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Bronze Bar; Facility: Furnace; XP: 5; Materials: 9 × Bronze Salvage Pile"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 2–5; Rarity: 5.56/100"
+      }
+    ],
+    "description": "Bronze salvage piles are a basic material, nine of them can be smelted in a furnace to create one bronze bar ."
+  },
+  {
+    "name": "Clay",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Essential for pottery and construction, dig it up from nearby water sources."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Brewing Cauldron; Facility: Build Menu; XP: 12; Materials: 16 × Ash Logs 6 × Coarse Thread 10 × Rune Essence 6 × Clay || Product: 1 × Clay Decoration (Unfired); Facility: Pottery Wheel; XP: 25; Materials: 3 × Clay || Product: 1 × Clay Mould (Unfired); Facility: Pottery Wheel; XP: 60; Materials: 3 × Clay || Product: 1 × Clay Vessel (Unfired); Facility: Pottery Wheel; XP: 60; Materials: 1 × Clay || Product: 1 × Cooking Range; Facility: Build Menu; XP: 12; Materials: 18 × Ash Plank 8 × Bronze Bar 20 × Stone 8 × Clay 10 × Fire Rune || Product: 1 × Furnace; Facility: Build Menu; XP: 12; Materials: 24 × Stone 8 × Clay 4 × Charcoal 10 × Fire Rune 8 × Vault Shard || Product: 5 × Ground Clay; Facility: Grindstone; XP: ?; Materials: 1 × Clay || Product: 1 × Kiln; Facility: Build Menu; XP: 12; Materials: 8 × Ash Logs 20 × Stone 6 × Clay 10 × Fire Rune || Product: 1 × Medium Clay Pile; Facility: Build Menu; XP: 20; Materials: 9 × Clay || Product: 1 × Pots on a Bench; Facility: Build Menu; XP: 20; Materials: 5 × Ash Logs 3 × Clay || Product: 1 × Small Clay Bin; Facility: Build Menu; XP: 20; Materials: 50 × Clay 4 × Ash Logs || Product: 1 × Small Clay Pile; Facility: Build Menu; XP: 20; Materials: 3 × Clay || Product: 1 × Weak Quarrymaster Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Harralander 1 × Clay 1 × Clay Vessel"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Clay Node; Quantity: 1–2; Rarity: Always || Source: Dragon Slayer Reward Pack; Quantity: 3; Rarity: Always || Source: Chest (Skeklac Kara); Quantity: 4–8; Rarity: 1/19 || Source: Chest (Takla Kara); Quantity: 4–8; Rarity: 1/19 || Source: Chest (Chaktan Kara); Quantity: 4–8; Rarity: 1/11.4 || Source: Chest (Kletterbuja Kara); Quantity: 4–8; Rarity: 1/28.6 || Source: Chest (Vertentis Kara); Quantity: 2–6; Rarity: 1/4 || Source: Chest (Stormtouched Highlands); Quantity: 4–8; Rarity: 1/8.2 || Source: Chest (Fractured Plains); Quantity: 4–8; Rarity: 1/19 || Source: Chest (Bloodblight Swamp); Quantity: 4–8; Rarity: 1/19 || Source: Chest (Whispering Swamp); Quantity: 2–6; Rarity: 1/4 || Source: Chest (Whispering Swamp); Quantity: 2–6; Rarity: 1/10 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/100 || Source: Chest (Dowdun Reach); Quantity: 2–6; Rarity: 4.25/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 6; Price bought at: 2"
+      }
+    ],
+    "description": "Clay is a basic Mining material that can be mined from clay nodes . It can be used at a pottery wheel to craft a variety of items, which must then be fired using a kiln . Note that clay can be worked directly, and does not need to be made into soft clay.\n\nReceiving clay from any source is required to unlock the pottery wheel , kiln , and brewing cauldron ."
+  },
+  {
+    "name": "Coarse Animal Fur",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "It's not much, but it'll keep you warm. Required to craft a basic bed."
+      },
+      {
+        "label": "Weight",
+        "value": "0.2"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Adventurer's Leggings; Facility: Crafting Table; XP: 20; Materials: 6 × Coarse Animal Fur || Product: 1 × Adventurer's Tunic; Facility: Crafting Table; XP: 20; Materials: 9 × Coarse Animal Fur || Product: 1 × Bed Roll; Facility: Build Menu; XP: 9; Materials: 3 × Ash Logs 3 × Coarse Animal Fur || Product: 1 × Blue Standing Torch; Facility: Build Menu; XP: 3; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Blue Standing Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Blue Torch; Facility: Crafting Table; XP: 20; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Blue Wall-mounted Torch; Facility: Build Menu; XP: 3; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Blue Wall-mounted Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 1 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Coarse Thread; Facility: Spinning Wheel; XP: 20; Materials: 3 × Coarse Animal Fur || Product: 1 × Focused Mining Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Irit 1 × Coarse Animal Fur 1 × Glass Vessel || Product: 1 × Fuel Pellet; Facility: Blacksmith Bench; XP: 0; Materials: 1 × Charcoal 1 × Adhesive 1 × Coarse Animal Fur || Product: 1 × Green Standing Torch; Facility: Build Menu; XP: 3; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Green Standing Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Green Torch; Facility: Crafting Table; XP: 20; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Green Wall-mounted Torch; Facility: Build Menu; XP: 3; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Green Wall-mounted Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 1 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Leggings Of Lightness; Facility: Crafting Table; XP: 20; Materials: 6 × Coarse Animal Fur 6 × Rune Essence || Product: 1 × Purple Standing Torch; Facility: Build Menu; XP: 3; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Purple Standing Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Purple Torch; Facility: Crafting Table; XP: 20; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Purple Wall-mounted Torch; Facility: Build Menu; XP: 3; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Purple Wall-mounted Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 1 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Red Standing Torch; Facility: Build Menu; XP: 3; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || Product: 1 × Red Standing Torch (Dowdun Reach); Facility: Build Menu; XP: 3; Materials: 2 × Black Metal Scraps 2 × Coarse Animal Fur || Product: 1 × Red Torch; Facility: Crafting Table; XP: 20; Materials: 1 × Ash Logs 1 × Coarse Animal Fur || ... and 9 more rows (table has 34 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Giant Rat; Quantity: 1; Rarity: Always || Source: Kebbit; Quantity: 1; Rarity: Always || Source: Rat King; Quantity: 3; Rarity: Always || Source: Bird Nest; Quantity: 1–2; Rarity: Always || Source: Chest (Skeklac Kara); Quantity: 3–6; Rarity: 1/19 || Source: Chest (Takla Kara); Quantity: 3–6; Rarity: 1/19 || Source: Chest (Chaktan Kara); Quantity: 3–6; Rarity: 1/28.6 || Source: Chest (Kletterbuja Kara); Quantity: 3–6; Rarity: 1/19 || Source: Chest (Brynmoor); Quantity: 3–9; Rarity: 1/17.9 || Source: Chest (Stormtouched Highlands); Quantity: 3–6; Rarity: 1/14.3 || Source: Chest (Fractured Plains); Quantity: 3–9; Rarity: 1/35.7 || Source: Chest (Fractured Plains); Quantity: 3–6; Rarity: 1/19 || Source: Chest (Bloodblight Swamp); Quantity: 3–6; Rarity: 1/14.3 || Source: Chest (Whispering Swamp); Quantity: 3–9; Rarity: 1/15.9 || Source: Rotridden Rat; Quantity: 1–3; Rarity: Always || Source: Zombie Pack; Quantity: 1–2; Rarity: 25/100 || Source: Skeleton Pack; Quantity: 1–2; Rarity: 25/100 || Source: Zombie Rat; Quantity: 1–3; Rarity: Always || Source: Desert Devil Kebbit; Quantity: 2–4; Rarity: Always || Source: Chest (Dowdun Reach); Quantity: 3–6; Rarity: 3.4/100 || Source: Chest (Dowdun Reach); Quantity: 3–9; Rarity: 2.43/100 || Source: Buried Treasure (Brynmoor); Quantity: 3–6; Rarity: 20/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 3"
+      }
+    ],
+    "description": "Coarse animal fur is a basic item gathered from killing kebbits and rats. Players can also receive 1-2 furs from bird nests . Players who receive coarse animal fur in their inventory for the first time unlocks the creation of the bedroll ."
+  },
+  {
+    "name": "Copper Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Mined from copper deposits. It can be smelted at a Furnace."
+      },
+      {
+        "label": "Weight",
+        "value": "2.3"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 2 × Bronze Bar; Facility: Furnace; XP: 5; Materials: 3 × Copper Ore 3 × Tin Ore || Product: 1 × Medium Copper Nugget; Facility: Build Menu; XP: 20; Materials: 3 × Copper Ore || Product: 1 × Small Copper Bin; Facility: Build Menu; XP: 20; Materials: 50 × Copper Ore 4 × Ash Logs || Product: 1 × Small Copper Nugget; Facility: Build Menu; XP: 20; Materials: 1 × Copper Ore"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Copper Ore Node; Quantity: 1; Rarity: Always || Source: Chest (Skeklac Kara); Quantity: 1–4; Rarity: 1/133.3 || Source: Chest (Takla Kara); Quantity: 1–4; Rarity: 1/133.3 || Source: Chest (Chaktan Kara); Quantity: 1–4; Rarity: 1/80 || Source: Chest (Kletterbuja Kara); Quantity: 1–4; Rarity: 1/200 || Source: Chest (Stormtouched Highlands); Quantity: 1–4; Rarity: 1/57.1 || Source: Chest (Fractured Plains); Quantity: 1–4; Rarity: 1/133.3 || Source: Chest (Bloodblight Swamp); Quantity: 1–4; Rarity: 1/133.3 || Source: Zombie Pack; Quantity: 1–2; Rarity: 10/100 || Source: Chest (Dowdun Reach); Quantity: 3–5; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 3–5; Rarity: 1/100 || Source: Garou Lightning Berserker; Quantity: 2–3; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 16; Price bought at: 4"
+      }
+    ],
+    "description": "Copper ore is a basic Mining material mined from copper ore nodes , which are mainly found in the Fractured Plains . It can be smelted at a furnace along with Tin to produce bronze bars ."
+  },
+  {
+    "name": "Corpse Cotton",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Drops from a volatile bulbous plant that explodes when hit. Can be spun at the spinning wheel to create fine thread."
+      },
+      {
+        "label": "Weight",
+        "value": "0.2"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Fine Thread; Facility: Spinning Wheel; XP: 20; Materials: 4 × Corpse Cotton"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Zogre; Quantity: 4–8; Rarity: Always || Source: Corpse Cotton Plant; Quantity: 5–7; Rarity: Always || Source: Corpse Cotton Plant (Farming); Quantity: 1; Rarity: Always || Source: Ulgo the Zogre; Quantity: 4–8; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Domri - The Merchant; Price sold at: 24; Price bought at: 8"
+      }
+    ],
+    "description": "Corpse cotton is a drop from zogres and corpse cotton plants which is used to create fine thread ."
+  },
+  {
+    "name": "Crucible Engram of Betrayal",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A key to a specific Nightmare Crucible."
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Red Dragon; Quantity: 1; Rarity: 1/400 || Source: Tok-Xil; Quantity: 1; Rarity: 1/400 || Source: Kalphite Queen; Quantity: 1; Rarity: 1/40 || Source: KotHaar-Xil; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Kal; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Ket; Quantity: 1; Rarity: 1/400 || Source: Kalphite Worker; Quantity: 1; Rarity: 1/400 || Source: Kalphite Soldier; Quantity: 1; Rarity: 1/400 || Source: Kalphite Guardian; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Hur; Quantity: 1; Rarity: 1/400 || Source: Chest (Umbral Sands); Quantity: 1; Rarity: 0.63/100"
+      }
+    ],
+    "description": "The crucible engram of betrayal is an item  that you can receive after  slaying several mini-bosses . The item is used to enter the Nightmare Crucible"
+  },
+  {
+    "name": "Crucible Engram of Helplessness",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A key to a specific Nightmare Crucible."
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Red Dragon; Quantity: 1; Rarity: 1/400 || Source: Tok-Xil; Quantity: 1; Rarity: 1/400 || Source: Kalphite Queen; Quantity: 1; Rarity: 1/40 || Source: KotHaar-Xil; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Kal; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Ket; Quantity: 1; Rarity: 1/400 || Source: Kalphite Worker; Quantity: 1; Rarity: 1/400 || Source: Kalphite Soldier; Quantity: 1; Rarity: 1/400 || Source: Kalphite Guardian; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Hur; Quantity: 1; Rarity: 1/400 || Source: Chest (Umbral Sands); Quantity: 1; Rarity: 0.63/100"
+      }
+    ],
+    "description": "The crucible engram of helplessness is an item  that you can receive after  slaying several mini-bosses . The item is used to enter the Nightmare Crucible"
+  },
+  {
+    "name": "Crucible Engram of Humiliation",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A key to a specific Nightmare Crucible."
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Red Dragon; Quantity: 1; Rarity: 1/400 || Source: Tok-Xil; Quantity: 1; Rarity: 1/400 || Source: Kalphite Queen; Quantity: 1; Rarity: 1/40 || Source: KotHaar-Xil; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Kal; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Ket; Quantity: 1; Rarity: 1/400 || Source: Kalphite Worker; Quantity: 1; Rarity: 1/400 || Source: Kalphite Soldier; Quantity: 1; Rarity: 1/400 || Source: Kalphite Guardian; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Hur; Quantity: 1; Rarity: 1/400 || Source: Chest (Umbral Sands); Quantity: 1; Rarity: 0.63/100"
+      }
+    ],
+    "description": "The crucible engram of humiliation is an item  that you can receive after  slaying several mini-bosses . The item is used to enter the Nightmare Crucible"
+  },
+  {
+    "name": "Crucible Engram of the Hounded",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A key to a specific Nightmare Crucible."
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Red Dragon; Quantity: 1; Rarity: 1/400 || Source: Tok-Xil; Quantity: 1; Rarity: 1/400 || Source: Kalphite Queen; Quantity: 1; Rarity: 1/40 || Source: KotHaar-Xil; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Kal; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Ket; Quantity: 1; Rarity: 1/400 || Source: Kalphite Worker; Quantity: 1; Rarity: 1/400 || Source: Kalphite Soldier; Quantity: 1; Rarity: 1/400 || Source: Kalphite Guardian; Quantity: 1; Rarity: 1/400 || Source: KotHaar-Hur; Quantity: 1; Rarity: 1/400 || Source: Chest (Umbral Sands); Quantity: 1; Rarity: 0.63/100"
+      }
+    ],
+    "description": "The crucible engram of the hounded is an item  that you can receive after  slaying several mini-bosses . The item is used to enter the Nightmare Crucible"
+  },
+  {
+    "name": "Desert Weed",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A hearty plant native to the region. Can be spun into a durable thread"
+      },
+      {
+        "label": "Weight",
+        "value": "0.4"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Desert Thread; Facility: Spinning Wheel; XP: 20; Materials: 3 × Desert Weed"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Desert Weed (plant); Quantity: 1–2; Rarity: Always || Source: Desert Weed (Farming); Quantity: 5; Rarity: Always"
+      }
+    ],
+    "description": "This article is about the resource. For the Plant itself, see Desert Weeds .\n\nDesert weed is a basic material gathered by picking up Desert Weeds located in the Umbral Sands region or by growing in any plot but grows best in a Yew Farming Plot ."
+  },
+  {
+    "name": "Diamond",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A rare and precious gem, coveted by jewelers."
+      },
+      {
+        "label": "Weight",
+        "value": "3.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 33 × Enchanted Rune Bolt; Facility: Fletching Bench; XP: 60; Materials: 33 × Rune Bolt 1 × Diamond 10 × Air Rune 15 × Astral Rune || Product: 1 × Maple Longbow; Facility: Fletching Bench; XP: 40; Materials: 16 × Maple Logs 8 × Mystic Thread 4 × Mithril Bar 4 × Diamond 32 × Infernal Fragment || Product: 1 × Maple Shortbow; Facility: Fletching Bench; XP: 40; Materials: 10 × Maple Logs 4 × Mystic Thread 2 × Mithril Bar 2 × Diamond 16 × Infernal Fragment || Product: 1 × Ring of Life; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Diamond 3 × Vault Shard || Product: 1 × Zamorak Staff; Facility: Mystic Forge; XP: 40; Materials: 10 × Black Metal Bar 10 × Cursed Leather 6 × Demonic Oil 4 × Diamond 64 × Infernal Fragment"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Zogre Pack; Quantity: 1; Rarity: Always || Source: Coal Node; Quantity: 1; Rarity: 2.5/100 || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Fellhollow Gold; Quantity: 1; Rarity: 1/50 || Source: Reward Pack: Umbral Sands Bronze; Quantity: 1; Rarity: 1/50"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 120"
+      }
+    ],
+    "description": "Diamond is a gemstone that can be obtained from mining coal nodes . It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining . It can be manually mined with an appropriate pickaxe or using the Rocksplosion spell .\n\n(Journal)\nDiamond does not have an associated journal. Click here to edit the journal section if it exists in the cache."
+  },
+  {
+    "name": "Dire Wolf Hide",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "The skin of a savage beast."
+      },
+      {
+        "label": "Weight",
+        "value": "4.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Dire Wolf Leather; Facility: Tannery; XP: 40; Materials: 1 × Dire Wolf Hide || Product: 1 × Garou Wall Pelt; Facility: Build Menu; XP: 20; Materials: 1 × Dire Wolf Hide"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Dire Wolf; Quantity: 2–4; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 12"
+      }
+    ],
+    "description": "Dire wolf hide is dropped from a dire wolf and can be crafted into dire wolf leather at the tannery .\n\n(Gallery (historical))\n- 15 April 2025 – 17 June 2025\n- 17 June 2025 – Present"
+  },
+  {
+    "name": "Draconic Leather Scraps",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Scruffy organic bits and pieces that can be combined to make draconic leather."
+      },
+      {
+        "label": "Weight",
+        "value": "0.6"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Draconic Leather; Facility: Tannery; XP: 40; Materials: 4 × Draconic Leather Scraps"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Zamorakian Warrior Pack; Quantity: 1–2; Rarity: 75/100 || Source: Leather Salvage; Quantity: 3–4; Rarity: 20/100 || Source: Chest (Umbral Sands); Quantity: 4–8; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 4–8; Rarity: 1.46/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 5"
+      }
+    ],
+    "description": "Draconic leather scraps are a basic material used to craft draconic leather at a tannery ."
+  },
+  {
+    "name": "Dragon Blood",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Harvested from dragons and dragonwolves. Used as a tanning agent at the tannery."
+      },
+      {
+        "label": "Weight",
+        "value": "0.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Black Dragon Leather; Facility: Advanced Tannery; XP: 20; Materials: 1 × Black Dragon Hide 1 × Dragon Blood 1 × Ground Rune Essence || Product: 1 × Draconic Leather; Facility: Tannery; XP: 40; Materials: 3 × Hard Leather 1 × Dragon Blood"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Green Dragon; Quantity: 8; Rarity: Always || Source: Dragon Wolf; Quantity: 2; Rarity: Always || Source: Doric's Superior Smithing Supplies; Quantity: 12; Rarity: Always || Source: Blue Dragon; Quantity: 8; Rarity: Always || Source: Blightscale; Quantity: 8; Rarity: Always || Source: Misc. Salvage; Quantity: 2–4; Rarity: 5.26/100 || Source: Red Dragon; Quantity: 8; Rarity: Always || Source: Black Dragon; Quantity: 6–12; Rarity: Always"
+      }
+    ],
+    "description": "Dragon blood is a drop from dragon wolves and dragons ."
+  },
+  {
+    "name": "Dragon Tooth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A piece of dragon tooth, extracted from a dragon skull found in the Highlands."
+      },
+      {
+        "label": "Weight",
+        "value": "5.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "25"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Black Dragon Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 3 × Black Dragon Leather 6 × Dragon Tooth || Product: 1 × Blue Dragon Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 3 × Blue Dragon Leather 6 × Dragon Tooth || Product: 1 × Challenge Horn; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Dragon Tooth 1 × Bloodwood Sap 5 × Bronze Bar || Product: 1 × Cooling Ferocious Infusion; Facility: Cooking Range; XP: 20; Materials: 1 × Cactus Water 1 × Dragon Tooth 1 × Toadflax || Product: 1 × Green Dragon Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 3 × Green Dragonhide Leather 6 × Dragon Tooth || Product: 1 × Ground Dragon Tooth; Facility: Grindstone; XP: 0; Materials: 1 × Dragon Tooth || Product: 1 × Keris; Facility: Blacksmith's Bench; XP: 250; Materials: 8 × Adamant Bar 6 × Dragon Tooth 3 × Desert Thread 2 × Gypsum Wax || Product: 1 × Lougrim Memorial Shrine; Facility: Build Menu; XP: 20; Materials: 6 × Granite 4 × Animal Bone 2 × Clay Decoration 1 × Dragon Tooth || Product: 1 × Lumberjack Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Irit 1 × Dragon Tooth 1 × Glass Vessel || Product: 1 × Red Dragon Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 3 × Red Dragonhide Leather 6 × Dragon Tooth"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Green Dragon; Quantity: 3–5; Rarity: Always || Source: Dragon's Tooth; Quantity: 1; Rarity: Always || Source: Blue Dragon; Quantity: 3–5; Rarity: Always || Source: Blightscale; Quantity: 3–5; Rarity: Always || Source: Red Dragon; Quantity: 3–5; Rarity: Always || Source: Black Dragon; Quantity: 6–12; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 16"
+      }
+    ],
+    "description": "Dragon teeth can be obtained either by mining teeth from the head of the dragon skull in the Stormtouched Highlands or by killing lesser dragons. It is one component of the challenge horn , which is used in the Dragon Slayer quest. Players will need to have an iron pickaxe to mine this item. Dragon teeth respawn after two in-game days, as long as the player is at least 100 metres away, and their built objects are not directly on the spawn area.\n\nBeyond the Ghornfell region, players can obtain this item as a mob drop from defeating lesser dragon mini-bosses.\n\n(Trivia)\n- This item is one of the few items in-game that is kept in the player's inventory after their death."
+  },
+  {
+    "name": "Dragonstone",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A rare and precious gem, coveted by jewelers."
+      },
+      {
+        "label": "Weight",
+        "value": "3.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Abyssal Whip; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Abysmal Whip 6 × Demonic Oil 6 × Scorch Leather 6 × Cursed Essence 4 × Dragonstone || Product: 1 × Adamant Crossbow; Facility: Fletching Bench; XP: 40; Materials: 16 × Yew Logs 6 × Desert Thread 1 × Adamant Crossbow Limbs 1 × Dragonstone 2 × Gypsum Wax || Product: 1 × Amulet of Glory; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Dragonstone 6 × Vault Shard || Product: 1 × Ancestral Staff; Facility: Mystic Forge; XP: 60; Materials: 12 × Magic Logs 6 × Harmonised Compound 2 × Vis Cloth 3 × Dragonstone 2 × Draconic Vis Wax || Product: 1 × Ancestral Wand; Facility: Mystic Forge; XP: 20; Materials: 8 × Magic Logs 5 × Harmonised Compound 2 × Vis Cloth 2 × Dragonstone 2 × Draconic Vis Wax || Product: 1 × Bow of Elidinis; Facility: Fletching Bench; XP: 100; Materials: 12 × Gold Bar 12 × Silver Bar 8 × Desert Thread 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Magic Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Magic Logs 3 × Rune Bar 6 × Vis Fibres 3 × Dragonstone 3 × Draconic Vis Wax || Product: 1 × Magic Shortbow; Facility: Fletching Bench; XP: 60; Materials: 7 × Magic Logs 2 × Rune Bar 3 × Vis Fibres 2 × Dragonstone 1 × Draconic Vis Wax || Product: 1 × Master Wand; Facility: Mystic Forge; XP: 20; Materials: 8 × Yew Logs 3 × Refined Obsidian 2 × Infinity Cloth 2 × Dragonstone 2 × Gypsum Wax || Product: 1 × Master's Staff; Facility: Mystic Forge; XP: 60; Materials: 16 × Yew Logs 6 × Refined Obsidian 4 × Infinity Cloth 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Pharaoh's Sceptre; Facility: Mystic Forge; XP: 60; Materials: 10 × Gold Bar 10 × Scorch Leather 32 × Shimmerscale Powder 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Rune Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Magic Logs 4 × Vis Fibres 1 × Rune Crossbow Limbs 1 × Dragonstone 1 × Draconic Vis Wax || Product: 1 × Skills Necklace; Facility: Jeweler's Bench; XP: 100; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Dragonstone 6 × Vault Shard || Product: 1 × Toktz-Mej-Tal; Facility: Mystic Forge; XP: 60; Materials: 22 × Refined Obsidian 4 × Dragonstone || Product: 1 × Yew Longbow; Facility: Fletching Bench; XP: 60; Materials: 16 × Yew Logs 4 × Adamant Bar 8 × Desert Thread 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Yew Shortbow; Facility: Fletching Bench; XP: 60; Materials: 10 × Yew Logs 2 × Adamant Bar 2 × Desert Thread 2 × Dragonstone 1 × Gypsum Wax"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Adamantite Ore Node; Quantity: 1; Rarity: 1/20 || Source: Reward Pack: Umbral Sands Gold; Quantity: 1; Rarity: 1/50 || Source: Runite Ore Node; Quantity: 1; Rarity: 1/20"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 140"
+      }
+    ],
+    "description": "Dragonstone is a gemstone obtained from mining adamant and runite ore nodes . It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining . It can be manually mined with an appropriate pickaxe or using the Rocksplosion spell ."
+  },
+  {
+    "name": "Ectoplasm",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Dropped from aggressive spirits or extracted from wither hearts. Used in crafting."
+      },
+      {
+        "label": "Weight",
+        "value": "0.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Recipe",
+        "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Withered Heart | 1 || Output | Quantity || Ectoplasm | 3"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 33 × Enchanted Steel Bolts; Facility: Fletching Bench; XP: 60; Materials: 33 × Steel Bolts 1 × Red Topaz 10 × Astral Rune 1 × Ectoplasm || Product: 1 × Fellhollow Spectral Magpie Perch; Facility: Build Menu; XP: 0; Materials: 4 × Willow Logs 2 × Irit Seeds 1 × Ectoplasm 3 × Feathers || Product: 1 × Mucher's Basket; Facility: Build Menu; XP: 0; Materials: 2 × Undead Bone 2 × Fine Cloth 2 × Willow Logs 2 × Ectoplasm || Product: 1 × Muncher's Basket; Facility: Build Menu; XP: 20; Materials: 2 × Undead Bone 2 × Fine Cloth 2 × Willow Logs 2 × Ectoplasm || Product: 1 × Sacred Oil; Facility: Brewing Cauldron; XP: 20; Materials: 3 × Ectoplasm 3 × Necrotic Bonemeal 1 × Clay Vessel || Product: 1 × Shroud of Noggin; Facility: Crafting Table; XP: 40; Materials: 1 × Zombie Pack 8 × Ectoplasm 3 × Fine Thread || Product: 1 × Spectral Book; Facility: Build Menu; XP: 20; Materials: 5 × Ectoplasm || Product: 1 × Spooky Bait; Facility: Crafting Table; XP: 20; Materials: 1 × Ectoplasm 1 × Feathers"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Lost Soul; Quantity: 1; Rarity: Always || Source: Ghost Wolf; Quantity: 1; Rarity: Always || Source: Soulstone Sentinel; Quantity: 1; Rarity: 25/100 || Source: Nature Spirit; Quantity: 1; Rarity: Always || Source: Spectral Bird; Quantity: 1; Rarity: Uncommon || Source: Misc. Salvage; Quantity: 8–12; Rarity: 5.26/100"
+      }
+    ],
+    "description": "Ectoplasm is a basic material dropped by Spirits such as lost souls or acquired by processing one withered heart in a kiln for a yield of three. It may be beneficial for players to kill lost souls instead of rotsworn enemies because the beginning stages of being Soul Rifted include power level 2 lost souls spawning instead of power level 5 rotsworn skeletons, making it easier to receive ectoplasm. If going this route, quickly escape out of the soul rift by being near a Purification Pool whilst in the soul rift process."
+  },
+  {
+    "name": "Elder Curiosities",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Obsidian curiosities that feel pleasing in the hand. Can be ground and smelted into pure obsidian."
+      },
+      {
+        "label": "Weight",
+        "value": "0.3"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Kot Pack; Quantity: 1–3; Rarity: Always || Source: Chest (Umbral Sands); Quantity: 2–4; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 2–4; Rarity: 1.46/100"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Ground Obsidian; Facility: Grindstone; XP: 20; Materials: 1 × Elder Curiosities"
+      }
+    ],
+    "description": "Elder curiosities is a basic item obtained from kot packs dropped by KotHaar sentinels or from chests found in Umbral Sands . It can be processed into ground obsidian at a grindstone ."
+  },
+  {
+    "name": "Feathers",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Gathered from avian creatures and nests. Feathers are used to fletch arrows."
+      },
+      {
+        "label": "Weight",
+        "value": "0.1"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 33 × Adamant Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Adamant Bar 1 × Yew Logs 1 × Feathers || Product: 33 × Adamant Bolt; Facility: Fletching Bench; XP: 40; Materials: 1 × Adamant Bar 1 × Feathers || Product: 1 × Animated Feather; Facility: Crafting Table; XP: 20; Materials: 1 × Feathers 1 × Infernal Fragment 1 × Mystic Fibres || Product: 33 × Blurite Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Blurite Bar 3 × Feathers || Product: 1 × Bramblemead Magpie Perch; Facility: Build Menu; XP: 0; Materials: 4 × Ash Logs 2 × Ash Tree Seed 1 × Raw Bird Meat 3 × Feathers || Product: 33 × Bronze Arrow; Facility: Fletching Bench; XP: 60; Materials: 1 × Bronze Bar 2 × Ash Logs 1 × Feathers || Product: 33 × Bronze Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Bronze Bar 3 × Feathers || Product: 1 × Brynmoor Falcon Perch; Facility: Build Menu; XP: 0; Materials: 4 × Oak Logs 2 × Kwuarm Seeds 1 × Raw Bird Meat 3 × Feathers || Product: 1 × Dowdun Raven Perch; Facility: Build Menu; XP: 0; Materials: 4 × Maple Logs 2 × Maple Tree Seed 1 × Burnt Fillet 3 × Feathers || Product: 33 × Fang Arrow; Facility: Crafting Table; XP: 40; Materials: 1 × Small Animal Fang 2 × Ash Logs 1 × Feathers || Product: 1 × Feather Bait; Facility: Crafting Table; XP: 20; Materials: 1 × Feathers || Product: 1 × Feathered Lure; Facility: Crafting Table; XP: 20; Materials: 1 × Feathers 1 × Dwellberries || Product: 1 × Fellhollow Spectral Magpie Perch; Facility: Build Menu; XP: 0; Materials: 4 × Willow Logs 2 × Irit Seeds 1 × Ectoplasm 3 × Feathers || Product: 1 × Fleet-Footed Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Feathers || Product: 1 × Fleet-Footed Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Feathers || Product: 1 × Focused Runecrafting Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Irit 1 × Feathers 1 × Glass Vessel || Product: 33 × Iron Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Iron Bar 2 × Ash Logs 1 × Feathers || Product: 33 × Iron Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Iron Bar 3 × Feathers || Product: 1 × Kalphite Bait; Facility: Crafting Table; XP: 20; Materials: 1 × Feathers 1 × Desert Thread 1 × Kalphite Ichor || Product: 33 × Mithril Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Mithril Bar 2 × Ash Logs 1 × Feathers || Product: 33 × Mithril Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Mithril Bar 3 × Feathers || Product: 33 × Rune Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Rune Bar 1 × Magic Logs 1 × Feathers || Product: 33 × Rune Bolt; Facility: Fletching Bench; XP: 60; Materials: 1 × Rune Bar 1 × Feathers || Product: 1 × Spooky Bait; Facility: Crafting Table; XP: 20; Materials: 1 × Ectoplasm 1 × Feathers || Product: 33 × Steel Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Steel Bar 2 × Ash Logs 1 × Feathers || ... and 5 more rows (table has 30 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Chicken; Quantity: 1; Rarity: Always || Source: Terrorbird; Quantity: 3; Rarity: Always || Source: Terrorbird; Quantity: 3; Rarity: 50/100 || Source: Magpie; Quantity: 1; Rarity: Always || Source: Magpie; Quantity: 1; Rarity: 60/100 || Source: Gyrfalcon; Quantity: 1; Rarity: Always || Source: Gyrfalcon; Quantity: 1; Rarity: 60/100 || Source: Bird Nest; Quantity: 3–5; Rarity: Always || Source: Chest (Brynmoor); Quantity: 2–4; Rarity: 1/17.9 || Source: Chest (Fractured Plains); Quantity: 2–4; Rarity: 1/35.7 || Source: Chest (Whispering Swamp); Quantity: 2–4; Rarity: 1/15.9 || Source: Corrupted Raven; Quantity: 1; Rarity: Always || Source: Raven; Quantity: 1; Rarity: Always || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 2.43/100 || Source: Vulture; Quantity: 1; Rarity: Always || Source: Aggressive Terrorbird; Quantity: 4–5; Rarity: Always || Source: Aggressive Terrorbird; Quantity: 2–3; Rarity: 1/2"
+      }
+    ],
+    "description": "Feathers are obtained by killing birds, such as chickens and terrorbirds , and used to fletch arrows."
+  },
+  {
+    "name": "Fleece",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Raw sheepskin that can be processed into wool."
+      },
+      {
+        "label": "Weight",
+        "value": "3.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Wool Thread; Facility: Spinning Wheel; XP: 40; Materials: 1 × Fleece"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Sheep; Quantity: 2–3; Rarity: Always || Source: Ram; Quantity: 2–3; Rarity: Always || Source: Ram; Quantity: 1; Rarity: 75/100 || Source: Chest (Skeklac Kara); Quantity: 1; Rarity: 1/44.4 || Source: Chest (Takla Kara); Quantity: 1; Rarity: 1/44.4 || Source: Chest (Chaktan Kara); Quantity: 1; Rarity: 1/66.7 || Source: Chest (Kletterbuja Kara); Quantity: 1; Rarity: 1/44.4 || Source: Chest (Stormtouched Highlands); Quantity: 1; Rarity: 1/33.3 || Source: Chest (Fractured Plains); Quantity: 1; Rarity: 1/44.4 || Source: Chest (Bloodblight Swamp); Quantity: 1; Rarity: 1/33.3 || Source: Goat; Quantity: 1–2; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: 18; Price bought at: 6"
+      }
+    ],
+    "description": "Fleece is a basic material, gathered from killing rams and sheep ."
+  },
+  {
+    "name": "Garou Artefact",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "An object of garou origin that might hold value with local traders."
+      },
+      {
+        "label": "Weight",
+        "value": "1.5"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Lunar Garou Hat; Facility: Armour Bench; XP: 125; Materials: 3 × Garou Weave 2 × Infinity Cloth 1 × Garou Artefact 1 × Refined Obsidian 1 × Gypsum Wax || Product: 1 × Lunar Garou Robe Legs; Facility: Armour Bench; XP: 125; Materials: 6 × Garou Weave 4 × Infinity Cloth 2 × Garou Artefact 2 × Refined Obsidian 2 × Gypsum Wax || Product: 1 × Lunar Garou Robes; Facility: Armour Bench; XP: 125; Materials: 9 × Garou Weave 6 × Infinity Cloth 3 × Garou Artefact 3 × Refined Obsidian 3 × Gypsum Wax"
+      }
+    ],
+    "description": "Garou artefact is an item found in Umbral Sands . It can be sold to the merchants Domri , Beartach and Iasadair for 500 garou chits . Garou artefact can also be used to craft Lunar Robes .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)\n\n(Shop locations)\nThis item is not sold or bought in any shops."
+  },
+  {
+    "name": "Garou Chit",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A local currency favoured by garou traders."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "9999"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Artifact Salvage; Quantity: 150–350; Rarity: 20/100 || Source: Moon Garou Pack; Quantity: 300; Rarity: Always || Source: Moon Garou Pack; Quantity: 300; Rarity: Always || Source: Moon Garou Pack; Quantity: 300; Rarity: Always || Source: Chest (Umbral Sands); Quantity: 40–50; Rarity: 70/100 || Source: Chest (Umbral Sands); Quantity: 50–80; Rarity: 20/100 || Source: Chest (Umbral Sands); Quantity: 80–120; Rarity: 10/100 || Source: Reward Pack: Umbral Sands Gold; Quantity: 1–100; Rarity: 1/6.67 || Source: Reward Pack: Umbral Sands Silver; Quantity: 1–100; Rarity: 1/6.67"
+      }
+    ],
+    "description": "Garou chit are currency used by the Moon Garou in Umbral Sands .\n\n(Item sources)\nGarou chit can be found inside chests within the Umbral Sands region as well as from selling items to a garou merchant. Only a few items can be sold for chit, and the three available merchants have separate lists for what they will purchase from the player.\n\n(Strategy)\nWhen starting off, players can obtain a substantial amount of chits by completing the various side quests unlocked during the Umbral Sands main quest, Icthlarin's Little Helper .\n\nAn efficient way to farm garou chit after unlocking the appropriate merchants is to sell surplus materials with limited utility at this point in the player's progression, such as maple logs and coarse animal fur .\n\nOne of the most effective materials to sell is leather from dragons, as they have no further use beyond the few weapons and armour made from them: Each of the 5 green dragons drop 6-8 green dragon hide which can be processed into 12-16 green dragonhide leather worth 100 garou chit each, the 3 blue dragons drop 6-8 blue dragon hide which can be processed into 12-16 blue dragon leather worth 120 garou chit each, and the 5(ish) red dragons drop 6-8 red dragon hide which can be processed into 12-16 red dragonhide leather worth 140 garou chit each!\n\nThat's 18,720 to 24,960 garou chit for farming all of them, which can easily be done in a day, and once every four or five days! While farming for dragon's rare drops like the amulet of glory , this can be a substantial source of garou chit in the meantime. That's not to mention the dragon teeth and dragon blood as well as other drops that can also be used in other recipes or valuable items, such as cooling ferocious infusion and draconic leather .\n\nAnother efficient method involves completely clearing the north-westernmost area of the desert of kalphite eggs to harvest kalphite ichors . Clearing the entire zone, including the cave leading to the nearby kalphite queen , yields approximately 800 ichor, which can be sold to Iasadair for roughly 12,000 garou chit. Using a fast weapon such as keris or a hard-hitting crush weapon like an adamant warhammer or mace , together with an air enchantment speeds up the process considerably. The whole process takes about 20 minutes and can be done every day as the eggs respawn daily.\n\nAn additional way to farm garou chit for free is to purchase dragonwolf hide from Iasadair - The Merchant for 45 chit and make it into draconic leather and sell it back for 60 chit. This is also a decent way to gain Artisan experience.\n\n(Domri)\nDomri - The Merchant , within the Alcarrid garou settlement, will buy and sell the following items:\n\n(Beartach)\nBeartach - The Merchant , within the Manafem garou settlement, will buy and sell the following items:\n\n(Iasadair)\nIasadair - The Merchant , within the Uzzer garou settlement, will buy and sell the following items:"
+  },
+  {
+    "name": "Gold Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Mined from gold deposits. It can be smelted at a Furnace."
+      },
+      {
+        "label": "Weight",
+        "value": "2.6"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Gold Bar; Facility: Furnace; XP: 10; Materials: 3 × Gold Ore || Product: 1 × Medium Gold Nugget; Facility: Build Menu; XP: 20; Materials: 3 × Gold Ore || Product: 1 × Small Gold Bin; Facility: Build Menu; XP: 20; Materials: 50 × Gold Ore 4 × Ash Logs || Product: 1 × Small Gold Nugget; Facility: Build Menu; XP: 20; Materials: 1 × Gold Ore"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Gold Ore Node; Quantity: 1; Rarity: Always || Source: Zogre Pack; Quantity: 2–10; Rarity: Always || Source: Skeleton Pack; Quantity: 1–2; Rarity: 20/100 || Source: Metal Salvage; Quantity: 1–2; Rarity: 5.56/100 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 18; Price bought at: 6"
+      }
+    ],
+    "description": "Gold ore is a basic Mining material mined from Gold Ore Nodes , which can be mainly found in the Bloodblight Swamp . It can be smelted at a furnace to make gold bars ."
+  },
+  {
+    "name": "Gold Salvage Pile",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Scraps that can be searched through. All that glitters may not be gold."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Gold Bar; Facility: Furnace; XP: 10; Materials: 9 × Gold Salvage Pile"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 2–5; Rarity: 5.56/100"
+      }
+    ],
+    "description": "Gold salvage piles are a basic material, nine of them can be smelted in a furnace to create one gold bar ."
+  },
+  {
+    "name": "Greater Kalphite Wing",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Weight",
+        "value": "0.25"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Kalphite Guardian Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Kalphite Shell 2 × Greater Kalphite Wing || Product: 1 × Kalphite Queen Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Kalphite Shell 2 × Greater Kalphite Wing || Product: 3 × Shimmerscale Powder; Facility: Grindstone; XP: 40; Materials: 1 × Greater Kalphite Wing || Product: 1 × Winged Kalphite Queen Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Kalphite Shell 2 × Greater Kalphite Wing"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Kalphite Queen; Quantity: 2–4; Rarity: Always || Source: Kalphite Guardian; Quantity: 1; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 18"
+      }
+    ],
+    "description": "Greater kalphite wing is a basic item dropped by kalphite guardians and kalphite queens that can be processed at a grindstone into shimmerscale powder ."
+  },
+  {
+    "name": "Green Dragon Hide",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Obtained from felled Lesser Green Dragons. Can be processed at the Tannery."
+      },
+      {
+        "label": "Weight",
+        "value": "3.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 2 × Green Dragonhide Leather; Facility: Tannery; XP: 40; Materials: 1 × Green Dragon Hide"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Green Dragon; Quantity: 6–8; Rarity: Always || Source: Blightscale; Quantity: 6–8; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 25"
+      }
+    ],
+    "description": "Green dragon hide is a basic material dropped by green dragons which can be tanned to create green dragonhide leather ."
+  },
+  {
+    "name": "Gypsum",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Health",
+        "value": "450"
+      },
+      {
+        "label": "Description",
+        "value": "A crumbly stone unsuitable for building but, once ground, offers unique properties."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Ground Gypsum; Facility: Grindstone; XP: 40; Materials: 1 × Gypsum"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Gypsum Node; Quantity: 3–6; Rarity: Always || Source: Chest (Umbral Sands); Quantity: 3–6; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 3–6; Rarity: 1.46/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 5"
+      }
+    ],
+    "description": "Gypsum is a basic Mining material mined from gypsum nodes , found scattered across the Umbral Sands ."
+  },
+  {
+    "name": "Iron Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Mined from iron deposits. It can be smelted in a Furnace."
+      },
+      {
+        "label": "Weight",
+        "value": "3.6"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Iron Bar; Facility: Furnace; XP: 10; Materials: 3 × Iron Ore || Product: 1 × Medium Iron Nugget; Facility: Build Menu; XP: 20; Materials: 3 × Iron Ore || Product: 1 × Small Iron Bin; Facility: Build Menu; XP: 20; Materials: 50 × Iron Ore 4 × Ash Logs || Product: 1 × Small Iron Nugget; Facility: Build Menu; XP: 20; Materials: 1 × Iron Ore || Product: 1 × Steel Bar; Facility: Blast Furnace; XP: 15; Materials: 3 × Iron Ore 3 × Coal"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Iron Ore Node; Quantity: 1; Rarity: Always || Source: Zogre Pack; Quantity: 2–6; Rarity: Always || Source: Metal Salvage; Quantity: 1–2; Rarity: 5.56/100 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 18; Price bought at: 6"
+      }
+    ],
+    "description": "Iron ore is a basic Mining material that can be mined from iron ore nodes , which are mainly found all over the Stormtouched Highlands and Fellhollow . Three ores can be smelted in a furnace into an iron bar , or three can be combined with three coal in a blast furnace to create a steel bar ."
+  },
+  {
+    "name": "Iron Salvage Pile",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Scraps that can be searched through. There might be something of value in there."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Iron Bar; Facility: Furnace; XP: 10; Materials: 9 × Iron Salvage Pile"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 2–5; Rarity: 5.56/100"
+      }
+    ],
+    "description": "Iron salvage piles are a basic material, nine of them can be smelted in a furnace to create one iron bar ."
+  },
+  {
+    "name": "Kalphite Wing",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Weight",
+        "value": "0.25"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Kalphite Soldier Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Kalphite Shell 2 × Kalphite Wing || Product: 2 × Shimmerscale Powder; Facility: Grindstone; XP: 40; Materials: 1 × Kalphite Wing"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Kalphite Soldier; Quantity: 1; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 15"
+      }
+    ],
+    "description": "Kalphite wing is a basic item dropped by kalphite soldiers that can be processed at a grindstone into shimmerscale powder ."
+  },
+  {
+    "name": "Limestone",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Can be ground into ground limestone"
+      },
+      {
+        "label": "Weight",
+        "value": "1.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Ground Limestone; Facility: Grindstone; XP: 0; Materials: 1 × Limestone"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Limestone Rock; Quantity: 1–2; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 12; Price bought at: 4"
+      }
+    ],
+    "description": "Limestone is a basic Mining material mined from limestone rocks , found scattered across the Dowdun Reach region, typically beside bodies of water."
+  },
+  {
+    "name": "Magic Logs",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 September 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Cut from magic trees. Can be crafted into various equipment."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Ancestral Staff; Facility: Mystic Forge; XP: 60; Materials: 12 × Magic Logs 6 × Harmonised Compound 2 × Vis Cloth 3 × Dragonstone 2 × Draconic Vis Wax || Product: 1 × Ancestral Wand; Facility: Mystic Forge; XP: 20; Materials: 8 × Magic Logs 5 × Harmonised Compound 2 × Vis Cloth 2 × Dragonstone 2 × Draconic Vis Wax || Product: 1 × Magic Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Magic Logs 3 × Rune Bar 6 × Vis Fibres 3 × Dragonstone 3 × Draconic Vis Wax || Product: 1 × Magic Shortbow; Facility: Fletching Bench; XP: 60; Materials: 7 × Magic Logs 2 × Rune Bar 3 × Vis Fibres 2 × Dragonstone 1 × Draconic Vis Wax || Product: 33 × Rune Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Rune Bar 1 × Magic Logs 1 × Feathers || Product: 1 × Rune Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Magic Logs 4 × Vis Fibres 1 × Rune Crossbow Limbs 1 × Dragonstone 1 × Draconic Vis Wax || Product: 1 × Rune Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Rune Bar 3 × Magic Logs 4 × Black Dragon Leather 2 × Draconic Vis Wax || Product: 1 × Rune Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 6 × Magic Logs 3 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Pickaxe; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 4 × Magic Logs 3 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Spade; Facility: Blacksmith's Bench; XP: 50; Materials: 3 × Rune Bar 2 × Magic Logs 2 × Black Dragon Leather 1 × Draconic Vis Wax"
+      },
+      {
+        "label": "Item Sources",
+        "value": "Source: Magic Tree; Quantity: 1; Rarity: Always"
+      }
+    ],
+    "description": "Magic logs are obtained by chopping down Magic Trees , with a Rune Logging Axe or better."
+  },
+  {
+    "name": "Maple Sap",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Harvested from maple trees. An ingredient that can be cooked on a campfire."
+      },
+      {
+        "label": "Weight",
+        "value": "2.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "999"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Burnt Maple Syrup; Facility: Campfire; XP: 10; Materials: 1 × Maple Sap || Product: 1 × Burnt Maple Syrup; Facility: Grill; XP: 10; Materials: 1 × Maple Sap || Product: 1 × Maple Syrup; Facility: Campfire; XP: 10; Materials: 1 × Maple Sap || Product: 1 × Maple Syrup; Facility: Grill; XP: 10; Materials: 1 × Maple Sap"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Maple Tree; Quantity: 1; Rarity: 50/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Domri - The Merchant; Price sold at: 30; Price bought at: 10"
+      }
+    ],
+    "description": "Maple sap is a Power Level 4 basic material, which means it can be cooked at a campfire or grill into maple syrup starting at Cooking level 41, and not burnt into burnt maple syrup at level 50. It can be gathered from chopped maple trees ."
+  },
+  {
+    "name": "Mithril Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Mined from Mithril deposits. It can be smelted in a Furnace."
+      },
+      {
+        "label": "Weight",
+        "value": "4.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Mithril Bar; Facility: Blast Furnace; XP: 20; Materials: 3 × Mithril Ore 3 × Coal"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Mithril Ore Node; Quantity: 1; Rarity: Always || Source: Metal Salvage; Quantity: 1–2; Rarity: 5.56/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 30; Price bought at: 10"
+      }
+    ],
+    "description": "Mithril ore is a basic Mining material that can be mined from mithril ore nodes , which can be found all over the Dowdun Reach region and its underground areas. Three ores can be smelted along 3 pieces of coal in a blast furnace to produce mithril bars ."
+  },
+  {
+    "name": "Mithril Salvage Pile",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Scraps of mithril that can be smelted into more useful bars."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Mithril Bar; Facility: Blast Furnace; XP: 20; Materials: 9 × Mithril Salvage Pile 3 × Coal"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Zamorakian Warrior Pack; Quantity: 1–2; Rarity: 25/100 || Source: Metal Salvage; Quantity: 2–5; Rarity: 5.56/100"
+      }
+    ],
+    "description": "Mithril salvage piles are a basic material that can be combined with three coal in a blast furnace to create one mithril bar ."
+  },
+  {
+    "name": "Monstrous Fang",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Large fangs used in creating deadly weaponry."
+      },
+      {
+        "label": "Weight",
+        "value": "0.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Abyssal Demon Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Abyssal Spine 2 × Monstrous Fang"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Abyssal Demon; Quantity: 3; Rarity: Always || Source: Abyssal Demon; Quantity: 3; Rarity: 75/100 || Source: Abyssal Demon; Quantity: 3; Rarity: 25/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 12"
+      }
+    ],
+    "description": "Monstrous fangs are obtained by defeating an abyssal demon . There is currently no use for monstrous fangs."
+  },
+  {
+    "name": "Mystic Fibres",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Dropped by Zamorak magi [ sic ] . Can be spun into thread at a spinning wheel."
+      },
+      {
+        "label": "Weight",
+        "value": "0.6"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Animated Feather; Facility: Crafting Table; XP: 20; Materials: 1 × Feathers 1 × Infernal Fragment 1 × Mystic Fibres || Product: 1 × Mystic Thread; Facility: Spinning Wheel; XP: 40; Materials: 4 × Mystic Fibres"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Zamorakian Mage Pack; Quantity: 1–2; Rarity: Always || Source: Textile Salvage; Quantity: 3–4; Rarity: 16.67/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 8"
+      }
+    ],
+    "description": "Mystic fibres are found by opening Zamorakian mage pack and are used to create mystic thread ."
+  },
+  {
+    "name": "Obsidian Device",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "An obsidian object, useful as little more than a paperweight. Can be ground and then smelted into pure obsidian."
+      },
+      {
+        "label": "Weight",
+        "value": "0.3"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Kot Pack; Quantity: 1; Rarity: 20/100 || Source: Chest (Umbral Sands); Quantity: 1; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 1; Rarity: 1.46/100"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 3 × Ground Obsidian; Facility: Grindstone; XP: 20; Materials: 1 × Obsidian Device"
+      }
+    ],
+    "description": "Obsidian device is a basic item obtained from kot packs dropped by KotHaar sentinels or from chests found in Umbral Sands . It can be processed into ground obsidian at a grindstone ."
+  },
+  {
+    "name": "Primordial Heart",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "The heart of a nature spirit, you hunted this for Vannaka . He wants three of them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Nature Spirit; Quantity: 1; Rarity: Always"
+      }
+    ],
+    "description": "Primordial hearts are a quest item dropped by nature spirits and used in the quest The Wild Hunt . After the quest, three hearts can be turned in to Vannaka for 50 soul fragments ."
+  },
+  {
+    "name": "Ram Horn",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A large horn belonging to an animal. Used in crafting."
+      },
+      {
+        "label": "Weight",
+        "value": "2.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Dragonbone Dagger; Facility: Blacksmith's Bench; XP: 40; Materials: 6 × Ram Horn 3 × Antler 1 × Hard Leather 4 × Vault Shard || Product: 1 × Hunter Stagbow; Facility: Fletching Bench; XP: 40; Materials: 18 × Antler 6 × Ram Horn 4 × Swamp Thread 4 × Jade 4 × Vault Shard || Product: 1 × Iron Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Iron Bar 3 × Ram Horn 1 × Wool Thread 4 × Vault Shard || Product: 1 × Lesser Focused Attack Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Snapdragon 1 × Ram Horn 1 × Clay Vessel || Product: 1 × Lesser Lumberjack Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Toadflax 1 × Ram Horn 1 × Clay Vessel || Product: 1 × Loom Harness; Facility: Build Menu; XP: 15; Materials: 18 × Ash Plank 12 × Oak Logs 4 × Iron Bar 12 × Wool Thread 4 × Ram Horn || Product: 1 × Purified King's Token; Facility: Lougrim's Shrine; Skills: None; XP: None; Materials: 1 × Tainted King's Token 2 × Ram Horn 3 × Shocking Plant Bulb"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Ram; Quantity: 1; Rarity: Always || Source: Ram; Quantity: 1; Rarity: 75/100 || Source: Goat; Quantity: 1; Rarity: Always"
+      }
+    ],
+    "description": "Ram horns are dropped by rams , which are found in the Stormtouched Highlands . Two ram horns are required in the quest Dog Days ."
+  },
+  {
+    "name": "Red Dragon Hide",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Obtained from felling lesser red dragons. Can be processed at the tannery."
+      },
+      {
+        "label": "Weight",
+        "value": "1.2"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 2 × Red Dragonhide Leather; Facility: Tannery; XP: 40; Materials: 1 × Red Dragon Hide"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Red Dragon; Quantity: 6–8; Rarity: Always || Source: Moon Garou Pack; Quantity: 3; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 35"
+      }
+    ],
+    "description": "Red dragon hide is a basic material dropped by red dragons which can be tanned to create red dragonhide leather ."
+  },
+  {
+    "name": "Ruby",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 September 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A rare gemstone used to craft enchanted jewellery."
+      },
+      {
+        "label": "Weight",
+        "value": "3.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 33 × Enchanted Adamant Bolt; Facility: Fletching Bench; XP: 60; Materials: 33 × Adamant Bolt 1 × Ruby 10 × Astral Rune 15 × Fire Rune"
+      },
+      {
+        "label": "Item Sources",
+        "value": "Source: Mithril Ore Node; Quantity: 1; Rarity: 1/20"
+      }
+    ],
+    "description": "Ruby is a gemstone that can be obtained from mining Mithril Ore . It can be found if the player has unlocked the Gem Prospector perk at level 16 Mining . It can be manually mined with an appropriate pickaxe, either directly or by using the Rocksplosion spell , which also requires the appropriate pickaxe.\n\n(Shop locations)\nThis item is not sold or bought in any shops."
+  },
+  {
+    "name": "Runite Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 September 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Weight",
+        "value": "2.7"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Rune Bar; Facility: Blast Furnace; XP: 20; Materials: 3 × Runite Ore 3 × Luminite Ore"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Runite Ore Node; Quantity: 1; Rarity: Always"
+      }
+    ],
+    "description": "Runite ore is a basic Mining material mined from Runite Ore Nodes , which can be found all over the Scorned Wilderness region. Three ores can be smelted along 3 pieces of Luminite Ore in a blast furnace to produce Rune Bars ."
+  },
+  {
+    "name": "Sandstone",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A building material; can be ground into sand."
+      },
+      {
+        "label": "Weight",
+        "value": "1.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Barrel of Sandstone; Facility: Build Menu; XP: 20; Materials: 10 × Ash Logs 50 × Sandstone || Product: 5 × Ground Sandstone; Facility: Grindstone; XP: 0; Materials: 1 × Sandstone || Product: 1 × Lesser Focused Mining Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Clay Vessel 1 × Snapdragon 1 × Sandstone || Product: 1 × Medium Triangular Foundation; Facility: Build Menu; XP: 10; Materials: 2 × Sandstone 3 × Dirty Water 2 × Yew Plank || Product: 1 × Medium Triangular Foundation; Facility: Build Menu; XP: 10; Materials: 2 × Redberries 2 × Sandstone 3 × Dirty Water 2 × Yew Plank || Product: 1 × Medium Triangular Foundation; Facility: Build Menu; XP: 10; Materials: 2 × Flax 2 × Sandstone 3 × Dirty Water 2 × Yew Plank || Product: 1 × Super Compost Bin; Facility: Build Menu; Materials: 8 × Willow Logs 4 × Sandstone"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Sandstone Rock; Quantity: 10–16; Rarity: Always || Source: Chest (Skeklac Kara); Quantity: 3–6; Rarity: 1/133.3 || Source: Chest (Takla Kara); Quantity: 3–6; Rarity: 1/133.3 || Source: Chest (Chaktan Kara); Quantity: 3–6; Rarity: 1/80 || Source: Chest (Kletterbuja Kara); Quantity: 3–6; Rarity: 1/200 || Source: Chest (Stormtouched Highlands); Quantity: 3–6; Rarity: 1/57.1 || Source: Chest (Fractured Plains); Quantity: 3–6; Rarity: 1/133.3 || Source: Chest (Bloodblight Swamp); Quantity: 3–6; Rarity: 1/133.3"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 6; Price bought at: 2"
+      }
+    ],
+    "description": "Sandstone is a basic Mining material mined from sandstone rocks , found scattered across the Fractured Plains , Stormtouched Highlands , Dowdun Reach and Umbral Sands . Sandstone is used in construction, alongside Stone and granite ."
+  },
+  {
+    "name": "Shrapnel",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "11 September 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A collection of various sharp objects."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Abysmal Whip; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Abyssal Spine 3 × Shrapnel 3 × Swamp Thread 3 × Adhesive 4 × Vault Shard || Product: 1 × Cooling Relentless Infusion; Facility: Cooking Range; XP: 20; Materials: 1 × Cactus Water 1 × Shrapnel 1 × Toadflax || Product: 1 × Lesser Focused Woodcutting Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Snapdragon 1 × Shrapnel 1 × Clay Vessel || Product: 1 × Weapon Barbs; Facility: Blacksmith's Bench; XP: 60; Materials: 1 × Shrapnel 1 × Bronze Bar 1 × Adhesive"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Garou Hunter; Quantity: 1; Rarity: 1/4 || Source: Terrorbird; Quantity: 1; Rarity: 25/100 || Source: Chest (Umbral Sands); Quantity: 2–3; Rarity: 1/24 || Source: Chest (Umbral Sands); Quantity: 2–3; Rarity: 1.46/100 || Source: Chest (Dowdun Reach); Quantity: 1–2; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 1–2; Rarity: 1/100 || Source: Aggressive Terrorbird; Quantity: 2–4; Rarity: Always"
+      }
+    ],
+    "description": "Shrapnel can be found whilst killing terrorbirds and garou hunters found within the Fractured Plains ."
+  },
+  {
+    "name": "Silver Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A rare, precious ore. It can be smelted into silver bars at a furnace."
+      },
+      {
+        "label": "Weight",
+        "value": "2.4"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Medium Silver Nugget; Facility: Build Menu; XP: 20; Materials: 3 × Silver Ore || Product: 1 × Silver Bar; Facility: Furnace; XP: 5; Materials: 3 × Silver Ore || Product: 1 × Small Silver Bin; Facility: Build Menu; XP: 20; Materials: 50 × Silver Ore 4 × Ash Logs || Product: 1 × Small Silver Nugget; Facility: Build Menu; XP: 20; Materials: 1 × Silver Ore || Product: 1 × Zombie Arm; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Animal Bone 2 × Hard Leather 4 × Wild Anima 1 × Vault Shard 2 × Silver Ore 3 × Shocking Plant Bulb"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Silver Ore Node; Quantity: 1; Rarity: Always || Source: Zogre Pack; Quantity: 2–10; Rarity: Always || Source: Skeleton Pack; Quantity: 1–2; Rarity: 20/100 || Source: Metal Salvage; Quantity: 1–2; Rarity: 5.56/100 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 18; Price bought at: 6"
+      }
+    ],
+    "description": "Silver ore is a basic Mining material mined from silver ore nodes , which are mainly found in the Bloodblight Swamp . It can be smelted at a furnace to make silver bars ."
+  },
+  {
+    "name": "Silver Salvage Pile",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Scraps that can be searched through. Take a look inside."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Silver Bar; Facility: Furnace; XP: 5; Materials: 9 × Silver Salvage Pile"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 2–5; Rarity: 5.56/100"
+      }
+    ],
+    "description": "Silver salvage piles are a basic material, nine of them can be smelted in a furnace to create one silver bar ."
+  },
+  {
+    "name": "Small Animal Fang",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Sharp little teeth used in weaponry."
+      },
+      {
+        "label": "Weight",
+        "value": "0.25"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Bone Dagger; Facility: Crafting Table; XP: 40; Materials: 4 × Small Animal Fang 4 × Animal Bone 2 × Coarse Thread || Product: 1 × Bronze Dagger; Facility: Blacksmith's Bench; XP: 60; Materials: 6 × Bronze Bar 3 × Small Animal Fang 1 × Wool Thread || Product: 1 × Dragon Wolf Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Small Animal Fang 2 × Draconic Leather || Product: 1 × Evasive Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Small Animal Fang || Product: 1 × Evasive Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Small Animal Fang || Product: 33 × Fang Arrow; Facility: Crafting Table; XP: 40; Materials: 1 × Small Animal Fang 2 × Ash Logs 1 × Feathers || Product: 1 × Focused Attack Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Irit 1 × Small Animal Fang 1 × Glass Vessel || Product: 1 × Rotridden Rat Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Hard Leather 2 × Small Animal Fang || Product: 1 × Weak Focused Attack Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Small Animal Fang 1 × Clay Vessel || Product: 1 × Wolf Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Small Animal Fang 2 × Leather || Product: 1 × Zombie Rat Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Hard Leather 2 × Small Animal Fang"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Giant Rat; Quantity: 1; Rarity: Always || Source: Wolf; Quantity: 2; Rarity: Always || Source: Dire Wolf; Quantity: 4; Rarity: Always || Source: Putrid Rat; Quantity: 1; Rarity: Always || Source: Plague King; Quantity: 3; Rarity: Always || Source: Rat King; Quantity: 3; Rarity: Always || Source: Chest (Brynmoor); Quantity: 2–4; Rarity: 1/17.9 || Source: Chest (Fractured Plains); Quantity: 2–4; Rarity: 1/35.7 || Source: Chest (Whispering Swamp); Quantity: 2–4; Rarity: 1/15.9 || Source: Rotridden Rat; Quantity: 1–2; Rarity: Always || Source: Zombie Rat; Quantity: 1–2; Rarity: Always || Source: Chest (Dowdun Reach); Quantity: 1–3; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 3.4/100 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 2.43/100 || Source: Chest (Dowdun Reach); Quantity: 1–3; Rarity: 1/100 || Source: Buried Treasure (Brynmoor); Quantity: 2–4; Rarity: 20/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 2"
+      }
+    ],
+    "description": "Small animal fang is a basic item dropped by kebbits , rats , and wolves . Players can make fang arrows , evasive infusions , daggers , and potions with these fangs."
+  },
+  {
+    "name": "Spectral Chinchompa Skull",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 January 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A ghostly chinchompa skull. Vannaka is looking for these."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      }
+    ],
+    "description": "A spectral chinchompa skull is a quest item dropped by spectral chinchompa during the Things That Go Boom In The Night . Ten must be collected and handed to Vannaka to complete the quest."
+  },
+  {
+    "name": "Steel Salvage Pile",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": ".Scraps that can be searched through. It's the steel of the century."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Steel Bar; Facility: Blast Furnace; XP: 15; Materials: 9 × Steel Salvage Pile 3 × Coal"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 2–5; Rarity: 5.56/100"
+      }
+    ],
+    "description": "Steel salvage piles are a basic material that can be combined with three coal in a blast furnace to create one steel bar ."
+  },
+  {
+    "name": "Stone",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A basic building and crafting material."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Advanced Spinning Wheel; Facility: Build Menu; XP: 12; Materials: 12 × Ash Logs 4 × Flax 2 × Stone || Product: 1 × Armour Mannequin; Facility: Build Menu; XP: 40; Materials: 6 × Ash Logs 2 × Coarse Thread 4 × Stone || Product: 1 × Barrel of Stone; Facility: Build Menu; XP: 20; Materials: 10 × Ash Logs 50 × Stone || Product: 1 × Campfire; Facility: Build Menu; XP: 12; Materials: 4 × Ash Logs 4 × Stone || Product: 1 × Compost Bin; Facility: Build Menu; XP: 12; Materials: 8 × Ash Logs 4 × Stone || Product: 1 × Cooking Range; Facility: Build Menu; XP: 12; Materials: 18 × Ash Plank 8 × Bronze Bar 20 × Stone 8 × Clay 10 × Fire Rune || Product: 1 × Dragonkin Gargoyle 01; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Dragonkin Gargoyle 02; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Dragonkin Gargoyle 03; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Dragonkin Obelisk 01; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Dragonkin Obelisk 02; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Dragonkin Obelisk 03; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Dragonkin Statue 01; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Dragonkin Statue 02; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Furnace; Facility: Build Menu; XP: 12; Materials: 24 × Stone 8 × Clay 4 × Charcoal 10 × Fire Rune 8 × Vault Shard || Product: 1 × Grave 01; Facility: Build Menu; XP: 20; Materials: 20 × Stone || Product: 1 × Grave 02; Facility: Build Menu; XP: 20; Materials: 20 × Stone || Product: 1 × Grave 03; Facility: Build Menu; XP: 20; Materials: 19 × Stone || Product: 1 × Grave 04; Facility: Build Menu; XP: 20; Materials: 30 × Stone || Product: 1 × Grill; Facility: Build Menu; XP: 12; Materials: 12 × Ash Logs 4 × Stone 2 × Leather 6 × Fire Rune || Product: 1 × Grindstone; Facility: Build Menu; XP: 12; Materials: 18 × Stone 12 × Oak Logs 6 × Iron Bar 12 × Granite || Product: 5 × Ground Stone; Facility: Grindstone; XP: 0; Materials: 1 × Stone || Product: 1 × Headstone 01; Facility: Build Menu; XP: 20; Materials: 12 × Stone || Product: 1 × Headstone 02; Facility: Build Menu; XP: 20; Materials: 22 × Stone || Product: 1 × Kiln; Facility: Build Menu; XP: 12; Materials: 8 × Ash Logs 20 × Stone 6 × Clay 10 × Fire Rune || ... and 19 more rows (table has 44 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Vault Archon; Quantity: 5; Rarity: Always || Source: Vault Archon; Quantity: 5; Rarity: 25/100 || Source: Vault Guardian Hulk; Quantity: 5; Rarity: Always || Source: Vault Guardian Hulk; Quantity: 5; Rarity: 25/100 || Source: Vault Guardian Sentinel; Quantity: 15; Rarity: Always || Source: Vault Guardian Sentinel; Quantity: 15; Rarity: 25/100 || Source: Vault Overlord; Quantity: 15; Rarity: Always || Source: Vault Overlord; Quantity: 15; Rarity: 25/100 || Source: Stone Boulder; Quantity: 10–16; Rarity: Always || Source: Chest (Skeklac Kara); Quantity: 12–24; Rarity: 1/25 || Source: Chest (Skeklac Kara); Quantity: 12–24; Rarity: 1/13.3 || Source: Chest (Takla Kara); Quantity: 12–24; Rarity: 1/25 || Source: Chest (Takla Kara); Quantity: 12–24; Rarity: 1/13.3 || Source: Chest (Chaktan Kara); Quantity: 12–24; Rarity: 1/8 || Source: Chest (Kletterbuja Kara); Quantity: 12–24; Rarity: 1/20 || Source: Chest (Kletterbuja Kara); Quantity: 12–24; Rarity: 1/25 || Source: Chest (Vertentis Kara); Quantity: 12–24; Rarity: 1/10 || Source: Chest (Crasorak Kara); Quantity: 12–24; Rarity: 1/10 || Source: Chest (Thishepen Kara); Quantity: 12–24; Rarity: 1/10 || Source: Chest (Brynmoor); Quantity: 12–24; Rarity: 1/16.7 || Source: Chest (Stormtouched Highlands); Quantity: 12–24; Rarity: 1/5.7 || Source: Chest (Fractured Plains); Quantity: 12–24; Rarity: 1/33.3 || Source: Chest (Fractured Plains); Quantity: 12–24; Rarity: 1/13.3 || Source: Chest (Bloodblight Swamp); Quantity: 12–24; Rarity: 1/13.3 || Source: Chest (Whispering Swamp); Quantity: 12–24; Rarity: 1/14.8 || ... and 23 more rows (table has 48 total entries on the wiki page)"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 3; Price bought at: 1"
+      }
+    ],
+    "description": "Stone is a basic Mining material found all over Ashenfall and inside vaults . Stone can be mined or picked up from any regions. It's used in a wide variety of crafting, from building to item making. Receiving stone in the player's inventory for the first time will unlock the creation of the stone range and the kiln ."
+  },
+  {
+    "name": "Stunted Kalphite Wing",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Weight",
+        "value": "0.25"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Kalphite Worker Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Kalphite Shell 2 × Stunted Kalphite Wing || Product: 1 × Shimmerscale Powder; Facility: Grindstone; XP: 40; Materials: 1 × Stunted Kalphite Wing"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Kalphite Worker; Quantity: 1; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 12"
+      }
+    ],
+    "description": "Stunted kalphite wing is a basic item dropped by kalphite workers that can be processed at a grindstone into shimmerscale powder ."
+  },
+  {
+    "name": "Swamp Tar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "It's sticky!"
+      },
+      {
+        "label": "Weight",
+        "value": "2.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Adhesive; Facility: Kiln; XP: 20; Materials: 1 × Swamp Tar || Product: 1 × Blue Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Green Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Naptha; Facility: Brewing Cauldron; XP: 20; Materials: 1 × Swamp Tar 1 × Charcoal 1 × Clay Vessel || Product: 1 × Purple Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar || Product: 1 × Red Chandelier; Facility: Build Menu; XP: 3; Materials: 3 × Willow Logs 2 × Black Metal Scraps 2 × Swamp Tar"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Putrid Rat; Quantity: 1; Rarity: Always || Source: Plague King; Quantity: 3; Rarity: Always || Source: Chest (Vertentis Kara); Quantity: 2–6; Rarity: 1/1.3 || Source: Chest (Whispering Swamp); Quantity: 2–6; Rarity: 1/1.3 || Source: Chest (Whispering Swamp); Quantity: 2–6; Rarity: 1/3.3 || Source: Chest (Dowdun Reach); Quantity: 3–6; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 3–6; Rarity: 1/100 || Source: Chest (Dowdun Reach); Quantity: 2–6; Rarity: 12.75/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Domri - The Merchant; Price sold at: 12; Price bought at: N/A"
+      }
+    ],
+    "description": "Swamp tar is obtained by gathering from the ground in the Whispering Swamp , and is used inside a kiln to create adhesive ."
+  },
+  {
+    "name": "Tin Ore",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Mined from tin deposits. It can be smelted at a Furnace."
+      },
+      {
+        "label": "Weight",
+        "value": "2.2"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 2 × Bronze Bar; Facility: Furnace; XP: 5; Materials: 3 × Copper Ore 3 × Tin Ore || Product: 1 × Hanging Tools; Facility: Build Menu; XP: 20; Materials: 5 × Ash Logs 3 × Tin Ore 2 × Leather || Product: 1 × Medium Tin Nugget; Facility: Build Menu; XP: 20; Materials: 3 × Tin Ore || Product: 1 × Sawhorse; Facility: Build Menu; XP: 20; Materials: 6 × Ash Logs 2 × Tin Ore || Product: 1 × Small Tin Bin; Facility: Build Menu; XP: 20; Materials: 50 × Tin Ore 4 × Ash Logs || Product: 1 × Small Tin Nugget; Facility: Build Menu; XP: 20; Materials: 1 × Tin Ore"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Tin Ore Node; Quantity: 1; Rarity: Always || Source: Chest (Skeklac Kara); Quantity: 1–4; Rarity: 1/133.3 || Source: Chest (Takla Kara); Quantity: 1–4; Rarity: 1/133.3 || Source: Chest (Chaktan Kara); Quantity: 1–4; Rarity: 1/80 || Source: Chest (Kletterbuja Kara); Quantity: 1–4; Rarity: 1/200 || Source: Chest (Stormtouched Highlands); Quantity: 1–4; Rarity: 1/57.1 || Source: Chest (Fractured Plains); Quantity: 1–4; Rarity: 1/133.3 || Source: Chest (Bloodblight Swamp); Quantity: 1–4; Rarity: 1/133.3 || Source: Zombie Pack; Quantity: 1–2; Rarity: 10/100 || Source: Chest (Dowdun Reach); Quantity: 3–5; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 3–5; Rarity: 1/100 || Source: Garou Lightning Berserker; Quantity: 2–3; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: 12; Price bought at: 4"
+      }
+    ],
+    "description": "Tin ore is a basic Mining material mined from tin ore nodes , which are mainly found in the Fractured Plains . It can be smelted at a furnace along with Copper to produce bronze bars ."
+  },
+  {
+    "name": "Undead Bone",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Dropped from the restless dead. Use as a crafting material, or process at a grindstone."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 33 × Bone Bolts; Facility: Fletching Bench; XP: 60; Materials: 3 × Undead Bone || Product: 1 × Bone Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Undead Bone || Product: 1 × Fallen Hoplite's Aspis; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Steel Bar 12 × Undead Bone 4 × Draconic Leather 6 × Vault Shard || Product: 1 × Fallen Hoplite's Chest; Facility: Armour Bench; XP: 100; Materials: 10 × Steel Bar 12 × Undead Bone 8 × Draconic Leather 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Fallen Hoplite's Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Steel Bar 8 × Undead Bone 2 × Draconic Leather 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Fallen Hoplite's Tassets; Facility: Armour Bench; XP: 100; Materials: 6 × Steel Bar 8 × Undead Bone 6 × Draconic Leather 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Focused Farming Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Irit 1 × Undead Bone 1 × Glass Vessel || Product: 1 × Infinity Zogre Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 6 × Undead Bone 6 × Undead Meat 1 × Infinity Robe Hat || Product: 1 × Mucher's Basket; Facility: Build Menu; XP: 0; Materials: 2 × Undead Bone 2 × Fine Cloth 2 × Willow Logs 2 × Ectoplasm || Product: 1 × Muncher's Basket; Facility: Build Menu; XP: 20; Materials: 2 × Undead Bone 2 × Fine Cloth 2 × Willow Logs 2 × Ectoplasm || Product: 1 × Necromancer's Crown; Facility: Armour Bench; XP: 100; Materials: 6 × Undead Bone 2 × Fine Cloth 1 × Draconic Leather 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Necromancer's Robe Bottom; Facility: Armour Bench; XP: 100; Materials: 12 × Undead Bone 4 × Fine Cloth 2 × Draconic Leather 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Necromancer's Robe Top; Facility: Armour Bench; XP: 100; Materials: 16 × Undead Bone 8 × Fine Cloth 4 × Draconic Leather 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Necromancer's Staff; Facility: Mystic Forge; XP: 250; Materials: 24 × Undead Bone 6 × Sacred Oil 4 × Fine Thread 6 × Vault Shard || Product: 1 × Necrotic Bonemeal; Facility: Grindstone; XP: 0; Materials: 3 × Undead Bone || Product: 1 × Rotsworn Zombie Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Undead Bone 2 × Undead Meat || Product: 1 × Shadowscale Hood; Facility: Armour Bench; XP: 60; Materials: 4 × Draconic Leather 6 × Undead Bone 2 × Fine Cloth 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Skeleton Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 2 × Undead Bone || Product: 1 × Skeletons Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 12 × Undead Bone || Product: 1 × Steel Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Steel Bar 4 × Undead Bone 3 × Fine Thread 6 × Vault Shard || Product: 1 × Undead Ranger's Bow; Facility: Fletching Bench; XP: 60; Materials: 16 × Undead Bone 4 × Fine Thread 2 × Steel Bar 2 × Sapphire 6 × Vault Shard || Product: 1 × Undead Spade; Facility: Blacksmith's Bench; XP: 50; Materials: 4 × Steel Bar 4 × Undead Bone 2 × Willow Logs 2 × Draconic Leather || Product: 1 × Zogre Hand Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 3 × Undead Bone 3 × Undead Meat || Product: 1 × Zogre Trophy; Facility: Build Menu; XP: 0; Materials: 2 × Ash Plank 6 × Undead Bone 6 × Undead Meat"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Zombie Cow; Quantity: 1–3; Rarity: Always || Source: Skeletal Archer; Quantity: 1–2; Rarity: Always || Source: Zogre; Quantity: 4–8; Rarity: Always || Source: Zombie; Quantity: 1; Rarity: Always || Source: Skeletal Hoplite; Quantity: 1–2; Rarity: Always || Source: Rotsworn Warrior; Quantity: 1–2; Rarity: Always || Source: Rotsworn Marauder; Quantity: 1–2; Rarity: Always || Source: Skeletal Warrior; Quantity: 1–2; Rarity: Always || Source: Rotsworn Necromancer; Quantity: 1–2; Rarity: Always || Source: Skeletal Necromancer; Quantity: 1–2; Rarity: Always || Source: Skeletal Marauder; Quantity: 1–2; Rarity: Always || Source: Ulgo the Zogre; Quantity: 4–8; Rarity: Always || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/17 || Source: Chest (Dowdun Reach); Quantity: 2–4; Rarity: 1/100 || Source: Rotsworn Reanimator; Quantity: 2–3; Rarity: Always || Source: Skeletal Blightshot; Quantity: 2–3; Rarity: Always"
+      }
+    ],
+    "description": "Undead bones are drops from enemies in Fellhollow ."
+  },
+  {
+    "name": "Warped Feathers",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "29 July 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Beautiful feather used to power the Gyrhawk Amulet, which grants additional experience for exploration."
+      },
+      {
+        "label": "Weight",
+        "value": "0.1"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Agility Flag; Facility: Build Menu; XP: 60; Materials: 1 × Oak Logs 1 × Padded Cloth 1 × Warped Feathers || Product: 1 × Agility Orb; Facility: Build Menu; XP: 60; Materials: 1 × Wild Anima 1 × Warped Feathers 1 × Air Rune || Product: 1 × Gyrhawk Amulet; Facility: Crafting Table; XP: 0; Materials: 5 × Coarse Thread 8 × Warped Feathers"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Reward Pack: Brynmoor Gold; Quantity: 1–2; Rarity: Always || Source: Reward Pack: Ghornfell Gold; Quantity: 1–2; Rarity: Always || Source: Reward Pack: Brynmoor Bronze; Quantity: 1; Rarity: Always || Source: Reward Pack: Brynmoor Silver; Quantity: 1; Rarity: Always || Source: Reward Pack: Dowdun Reach Bronze; Quantity: 1; Rarity: Always || Source: Reward Pack: Dowdun Reach Gold; Quantity: 1–2; Rarity: Always || Source: Reward Pack: Dowdun Reach Silver; Quantity: 1; Rarity: Always || Source: Reward Pack: Fellhollow Bronze; Quantity: 1; Rarity: Always || Source: Reward Pack: Fellhollow Gold; Quantity: 1–2; Rarity: Always || Source: Reward Pack: Fellhollow Silver; Quantity: 1; Rarity: Always || Source: Reward Pack: Ghornfell Bronze; Quantity: 1; Rarity: Always || Source: Reward Pack: Ghornfell Silver; Quantity: 1; Rarity: Always || Source: Reward Pack: Umbral Sands Bronze; Quantity: 1; Rarity: Always || Source: Reward Pack: Umbral Sands Gold; Quantity: 1; Rarity: Always || Source: Reward Pack: Umbral Sands Silver; Quantity: 1; Rarity: Always"
+      }
+    ],
+    "description": "Warped feathers is a basic Agility material that can be found from Agility courses reward packs. Warped feathers can create the gyrhawk amulet along with coarse thread . However, players will need more feathers to charge the amulet to gain Agility experience whilst running, jumping, and dodging."
+  },
+  {
+    "name": "Weeds",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "A bunch of weeds."
+      },
+      {
+        "label": "Weight",
+        "value": "0.4"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Plant Cure; Facility: Stone Range; XP: 2; Materials: 2 × Weeds 1 × Animal Bone 1 × Clean Water || Product: 1 × Plant Cure; Facility: Cooking Range; XP: 2; Materials: 2 × Weeds 1 × Animal Bone 1 × Clean Water || Product: 1 × Weak Focused Farming Potion; Facility: Brewing Cauldron; XP: 0; Materials: 1 × Marrentil 1 × Weeds 1 × Clay Vessel"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Cow; Quantity: 2; Rarity: 15/100 || Source: Bird Nest; Quantity: 1; Rarity: 15/100 || Source: Zombie Cow; Quantity: 1; Rarity: 15/100 || Source: Rod Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Rod Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Rod Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Rod Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Rod Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Net Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Net Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Net Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Net Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Net Fishing Spot; Quantity: 1; Rarity: 70/100 || Source: Desert Devil Kebbit; Quantity: 1–3; Rarity: 15/100 || Source: Wild Ruby Vine; Quantity: 2; Rarity: Always || Source: Wild Ruby Vine; Quantity: 2; Rarity: 1/2"
+      }
+    ],
+    "description": "Weeds are a Farming item, dug from Farming patches when nothing is growing on them. Players will need a spade to harvest this item, and can place it into a compost bin to convert to compost ."
+  },
+  {
+    "name": "Withered Heart",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Material"
+      },
+      {
+        "label": "Description",
+        "value": "Dropped from withered enemies. Used as a crafting ingredient."
+      },
+      {
+        "label": "Weight",
+        "value": "1"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 3 × Ectoplasm; Facility: Kiln; XP: 20; Materials: 1 × Withered Heart"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Rotsworn Zombie; Quantity: 1; Rarity: Always || Source: Rotridden Rat; Quantity: 1; Rarity: Always || Source: Rotridden Rat; Quantity: 1; Rarity: Always || Source: Rotridden Cow; Quantity: 1; Rarity: Always || Source: Rotsworn Warrior; Quantity: 1; Rarity: Always || Source: Rotsworn Marauder; Quantity: 1; Rarity: Always || Source: Rotsworn Necromancer; Quantity: 1; Rarity: Always || Source: Rotsworn Reanimator; Quantity: 2–3; Rarity: Always"
+      }
+    ],
+    "description": "Withered heart is a drop from rotsworn creatures in Fellhollow , and can be converted to three ectoplasms in a kiln ."
+  },
+  {
+    "name": "Bronze Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Item"
+      },
+      {
+        "label": "Description",
+        "value": "A versatile crafting material, smelted from bars of copper and tin."
+      },
+      {
+        "label": "Weight",
+        "value": "4.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Armour Bench; Facility: Build Menu; XP: 12; Materials: 6 × Bronze Bar 20 × Ash Logs 8 × Coarse Thread 1 × Vault Core || Product: 1 × Blacksmith's Bench; Facility: Build Menu; XP: 12; Materials: 6 × Bronze Bar 20 × Ash Logs 8 × Coarse Thread 1 × Vault Core || Product: 33 × Bronze Arrow; Facility: Fletching Bench; XP: 60; Materials: 1 × Bronze Bar 2 × Ash Logs 1 × Feathers || Product: 1 × Bronze Bar (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Bronze Bar || Product: 33 × Bronze Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Bronze Bar 3 × Feathers || Product: 1 × Bronze Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Bronze Bar || Product: 1 × Bronze Dagger; Facility: Blacksmith's Bench; XP: 60; Materials: 6 × Bronze Bar 3 × Small Animal Fang 1 × Wool Thread || Product: 1 × Bronze Greatsword; Facility: Blacksmith's Bench; XP: 60; Materials: 10 × Bronze Bar 4 × Leather 2 × Wool Thread || Product: 1 × Bronze Helmet; Facility: Armour Bench; XP: 60; Materials: 4 × Bronze Bar 2 × Hard Leather 1 × Wool Thread || Product: 10 × Bronze Leaf; Facility: Jeweler's Bench; XP: 10; Materials: 1 × Bronze Bar || Product: 1 × Bronze Logging Axe; Facility: Blacksmith's Bench; XP: 60; Materials: 5 × Bronze Bar 4 × Ash Logs 2 × Coarse Thread || Product: 1 × Bronze Mace; Facility: Blacksmith's Bench; XP: 60; Materials: 8 × Bronze Bar 6 × Oak Logs 2 × Leather || Product: 1 × Bronze Med Helm; Facility: Armour Bench; XP: 60; Materials: 4 × Bronze Bar 2 × Hard Leather 1 × Wool Thread || Product: 1 × Bronze Pickaxe; Facility: Blacksmith's Bench; XP: 60; Materials: 5 × Bronze Bar 4 × Oak Logs 2 × Leather || Product: 1 × Bronze Platebody; Facility: Armour Bench; XP: 60; Materials: 10 × Bronze Bar 4 × Hard Leather 2 × Wool Thread || Product: 1 × Bronze Platelegs; Facility: Armour Bench; XP: 60; Materials: 6 × Bronze Bar 2 × Hard Leather 4 × Wool Thread || Product: 1 × Bronze Shield; Facility: Blacksmith's Bench; XP: 60; Materials: 8 × Bronze Bar 4 × Leather || Product: 1 × Bronze Spade; Facility: Blacksmith's Bench; Skills: None; XP: None; Materials: 4 × Bronze Bar 2 × Oak Logs 2 × Leather || Product: 1 × Bronze Sword; Facility: Blacksmith's Bench; XP: 60; Materials: 8 × Bronze Bar 4 × Leather 1 × Wool Thread || Product: 1 × Bronze Warhammer; Facility: Blacksmith's Bench; XP: 60; Materials: 12 × Bronze Bar 2 × Leather || Product: 1 × Bronze Watering Can; Facility: Blacksmith's Bench; Skills: None; XP: None; Materials: 6 × Bronze Bar 2 × Wool Cloth || Product: 1 × Challenge Horn; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Dragon Tooth 1 × Bloodwood Sap 5 × Bronze Bar || Product: 1 × Chieftain's Blade; Facility: Blacksmith's Bench; XP: 40; Materials: 10 × Bronze Bar 2 × Antler 2 × Animal Bone || Product: 1 × Cooking Range; Facility: Build Menu; XP: 12; Materials: 18 × Ash Plank 8 × Bronze Bar 20 × Stone 8 × Clay 10 × Fire Rune || Product: 1 × Crystal Bow; Facility: Fletching Bench; XP: 300; Materials: 18 × Opal 4 × Wool Thread 4 × Bronze Bar 4 × Anima-Infused Bark 8 × Vault Shard 1 × Vault Core || ... and 22 more rows (table has 47 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 1; Rarity: 5.56/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 12"
+      }
+    ],
+    "description": "A bronze bar is a material used to craft weapons and armour. It is created by smelting 3 copper ore and 3 tin ore at a furnace .\n\nReceiving the bronze bar in the player's inventory will unlock the following:"
+  },
+  {
+    "name": "Iron Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Processed Material"
+      },
+      {
+        "label": "Description",
+        "value": "A versatile metal used for crafting a wide range of durable items."
+      },
+      {
+        "label": "Weight",
+        "value": "4.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Ascension Core; Facility: Mystic Forge; XP: 40; Materials: 99 × Ascension Shard (Power Level 4) 10 × Iron Bar 10 × Dire Wolf Leather 10 × Padded Cloth || Product: 1 × Ava's Accumulator; Facility: Armour Bench; XP: 0; Materials: 4 × Padded Cloth 2 × Oak Logs 1 × Iron Bar 5 × Law Rune || Product: 1 × Blast Furnace; Facility: Build Menu; XP: 12; Materials: 12 × Granite 8 × Iron Bar 4 × Draconic Leather 10 × Fire Rune 2 × Vault Core || Product: 1 × Blightwood Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Blightwood 6 × Swamp Thread 4 × Iron Bar 4 × Jade 4 × Vault Shard || Product: 1 × Blightwood Shortbow; Facility: Fletching Bench; XP: 60; Materials: 8 × Blightwood 3 × Swamp Thread 1 × Iron Bar 1 × Jade 4 × Vault Shard || Product: 1 × Draconic Staff; Facility: Mystic Forge; XP: 40; Materials: 10 × Iron Bar 6 × Granite 4 × Jade 4 × Vault Shard || Product: 1 × Fishing Barrel; Facility: Build Menu; XP: 26; Materials: 10 × Oak Plank 2 × Iron Bar || Product: 1 × Grindstone; Facility: Build Menu; XP: 12; Materials: 18 × Stone 12 × Oak Logs 6 × Iron Bar 12 × Granite || Product: 33 × Iron Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Iron Bar 2 × Ash Logs 1 × Feathers || Product: 1 × Iron Bar (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Iron Bar || Product: 33 × Iron Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Iron Bar 3 × Feathers || Product: 1 × Iron Chest; Facility: Build Menu; XP: 62; Materials: 16 × Oak Plank 2 × Iron Bar 1 × Adhesive || Product: 1 × Iron Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Iron Bar || Product: 1 × Iron Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Iron Bar 3 × Ram Horn 1 × Wool Thread 4 × Vault Shard || Product: 1 × Iron Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Iron Bar 6 × Oak Logs 4 × Hard Leather 4 × Vault Shard || Product: 1 × Iron Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Iron Bar 4 × Hard Leather 2 × Wool Thread 4 × Vault Shard || Product: 1 × Iron Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Iron Bar 4 × Hard Leather 1 × Padded Cloth 1 × Vault Shard || Product: 1 × Iron Logging Axe; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Iron Bar 4 × Oak Logs 2 × Wool Thread || Product: 1 × Iron Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Iron Bar 8 × Oak Logs 4 × Hard Leather 4 × Vault Shard || Product: 1 × Iron Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Iron Bar 4 × Hard Leather 1 × Padded Cloth 1 × Vault Shard || Product: 1 × Iron Pickaxe; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Iron Bar 4 × Blightwood 2 × Hard Leather || Product: 1 × Iron Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Iron Bar 6 × Hard Leather 2 × Padded Cloth 3 × Vault Shard || Product: 1 × Iron Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Iron Bar 4 × Hard Leather 3 × Padded Cloth 2 × Vault Shard || Product: 1 × Iron Secateurs; Facility: Blacksmith's Bench; XP: 0; Materials: 2 × Iron Bar 2 × Padded Cloth || Product: 1 × Iron Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Iron Bar 4 × Hard Leather 4 × Vault Shard || ... and 15 more rows (table has 40 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Doric's Smithing Supplies; Quantity: 5–7; Rarity: Always || Source: Doric's Superior Smithing Supplies; Quantity: 4–8; Rarity: Always || Source: Metal Salvage; Quantity: 1; Rarity: 5.56/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 18"
+      }
+    ],
+    "description": "An iron bar is a component of a variety of armour and weapons."
+  },
+  {
+    "name": "Steel Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Processed Material"
+      },
+      {
+        "label": "Description",
+        "value": "Made by smelting coal and iron ore together. A primary ingredient for steel weapons, armour and tools."
+      },
+      {
+        "label": "Weight",
+        "value": "4.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Ascension Core; Facility: Mystic Forge; XP: 40; Materials: 99 × Ascension Shard (Power Level 5) 10 × Steel Bar 10 × Draconic Leather 10 × Fine Cloth || Product: 1 × Door; Facility: Build Menu; XP: 14; Materials: 2 × Oak Plank 1 × Steel Bar || Product: 1 × Door; Facility: Build Menu; XP: 14; Materials: 3 × Oak Plank 1 × Steel Bar || Product: 1 × Fallen Hoplite's Aspis; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Steel Bar 12 × Undead Bone 4 × Draconic Leather 6 × Vault Shard || Product: 1 × Fallen Hoplite's Chest; Facility: Armour Bench; XP: 100; Materials: 10 × Steel Bar 12 × Undead Bone 8 × Draconic Leather 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Fallen Hoplite's Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Steel Bar 8 × Undead Bone 2 × Draconic Leather 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Fallen Hoplite's Tassets; Facility: Armour Bench; XP: 100; Materials: 6 × Steel Bar 8 × Undead Bone 6 × Draconic Leather 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Green Dragonhide Body; Facility: Armour Bench; XP: 60; Materials: 12 × Green Dragonhide Leather 4 × Draconic Leather 4 × Steel Bar 3 × Sacred Oil 6 × Vault Shard || Product: 1 × Green Dragonhide Chaps; Facility: Armour Bench; XP: 60; Materials: 6 × Green Dragonhide Leather 4 × Draconic Leather 2 × Steel Bar 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Green Dragonhide Coif; Facility: Armour Bench; XP: 60; Materials: 4 × Green Dragonhide Leather 2 × Draconic Leather 1 × Steel Bar 1 × Sacred Oil 2 × Vault Shard || Product: 33 × Steel Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Steel Bar 2 × Ash Logs 1 × Feathers || Product: 33 × Steel Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Steel Bar 3 × Feathers || Product: 1 × Steel Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Steel Bar || Product: 1 × Steel Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Steel Bar 4 × Undead Bone 3 × Fine Thread 6 × Vault Shard || Product: 1 × Steel Full Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Steel Bar 4 × Draconic Leather 1 × Fine Cloth 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Steel Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Steel Bar 6 × Draconic Leather 5 × Willow Logs 6 × Vault Shard || Product: 1 × Steel Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Steel Bar 5 × Draconic Leather 4 × Fine Thread 6 × Vault Shard || Product: 1 × Steel Logging Axe; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Steel Bar 6 × Willow Logs 4 × Fine Thread || Product: 1 × Steel Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Steel Bar 4 × Draconic Leather 8 × Willow Logs 6 × Vault Shard || Product: 1 × Steel Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Steel Bar 4 × Draconic Leather 1 × Fine Cloth 1 × Sacred Oil 2 × Vault Shard || Product: 1 × Steel Pickaxe; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Steel Bar 6 × Willow Logs 4 × Draconic Leather || Product: 1 × Steel Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Steel Bar 6 × Draconic Leather 4 × Fine Cloth 3 × Sacred Oil 1 × Vault Shard || Product: 1 × Steel Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Steel Bar 4 × Draconic Leather 3 × Fine Cloth 2 × Sacred Oil 4 × Vault Shard || Product: 1 × Steel Scimitar; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Steel Bar 5 × Draconic Leather 2 × Fine Cloth 6 × Vault Shard || Product: 1 × Steel Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Steel Bar 4 × Draconic Leather 6 × Vault Shard || ... and 15 more rows (table has 40 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 1; Rarity: 5.56/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 36"
+      }
+    ],
+    "description": "A steel bar is a component of a variety of armour and weapons. Players must use either three iron ores or one iron bar along with three coal (with a fuel pellet ) in a blast furnace ."
+  },
+  {
+    "name": "Mithril Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Processed Material"
+      },
+      {
+        "label": "Description",
+        "value": "A versatile metal used for crafting weapons and armour."
+      },
+      {
+        "label": "Weight",
+        "value": "5.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Advanced Tannery; Facility: Build Menu; XP: 12; Materials: 12 × Yew Logs 4 × Mithril Bar 2 × Desert Thread || Product: 1 × Ascension Core; Facility: Mystic Forge; XP: 40; Materials: 99 × Ascension Shard (Power Level 6) 10 × Mithril Bar 10 × Cursed Leather 10 × Mystic Cloth || Product: 1 × Black Knight Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Black Metal Bar 2 × Mithril Bar 4 × Cursed Leather 1 × Mystic Cloth 1 × Demonic Oil || Product: 1 × Black Knight Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Black Metal Bar 2 × Mithril Bar 6 × Cursed Leather 4 × Mystic Cloth 3 × Demonic Oil || Product: 1 × Black Knight Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Black Metal Bar 2 × Mithril Bar 4 × Cursed Leather 2 × Mystic Cloth 2 × Demonic Oil || Product: 1 × Blue Dragonhide Body; Facility: Armour Bench; XP: 100; Materials: 12 × Blue Dragon Leather 4 × Cursed Leather 4 × Mithril Bar 3 × Demonic Oil || Product: 1 × Blue Dragonhide Chaps; Facility: Armour Bench; XP: 100; Materials: 6 × Blue Dragon Leather 4 × Cursed Leather 2 × Mithril Bar 2 × Demonic Oil || Product: 1 × Blue Dragonhide Coif; Facility: Armour Bench; XP: 100; Materials: 4 × Blue Dragon Leather 2 × Cursed Leather 1 × Mithril Bar 1 × Demonic Oil || Product: 1 × Maple Battlestaff; Facility: Mystic Forge; XP: 40; Materials: 16 × Maple Logs 6 × Mithril Bar 3 × Glass Vessel 16 × Infernal Fragment || Product: 1 × Maple Longbow; Facility: Fletching Bench; XP: 40; Materials: 16 × Maple Logs 8 × Mystic Thread 4 × Mithril Bar 4 × Diamond 32 × Infernal Fragment || Product: 1 × Maple Rod; Facility: Blacksmith's Bench; XP: 20; Materials: 1 × Maple Logs 1 × Mystic Thread 1 × Mithril Bar || Product: 1 × Maple Shortbow; Facility: Fletching Bench; XP: 40; Materials: 10 × Maple Logs 4 × Mystic Thread 2 × Mithril Bar 2 × Diamond 16 × Infernal Fragment || Product: 1 × Maple Wand; Facility: Mystic Forge; XP: 20; Materials: 8 × Maple Logs 3 × Mithril Bar 2 × Glass Vessel 8 × Infernal Fragment || Product: 33 × Mithril Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Mithril Bar 2 × Ash Logs 1 × Feathers || Product: 33 × Mithril Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Mithril Bar 3 × Feathers || Product: 1 × Mithril Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Mithril Bar || Product: 1 × Mithril Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Mithril Bar 3 × Cursed Leather 3 × Mystic Thread 18 × Infernal Fragment || Product: 1 × Mithril Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Mithril Bar 5 × Maple Logs 6 × Cursed Leather 32 × Infernal Fragment || Product: 1 × Mithril Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Mithril Bar 5 × Cursed Leather 4 × Mystic Thread 32 × Infernal Fragment || Product: 1 × Mithril Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Mithril Bar 4 × Cursed Leather 1 × Mystic Cloth 1 × Demonic Oil || Product: 1 × Mithril Logging Axe; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Mithril Bar 6 × Willow Logs 4 × Mystic Thread || Product: 1 × Mithril Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Mithril Bar 8 × Maple Logs 4 × Cursed Leather 16 × Infernal Fragment || Product: 1 × Mithril Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Mithril Bar 4 × Cursed Leather 1 × Mystic Cloth 1 × Demonic Oil || Product: 1 × Mithril Pickaxe; Facility: Blacksmith's Bench; XP: 60; Materials: 8 × Mithril Bar 6 × Maple Logs 4 × Cursed Leather || Product: 1 × Mithril Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Mithril Bar 6 × Cursed Leather 4 × Mystic Cloth 3 × Demonic Oil || ... and 6 more rows (table has 31 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 1; Rarity: 5.56/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 48"
+      }
+    ],
+    "description": "Mithril bars are a processed material created with three mithril ore (or nine mithril salvage piles ) and three coal inside a blast furnace ."
+  },
+  {
+    "name": "Adamant Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Processed Material"
+      },
+      {
+        "label": "Description",
+        "value": "A sturdy metal used for crafting weapons and armour."
+      },
+      {
+        "label": "Weight",
+        "value": "5.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Recipe",
+        "value": "Facility | Blast Furnace || Skill | Experience || Artisan | 40 || Material | Quantity || Adamantite Ore | 3 || Coal | 3 || Output | Quantity || Adamant Bar | 1"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 33 × Adamant Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Adamant Bar 1 × Yew Logs 1 × Feathers || Product: 33 × Adamant Bolt; Facility: Fletching Bench; XP: 40; Materials: 1 × Adamant Bar 1 × Feathers || Product: 1 × Adamant Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Adamant Bar || Product: 1 × Adamant Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Adamant Bar 6 × Kalphite Shell 3 × Desert Thread 2 × Gypsum Wax || Product: 1 × Adamant Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Adamant Bar 5 × Yew Logs 6 × Scorch Leather 4 × Gypsum Wax || Product: 1 × Adamant Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Adamant Bar 5 × Scorch Leather 4 × Desert Thread 4 × Gypsum Wax || Product: 1 × Adamant Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Adamant Bar 4 × Scorch Leather 1 × Desert Cloth 1 × Refined Obsidian 1 × Gypsum Wax 1 × Garou Weave || Product: 1 × Adamant Logging Axe; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Adamant Bar 6 × Maple Logs 4 × Desert Thread || Product: 1 × Adamant Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Adamant Bar 8 × Yew Logs 4 × Scorch Leather 2 × Gypsum Wax || Product: 1 × Adamant Med Helm; Facility: Armour Bench; XP: 100; Materials: 4 × Adamant Bar 4 × Scorch Leather 1 × Desert Cloth 1 × Refined Obsidian 1 × Gypsum Wax 1 × Garou Weave || Product: 1 × Adamant Pickaxe; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Adamant Bar 6 × Yew Logs 4 × Scorch Leather 1 × Gypsum Wax || Product: 1 × Adamant Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Adamant Bar 8 × Scorch Leather 3 × Desert Cloth 3 × Refined Obsidian 3 × Gypsum Wax 3 × Garou Weave || Product: 1 × Adamant Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Adamant Bar 6 × Scorch Leather 2 × Desert Cloth 2 × Refined Obsidian 2 × Gypsum Wax 2 × Garou Weave || Product: 1 × Adamant Scimitar; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Adamant Bar 5 × Scorch Leather 2 × Infinity Cloth 2 × Gypsum Wax || Product: 1 × Adamant Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Adamant Bar 4 × Scorch Leather 2 × Gypsum Wax || Product: 1 × Adamant Spade; Facility: Blacksmith's Bench; XP: 0; Materials: 4 × Adamant Bar 2 × Yew Logs 2 × Scorch Leather 1 × Gypsum Wax || Product: 1 × Adamant Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Adamant Bar 5 × Scorch Leather 3 × Desert Thread 2 × Gypsum Wax || Product: 1 × Adamant Warhammer; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Adamant Bar 3 × Scorch Leather 4 × Gypsum Wax || Product: 1 × Adamant Watering Can; Facility: Blacksmith's Bench; XP: 0; Materials: 6 × Adamant Bar 2 × Desert Cloth || Product: 1 × Door; Facility: Build Menu; XP: 14; Materials: 2 × Yew Plank 1 × Adamant Bar || Product: 1 × Door; Facility: Build Menu; XP: 14; Materials: 3 × Yew Plank 1 × Adamant Bar || Product: 1 × Infinity Robe Body; Facility: Armour Bench; XP: 100; Materials: 6 × Infinity Cloth 3 × Scorch Leather 3 × Adamant Bar 3 × Refined Obsidian 3 × Gypsum Wax 6 × Garou Weave || Product: 1 × Infinity Robe Hat; Facility: Armour Bench; XP: 100; Materials: 2 × Infinity Cloth 1 × Scorch Leather 1 × Adamant Bar 1 × Refined Obsidian 1 × Gypsum Wax 2 × Garou Weave || Product: 1 × Infinity Robe Legs; Facility: Armour Bench; XP: 100; Materials: 4 × Infinity Cloth 2 × Scorch Leather 2 × Adamant Bar 2 × Refined Obsidian 2 × Gypsum Wax 4 × Garou Weave || Product: 1 × Keris; Facility: Blacksmith's Bench; XP: 250; Materials: 8 × Adamant Bar 6 × Dragon Tooth 3 × Desert Thread 2 × Gypsum Wax || ... and 6 more rows (table has 31 total entries on the wiki page)"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 60"
+      }
+    ],
+    "description": "Adamant bars are a processed material created with three adamantite ore and three coal inside a blast furnace .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)\n\n(Trivia)\n- In both RuneScape and Old School RuneScape , adamant bar is created in different numbers. In RuneScape, the bar is created using 1 adamantite ore and 1 luminite (the replacement to coal). In RuneScape 's lore, adamantite is hard to form into an bar, even with coal. A replacement was found, luminite, which made it easier to turn the ore into a bar. As such, it is known to be smelt without luminite, but it would require very high temperature, which explains it needing a blast furnace. In Old School RuneScape , the bar is created needing 1 adamantite and 6 coals."
+  },
+  {
+    "name": "Rune Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 September 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Processed Material"
+      },
+      {
+        "label": "Description",
+        "value": "A magically resonant metal used for crafting weapons and armour."
+      },
+      {
+        "label": "Weight",
+        "value": "4.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Recipe",
+        "value": "Facility | Blast Furnace || Skill | Experience || Artisan | 20 || Material | Quantity || Runite Ore | 3 || Luminite Ore | 3 || Output | Quantity || Rune Bar | 1"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Ancestral Hat; Facility: Armour Bench; XP: 100; Materials: 1 × Vis Cloth 1 × Black Dragon Leather 1 × Rune Bar 1 × Harmonised Compound 1 × Draconic Vis Wax || Product: 1 × Ancestral Leggings; Facility: Armour Bench; XP: 100; Materials: 2 × Vis Cloth 2 × Black Dragon Leather 2 × Rune Bar 2 × Harmonised Compound 2 × Draconic Vis Wax || Product: 1 × Ancestral Robes; Facility: Armour Bench; XP: 100; Materials: 4 × Vis Cloth 2 × Black Dragon Leather 2 × Rune Bar 2 × Harmonised Compound 2 × Draconic Vis Wax || Product: 1 × Ascension Core; Facility: Mystic Forge; XP: 40; Materials: 99 × Ascension Shard (Power Level 8) 10 × Rune Bar 10 × Black Dragon Leather 10 × Vis Cloth || Product: 1 × Black Dragonhide Body; Facility: Armour Bench; XP: 100; Materials: 12 × Black Dragon Leather 3 × Rune Bar 2 × Harmonised Compound 2 × Draconic Vis Wax 4 × Vis Cloth || Product: 1 × Black Dragonhide Chaps; Facility: Armour Bench; XP: 100; Materials: 6 × Black Dragon Leather 1 × Rune Bar 1 × Harmonised Compound 1 × Draconic Vis Wax 2 × Vis Cloth || Product: 1 × Black Dragonhide Coif; Facility: Armour Bench; XP: 100; Materials: 4 × Black Dragon Leather 1 × Rune Bar 1 × Harmonised Compound 1 × Draconic Vis Wax 2 × Vis Cloth || Product: 1 × Magic Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Magic Logs 3 × Rune Bar 6 × Vis Fibres 3 × Dragonstone 3 × Draconic Vis Wax || Product: 1 × Magic Shortbow; Facility: Fletching Bench; XP: 60; Materials: 7 × Magic Logs 2 × Rune Bar 3 × Vis Fibres 2 × Dragonstone 1 × Draconic Vis Wax || Product: 33 × Rune Arrow; Facility: Fletching Bench; XP: 100; Materials: 1 × Rune Bar 1 × Magic Logs 1 × Feathers || Product: 33 × Rune Bolt; Facility: Fletching Bench; XP: 60; Materials: 1 × Rune Bar 1 × Feathers || Product: 1 × Rune Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 1 × Rune Bar || Product: 1 × Rune Dagger; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 4 × Harmonised Compound 2 × Vis Fibres 1 × Draconic Vis Wax || Product: 1 × Rune Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Rune Bar 3 × Magic Logs 4 × Black Dragon Leather 2 × Draconic Vis Wax || Product: 1 × Rune Greatsword; Facility: Blacksmith's Bench; XP: 100; Materials: 8 × Rune Bar 3 × Black Dragon Leather 2 × Vis Fibres 2 × Draconic Vis Wax || Product: 1 × Rune Helm; Facility: Armour Bench; XP: 100; Materials: 3 × Rune Bar 3 × Black Dragon Leather 1 × Vis Cloth 1 × Harmonised Compound 1 × Draconic Vis Wax || Product: 1 × Rune Logging Axe; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 6 × Yew Logs 2 × Vis Fibres || Product: 1 × Rune Mace; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 6 × Magic Logs 3 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Pickaxe; Facility: Blacksmith's Bench; XP: 100; Materials: 5 × Rune Bar 4 × Magic Logs 3 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Platebody; Facility: Armour Bench; XP: 100; Materials: 6 × Rune Bar 6 × Black Dragon Leather 2 × Vis Cloth 2 × Harmonised Compound 2 × Draconic Vis Wax || Product: 1 × Rune Platelegs; Facility: Armour Bench; XP: 100; Materials: 4 × Rune Bar 4 × Black Dragon Leather 1 × Vis Cloth 1 × Harmonised Compound 1 × Draconic Vis Wax || Product: 1 × Rune Scimitar; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Rune Bar 3 × Black Dragon Leather 1 × Vis Cloth 1 × Draconic Vis Wax || Product: 1 × Rune Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Rune Bar 3 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Spade; Facility: Blacksmith's Bench; XP: 50; Materials: 3 × Rune Bar 2 × Magic Logs 2 × Black Dragon Leather 1 × Draconic Vis Wax || Product: 1 × Rune Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 6 × Rune Bar 3 × Black Dragon Leather 2 × Vis Fibres 1 × Draconic Vis Wax || ... and 3 more rows (table has 28 total entries on the wiki page)"
+      }
+    ],
+    "description": "Rune bars are a processed material created with three Runite Ore and three Luminite Ore inside a blast furnace .\n\n(Trivia)\n- Rune bar lore and recipe required to make is completely based off RuneScape 's (RS3) version."
+  },
+  {
+    "name": "Black Metal Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Processed Material"
+      },
+      {
+        "label": "Description",
+        "value": "A bar of reforged black metal scraps. Used to make Black Knight gear."
+      },
+      {
+        "label": "Weight",
+        "value": "4.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Black Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Black Metal Bar || Product: 1 × Black Greataxe; Facility: Blacksmith's Bench; XP: 100; Materials: 16 × Black Metal Bar 5 × Maple Logs 6 × Cursed Leather 32 × Infernal Fragment || Product: 1 × Black Knight Helmet; Facility: Armour Bench; XP: 100; Materials: 4 × Black Metal Bar 2 × Mithril Bar 4 × Cursed Leather 1 × Mystic Cloth 1 × Demonic Oil || Product: 1 × Black Knight Platebody; Facility: Armour Bench; XP: 100; Materials: 10 × Black Metal Bar 2 × Mithril Bar 6 × Cursed Leather 4 × Mystic Cloth 3 × Demonic Oil || Product: 1 × Black Knight Platelegs; Facility: Armour Bench; XP: 100; Materials: 6 × Black Metal Bar 2 × Mithril Bar 4 × Cursed Leather 2 × Mystic Cloth 2 × Demonic Oil || Product: 1 × Black Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Black Metal Bar 4 × Cursed Leather 2 × Demonic Oil || Product: 1 × Black Sword; Facility: Blacksmith's Bench; XP: 100; Materials: 10 × Black Metal Bar 5 × Cursed Leather 4 × Mystic Thread 2 × Demonic Oil || Product: 1 × Shadow Body; Facility: Armour Bench; XP: 100; Materials: 12 × Cursed Leather 4 × Black Metal Bar 4 × Blue Dragon Leather 3 × Demonic Oil || Product: 1 × Shadow Chaps; Facility: Armour Bench; XP: 100; Materials: 8 × Black Metal Bar 4 × Cursed Leather 4 × Blue Dragon Leather 2 × Demonic Oil || Product: 1 × Shadow Cowl; Facility: Armour Bench; XP: 100; Materials: 4 × Black Metal Bar 1 × Cursed Leather 2 × Blue Dragon Leather 1 × Demonic Oil || Product: 1 × Titan's Wrath; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Black Metal Bar 5 × Blue Dragon Leather 4 × Mystic Cloth 64 × Infernal Fragment 1 × Broken Titan's Wrath || Product: 1 × Zamorak Hood; Facility: Armour Bench; XP: 40; Materials: 2 × Mystic Cloth 2 × Black Metal Bar 12 × Infernal Fragment 1 × Demonic Oil || Product: 1 × Zamorak Robe Legs; Facility: Armour Bench; XP: 40; Materials: 6 × Mystic Cloth 4 × Black Metal Bar 24 × Infernal Fragment 2 × Demonic Oil || Product: 1 × Zamorak Robes; Facility: Armour Bench; XP: 40; Materials: 8 × Mystic Cloth 6 × Black Metal Bar 32 × Infernal Fragment 3 × Demonic Oil || Product: 1 × Zamorak Staff; Facility: Mystic Forge; XP: 40; Materials: 10 × Black Metal Bar 10 × Cursed Leather 6 × Demonic Oil 4 × Diamond 64 × Infernal Fragment"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 1; Rarity: 5.56/100 || Source: Blazing Black Knight; Quantity: 1–2; Rarity: Always || Source: Black Knight Crusader; Quantity: 1–2; Rarity: Always"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 48"
+      }
+    ],
+    "description": "An black metal bar is a component of a variety of armour and weapons."
+  },
+  {
+    "name": "Gold Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Item"
+      },
+      {
+        "label": "Description",
+        "value": "A precious metal found in the deepest parts of Ghornfell; used for crafting valuable items."
+      },
+      {
+        "label": "Weight",
+        "value": "5.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Amulet of Accuracy; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Opal 6 × Vault Shard || Product: 1 × Amulet of Defence; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Jade 6 × Vault Shard || Product: 1 × Amulet of Glory; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Dragonstone 6 × Vault Shard || Product: 1 × Amulet of Magic; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Sapphire 6 × Vault Shard || Product: 1 × Amulet of Strength; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Red Topaz 6 × Vault Shard || Product: 1 × Bow of Elidinis; Facility: Fletching Bench; XP: 100; Materials: 12 × Gold Bar 12 × Silver Bar 8 × Desert Thread 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Dragonkin Mage Hood; Facility: Armour Bench; XP: 100; Materials: 3 × Hard Leather 2 × Padded Cloth 1 × Gold Bar 1 × Vault Shard || Product: 1 × Dragonkin Mage Robe Legs; Facility: Armour Bench; XP: 100; Materials: 6 × Hard Leather 4 × Padded Cloth 2 × Gold Bar 2 × Vault Shard || Product: 1 × Dragonkin Mage Robes; Facility: Armour Bench; XP: 100; Materials: 10 × Hard Leather 6 × Padded Cloth 4 × Gold Bar 3 × Vault Shard || Product: 1 × Fine Cloth; Facility: Loom; XP: 40; Materials: 3 × Fine Thread 1 × Gold Bar || Product: 1 × Gilded Paladin Chestpiece; Facility: Armour Bench; XP: 40; Materials: 10 × Gold Bar 6 × Hard Leather 2 × Padded Cloth 3 × Vault Shard || Product: 1 × Gilded Paladin Helmet; Facility: Armour Bench; XP: 40; Materials: 4 × Gold Bar 4 × Hard Leather 1 × Padded Cloth 1 × Vault Shard || Product: 1 × Gilded Paladin Legs; Facility: Armour Bench; XP: 40; Materials: 6 × Gold Bar 4 × Hard Leather 3 × Padded Cloth 2 × Vault Shard || Product: 1 × Gold Bar (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Gold Bar || Product: 10 × Gold Leaf; Facility: Jeweler's Bench; XP: 10; Materials: 1 × Gold Bar || Product: 1 × Inspiring Amulet of Attack; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Jade 6 × Vault Shard || Product: 1 × Inspiring Amulet of Magic; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Jade 6 × Vault Shard || Product: 1 × Inspiring Amulet of Ranged; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Jade 6 × Vault Shard || Product: 1 × Jeweler's Bench; Facility: Build Menu; XP: 15; Materials: 12 × Oak Plank 8 × Ground Sandstone 2 × Gold Bar 2 × Silver Bar 1 × Vault Core || Product: 1 × Large Gold Bar Pile; Facility: Build Menu; XP: 20; Materials: 20 × Gold Bar || Product: 1 × Lightning Rod; Facility: Build Menu; XP: 20; Materials: 6 × Iron Bar 3 × Gold Bar 2 × Vault Core 18 × Granite || Product: 1 × Pharaoh's Sceptre; Facility: Mystic Forge; XP: 60; Materials: 10 × Gold Bar 10 × Scorch Leather 32 × Shimmerscale Powder 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Ring of Life; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Diamond 3 × Vault Shard || Product: 1 × Ring of Recoil; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Sapphire 3 × Vault Shard || Product: 1 × Salve Amulet; Facility: Jeweler's Bench; Skills: None; XP: None; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 1 × Salve Crystal 6 × Vault Shard || ... and 6 more rows (table has 31 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 1; Rarity: 5.56/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 24"
+      }
+    ],
+    "description": "A gold bar is a component of making a variety of armour. Gold bars are used for making dragonkin mage and wild archer armour."
+  },
+  {
+    "name": "Silver Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Item"
+      },
+      {
+        "label": "Description",
+        "value": "A precious and rare metal used to craft enchanting jewellery."
+      },
+      {
+        "label": "Weight",
+        "value": "4.8"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Abraxus Ring; Facility: Jeweler's Bench; XP: 0; Materials: 6 × Vault Shard 1 × Clay Mould 2 × Silver Bar 2 × Sapphire 8 × Necrotic Bonemeal || Product: 1 × Amulet of Accuracy; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Opal 6 × Vault Shard || Product: 1 × Amulet of Defence; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Jade 6 × Vault Shard || Product: 1 × Amulet of Magic; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Sapphire 6 × Vault Shard || Product: 1 × Amulet of Strength; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Red Topaz 6 × Vault Shard || Product: 1 × Bow of Elidinis; Facility: Fletching Bench; XP: 100; Materials: 12 × Gold Bar 12 × Silver Bar 8 × Desert Thread 4 × Dragonstone 4 × Gypsum Wax || Product: 1 × Dark Mage Hood; Facility: Armour Bench; XP: 100; Materials: 3 × Padded Cloth 2 × Hard Leather 1 × Silver Bar 1 × Vault Shard || Product: 1 × Dark Mage Robe Legs; Facility: Armour Bench; XP: 100; Materials: 6 × Padded Cloth 4 × Hard Leather 2 × Silver Bar 2 × Vault Shard || Product: 1 × Dark Mage Robes; Facility: Armour Bench; XP: 100; Materials: 8 × Padded Cloth 8 × Hard Leather 4 × Silver Bar 3 × Vault Shard || Product: 1 × Inspiring Ring of Agility; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Artisan; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Construction; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Cooking; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Farming; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Fishing; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Mining; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Runecrafting; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Inspiring Ring of Woodcutting; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Jeweler's Bench; Facility: Build Menu; XP: 15; Materials: 12 × Oak Plank 8 × Ground Sandstone 2 × Gold Bar 2 × Silver Bar 1 × Vault Core || Product: 1 × Large Silver Bar Pile; Facility: Build Menu; XP: 20; Materials: 20 × Silver Bar || Product: 1 × Moon Garou Table 02; Facility: Build Menu; XP: 40; Materials: 12 × Yew Plank 2 × Desert Cloth 2 × Clay Vessel 8 × Silver Bar 1 × Glass Decoration || Product: 1 × Ornate Maul Handle; Facility: Blacksmith's Bench; XP: 40; Materials: 7 × Blightwood 5 × Silver Bar 5 × Bronze Bar 3 × Vault Shard || Product: 1 × Ravanna's Ring; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Red Topaz 3 × Vault Shard || Product: 1 × Ring of Pursuit; Facility: Jeweler's Bench; XP: 100; Materials: 1 × Clay Mould 2 × Silver Bar 2 × Opal 3 × Vault Shard || Product: 1 × Salve Amulet; Facility: Jeweler's Bench; Skills: None; XP: None; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 1 × Salve Crystal 6 × Vault Shard || ... and 9 more rows (table has 34 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Metal Salvage; Quantity: 1; Rarity: 5.56/100"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Beartach - The Merchant; Price sold at: N/A; Price bought at: 24"
+      }
+    ],
+    "description": "Silver bars are primarily obtained by smelting silver ore in a furnace . Silver bars are used for making dark mage armour, the ornate maul handle , and other decorations."
+  },
+  {
+    "name": "Blurite Bar",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "11 September 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Item"
+      },
+      {
+        "label": "Description",
+        "value": "A rare bar of refined blurite, thought to be a myth."
+      },
+      {
+        "label": "Weight",
+        "value": "4.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Recipe",
+        "value": "Facility | Furnace || Skill | Experience || Artisan | 10 || Material | Quantity || Blurite Ore | 3 || Output | Quantity || Blurite Bar | 1"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Blurite Bar (decoration); Facility: Build Menu; XP: 20; Materials: 1 × Blurite Bar || Product: 33 × Blurite Bolts; Facility: Fletching Bench; XP: 60; Materials: 1 × Blurite Bar 3 × Feathers || Product: 1 × Blurite Crossbow Limbs; Facility: Blacksmith's Bench; XP: 40; Materials: 2 × Blurite Bar || Product: 1 × Large Blurite Bar Pile; Facility: Build Menu; XP: 20; Materials: 20 × Blurite Bar || Product: 1 × Small Blurite Bar Pile; Facility: Build Menu; XP: 20; Materials: 5 × Blurite Bar"
+      }
+    ],
+    "description": "A blurite bar can be made in a furnace by smelting three blurite ore . This bar is used in the smithing anvil to create blurite limbs for a blurite crossbow and make the blurite bolts in the fletching bench ."
+  },
+  {
+    "name": "Swamp Thread",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Processed Material"
+      },
+      {
+        "label": "Description",
+        "value": "A crafting material made by spinning Swamp Weed."
+      },
+      {
+        "label": "Weight",
+        "value": "0.3"
+      },
+      {
+        "label": "Stack limit",
+        "value": "50"
+      },
+      {
+        "label": "Recipe",
+        "value": "Facility | Spinning Wheel || Skill | Experience || Artisan | 40 || Material | Quantity || Swamp Weed | 1 || Output | Quantity || Swamp Thread | 1"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Abysmal Whip; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Abyssal Spine 3 × Shrapnel 3 × Swamp Thread 3 × Adhesive 4 × Vault Shard || Product: 1 × Angler's Hat; Facility: Crafting Table; XP: 0; Materials: 4 × Padded Cloth 4 × Rough Cloth 4 × Swamp Thread || Product: 1 × Blightwood Battlestaff; Facility: Mystic Forge; XP: 60; Materials: 12 × Blightwood 6 × Wild Anima 3 × Swamp Thread 4 × Vault Shard || Product: 1 × Blightwood Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Blightwood 6 × Swamp Thread 4 × Iron Bar 4 × Jade 4 × Vault Shard || Product: 1 × Blightwood Shortbow; Facility: Fletching Bench; XP: 60; Materials: 8 × Blightwood 3 × Swamp Thread 1 × Iron Bar 1 × Jade 4 × Vault Shard || Product: 1 × Blightwood Wand; Facility: Mystic Forge; XP: 20; Materials: 6 × Blightwood 3 × Wild Anima 2 × Swamp Thread 2 × Vault Shard || Product: 1 × Blurite Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Blightwood 6 × Swamp Thread 1 × Blurite Crossbow Limbs 1 × Jade 4 × Vault Shard || Product: 1 × Dorgeshuun Crossbow; Facility: Fletching Bench; Skills: None; XP: None; Materials: 12 × Willow Logs 6 × Swamp Thread 1 × Bone Crossbow Limbs 1 × Jade 4 × Vault Shard || Product: 1 × Hunter Stagbow; Facility: Fletching Bench; XP: 40; Materials: 18 × Antler 6 × Ram Horn 4 × Swamp Thread 4 × Jade 4 × Vault Shard || Product: 1 × Iron Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Blightwood 6 × Swamp Thread 1 × Iron Crossbow Limbs 1 × Jade 4 × Vault Shard"
+      },
+      {
+        "label": "Shop locations",
+        "value": "Seller: Domri - The Merchant; Price sold at: N/A; Price bought at: 6"
+      }
+    ],
+    "description": "Swamp thread is a basic item created at a spinning wheel using 1 swamp weed .\n\n(Item sources)\nFailed to find sources that drop that material - ensure it is spelled correctly. (ERR: no results from Bucket)"
+  },
+  {
+    "name": "Adhesive",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Item"
+      },
+      {
+        "label": "Description",
+        "value": "Glue friendly or else I'll take away the glue and then nobody will have any glue to glue with!"
+      },
+      {
+        "label": "Weight",
+        "value": "0.5"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Recipe",
+        "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Swamp Tar | 1 || Output | Quantity || Adhesive | 1"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Abysmal Whip; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Abyssal Spine 3 × Shrapnel 3 × Swamp Thread 3 × Adhesive 4 × Vault Shard || Product: 1 × Fuel Pellet; Facility: Blacksmith Bench; XP: 0; Materials: 1 × Charcoal 1 × Adhesive 1 × Coarse Animal Fur || Product: 1 × Hard Leather; Facility: Tannery; XP: 40; Materials: 2 × Leather 1 × Adhesive || Product: 1 × Iron Chest; Facility: Build Menu; XP: 62; Materials: 16 × Oak Plank 2 × Iron Bar 1 × Adhesive || Product: 1 × Lumber Storage; Facility: Build Menu; XP: 26; Materials: 16 × Maple Logs 2 × Adhesive || Product: 1 × Ore & Stone Storage; Facility: Build Menu; XP: 26; Materials: 16 × Maple Logs 2 × Adhesive || Product: 1 × Tanner's Kit; Facility: Build Menu; XP: 15; Materials: 6 × Bronze Bar 8 × Coarse Thread 6 × Adhesive 18 × Ash Plank || Product: 1 × Weapon Barbs; Facility: Blacksmith's Bench; XP: 60; Materials: 1 × Shrapnel 1 × Bronze Bar 1 × Adhesive"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Misc. Salvage; Quantity: 3–6; Rarity: 5.26/100"
+      }
+    ],
+    "description": "Adhesive is a product as well as a crafting item.  It is created by adding swamp tar to the kiln .  Adhesive is made in a one-to-one ratio, with one swamp tar creating one adhesive.\n\nAdhesive has multiple uses as a crafting material in the production of fuel pellets , hard leather , tanner's kits , and weapon barbs ."
+  },
+  {
+    "name": "Vault Shard",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 ( Update )"
+      },
+      {
+        "label": "Type",
+        "value": "Basic Item"
+      },
+      {
+        "label": "Description",
+        "value": "Stone imbued with remnants of dragonkin magic. Found only in dragonkin vaults."
+      },
+      {
+        "label": "Weight",
+        "value": "5.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      },
+      {
+        "label": "Products",
+        "value": "Product: 1 × Abraxus Ring; Facility: Jeweler's Bench; XP: 0; Materials: 6 × Vault Shard 1 × Clay Mould 2 × Silver Bar 2 × Sapphire 8 × Necrotic Bonemeal || Product: 1 × Abysmal Whip; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Abyssal Spine 3 × Shrapnel 3 × Swamp Thread 3 × Adhesive 4 × Vault Shard || Product: 1 × Amulet of Accuracy; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Opal 6 × Vault Shard || Product: 1 × Amulet of Defence; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Jade 6 × Vault Shard || Product: 1 × Amulet of Glory; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 4 × Gold Bar 4 × Dragonstone 6 × Vault Shard || Product: 1 × Amulet of Magic; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Sapphire 6 × Vault Shard || Product: 1 × Amulet of Strength; Facility: Jeweler's Bench; XP: 0; Materials: 1 × Clay Mould 2 × Gold Bar 2 × Silver Bar 4 × Red Topaz 6 × Vault Shard || Product: 1 × Anti-Dragon Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 12 × Blightwood 4 × Wild Anima 4 × Hard Leather 4 × Opal 8 × Vault Shard 1 × Vault Core || Product: 1 × Blightwood Battlestaff; Facility: Mystic Forge; XP: 60; Materials: 12 × Blightwood 6 × Wild Anima 3 × Swamp Thread 4 × Vault Shard || Product: 1 × Blightwood Longbow; Facility: Fletching Bench; XP: 60; Materials: 12 × Blightwood 6 × Swamp Thread 4 × Iron Bar 4 × Jade 4 × Vault Shard || Product: 1 × Blightwood Shortbow; Facility: Fletching Bench; XP: 60; Materials: 8 × Blightwood 3 × Swamp Thread 1 × Iron Bar 1 × Jade 4 × Vault Shard || Product: 1 × Blightwood Wand; Facility: Mystic Forge; XP: 20; Materials: 6 × Blightwood 3 × Wild Anima 2 × Swamp Thread 2 × Vault Shard || Product: 1 × Blurite Crossbow; Facility: Fletching Bench; XP: 40; Materials: 12 × Blightwood 6 × Swamp Thread 1 × Blurite Crossbow Limbs 1 × Jade 4 × Vault Shard || Product: 1 × Crystal Bow; Facility: Fletching Bench; XP: 300; Materials: 18 × Opal 4 × Wool Thread 4 × Bronze Bar 4 × Anima-Infused Bark 8 × Vault Shard 1 × Vault Core || Product: 1 × Dark Mage Hood; Facility: Armour Bench; XP: 100; Materials: 3 × Padded Cloth 2 × Hard Leather 1 × Silver Bar 1 × Vault Shard || Product: 1 × Dark Mage Robe Legs; Facility: Armour Bench; XP: 100; Materials: 6 × Padded Cloth 4 × Hard Leather 2 × Silver Bar 2 × Vault Shard || Product: 1 × Dark Mage Robes; Facility: Armour Bench; XP: 100; Materials: 8 × Padded Cloth 8 × Hard Leather 4 × Silver Bar 3 × Vault Shard || Product: 1 × Dorgeshuun Crossbow; Facility: Fletching Bench; Skills: None; XP: None; Materials: 12 × Willow Logs 6 × Swamp Thread 1 × Bone Crossbow Limbs 1 × Jade 4 × Vault Shard || Product: 1 × Draconic Staff; Facility: Mystic Forge; XP: 40; Materials: 10 × Iron Bar 6 × Granite 4 × Jade 4 × Vault Shard || Product: 1 × Dragonblight Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Noxious Draconic Visage 1 × Anti-Dragon Shield 12 × Vault Shard 1 × Vault Core || Product: 1 × Dragonbone Dagger; Facility: Blacksmith's Bench; XP: 40; Materials: 6 × Ram Horn 3 × Antler 1 × Hard Leather 4 × Vault Shard || Product: 1 × Dragoncurse Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Undead Draconic Visage 1 × Anti-Dragon Shield 12 × Vault Shard 1 × Vault Core || Product: 1 × Dragonfire Shield; Facility: Blacksmith's Bench; XP: 100; Materials: 1 × Smouldering Draconic Visage 1 × Anti-Dragon Shield 12 × Vault Shard 1 × Vault Core || Product: 1 × Dragonkin Gargoyle 01; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || Product: 1 × Dragonkin Gargoyle 02; Facility: Build Menu; XP: 20; Materials: 20 × Stone 5 × Vault Shard || ... and 105 more rows (table has 130 total entries on the wiki page)"
+      },
+      {
+        "label": "Item sources",
+        "value": "Source: Vault Archon; Quantity: 2; Rarity: 25/100 || Source: Vault Archon; Quantity: 3; Rarity: 15/100 || Source: Vault Guardian Hulk; Quantity: 2; Rarity: 25/100 || Source: Vault Guardian Hulk; Quantity: 3; Rarity: 15/100 || Source: Vault Guardian Sentinel; Quantity: 6; Rarity: 25/100 || Source: Vault Guardian Sentinel; Quantity: 9; Rarity: 15/100 || Source: Vault Overlord; Quantity: 6; Rarity: 25/100 || Source: Vault Overlord; Quantity: 9; Rarity: 15/100 || Source: Chest (Skeklac Kara); Quantity: 4–6; Rarity: 1/25 || Source: Chest (Takla Kara); Quantity: 4–6; Rarity: 1/25 || Source: Chest (Kletterbuja Kara); Quantity: 4–6; Rarity: 1/25 || Source: Chest (Vertentis Kara); Quantity: 4–6; Rarity: 1/10 || Source: Chest (Crasorak Kara); Quantity: 4–6; Rarity: 1/10 || Source: Chest (Thishepen Kara); Quantity: 4–6; Rarity: 1/10 || Source: Vault Incinerator; Quantity: Unknown; Rarity: Unknown || Source: Misc. Salvage; Quantity: 3–9; Rarity: 5.26/100 || Source: Vault Pyroclast; Quantity: Unknown; Rarity: Unknown || Source: Vault Corruptor; Quantity: Unknown; Rarity: Unknown || Source: Vault Striker; Quantity: Unknown; Rarity: Unknown"
+      }
+    ],
+    "description": "Vault shards are items used in crafting several items and can be obtained from vault guardians found in dragonkin vaults ."
+  }
+]

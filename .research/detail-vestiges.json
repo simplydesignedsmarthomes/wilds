@@ -1,0 +1,2855 @@
+[
+  {
+    "name": "A Brutal Bladehead",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A powerful looking blade, broken beyond repair. Still, perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "A brutal bladehead is a vestige that unlocks the creation of the thane's authority. They can be collected by killing a Garou thane."
+  },
+  {
+    "name": "A Corroded Serrated Blade",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The rusted remains of a symbol of authority. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "A corroded serrated blade is a vestige that unlocks the creation of the chieftain's blade. This vestige is found by the chest near the Heartstrings' starting tree.\n\n(Item sources)\nThe vestige is only guaranteed if opening the chest located north of the Crystalline Mesa."
+  },
+  {
+    "name": "A Cracked Bronze Vanity Mirror",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Shows the worst possible side of yourself. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "A cracked bronze vanity mirror is a vestige that unlocks the creation of the ring of recoil when studied."
+  },
+  {
+    "name": "A Cruel Goblin Blade",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A rusted blade with a wicked edge. Barely usable now, but perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "A cruel goblin blade is a vestige found on Goblins within Bramblemead Valley that unlocks the ability to create goblin \"Swingslash\"."
+  },
+  {
+    "name": "A Mysterious Crescent Carving",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "What's left of a staff that feels soaked in sorrow. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "A mysterious crescent carving is a vestige that unlocks the creation of the grieving moon staff. This is a rare drop from killing Garou druids; it may be recommended to go to Lougrim's Shrine at Stormtouched Highlands due to three druids spawning there."
+  },
+  {
+    "name": "A Simple Broken Bow",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remains of a longbow damaged in a dragon attack. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "A simple broken bow is a vestige that unlocks creation of the adventurer's longbow.\n\n(Item sources)\nThe vestige is only guaranteed when opening the chest inside Finn's cave, located south-east of the Temple Woods (see the map above)."
+  },
+  {
+    "name": "A String of Sinew",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Sinew, bound tightly enough to be dangerous. Useless now, but perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "A string of sinew is a vestige that unlocks the creation of the hunter stagbow. They are received as a rare drop by Garou hunters."
+  },
+  {
+    "name": "A Threadbare Grain Sack",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "An odd bundle of scratchy sackcloth. It's unsettling to hold. Still, perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "A threadbare grain sack is a consumable item that unlocks creation of the bag of Noggin'.\n\n(Location)\nThe vestige can be found in a chest in Bramblemead Valley.\n\n(Item sources)\nThe vestige is only guaranteed if opening the chest located at the centre of Bramblemead Village."
+  },
+  {
+    "name": "Abyssal Remains",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Abyssal Remains is a vestige dropped by an Abyssal Demon, required to create the Abysmal Whip."
+  },
+  {
+    "name": "An Educational Blade",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A crude wooden blade and handle, what's left of a child's toy turned to weaponry. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "An educational blade is a vestige that unlocks the creation of the wooden training sword. This is found on the eastern side of the Temple of Saradomin roof.\n\n(Item sources)\nThe vestige is only guaranteed if opening the chest located on the eastern side of the Temple of Saradomin."
+  },
+  {
+    "name": "An Ember-Edged Remnant of Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it"
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "An ember edged remnant of cloth was a vestige that unlocks the fire cape."
+  },
+  {
+    "name": "Arrowhead of Ancient Origin",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Still sharp. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The arrowhead of ancient origin is a vestige that unlocks creation of the amulet of accuracy."
+  },
+  {
+    "name": "Azure Metal Contraption",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "11 September 2025 (Update: Eye on Ashenfall - 0.9)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A contraption made from strange blue metal. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Azure metal contraption is a consumable item that unlocks the creation of Blurite Crossbow Limbs, the blurite crossbow, and blurite bolts. This is found in a chest, located under a cliff near the northern border of the Fractured Plains, west of the main river. This cliff is located near a broken bridge and has surrounding wolves, garou hunters, and garou druids; players are recommended to bring armour, a high-tiered weapon, to help navigate through this area.\n\n(Item sources)\nPlayers are guaranteed the vestige drop when opening a specific chest (mentioned above) in Fractured Plains."
+  },
+  {
+    "name": "Barbed Appendage",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The barbed appendage is a vestige that unlocks the kalphite carapace legs."
+  },
+  {
+    "name": "Battle-Scarred Black Metal",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian shield. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The battle-scarred black metal is a vestige that unlocks the black shield. It is obtained through Evil Emporium for 300 infernal fragments."
+  },
+  {
+    "name": "Black Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The black memory of Menaphos is a vestige that unlocks the black desert cape and can be found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Bloodstained Black Visor",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian helmet. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The bloodstained black visor is a vestige that unlocks the Black Knight helmet. It is obtained through Evil Emporium for 200 infernal fragments."
+  },
+  {
+    "name": "Bloodstained Hilt",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian weapon. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The bloodstained hilt is a vestige that unlocks the black greataxe. It is obtained through Evil Emporium for 300 infernal fragments."
+  },
+  {
+    "name": "Bludgeoning Obsidian Construct",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The bludgeoning obsidian construct is a vestige that unlocks the TzHaar-ket-om. It can be received as a drop by KotHaar-Ket in Umbral Sands."
+  },
+  {
+    "name": "Blue Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The blue memory of Menaphos is a vestige that unlocks the blue desert cape and can be found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Burnished Belt Buckle",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Burnished belt buckle is a consumable item that unlocks creation of the necromancer's robe bottom."
+  },
+  {
+    "name": "Carved Bone Animal Lure",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Seems eager to be elsewhere. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The carved bone animal lure is a vestige that can be studied to unlock the ring of pursuit."
+  },
+  {
+    "name": "Chewed Blue Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could lear from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The chewed blue cloth is a vestige that unlocks the blue dyad cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Chewed Green Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could lear from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The chewed green cloth is a vestige that unlocks the green dyad cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Chewed Pink Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The chewed pink cloth is a vestige that unlocks the pink dyad cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Chewed Red Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could lear from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The chewed red cloth is a vestige that unlocks the red dyad cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Chewed Yellow Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could lear from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The chewed yellow cloth is a vestige that unlocks the yellow dyad cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Chipped Obsidian Construct",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The chipped obsidian construct is a vestige that unlocks the obsidian helmet."
+  },
+  {
+    "name": "Chitinous Carapace",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The chitinous carapace is a vestige that unlocks the kalphite carapace chest."
+  },
+  {
+    "name": "Cloying Damp Cowl",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The cloying damp cowl is a vestige that unlocks the shadowscale hood."
+  },
+  {
+    "name": "Commemorative Coin",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The commemorative coin is a vestige that unlocks the recipe for the amulet of glory. It can be received as a drop by red dragon in Umbral Sands."
+  },
+  {
+    "name": "Consumable Recipes",
+    "infobox": [],
+    "description": "Consumable recipes are types of blueprints that unlock buildings, weapons, armour, and food.\nThey are found around Ashenfall or inside dragonkin vaults. Most recipes are found in chests, while some recipes are rare drops from monsters.\n\n(Quests)\nMost quests reward the player with an item or recipe:\n\n(Dragonkin Effigies)\nDragonkin effigies also contain recipes for armour and weapons, however they do not provide a consumable item.\nInstead, they hold a knowledge reward token that glows blue—interacting with the statue (and sometimes doing as it requires) will reward the player with the recipe for an item, and then stops glowing.\nAny further interactions will say that the player has learned everything from that statue.\n\n(Recipe Books)\nRecipe books are exclusively found in Dowdun Reach and teach six new food recipes for the cooking range:\n\nMeat Sandwich\nForager's Sandwich\nSteak Sandwich\nMeat Twist Sandwich\nGlazed Pumpkin Sandwich\nMaple Toastie (Awarded as part of the Black Knight's Fortress (quest))\n\n(Fishing Trophies)\nCatching each pristine fish unlocks a buildable trophy."
+  },
+  {
+    "name": "Corroded Curved Blade",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it"
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The corroded curved blade is a vestige that unlocks the keris weapon. This vestige can be found in a chest after the Kalphite Queen boss fight in the south-western vault found within Umbral Sands."
+  },
+  {
+    "name": "Corroded Jewellery",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Consumable"
+      },
+      {
+        "label": "Description",
+        "value": "A sinister piece of jewellery, corroded and burned. Perhaps you can learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Corroded jewellery is a vestige that unlocks the creation of the unholy symbol. This vestige is given to the player after completing the quest, Wanted! in Dowdun Reach."
+  },
+  {
+    "name": "Corroded White Visor",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A battered helmet. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Corroded white visor is a vestige that unlocks the recipe for the white full helm."
+  },
+  {
+    "name": "Crushed Obsidian Construct",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The crushed obsidian construct is a vestige that unlocks the obsidian legs."
+  },
+  {
+    "name": "Crushed White Cuisse",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Crushed White Cruisse is a vestige that is consumed, allowing players to craft white platelegs at a armour bench."
+  },
+  {
+    "name": "Curse Carrying Crown",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Curse carrying crown is a vestige that unlocks the necromancer's crown."
+  },
+  {
+    "name": "Demonic Metal Rod",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian weapon. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The demonic metal rod is a vestige that unlocks the subjugation staff. It is obtained through Evil Emporium for 300 Infernal Fragments. It can also be obtained through vestige chests in Dowdun Reach."
+  },
+  {
+    "name": "Dented White Pauldron",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The dented white pauldron is a vestige that unlocks the white platebody."
+  },
+  {
+    "name": "Dusty Black Pocket",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of Zamorakian chaps. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The dusty black pocket is a vestige that unlocks the shadow chaps. It is obtained through Evil Emporium for 300 infernal fragments."
+  },
+  {
+    "name": "Elongated Obsidian Construct",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The Elongated Obsidian Construct is a vestige that unlocks the Toktz-Mej-Tal. It can be received as a drop by KotHaar-Hur and KotHaar-Xil in Umbral Sands."
+  },
+  {
+    "name": "Extinguished Blue Remnants",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A long extinguished torch with unique charactersitics [sic] ."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The extinguished blue remnants is a vestige found by looting Buried Chests in Brynmoor and Ghornfell. There is a 2/100 chance for a buried chest to contain the vestige. It can be studied to unlock the blue torch recipe."
+  },
+  {
+    "name": "Extinguished Green Remnants",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A long extinguished torch with unique charactersitics [sic] ."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The extinguished green remnants is a vestige found by looting Buried Chests in Brynmoor and Ghornfell. There is a 2/100 chance for a buried chest to contain the vestige. It can be studied to unlock the green torch recipe."
+  },
+  {
+    "name": "Extinguished Purple Remnants",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A long extinguished torch with unique charactersitics [sic] ."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The extinguished purple remnants is a vestige found by looting Buried Chests in Brynmoor and Ghornfell. There is a 2/100 chance for a buried chest to contain the vestige. It can be studied to unlock the purple torch recipe."
+  },
+  {
+    "name": "Extinguished Red Remnants",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A long extinguished torch with unique charactersitics [sic] ."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The extinguished red remnants is a vestige found by looting Buried Chests in Brynmoor and Ghornfell. There is a 2/100 chance for a buried chest to contain the vestige. It can be studied to unlock the red torch recipe."
+  },
+  {
+    "name": "Extinguished Yellow Remnants",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A long extinguished torch with unique charactersitics [sic] ."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The extinguished yellow remnants is a vestige found by looting Buried Chests in Brynmoor and Ghornfell. There is a 2/100 chance for a buried chest to contain the vestige. It can be studied to unlock the yellow torch recipe."
+  },
+  {
+    "name": "Fabric That Hums With You",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian mage hood. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The fabric that hums with you is a vestige that unlocks the Zamorak hood. It is obtained through Evil Emporium for 200 infernal fragments."
+  },
+  {
+    "name": "Fractured Obsidian Construct",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The fractured obsidian construct is a vestige that unlocks the obsidian chest."
+  },
+  {
+    "name": "Green Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The green memory of Menaphos is a vestige that unlocks the green desert cape and can be found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Grim Black Codpiece",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of Zamorakian platelegs. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The grim black codpiece is a vestige that unlocks the Black Knight platelegs. It is obtained through Evil Emporium for 300 infernal fragments."
+  },
+  {
+    "name": "Hardy Weathered Shell",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "You can feel it pulling away from you. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The hardy weathered shell is a consumable item that unlocks the creation of the amulet of defence."
+  },
+  {
+    "name": "Icthlarian Fetish",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Icthlarian fetish is the vestige that is used to unlock the pharaoh's sceptre. It can be collected after completing the quest Contact!, as long as the player has one inventory space."
+  },
+  {
+    "name": "Inspiring Insignia",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you can learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The inspiring insignia is a vestige that unlocks the creation of the skills necklace."
+  },
+  {
+    "name": "Limp Black Lining",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian body armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The limp black lining is a vestige that unlocks the shadow body. It is obtained through Evil Emporium for 400 infernal fragments."
+  },
+  {
+    "name": "Lunate Shawl",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it"
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The lunate shawl is a vestige that unlocks the Lunar Garou robes"
+  },
+  {
+    "name": "Lunular Wrappings",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it"
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The lunular wrappings is a vestige that unlocks the Lunar Garou robe legs"
+  },
+  {
+    "name": "Moth Eaten Black Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten black cloth is a vestige that unlocks the black adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Moth Eaten Blue Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten blue cloth is a vestige that unlocks the blue adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Moth Eaten Green Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten green cloth is a vestige that unlocks the green adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Moth Eaten Orange Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten orange cloth is a vestige that unlocks the orange adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Moth Eaten Pink Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten pink cloth is a vestige that unlocks the pink adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Moth Eaten Purple Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten purple cloth is a vestige that unlocks the purple adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Moth Eaten Red Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten red cloth is a vestige that unlocks the red adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Moth Eaten White Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten white cloth is a vestige that unlocks the white adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Moth Eaten Yellow Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The moth eaten yellow cloth is a vestige that unlocks the yellow adventurer's cape. It is obtained from Death's Exchange for 150 soul fragments."
+  },
+  {
+    "name": "Orange Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The orange memory of Menaphos is a vestige that unlocks the orange desert cape and can be found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Ornate Golden Scarab",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      }
+    ],
+    "description": "Ornate Golden Scarab is a drop from the Kalphite Queen, but was mistakenly added to the game."
+  },
+  {
+    "name": "Parts of a Sinister-Looking Staff",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Although damaged beyond repair, this staff seethes with ancient power. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Parts of a sinister-looking staff is a vestige that unlocks creation of the draconic staff. This is found in a chest, located north-west of the Skeklac Kara vault's entrance.\n\n(Item sources)\nThe vestige is only guaranteed if opening the chest located north-west of the Skeklac Kara's outside entrance."
+  },
+  {
+    "name": "Pink Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The pink memory of Menaphos is a vestige that unlocks the pink desert cape and can be found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Plate of Pure Obsidian",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The plate of pure obsidian is a vestige that unlocks the obsidian cape. It's a reward for completing the quest Brink of Extinction."
+  },
+  {
+    "name": "Purple Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The purple memory of Menaphos is a vestige that unlocks the Purple Desert Cape and can be found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Red Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The red memory of Menaphos is a vestige that unlocks the red desert cape. It is found in Umbral Sands chests."
+  },
+  {
+    "name": "Remnants of a Rotting Robe",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The remnants of a rotting robe is a vestige that unlocks the necromancer's robe top. It is obtained from Death's Exchange for 400 soul fragments."
+  },
+  {
+    "name": "Remnants of a Shattered Skull",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A skull, obliterated by a particularly nasty weapon. If you study it, perhaps you might learn something."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Remnants of a shattered skull is a vestige that unlocks the creation of the Skullsplitter."
+  },
+  {
+    "name": "Rotten Farming Tool",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 January 2025 (Update: Eye on Ashenfall - 0.10.1)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "1"
+      }
+    ],
+    "description": "The rotten farming tool is a vestige found by looting Buried Chests in Fellhollow. There is a 5/100 chance for a buried chest to contain the vestige. It can be studied to unlock the undead spade recipe.\n\n(Item sources)\nChests at Fellhollow"
+  },
+  {
+    "name": "Scratchy Sackcloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "24 February 2026 (Update: Eye on Ashenfall - 0.10.2)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A ghostly bundle of scratchy sackcloth. It's unsettling to hold. Still, perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Scratchy Sackcloth is a vestige used to unlock the Shroud of Noggin. It can be obtained from the buried chest at the end of X Marks the Spot."
+  },
+  {
+    "name": "Selenic Veil",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The selenic veil is a vestige that unlocks the Lunar Garou hat."
+  },
+  {
+    "name": "Serrated Claw",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "24 February 2026 (Update: Eye on Ashenfall - 0.10.2)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A vicious claw once belonging to Imaru, which was used to try and rip you apart more than a few times. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The serrated claw is a vestige that unlocks the Imaru's talon. Unlike the head and ascension shard, the serrated claw drops to the floor."
+  },
+  {
+    "name": "Shard of Black Pauldron",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian platebody. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The shard of black pauldron is a vestige that unlocks the Black Knight platebody. It is obtained through Evil Emporium for 400 infernal fragments."
+  },
+  {
+    "name": "Shard of Smoky Glass",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The shard of smoky glass is a vestige that players can consume, receiving the recipe to create the shadow sword. It should be noted that only Zogres found within Fellhollow are able to drop this item."
+  },
+  {
+    "name": "Shattered Black Blade",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian weapon. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The shattered black blade is a vestige that unlocks the black sword. It is obtained through Evil Emporium for 300 infernal fragments. It can also be obtained through vestige chests in Dowdun Reach."
+  },
+  {
+    "name": "Shattered Black Blade (Umbral Sands)",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The shattered black blade is a vestige that unlocks the toktz-xil-ak. It can be received as a drop by KotHaar-Kal in Umbral Sands."
+  },
+  {
+    "name": "Shred of Sunbleached Weave",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "29 July 2026 (Update: 0.12.1 is now live!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Shred of sunbleached weave is a vestige that unlocks the creation of the Umbral Sands cape."
+  },
+  {
+    "name": "Shroud of Noggin",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "24 February 2026 (Update: Eye on Ashenfall - 0.10.2)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A ghostly sackcloth mask. Reduces Wither buildup while worn."
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Power Level",
+        "value": "1"
+      },
+      {
+        "label": "Melee Defence",
+        "value": "+1"
+      },
+      {
+        "label": "Ranged Defence",
+        "value": "+1"
+      },
+      {
+        "label": "Magic Defence",
+        "value": "+1"
+      },
+      {
+        "label": "Special Effect",
+        "value": "Steadfast Stomach"
+      },
+      {
+        "label": "Durability",
+        "value": "500"
+      }
+    ],
+    "description": "The shroud of Noggin is a piece of Power level 1 head armour which can be crafted using a crafting table. The recipe is learned by consuming the scratchy sackcloth, found in a buried chest in Hope's Fall at the end of the unmarked activity X Marks the Spot.\nIts special effect reduces the amount of Wither buildup the player takes."
+  },
+  {
+    "name": "Sigil of a Phoenix",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Endlessly burning and reconstituting itself. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The sigil of a phoenix is a vestige that unlocks the ring of life upon studying the recipe. It can be purchased from Death's Exchange in the Forgotten Temple under Fellhollow for 800 soul fragments."
+  },
+  {
+    "name": "Simply Splendid Feather",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The simply splendid feather is a vestige that unlocks the ranger hat."
+  },
+  {
+    "name": "Sinister Mechanism",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian weapon. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The sinister mechanism is a vestige that unlocks the shadow crossbow. It is obtained through Evil Emporium for 300 infernal fragments. It can also be obtained through vestige chests in Dowdun Reach."
+  },
+  {
+    "name": "Slightly Chaffing Chestguard",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The slightly chaffing chestguard is a vestige that unlocks the ranger tunic."
+  },
+  {
+    "name": "Sodden Black Leather",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian cowl. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The sodden black leather is a vestige that unlocks the shadow cowl. It is obtained through Evil Emporium for 200 infernal fragments."
+  },
+  {
+    "name": "Softly Vibrating Orb",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A sphere that seems to be playing Menu Chill. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The softly vibrating orb is a vestige that unlocks the creation of the amulet of Magic.\n\n(Trivia)\nThe item's description refers to a music track called Menu Chill."
+  },
+  {
+    "name": "Soiled Blue Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The soiled blue cloth is a vestige that unlocks the blue hex cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Soiled Green Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could lear from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The soiled green cloth is a vestige that unlocks the green hex cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Soiled Pink Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could lear from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The soiled pink cloth is a vestige that unlocks the pink hex cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Soiled Red Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could lear from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The soiled red cloth is a vestige that unlocks the red hex cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Soiled Yellow Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Some dodgy-looking scraps of what seems to be a cape. Perhaps you could lear from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The soiled yellow cloth is a vestige that unlocks the yellow hex cape. It is obtained through Evil Emporium for 150 infernal fragments."
+  },
+  {
+    "name": "Sun-Bleached Head Wrap",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      }
+    ],
+    "description": "The sun-bleached head wrap is a vestige that unlocks the desert hood."
+  },
+  {
+    "name": "Sun-Bleached Leggings",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      }
+    ],
+    "description": "The sun-bleached leggings is a vestige that unlocks the desert robe legs."
+  },
+  {
+    "name": "Sun-Bleached Vest",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      }
+    ],
+    "description": "The sun-bleached vest is a vestige that unlocks the desert robes."
+  },
+  {
+    "name": "Sundering Spiked Slab",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Splattered with blood. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The sundering spiked slab is a vestige that is dropped by the skeletal hoplite. Players must study it to receive the recipe to create the fallen hoplite's aspis."
+  },
+  {
+    "name": "Suspiciously Light Tattered Boots",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Barely heavier than a feather, but worn away by time's cruel march. Still, perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Suspiciously light tattered boots is a consumable item that unlocks creation of the leggings of lightness.\n\n(Item sources)\nThe vestige is only guaranteed when opening the chest located at the top of the windmill."
+  },
+  {
+    "name": "Tastefully Torn Tights",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The ancient remnants of some sort of armour. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Tastefully torn tights is a power level 5 vestige that can be purchased with 350 soul fragments at Death's Exchange. Players will need to study this to receive the recipe for the ranger tights."
+  },
+  {
+    "name": "Tattered Time-Lost Cloth",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The tattered pieces of a mysterious object. Perhaps you could learn something from them."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The tattered time-lost cloth is a vestige that is dropped by skeletal marauders and rotsworn marauders. Upon studying the vestige, players can create the shadowscale cape."
+  },
+  {
+    "name": "Torn Tapestry",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "A piece of cloth torn from one of Dowdun Reach's tapestries."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The torn tapestry is a vestige that is found in a buried chest in Dowdun Reach. Upon studying the vestige, players can create the Dowdun Reach cape."
+  },
+  {
+    "name": "Twtiching Antenna",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The Twtiching Antenna is a vestige that unlocks the kalphite carapace helmet."
+  },
+  {
+    "name": "Unyielding Obsidian Construct",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn from it [sic]"
+      },
+      {
+        "label": "Weight",
+        "value": "1.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "Unyielding obsidian construct is a vestige that is dropped by the Tok-Xil and unlocks the toktz-ket-xil shield."
+  },
+  {
+    "name": "Weighted Training Band",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "You can feel it pulling away from you. Perhaps you could learn from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The weighted training band is a consumable item that unlocks creation of the amulet of strength."
+  },
+  {
+    "name": "Whispering Elbow Pad",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of a Zamorakian mage robe. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The whispering elbow pad is a vestige that unlocks the Zamorak robes. It is obtained through Evil Emporium for 400 infernal fragments."
+  },
+  {
+    "name": "White Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The white memory of Menaphos is a vestige that unlocks the white desert cape and can be found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Wizard's Kneecap",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "The remnants of Zamorakian mage robe legs. Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The wizard's kneecap is a vestige that unlocks the Zamorak robe legs. It is obtained through Evil Emporium for 300 infernal fragments."
+  },
+  {
+    "name": "Yellow Memory of Menaphos",
+    "infobox": [
+      {
+        "label": "Released",
+        "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+      },
+      {
+        "label": "Type",
+        "value": "Vestige"
+      },
+      {
+        "label": "Description",
+        "value": "Perhaps you could learn something from it."
+      },
+      {
+        "label": "Weight",
+        "value": "0.0"
+      },
+      {
+        "label": "Stack limit",
+        "value": "99"
+      }
+    ],
+    "description": "The yellow memory of Menaphos is a vestige that unlocks the yellow desert cape and can be found in chests throughout Umbral Sands."
+  }
+]

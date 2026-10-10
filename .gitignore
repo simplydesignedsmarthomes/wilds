@@ -1,4 +1,13 @@
 .netlify/
 node_modules/
 .DS_Store
-.research/
+
+# .research/ holds the data pipeline: the scripts and hand-curated source
+# files below are tracked (the check-updates workflow needs them), but the
+# large wiki scrapes are pure cache, regenerated fresh on every run.
+.research/wiki_buckets.json
+.research/wiki_wikitext.json
+.research/wiki_images.json
+.research/preview-bundle/
+.research/_ci_result.json
+.research/_audit_run.json

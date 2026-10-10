@@ -1,0 +1,826 @@
+[
+ {
+  "name": "Adamant Logging Axe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Adamant_Logging_Axe.png/250px-Adamant_Logging_Axe.png?1393c",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "tools",
+  "note": "A woodcutting tool used for felling yew trees, crafted at a blacksmith's bench using adamant bars, maple logs, and desert thread."
+ },
+ {
+  "name": "Adamant Pickaxe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Adamant_Pickaxe.png/250px-Adamant_Pickaxe.png?dbce0",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "tools",
+  "note": "Pickaxe for Mining, crafted at a blacksmith's bench and capable of extracting ore with increased efficiency over lower tiers."
+ },
+ {
+  "name": "Adamant Spade",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Adamant_Spade.png/250px-Adamant_Spade.png?df559",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "tools",
+  "note": "A farming tool used to clear farming plots, crafted at a blacksmith's bench using adamant bars and other materials."
+ },
+ {
+  "name": "Adamant Watering Can",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Adamant_Watering_Can.png/250px-Adamant_Watering_Can.png?ef72f",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "tools",
+  "note": "Used to hydrate farming plots, crafted at a blacksmith's bench using 6 adamant bars and 2 desert cloth."
+ },
+ {
+  "name": "Anchovy Bait",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Anchovy_Bait.png/250px-Anchovy_Bait.png?230e0",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait crafted at the crafting table from raw anchovies that boosts the chance of catching herring."
+ },
+ {
+  "name": "Animated Feather",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Animated_Feather.png/250px-Animated_Feather.png?93c56",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait crafted at the crafting table that increases the catch chance of Armoured Catfish."
+ },
+ {
+  "name": "Ash Rod",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Ash_Rod.png/250px-Ash_Rod.png?c8005",
+  "tier": "Ash",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing rod effective in Brynmoor, crafted at a crafting table from 1 Ash Logs and 1 Coarse Thread."
+ },
+ {
+  "name": "Blue Torch",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Blue_Torch.png/250px-Blue_Torch.png?2fc71",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A cosmetic off-hand torch used as a light source, crafted at a Crafting Table from 1 Ash Logs and 1 Coarse Animal Fur."
+ },
+ {
+  "name": "Bone Pickaxe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bone_Pickaxe.png/250px-Bone_Pickaxe.png?561ef",
+  "tier": "Bone",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A mining tool for extracting copper and tin ore, crafted at a crafting table from animal bones, ash logs, and leather."
+ },
+ {
+  "name": "Bronze Logging Axe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bronze_Logging_Axe.png/250px-Bronze_Logging_Axe.png?561ef",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "tools",
+  "note": "A woodcutting tool forged from bronze, crafted at a blacksmith's bench to fell trees including oak varieties."
+ },
+ {
+  "name": "Bronze Pickaxe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bronze_Pickaxe.png/250px-Bronze_Pickaxe.png?561ef",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "tools",
+  "note": "Pickaxe for Mining iron ore, sandstone, and granite, crafted at a blacksmith's bench from bronze bars, oak logs, and leather."
+ },
+ {
+  "name": "Bronze Spade",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bronze_Spade.png/250px-Bronze_Spade.png?b760a",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "tools",
+  "note": "A farming tool used to clear farming plots, crafted at a blacksmith's bench from bronze bars, oak logs, and leather."
+ },
+ {
+  "name": "Bronze Watering Can",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bronze_Watering_Can.png/250px-Bronze_Watering_Can.png?d0593",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "tools",
+  "note": "Used for watering crops in farming plots, crafted at a blacksmith's bench from 6 bronze bars and 2 wool cloth."
+ },
+ {
+  "name": "Coarse Net",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Coarse_Net.png/250px-Coarse_Net.png?c5e3e",
+  "tier": "Coarse",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing net used to catch shrimp from net fishing spots in Brynmoor, crafted at a crafting table from two coarse threads."
+ },
+ {
+  "name": "Compost Bucket",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Compost_Bucket.png/250px-Compost_Bucket.png?b1f46",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A farming tool that holds up to 150 units of compost or super compost to apply to farming plots, crafted at the crafting table from 5 Ash Logs."
+ },
+ {
+  "name": "Desert Net",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Desert_Net.png/250px-Desert_Net.png?9d3c3",
+  "tier": "Desert",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing net crafted at the crafting table from 2 Desert Thread."
+ },
+ {
+  "name": "Feather Bait",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Feather_Bait.png/250px-Feather_Bait.png?4c2a2",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait that increases catch chances for trout, crafted at a crafting table from one feather."
+ },
+ {
+  "name": "Feathered Lure",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Feathered_Lure.png/250px-Feathered_Lure.png?7abf7",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait that enhances catch probability for Salmon."
+ },
+ {
+  "name": "Fine Net",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Fine_Net.png/250px-Fine_Net.png?33e75",
+  "tier": "Fine",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing net crafted from two Fine Thread at a Crafting Table."
+ },
+ {
+  "name": "Giant Krill Bait",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Giant_Krill_Bait.png/250px-Giant_Krill_Bait.png?f0ce6",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait crafted from raw giant krill and vile ashes at a crafting table that increases the chance of catching infernal eels."
+ },
+ {
+  "name": "Green Torch",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Green_Torch.png/250px-Green_Torch.png?fc371",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A cosmetic off-hand torch used as a light source, crafted at a Crafting Table from 1 Ash Log and 1 Coarse Animal Fur."
+ },
+ {
+  "name": "Iron Logging Axe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Iron_Logging_Axe.png/250px-Iron_Logging_Axe.png?561ef",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "tools",
+  "note": "A woodcutting tool for chopping trees, crafted at a blacksmith's bench from iron bars, oak logs, and wool thread."
+ },
+ {
+  "name": "Iron Pickaxe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Iron_Pickaxe.png/250px-Iron_Pickaxe.png?561ef",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "tools",
+  "note": "Pickaxe for mining gold ore and dragon teeth, crafted at a blacksmith's bench from iron bars, blightwood, and hard leather."
+ },
+ {
+  "name": "Iron Secateurs",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Iron_Secateurs.png/250px-Iron_Secateurs.png?5e5b0",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "tools",
+  "note": "A farming tool that gives a 25% yield increase when harvesting fully grown plants while wielded."
+ },
+ {
+  "name": "Kalphite Bait",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Kalphite_Bait.png/250px-Kalphite_Bait.png?7bf36",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait crafted from feathers, desert thread, and kalphite ichor at a crafting table that enhances catch rates."
+ },
+ {
+  "name": "Large Wardstone",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Large_Wardstone.png/250px-Large_Wardstone.png?183b0",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Recharges armour with a substantial amount of lifeward when activated, though it inflicts a penalty status effect on the user."
+ },
+ {
+  "name": "Lobster Bait",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Lobster_Bait.png/250px-Lobster_Bait.png?2d8b3",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait crafted from one raw lobster that increases catch chances for undead eels."
+ },
+ {
+  "name": "Magical Focus",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Magical_Focus.png/250px-Magical_Focus.png?86e48",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A Magic tool (unlocked at level 39) that imbues a staff to increase magical attack damage by 15% for 10 minutes."
+ },
+ {
+  "name": "Maple Rod",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Maple_Rod.png/250px-Maple_Rod.png?25b50",
+  "tier": "Maple",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing rod for Dowdun Reach, crafted at the blacksmith's bench from maple logs, mystic thread, and a mithril bar."
+ },
+ {
+  "name": "Medium Wardstone",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Medium_Wardstone.png/250px-Medium_Wardstone.png?4c663",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Recharged armour with lifeward via Runecrafting (1 Sandstone, 2 Anima-Infused Bark, 10 Rune Essence); removed in the 0.12.0 update."
+ },
+ {
+  "name": "Mithril Logging Axe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Mithril_Logging_Axe.png/250px-Mithril_Logging_Axe.png?2ef49",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "tools",
+  "note": "A woodcutting tool crafted at a blacksmith's bench that enables felling maple trees."
+ },
+ {
+  "name": "Mithril Pickaxe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Mithril_Pickaxe.png/250px-Mithril_Pickaxe.png?5c1bd",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "tools",
+  "note": "A mining tool for extracting limestone, crafted at a blacksmith's bench from 8 mithril bars, 6 maple logs, and 4 cursed leather."
+ },
+ {
+  "name": "Monkfish Bait",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Monkfish_Bait.png/250px-Monkfish_Bait.png?42ec5",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait made from monkfish tail that increases the likelihood of catching desert soles."
+ },
+ {
+  "name": "Mystic Net",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Mystic_Net.png/250px-Mystic_Net.png?29484",
+  "tier": "Mystic",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing net crafted at a crafting table from two mystic threads."
+ },
+ {
+  "name": "Oak Rod",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Oak_Rod.png/250px-Oak_Rod.png?8ea2c",
+  "tier": "Oak",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing rod effective in Ghornfell, crafted at the blacksmith's bench from oak logs, wool thread, and a bronze bar."
+ },
+ {
+  "name": "Plant Cure",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Plant_Cure.png/250px-Plant_Cure.png?ab06e",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A curative brew that cures diseased plants and provides 2 Farming experience, made from weeds, animal bone, and clean water at a cooking range."
+ },
+ {
+  "name": "Purple Torch",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Purple_Torch.png/250px-Purple_Torch.png?b69e8",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A cosmetic off-hand torch used as a light source, crafted at a crafting table from ash logs and coarse animal fur."
+ },
+ {
+  "name": "Red Torch",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Red_Torch.png/250px-Red_Torch.png?c1b0a",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A cosmetic off-hand torch used as a light source, crafted at a crafting table from ash logs and coarse animal fur."
+ },
+ {
+  "name": "Rune Logging Axe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Rune_Logging_Axe_%28Journal%29.png/250px-Rune_Logging_Axe_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "tools",
+  "note": "A logging tool crafted from runite that enables harvesting Magic Trees."
+ },
+ {
+  "name": "Rune Pickaxe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Rune_Pickaxe_%28Journal%29.png/250px-Rune_Pickaxe_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "tools",
+  "note": "Pickaxe for mining, crafted at a blacksmith's bench, dealing 98 damage to minable ores (196 on a critical swing)."
+ },
+ {
+  "name": "Rune Spade",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Rune_Spade_%28Journal%29.png/250px-Rune_Spade_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "tools",
+  "note": "A farming/excavation tool crafted at a blacksmith's bench from rune bars, magic logs, black dragon leather, and draconic vis wax."
+ },
+ {
+  "name": "Rune Watering Can",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Rune_Watering_Can_%28Journal%29.png/250px-Rune_Watering_Can_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "tools",
+  "note": "A farming implement forged from rune bars and vis cloth at a blacksmith's bench for watering crops."
+ },
+ {
+  "name": "Shrimp Bait",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Shrimp_Bait.png/250px-Shrimp_Bait.png?50838",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait made from shrimp scraps that boosts the likelihood of catching raw sardines."
+ },
+ {
+  "name": "Small Wardstone",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Small_Wardstone.png/250px-Small_Wardstone.png?5b128",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Recharges armour with a small amount of lifeward (30 lifeward in one second), though it inflicts 25 Soulscourge damage to the user."
+ },
+ {
+  "name": "Spooky Bait",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Spooky_Bait.png/250px-Spooky_Bait.png?8dfc5",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Fishing bait crafted from ectoplasm and feathers at a crafting table that increases the chance of catching undead bass."
+ },
+ {
+  "name": "Steel Logging Axe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Logging_Axe.png/250px-Steel_Logging_Axe.png?f6bf1",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "tools",
+  "note": "A woodcutter's tool forged from steel, crafted at a blacksmith's bench from steel bars, willow logs, and fine thread."
+ },
+ {
+  "name": "Steel Pickaxe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Pickaxe.png/250px-Steel_Pickaxe.png?f74d8",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "tools",
+  "note": "A mining tool that can mine the same ores as previous tiers plus soul stone, crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Steel Spade",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Spade.png/250px-Steel_Spade.png?e0c91",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "tools",
+  "note": "A farming tool used to clear farming plots, crafted at a blacksmith's bench from steel bars, willow logs, and draconic leather."
+ },
+ {
+  "name": "Steel Watering Can",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Watering_Can.png/250px-Steel_Watering_Can.png?b1b69",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "tools",
+  "note": "Used for watering crops in farming plots, crafted at the blacksmith's bench from 6 steel bars and 2 padded cloth."
+ },
+ {
+  "name": "Stone Logging Axe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Stone_Logging_Axe.png/250px-Stone_Logging_Axe.png?561ef",
+  "tier": "Stone",
+  "tierRank": 0,
+  "chest": "tools",
+  "note": "A crude but functional axe for chopping trees, crafted at a crafting table from 6 stone and 8 ash logs."
+ },
+ {
+  "name": "Stone Pickaxe",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Stone_Pickaxe.png/250px-Stone_Pickaxe.png?561ef",
+  "tier": "Stone",
+  "tierRank": 0,
+  "chest": "tools",
+  "note": "A beginner mining tool for stone and rune essence, crafted at a crafting table from 6 ash logs and 8 stone."
+ },
+ {
+  "name": "Torch",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Torch.png/250px-Torch.png?561ef",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A basic off-hand light source with Power level 1, crafted from 1 ash log and 1 coarse animal fur."
+ },
+ {
+  "name": "Undead Spade",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Undead_Spade.png/250px-Undead_Spade.png?ff510",
+  "tier": "Undead",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A farming tool used to clear farming plots, crafted at a blacksmith's bench by studying the rotten farming tool vestige."
+ },
+ {
+  "name": "Willow Rod",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Willow_Rod.png/250px-Willow_Rod.png?03457",
+  "tier": "Willow",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing rod effective in Fellhollow, crafted at the blacksmith's bench from willow logs, fine thread, and a steel bar."
+ },
+ {
+  "name": "Wooden Spade",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Wooden_Spade.png/250px-Wooden_Spade.png?fb55e",
+  "tier": "Wooden",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A basic farming tool used to clear farming plots, made from ash wood."
+ },
+ {
+  "name": "Wooden Watering Can",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Wooden_Watering_Can.png/250px-Wooden_Watering_Can.png?70bea",
+  "tier": "Wooden",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "Used to hydrate farming plots, crafted at a crafting table from 4 ash logs and 1 coarse thread."
+ },
+ {
+  "name": "Wool Net",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Wool_Net.png/250px-Wool_Net.png?b4632",
+  "tier": "Wool",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing net for catching shrimp and anchovies, crafted at a crafting table from two wool threads."
+ },
+ {
+  "name": "Yellow Torch",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Yellow_Torch.png/250px-Yellow_Torch.png?a4a77",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A cosmetic off-hand torch used as a light source, crafted at a Crafting Table from 1 Ash Log and 1 Coarse Animal Fur."
+ },
+ {
+  "name": "Yew Rod",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Yew_Rod.png/250px-Yew_Rod.png?2992b",
+  "tier": "Yew",
+  "tierRank": null,
+  "chest": "tools",
+  "note": "A fishing rod made from yew and adamant, crafted at the blacksmith's bench from 1 Yew Logs, 1 Desert Thread, and 1 Adamant Bar."
+ },
+ {
+  "name": "Adamant Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Adamant_Arrow.png/250px-Adamant_Arrow.png?dfa3b",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "ammo",
+  "note": "Arrow dealing 42-101 base damage, crafted at a fletching bench from an adamant bar, yew logs, and feathers."
+ },
+ {
+  "name": "Adamant Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Adamant_Barbed_Arrow.png/250px-Adamant_Barbed_Arrow.png?a6bb9",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "ammo",
+  "note": "Barbed arrow with a bleed effect, crafted at a fletching bench by combining 33 Adamant Arrows with 1 Weapon Barbs."
+ },
+ {
+  "name": "Adamant Bolt",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Adamant_Bolt.png/250px-Adamant_Bolt.png?ac592",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "ammo",
+  "note": "A crossbow bolt with an adamant tip dealing 76 base damage, crafted at a fletching bench from an adamant bar and feathers."
+ },
+ {
+  "name": "Adamant Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Adamant_Fire_Arrow.png/250px-Adamant_Fire_Arrow.png?0e5b7",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "ammo",
+  "note": "Burning arrow with an adamant tip coated in fire oil, crafted at a fletching bench from 33 adamant arrows and 1 fire oil."
+ },
+ {
+  "name": "Blurite Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Blurite_Bolts.png/250px-Blurite_Bolts.png?9addd",
+  "tier": "Blurite",
+  "tierRank": null,
+  "chest": "ammo",
+  "note": "Crossbow bolt dealing 41 base damage, compatible with a blurite crossbow or higher, crafted at a fletching bench from 1 Blurite Bar and 3 Feathers."
+ },
+ {
+  "name": "Bone Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bone_Bolts.png/250px-Bone_Bolts.png?b4801",
+  "tier": "Bone",
+  "tierRank": null,
+  "chest": "ammo",
+  "note": "Bolt that inflicts bleed build-up, fired exclusively from Dorgeshuun crossbows, crafted at a Fletching Bench from undead bones."
+ },
+ {
+  "name": "Bronze Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bronze_Arrow.png/250px-Bronze_Arrow.png?0acdc",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "ammo",
+  "note": "Arrow with a bronze tip dealing 14-34 base damage, crafted at a fletching bench from a bronze bar, ash logs, and a feather."
+ },
+ {
+  "name": "Bronze Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bronze_Barbed_Arrow.png/250px-Bronze_Barbed_Arrow.png?a22ca",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "ammo",
+  "note": "Barbed arrow that inflicts a bleed debuff, crafted by attaching weapon barbs to standard bronze arrows at a Fletching Bench."
+ },
+ {
+  "name": "Bronze Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bronze_Bolts.png/250px-Bronze_Bolts.png?7e94d",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "ammo",
+  "note": "Crossbow bolt made from bronze dealing 25 base damage, crafted at a Fletching Bench from one Bronze Bar and three Feathers."
+ },
+ {
+  "name": "Bronze Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Bronze_Fire_Arrow.png/250px-Bronze_Fire_Arrow.png?8cd86",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "ammo",
+  "note": "Burning arrow inflicting a burn debuff (5% max health over six seconds), crafted by applying fire oil to bronze arrows at a fletching bench."
+ },
+ {
+  "name": "Enchanted Adamant Bolt",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Enchanted_Adamant_Bolt_%28Journal%29.png/181px-Enchanted_Adamant_Bolt_%28Journal%29.png?dbe0d",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "ammo",
+  "note": "Adamant bolt enchanted with a ruby tip, with a 15% chance to drain the user's health and boost critical hit damage 40%; crafted at a Fletching Bench from adamant bolts, rubies, astral runes, and fire runes."
+ },
+ {
+  "name": "Enchanted Blurite Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Enchanted_Blurite_Bolts.png/250px-Enchanted_Blurite_Bolts.png?97392",
+  "tier": "Blurite",
+  "tierRank": null,
+  "chest": "ammo",
+  "note": "Blurite bolt with an enchanted jade tip, with a chance to deal Earth magic damage and knock the target down; crafted at a Fletching Bench from blurite bolts, jade, and runes."
+ },
+ {
+  "name": "Enchanted Bronze Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Enchanted_Bronze_Bolts.png/250px-Enchanted_Bronze_Bolts.png?46698",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "ammo",
+  "note": "Bronze bolt with an opal tip that can trigger lightning strikes dealing Air magic damage (Shocked debuff); crafted at a Fletching Bench from bronze bolts, opal, and runes."
+ },
+ {
+  "name": "Enchanted Iron Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Enchanted_Iron_Bolts.png/250px-Enchanted_Iron_Bolts.png?a318c",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "ammo",
+  "note": "Iron bolt tipped with enchanted jade, with a chance to deal Water magic damage and slow the target; crafted at a Fletching Bench from iron bolts, jade, and magical runes."
+ },
+ {
+  "name": "Enchanted Mithril Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Enchanted_Mithril_Bolts.png/250px-Enchanted_Mithril_Bolts.png?5bc50",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "ammo",
+  "note": "Mithril bolt with a 15% chance to create a toxic burst poisoning nearby enemies within a 4-5 meter radius; crafted at a fletching bench from mithril bolts, sapphire, and magical runes."
+ },
+ {
+  "name": "Enchanted Rune Bolt",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Enchanted_Rune_Bolt_%28Journal%29.png/181px-Enchanted_Rune_Bolt_%28Journal%29.png?571f2",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "ammo",
+  "note": "Rune bolt infused with magical energy and a diamond tip dealing 76 base damage, crafted at a fletching bench from 33 rune bolts, 1 diamond, 10 air runes, and 15 astral runes."
+ },
+ {
+  "name": "Enchanted Steel Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Enchanted_Steel_Bolts.png/250px-Enchanted_Steel_Bolts.png?6081c",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "ammo",
+  "note": "Steel bolt with a red topaz tip dealing 49 base damage, with a 15% chance to heal 20% of the player's health on hit; crafted at a Fletching Bench from steel bolts, red topaz, astral runes, and ectoplasm."
+ },
+ {
+  "name": "Fang Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Fang_Arrow.png/250px-Fang_Arrow.png?68b2a",
+  "tier": "Fang",
+  "tierRank": null,
+  "chest": "ammo",
+  "note": "Arrow with a tip carved from animal fangs dealing 10-24 damage, crafted at a Crafting Table from one Small Animal Fang, two Ash Logs, and one Feather."
+ },
+ {
+  "name": "Fang Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Fang_Barbed_Arrow.png/250px-Fang_Barbed_Arrow.png?af855",
+  "tier": "Fang",
+  "tierRank": null,
+  "chest": "ammo",
+  "note": "Barbed fang arrow dealing 11 base damage with a bleed effect, crafted at a Fletching Bench from 33 fang arrows and one Weapon Barbs."
+ },
+ {
+  "name": "Fang Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Fang_Fire_Arrow.png/250px-Fang_Fire_Arrow.png?b24f3",
+  "tier": "Fang",
+  "tierRank": null,
+  "chest": "ammo",
+  "note": "Burning fang arrow dealing 11 base damage, crafted at a Fletching Bench from 33 fang arrows and 1 fire oil."
+ },
+ {
+  "name": "Iron Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Iron_Arrow.png/250px-Iron_Arrow.png?b6256",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "ammo",
+  "note": "Arrow with an iron tip dealing 20-48 damage, crafted at a Fletching Bench from one Iron Bar, two Ash Logs, and one Feather."
+ },
+ {
+  "name": "Iron Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Iron_Barbed_Arrow.png/250px-Iron_Barbed_Arrow.png?ad7b0",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "ammo",
+  "note": "Barbed iron arrow inflicting a bleeding effect, crafted by attaching weapon barbs to standard iron arrows at a fletching bench."
+ },
+ {
+  "name": "Iron Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Iron_Bolts.png/250px-Iron_Bolts.png?10ae2",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "ammo",
+  "note": "Crossbow bolt fired from iron crossbows dealing 36 base damage, crafted at a Fletching Bench from 1 Iron Bar and 3 Feathers."
+ },
+ {
+  "name": "Iron Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Iron_Fire_Arrow.png/250px-Iron_Fire_Arrow.png?5f396",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "ammo",
+  "note": "Burning iron arrow inflicting a burn debuff (5% max health over six seconds), crafted by applying fire oil to iron arrows at a fletching bench."
+ },
+ {
+  "name": "Mithril Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Mithril_Arrow.png/250px-Mithril_Arrow.png?dd669",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "ammo",
+  "note": "Arrow with a mithril tip dealing 34-82 base damage, crafted at a fletching bench from a mithril bar, ash logs, and feathers."
+ },
+ {
+  "name": "Mithril Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Mithril_Barbed_Arrow.png/250px-Mithril_Barbed_Arrow.png?4039c",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "ammo",
+  "note": "Barbed mithril arrow with a bleed effect, produced by combining regular mithril arrows with weapon barbs at a fletching bench."
+ },
+ {
+  "name": "Mithril Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Mithril_Bolts.png/250px-Mithril_Bolts.png?4dda9",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "ammo",
+  "note": "Crossbow bolt made from mithril dealing 61 base damage, crafted at a fletching bench from one mithril bar and three feathers."
+ },
+ {
+  "name": "Mithril Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Mithril_Fire_Arrow.png/250px-Mithril_Fire_Arrow.png?84566",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "ammo",
+  "note": "Burning mithril arrow with a 3.4x damage multiplier, crafted at a fletching bench from 33 mithril arrows and 1 fire oil."
+ },
+ {
+  "name": "Poisoned Adamant Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Poisoned_Adamant_Arrow.png/250px-Poisoned_Adamant_Arrow.png?ef35a",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "ammo",
+  "note": "Adamant arrow coated in Weapon Poison, crafted at a fletching bench from 33 regular adamant arrows and 1 weapon poison."
+ },
+ {
+  "name": "Poisoned Bronze Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Poisoned_Bronze_Arrow.png/250px-Poisoned_Bronze_Arrow.png?76f78",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "ammo",
+  "note": "Bronze arrow coated with weapon poison inflicting a poison debuff (5% max health over six seconds), crafted at a Fletching Bench from 33 Bronze Arrows and 1 Weapon Poison."
+ },
+ {
+  "name": "Poisoned Fang Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Poisoned_Fang_Arrow.png/250px-Poisoned_Fang_Arrow.png?f2cd6",
+  "tier": "Fang",
+  "tierRank": null,
+  "chest": "ammo",
+  "note": "Fang arrow dealing 8-17 additional damage with a poison debuff, crafted from 33 Fang Arrows and 1 Weapon Poison."
+ },
+ {
+  "name": "Poisoned Iron Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Poisoned_Iron_Arrow.png/250px-Poisoned_Iron_Arrow.png?7463c",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "ammo",
+  "note": "Iron arrow coated with weapon poison, inflicting poison damage (5% max health over six seconds) on hit, crafted at a Fletching Bench."
+ },
+ {
+  "name": "Poisoned Mithril Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Poisoned_Mithril_Arrow.png/250px-Poisoned_Mithril_Arrow.png?abce6",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "ammo",
+  "note": "Mithril arrow coated in Weapon Poison, crafted at a fletching bench from 33 regular mithril arrows and one dose of weapon poison."
+ },
+ {
+  "name": "Poisoned Rune Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Poisoned_Rune_Arrow.png/250px-Poisoned_Rune_Arrow.png?0fa13",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "ammo",
+  "note": "Runite-tipped arrow coated in poison dealing +42-101 base damage, crafted at a fletching bench from 33 Rune Arrows and 1 Weapon Poison."
+ },
+ {
+  "name": "Poisoned Steel Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Poisoned_Steel_Arrow.png/250px-Poisoned_Steel_Arrow.png?013aa",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "ammo",
+  "note": "Steel-tipped arrow coated in weapon poison, crafted at a fletching bench from 33 steel arrows and 1 weapon poison."
+ },
+ {
+  "name": "Rune Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Rune_Arrow_%28Journal%29.png/181px-Rune_Arrow_%28Journal%29.png?78d70",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "ammo",
+  "note": "Arrow dealing +42-101 base damage, crafted at a fletching bench from a rune bar, magic logs, and feathers."
+ },
+ {
+  "name": "Rune Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Rune_Barbed_Arrow.png/250px-Rune_Barbed_Arrow.png?8b5c8",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "ammo",
+  "note": "Barbed rune arrow dealing +42-101 damage, crafted by adding weapon barbs to rune arrows at a fletching bench."
+ },
+ {
+  "name": "Rune Bolt",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Rune_Bolt_%28Journal%29.png/181px-Rune_Bolt_%28Journal%29.png?78d70",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "ammo",
+  "note": "Crossbow bolt dealing 76 base damage (equal to adamant bolts), crafted at a Fletching Bench from one Rune Bar and one Feather."
+ },
+ {
+  "name": "Rune Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Rune_Fire_Arrow.png/250px-Rune_Fire_Arrow.png?dc0e3",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "ammo",
+  "note": "Burning runite-tipped arrow dealing +42-101 base damage, crafted at a fletching bench from 33 rune arrows and one fire oil."
+ },
+ {
+  "name": "Steel Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Arrow.png/250px-Steel_Arrow.png?a7817",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "ammo",
+  "note": "Arrow with a steel tip dealing 27-65 damage, crafted at a fletching bench from one steel bar, two ash logs, and one feather."
+ },
+ {
+  "name": "Steel Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Barbed_Arrow.png/250px-Steel_Barbed_Arrow.png?3648c",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "ammo",
+  "note": "Barbed steel arrow dealing 22-46 damage, crafted at a Fletching Bench from 33 Steel Arrows and 1 Weapon Barbs."
+ },
+ {
+  "name": "Steel Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Bolts.png/250px-Steel_Bolts.png?5e08e",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "ammo",
+  "note": "Crossbow bolt crafted from steel bars and feathers at a fletching bench, dealing 49 base damage."
+ },
+ {
+  "name": "Steel Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Steel_Fire_Arrow.png/250px-Steel_Fire_Arrow.png?250e0",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "ammo",
+  "note": "Burning steel arrow dealing 22 base damage, crafted by combining steel arrows with fire oil at a Fletching Bench."
+ },
+ {
+  "name": "Stone Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/thumb/Stone_Arrow.png/250px-Stone_Arrow.png?dcc49",
+  "tier": "Stone",
+  "tierRank": 0,
+  "chest": "ammo",
+  "note": "Basic arrow with a splintered stone tip dealing 5-12 damage, crafted at a Crafting Table from stone, ash logs, and feathers."
+ }
+]

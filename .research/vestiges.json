@@ -1,0 +1,898 @@
+[
+  {
+    "name": "Vestige",
+    "img": "",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "An overview page cataloguing vestiges, items players interact with to unlock crafting recipes for weapons, armour, trinkets, and decorations, listing roughly 109 of them across seven power tiers plus a miscellaneous section along with where to find or buy each one."
+  },
+  {
+    "name": "A Brutal Bladehead",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/A_Brutal_Bladehead.png/250px-A_Brutal_Bladehead.png?3719c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A powerful-looking blade broken beyond repair, from which the player could perhaps learn something."
+  },
+  {
+    "name": "A Corroded Serrated Blade",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/A_Corroded_Serrated_Blade.png/250px-A_Corroded_Serrated_Blade.png?ca90a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The rusted remains of a symbol of authority, from which the player could perhaps learn something."
+  },
+  {
+    "name": "A Cracked Bronze Vanity Mirror",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/A_Cracked_Bronze_Vanity_Mirror.png/250px-A_Cracked_Bronze_Vanity_Mirror.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A mirror that shows the worst possible side of yourself, from which the player could perhaps learn something."
+  },
+  {
+    "name": "A Cruel Goblin Blade",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/A_Cruel_Goblin_Blade.png/250px-A_Cruel_Goblin_Blade.png?24ca7",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A rusted blade with a wicked edge, barely usable now but something the player could perhaps learn from."
+  },
+  {
+    "name": "A Mysterious Crescent Carving",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/A_Mysterious_Crescent_Carving.png/250px-A_Mysterious_Crescent_Carving.png?ef512",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "What's left of a staff that feels soaked in sorrow, from which the player could perhaps learn something."
+  },
+  {
+    "name": "A Simple Broken Bow",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/A_Simple_Broken_Bow.png/250px-A_Simple_Broken_Bow.png?bb266",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remains of a longbow damaged in a dragon attack, from which the player could perhaps learn something."
+  },
+  {
+    "name": "A String of Sinew",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/A_String_of_Sinew.png/250px-A_String_of_Sinew.png?9fc7d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Sinew bound tightly enough to be dangerous, useless now but something the player could perhaps learn from."
+  },
+  {
+    "name": "A Threadbare Grain Sack",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/A_Threadbare_Grain_Sack.png/250px-A_Threadbare_Grain_Sack.png?16589",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "An odd, unsettling bundle of scratchy sackcloth, from which the player could perhaps learn something."
+  },
+  {
+    "name": "Abyssal Remains",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Abyssal_Remains.png/250px-Abyssal_Remains.png?82a5c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Remains from the abyss that the player could perhaps learn something from."
+  },
+  {
+    "name": "An Educational Blade",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/An_Educational_Blade.png/250px-An_Educational_Blade.png?27d05",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A crude wooden blade and handle, what's left of a child's toy turned into a weapon, from which the player could perhaps learn something."
+  },
+  {
+    "name": "An Ember-Edged Remnant of Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/An_Ember_Edged_Remnant_of_Cloth.png?78109",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A discontinued, removed-from-game vestige item, a burnt remnant of cloth the player could perhaps learn something from."
+  },
+  {
+    "name": "Arrowhead of Ancient Origin",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Arrowhead_of_Ancient_Origin.png/250px-Arrowhead_of_Ancient_Origin.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "An arrowhead that is still sharp, from which the player could perhaps learn something."
+  },
+  {
+    "name": "Azure Metal Contraption",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Azure_Metal_Contraption.png/250px-Azure_Metal_Contraption.png?613e1",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A contraption made from strange blue metal, from which the player could perhaps learn something."
+  },
+  {
+    "name": "Barbed Appendage",
+    "img": "https://dragonwilds.runescape.wiki/images/Barbed_Appendage.png?1f504",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige that unlocks the Kalphite Carapace Legs and can be purchased from Iasadair the Merchant for 5,000 Garou Chits."
+  },
+  {
+    "name": "Battle-Scarred Black Metal",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Battle-Scarred_Black_Metal.png/250px-Battle-Scarred_Black_Metal.png?70360",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian shield, a vestige item said to hold something worth learning from."
+  },
+  {
+    "name": "Black Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Memory_of_Menaphos.png?2307e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige that unlocks the Black Desert Cape and can be found in chests throughout the Umbral Sands region."
+  },
+  {
+    "name": "Bloodstained Black Visor",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Bloodstained_Black_Visor.png/250px-Bloodstained_Black_Visor.png?f7448",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian helmet, a vestige item said to hold something worth learning from."
+  },
+  {
+    "name": "Bloodstained Hilt",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Bloodstained_Hilt.png/250px-Bloodstained_Hilt.png?a3dc0",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian weapon, a vestige item said to hold something worth learning from."
+  },
+  {
+    "name": "Bludgeoning Obsidian Construct",
+    "img": "https://dragonwilds.runescape.wiki/images/Bludgeoning_Obsidian_Construct.png?cbccf",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige item whose cryptic lore hints that something could be learned from it."
+  },
+  {
+    "name": "Blue Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Memory_of_Menaphos.png?5e2b2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige that unlocks the Blue Desert Cape and can be found in chests throughout the Umbral Sands region."
+  },
+  {
+    "name": "Burnished Belt Buckle",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Burnished_Belt_Buckle.png/250px-Burnished_Belt_Buckle.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient remnants of a piece of armour, a vestige item said to hold something worth learning from."
+  },
+  {
+    "name": "Carved Bone Animal Lure",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Carved_Bone_Animal_Lure.png/250px-Carved_Bone_Animal_Lure.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige item described as seeming eager to be elsewhere, with something to be learned from it."
+  },
+  {
+    "name": "Chewed Blue Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Chewed_Blue_Cloth.png/250px-Chewed_Blue_Cloth.png?22e29",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps that appear to be the remains of a cape, a vestige item."
+  },
+  {
+    "name": "Chewed Green Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Chewed_Green_Cloth.png/250px-Chewed_Green_Cloth.png?4de0c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps that appear to be the remains of a cape, a vestige item."
+  },
+  {
+    "name": "Chewed Pink Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Chewed_Pink_Cloth.png/250px-Chewed_Pink_Cloth.png?c55ee",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps that appear to be the remains of a cape, a vestige item."
+  },
+  {
+    "name": "Chewed Red Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Chewed_Red_Cloth.png/250px-Chewed_Red_Cloth.png?cce8b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps that appear to be the remains of a cape, a vestige item."
+  },
+  {
+    "name": "Chewed Yellow Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Chewed_Yellow_Cloth.png/250px-Chewed_Yellow_Cloth.png?0f87e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps that appear to be the remains of a cape, a vestige item."
+  },
+  {
+    "name": "Chipped Obsidian Construct",
+    "img": "https://dragonwilds.runescape.wiki/images/Chipped_Obsidian_Construct.png?542c3",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "An ancient obsidian construct remnant, with an in-game description suggesting you could perhaps learn something from it."
+  },
+  {
+    "name": "Chitinous Carapace",
+    "img": "https://dragonwilds.runescape.wiki/images/Chitinous_Carapace.png?7d771",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A chitinous carapace remnant described in-game as something you could perhaps learn from."
+  },
+  {
+    "name": "Cloying Damp Cowl",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Cloying_Damp_Cowl.png/250px-Cloying_Damp_Cowl.png?37f3c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient remnants of some sort of armour, which you could perhaps learn something from."
+  },
+  {
+    "name": "Commemorative Coin",
+    "img": "https://dragonwilds.runescape.wiki/images/Commemorative_Coin.png?ceee5",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A commemorative coin relic described in-game as something you could perhaps learn from."
+  },
+  {
+    "name": "Consumable Recipes",
+    "img": "",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "An overview page cataloguing consumable recipes: blueprints that unlock buildings, weapons, armour, and food."
+  },
+  {
+    "name": "Corroded Curved Blade",
+    "img": "https://dragonwilds.runescape.wiki/images/Corroded_Curved_Blade.png?0bd46",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige that unlocks the keris weapon, obtained from a chest after defeating the Kalphite Queen boss in Umbral Sands."
+  },
+  {
+    "name": "Corroded Jewellery",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Corroded_Jewellery.png/250px-Corroded_Jewellery.png?41ec5",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A sinister piece of jewellery, corroded and burned, that you could perhaps learn something from."
+  },
+  {
+    "name": "Corroded White Visor",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Corroded_White_Visor.png/250px-Corroded_White_Visor.png?38ea6",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A battered helmet that you could perhaps learn something from."
+  },
+  {
+    "name": "Crushed Obsidian Construct",
+    "img": "https://dragonwilds.runescape.wiki/images/Crushed_Obsidian_Construct.png?9890b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A crushed obsidian construct remnant described in-game as something you could perhaps learn from."
+  },
+  {
+    "name": "Crushed White Cuisse",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/VESTIGE-_Crushed_White_Cuisse.png/250px-VESTIGE-_Crushed_White_Cuisse.png?55a3d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient remnants of some sort of armour, which you could perhaps learn something from."
+  },
+  {
+    "name": "Curse Carrying Crown",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Curse_Carrying_Crown.png/250px-Curse_Carrying_Crown.png?79609",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient remnants of some sort of armour, which you could perhaps learn something from."
+  },
+  {
+    "name": "Demonic Metal Rod",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Demonic_Metal_Rod.png/250px-Demonic_Metal_Rod.png?de4d0",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian weapon that you could perhaps learn something from."
+  },
+  {
+    "name": "Dented White Pauldron",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Dented_White_Pauldron.png/250px-Dented_White_Pauldron.png?e51f1",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient remnants of some sort of armour, which you could perhaps learn something from."
+  },
+  {
+    "name": "Dusty Black Pocket",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Dusty_Black_Pocket.png/250px-Dusty_Black_Pocket.png?cd9f4",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of Zamorakian chaps that you could perhaps learn something from."
+  },
+  {
+    "name": "Elongated Obsidian Construct",
+    "img": "https://dragonwilds.runescape.wiki/images/Elongated_Obsidian_Construct.png?7350c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A fragment of a Zamorakian construct, bearing the message that perhaps you could learn something from it."
+  },
+  {
+    "name": "Extinguished Blue Remnants",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Extinguished_Blue_Remnants.png/250px-Extinguished_Blue_Remnants.png?87031",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A long extinguished torch with unique characteristics."
+  },
+  {
+    "name": "Extinguished Green Remnants",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Extinguished_Green_Remnants.png/250px-Extinguished_Green_Remnants.png?2c696",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A long extinguished torch with unique characteristics."
+  },
+  {
+    "name": "Extinguished Purple Remnants",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Extinguished_Purple_Remnants.png/250px-Extinguished_Purple_Remnants.png?50100",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A long extinguished torch with unique characteristics."
+  },
+  {
+    "name": "Extinguished Red Remnants",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Extinguished_Red_Remnants.png/250px-Extinguished_Red_Remnants.png?872ec",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A long extinguished torch with unique characteristics."
+  },
+  {
+    "name": "Extinguished Yellow Remnants",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Extinguished_Yellow_Remnants.png/250px-Extinguished_Yellow_Remnants.png?0b84a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A long extinguished torch with unique characteristics."
+  },
+  {
+    "name": "Fabric That Hums With You",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Fabric_That_Hums_With_You.png/250px-Fabric_That_Hums_With_You.png?88e15",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian mage hood, suggesting you could learn something from it."
+  },
+  {
+    "name": "Fractured Obsidian Construct",
+    "img": "https://dragonwilds.runescape.wiki/images/Fractured_Obsidian_Construct.png?d272d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A broken piece of a Zamorakian construct, implying you could learn something from it."
+  },
+  {
+    "name": "Green Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Memory_of_Menaphos.png?e8424",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A relic tied to Menaphos, suggesting you could learn something from it."
+  },
+  {
+    "name": "Grim Black Codpiece",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Grim_Black_Codpiece.png/250px-Grim_Black_Codpiece.png?e2357",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of Zamorakian platelegs, suggesting you could learn something from it."
+  },
+  {
+    "name": "Hardy Weathered Shell",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Hardy_Weathered_Shell.png/250px-Hardy_Weathered_Shell.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A worn shell-like remnant that feels like it is pulling away from you, suggesting you could learn from it."
+  },
+  {
+    "name": "Icthlarian Fetish",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Icthlarian_Fetish.png/250px-Icthlarian_Fetish.png?33547",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "An Icthlarin-themed fetish item, suggesting you could learn from it."
+  },
+  {
+    "name": "Inspiring Insignia",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Inspiring_Insignia.png/250px-Inspiring_Insignia.png?04e3d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "An insignia relic, suggesting you could learn from it."
+  },
+  {
+    "name": "Limp Black Lining",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Limp_Black_Lining.png/250px-Limp_Black_Lining.png?193e9",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian body armour, suggesting you could learn something from it."
+  },
+  {
+    "name": "Lunate Shawl",
+    "img": "https://dragonwilds.runescape.wiki/images/Lunate_Shawl.png?1c6f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A tattered vestige item; the wiki hints you could perhaps learn something from it."
+  },
+  {
+    "name": "Lunular Wrappings",
+    "img": "https://dragonwilds.runescape.wiki/images/Lunular_Wrappings.png?e90bc",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A tattered vestige item; the wiki hints you could perhaps learn something from it."
+  },
+  {
+    "name": "Moth Eaten Black Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_Black_Cloth.png/250px-Moth_Eaten_Black_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Moth Eaten Blue Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_Blue_Cloth.png/250px-Moth_Eaten_Blue_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Moth Eaten Green Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_Green_Cloth.png/250px-Moth_Eaten_Green_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Moth Eaten Orange Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_Orange_Cloth.png/250px-Moth_Eaten_Orange_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Moth Eaten Pink Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_Pink_Cloth.png/250px-Moth_Eaten_Pink_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Moth Eaten Purple Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_Purple_Cloth.png/250px-Moth_Eaten_Purple_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Moth Eaten Red Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_Red_Cloth.png/250px-Moth_Eaten_Red_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Moth Eaten White Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_White_Cloth.png/250px-Moth_Eaten_White_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Moth Eaten Yellow Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Moth_Eaten_Yellow_Cloth.png/250px-Moth_Eaten_Yellow_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object that you might be able to learn something from."
+  },
+  {
+    "name": "Orange Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/Orange_Memory_of_Menaphos.png?7f639",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige item the wiki hints you could perhaps learn something from."
+  },
+  {
+    "name": "Ornate Golden Scarab",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Ornate_Golden_Scarab.png/250px-Ornate_Golden_Scarab.png?726d1",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A drop from the Kalphite Queen that was mistakenly added to the game."
+  },
+  {
+    "name": "Parts of a Sinister-Looking Staff",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Parts_of_a_Sinister-Looking_Staff.png/250px-Parts_of_a_Sinister-Looking_Staff.png?9c38e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Although damaged beyond repair, this staff seethes with ancient power and seems like something you could learn from."
+  },
+  {
+    "name": "Pink Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/Pink_Memory_of_Menaphos.png?6cc6e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige that unlocks the pink desert cape and can be found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Plate of Pure Obsidian",
+    "img": "https://dragonwilds.runescape.wiki/images/Plate_of_Pure_Obsidian.png?9b5ca",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige item that can be studied to learn something from it."
+  },
+  {
+    "name": "Purple Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/Purple_Memory_of_Menaphos.png?2e7bd",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige item that can be studied to learn something from it."
+  },
+  {
+    "name": "Red Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Memory_of_Menaphos.png?96197",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige that unlocks the red desert cape and is found in chests throughout Umbral Sands."
+  },
+  {
+    "name": "Remnants of a Rotting Robe",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/VESTIGE-_Remnants_of_a_Rotting_Robe.png/250px-VESTIGE-_Remnants_of_a_Rotting_Robe.png?f179d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient remnants of some sort of armour that can be studied to learn something."
+  },
+  {
+    "name": "Remnants of a Shattered Skull",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Remnants_of_a_Shattered_Skull.png/250px-Remnants_of_a_Shattered_Skull.png?1947e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A skull obliterated by a particularly nasty weapon that can be studied to learn something."
+  },
+  {
+    "name": "Rotten Farming Tool",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Rotten_Farming_Tool.png/250px-Rotten_Farming_Tool.png?db6f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige found by looting Buried Chests in Fellhollow that can be studied to unlock the undead spade recipe."
+  },
+  {
+    "name": "Scratchy Sackcloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Scratchy_Sackcloth.png/250px-Scratchy_Sackcloth.png?13d48",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A ghostly, unsettling bundle of sackcloth that can be studied to learn something."
+  },
+  {
+    "name": "Selenic Veil",
+    "img": "https://dragonwilds.runescape.wiki/images/Selenic_Veil.png?e77c6",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige item that can be studied to learn something from it."
+  },
+  {
+    "name": "Serrated Claw",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Imaru%27s_Talon.png/250px-Imaru%27s_Talon.png?13310",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vicious claw once belonging to Imaru, used in attempts to rip the player apart."
+  },
+  {
+    "name": "Shard of Black Pauldron",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Shard_of_Black_Pauldron.png/250px-Shard_of_Black_Pauldron.png?08d20",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian platebody that can be studied to learn something."
+  },
+  {
+    "name": "Shard of Smoky Glass",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/VESTIGE-_Shard_of_Smoky_Glass.png/250px-VESTIGE-_Shard_of_Smoky_Glass.png?fd4b4",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige that can be consumed to receive the recipe to craft the shadow sword."
+  },
+  {
+    "name": "Shattered Black Blade",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Shattered_Black_Blade.png/250px-Shattered_Black_Blade.png?3a276",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian weapon that can be studied to learn something."
+  },
+  {
+    "name": "Shattered Black Blade (Umbral Sands)",
+    "img": "https://dragonwilds.runescape.wiki/images/Shattered_Black_Blade_%28Umbral_Sands%29.png?916c9",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige item found in Umbral Sands that can be studied to learn something from it."
+  },
+  {
+    "name": "Shred of Sunbleached Weave",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Shred_of_Sunbleached_Weave.png/250px-Shred_of_Sunbleached_Weave.png?377c0",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient, sunbleached remnants of some sort of armour, implying something could be learned from it."
+  },
+  {
+    "name": "Shroud of Noggin",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Shroud_of_Noggin.png/250px-Shroud_of_Noggin.png?59792",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A ghostly sackcloth mask that reduces Wither buildup while worn, said to belong to Noggin, a forgotten spirit who guarded treasure in Hope's Fall from grave robbers."
+  },
+  {
+    "name": "Sigil of a Phoenix",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Sigil_of_a_Phoenix.png/250px-Sigil_of_a_Phoenix.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A sigil that endlessly burns and reconstitutes itself, evoking the regenerative nature of a phoenix."
+  },
+  {
+    "name": "Simply Splendid Feather",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/VESTIGE-_Simply_Splendid_Feather.png/250px-VESTIGE-_Simply_Splendid_Feather.png?f3086",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient remnants of some sort of armour, implying something could be learned from it."
+  },
+  {
+    "name": "Sinister Mechanism",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Sinister_Mechanism.png/250px-Sinister_Mechanism.png?8d723",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian weapon, implying something could be learned from it."
+  },
+  {
+    "name": "Slightly Chaffing Chestguard",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/VESTIGE-_Slightly_Chaffing_Chestguard.png/250px-VESTIGE-_Slightly_Chaffing_Chestguard.png?a8217",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient remnants of some sort of armour, implying something could be learned from it."
+  },
+  {
+    "name": "Sodden Black Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Sodden_Black_Leather.png/250px-Sodden_Black_Leather.png?a1a3a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian cowl, implying something could be learned from it."
+  },
+  {
+    "name": "Softly Vibrating Orb",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Softly_Vibrating_Orb.png/250px-Softly_Vibrating_Orb.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A sphere that seems to be playing a chill menu tune, implying something could be learned from it."
+  },
+  {
+    "name": "Soiled Blue Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Soiled_Blue_Cloth.png/250px-Soiled_Blue_Cloth.png?110f3",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps of what seems to be a cape, implying something could be learned from it."
+  },
+  {
+    "name": "Soiled Green Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Soiled_Green_Cloth.png/250px-Soiled_Green_Cloth.png?7fb12",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps of what seems to be a cape, implying something could be learned from it."
+  },
+  {
+    "name": "Soiled Pink Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Soiled_Pink_Cloth.png/250px-Soiled_Pink_Cloth.png?7535c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps of what seems to be a cape, implying something could be learned from it."
+  },
+  {
+    "name": "Soiled Red Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Soiled_Red_Cloth.png/250px-Soiled_Red_Cloth.png?78e65",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps of what seems to be a cape, implying something could be learned from it."
+  },
+  {
+    "name": "Soiled Yellow Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Soiled_Yellow_Cloth.png/250px-Soiled_Yellow_Cloth.png?dc1af",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Dodgy-looking scraps of what seems to be a cape, implying something could be learned from it."
+  },
+  {
+    "name": "Sun-Bleached Head Wrap",
+    "img": "https://dragonwilds.runescape.wiki/images/Sun-Bleached_Head_Wrap.png?f92d6",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A sun-bleached head wrap, implying something could be learned from it."
+  },
+  {
+    "name": "Sun-Bleached Leggings",
+    "img": "https://dragonwilds.runescape.wiki/images/Sun-Bleached_Leggings.png?4ec25",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige of leg armor bleached by long exposure to the sun."
+  },
+  {
+    "name": "Sun-Bleached Vest",
+    "img": "https://dragonwilds.runescape.wiki/images/Sun-Bleached_Vest.png?174f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige of a vest bleached by long exposure to the sun."
+  },
+  {
+    "name": "Sundering Spiked Slab",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Sundering_Spiked_Slab.png/250px-Sundering_Spiked_Slab.png?888f0",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A spiked slab splattered with blood, implied to hold a lesson for whoever studies it."
+  },
+  {
+    "name": "Suspiciously Light Tattered Boots",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Suspiciously_Light_Tattered_Boots.png/250px-Suspiciously_Light_Tattered_Boots.png?1c565",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "Boots barely heavier than a feather, worn away by time's cruel march."
+  },
+  {
+    "name": "Tastefully Torn Tights",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Tastefully_Torn_Tights.png/250px-Tastefully_Torn_Tights.png?26819",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The ancient, torn remnants of some sort of armour."
+  },
+  {
+    "name": "Tattered Time-Lost Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Tattered_Time-Lost_Cloth.png/250px-Tattered_Time-Lost_Cloth.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The tattered pieces of a mysterious object lost to time."
+  },
+  {
+    "name": "Torn Tapestry",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Torn_Tapestry.png/250px-Torn_Tapestry.png?81503",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A piece of cloth torn from one of Dowdun Reach's tapestries."
+  },
+  {
+    "name": "Twtiching Antenna",
+    "img": "https://dragonwilds.runescape.wiki/images/Twtiching_Antenna.png?e4c9a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A twitching antenna vestige, implied to hold a lesson for whoever studies it."
+  },
+  {
+    "name": "Unyielding Obsidian Construct",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Unyielding_Obsidian_Construct.png/250px-Unyielding_Obsidian_Construct.png?760f1",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A sturdy, unyielding construct fashioned from obsidian."
+  },
+  {
+    "name": "Weighted Training Band",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weighted_Training_Band.png/250px-Weighted_Training_Band.png?2bf82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A training band noticeably weighted, described as pulling away from its wearer."
+  },
+  {
+    "name": "Whispering Elbow Pad",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Whispering_Elbow_Pad.png/250px-Whispering_Elbow_Pad.png?b9539",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian mage robe."
+  },
+  {
+    "name": "White Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/White_Memory_of_Menaphos.png?7cf1f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige memory item associated with the city of Menaphos."
+  },
+  {
+    "name": "Wizard's Kneecap",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Wizard%27s_Kneecap.png/250px-Wizard%27s_Kneecap.png?aae8a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "The remnants of a Zamorakian mage robe's legs."
+  },
+  {
+    "name": "Yellow Memory of Menaphos",
+    "img": "https://dragonwilds.runescape.wiki/images/Yellow_Memory_of_Menaphos.png?a607a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "vestiges",
+    "note": "A vestige memory item that unlocks the yellow desert cape, found in chests throughout the Umbral Sands region."
+  }
+]

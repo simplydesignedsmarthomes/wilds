@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Antifire Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Antifire_Potion.png/250px-Antifire_Potion.png?74865",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Antifire\" perk: NEGATES and grants RESISTANCE to FIRE effects. Lasts 300 seconds."
+  },
+  {
+    "name": "Antipoison Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Antipoison_Potion.png/250px-Antipoison_Potion.png?bdc35",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Removes poison and grants resistance to it. Made with irit and poison ichor. Lasts 300 seconds."
+  },
+  {
+    "name": "Avantoe",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Avantoe.png/250px-Avantoe.png?00e33",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "Can be used for potions."
+  },
+  {
+    "name": "Brewing Cauldron",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Brewing_Cauldron.png/250px-Brewing_Cauldron.png?6bf2b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "misc",
+    "note": "This cauldron is built to brew liquids. Potions can be created here."
+  },
+  {
+    "name": "Focused Agility Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Agility_Potion.png/250px-Focused_Agility_Potion.png?a9f9f",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Agility\" perk: Grants a 30% XP BOOST for the Agility Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Artisan Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Artisan_Potion.png/250px-Focused_Artisan_Potion.png?f3600",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Artisan II\" perk: Grants a 30% XP BOOST for the ARTISAN Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Attack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Attack_Potion.png/250px-Focused_Attack_Potion.png?b65b4",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Attack II\" perk: Grants a 30% XP BOOST for the Attack Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Construction Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Construction_Potion.png/250px-Focused_Construction_Potion.png?fb45c",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Construction II\" perk: Grants a 30% XP BOOST for the Construction Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Cooking Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Cooking_Potion.png/250px-Focused_Cooking_Potion.png?60376",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Cooking II\" perk: Grants a 30% XP BOOST for the Cooking Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Farming Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Farming_Potion.png/250px-Focused_Farming_Potion.png?0804c",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Farming II\" perk: Grants a 30% XP BOOST for the Farming Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Fishing",
+    "img": "https://dragonwilds.runescape.wiki/images/Focused_Fishing.png?2cc0d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "Focused Fishing is a perk given by drinking the weak Focused Fishing potion or the lesser Focused Fishing potion, increasing the experience gained when training the Fishing skill by 15% for 5 minutes (300 seconds), or 10 minutes (600 seconds) respectively."
+  },
+  {
+    "name": "Focused Fishing II",
+    "img": "https://dragonwilds.runescape.wiki/images/Focused_Fishing.png?2cc0d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "Focused Fishing II is a perk given by drinking the Focused Fishing potion or the super Focused Fishing potion, increasing the experience gained when training the Fishing skill by 30% for 5 minutes (300 seconds) or 10 minutes (600 seconds) respectively."
+  },
+  {
+    "name": "Focused Fishing Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Fishing_Potion.png/250px-Focused_Fishing_Potion.png?57912",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Fishing II\" perk: Grants a boost to your Fishing XP for a short period of time. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Mining Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Mining_Potion.png/250px-Focused_Mining_Potion.png?4b8dd",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Mining II\" perk: Grants a 30% XP BOOST for the Mining Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Runecrafting Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Runecrafting_Potion.png/250px-Focused_Runecrafting_Potion.png?67a33",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Runecrafting II\" perk: Grants a 30% XP BOOST for the Runecrafting Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Focused Woodcutting Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Focused_Woodcutting_Potion.png/250px-Focused_Woodcutting_Potion.png?b4f99",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Focused Woodcutting II\" perk: Grants a 30% XP BOOST for the Woodcutting Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Harralander",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Harralander.png/250px-Harralander.png?68a6b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A fragrant herb used in restorative potions."
+  },
+  {
+    "name": "Healing Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Healing_Potion.png/250px-Healing_Potion.png?b83dc",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Recovers some lost health. Made with irit and redberries. (Removed from the game in a later update.)"
+  },
+  {
+    "name": "Irit",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Irit.png/250px-Irit.png?ad481",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "Harvested from Thorny Irit Roots, used in potion making at the brewing cauldron."
+  },
+  {
+    "name": "Kwuarm",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Kwuarm.png/250px-Kwuarm.png?a1c46",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A bitter green herb used to make potions."
+  },
+  {
+    "name": "Lesser Antipoison Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Antipoison_Potion.png/250px-Lesser_Antipoison_Potion.png?d3d65",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Removes poison and grants resistance to it. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Attack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Attack_Potion.png/250px-Lesser_Attack_Potion.png?739c3",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Strikes\" perk: INCREASED chance of landing CRITICAL HITS with MELEE ATTACKS. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Agility Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Agility_Potion.png/250px-Lesser_Focused_Agility_Potion.png?d9377",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Agility\" perk: Grants a 15% XP BOOST for the Agility Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Artisan Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Artisan_Potion.png/250px-Lesser_Focused_Artisan_Potion.png?1e8fb",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Artisan\" perk: Grants a 15% XP BOOST for the ARTISAN Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Attack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Attack_Potion.png/250px-Lesser_Focused_Attack_Potion.png?3199f",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Attack\" perk: Grants a 15% XP BOOST for the ATTACK Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Construction Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Construction_Potion.png/250px-Lesser_Focused_Construction_Potion.png?436de",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Construction\" perk: Grants a 15% XP BOOST for the CONSTRUCTION Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Cooking Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Cooking_Potion.png/250px-Lesser_Focused_Cooking_Potion.png?cc19d",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Cooking\" perk: Grants a 15% XP BOOST for the COOKING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Farming Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Farming_Potion.png/250px-Lesser_Focused_Farming_Potion.png?8ad2e",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Farming\" perk: Grants a 15% XP BOOST for the FARMING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Fishing Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Fishing_Potion.png/250px-Lesser_Focused_Fishing_Potion.png?30834",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Fishing\" perk: Grants a boost to your Fishing XP for a short period of time. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Mining Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Mining_Potion.png/250px-Lesser_Focused_Mining_Potion.png?d94a9",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Mining\" perk: Grants a 15% XP BOOST for the MINING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Runecrafting Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Runecrafting_Potion.png/250px-Lesser_Focused_Runecrafting_Potion.png?83961",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Runecrafting\" perk: Grants a 15% XP BOOST for the RUNECRAFTING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Focused Woodcutting Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Focused_Woodcutting_Potion.png/250px-Lesser_Focused_Woodcutting_Potion.png?80367",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Woodcutting\" perk: Grants a 15% XP BOOST for the WOODCUTTING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Healing Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Healing_Potion.png/250px-Lesser_Healing_Potion.png?39e25",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "A potion that restores a moderate amount of health. (Removed from the game in a later update.)"
+  },
+  {
+    "name": "Lesser Lumberjack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Lumberjack_Potion.png/250px-Lesser_Lumberjack_Potion.png?6b6f5",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Lumberjack\" perk: REDUCES the STAMINA cost of WOODCUTTING by 33%. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Magic Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Magic_Potion.png/250px-Lesser_Magic_Potion.png?90fb3",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Focused Casting\" perk: INCREASED chance of landing CRITICAL HITS with COMBAT SPELLS. Lasts 600 seconds."
+  },
+  {
+    "name": "Lesser Quarrymaster Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lesser_Quarrymaster_Potion.png/250px-Lesser_Quarrymaster_Potion.png?15eb3",
+    "tier": "Lesser",
+    "tierRank": 2,
+    "chest": "potions",
+    "note": "Grants the \"Quarrymaster\" perk: REDUCES the STAMINA cost of MINING by 33%. Lasts 600 seconds."
+  },
+  {
+    "name": "Lumberjack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Lumberjack_Potion.png/250px-Lumberjack_Potion.png?18600",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Lumberjack II\" perk: REDUCES the STAMINA cost of WOODCUTTING by 66%. Lasts 300 seconds."
+  },
+  {
+    "name": "Marrentil",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Marrentil.png/250px-Marrentil.png?7b31d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A bitter tasting herb used in resistance potions."
+  },
+  {
+    "name": "Plant Cure",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Plant_Cure.png/250px-Plant_Cure.png?ab06e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "Used to cure diseased plants and bring them back to a healthy state."
+  },
+  {
+    "name": "Quarrymaster Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Quarrymaster_Potion.png/250px-Quarrymaster_Potion.png?ccda5",
+    "tier": "Regular",
+    "tierRank": 3,
+    "chest": "potions",
+    "note": "Grants the \"Quarrymaster II\" perk: REDUCES the STAMINA cost of Mining by 66%. Lasts 300 seconds."
+  },
+  {
+    "name": "Snapdragon",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Snapdragon.png/250px-Snapdragon.png?6c8ad",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A sweet-smelling herb used in restorative potions."
+  },
+  {
+    "name": "Stamina Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Stamina_Potion.png/250px-Stamina_Potion.png?7f693",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "Consuming a stamina potion will prevent all loss of stamina for a short duration, however you'll need a moment to recover before you have another as such unbridled energy is taxing on the body. Lasts 20 seconds."
+  },
+  {
+    "name": "Super Antifire Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Antifire_Potion.png/250px-Super_Antifire_Potion.png?bcc4a",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Antifire\" perk: NEGATES and grants RESISTANCE to FIRE effects. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Antipoison Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Antipoison_Potion.png/250px-Super_Antipoison_Potion.png?11ae2",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Antipoison II\" perk: NEGATES and grants RESISTENCE to POISON effects. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Agility Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Agility_Potion.png/250px-Super_Focused_Agility_Potion.png?428b2",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Agility II\" perk: Grants a 30% XP BOOST for the Agility Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Artisan Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Artisan_Potion.png/250px-Super_Focused_Artisan_Potion.png?5cb0f",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Artisan II\" perk: Grants a 30% XP BOOST for the ARTISAN Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Attack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Attack_Potion.png/250px-Super_Focused_Attack_Potion.png?e9136",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Attack II\" perk: Grants a 30% XP BOOST for the ATTACK Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Construction Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Construction_Potion.png/250px-Super_Focused_Construction_Potion.png?662c0",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Construction II\" perk: Grants a 30% XP BOOST for the CONSTRUCTION Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Cooking Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Cooking_Potion.png/250px-Super_Focused_Cooking_Potion.png?bd4d4",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Cooking II\" perk: Grants a 30% XP BOOST for the COOKING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Farming Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Farming_Potion.png/250px-Super_Focused_Farming_Potion.png?ad606",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Farming II\" perk: Grants a 30% XP BOOST for the FARMING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Fishing Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Fishing_Potion.png/250px-Super_Focused_Fishing_Potion.png?623a7",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Fishing II\" perk: Grants a 30% XP BOOST for the FISHING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Mining Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Mining_Potion.png/250px-Super_Focused_Mining_Potion.png?4971f",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Mining II\" perk: Grants a 30% XP BOOST for the MINING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Runecrafting Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Runecrafting_Potion.png/250px-Super_Focused_Runecrafting_Potion.png?0c047",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Runecrafting II\" perk: Grants a 30% XP BOOST for the RUNECRAFING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Focused Woodcutting Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Focused_Woodcutting_Potion.png/250px-Super_Focused_Woodcutting_Potion.png?85caf",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Focused Woodcutting II\" perk: Grants a 30% XP BOOST for the WOODCUTTING Skill. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Lumberjack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Lumberjack_Potion.png/250px-Super_Lumberjack_Potion.png?f93c3",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Lumberjack II\" perk: REDUCES the STAMINA cost of WOODCUTTING by 66%. Lasts 600 seconds."
+  },
+  {
+    "name": "Super Quarrymaster Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Super_Quarrymaster_Potion.png/250px-Super_Quarrymaster_Potion.png?f59f5",
+    "tier": "Super",
+    "tierRank": 4,
+    "chest": "potions",
+    "note": "Grants the \"Quarrymaster II\" perk: REDUCES the STAMINA cost of MINING by 66%. Lasts 600 seconds."
+  },
+  {
+    "name": "Toadflax",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Toadflax.png/250px-Toadflax.png?dfc4f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A spicy tasting herb used in resistance potions."
+  },
+  {
+    "name": "Weak Antipoison Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Antipoison_Potion.png/250px-Weak_Antipoison_Potion.png?5a0d4",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Antipoison\" perk: Negates and grants RESISTANCE to POISON effects. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Agility Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Agility_Potion.png/250px-Weak_Focused_Agility_Potion.png?91662",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Agility\" perk: Grants a 15% XP BOOST for the Agility Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Artisan Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Artisan_Potion.png/250px-Weak_Focused_Artisan_Potion.png?4c820",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Artisan\" perk: Grants a 15% XP BOOST for the ARTISAN Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Attack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Attack_Potion.png/250px-Weak_Focused_Attack_Potion.png?4c820",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Attack\" perk: Grants a 15% XP BOOST for the ATTACK Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Construction Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Construction_Potion.png/250px-Weak_Focused_Construction_Potion.png?ab688",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Construction\" perk: Grants a 15% XP BOOST for the CONSTRUCTION Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Cooking Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Cooking_Potion.png/250px-Weak_Focused_Cooking_Potion.png?4c820",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Cooking\" perk: Grants a 15% XP BOOST for the COOKING Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Farming Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Farming_Potion.png/250px-Weak_Focused_Farming_Potion.png?7e104",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Farming\" perk: Grants a 15% XP BOOST for the FARMING Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Fishing Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Fishing_Potion.png/250px-Weak_Focused_Fishing_Potion.png?4c7bd",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Fishing\" perk: Grants a boost to your Fishing XP for a short period of time. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Mining Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Mining_Potion.png/250px-Weak_Focused_Mining_Potion.png?5a0d4",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Mining\" perk: Grants a 15% XP BOOST for the MINING Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Runecrafting Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Runecrafting_Potion.png/250px-Weak_Focused_Runecrafting_Potion.png?d1bca",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Runecrafting\" perk: Grants a 15% XP BOOST for the RUNECRAFTING Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Focused Woodcutting Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Focused_Woodcutting_Potion.png/250px-Weak_Focused_Woodcutting_Potion.png?ab688",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Focused Woodcutting\" perk: Grants a 15% XP BOOST for the WOODCUTTING Skill. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Healing Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Healing_Potion.png/250px-Weak_Healing_Potion.png?b8a5c",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "A potion that restores a small amount of health. (Removed from the game in a later update.)"
+  },
+  {
+    "name": "Weak Lumberjack Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Lumberjack_Potion.png/250px-Weak_Lumberjack_Potion.png?5a0d4",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Lumberjack\" perk: REDUCES the STAMINA cost of WOODCUTTING by 33%. Lasts 300 seconds."
+  },
+  {
+    "name": "Weak Quarrymaster Potion",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weak_Quarrymaster_Potion.png/250px-Weak_Quarrymaster_Potion.png?ab688",
+    "tier": "Weak",
+    "tierRank": 1,
+    "chest": "potions",
+    "note": "Grants the \"Quarrymaster\" perk: REDUCES the STAMINA cost of Mining by 33%. Lasts 300 seconds."
+  },
+  {
+    "name": "Weapon Poison",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Weapon_Poison.png/250px-Weapon_Poison.png?3437b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A vial of Weapon Poison. Used in crafting Poison Arrows or to coat your equipped Melee Weapon with Poison for a short time."
+  },
+  {
+    "name": "Corroded Jewellery",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Corroded_Jewellery.png/250px-Corroded_Jewellery.png?41ec5",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A sinister piece of jewellery, corroded and burned. Perhaps you can learn something from it."
+  },
+  {
+    "name": "Dwellberry Glazed Roast Meat",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Dwellberry_Glazed_Roast_Meat.png/250px-Dwellberry_Glazed_Roast_Meat.png?cfe3d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A juicy piece of roasted meat with a deliciously fruity dwellberry glazing. Scrumptious! (Removed from the game in a later update.)"
+  },
+  {
+    "name": "Tome of Farming - Vol 1",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Tome_of_Farming_-_Vol_1.png/250px-Tome_of_Farming_-_Vol_1.png?e26b7",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A book filled with knowledge about how to apply dirt and water to seeds. Awards a small amount of Farming XP."
+  },
+  {
+    "name": "Tome of Farming - Vol 2",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Tome_of_Farming_-_Vol_2.png/250px-Tome_of_Farming_-_Vol_2.png?16695",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A book filled with knowledge about how to apply dirt and water to seeds. Awards a decent amount of Farming XP."
+  },
+  {
+    "name": "Tome of Fishing - Vol 1",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Tome_of_Fishing_-_Vol_1.png/250px-Tome_of_Fishing_-_Vol_1.png?12b5c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A book filled with knowledge about how to efficiently tire out fish. Awards a small amount of Fishing XP."
+  },
+  {
+    "name": "Tome of Fishing - Vol 2",
+    "img": "https://dragonwilds.runescape.wiki/images/thumb/Tome_of_Fishing_-_Vol_2.png/250px-Tome_of_Fishing_-_Vol_2.png?e7ef0",
+    "tier": "",
+    "tierRank": null,
+    "chest": "potions",
+    "note": "A book filled with knowledge about how to efficiently tire out fish. Awards a decent amount of Fishing XP."
+  }
+]

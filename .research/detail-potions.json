@@ -1,0 +1,3326 @@
+[
+ {
+  "name": "Antifire Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Antifire NEGATES and grants RESISTANCE to FIRE effects"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Blue Dragon Scale Dust x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Antifire Potion x1"
+   }
+  ],
+  "description": "Antifire potion applies the perk Antifire, which removes Burning stacks and grants 33% resistance from Burning buildup for 300 seconds (5 minutes). It is crafted with irit, blue dragon scale dust, and glass vessel.\n\n(Journal)\nWhile the antifire potion is a miraculous thing and one of the most useful items on Ashenfall, it does have a flaw. It can be hard to know when its effect wears off. Knowing that you are protected, or not protected, while standing in front of a dragon is something of a problem.\n\nOne solution is to bring someone with you. Get them to count while you fight a dragon. They can give you a happy thumbs-up while protected and a sad thumbs-down when you're not.\n\nOf course, they probably need antifire if they're going to assume that role. Which means a third party to give the second party a thumbs-up or thumbs-down. Yeah, we see the flaw in the plan."
+ },
+ {
+  "name": "Antipoison Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "Removes poison and grants resistance to it. Made with irit and poison ichor."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Poison Ichor x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Antipoison Potion x1"
+   }
+  ],
+  "description": "An antipoison potion applies the perk Antipoison II, which removes Poison effects and grants 66% resistance from future Poison effects, compared to 33% resistance from Antipoison. It is crafted with irit, poison ichor, and glass vessel.\n\n(Journal)\nJust because you're protected by antipoison, it doesn't mean that you should start glugging poison or poking yourself with poison-tipped arrows. Your body still needs to get rid of that poison, and it's not pleasant on the exit."
+ },
+ {
+  "name": "Avantoe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "29 July 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Resource"
+   },
+   {
+    "label": "Description",
+    "value": "Can be used for potions."
+   },
+   {
+    "label": "Weight",
+    "value": "0.1"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Avantoe is an herb obtained by harvesting Avantoe plants. It can be farmed by planting avantoe seeds in a willow farming plot, with iron secateurs providing an increased yield when harvesting.\n\n(Journal)\nEverything about the avantoe is quickfire. It grows quickly, blooms fast, and is a superb catalyst, reacting quickly in potion-making. It's a plant in a rush, eager to germinate and get the next avantoe on its way. Meanwhile, I can spend an hour trying to work out what to eat today, and can stare at an empty space where a journal should be for even longer."
+ },
+ {
+  "name": "Brewing Cauldron",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Catalogue",
+    "value": "Crafting"
+   },
+   {
+    "label": "Collection",
+    "value": "Food & Potions"
+   },
+   {
+    "label": "Description",
+    "value": "This cauldron is built to brew liquids. Potions can be created here."
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Build Menu"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Construction (12 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Ash Logs x16, Coarse Thread x6, Rune Essence x10, Clay x6"
+   },
+   {
+    "label": "Output",
+    "value": "Brewing Cauldron x1"
+   }
+  ],
+  "description": "The brewing cauldron is used to brew various potions that can boost the player's abilities, increase experience gained, grant immunities to status effects, or restore their health. It will display all known recipes in its crafting menu and will draw from nearby linked storages. It does not have any shelter restrictions and can be placed without a foundation. It is learned when picking up clay for the first time."
+ },
+ {
+  "name": "Focused Agility Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "29 July 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Agility Grants a 30% XP BOOST for the Agility Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Glass Vessel x1, Avantoe x1, Gold Leaf x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Agility Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Agility potion grants the perk Focused Agility, which provides a 5-minute (300-second) +30% XP boost for the Agility skill. It is made with avantoe, gold leaf, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Focused Artisan Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Artisan II Grants a 30% XP BOOST for the ARTISAN Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Necrotic Bonemeal x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Artisan Potion x1"
+   }
+  ],
+  "description": "Focused Artisan potion grants the perk Focused Artisan II, which provides a 5-minute (300-second) +30% XP boost for the Artisan skill. It is made with irit, necrotic bonemeal, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Focused Attack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Attack II Grants a 30% XP BOOST for the Attack Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Small Animal Fang x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Attack Potion x1"
+   }
+  ],
+  "description": "Focused Attack potion grants the perk Focused Attack II, which provides a 5-minute (300-second) +30% XP boost for the Attack skill. It is made with an irit, a small animal fang, and a glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Focused Construction Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Construction II Grants a 30% XP BOOST for the Construction Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Ground Sandstone x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Construction Potion x1"
+   }
+  ],
+  "description": "Focused Construction potion grants the perk Focused Construction II, which provides a 5-minute (300-second) +30% XP boost for the Construction skill. It is made with irit, ground sandstone, and a glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Focused Cooking Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Cooking II Grants a 30% XP BOOST for the Cooking Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Cabbage x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Cooking Potion x1"
+   }
+  ],
+  "description": "Focused Cooking potion grants the perk Focused Cooking II, which provides a 5-minute (300-second) +30% XP boost for the Cooking skill. It is made with irit, cabbage, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Focused Farming Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Farming II Grants a 30% XP BOOST for the Farming Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Undead Bone x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Farming Potion x1"
+   }
+  ],
+  "description": "Focused Farming potion grants the perk Focused Farming II, which provides a 5-minute (300-second) +30% XP boost for the Farming skill. It is made with irit, undead bone, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Focused Fishing",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Update)"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Source",
+    "value": "Weak Focused Fishing potion, Lesser Focused Fishing potion"
+   }
+  ],
+  "description": "Focused Fishing is a perk given by drinking the weak Focused Fishing potion or the lesser Focused Fishing potion, increasing the experience gained when training the Fishing skill by 15% for 5 minutes (300 seconds), or 10 minutes (600 seconds) respectively."
+ },
+ {
+  "name": "Focused Fishing II",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Update)"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Source",
+    "value": "Focused Fishing potion, Super Focused Fishing potion"
+   }
+  ],
+  "description": "Focused Fishing II is a perk given by drinking the Focused Fishing potion or the super Focused Fishing potion, increasing the experience gained when training the Fishing skill by 30% for 5 minutes (300 seconds) or 10 minutes (600 seconds) respectively."
+ },
+ {
+  "name": "Focused Fishing Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Fishing II Grants a boost to your Fishing XP for a short period of time."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Grilled Trout x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Fishing Potion x1"
+   }
+  ],
+  "description": "Focused Fishing potion grants the perk Focused Fishing II, which provides a 5-minute (300-second) +30% XP boost for the Fishing skill. It is made with irit, grilled trout, and glass vessel in a brewing cauldron.\n\n(Journal)\nYou often hear stories about great anglers who have that one marine animal they've never caught. A whale perhaps, or a darting salmon. Well, I had a friend once who had an enmity with a prawn. It was a big prawn, mind you, and every time he caught it, it would leap out of his net and get away. He accused that pawn of gloating: he believed it waited until he hauled in the net before scarpering.\n\nIt got to the point where my friend traded his week's wages for a fishing potion. Not a lesser or weak fishing potion: a third-tier, freshly made fishing potion. He was going to catch that prawn, even if he had to starve for days.\n\nBut the potion didn't make him any better at catching the prawn. Instead, he became attuned to the prawn. He was so aware that he knew what it was thinking. Now, every time the prawn escapes, my friend can hear it cackle and let out a little \"doofus!\"."
+ },
+ {
+  "name": "Focused Mining Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Mining II Grants a 30% XP BOOST for the Mining Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Coarse Animal Fur x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Mining Potion x1"
+   }
+  ],
+  "description": "Focused Mining potion grants the perk Focused Mining II, which provides a 5-minute (300-second) +30% XP boost for the Mining skill. It is made with irit, coarse animal fur, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Focused Runecrafting Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Runecrafting II Grants a 30% XP BOOST for the Runecrafting Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Feathers x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Runecrafting Potion x1"
+   }
+  ],
+  "description": "Focused Runecrafting potion grants the perk Focused Runecrafting II, which provides a 5-minute (300-second) +30% XP boost for the Runecrafting skill. It is made with irit, feathers, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Focused Woodcutting Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Woodcutting II Grants a 30% XP BOOST for the Woodcutting Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Redberries x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Focused Woodcutting Potion x1"
+   }
+  ],
+  "description": "Focused Woodcutting potion grants the perk Focused Woodcutting II, which provides a 5-minute (300-second) +30% XP boost for the Woodcutting skill. It is made with irit, redberries, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Harralander",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Basic Item"
+   },
+   {
+    "label": "Description",
+    "value": "A fragrant herb used in restorative potions."
+   },
+   {
+    "label": "Weight",
+    "value": "0.2"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Harralander is a herb that is harvested from Harralander plants, found primarily in the Whispering Swamp and can be bought from Domri - The Merchant for 6 garou chits.\n\n(Journal)\nA bitter tasting herb that makes for a poor tea, yet is often used as a morning pick-me-up by people with no tastebuds. It’s useful in crafting certain potions."
+ },
+ {
+  "name": "Healing Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Description",
+    "value": "Recovers some lost health. Made with irit and redberries."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Dwellberries x2, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Healing Potion x1"
+   }
+  ],
+  "description": "Healing potion is a potion that instantly heals 80 health points upon consumption. It is made with irit, 2 dwellberries, and glass vessel in a brewing cauldron.\n\n(Journal)\nHold a healing potion in your hands and doubt might enter the mind. Do you drink it? Do you apply it directly to the wound? Is it a suppository? Well, allow us to clarify: it is taken orally.\n\n(Trivia)\n- Although the item requires dwellberries, the description mistakenly state it requires redberries instead.\n- The potion was meant to be released with Dowdun Reach, but a bug had prevented players from unlocking the recipe, until it was patched. Even after the patch, the item was still bugged, as some players still cannot unlock it."
+ },
+ {
+  "name": "Irit",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Resource"
+   },
+   {
+    "label": "Description",
+    "value": "Harvested from Thorny Irit Roots, used in potion making at the brewing cauldron."
+   },
+   {
+    "label": "Weight",
+    "value": "0.2"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Irits are herbs acquired from destroying thorny irit roots and can be bought from Domri - The Merchant for 18 garou chits.\n\n(Journal)\nIt is unsurprising that irit grows in Fellhollow, considering it has such a close association with the dead. Whereas normal irit grows around graveyards and near the temples of death deities, the irit in Fellhollow grows everywhere.\n\nYet, unlike its leafier version, the irit here is twisted and sharp. It is formed of thorny roots that writhe out of the ground and must be cut down to access the herb beneath. After all, the dead in Fellhollow refuse to stay buried without a fight, why wouldn’t the irit react the same?"
+ },
+ {
+  "name": "Kwuarm",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Resource"
+   },
+   {
+    "label": "Description",
+    "value": "A bitter green herb used to make potions."
+   },
+   {
+    "label": "Weight",
+    "value": "0.2"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Kwuarm is a herb that must be farmed using kwuarm seeds found in Goblin, Garou, or skeleton packs.\n\n(Journal)\nThis herb has travelled far to deliver its malicious benefits to the people of Ashenfall. Its name, in Dwarvish, means “warm death” since it causes a terrible burning fever if the sap is consumed.\n\nWhen crushed down to release its sap and oils, this herb is a requirement in some of the deadliest and most dangerous poisonous mixtures."
+ },
+ {
+  "name": "Lesser Antipoison Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "Removes poison and grants resistance to it."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Toadflax x1, Swamp Weed x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Antipoison Potion x1"
+   }
+  ],
+  "description": "Lesser antipoison potion grants the perk Antipoison, which removes Poison stacks and grants 33% resistance from Poison buildup for 10-minutes (600 seconds). It is made with toadflax, swamp weed, and clay vessel in a brewing cauldron.\n\n(Journal)\nWhile the weaker variant of antipoison is sufficient for everyday usage, there are some situations that require a more potent resistance. The toxic mists in Ghornfell, over the swamps, are more powerful than a weaker resistance will protect against. These lesser potions strengthen the immune system and keep the toxic miasma from the drinker’s blood. Imperfect, still, but a much greater chance of survival."
+ },
+ {
+  "name": "Lesser Attack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Strikes INCREASED chance of landing CRITICAL HITS with MELEE ATTACKS"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Ground Granite x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Attack Potion x1"
+   }
+  ],
+  "description": "Lesser Attack potion grants the perk Focused Strikes, which increases the chance of landing critical hits with melee attacks by 25% for 10-minutes (600 seconds). It is made with snapdragon, ground granite, and clay vessel in a brewing cauldron.\n\n(Journal)\nNo one is entirely sure who invented this potion, but those not privy to it were invariably the losers on the battlefield. In ancient times, armies would be given doses of this potion before they were sent off to battle. It made them deadlier, faster, and vastly increased their chances of victory.\n\nThe Children of Shadows used to try to brew large quantities of this potion every time they went on a mission, so that they would have the edge were they ever caught. Many a guard could attest to the power of this potion, but fortunately, it didn't make up for a general lack of melee skill."
+ },
+ {
+  "name": "Lesser Focused Agility Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "29 July 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Agility Grants a 15% XP BOOST for the Agility Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Clay Vessel x1, Snapdragon x1, Silver Leaf x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Agility Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Agility potion grants the perk Focused Agility, which provides a 10-minute (600-second) +15% XP boost for the Agility skill. It is made with snapdragon, silver leaf, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Focused Artisan Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Artisan Grants a 15% XP BOOST for the ARTISAN Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Ground Clay x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Artisan Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Artisan potion grants the perk Focused Artisan, which provides a 10-minute (600-second) +15% XP boost for the Artisan skill. It is made with snapdragon, ground clay, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Focused Attack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Attack Grants a 15% XP BOOST for the ATTACK Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Ram Horn x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Attack Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Attack potion grants the perk Focused Attack, which provides a 10 minute (600 second) +15% XP boost for the Attack skill. It is made with snapdragon, ram horn, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Focused Construction Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Construction Grants a 15% XP BOOST for the CONSTRUCTION Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Clay Vessel x1, Snapdragon x1, Oak Logs x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Construction Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Construction potion grants the perk Focused Construction, which provides a 10-minute (600-second) +15% XP boost for the Construction skill. It is made with snapdragon, oak logs, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Focused Cooking Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Cooking Grants a 15% XP BOOST for the COOKING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Onion x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Cooking Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Cooking potion grants the perk Focused Cooking, which provides a 10-minute (600-second) +15% XP boost for the Cooking skill. It is made with snapdragon, onion, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Focused Farming Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Farming Grants a 15% XP BOOST for the FARMING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Wheat x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Farming Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Farming potion grants the perk Focused Farming, which provides a 10-minute (600-second) +15% XP boost for the Farming skill. It is made with snapdragon, wheat, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Focused Fishing Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Fishing Grants a boost to your Fishing XP for a short period of time."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Fried Sardine x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Fishing Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Fishing potion grants the perk Focused Fishing, which provides a 10-minute (600-second) +15% XP boost for the Fishing skill. It is made with snapdragon, fried sardine, and clay vessel in a brewing cauldron.\n\n(Journal)\nIf you're one of those anglers who exclaim that fishing is 'about taking a load off' and 'more about relaxation than the end-product', then you might want to try a lesser focused fishing potion. It removes the need for excuses and offers a chance of actually catching fish. Your experience grows and you will soon be gathering catches on the regular.\n\nAs an added bonus, with a higher fishing level, you can look down on all the other anglers who claim they fish 'to take a load off'."
+ },
+ {
+  "name": "Lesser Focused Mining Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Mining Grants a 15% XP BOOST for the MINING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Clay Vessel x1, Snapdragon x1, Sandstone x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Mining Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Mining potion grants the perk Focused Mining, which provides a 10-minute (600-second) +15% XP boost for the Mining skill. It is made with snapdragon, sandstone, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Focused Runecrafting Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Runecrafting Grants a 15% XP BOOST for the RUNECRAFTING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Soft Animal Fur x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Runecrafting Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Runecrafting potion grants the perk Focused Runecrafting, which provides a 10-minute (600-second) +15% XP boost for the Runecrafting skill. It is made with snapdragon, soft animal fur, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Focused Woodcutting Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Woodcutting Grants a 15% XP BOOST for the WOODCUTTING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Shrapnel x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Focused Woodcutting Potion x1"
+   }
+  ],
+  "description": "Lesser Focused Woodcutting potion grants the perk Focused Woodcutting, which provides a 10-minute (600-second) +15% XP boost for the Woodcutting skill. It is made with snapdragon, shrapnel, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Healing Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Description",
+    "value": "A potion that restores a moderate amount of health."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Dwellberries x2, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Healing Potion x1"
+   }
+  ],
+  "description": "Lesser healing potion is a potion that instantly heals 70 health points upon consumption. It is made with snapdragon, 2 dwellberries, and clay vessel in a brewing cauldron.\n\n(Journal)\nA step up from the weaker version, this potion allows the body to absorb more of the ambient anima, which, in turn, ramps up healing. The potion allows the drinker to shrug off greater physical trauma than before.\n\nFor years, herblore masters have worked on versions that might work on emotional trauma, but there has been little success to date."
+ },
+ {
+  "name": "Lesser Lumberjack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Lumberjack REDUCES the STAMINA cost of WOODCUTTING by 33%"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Toadflax x1, Ram Horn x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Lumberjack Potion x1"
+   }
+  ],
+  "description": "Lesser Lumberjack potion grants the perk Lumberjack, reducing the stamina cost of Woodcutting by 33% for 10 minutes (600 seconds). It is made with toadflax, ram horn, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lesser Magic Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "17 June 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Casting INCREASED chance of landing CRITICAL HITS with COMBAT SPELLS"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Snapdragon x1, Wild Anima x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Magic Potion x1"
+   }
+  ],
+  "description": "Lesser Magic Potion grants the perk Focused Casting, which increases the chance of landing critical hits with combat spells by 25% for 10-minutes (600 seconds). It is made with snapdragon, wild anima, and clay vessel in a brewing cauldron.\n\n(Journal)\nAlthough humans cannot use magic without runes, they can become quite proficient conduits for power. A wizard and a farmer in possession of the same runes do not produce the same results; the former far outshines the latter.\n\nThis revelation made some farmers pretty upset. For years, they had ranted to their cows and sheep about how wizards were just snooty uppity types with shiny rocks. Yet, faced with the evidence, there was no denying that a farmer and a wizard weren't equals in disguise.\n\nOne farmer wanted to level the playing field by bringing in a local witch who had a grudge against the snooty men in blue robes.\n\nBetween the two of them, they found a way to use a magical potion to improve a person's connection to their own latent magic. Those who drank the potion were able to cast spells more efficiently and with greater skill than they ever could before.\n\nThe farmer wanted to use this new advantage to raze the tower to the ground, put the wizards in their place, and claim magic as a tool of the people. Unfortunately, the witch envisioned a different future, one that sparkled with glittering gold coins.\n\nShe died happily, wealthier than she had ever dreamed and surrounded by adoring young suitors vying for a slice of her inheritance. The farmer died after being trampled to death by cows tired of his grumbling."
+ },
+ {
+  "name": "Lesser Quarrymaster Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Quarrymaster REDUCES the STAMINA cost of MINING by 33%"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Materials",
+    "value": "Clay Vessel x1, Toadflax x1, Ground Sandstone x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lesser Quarrymaster Potion x1"
+   }
+  ],
+  "description": "Lesser Quarrymaster potion grants the perk Quarrymaster, reducing the stamina cost of Mining by 33% for 10 minutes (600 seconds). It is made with toadflax, ground sandstone, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Lumberjack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Lumberjack II REDUCES the STAMINA cost of WOODCUTTING by 66%"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Dragon Tooth x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lumberjack Potion x1"
+   }
+  ],
+  "description": "Lumberjack potion grants the perk Lumberjack II, which reduces the stamina cost of woodcutting by 66% for 5 minutes (300 seconds). It is made with irit, dragon tooth, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Marrentil",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Resource"
+   },
+   {
+    "label": "Description",
+    "value": "A bitter tasting herb used in resistance potions."
+   },
+   {
+    "label": "Weight",
+    "value": "0.2"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Marrentil (also spelled marrentill in books) is a herb found from harvesting a marrentill plant in the Whispering Swamp and can be bought from Domri - The Merchant for 6 garou chits.\n\n(Journal)\nA sweet smelling herb that is used as an ingredient in many poison remedies."
+ },
+ {
+  "name": "Plant Cure",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Description",
+    "value": "Used to cure diseased plants and bring them back to a healthy state."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "20"
+   },
+   {
+    "label": "Crafting Facility (Recipe 1)",
+    "value": "Stone Range"
+   },
+   {
+    "label": "Crafting Skill (Recipe 1)",
+    "value": "Farming (2 XP)"
+   },
+   {
+    "label": "Materials (Recipe 1)",
+    "value": "Weeds x2, Animal Bone x1, Clean Water x1"
+   },
+   {
+    "label": "Output (Recipe 1)",
+    "value": "Plant Cure x1"
+   },
+   {
+    "label": "Crafting Facility (Recipe 2)",
+    "value": "Cooking Range"
+   },
+   {
+    "label": "Crafting Skill (Recipe 2)",
+    "value": "Farming (2 XP)"
+   },
+   {
+    "label": "Materials (Recipe 2)",
+    "value": "Weeds x2, Animal Bone x1, Clean Water x1"
+   },
+   {
+    "label": "Output (Recipe 2)",
+    "value": "Plant Cure x1"
+   }
+  ],
+  "description": "Plant cure is a potion that cures diseased plants and provides 2 Farming experience when used. It is made with 2 weeds, animal bone, and clean water in a stone range or a cooking range (unlike the other potions made in a brewing cauldron). It is learned at level 3 Farming and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nFashioned from clean water, weeds and animal bones, this mixture leeches out the vitality from those ingredients and transfers it to the sick and dying plants in your care. Cooked over a range, this concoction was first thought to be the domain of druids and herblore masters, but in truth it was a cook who put the pieces together.\n\nOld mother [sic] Potterington was much beloved by the people of Bramblemead. On weekends, when people allowed themselves brief breaks from their toils, she would whip up a great batch of something delicious and simmering, and neighbouring farmers would drop by for a meal.\n\nThis kindness extended not only to people, but to her garden and farming patches too. She whipped up a broth so infused with nutrients that Brassica Prime himself is said to have blessed it. When fed to plants, their withering and wilting leaves would stiffen and return to vibrancy — life and vitality theirs once again.\n\nNow you can brew such a concoction yourself, so that your plants might always life their healthiest days."
+ },
+ {
+  "name": "Quarrymaster Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Quarrymaster II REDUCES the STAMINA cost of Mining by 66%"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Irit x1, Ground Limestone x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Quarrymaster Potion x1"
+   }
+  ],
+  "description": "Quarrymaster potion grants the perk Quarrymaster II, which reduces the stamina cost of Mining by 66% for 5 minutes (300 seconds). It is made with irit, ground limestone, and glass vessel in a brewing cauldron."
+ },
+ {
+  "name": "Snapdragon",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Resource"
+   },
+   {
+    "label": "Description",
+    "value": "A sweet-smelling herb used in restorative potions."
+   },
+   {
+    "label": "Weight",
+    "value": "0.1"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Snapdragon is a herb that can be found by harvesting the Snapdragon plant in the Bloodblight Swamp or can be bought from Domri - The Merchant for 12 garou chits.\n\n(Journal)\nChildren are often disappointed that this plant does not resemble an actual dragon. There are no snapping motions in these colourful leaves, and a depressing lack of fire-breathing lizards in the stems."
+ },
+ {
+  "name": "Stamina Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "29 July 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "20 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "Consuming a stamina potion will prevent all loss of stamina for a short duration, however you'll need a moment to recover before you have another as such unbridled energy is taxing on the body."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Avantoe x1, Amylase Crystal x1, Glass Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Stamina Potion x1"
+   }
+  ],
+  "description": "Stamina potion grants the perk Stamina Potion, preventing stamina drain from all actions for 20 seconds. Upon using the potion, the player must wait roughly 75 seconds (1 minute and 15 seconds) starting from consumption to use another potion. This, effectively, means players must wait 55 seconds after the potion effect ends to use another dose if players want to multi-dose.\n\n(Journal)\nThe frustrating thing about agility courses is that you can't keep doing them forever. Agility's final boss is lactic acid, and it likes to stick spears into your muscles and joints.\n\nWell, the humble stamina potion is +1 against lactic acid. If you're planning on physical activity and want to flick the bird to exhaustion, then we would recommend making one or two."
+ },
+ {
+  "name": "Super Antifire Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Health",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Antifire NEGATES and grants RESISTANCE to FIRE effects"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Antifire Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Antifire Potion x1"
+   }
+  ],
+  "description": "Super Antifire potion grants the perk Antifire, which removes Burning stacks and grants 33% resistance from Burning buildup for 600 seconds (10 minutes). It is made by using an Antifire potion in an imbuing barrel."
+ },
+ {
+  "name": "Super Antipoison Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Antipoison II NEGATES and grants RESISTENCE to POISON effects"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Antipoison Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Antipoison Potion x1"
+   }
+  ],
+  "description": "Super Antipoison potion grants the perk Antipoison II, which negates and grants resistance to Poison for 10 minutes (600 seconds).\n\n(Journal)\nOnce the desert was full of snakes, until they were banished below the sands by an angry goddess. Only rarely do they manage to break through the surface of the dunes to bite someone, and their venom has been concentrated so heavily by their solitude, that it’s lethal to anyone that suffers it.\n\nFortunately, the shamans were able to create this antipoison, stronger and more powerful than previous tiers. It has saved many lives.\""
+ },
+ {
+  "name": "Super Focused Agility Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "29 July 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Agility II Grants a 30% XP BOOST for the Agility Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Agility Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Agility Potion x1"
+   }
+  ],
+  "description": "Super Focused Agility potion grants the perk Focused Agility II, which provides a 10-minute (600-second) +30% XP boost for the Agility skill. It is made by using a Focused Agility potion in an imbuing barrel.\n\n(Journal)\nThis potion gives you lumber tunnel vision, where the tunnel is made of tasteful wood rather than bricks. All there is - aside from the tunnel - is you and the tree, mano et arboro. One of the greatest, most heated rivalries of all time."
+ },
+ {
+  "name": "Super Focused Artisan Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Artisan II Grants a 30% XP BOOST for the ARTISAN Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Artisan Potion x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Artisan Potion x1"
+   }
+  ],
+  "description": "Super Focused Artisan potion grants the perk Focused Artisan II, which increased the experience gained through the Artisan skill by 30% for 10 minutes (600 seconds).\n\n(Journal)\nFermented with wild anima, this potion is a concentrated and more powerful version of its predecessor. The effects last longer and yet the power of the potion loses none of its efficiency.\n\nBe warned, after drinking this potion, you may find yourself dreaming of assembling furniture, painting little clay decorations, and a billion other little crafty things that you would never have dreamed of before.\n\nJust beware not to dream of the forbidden macramé, for in its strange knots do dark secrets dwell."
+ },
+ {
+  "name": "Super Focused Attack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Attack II Grants a 30% XP BOOST for the ATTACK Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Attack Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Attack Potion x1"
+   }
+  ],
+  "description": "Super Focused Attack potion grants the perk Focused Attack II, which provides a 10-minute (600-second) +30% XP boost for the Attack skill. It is made by using a Focused Attack potion in an imbuing barrel.\n\n(Journal)\nHave you ever wondered what it would be like to know nothing but bloodlust? To know nothing but the call for battle and the need to slaughter?\n\nWell, with this potion, you can! Condensed and fermented alongside wild anima, this potion will flood your system with so much adrenaline and aggression, that you’ll be looking to cause destruction on a catastrophic scale."
+ },
+ {
+  "name": "Super Focused Construction Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Construction II Grants a 30% XP BOOST for the CONSTRUCTION Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Construction Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Construction Potion x1"
+   }
+  ],
+  "description": "Super Focused Construction potion grants the perk Focused Construction II, which provides a 10-minute (600-second) +30% XP boost for the Construction skill. It is made by using a Focused Construction potion in an imbuing barrel.\n\n(Journal)\nAh, to be a zen-like architect, focused on nothing but crenulations and scaffolding. Such thoughts were nought but dreams before this potion, yet now you have a chance to soar to new heights of… err… masonry?\n\nIt’s hard to write about a potion that enhances your desire to build things. To wax lyrical about a liquid that grants greater XP when you craft new decorations and bigger stairs. Yet, here we are."
+ },
+ {
+  "name": "Super Focused Cooking Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Cooking II Grants a 30% XP BOOST for the COOKING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Cooking Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Cooking Potion x1"
+   }
+  ],
+  "description": "Super Focused Cooking potion grants the perk Focused Cooking II, which provides a 10-minute (600-second) +30% XP boost for the Cooking skill. It is made by using a Focused Cooking potion in an imbuing barrel.\n\n(Journal)\nThis potion imbues you with the desire to bake. Cakes, pies, biscuits, battas, all things culinary become your obsession. While under its effects, you will grow to understand more about nutrition and flavour profiles. You will transcend the limits of your taste buds into realms of deliciousness that only Brassica Prime can comprehend.\n\nUse this potion wisely."
+ },
+ {
+  "name": "Super Focused Farming Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Farming II Grants a 30% XP BOOST for the FARMING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Farming Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Farming Potion x1"
+   }
+  ],
+  "description": "Super Focused Farming potion grants the perk Focused Farming II, which provides a 10-minute (600-second) +30% XP boost for the Farming skill. It is made by using a Focused Farming potion in an imbuing barrel.\n\n(Journal)\nIt's possible to imagine a super-focused angler or lumberjack, but a super-focused farmer? How much more can they get from a farming patch?\n\nA super-focused farmer is a disconcerting beast. They will sit at the corner of a farming patch, staring intensely at a seed, willing it to grow. They will do this for hours, even days, depending on the dosage. I'm not sure if the plant feels self-conscious or a little guilty, but it works: the plant does actually grow at a faster rate."
+ },
+ {
+  "name": "Super Focused Fishing Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Fishing II Grants a 30% XP BOOST for the FISHING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Fishing Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Fishing Potion x1"
+   }
+  ],
+  "description": "Super Focused Fishing potion grants the perk Focused Fishing II, which provides a 10-minute (600-second) +30% XP boost for the Fishing skill. It is made by using a Focused Fishing potion in an imbuing barrel.\n\n(Journal)\nIf you want evidence of the strength of a super focused fishing potion, then look no further than Granny Potterington, who got mixed up and accidentally poured some into her pond. She came back the next day to find that one single fish had caught and eaten all the other fish in the pond. It had a confused look on its face and blood across its mouth and fins. Potent stuff."
+ },
+ {
+  "name": "Super Focused Mining Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Mining II Grants a 30% XP BOOST for the MINING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Mining Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Mining Potion x1"
+   }
+  ],
+  "description": "Super Focused Mining potion grants the perk Focused Mining II, which provides a 10-minute (600-second) +30% XP boost for the Mining skill. It is made by using a Focused Mining potion in an imbuing barrel."
+ },
+ {
+  "name": "Super Focused Runecrafting Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Runecrafting II Grants a 30% XP BOOST for the RUNECRAFING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Runecrafting Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Runecrafting Potion x1"
+   }
+  ],
+  "description": "Super Focused Runecrafting potion grants the perk Focused Runecrafting II, which provides a 10-minute (600-second) +30% XP boost for the Runecrafting skill. It is made by using a Focused Runecrafting potion in an imbuing barrel.\n\n(Journal)\nI once met a magician and runecrafter who managed to heighten her senses through super focused runecrafting potions. Her party trick was to apply a blindfold and be handed several runes. She could tell you the exact runes by licking, sniffing and fondling the stones. I'm not entirely sure whether this was an ability gained from the potion, or if she was just oddly aware of the properties of runes.\n\nA bit of a downside was that, if you made her a meal, drink or even passed close to her, she would say \"ooh, that tastes a bit of air runes\" or \"you smell like a law rune\". It's hard to know what to do with that information."
+ },
+ {
+  "name": "Super Focused Woodcutting Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Woodcutting II Grants a 30% XP BOOST for the WOODCUTTING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Focused Woodcutting Potion x1, Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Focused Woodcutting Potion x1"
+   }
+  ],
+  "description": "Super Focused Woodcutting potion grants the perk Focused Woodcutting II, which provides a 10-minute (600-second) +30% XP boost for the Woodcutting skill. It is made by using a Focused Woodcutting potion in an imbuing barrel.\n\n(Journal)\nThis potion gives you lumber tunnel vision, where the tunnel is made of tasteful wood rather than bricks. All there is - aside from the tunnel - is you and the tree, mano et arboro. One of the greatest, most heated rivalries of all time."
+ },
+ {
+  "name": "Super Lumberjack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Lumberjack II REDUCES the STAMINA cost of WOODCUTTING by 66%"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Lumberjack Potion x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Lumberjack Potion x1"
+   }
+  ],
+  "description": "Super Lumberjack potion grants the perk Lumberjack II, which reduces the stamina cost of woodcutting by 66% for 10 minutes (600 seconds).\n\n(Journal)\nPour a lumberjack potion down your gullet, and you will feel like not tree could stop you. You will believe that you can move faster than a magic carpet, leap over trees with a single bound. You will believe that you can chop a forest with a single swing of your logging axe.\n\nWell, we're here to tell you that there is a reasonably large delta between what you believe you can do and what you can actually do. So prepare to be a little disappointed when you sober up."
+ },
+ {
+  "name": "Super Quarrymaster Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "600 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Quarrymaster II REDUCES the STAMINA cost of MINING by 66%"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Imbuing Barrel"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (40 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Quarrymaster Potion x1"
+   },
+   {
+    "label": "Output",
+    "value": "Super Quarrymaster Potion x1"
+   }
+  ],
+  "description": "Super Quarrymaster potion grants the perk Quarrymaster II, which reduces the stamina cost of mining by 66% for 10 minutes (600 seconds).\n\n(Journal)\nA super quarrymaster potion will give you supernatural stamina when it comes to mining rocks, but you should be careful. Potions have the annoying habit of wearing off, and it's only then that you realise you've got killer cramp, pins and needles, or miner's cough. There's no comedown quite like a quarrymaster comedown."
+ },
+ {
+  "name": "Toadflax",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Resource"
+   },
+   {
+    "label": "Description",
+    "value": "A spicy tasting herb used in resistance potions."
+   },
+   {
+    "label": "Weight",
+    "value": "0.2"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Toadflax is found by harvesting the Toadflax plants in the Bloodblight Swamp and can be bought from Domri - The Merchant for 12 garou chits.\n\n(Journal)\nOne of the most popular plants with witches everywhere, as much as for the name as its [sic] use in herblore. One witch, a particularly odd duck called Henrietta, once tried to combine the herb with the amphibian of its namesake. The resulting monstrosity killed five people, before it could finally be put down."
+ },
+ {
+  "name": "Weak Antipoison Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Antipoison Negates and grants RESISTANCE to POISON effects"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Bittercap Mushroom x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Antipoison Potion x1"
+   }
+  ],
+  "description": "Weak Antipoison potion grants the perk Antipoison, which removes Poison stacks and grants 33% resistance from Poison buildup for 5-minutes (300 seconds). It is made with marrentil, bittercap mushroom, and clay vessel in a brewing cauldron.\n\n(Journal)\nPoison has always been a problem for hunters. The forests are full of venomous creatures, just waiting for a chance to strike. The difference between an edible mushroom and one filled with deadly toxins is hard to spot on a moonless night. Thus, the Antipoison Potion was one of the first potions to be created. A glorious catch-all that fought against all the venoms and toxins of the realm.\n\nThey’re also surprisingly good for a hangover."
+ },
+ {
+  "name": "Weak Focused Agility Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "29 July 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Agility Grants a 15% XP BOOST for the Agility Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Clay Vessel x1, Marrentil x1, Bronze Leaf x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Agility Potion x1"
+   }
+  ],
+  "description": "Weak Focused Agility potions grant the perk Focused Agility, which provides a 5-minute (300-second) +15% XP boost for the Agility skill. It is made with marrentill, bronze leaf, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Weak Focused Artisan Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Artisan Grants a 15% XP BOOST for the ARTISAN Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Redberries x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Artisan Potion x1"
+   }
+  ],
+  "description": "Weak Focused Artisan potion grants the perk Focused Artisan, which provides a 5-minute (300-second) +15% XP boost for the Artisan skill. It is made with marrentil, redberries, and clay vessel in a brewing cauldron.\n\n(Journal)\nLooking and smelling suspiciously like coffee, this potion lets crafters sit down and create their favorite things. Tapestries, wood carvings, anything that requires time and concentration, can be enhanced with the focus this potion provides."
+ },
+ {
+  "name": "Weak Focused Attack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Attack Grants a 15% XP BOOST for the ATTACK Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Small Animal Fang x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Attack Potion x1"
+   }
+  ],
+  "description": "Weak Focused Attack potion grants the perk Focused Attack, which provides a 5-minute (300-second) +15% XP boost for the Attack skill. It is made with marrentil, small animal fang, and clay vessel in a brewing cauldron.\n\n(Journal)\nThis potion streamlines your vision and hones your reflexes. Your synapses surge with clarity and you find it easier to understand the nuance of the blade.\n\nThe Wild Knights relied heavily on these potions to train their new fighters during the decline of the Guthixian faith. With fewer numbers, it became more important to teach people quickly."
+ },
+ {
+  "name": "Weak Focused Construction Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Construction Grants a 15% XP BOOST for the CONSTRUCTION Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Flax x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Construction Potion x1"
+   }
+  ],
+  "description": "Weak Focused Construction potion grants the perk Focused Construction, which provides a 5-minute (300-second) +15% XP boost for the Construction skill. It is made with marrentil, flax, and clay vessel in a brewing cauldron.\n\n(Journal)\nThis potion is sweet, yet strong. The ingredients have steeped within the mixture for some time and allowed it to increase in potency. While it's perfectly fine to drink it directly from the bottle, you find yourself wishing you had a nice mug to use instead.\n\nStill, this potion makes you acutely (haha, see what I did there?) aware of angles. You can measure a plank of wood with just a few well placed glares. The inner architect in you revels at the new possibilities before you, and you find yourself planning much further ahead."
+ },
+ {
+  "name": "Weak Focused Cooking Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Cooking Grants a 15% XP BOOST for the COOKING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Cabbage x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Cooking Potion x1"
+   }
+  ],
+  "description": "Weak Focused Cooking potion grants the perk Focused Cooking, which provides a 5-minute (300-second) +15% XP boost for the Cooking skill. It is made with marrentil, cabbage, and clay vessel in a brewing cauldron.\n\n(Journal)\nIt's easy to forget that cooking is more than just throwing ingredients into the pot and applying fire. There are balances of flavours; the subtle blending of ingredients to create that perfect combination. This potion assists in this by enhancing the chef's smell and tastebuds [sic], so they can tell just how much of an ingredient needs to be added for optimal results."
+ },
+ {
+  "name": "Weak Focused Farming Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Farming Grants a 15% XP BOOST for the FARMING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Weeds x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Farming Potion x1"
+   }
+  ],
+  "description": "Weak Focused Farming potion grants the perk Focused Farming, which provides a 5-minute (300-second) +15% XP boost for the Farming skill. It is made with marrentil, weeds, and clay vessel in a brewing cauldron."
+ },
+ {
+  "name": "Weak Focused Fishing Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Fishing Grants a boost to your Fishing XP for a short period of time."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Sauteed Shrimp x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Fishing Potion x1"
+   }
+  ],
+  "description": "Weak Focused Fishing potion grants the perk Focused Fishing, which provides a 5-minute (300-second) +15% XP boost for the Fishing skill. It is made with marrentil, sauteed shrimp, and clay vessel in a brewing cauldron.\n\n(Journal)\n'Weak' and 'focused' may seem like an oxymoron, but you have to look at the terms from a different perspective. When we say 'focused' we mean you - the angler - and your concentration. It is a measure of how much you narrow your eyes, quell your breath, and attribute all of your senses to the timeless art of poking hooks into fish. This potion increases those faculties. You become so focused that nothing else in the world matters.\n\nAnd by 'weak' we mean that the potion is a little bit rubbish at doing all of the above."
+ },
+ {
+  "name": "Weak Focused Mining Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Mining Grants a 15% XP BOOST for the MINING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Animal Bone x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Mining Potion x1"
+   }
+  ],
+  "description": "Weak Focused Mining potion grants the perk Focused Mining, which provides a 5-minute (300-second) +15% XP boost for the Mining skill. It is made with marrentil, animal bone, and clay vessel in a brewing cauldron.\n\n(Journal)\nThis potion makes it easier to swing a pickaxe. Your muscles are more relaxed and able to handle greater strain, making it easier to strike at the ore, learning its weak points.\n\nDruids used to whip up huge batches of this for visiting dwarves, who would mix it with beer for dubious results."
+ },
+ {
+  "name": "Weak Focused Runecrafting Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Runecrafting Grants a 15% XP BOOST for the RUNECRAFTING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Coarse Animal Fur x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Runecrafting Potion x1"
+   }
+  ],
+  "description": "Weak Focused Runecrafting potion grants the perk Focused Runecrafting, which provides a 5-minute (300-second) +15% XP boost for the Runecrafting skill. It is made with marrentil, coarse animal fur, and clay vessel in a brewing cauldron.\n\n(Journal)\nAshenfall is the birthplace of runecrafting. When Guthix settled here, he discovered the strange anima pouring out of the ground; different strands of magic resonating with certain concepts and natural laws.\n\nThis potion lets you see the world as he did, just for a while. You can spot the colourful flows of anima as they shimmer in the air, and you learn how to trap them in the rune essence more effectively, creating the potential for future magic."
+ },
+ {
+  "name": "Weak Focused Woodcutting Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Focused Woodcutting Grants a 15% XP BOOST for the WOODCUTTING Skill"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Marrentil x1, Feathers x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Focused Woodcutting Potion x1"
+   }
+  ],
+  "description": "Weak Focused Woodcutting potion grants the perk Focused Woodcutting, which provides a 5-minute (300-second) +15% XP boost for the Woodcutting skill. It is made with marrentil, feathers, and clay vessel in a brewing cauldron.\n\n(Journal)\nWoodcutting is less about speed and strength, and more about precision. This potion hones your senses, allowing you to repeatedly attack the same spot on the tree trunk. The result is more efficiently felled trees and far fewer splinters."
+ },
+ {
+  "name": "Weak Healing Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Description",
+    "value": "A potion that restores a small amount of health."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Harralander x1, Redberries x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Healing Potion x1"
+   }
+  ],
+  "description": "Weak healing potion is a potion that instantly heals 40 health points upon consumption. It is made with harralander, redberries, and clay vessel in a brewing cauldron.\n\n(Journal)\nAlchemists have long strived to create potions to rid mankind of all their ills. Normally, these potions are regeneratives that boost the body's ability to repair itself by drawing in the ambient anima and infusing it into the blood and tissue of the drinker. On the mainland, this changes healing from days to a matter of hours. On Ashenfall, the results are far more pronounced.\n\nThe ambient anima of the region is so strong that wounds heal in moments. Cuts vanish as if they never were, wounds healing so quickly that even scars cannot form. Weaker versions of the potion burn themselves out before they can heal severe injuries, but the results are impressive nonetheless."
+ },
+ {
+  "name": "Weak Lumberjack Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Lumberjack REDUCES the STAMINA cost of WOODCUTTING by 33%"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Harralander x1, Antler x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Lumberjack Potion x1"
+   }
+  ],
+  "description": "Weak Lumberjack potion grants the perk Lumberjack, which reduces the stamina cost of Woodcutting by 33% for 5 minutes (300 seconds). It is made with harralander, antler, and clay vessel in a brewing cauldron.\n\n(Journal)\nThis potion helps you sleep all night and work all day. It gives you the feeling of well oiled elbow and shoulder joints, and it numbs the pain in your muscles from swinging an axe for long stretches at a time."
+ },
+ {
+  "name": "Weak Quarrymaster Potion",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Duration",
+    "value": "300 seconds"
+   },
+   {
+    "label": "Description",
+    "value": "PERK: Quarrymaster REDUCES the STAMINA cost of Mining by 33%"
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Harralander x1, Clay x1, Clay Vessel x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weak Quarrymaster Potion x1"
+   }
+  ],
+  "description": "Weak Quarrymaster potion grants the perk Quarrymaster, which reduces the stamina cost of Mining by 33% for 5 minutes (300 seconds). It is made with harralander, clay, and clay vessel in a brewing cauldron.\n\n(Journal)\nMining is a strenuous task. Each swing of that pickaxe makes your muscles ache and your bones quiver. Exhaustion creeps into your soul and takes root, making it take longer and longer to gather that precious ore.\n\nThis potion acts as a pick-me-up. An energizing drink that makes you a monster of a miner, able to swing your pickaxe as though it barely weighs anything at all."
+ },
+ {
+  "name": "Weapon Poison",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Description",
+    "value": "A vial of Weapon Poison. Used in crafting Poison Arrows or to coat your equipped Melee Weapon with Poison for a short time."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility",
+    "value": "Brewing Cauldron"
+   },
+   {
+    "label": "Crafting Skill",
+    "value": "Artisan (0 XP)"
+   },
+   {
+    "label": "Materials",
+    "value": "Clay Vessel x1, Kwuarm x1, Poison Ichor x1"
+   },
+   {
+    "label": "Output",
+    "value": "Weapon Poison x1"
+   }
+  ],
+  "description": "Weapon poison is a potion that can be created at level 15 Ranged. This allows the player to poison their weapon (excluding tools such as pickaxes or logging axes), making their melee weapon or ranged ammunition poisonous for two minutes.\n\n(Journal)\nUsed in crafting Poison Arrows or to coat your equipped Melee Weapon with Poison for a short time.\n\nThere are times in life where you really want someone to regret ever meeting you. It could be a long-held grudge, it could be on the battlefield, or it could be in a never-ending meeting that could so easily have been an email but has now persisted past your lunchbreak and you had so been looking forward to that sushi… ahem… sorry, where was I? Oh, yes, pain!\n\nPoison is sometimes considered to be a coward’s weapon. Personally, I prefer to think of it as the smart weapon choice, after all, honour is only worth anything if you’re the winner of the battle. A corpse with honour still rots in the dirt. With a blade coated in poison, you can almost guarantee the death of your enemies, all it takes is a single nick and their fate is sealed.\n\nAn investment well worth making, if you ask me."
+ },
+ {
+  "name": "Corroded Jewellery",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Consumable"
+   },
+   {
+    "label": "Description",
+    "value": "A sinister piece of jewellery, corroded and burned. Perhaps you can learn something from it."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Corroded jewellery is a vestige that unlocks the creation of the unholy symbol. This vestige is given to the player after completing the quest, Wanted! in Dowdun Reach."
+ },
+ {
+  "name": "Dwellberry Glazed Roast Meat",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Food"
+   },
+   {
+    "label": "Sustenance",
+    "value": "Moderate (30)"
+   },
+   {
+    "label": "Description",
+    "value": "A juicy piece of roasted meat with a deliciously fruity dwellberry glazing. Scrumptious!"
+   },
+   {
+    "label": "Weight",
+    "value": "1.2"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Crafting Facility (Recipe 1)",
+    "value": "Cooking Pot"
+   },
+   {
+    "label": "Crafting Skill (Recipe 1)",
+    "value": "Cooking (15 XP)"
+   },
+   {
+    "label": "Materials (Recipe 1)",
+    "value": "Dwellberries x2, Raw Rat Meat x2"
+   },
+   {
+    "label": "Output (Recipe 1)",
+    "value": "Dwellberry Glazed Roast Meat x1"
+   },
+   {
+    "label": "Crafting Facility (Recipe 2)",
+    "value": "Cooking Pot"
+   },
+   {
+    "label": "Crafting Skill (Recipe 2)",
+    "value": "Cooking (15 XP)"
+   },
+   {
+    "label": "Materials (Recipe 2)",
+    "value": "Dwellberries x2, Raw Bird Meat x2"
+   },
+   {
+    "label": "Output (Recipe 2)",
+    "value": "Dwellberry Glazed Roast Meat x1"
+   },
+   {
+    "label": "Crafting Facility (Recipe 3)",
+    "value": "Cooking Pot"
+   },
+   {
+    "label": "Crafting Skill (Recipe 3)",
+    "value": "Cooking (15 XP)"
+   },
+   {
+    "label": "Materials (Recipe 3)",
+    "value": "Dwellberries x2, Raw Farm Meat x2"
+   },
+   {
+    "label": "Output (Recipe 3)",
+    "value": "Dwellberry Glazed Roast Meat x1"
+   },
+   {
+    "label": "Crafting Facility (Recipe 4)",
+    "value": "Cooking Pot"
+   },
+   {
+    "label": "Crafting Skill (Recipe 4)",
+    "value": "Cooking (15 XP)"
+   },
+   {
+    "label": "Materials (Recipe 4)",
+    "value": "Dwellberries x2, Raw Game Meat x2"
+   },
+   {
+    "label": "Output (Recipe 4)",
+    "value": "Dwellberry Glazed Roast Meat x1"
+   }
+  ],
+  "description": "Dwellberry glazed roast meat is a food item that can be created through Cooking, by combining dwellberries with any tier one meat (raw rat meat, raw bird meat, raw farm meat, or raw game meat) at a cooking pot. Eating the dish provides moderate sustenance (30) and a small amount of lifeward (5) when consumed. There is also a 5% chance to produce a rat roast whilst making dwellberry glazed roast meat.\n\n(Journal)\nDwellberries boiled down into a thick sauce and liberally trailed across the meat. You may not expect the combination to work, but upon that first mouthful, your tastebuds will squirm in delight for this delicious combination."
+ },
+ {
+  "name": "Tome of Farming - Vol 1",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Consumable"
+   },
+   {
+    "label": "Description",
+    "value": "A book filled with knowledge about how to apply dirt and water to seeds. Awards a small amount of Farming XP."
+   },
+   {
+    "label": "Weight",
+    "value": "2.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "The Tome of Farming - Vol 1 is a tier 1 tome that rewards the player 100 Farming experience."
+ },
+ {
+  "name": "Tome of Farming - Vol 2",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Consumable"
+   },
+   {
+    "label": "Description",
+    "value": "A book filled with knowledge about how to apply dirt and water to seeds. Awards a decent amount of Farming XP."
+   },
+   {
+    "label": "Weight",
+    "value": "2.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "The Tome of Farming - Vol 2 is a tier 2 tome that rewards the player 400 Farming experience."
+ },
+ {
+  "name": "Tome of Fishing - Vol 1",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Consumable"
+   },
+   {
+    "label": "Description",
+    "value": "A book filled with knowledge about how to efficiently tire out fish. Awards a small amount of Fishing XP."
+   },
+   {
+    "label": "Weight",
+    "value": "2.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Tome of Fishing - Vol 1 is a skill tome that rewards the player 100 Fishing experience. Players can receive this tome through completing the quest, Shrimp Catcher."
+ },
+ {
+  "name": "Tome of Fishing - Vol 2",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Update)"
+   },
+   {
+    "label": "Type",
+    "value": "Consumable"
+   },
+   {
+    "label": "Description",
+    "value": "A book filled with knowledge about how to efficiently tire out fish. Awards a decent amount of Fishing XP."
+   },
+   {
+    "label": "Weight",
+    "value": "2.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   }
+  ],
+  "description": "Tome of Fishing - Vol 2 is a skill tome that rewards the player 400 Fishing experience."
+ }
+]

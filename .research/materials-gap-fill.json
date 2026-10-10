@@ -1,0 +1,1801 @@
+[
+  {
+    "name": "Desert Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/Desert_Cloth.png?d012a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Woven at a loom from desert thread and cactus fibres; primarily used for power level 7 armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A coarse but hard-wearing fabric made from local flora."
+        },
+        {
+          "label": "Weight",
+          "value": "2.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Loom || Skill | Experience || Artisan | 40 || Material | Quantity || Desert Thread | 3 || Cactus Fibres | 3 || Output | Quantity || Desert Cloth | 1"
+        }
+      ],
+      "description": "Desert cloth is created with a loom and is primarily used for power level 7 armour.\n\n(Journal)\nYou might think that any cloth found in the desert could be called desert cloth, but you’d just be arguing semantics and that won’t win you many friends at parties. No, the desert cloth we refer to here is the sort of thing woven from desert weed and cacti fibres. It is forged of the desert, not simply found within it."
+    }
+  },
+  {
+    "name": "Fine Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/Fine_Cloth.png?316a8",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Woven at a loom from fine thread and gold bars; used primarily for power level 5 armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Woven from fine thread and gold. Used in weapon and armour crafting."
+        },
+        {
+          "label": "Weight",
+          "value": "1.5"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Loom || Skill | Experience || Artisan | 40 || Material | Quantity || Fine Thread | 3 || Gold Bar | 1 || Output | Quantity || Fine Cloth | 1"
+        }
+      ],
+      "description": "Fine cloth is created with a loom with a Loom Harness next to it, requiring three fine thread. Fine cloth is used primarily for power level 5 armour.\n\n(Journal)\nMore elegant and refined than cotton cloth, this fabric was very popular among Emberwood citizenry. They would craft beautiful dresses, fine shirts and elegant robes, many of which included patterns of undulating blue and black in honour of the serpentine dances they would watch in the sky, as Imaru and Xikotal swam the air currents together."
+    }
+  },
+  {
+    "name": "Infinity Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/Infinity_Cloth.png?1997f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Woven at a loom from desert cloth and shimmerscale powder; primarily used for power level 7 armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Named as such due to the infinite number of colours it features. It's quite garish."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Loom || Skill | Experience || Artisan | 40 || Material | Quantity || Desert Cloth | 1 || Shimmerscale Powder | 9 || Output | Quantity || Infinity Cloth | 1"
+        }
+      ],
+      "description": "Infinity cloth is created with a loom and is primarily used for power level 7 armour.\n\n(Journal)\nSome fabrics are too beautiful for mundane hands. It feels almost a crime that you, a mere mortal, should be allowed to hold such a material. To craft it into clothing is an act so sacred, that priests should be set up solely to handle this fabric.\\r\\n\\r\\nAt least that’s what some tailors believe.\\r\\n\\r\\nInfinity cloth is so garish, so incoherently vibrant, that it induces a strange sort of psychosis into those who use it. They do not see the vulgar brightness of the colours, nor the incomprehensible combinations that would be a fashion crime in any other world. Instead, they see only shimmering colours and a sparkling iridescence that reaches somewhere inside of them and murders their sense of taste.\\r\\n\\r\\nInfinity cloth is a beautiful blasphemy, handle with care."
+    }
+  },
+  {
+    "name": "Mystic Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/Mystic_Cloth.png?753ad",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Woven at a loom from mystic thread; used for crafting armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Spun from mystic fibre. Magic courses through every thread."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Loom || Skill | Experience || Artisan | 40 || Material | Quantity || Mystic Thread | 3 || Output | Quantity || Mystic Cloth | 1"
+        }
+      ],
+      "description": "Mystic cloth is a item used for armours. It is crafted at the loom using three mystic thread.\n\n(Journal)\nIt is almost imperceptible, but mystic cloth hums. It's the magical resonance: the elemental threads pushing against each other as their charge shifts. That oscillation also means that there is a lightly massaging effect on the wearer. It's entirely possible to feel calm from the vibrations as you stride into battle.\n\nYou might also be misstaken for thinking that mystic cloth is blue. On a microscopic level, it's actually a multitude of colours, combining to form the illusion of blue. As a magician once told me, it's the same effect as a blue sky: it is the result of all the colours in the world combining to make a wondrous azure."
+    }
+  },
+  {
+    "name": "Padded Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/Padded_Cloth.png?d4d9c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Woven at a loom from rough cloth and wool cloth; used in building and for crafting armour and tools.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A strong and lightweight crafting material."
+        },
+        {
+          "label": "Weight",
+          "value": "2.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Loom || Skill | Experience || Artisan | 40 || Material | Quantity || Rough Cloth | 1 || Wool Cloth | 1 || Output | Quantity || Padded Cloth | 1"
+        }
+      ],
+      "description": "Padded cloth is both a decorative item used in building as well as a material for other items, such as armours and tools.\n\nPadded cloth requires one rough cloth and one wool cloth.  It is crafted at a loom with the loom harness upgrade built and placed near to the loom itself.\n\n(Journal)\nA bolt of cloth that has been reinforced. Makes for sturdier armour than normal cloth."
+    }
+  },
+  {
+    "name": "Rough Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/Rough_Cloth.png?d4d9c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Woven at a loom from coarse thread; used mainly for rugs and Wizard Armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A versatile textile used for crafting equipment and furniture. It is woven at a loom from linen thread."
+        },
+        {
+          "label": "Weight",
+          "value": "1.5"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Loom || Skill | Experience || Artisan | 20 || Material | Quantity || Coarse Thread | 3 || Output | Quantity || Rough Cloth | 1"
+        }
+      ],
+      "description": "Rough cloth is created with a loom, requiring three coarse thread. Rough cloth is used primarily for constructing rugs and Wizard Armour.\n\n(Journal)\nBolts of sturdy Linen Cloth, excellent for crafting magical armour."
+    }
+  },
+  {
+    "name": "Vis Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/Vis_Cloth_%28Journal%29.png?b709d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Woven at a loom from vis fibres and draconic vis wax; primarily used for power level 8 mage armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Spun on a loom from vis fibres and draconic vis wax. Now it's time to make some mage armour."
+        },
+        {
+          "label": "Weight",
+          "value": "0.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Loom || Skill | Experience || Artisan | 20 || Material | Quantity || Vis Fibres | 2 || Draconic Vis Wax | 2 || Output | Quantity || Vis Cloth | 1"
+        }
+      ],
+      "description": "Vis Cloth is a processed material created at a Loom and is primarily used for power level 8 armour.\n\n(Journal)\nVis cloth is not the most comfortable material to wear. It's waxy, leaving a thin magical residue on the skin when worn. Wizards have compared it to skinning and wearing a giant slug, which isn't the best of adverts. They have complained about peeling it from their skin after a day of magical combat. If you're a hirsute magical user, you should be warned that it can rip a layer of hair from you whenever you use it. The wizards of Ashenfall's past may have had long beards, but you can be sure that there wasn't a scrap of hair on the rest of their bodies."
+    }
+  },
+  {
+    "name": "Wool Cloth",
+    "img": "https://dragonwilds.runescape.wiki/images/Wool_Cloth.png?563c3",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Woven at a loom from wool thread.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A strong and lightweight crafting material."
+        },
+        {
+          "label": "Weight",
+          "value": "1.5"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Loom || Skill | Experience || Artisan | 40 || Material | Quantity || Wool Thread | 3 || Output | Quantity || Wool Cloth | 1"
+        }
+      ],
+      "description": "Wool cloth is created in a loom using three wool thread.\n\n(Journal)\nBolts of durable Woollen cloth, popular with mages and anyone who likes a little thermal insulation in their armour."
+    }
+  },
+  {
+    "name": "Blue Dragon Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragon_Leather.png?63c71",
+    "tier": "Blue Dragonhide",
+    "tierRank": 1,
+    "chest": "textiles",
+    "note": "Made by tanning blue dragonhide at a tannery; a key component for ranged armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Made by tanning blue dragonhide. A key component for ranged armour."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Blue Dragonhide | 1 || Output | Quantity || Blue Dragon Leather | 2"
+        }
+      ],
+      "description": "Blue dragon leather is a processed material created from tanning blue dragon hide.\n\n(Journal)\nA discerning archer would do well to craft blue dragonhide leather. The colour is fetching, the defence against magic is second-to-none, and the material has an elasticity that makes it perfect for the nimble stuff that archers tend to do.\n\nIf it has a downside, it's a little tight. There's no hiding in blue dragonhide chaps, for example: all the lumps and bumps are out there."
+    }
+  },
+  {
+    "name": "Cactus Fibres",
+    "img": "https://dragonwilds.runescape.wiki/images/Cactus_Fibres.png?7a650",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Made at a tannery from fibrous pipe cactus; required to craft desert cloth at the loom.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Pipe cactus, sans water."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 20 || Material | Quantity || Fibrous Pipe Cactus | 1 || Output | Quantity || Cactus Fibres | 3"
+        }
+      ],
+      "description": "Cactus fibres is a material item created at a tannery, and is a requirement to make desert cloth.\n\n(Journal)\nNot all cacti deserve to live. Some need to be culled in case they join the trees' campaign against humanity. Fortunately, these plant-base anarchists can be refined into useful fibres that can help with crafting."
+    }
+  },
+  {
+    "name": "Cursed Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Cursed_Leather.png?569bf",
+    "tier": "Cursed Leather",
+    "tierRank": 3,
+    "chest": "textiles",
+    "note": "A sinister leather thicker and more resilient than draconic leather, tanned from draconic leather and cursed essence at a tannery.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A sinister leather. Used in crafting."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Draconic Leather | 2 || Cursed Essence | 1 || Output | Quantity || Cursed Leather | 1"
+        }
+      ],
+      "description": "Cursed leather is thicker and more resilient than draconic leather. Two draconic leather and one cursed essence is required to craft it at a tannery.\n\n(Journal)\nYou may wonder where the \"cursed\" moniker comes from. There is no need to worry. You're not cursed by wearing it, nor will making it mean you'll be visited by the three dragons of past, present and future in the night. It has a wildly different etymology.\n\nThe \"cursed\" is a tannery thing, you see. Cursed leather is notoriously hard to work and shape. Only the foremost tanners can manipulate it. But even they have a hard time, often exclaiming \"cursed leather!\" at the top of their lungs"
+    }
+  },
+  {
+    "name": "Dire Wolf Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Dire_Wolf_Leather.png?d4d9c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Tanned from dire wolf hide at a tannery.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "The tanned hide of a savage beast."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Dire Wolf Hide | 1 || Output | Quantity || Dire Wolf Leather | 1"
+        }
+      ],
+      "description": "Dire wolf leather can be created by tanning dire wolf hide at a tannery.\n\n(Journal)\nThe tanned hide of a powerful dire wolf. It's sturdy, thick, ready for enchantment and more resilient than normal leather. \n\nA legend speaks of a warrior that wore the tanned hide of a dire wolf. He wore it proudly as he walked the streets and used it to strike fear into the hearts of bandits and criminals alike. After all, a warrior that could best such a beast, was no one to be trifled with.\n\nThe story goes that one day he met another warrior, proud, skillful and handsome, and the two of them became the best of friends. They would fight together, spar together and rescued helpless villagers as an unstoppable pair. Until the night of the full moon, where the truth was revealed. Where once his new friend had stood, there was now a dread wolf of midnight-black fur and eyes of burning coal. They fought again, but gone was the jovial sparring of friends. Now they fought as man and beast, tooth and claw versus blade and shield, until all that was left of the two of them was this story."
+    }
+  },
+  {
+    "name": "Draconic Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Draconic_Leather.png?95ec6",
+    "tier": "Draconic Leather",
+    "tierRank": 2,
+    "chest": "textiles",
+    "note": "A sturdy leather thicker than hard leather, made from dragonwolf hide, or from hard leather and dragon blood, at a tannery.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A sturdy leather made from draconic hide, or from tanning hard leather with dragon blood."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe (Hide)",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Dragonwolf Hide | 1 || Output | Quantity || Draconic Leather | 1"
+        },
+        {
+          "label": "Recipe (Blood)",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Hard Leather | 3 || Dragon Blood | 1 || Output | Quantity || Draconic Leather | 1"
+        },
+        {
+          "label": "Recipe (Leather scraps)",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Draconic Leather Scraps | 4 || Output | Quantity || Draconic Leather | 1"
+        }
+      ],
+      "description": "Draconic leather is thicker and more resilient than hard leather. Players can create draconic leather with dragonwolf hide or dragon blood and three pieces of hard leather  in a tannery.\n\n(Journal)\nTanned hide infused with a dragon's vigour, draconic leather was a game-changing discovery to the people of Fellhollow. It was as flexible as normal leather, but more resilient than even the hardened skins, and it could be fashioned into many shapes for a variety of armored styles.\n\nFor a short while, the fashionistas of Emberwood village would use this leather to create garments that evoked the majesty of their draconic protectors, without bearing the scales that might cause undue offence."
+    }
+  },
+  {
+    "name": "Green Dragonhide Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Leather.png?0826d",
+    "tier": "Green Dragonhide",
+    "tierRank": 0,
+    "chest": "textiles",
+    "note": "Made by tanning green dragon hide at a tannery; a key crafting component for armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Made by tanning Green Dragonhide. A key crafting component for armour."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Green Dragon Hide | 1 || Output | Quantity || Green Dragonhide Leather | 2"
+        }
+      ],
+      "description": "Green dragonhide leather is a Processed material created from tanning green dragon hide.\n\n(Journal)\nIs it ingenuity or hubris to refine the mighty scales of a dragon down into this thick and sturdy leather?  To the Wild Knights it was the natural order. Hides became leather, which became a resilient second skin they would wear whilst riding into battle. Favoured by archers and scouts due to the nimble flexibility of the scales, yet still acting as a resilient bulwark against sword, arrow and claw alike.  To the people of Emberwood village, however, such sights were akin to blasphemy. Whilst the green dragons showed little mercy, the villagers loved and adored their majestic draconic protectors, Imaru and Xikotal, and they thought that wearing the skin of their kind might potentially cause offence."
+    }
+  },
+  {
+    "name": "Hard Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather.png?d4d9c",
+    "tier": "Hard Leather",
+    "tierRank": 1,
+    "chest": "textiles",
+    "note": "Thicker and more resilient than normal leather; tanned from leather and adhesive, or hard leather scraps, at a tannery.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "Sturdy material for crafting durable armour."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe (Leather + Adhesive)",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Leather | 2 || Adhesive | 1 || Output | Quantity || Hard Leather | 1"
+        },
+        {
+          "label": "Recipe (Hard leather scraps)",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Hard Leather Scraps | 4 || Output | Quantity || Hard Leather | 1"
+        }
+      ],
+      "description": "Hard leather is thicker and more resilient than normal leather. Players can create hard leather with two pieces of regular leather and one adhesive or four pieces of hard leather scraps in a tannery. Picking up the item grants 20 Artisan XP.\n\n(Journal)\nThicker and more resilient than normal leather. Still smells though."
+    }
+  },
+  {
+    "name": "Kalphite Shell",
+    "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Shell.png?c8d1d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "misc",
+    "note": "A durable carapace processed at a tannery from kalphite shell fragments and acrid adhesive.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "A durable kalphite carapace, suitable for crafting."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 20 || Material | Quantity || Kalphite Shell Fragments | 3 || Acrid Adhesive | 1 || Output | Quantity || Kalphite Shell | 1"
+        }
+      ],
+      "description": "Kalphite shell is a basic item used as a crafting material. It can be processed from kalphite shell fragments with acrid adhesive at the tannery.\n\n(Journal)\nAh, very good: you have cottoned onto something that mainland Gielinor has failed to understand. The way to make armour as strong as a kalphite's exoskeleton is not to hammer it into shapes that are suitable for humans. The carapace is too resistant, and you will get an armour that is ill-fitting for the human form. There will be plenty of gaps for someone to slip a Keris into.\n\nWhat you need to do is break the shell into its component fragments. You need to make a kind of kalphite mosaic, then adhere it with something acrid to make it into an armour. That's how you become as hardy as a kalphite."
+    }
+  },
+  {
+    "name": "Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Leather.png?d4d9c",
+    "tier": "Leather",
+    "tierRank": 0,
+    "chest": "textiles",
+    "note": "A basic crafting material tanned from animal hide or animal hide scraps; commonly used for making equipment.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "A basic crafting material created from animal hide; commonly used for making equipment."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe (Animal hide)",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 20 || Material | Quantity || Animal Hide | 1 || Output | Quantity || Leather | 1"
+        },
+        {
+          "label": "Recipe (Animal hide scraps)",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 20 || Material | Quantity || Animal Hide Scraps | 3 || Output | Quantity || Leather | 1"
+        }
+      ],
+      "description": "Leather is created by putting animal hide or animal hide scraps into the tannery.\n\n(Journal)\nTanned animal hide has a distinctive smell and was surprisingly popular among some of the quieter villagers of Bramblemead. This versatile material can be used to craft a wide range of items, including armour and weapons."
+    }
+  },
+  {
+    "name": "Red Dragonhide Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Leather.png?3a880",
+    "tier": "Red Dragonhide",
+    "tierRank": 2,
+    "chest": "textiles",
+    "note": "Made by tanning red dragonhide at a tannery; a key crafting component for armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Made by tanning red dragonhide. A key crafting component for armour."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Red Dragon Hide | 1 || Output | Quantity || Red Dragonhide Leather | 2"
+        }
+      ],
+      "description": "Red dragonhide leather is a processed material created from tanning red dragon hide.\n\n(Journal)\nThere is no better advert for red dragon leather than Fuzan. The tyrant of Umbral Sands has seen his fair share of upstarts. Moon Garou of all shapes and sizes have confronted him over the years, and none have managed to break his red leather hide. The only blades to have cut him were the claws of his mother, and the glaive of one mutinous KotHaar. Fuzan has met very little resistance over his long life, which might go some way to explaining why he is the way he is."
+    }
+  },
+  {
+    "name": "Black Dragon Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Dragon_Leather_%28Journal%29.png?8cd35",
+    "tier": "Black Dragonhide",
+    "tierRank": 3,
+    "chest": "textiles",
+    "note": "Made by tanning black dragon hide with dragon blood and ground rune essence at an advanced tannery; a key component of power level 8 ranged armour.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Made by tanning black dragonhide. A key component for ranged armour."
+        },
+        {
+          "label": "Weight",
+          "value": "0.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Advanced Tannery || Skill | Experience || Artisan | 20 || Material | Quantity || Black Dragon Hide | 1 || Dragon Blood | 1 || Ground Rune Essence | 1 || Output | Quantity || Black Dragon Leather | 1"
+        }
+      ],
+      "description": "Black Dragon Leather is a processed material created with one black dragon hide, one dragon blood and one ground rune essence in the advanced tannery that can be used to craft power level 8 equipment.\n\n(Journal)\nRangers are stealthy little blighters. They like nothing more than to crouch behind a mushroom and ping arrows at a target, preferably without being seen. That preference makes black dragon leather hugely attractive to a ranger. Not only does it bend nicely at the joints for the mushroom-crouching, it's highly durable and - best of all - it's black, which makes the whole subterfuge thing more likely to succeed. I've always suspected that rangers like the black as it makes them look a bit edgy, but that's unproven."
+    }
+  },
+  {
+    "name": "Scorch Leather",
+    "img": "https://dragonwilds.runescape.wiki/images/Scorch_Leather.png?90c77",
+    "tier": "Scorch Leather",
+    "tierRank": 3,
+    "chest": "textiles",
+    "note": "A light yet resilient leather suited to the desert, tanned from draconic leather, kalphite shell and acrid adhesive at an advanced tannery.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A light yet resilient leather, suited for survival in desert sands."
+        },
+        {
+          "label": "Weight",
+          "value": "1.2"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Advanced Tannery || Skill | Experience || Artisan | 40 || Material | Quantity || Draconic Leather | 1 || Kalphite Shell | 2 || Acrid Adhesive | 1 || Output | Quantity || Scorch Leather | 1"
+        }
+      ],
+      "description": "Scorch leather is thicker and more resilient than hard leather. Players can create scorch leather with draconic leather, kalphite shell and a piece of acrid adhesive in an advanced tannery.\n\n(Journal)\nNothing has adapted to the Scorch better than the kalphite. Even the KotHaar have to take occasional precautions, returning to shade and cooling their bodies. But the reason you see so many kalphite in the desert is because they thrive in it, growing in numbers while goats, desert devils and other creatures can barely survive.\n\nThe human condition is, of course, to see something admirable and then kill it and wear it. Lo, we have Scorch Leather: kalphite, reduced to a potential hat."
+    }
+  },
+  {
+    "name": "Coarse Thread",
+    "img": "https://dragonwilds.runescape.wiki/images/Coarse_Thread.png?71f62",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Spun at a spinning wheel from flax or coarse animal fur; useful in a wide range of crafting projects.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Spun from flax at a Spinning Wheel."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe (Flax)",
+          "value": "Facility | Spinning Wheel || Skill | Experience || Artisan | 20 || Material | Quantity || Flax | 1 || Output | Quantity || Coarse Thread | 1"
+        },
+        {
+          "label": "Recipe (Coarse animal fur)",
+          "value": "Facility | Spinning Wheel || Skill | Experience || Artisan | 20 || Material | Quantity || Coarse Animal Fur | 3 || Output | Quantity || Coarse Thread | 1"
+        }
+      ],
+      "description": "Coarse thread is a material item created at a spinning wheel. It can be crafted using either 1 flax or 3 coarse animal fur, either of which will create a single coarse thread.\n\n(Journal)\nWoven strands that create a more durable thread. Useful in a wide range of crafting projects."
+    }
+  },
+  {
+    "name": "Desert Thread",
+    "img": "https://dragonwilds.runescape.wiki/images/Desert_Thread.png?7ec94",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Spun at a spinning wheel from desert weed.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A strong but rough thread spun from desert weed."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Spinning Wheel || Skill | Experience || Artisan | 20 || Material | Quantity || Desert Weed | 3 || Output | Quantity || Desert Thread | 1"
+        }
+      ],
+      "description": "Desert thread is a material item created at a spinning wheel.\n\n(Journal)\nBy spinning desert weed into useful fibres, you can create yourself a nice bundle of desert thread. This thread is useful for all manner of tailoring enterprises."
+    }
+  },
+  {
+    "name": "Fine Thread",
+    "img": "https://dragonwilds.runescape.wiki/images/Fine_Thread.png?577f3",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Spun at a spinning wheel from corpse cotton; used as bow string and for stitching weapons and gear.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Made from spun corpse cotton. Can be used as a bow string and in stitching weapons and gear."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Spinning Wheel || Skill | Experience || Artisan | 20 || Material | Quantity || Corpse Cotton | 4 || Output | Quantity || Fine Thread | 1"
+        }
+      ],
+      "description": "Fine thread is a material item created at a spinning wheel. It can be crafted using 4 corpse cotton, creating a single fine thread.\n\n(Journal)\nBecause \"corpse thread\" is far too sinister a title, this thread is referred to as fine thread. It's stronger, thinner and more malleable than cotton threads. The villagers of Emberwood enjoyed this thread in their clothing, creating garments that would suffer greater strain than their previous gear. Farmers were particularly fond of it"
+    }
+  },
+  {
+    "name": "Mystic Thread",
+    "img": "https://dragonwilds.runescape.wiki/images/Mystic_Thread.png?2cbfc",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Spun at a spinning wheel from mystic fibres; magic courses through every thread.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "Spun from mystic fibre. Magic courses through every thread."
+        },
+        {
+          "label": "Weight",
+          "value": "0.6"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Spinning Wheel || Skill | Experience || Artisan | 40 || Material | Quantity || Mystic Fibres | 4 || Output | Quantity || Mystic Thread | 1"
+        }
+      ],
+      "description": "Mystic thread is a basic item created at a spinning wheel using four mystic fibres.\n\n(Journal)\nThere are many steps to making mystic robes - fibres to thread, thread to cloth, cloth to robes - but you would be wise not to skip any of them. Habberdash the Impatient, a magician who live in the Temple Woods, attempted to make his robes solely from thread. He would wrap himself, round and round, with spool after spool of mystic thread, and then attempt battle.  You can imagine how it went. He got snagged on a goblin's helmet and quickly unwound, mid-battle. We're not sure who would have been more shocked: Habberdash, who promptly got stabbed in the gut, or the goblin, who was confronted with a wizard in his undergarments."
+    }
+  },
+  {
+    "name": "Wool Thread",
+    "img": "https://dragonwilds.runescape.wiki/images/Wool_Thread.png?d4d9c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Spun at a spinning wheel from fleece or soft animal fur; three threads make one wool cloth at a loom.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "Spun from sheep fleece, essential for making warm garments and padded cloth."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe (Fleece)",
+          "value": "Facility | Spinning Wheel || Skill | Experience || Artisan | 40 || Material | Quantity || Fleece | 1 || Output | Quantity || Wool Thread | 1"
+        },
+        {
+          "label": "Recipe (Soft animal fur)",
+          "value": "Facility | Spinning Wheel || Skill | Experience || Artisan | 40 || Material | Quantity || Soft Animal Fur | 3 || Output | Quantity || Wool Thread | 1"
+        }
+      ],
+      "description": "Wool thread is a material used to craft mainly armour and some weapons. It is created at a spinning wheel by using either 3 soft animal fur or 1 fleece. Three wool threads can be made into one wool cloth at a loom.\n\n(Journal)\nThe fluffy coats of sheep, refined and wound down into a single thread. Useful for crafting various garments and highly prized by grandmothers everywhere.\n\nOn the mainland, the most impressive collection of wool belongs to Great-Aunt Potterington, in Kandarin. Her sister, Granny Potterington, is constantly trying to claim this title for herself and has accelerated her sheep breeding program in an attempt to mass produce as much wool as possible."
+    }
+  },
+  {
+    "name": "Bag of Flour",
+    "img": "https://dragonwilds.runescape.wiki/images/Bag_of_Flour.png?9e97b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "food",
+    "note": "Ground from wheat at a grindstone; cooked into bread at a kiln once Cooking level 12 is reached.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Cultivated grains ground to a fine powder."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 0.2 || Material | Quantity || Wheat | 1 || Output | Quantity || Bag of Flour | 1"
+        }
+      ],
+      "description": "Bag of flour is a power level 2 processed material, which means it can be cooked at a kiln into bread starting at Cooking Level 12, and not burnt into burnt bread at level 27. It can be grinded from wheat with a grindstone.\n\n(Journal)\nFun fact, these tiny granules of wheat are suprisingly combustible. So be careful with fire magic around them."
+    }
+  },
+  {
+    "name": "Blue Dragon Scale Dust",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragon_Scale_Dust.png?d1776",
+    "tier": "",
+    "tierRank": null,
+    "chest": "bones",
+    "note": "Ground from blue dragon scales at a grindstone; an integral ingredient in antifire potions.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Description",
+          "value": "Ground from blue dragon scales. Integral to making antifire potions."
+        },
+        {
+          "label": "Weight",
+          "value": "1.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 0 || Material | Quantity || Blue Dragon Scale | 1 || Output | Quantity || Blue Dragon Scale Dust | 2"
+        }
+      ],
+      "description": "Blue dragon scale dust is a processed material used to make antifire potions.\n\n(Journal)\nBlue dragon dust is one of those things where you wonder who invented it, and what curious sequence of events led to it happening. Some unknown person had the wherewithal to strip a dragon of dragon scales, crush those scales in a pestle and mortar, then apply the resulting dust to a potion. Not only that, they downed said potion and stood in the path of a dragon. Does that not seem inexorably mad to you?\n\nBut thank you, inexorably mad person, because now we have this potent ingredient which can protect a person from dragonfire. You have been forgotten in time, but your blue dusty legacy lives on."
+    }
+  },
+  {
+    "name": "Ground Clay",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Clay.png?d4d9c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "stone",
+    "note": "Ground from clay at a grindstone; used in building and as an Herblore ingredient for lesser Focused Artisan potions.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Description",
+          "value": "Pulverised stone, used in building, and as an Herblore ingredient."
+        },
+        {
+          "label": "Weight",
+          "value": "1.5"
+        },
+        {
+          "label": "Stack limit",
+          "value": "50"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan |  || Material | Quantity || Clay | 1 || Output | Quantity || Ground Clay | 5"
+        }
+      ],
+      "description": "Ground clay is made by using clay on a grindstone. It is used to make lesser Focused Artisan potions.\n\n(Journal)\nBy grinding clay down into powder, you can create a much smoother medium for crafting. The grinding process gets rid of various impurities and allows for more resilient results."
+    }
+  },
+  {
+    "name": "Ground Dragon Tooth",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Dragon_Tooth_%28Journal%29.png?271a6",
+    "tier": "",
+    "tierRank": null,
+    "chest": "bones",
+    "note": "Ground from a dragon tooth at a grindstone; essential for making Draconic Vis Wax.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "The product of grinding dragon teeth. Essential for making draconic vis wax."
+        },
+        {
+          "label": "Weight",
+          "value": "0.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 0 || Material | Quantity || Dragon Tooth | 1 || Output | Quantity || Ground Dragon Tooth | 1"
+        }
+      ],
+      "description": "Ground Dragon Tooth is a processed material created at a grindstone from dragon tooth and is used in the creation of Draconic Vis Wax.\n\n(Journal)\nAlchemists and specialists in herbal remedies would be lying if they said they hadn't considered the medicinal properties of Kuldra. They imagine what it would be like if they could get hold of one of her teeth, crush it, and then use it in place of the traditional ground dragon tooth. Just how much of a kick would that give their concoctions? They're self-aware enough to know that it's just a fantasy, but they like to daydream about it anyway. Sure, it would be lovely to rid the world of a tyrant dragon, but think of the potions!"
+    }
+  },
+  {
+    "name": "Ground Granite",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Granite.png?d4d9c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "stone",
+    "note": "Ground from granite at a grindstone; used in building and as an ingredient in attack potions.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Description",
+          "value": "Pulverised stone, used in building and as an ingredient in herblore."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 0 || Material | Quantity || Granite | 1 || Output | Quantity || Ground Granite | 5"
+        }
+      ],
+      "description": "Ground granite is created by putting granite in a grindstone. It is used in making attack potions.\n\n(Journal)\nIt takes a lot of effort to crush granite into powder. Blood, sweat and tears go into the process of refining this solid stone into something more manageable. In doing so, you prove yourself a master over the earth itself; though the earth rarely acknowledges your claim."
+    }
+  },
+  {
+    "name": "Ground Gypsum",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Gypsum.png?87205",
+    "tier": "",
+    "tierRank": null,
+    "chest": "stone",
+    "note": "Ground from gypsum at a grindstone; its reflective quality makes it useful in crafting.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Description",
+          "value": "Ground from gypsum. This reagent seems to reflect light and therefore heat."
+        },
+        {
+          "label": "Weight",
+          "value": "0.2"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | {{ArtisanXP|Craft_Crafting_Table_Recipe_Tier2}} || Material | Quantity || Gypsum | 1 || Output | Quantity || Ground Gypsum | 1"
+        }
+      ],
+      "description": "Ground gypsum is created by putting a gypsum in a grindstone.\n\n(Journal)\nGypsum is a versatile old construction material, used for drywall, plaster and other essentials of the modern home. If you have mined gypsum and turned it to powder, there is a strong chance that you, too, have found a construction use for it. Just make more than you need, as the grinding process tends to create a lot of wastage. As builders will tell you: \"you gypsum, you lose some\"."
+    }
+  },
+  {
+    "name": "Ground Limestone",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Limestone.png?b5af2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "stone",
+    "note": "Ground from limestone at a grindstone; used to make molten glass at the blast furnace.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Description",
+          "value": "Fine limestone ground from limestone. With the proper tools, it can be made into glass in the Blast Furnace."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 0 || Material | Quantity || Limestone | 1 || Output | Quantity || Ground Limestone | 1"
+        }
+      ],
+      "description": "Ground limestone is a processed material used to make molten glass in a blast furnace."
+    }
+  },
+  {
+    "name": "Ground Obsidian",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Obsidian.png?8e968",
+    "tier": "",
+    "tierRank": null,
+    "chest": "stone",
+    "note": "Ground from elder curiosities or an obsidian device at a grindstone.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "An object of pure, refined obsidian."
+        },
+        {
+          "label": "Weight",
+          "value": "2.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe (Elder curiosities)",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 20 || Material | Quantity || Elder Curiosities | 1 || Output | Quantity || Ground Obsidian | 1"
+        },
+        {
+          "label": "Recipe (Obsidian device)",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 20 || Material | Quantity || Obsidian Device | 1 || Output | Quantity || Ground Obsidian | 3"
+        }
+      ],
+      "description": "Ground obsidian is a basic item created by grounding elder curiosities or obsidian device in a grindstone.\n\n(Journal)\nIf obsidian can contain concentrated KotHaar consciousness, then what is ground obsidian? Does each granule contain a single memory? Do these scattered pieces of KotHaar consciousness communicate with each other on some level? Does a bag of ground obsidian contain more information than any library? We have SO many questions."
+    }
+  },
+  {
+    "name": "Ground Rune Essence",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Rune_Essence_%28Journal%29.png?a41c8",
+    "tier": "",
+    "tierRank": null,
+    "chest": "runes",
+    "note": "Ground from rune essence at a grindstone; a component of black dragon leather and other power level 8 equipment.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Made by grinding rune essence. A component of black dragon leather."
+        },
+        {
+          "label": "Weight",
+          "value": "0.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | {{ArtisanXP|Craft_Crafting_Table_Recipe_Tier1}} || Material | Quantity || Rune Essence | 1 || Output | Quantity || Ground Rune Essence | 1"
+        }
+      ],
+      "description": "Ground Rune Essence is a processed material that is used to make a variety of power level 8 equipment.\n\n(Journal)\nIt's not advised to eat a rune whole. You can bet it's one of the first things that someone did when runes were discovered. In it pops. But the result is anticlimactic: runes don't release any magical properties while they're in there. Earth runes won't magically solve any gall stones; an astral rune won't bless your small-intestine as it worms its way southwards. Then there's the whole 'exiting' thing: passing a rune is not particularly pleasurable.\n\nCrushing a rune beforehand, though? That's slightly more likely to create magical side-effects. Having control over those side-effects, however, is a whole other matter."
+    }
+  },
+  {
+    "name": "Ground Sandstone",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Sandstone.png?6b36b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "stone",
+    "note": "Ground from sandstone at a grindstone; used to make molten glass at the blast furnace.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Description",
+          "value": "Fine sand ground from sandstone. With the proper tools, it can be made into glass in the Furnace."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 0 || Material | Quantity || Sandstone | 1 || Output | Quantity || Ground Sandstone | 5"
+        }
+      ],
+      "description": "Ground sandstone is a processed material created at a grindstone from sandstone."
+    }
+  },
+  {
+    "name": "Ground Stone",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Stone.png?6b36b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "stone",
+    "note": "Ground from stone at a grindstone; used in tier 2 constructed items.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Description",
+          "value": "Pulverised stone, used in building, and as an Herblore ingredient."
+        },
+        {
+          "label": "Weight",
+          "value": "0.2"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 0 || Material | Quantity || Stone | 1 || Output | Quantity || Ground Stone | 5"
+        }
+      ],
+      "description": "Ground stone is created by putting a stone in a grindstone. Ground stone is used in tier 2 constructed items and will be used for herblore in future updates.\n\n(Journal)\nMuch harder to stub your foot on when in powdered form. Stone ground down and down until all that remains is a fine powder useful in ways that big lumps of stone are not. Like cake frosting for your enemies."
+    }
+  },
+  {
+    "name": "Ground Tea Leaves",
+    "img": "https://dragonwilds.runescape.wiki/images/Ground_Tea_Leaves.png?85906",
+    "tier": "",
+    "tierRank": null,
+    "chest": "food",
+    "note": "Ground from dried tea leaves at a grindstone; used to make strong tea and strong sweet tea at the cooking range.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Weight",
+          "value": "0.0"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 20 || Material | Quantity || Dried Tea Leaves | 1 || Output | Quantity || Ground Tea Leaves | 1"
+        }
+      ],
+      "description": "Ground tea leaves is a basic item processed from dried tea leaves at the grindstone. It is used to make strong tea and strong sweet tea at the cooking range.\n\n(Journal)\nIf the ground tea leaves, where does it go?\n\nCongratulations on being midway through the making-tea process. Keep going: we believe in you. Soon, you will have a hot mug of tea in your hands, and nothing - not the ever-approaching prospect of facing Kuldra - will be able to intrude on your peace."
+    }
+  },
+  {
+    "name": "Necrotic Bonemeal",
+    "img": "https://dragonwilds.runescape.wiki/images/Necrotic_Bonemeal.png?dd90f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "bones",
+    "note": "Ground from undead bone at a grindstone; a key ingredient in sacred oil and demonic oil.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 December 2025 (Update: Eye on Ashenfall - 0.10)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Made from ground up undead bone. A useful crafting ingredient."
+        },
+        {
+          "label": "Weight",
+          "value": "1.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 0 || Material | Quantity || Undead Bone | 3 || Output | Quantity || Necrotic Bonemeal | 1"
+        }
+      ],
+      "description": "Necrotic bonemeal is one of the materials required for making sacred oil and demonic oil.\n\n(Journal)\nThe walking dead are strange things, animated by hunger, need, rage and a touch of magic. In Ashenfall it is the hunger of Imaru that drives them, as her great maw draws in the souls of both the living and the dead, the afflicted try to cling to life with everything that they have.\n\nThey fail, but the drive remains. Fear, desperation, and simple need keeps the body moving, if not alive. This changes the body, that hunger and rot seeping into the very bones and changing them to be something other than they were.\n\nWhen ground down, these bones become a powder containing hints of that animating magic. A necromantic resonance with a wide range of uses."
+    }
+  },
+  {
+    "name": "Shimmerscale Powder",
+    "img": "https://dragonwilds.runescape.wiki/images/Shimmerscale_Powder.png?3774d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "bones",
+    "note": "Ground from kalphite wings at a grindstone; a key ingredient in infinity cloth.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "A shimmering iridescent powder. Its shifting hues are almost hypnotic."
+        },
+        {
+          "label": "Weight",
+          "value": "0.1"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe (Kalphite wing)",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 40 || Material | Quantity || Kalphite Wing | 1 || Output | Quantity || Shimmerscale Powder | 2"
+        },
+        {
+          "label": "Recipe (Greater kalphite wing)",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 40 || Material | Quantity || Greater Kalphite Wing | 1 || Output | Quantity || Shimmerscale Powder | 3"
+        },
+        {
+          "label": "Recipe (Stunted kalphite wing)",
+          "value": "Facility | Grindstone || Skill | Experience || Artisan | 40 || Material | Quantity || Stunted Kalphite Wing | 1 || Output | Quantity || Shimmerscale Powder | 1"
+        }
+      ],
+      "description": "Shimmerscale powder is a processed material created at a grindstone from kalphite wings, its star-like shimmer making it a key ingredient in the creation of infinity cloth.\n\n(Journal)\nStare into the shimmer scale powder and it's like looking up into the night sky. Constellations form in the dust. Often, you'll see Moon Garou merchants idly stirring their stocks of shimmer scale powder, fascinated. It's not difficult to see how infinity cloth gets its many shimmering colours."
+    }
+  },
+  {
+    "name": "Acrid Adhesive",
+    "img": "https://dragonwilds.runescape.wiki/images/Acrid_Adhesive.png?43117",
+    "tier": "",
+    "tierRank": null,
+    "chest": "misc",
+    "note": "A resilient adhesive processed from kalphite ichor at a kiln; withstands high temperatures.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "A resilient adhesive that can withstand high temperatures."
+        },
+        {
+          "label": "Weight",
+          "value": "1.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Kalphite Ichor | 3 || Output | Quantity || Acrid Adhesive | 1"
+        }
+      ],
+      "description": "Acrid adhesive is a basic item processed from kalphite ichor at the kiln.\n\n(Journal)\nPlease, for the love of the River Goddess, don't lick, sniff or apply acrid adhesive to your skin. You might think it would be worse for the Moon Garou who are covered in fur, but at least they can shed the fur when gets sticky. Its harder to shed a finger or lip."
+    }
+  },
+  {
+    "name": "Charcoal",
+    "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308",
+    "tier": "",
+    "tierRank": null,
+    "chest": "misc",
+    "note": "Produced by burning logs or planks at a kiln; an efficient fuel and crafting reagent (milling logs into planks first doubles the yield).",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "Produced by burning wood in a kiln. <br />Charcoal is a very efficient fuel."
+        },
+        {
+          "label": "Weight",
+          "value": "1.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe (Ash logs)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Ash Logs | 1 || Output | Quantity || Charcoal | 1"
+        },
+        {
+          "label": "Recipe (Oak logs)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Oak Logs | 1 || Output | Quantity || Charcoal | 1"
+        },
+        {
+          "label": "Recipe (Willow logs)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Willow Logs | 1 || Output | Quantity || Charcoal | 1"
+        },
+        {
+          "label": "Recipe (Blightwood)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Blightwood | 1 || Output | Quantity || Charcoal | 1"
+        },
+        {
+          "label": "Recipe (Maple logs)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Maple Logs | 1 || Output | Quantity || Charcoal | 1"
+        },
+        {
+          "label": "Recipe (Yew logs)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Yew Logs | 1 || Output | Quantity || Charcoal | 1"
+        },
+        {
+          "label": "Recipe (Ash plank)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Ash Plank | 1 || Output | Quantity || Charcoal | 1"
+        },
+        {
+          "label": "Recipe (Oak plank)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Oak Plank | 1 || Output | Quantity || Charcoal | 1"
+        },
+        {
+          "label": "Recipe (Yew plank)",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Yew Plank | 1 || Output | Quantity || Charcoal | 1"
+        }
+      ],
+      "description": "Charcoal is a form of fuel created by processing wood at a kiln. Charcoal provides facilities 3 minutes of fuel time, serving as an improvement over using wood as a fuel source. In addition to being a fuel source, charcoal is a reagent for other items and buildings.\n\nNote: Twice as much charcoal can be produced if first milling logs into planks.\n\n(Journal)\nWhat's better than a dead tree? A dead tree that has been burned to the point of carbonization. No longer do you see unsightly green leaves, but now the wonderful blackness of charcoal. Highly praised by smiths. Way better than stupid old logs of wood.\n\nThis journal entry was sponsored by the tree haters of , if you're interested in joining their focus group, please speak to Tim near Bob's Axes."
+    }
+  },
+  {
+    "name": "Dried Tea Leaves",
+    "img": "https://dragonwilds.runescape.wiki/images/Dried_Tea_Leaves.png?d115a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "food",
+    "note": "Processed from tea leaves at a kiln; used to make ground tea leaves at the grindstone.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Weight",
+          "value": "0.0"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Tea Leaves | 1 || Output | Quantity || Dried Tea Leaves | 1"
+        }
+      ],
+      "description": "Dried tea leaves is a basic item processed from tea leaves at the kiln. It is used to make ground tea leaves at the grindstone.\n\n(Journal)\nIt's almost impossible to hold dried tea leaves up to the nose, have a huff, and not go \"aaaaaah\" in a deep, relieved sort of manner. It's the smell of lazy Sunday afternoons, butt in a rocking chair, wistfully thinking back to your golden years."
+    }
+  },
+  {
+    "name": "Harmonised Compound",
+    "img": "https://dragonwilds.runescape.wiki/images/Harmonised_Compound_%28Journal%29.png?ca52c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "misc",
+    "note": "Made from discordant residue at a kiln; can be combined with runic powder at an advanced spinning wheel.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 September 2026 (Update: Our 1.0 Release is live!)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "Made from discordant residue in a kiln. Can be combined with runic powder on an advanced spinning wheel."
+        },
+        {
+          "label": "Weight",
+          "value": "0.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Kiln || Skill | Experience || Artisan | 20 || Material | Quantity || Discordant Residue | 1 || Output | Quantity || Harmonised Compound | 1"
+        }
+      ],
+      "description": "Harmonised Compound is a processed material created at a kiln from discordant residue.\n\n(Journal)\nSmelting discordant residue into harmonised compound is astonishingly reckless. In essence, you're 'cooking anima', which is akin to gargling fuel and then sipping on fire. You are dealing with some of the highest percentages of anima - the lifeblood of the world. We'd tell you to be careful, but this is the person who has wandered into the home of a five-headed dragon with the express intention of killing it."
+    }
+  },
+  {
+    "name": "Wild Anima",
+    "img": "https://dragonwilds.runescape.wiki/images/Wild_Anima.png?dfc4f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "misc",
+    "note": "Refined from anima-infused bark at a kiln; raw magical essence used in magic recipes and equipment.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update: RuneScape: Dragonwilds is out!)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "Raw magical essence, extremely useful in magical recipes and equipment. Refined by herblore masters from anima-infused bark."
+        },
+        {
+          "label": "Weight",
+          "value": "2.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Kiln || Skill | Experience ||  |  || Material | Quantity || Anima-Infused Bark | 4 || Output | Quantity || Wild Anima | 1"
+        }
+      ],
+      "description": "Wild anima can be made with anima-infused bark in a kiln.\n\n(Journal)\nMagic is made up of motes of anima, refined and collected into specific forms. Rune essence can be made to hold these motes, creating dedicated magical components for spells and enchantments. Wild anima is useful for magical construction, but cannot be converted into true spellcraft, as the motes are unaligned and prone to strange reactions."
+    }
+  },
+  {
+    "name": "Molten Glass",
+    "img": "https://dragonwilds.runescape.wiki/images/Molten_Glass.png?d4d9c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "misc",
+    "note": "Made at a blast furnace from ground sandstone and ground limestone; blown into glass vessels, decorations and panes at a jeweler's bench.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "31 March 2026 (Update: 0.11 is live now! Enter Dowdun Reach...)"
+        },
+        {
+          "label": "Type",
+          "value": "Resource"
+        },
+        {
+          "label": "Description",
+          "value": "Hot glass ready to be blown into useful objects."
+        },
+        {
+          "label": "Weight",
+          "value": "0.5"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Blast Furnace || Skill | Experience || Artisan | 60 || Material | Quantity || Ground Limestone | 3 || Ground Sandstone | 3 || Output | Quantity || Molten Glass | 1"
+        }
+      ],
+      "description": "Molten glass is a processed material. It can be created with three ground sandstone and three ground limestone at a blast furnace. This is used at a jeweler's bench to craft glass vessel, glass decoration & glass pane.\n\n(Journal)\nBeautiful, yet hard to handle, the creation of molten glass was a turning point for Gielinorian civilization. It allowed the creation of vials, windows, and those pretty little animals that grandmothers love to collect and put on shelves."
+    }
+  },
+  {
+    "name": "Refined Obsidian",
+    "img": "https://dragonwilds.runescape.wiki/images/Refined_Obsidian.png?adca9",
+    "tier": "",
+    "tierRank": null,
+    "chest": "misc",
+    "note": "Processed from ground obsidian at a blast furnace.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "23 June 2026 (Update: Eye on Ashenfall - 0.12.0)"
+        },
+        {
+          "label": "Type",
+          "value": "Processed Material"
+        },
+        {
+          "label": "Description",
+          "value": "An object of pure, refined obsidian."
+        },
+        {
+          "label": "Weight",
+          "value": "2.0"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Recipe",
+          "value": "Facility | Blast Furnace || Skill | Experience || Artisan | 20 || Material | Quantity || Ground Obsidian | 9 || Output | Quantity || Refined Obsidian | 1"
+        }
+      ],
+      "description": "Refined obsidian is a basic item processed from nine ground obsidian at the blast furnace.\n\n(Journal)\nIt's hard for a human to understand just how much obsidian means to a KotHaar. Imagine that your homes, tools and weapons were the flesh of your ancestors. Imagine that the money in your wallet was stretched skin from a distant relative. Now, switch out your disgust for a kind of holy reverence: the KotHaar feel this towards all the obsidian about them. That flesh isn't just a physical remnant of their ancestors, it carries their memories too. Knowledge permeates the rock."
+    }
+  },
+  {
+    "name": "Animal Hide Scraps",
+    "img": "https://dragonwilds.runescape.wiki/images/Animal_Hide_Scraps.png?12adb",
+    "tier": "",
+    "tierRank": null,
+    "chest": "textiles",
+    "note": "Gathered from small creatures; too small on its own for leather, but enough of it works as a Leather substitute.",
+    "detail": {
+      "infobox": [
+        {
+          "label": "Released",
+          "value": "15 April 2025 (Update)"
+        },
+        {
+          "label": "Type",
+          "value": "Basic Item"
+        },
+        {
+          "label": "Description",
+          "value": "Gathered from small creatures, too small to be processed into leather by itself."
+        },
+        {
+          "label": "Weight",
+          "value": "0.3"
+        },
+        {
+          "label": "Stack limit",
+          "value": "99"
+        },
+        {
+          "label": "Products",
+          "value": "Product: 1 × Leather; Facility: Tannery; XP: 20; Materials: 3 × Animal Hide Scraps || Product: 1 × Relentless Infusion; Facility: Stone Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Hide Scraps 1 × Harralander || Product: 1 × Relentless Infusion; Facility: Cooking Range; XP: 15; Materials: 1 × Clean Water 1 × Animal Hide Scraps 1 × Harralander"
+        },
+        {
+          "label": "Item sources",
+          "value": "Source: Giant Rat; Quantity: 1; Rarity: Always || Source: Kebbit; Quantity: 1; Rarity: 1/2 || Source: Chinchompa; Quantity: 2; Rarity: Always || Source: Putrid Rat; Quantity: 1; Rarity: Always || Source: Plague King; Quantity: 3; Rarity: Always || Source: Rat King; Quantity: 3; Rarity: Always || Source: Desert Devil Kebbit; Quantity: 2-4; Rarity: 1/2 || Source: Chest (Brynmoor); Quantity: 3-9; Rarity: 1/17.9 || Source: Chest (Fractured Plains); Quantity: 3-9; Rarity: 1/35.7 || Source: Chest (Whispering Swamp); Quantity: 3-9; Rarity: 1/15.9 || Source: Chest (Dowdun Reach); Quantity: 3-6; Rarity: 1/17 || Source: Buried Treasure (Brynmoor); Quantity: 3-6; Rarity: 20/100"
+        },
+        {
+          "label": "Shop locations",
+          "value": "Seller: Iasadair - The Merchant; Price sold at: N/A; Price bought at: 1"
+        }
+      ],
+      "description": "Animal hide scraps are gathered from rats, kebbits, and chinchompas to create leather.\n\n(Journal)\nA collection of pelt scraps collected from smaller creatures. Some druids would insist on crafting cloaks made only from smaller animals that died of natural causes. This meant that each cloak often took months, or sometimes even years, to craft. Naturally this wasn’t particularly helpful on the cusp of winter."
+    }
+  }
+]

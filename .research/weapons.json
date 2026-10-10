@@ -1,0 +1,1298 @@
+[
+ {
+  "name": "Abysmal Whip",
+  "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip_%28Journal%29.png?7a40d",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The abysmal whip is a power level 4 one-handed melee weapon that can be created at a blacksmith's bench. The recipe, Abyssal Remains, can be acquired by killing an Abyssal Demon."
+ },
+ {
+  "name": "Abyssal Whip",
+  "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip_%28Journal%29.png?737d3",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The abyssal whip is a power level 7 one-handed masterwork melee weapon that can be created at a blacksmith's bench. To create this, it requires the Abysmal Whip to be wielded when interacting with a dragonkin statue near the Fight Cave."
+ },
+ {
+  "name": "Adamant Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Arrow.png?dfa3b",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "Adamant arrows are a power level 7 ammunition that are crafted at a fletching bench, and can be used to craft adamant barbed arrow, poisoned adamant arrow, and adamant fire arrow."
+ },
+ {
+  "name": "Adamant Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Barbed_Arrow.png?a6bb9",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "Adamant barbed arrows are a power level 7 ammunition that are crafted at a fletching bench."
+ },
+ {
+  "name": "Adamant Bolt",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Bolt.png?ac592",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "Adamant bolts are a power level 7 ammunition crafted at a fletching bench."
+ },
+ {
+  "name": "Adamant Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow.png?a5d74",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "A adamant crossbow is a power level 7 crossbow crafted at a fletching bench."
+ },
+ {
+  "name": "Adamant Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Dagger.png?9f145",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The adamant dagger is a power level 7 one-handed melee weapon."
+ },
+ {
+  "name": "Adamant Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Fire_Arrow.png?0e5b7",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "Adamant fire arrows are a power level 7 ammunition that are crafted at a fletching bench."
+ },
+ {
+  "name": "Adamant Greataxe",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Greataxe.png?952ba",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The adamant greataxe is a power level 7 two-handed melee weapon."
+ },
+ {
+  "name": "Adamant Greatsword",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Greatsword.png?856a3",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The adamant greatsword is a power level 7 two-handed melee weapon."
+ },
+ {
+  "name": "Adamant Mace",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Mace.png?6ac82",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The adamant mace is a power level 7 one-handed melee weapon."
+ },
+ {
+  "name": "Adamant Scimitar",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Scimitar.png?53f5d",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The adamant scimitar is a power level 7 one-handed melee weapon."
+ },
+ {
+  "name": "Adamant Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Sword.png?ef5bc",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The adamant sword is a power level 7 one-handed melee weapon."
+ },
+ {
+  "name": "Adamant Warhammer",
+  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Warhammer.png?e9445",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The adamant warhammer is a power level 7 two-handed melee weapon"
+ },
+ {
+  "name": "Adventurer's Longbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Adventurer%27s_Longbow.png?64f4d",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The adventurer's longbow is a power level 2 longbow which can be crafted using a crafting table. The recipe is learned by consuming the vestige: a simple broken bow, found in a chest inside of Finn's Cave."
+ },
+ {
+  "name": "Ancestral Staff",
+  "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Staff_%28journal%29.png?73a03",
+  "tier": "Ancestral",
+  "tierRank": 6,
+  "chest": "weapons",
+  "note": "The Ancestral Staff is a Power level 8 magic weapon. it can be crafted at a Mystic Forge using 12 Magic Logs, 6 Harmonised Compound, 2 Vis Cloth, 3 Dragonstone, and 2 Draconic Vis Wax"
+ },
+ {
+  "name": "Ancestral Wand",
+  "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Wand_%28Journal%29.png?706fd",
+  "tier": "Ancestral",
+  "tierRank": 6,
+  "chest": "weapons",
+  "note": "The Ancestral wand is a power level 8 magic weapon. It can be crafted at a mystic forge using 8 magic logs, 5 harmonised compound, 2 vis cloth, 2 dragonstone, and 2 draconic vis wax."
+ },
+ {
+  "name": "Ash Battlestaff",
+  "img": "https://dragonwilds.runescape.wiki/images/Ash_Battlestaff.png?a0146",
+  "tier": "Ash",
+  "tierRank": 0,
+  "chest": "weapons",
+  "note": "The ash battlestaff is a power level 2 magic weapon. It can be created at a crafting table using 12 ash logs, 6 rune essence, and 2 coarse thread."
+ },
+ {
+  "name": "Ash Shortbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Ash_Shortbow_%28Journal%29.png?139a2",
+  "tier": "Ash",
+  "tierRank": 0,
+  "chest": "weapons",
+  "note": "Ash shortbow is a power level 2 Shortbow that can be crafted at a Crafting Table."
+ },
+ {
+  "name": "Ash Wand",
+  "img": "https://dragonwilds.runescape.wiki/images/Ash_Wand_%28Journal%29.png?28bd4",
+  "tier": "Ash",
+  "tierRank": 0,
+  "chest": "weapons",
+  "note": "The Ash wand is a power level 2 magic weapon. It can be crafted at a crafting table using 6 ash logs, 3 rune essence, and 1 coarse thread."
+ },
+ {
+  "name": "Black Greataxe",
+  "img": "https://dragonwilds.runescape.wiki/images/Black_Greataxe_%28Journal%29.png?a5540",
+  "tier": "Black metal",
+  "tierRank": 6,
+  "chest": "weapons",
+  "note": "The black greataxe is a power level 6 two-handed melee weapon that can be crafted at a blacksmith's bench. The recipe is unlocked after studying the bloodstained hilt, which can be purchased from Postie Pete's Evil Emporium for 300 infernal fragments, or acquired from chest (dowdun reach)."
+ },
+ {
+  "name": "Black Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Black_Sword_%28Journal%29.png?33ff4",
+  "tier": "Black metal",
+  "tierRank": 6,
+  "chest": "weapons",
+  "note": "The black sword is a one-handed power level 6 melee weapon. The recipe is unlocked after studying the shattered black blade vestige, which can be found in chests throughout Dowdun Reach or purchased from Postie Pete's Evil Emporium for 300 infernal fragments."
+ },
+ {
+  "name": "Blightwood Battlestaff",
+  "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Battlestaff.png?240ee",
+  "tier": "Blightwood",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "Blightwood battlestaff is a power level 4 two-handed staff that can be crafted with a mystic forge."
+ },
+ {
+  "name": "Blightwood Longbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Longbow.png?64f4d",
+  "tier": "Blightwood",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "Blightwood longbow is a power level 4 Longbows that can be crafted at the fletching bench, once the recipe is unlocked by cutting and picking up blightwood and swamp thread."
+ },
+ {
+  "name": "Blightwood Shortbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Shortbow_%28Journal%29.png?d9801",
+  "tier": "Blightwood",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "The blightwood shortbow is a power level 4 Shortbow that can be crafted at a fletching bench."
+ },
+ {
+  "name": "Blightwood Wand",
+  "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Wand_%28Journal%29.png?afd57",
+  "tier": "Blightwood",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "The Blightwood wand is a power level 4 magic weapon. It can be crafted at a mystic forge using 6 blightwood, 3 wild anima, 2 swamp thread, and 2 vault shard."
+ },
+ {
+  "name": "Blurite Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Blurite_Bolts.png?9addd",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Blurite bolts are power level 4 ammunition that can be fired with a blurite crossbow or higher. They are crafted at a fletching bench after unlocking the recipe with the vestige: azure metal contraption."
+ },
+ {
+  "name": "Blurite Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Blurite_Crossbow.png?328e7",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The blurite crossbow is a power level 4 crossbow that can be crafted at a fletching bench. The recipe is learned after studying the azure metal contraption found in a chest in northwest Fractured Plains."
+ },
+ {
+  "name": "Bone Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Bone_Bolts.png?b4801",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Bone bolts are a power level 5 ammunition that can only be fired from Dorgeshuun crossbows. Bone bolts are unlocked after completing the quest, Even More Restless Ghosts."
+ },
+ {
+  "name": "Bone Club",
+  "img": "https://dragonwilds.runescape.wiki/images/Bone_Club.png?240ee",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The bone club is a power level 2 one-handed melee weapon that can be crafted at a crafting table. Its special attack is a small leap with an overhead slam, dealing moderate damage."
+ },
+ {
+  "name": "Bone Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Bone_Dagger.png?240ee",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The bone dagger is a power level 2 one-handed melee weapon that can be crafted at a crafting table. Its special attack is a small dash forward, followed by an upward slash, and can be useful as a combo extension."
+ },
+ {
+  "name": "Bow of Elidinis",
+  "img": "https://dragonwilds.runescape.wiki/images/Bow_of_Elidinis.png?1c077",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The bow of Elidinis is a power level 7 masterwork longbow that can be crafted at a fletching bench. The recipe is received as a reward for completing the Mapping The Sands II quest."
+ },
+ {
+  "name": "Bronze Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Arrow.png?0acdc",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "Bronze arrows are power level 3 ammunition that can be crafted at a fletching bench."
+ },
+ {
+  "name": "Bronze Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Barbed_Arrow.png?a22ca",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "Bronze barbed arrows are bronze arrows with weapon barbs crafted on the arrow. Targets that are hit by a bronze barbed arrow will be inflicted with the bleed debuff."
+ },
+ {
+  "name": "Bronze Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Bolts.png?7e94d",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "Bronze bolts are a power level 3 ammunition that can be fired from bronze crossbows."
+ },
+ {
+  "name": "Bronze Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Crossbow.png?22330",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "A bronze crossbow is a power level 3 Crossbow that can be crafted at a fletching bench."
+ },
+ {
+  "name": "Bronze Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Dagger.png?9ec22",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "The bronze dagger is a power level 3 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small dash forward, followed by an upward slash, and can be useful as a combo extension."
+ },
+ {
+  "name": "Bronze Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Fire_Arrow.png?8cd86",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "Bronze fire arrows are bronze arrows with fire oil applied with level 45 Ranged. Targets that are hit by a bronze fire arrow will be inflicted with the burning debuff, damaging the enemy by 5% of their max health for six seconds."
+ },
+ {
+  "name": "Bronze Greatsword",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Greatsword.png?9ec22",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "The bronze greatsword is a power level 3 two-handed melee weapon that can be crafted at the blacksmith's bench. Its special attack is a large circular slash that lunges the player forward in the direction they are aiming, useful for hitting large groups simultaneously and changing directions during a combo."
+ },
+ {
+  "name": "Bronze Mace",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Mace.png?240ee",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "The bronze mace is a power level 3 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small leap with an overhead slam, dealing moderate damage."
+ },
+ {
+  "name": "Bronze Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Sword.png?561ef",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "The bronze sword is a power level 3 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a forward stab, which can reach quite far forward compared to most melee attacks, making it useful for combo extensions and intercepting an opponent before they can attack."
+ },
+ {
+  "name": "Bronze Warhammer",
+  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Warhammer.png?561ef",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "The bronze warhammer is a power level 3 two-handed melee weapon that is crafted at the blacksmith's bench. Its special attack is a slow and heavy slam in front of the player, with a small area-of-effect shockwave that will cause a hard knockdown on most opponents and deal heavy damage."
+ },
+ {
+  "name": "Chieftain's Blade",
+  "img": "https://dragonwilds.runescape.wiki/images/Chieftain%27s_Blade_%28Journal%29.png?b480f",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The chieftain's blade is a power level 3 one-handed weapon, created by combining 10 bronze bars, 2 antlers, and 2 animal bones at a blacksmith's bench. The recipe is learned by consuming the vestige a corroded serrated blade, found in a chest atop the same plateau where you start the Heartstrings quest."
+ },
+ {
+  "name": "Crystal Bow",
+  "img": "https://dragonwilds.runescape.wiki/images/Crystal_Bow_%28Journal%29.png?7a283",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The crystal bow is a power level 3 masterwork shortbow that can be obtained (as well as its crafting recipe) as a reward from the Heartstrings quest. It can then be crafted at a fletching bench."
+ },
+ {
+  "name": "Dorgeshuun Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Dorgeshuun_Crossbow.png?aaf68",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The dorgeshuun crossbow is a power level 5 crossbow that can be crafted at a fletching bench. The recipe is obtained from the quest Even More Restless Ghosts."
+ },
+ {
+  "name": "Draconic Staff",
+  "img": "https://dragonwilds.runescape.wiki/images/Draconic_Staff_%28Journal%29.png?5dc38",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The draconic staff is a power level 4 staff that can be crafted at a mystic forge. The recipe is unlocked after studying the parts of a sinister-looking staff, which can be found in a chest on the western wall outside of Skeklac Kara, the dragonkin vault in Ashien's Watch."
+ },
+ {
+  "name": "Dragon Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Crossbow_%28Journal%29.png?236fc",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The Dragon crossbow is a power level 9 ranged weapon that can be received after completing the Scorned Wilderness raid and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this crossbow is both uncraftable and has a passive full durability."
+ },
+ {
+  "name": "Dragon Scimitar",
+  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Scimitar_%28Journal%29.png?571f2",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The dragon scimitar is a Power level 9 weapon that can be received after completing the Scorned Wilderness raid and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this scimitar is both uncraftable and has a passive full durability."
+ },
+ {
+  "name": "Dragonbone Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Dragonbone_Dagger.png?9ec22",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The dragonbone dagger is a power level 4 one-handed melee weapon that can be crafted at a blacksmith's bench. The recipe can be found in Chaktan Kara, the dragonkin vault in northwest Stormtouched Highlands."
+ },
+ {
+  "name": "Enchanted Adamant Bolt",
+  "img": "https://dragonwilds.runescape.wiki/images/Enchanted_Adamant_Bolt_%28Journal%29.png?dbe0d",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The Enchanted Adamant Bolt is a power level 7 bolt crafted at a Fletching Bench. It has a 15% chance to drain 15% of the user's current health and increase critical hit damage by 40% for that shot on a successful hit."
+ },
+ {
+  "name": "Enchanted Blurite Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Enchanted_Blurite_Bolts.png?97392",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Enchanted blurite bolts are an upgradeable version of blurite bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% earth magic damage."
+ },
+ {
+  "name": "Enchanted Bronze Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Enchanted_Bronze_Bolts.png?46698",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "Enchanted bronze bolts are an upgradeable version of bronze bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% air magic damage and up to 16 damage towards the enemy via the Shocked debuff."
+ },
+ {
+  "name": "Enchanted Iron Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Enchanted_Iron_Bolts.png?a318c",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "Enchanted iron bolts are an upgradeable version of iron bolts unlocked at level 35 Ranged. After creation, there is a 15% chance of one of the bolts being enchanted with 10% water magic damage."
+ },
+ {
+  "name": "Enchanted Mithril Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Enchanted_Mithril_Bolts.png?5bc50",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "Enchanted mithril bolts are a power level 6 ammunition crafted at a fletching bench that has a 15% chance to create a toxic burst, poisoning all nearby enemies within a 4-5 meter radius."
+ },
+ {
+  "name": "Enchanted Rune Bolt",
+  "img": "https://dragonwilds.runescape.wiki/images/Enchanted_Rune_Bolt_%28Journal%29.png?571f2",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "Enchanted rune bolts are a power level 8 ammunition crafted at a fletching bench. It has a 15% chance to increase critical hit damage by 20% for that shot on a successful hit."
+ },
+ {
+  "name": "Enchanted Steel Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Enchanted_Steel_Bolts.png?6081c",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "Enchanted steel bolts are a power level 5 ammunition that has a 15% chance to heal 20% of the player's health when struck at an enemy."
+ },
+ {
+  "name": "Fang Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Fang_Arrow.png?68b2a",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Fang arrows are power level 2 ammunition crafted at a Crafting Table."
+ },
+ {
+  "name": "Fang Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Fang_Barbed_Arrow.png?af855",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Fang barbed arrows are fang arrows with weapon barbs crafted on the arrow. Like other barbed arrows, the icon will have a Bleed icon placed on the top right of the arrow to distinguish itself from regular arrows."
+ },
+ {
+  "name": "Fang Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Fang_Fire_Arrow.png?b24f3",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Fang fire arrows are fang arrows with fire oil applied with level 45 Ranged. Targets that are hit by the fang fire arrow will not be inflicted with the Burning debuff, but higher-tier arrows will have a higher chance of doing so."
+ },
+ {
+  "name": "Goblin \"Swingslash\"",
+  "img": "https://dragonwilds.runescape.wiki/images/Goblin_%22Swingslash%22_%28Journal%29.png?012f5",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The goblin \"Swingslash\" is a power level 2 one-handed melee weapon that can be crafted at a crafting table. The recipe is learned by consuming a cruel goblin blade, received as a random drop from a goblin pack; the drop chance for this vestige is 2%."
+ },
+ {
+  "name": "Granite Maul",
+  "img": "https://dragonwilds.runescape.wiki/images/Granite_Maul_%28Journal%29.png?d46ad",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The granite maul is a power level 3 two-handed melee weapon craftable after the quest Granite Mauled. It is classified as a masterwork weapon."
+ },
+ {
+  "name": "Grieving Moonstaff",
+  "img": "https://dragonwilds.runescape.wiki/images/Grieving_Moonstaff_%28Journal%29.png?154df",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The grieving moonstaff is a power level 3 staff that can be crafted at a mystic forge. The recipe is unlocked after studying a mysterious crescent carving, which can be dropped by garou druids with a 2/100 drop chance."
+ },
+ {
+  "name": "Hunter Stagbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Hunter_Stagbow_%28Journal%29.png?83c2f",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The hunter stagbow is a power level 4 longbow that can be crafted at a fletching bench. The recipe is learned by consuming a string of sinew, a vestige dropped by garou hunters with a 3/100 drop chance."
+ },
+ {
+  "name": "Imaru's Talon",
+  "img": "https://dragonwilds.runescape.wiki/images/Imaru%27s_Talon_%28Journal%29.png?c78e4",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Imaru's talon is a power level 5 scimitar, crafted at a blacksmith's bench, after receiving the serrated claw as a drop from Imaru. It can be ascended at the mystic forge using ascension cores."
+ },
+ {
+  "name": "Iron Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Arrow.png?b6256",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "Iron arrows are power level 4 ammunition that can be crafted at a fletching bench."
+ },
+ {
+  "name": "Iron Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Barbed_Arrow.png?ad7b0",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "Iron barbed arrows are iron arrows with weapon barbs crafted on the arrow. Targets that are hit by a iron barbed arrow will be inflicted with the Bleed debuff, damaging the enemy by 5% of their max health for six seconds."
+ },
+ {
+  "name": "Iron Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Bolts.png?10ae2",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "Iron bolts are a power level 4 ammunition that can be fired from iron crossbows."
+ },
+ {
+  "name": "Iron Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Crossbow.png?69731",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "An iron crossbow is a power level 4 crossbow that can shoot blurite, iron, and bronze bolts. It is crafted at a fletching bench."
+ },
+ {
+  "name": "Iron Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Dagger.png?9ec22",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "The iron dagger is a power level 4 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small dash forward, followed by an upward slash, and can be useful as a combo extension."
+ },
+ {
+  "name": "Iron Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Fire_Arrow.png?5f396",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "Iron fire arrows are iron arrows with fire oil applied with level 45 Ranged. Targets that are hit by the iron fire arrow will be inflicted with the Burning debuff, damaging the enemy by 5% of their max health for six seconds."
+ },
+ {
+  "name": "Iron Greataxe",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Greataxe.png?240ee",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "The iron greataxe is a power level 4 two-handed melee weapon that can be crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Iron Greatsword",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Greatsword.png?9ec22",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "The iron greatsword is a power level 4 two-handed melee weapon that can be crafted at the blacksmith's bench. Its special attack is a large circular slash that lunges the player forward in the direction they are aiming, useful for hitting large groups simultaneously and changing directions during a combo."
+ },
+ {
+  "name": "Iron Mace",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Mace.png?240ee",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "The iron mace is a power level 4 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small leap with an overhead slam, dealing moderate damage."
+ },
+ {
+  "name": "Iron Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Sword.png?561ef",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "The iron sword is a power level 4 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a forward stab, which can reach quite far forward compared to most melee attacks, making it useful for combo extensions and intercepting an opponent before they can attack."
+ },
+ {
+  "name": "Iron Warhammer",
+  "img": "https://dragonwilds.runescape.wiki/images/Iron_Warhammer.png?561ef",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "The iron warhammer is a power level 4 two-handed melee weapon crafted at a blacksmith's bench. Its special attack is a slow and heavy slam in front of the player, with a small area-of-effect shockwave that will cause a hard knockdown on most opponents and deal heavy damage."
+ },
+ {
+  "name": "Keris",
+  "img": "https://dragonwilds.runescape.wiki/images/Keris.png?5247d",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The keris is a power level 7 dagger. The recipe is learned from the corroded curved blade, found in the vault in southwest Umbral Sands, in the chest after the kalphite queen boss fight."
+ },
+ {
+  "name": "Kuldra's Wrath",
+  "img": "https://dragonwilds.runescape.wiki/images/Kuldra%27s_Wrath_%28Journal%29.png?78d70",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Kuldra's Wrath is a power level 9 wand and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this wand is both uncraftable and has a passive full durability."
+ },
+ {
+  "name": "Magic Longbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Magic_Longbow_%28Journal%29.png?78d70",
+  "tier": "Magic",
+  "tierRank": 6,
+  "chest": "weapons",
+  "note": "Magic Longbow is a power level 8 longbow."
+ },
+ {
+  "name": "Magic Shortbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Magic_Shortbow_%28Journal%29.png?78d70",
+  "tier": "Magic",
+  "tierRank": 6,
+  "chest": "weapons",
+  "note": "Magic Shortbow is a power level 8 ranged weapon."
+ },
+ {
+  "name": "Maple Battlestaff",
+  "img": "https://dragonwilds.runescape.wiki/images/Maple_Battlestaff.png?0e0a2",
+  "tier": "Maple",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "Maple battlestaff is a power level 6 two-handed staff that can be crafted with a mystic forge."
+ },
+ {
+  "name": "Maple Longbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Maple_Longbow.png?9c430",
+  "tier": "Maple",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The maple longbow is a power level 6 longbow that can be crafted from a fletching bench."
+ },
+ {
+  "name": "Maple Shortbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Maple_Shortbow_%28Jounal%29.png?a1a62",
+  "tier": "Maple",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "Maple shortbows are a power level 6 bow that has higher stats than the willow shortbow. Players can create the maple shortbow at a fletching bench."
+ },
+ {
+  "name": "Maple Wand",
+  "img": "https://dragonwilds.runescape.wiki/images/Maple_Wand_%28Journal%29.png?96717",
+  "tier": "Maple",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The Maple wand is a power level 6 magic weapon. It can be crafted at a mystic forge using 8 maple logs, 3 mithril bar, 2 glass vessel, and 8 infernal fragment."
+ },
+ {
+  "name": "Master Wand",
+  "img": "https://dragonwilds.runescape.wiki/images/Master_Wand_%28Journal%29.png?a0f7b",
+  "tier": "Master",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "The Master wand is a power level 7 magic weapon. It can be crafted at a mystic forge using 8 yew logs, 3 refined obsidian, 2 infinity cloth, 2 dragonstone, and 2 gypsum wax."
+ },
+ {
+  "name": "Master's Staff",
+  "img": "https://dragonwilds.runescape.wiki/images/Master%27s_Staff.png?060f3",
+  "tier": "Master",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "Master's staff is a power level 7 two-handed staff that can be crafted at a mystic forge."
+ },
+ {
+  "name": "Mithril Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Arrow.png?dd669",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "Mithril arrows are a power level 6 ammunition that are crafted at a fletching bench, and can be used to craft mithril barbed arrow, poisoned mithril arrow, and mithril fire arrow."
+ },
+ {
+  "name": "Mithril Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Barbed_Arrow.png?4039c",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "Mithril barbed arrows are a power level 6 ammunition that are crafted at a fletching bench."
+ },
+ {
+  "name": "Mithril Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Bolts.png?4dda9",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "Mithril bolts are a power level 6 ammunition crafted at a fletching bench."
+ },
+ {
+  "name": "Mithril Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Crossbow.png?cfa4c",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "A mithril crossbow is a power level 6 crossbow that can shoot mithril, steel, blurite, iron, and bronze bolts. It is crafted at a fletching bench."
+ },
+ {
+  "name": "Mithril Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Dagger.png?74437",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The mithril dagger is a power level 6 one-handed melee weapon that can be crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Mithril Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Fire_Arrow.png?84566",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "Mithril fire arrows are a power level 6 ammunition that are crafted at a fletching bench."
+ },
+ {
+  "name": "Mithril Greataxe",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Greataxe.png?b768d",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The mithril greataxe is a power level 6 two-handed melee weapon that can be crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Mithril Greatsword",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Greatsword.png?83f1b",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The mithril greatsword is a power level 6 two-handed melee weapon that can be crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Mithril Mace",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Mace.png?bb06f",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The mithril mace is a power level 6 one-handed melee weapon that can be crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Mithril Scimitar",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Scimitar.png?a22e0",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The mithril scimitar is a power level 6 one-handed melee weapon that can be crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Mithril Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Sword.png?e4942",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The mithril sword is a power level 6 one-handed melee weapon that can be crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Mithril Warhammer",
+  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Warhammer.png?38b47",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "The mithril warhammer is a power level 6 two-handed melee weapon that can be crafted at a blacksmith's bench."
+ },
+ {
+  "name": "Necromancer's Staff",
+  "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Staff_%28Journal%29.png?ba54f",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The necromancer's staff is a power level 5 staff that can be crafted at a mystic forge. The recipe can be obtained by entering a spectral door and interacting with a dragonkin effigy in Vekchenven Kara, the dragonkin vault in central Fellhollow."
+ },
+ {
+  "name": "Oak Battlestaff",
+  "img": "https://dragonwilds.runescape.wiki/images/Oak_Battlestaff.png?240ee",
+  "tier": "Oak",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "Oak battlestaff is a power level 3 two-handed staff that can be crafted with a mystic forge."
+ },
+ {
+  "name": "Oak Longbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Oak_Longbow.png?64f4d",
+  "tier": "Oak",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "The oak longbow is a power level 3 bow that can be crafted at the fletching bench."
+ },
+ {
+  "name": "Oak Shortbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Oak_Shortbow_%28Journal%29.png?ea62c",
+  "tier": "Oak",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "The oak shortbow is a power level 2 shortbow that can be crafted at a fletching bench."
+ },
+ {
+  "name": "Oak Wand",
+  "img": "https://dragonwilds.runescape.wiki/images/Oak_Wand_%28Journal%29.png?9a74d",
+  "tier": "Oak",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "The Oak wand is a power level 3 magic weapon. It can be crafted at a mystic forge using 6 oak logs, 3 anima-infused bark, and 2 wool thread."
+ },
+ {
+  "name": "Pharaoh's Sceptre",
+  "img": "https://dragonwilds.runescape.wiki/images/Pharaoh%27s_Sceptre_%28Journal%29.png?f6273",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The pharaoh's sceptre is a power level 7 staff that can be crafted at a mystic forge. The recipe is learned from the Icthlarian fetish, the reward from the quest Contact!."
+ },
+ {
+  "name": "Poisoned Adamant Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Adamant_Arrow.png?ef35a",
+  "tier": "Adamant",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "Poisoned adamant arrows are a power level 7 ammunition that are crafted at a fletching bench."
+ },
+ {
+  "name": "Poisoned Bronze Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Bronze_Arrow.png?76f78",
+  "tier": "Bronze",
+  "tierRank": 1,
+  "chest": "weapons",
+  "note": "Poisoned bronze arrows are bronze arrows that are coated with weapon poison. Targets that are hit by a poisoned bronze arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds."
+ },
+ {
+  "name": "Poisoned Fang Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Fang_Arrow.png?f2cd6",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Poisoned fang arrows are fang arrows that are coated with weapon poison. Targets that are hit by a poisoned fang arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds."
+ },
+ {
+  "name": "Poisoned Iron Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Iron_Arrow.png?7463c",
+  "tier": "Iron",
+  "tierRank": 2,
+  "chest": "weapons",
+  "note": "Poisoned iron arrows are iron arrows that are coated with weapon poison. Targets that are hit by a poisoned iron arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds."
+ },
+ {
+  "name": "Poisoned Mithril Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Mithril_Arrow.png?abce6",
+  "tier": "Mithril",
+  "tierRank": 4,
+  "chest": "weapons",
+  "note": "Poisoned mithril arrows are a power level 6 ammunition that are crafted at a fletching bench."
+ },
+ {
+  "name": "Poisoned Rune Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Rune_Arrow.png?0fa13",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "Poisoned rune arrows are a power level 8 ammunition that are crafted with a fletching bench."
+ },
+ {
+  "name": "Poisoned Steel Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Steel_Arrow.png?013aa",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "Poisoned steel arrows are power level 5 ammunition crafted on the fletching bench."
+ },
+ {
+  "name": "Rune Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Arrow_%28Journal%29.png?78d70",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "Rune arrows are a power level 8 ammunition that are crafted at a fletching bench, and can be used to craft rune barbed arrow, poisoned rune arrow, and rune fire arrow, though players may wish to simply use Adamant Arrow as they possess the same base damage."
+ },
+ {
+  "name": "Rune Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Barbed_Arrow.png?8b5c8",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "Rune barbed arrows are a power level 8 ammunition that can be crafted with a fletching bench."
+ },
+ {
+  "name": "Rune Bolt",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Bolt_%28Journal%29.png?78d70",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "The Rune Bolts are a power level 8 ammunition crafted at a Fletching Bench. Despite being power level 8, these bolts deal the same damage as adamant bolts."
+ },
+ {
+  "name": "Rune Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Crossbow_%28Journal%29.png?78d70",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "A rune crossbow is a power level 8 crossbow crafted with a fletching bench."
+ },
+ {
+  "name": "Rune Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Dagger_%28Journal%29.png?78d70",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "The Rune Dagger is a power level 8 one-handed melee weapon."
+ },
+ {
+  "name": "Rune Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Fire_Arrow.png?dc0e3",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "Rune fire arrows are a power level 8 ammunition that can be crafted with a fletching bench."
+ },
+ {
+  "name": "Rune Greataxe",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Greataxe_%28Journal%29.png?78d70",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "The rune greataxe is a power level 8 two-handed melee weapon that can be crafted with a blacksmith's bench."
+ },
+ {
+  "name": "Rune Greatsword",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Greatsword_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "The rune greatswordis a power level 8 two-handed melee weapon that can be crafted with a blacksmith's bench."
+ },
+ {
+  "name": "Rune Mace",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Mace_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "The Rune Mace is a power level 8 one-handed melee weapon."
+ },
+ {
+  "name": "Rune Scimitar",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Scimitar_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "The rune scimitar is a power level 8 one-handed melee weapon that is crafted with a blacksmith's bench."
+ },
+ {
+  "name": "Rune Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Sword_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "The rune sword is a power level 8 one-handed melee weapon."
+ },
+ {
+  "name": "Rune Warhammer",
+  "img": "https://dragonwilds.runescape.wiki/images/Rune_Warhammer_%28Journal%29.png?034dd",
+  "tier": "Rune",
+  "tierRank": 7,
+  "chest": "weapons",
+  "note": "The rune warhammer is a power level 8 two-handed melee weapon that can be crafted with a blacksmith's bench."
+ },
+ {
+  "name": "Shadow Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The shadow crossbow is a power level 6 crossbow that can be crafted at a fletching bench. The recipe is unlocked after studying the sinister mechanism, which can be found in chests throughout Dowdun Reach or purchased from Postie Pete's Evil Emporium for 300 infernal fragments."
+ },
+ {
+  "name": "Shadow Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Shadow_Sword_%28Journal%29.png?313de",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The shadow sword is a power level 5 greatsword created using a blacksmith's bench. The recipe is learned by consuming the shard of smoky glass, dropped from a zogre."
+ },
+ {
+  "name": "Skullsplitter",
+  "img": "https://dragonwilds.runescape.wiki/images/Skullsplitter_%28Journal%29.png?38cc5",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Skullsplitter is a power level 3 one-handed weapon that can be crafted using a blacksmith's bench. The recipe is learned by consuming the vestige remnants of a shattered skull, received randomly as a drop from killing garou berserkers at a 1/50 drop rate."
+ },
+ {
+  "name": "Splitbark Staff",
+  "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Staff.png?92550",
+  "tier": "Splitbark",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "Splitbark staff is a power level 5 two-handed staff that can be crafted with a mystic forge. Players can unlock this after receiving hollow bark in their inventory for the first time."
+ },
+ {
+  "name": "Splitbark Wand",
+  "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Wand_%28Journal%29.png?772cb",
+  "tier": "Splitbark",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The Splitbark wand is a power level 5 magic weapon. It can be crafted at a mystic forge using 6 hollow bark, 3 sacred oil, 2 fine thread, and 3 vault shard."
+ },
+ {
+  "name": "Staff of Light",
+  "img": "https://dragonwilds.runescape.wiki/images/Staff_of_Light_%28Journal%29.png?9a0b3",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The staff of light is a power level 4 masterwork staff that can be crafted at a mystic forge. The recipe can be obtained by completing the quest Highlighting the Problem."
+ },
+ {
+  "name": "Steel Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Arrow.png?a7817",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "Steel arrows are a power level 5 ammunition that are crafted at a fletching bench."
+ },
+ {
+  "name": "Steel Barbed Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Barbed_Arrow.png?3648c",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "Steel barbed arrows are power level 5 ammunition that can be created on the fletching bench."
+ },
+ {
+  "name": "Steel Bolts",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Bolts.png?5e08e",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "Steel bolts are a power level 5 ammunition crafted at a fletching bench."
+ },
+ {
+  "name": "Steel Crossbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Crossbow.png?26d03",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "A steel crossbow is a power level 5 crossbow that can shoot steel, blurite, iron, and bronze bolts. It is crafted at a fletching bench."
+ },
+ {
+  "name": "Steel Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Dagger.png?1e7f8",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The steel dagger is a power level 5 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small dash forward, followed by an upward slash, and can be useful as a combo extension."
+ },
+ {
+  "name": "Steel Fire Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Fire_Arrow.png?250e0",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "Steel fire arrows are only accessible in the cache and are not present in the game."
+ },
+ {
+  "name": "Steel Greataxe",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Greataxe.png?fb46c",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The steel greataxe is a power level 5 two-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a large circular slash that lunges the player forward in the direction they are aiming, useful for hitting large groups simultaneously and changing directions during a combo."
+ },
+ {
+  "name": "Steel Greatsword",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Greatsword.png?02de3",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The steel greatsword is a power level 5 two-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a large circular slash that lunges the player forward in the direction they are aiming, useful for hitting large groups simultaneously and changing directions during a combo."
+ },
+ {
+  "name": "Steel Mace",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Mace.png?61b84",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The steel mace is a power level 5 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small leap with an overhead slam, dealing moderate damage and guard breaking quicker than other one-handed special attacks."
+ },
+ {
+  "name": "Steel Scimitar",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Scimitar.png?282fd",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The steel scimitar is a power level 5 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a small leap with an overhead slam, dealing moderate damage and guard breaking quicker than other special attacks."
+ },
+ {
+  "name": "Steel Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Sword.png?c4b41",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The steel sword is a power level 5 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a forward stab, which can reach quite far forward compared to most melee attacks, making it useful for combo extensions and intercepting an opponent before they can attack."
+ },
+ {
+  "name": "Steel Warhammer",
+  "img": "https://dragonwilds.runescape.wiki/images/Steel_Warhammer.png?f3c01",
+  "tier": "Steel",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The steel sword is a power level 5 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a slow and heavy slam in front of the player, with a small area-of-effect shockwave that will cause a hard knockdown on most opponents and deal heavy damage."
+ },
+ {
+  "name": "Stone Arrow",
+  "img": "https://dragonwilds.runescape.wiki/images/Stone_Arrow.png?dcc49",
+  "tier": "Stone",
+  "tierRank": 0,
+  "chest": "weapons",
+  "note": "Stone arrows are power level 1 ammunition crafted at a Crafting Table."
+ },
+ {
+  "name": "Stone Club",
+  "img": "https://dragonwilds.runescape.wiki/images/Stone_Club.png?5b42e",
+  "tier": "Stone",
+  "tierRank": 0,
+  "chest": "weapons",
+  "note": "The stone club is a power level 1 one-handed melee weapon that can be crafted at a crafting table. This weapon is the first weapon a player learns to make at the start of their adventure."
+ },
+ {
+  "name": "Stone Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Stone_Dagger.png?240ee",
+  "tier": "Stone",
+  "tierRank": 0,
+  "chest": "weapons",
+  "note": "The stone dagger is a power level one-handed weapon that can be crafted at a crafting table. Its special attack is a small dash forward, followed by an upward slash, and can be useful as a combo extension."
+ },
+ {
+  "name": "Subjugation Staff",
+  "img": "https://dragonwilds.runescape.wiki/images/Subjugation_Staff_%28Journal%29.png?b1944",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The subjugation staff is a power level 6 staff that can be crafted with a mystic forge. The recipe is unlocked after studying the demonic metal rod vestige, which can be found in chests throughout Dowdun Reach or purchased from Postie Pete's Evil Emporium for 300 infernal fragments."
+ },
+ {
+  "name": "Thane's Authority",
+  "img": "https://dragonwilds.runescape.wiki/images/Thane%27s_Authority_%28Journal%29.png?a903d",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Thane's authority is a power level 4 two-handed melee weapon created using a blacksmith's bench. The recipe is learned by consuming a brutal bladehead, received randomly as a drop from killing garou thanes and the Garou King, at a 1/20 drop chance."
+ },
+ {
+  "name": "Titan's Wrath",
+  "img": "https://dragonwilds.runescape.wiki/images/Titan%27s_Wrath_%28Journal%29.png?2ff9e",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Titan\u2019s wrath is a power level 6 greatsword received from the quest Black Knight's Fortress and found in the Black Knight's Fortress reward pack or created using a blacksmith's bench. The recipe is learned by acquiring the broken Titan's Wrath by defeating the Black Knight Titan."
+ },
+ {
+  "name": "Toktz-Mej-Tal",
+  "img": "https://dragonwilds.runescape.wiki/images/TokTz-Mej-Tal_%28Journal%29.png?e395a",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The toktz-mej-tal is a power level 7 staff that can be crafted at a mystic forge. The recipe is unlocked after studying the elongated obsidian construct vestige, which can be dropped by KotHaar-Hur and KotHaar-Xil in Umbral Sands with a 2/100 drop rate."
+ },
+ {
+  "name": "Toktz-Xil-Ak",
+  "img": "https://dragonwilds.runescape.wiki/images/TOKTZ-XIL-AK_%28Journal%29.png?7299e",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Toktz-xil-ak is a power level 7 melee weapon that can be unlocked by studying the shattered black blade (Umbral Sands) dropped by KotHaar-Kals with a 2/100 drop rate. It can be ascended at the mystic forge using ascension cores."
+ },
+ {
+  "name": "TzHaar-Ket-Om",
+  "img": "https://dragonwilds.runescape.wiki/images/TZHAAR-KET-OM_%28Journal%29.png?d88d2",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "TzHaar-ket-om is a power level 7 two-handed warhammer that can be crafted at a blacksmith's bench. The recipe is unlocked after studying the bludgeoning obsidian construct, which can be dropped by KotHaar-Ket in Umbral Sands."
+ },
+ {
+  "name": "Ulv's Longbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Ulv%27s_Longbow.png?b788c",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "Ulv's longbow is a power level 5 longbow that can be obtained (as well as its crafting recipe) as a reward from the Mirror, Mirror quest. It can then be crafted from a fletching bench."
+ },
+ {
+  "name": "Undead Ranger's Bow",
+  "img": "https://dragonwilds.runescape.wiki/images/Undead_Ranger%27s_Bow_%28journal%29.png?c5c8b",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The undead ranger's bow is a power level 5 shortbow that can be crafted at a fletching bench. The recipe is learned from a dragonkin effigy in Skekven Kara, the dragonkin vault in eastern Fellhollow."
+ },
+ {
+  "name": "Wild Scout's Shortbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Wild_Scout%27s_Shortbow_%28Journal%29.png?4b1e9",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The wild scout's shortbow is a power level 3 shortbow that can be crafted at a fletching bench. The recipe is learned from a dragonkin effigy in Takla Kara, the dragonkin vault in central Fractured Plains."
+ },
+ {
+  "name": "Willow Longbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Willow_Longbow.png?9dbb0",
+  "tier": "Willow",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The willow longbow is a power level 5 longbow that can be crafted from a fletching bench."
+ },
+ {
+  "name": "Willow Shortbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Willow_Shortbow_%28Journal%29.png?c15f0",
+  "tier": "Willow",
+  "tierRank": 3,
+  "chest": "weapons",
+  "note": "The willow shortbow is a power level 5 Shortbow that can be crafted at a fletching bench."
+ },
+ {
+  "name": "Wolfbane Dagger",
+  "img": "https://dragonwilds.runescape.wiki/images/Wolfbane_Dagger.png?a4e31",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The wolfbane dagger is a power level 5 one-handed melee weapon that can be crafted at a blacksmith's bench. The recipe is acquired from a dragonkin effigy found in Vekchenven Kara, the dragonkin vault in central Fellhollow."
+ },
+ {
+  "name": "Wooden Club",
+  "img": "https://dragonwilds.runescape.wiki/images/Wooden_Club.png?240ee",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The wooden club was a power level 1 one-handed mace that is currently not in the game."
+ },
+ {
+  "name": "Wooden Training Sword",
+  "img": "https://dragonwilds.runescape.wiki/images/Wooden_Training_Sword_%28Journal%29.png?69ca3",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The wooden training sword is a power level 2 one-handed melee weapon that can be crafted at a crafting table. The recipe is learned by consuming the an educational blade, found in a chest atop the eastern roof of the church in Temple Woods."
+ },
+ {
+  "name": "Yew Longbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Yew_Longbow.png?7619b",
+  "tier": "Yew",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "Yew longbow is a power level 7 longbow."
+ },
+ {
+  "name": "Yew Shortbow",
+  "img": "https://dragonwilds.runescape.wiki/images/Yew_Shortbow_%28Journal%29.png?fa41b",
+  "tier": "Yew",
+  "tierRank": 5,
+  "chest": "weapons",
+  "note": "Yew shortbow is a power level 7 ranged weapons"
+ },
+ {
+  "name": "Zamorak Staff",
+  "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Staff_%28Journal%29.png?6874b",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The zamorak staff is a power level 6 staff that can be crafted with a mystic forge. This staff and its recipe are unlocked after completing What's Theirs is Mine!, the nodestone quest in Dowdun Reach."
+ },
+ {
+  "name": "Zombie Arm",
+  "img": "https://dragonwilds.runescape.wiki/images/Zombie_Arm_%28Journal%29.png?8d619",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The zombie arm is a power level 4 melee weapon that is awarded to the player after completing The Great Body Robbery, and can then be crafted using a blacksmith's bench. It can be ascended at the mystic forge using ascension cores."
+ },
+ {
+  "name": "Zombie Axe",
+  "img": "https://dragonwilds.runescape.wiki/images/Zombie_Axe_%28Journal%29.png?2171e",
+  "tier": "",
+  "tierRank": null,
+  "chest": "weapons",
+  "note": "The zombie axe is a power level 5 one-handed melee weapon that can be crafted at a blacksmith's bench. The axe and its recipe are received by completing Doric's Quest."
+ }
+]

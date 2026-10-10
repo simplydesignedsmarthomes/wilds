@@ -1,0 +1,5888 @@
+[
+ {
+  "name": "Adamant Logging Axe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 adamant bar"
+   },
+   {
+    "label": "Description",
+    "value": "A strong woodcutting axe, good for trees that hit back."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Damage type",
+    "value": "Slash"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "84"
+   },
+   {
+    "label": "Block",
+    "value": "66"
+   },
+   {
+    "label": "Durability",
+    "value": "2400"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Bar x8"
+   },
+   {
+    "label": "Material",
+    "value": "Maple Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Desert Thread x4"
+   },
+   {
+    "label": "Output",
+    "value": "Adamant Logging Axe x1"
+   }
+  ],
+  "description": "An adamant logging axe is a power level 7 logging axe that can cut yew trees. Making one requires 8 adamant bars, 6 maple logs, and 4 desert thread, and requires a blacksmith's bench.\n\n[Journal] As the anima infused them more deeply, the trees of Ashenfall sought ways to create stronger defences against their hated foes – the lumberjacks. Yew trees, hardened after surviving the cruel rays of the sun, developed bark that would shatter lesser axes. They felt invulnerable. Unbeatable. They could take the time to plan their war against the logging axes, so that they might rise up and strangle the world with their roots. Yet, the lumberjacks had a friend in the earth, and adamantite rose up to aid its allies. The metal was harder than any before it, and the yew trees didn’t stand a chance, falling to the new weapons in droves."
+ },
+ {
+  "name": "Adamant Pickaxe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 adamant bar"
+   },
+   {
+    "label": "Description",
+    "value": "A sturdy pickaxe made of adamant."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Damage type",
+    "value": "Crush"
+   },
+   {
+    "label": "Base damage",
+    "value": "84"
+   },
+   {
+    "label": "Block",
+    "value": "66"
+   },
+   {
+    "label": "Durability",
+    "value": "2400"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Bar x8"
+   },
+   {
+    "label": "Material",
+    "value": "Yew Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Scorch Leather x4"
+   },
+   {
+    "label": "Material",
+    "value": "Gypsum Wax x1"
+   },
+   {
+    "label": "Output",
+    "value": "Adamant Pickaxe x1"
+   }
+  ],
+  "description": "Adamant pickaxe is a power level 7 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, dealing 84 damage to minable ores, and 168 with a critical swing.\n\n[Journal] After settling in the Umbral Sands, the Moon Garou needed to adapt to static lives not driven solely by the hunt. Their druids used magic to acquire adamantite ore from the rocks around the sands, but it was inefficient, messy and occasionally deadly. Garou smiths used the ore to create the first tools of their new civilisation, the adamant pickaxe, so their druids could relax. Now, because of these tools, the garou could mine ore and reshape the land, creating the very foundations of a new way of life for their people."
+ },
+ {
+  "name": "Adamant Spade",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A durable spade made from Adamantite."
+   },
+   {
+    "label": "Weight",
+    "value": "5.5"
+   },
+   {
+    "label": "Durability",
+    "value": "750"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x0"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Bar x4"
+   },
+   {
+    "label": "Material",
+    "value": "Yew Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Scorch Leather x2"
+   },
+   {
+    "label": "Material",
+    "value": "Gypsum Wax x1"
+   },
+   {
+    "label": "Output",
+    "value": "Adamant Spade x1"
+   }
+  ],
+  "description": "An adamant spade is a power level 7 spade unlocked the first time the player picks up an adamant bar. It is crafted at the blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress instantly to the next plot clearing stage.\n\n[Journal] DAMN IT MAN, CAN'T YOU SEE THAT I AM A SPADE? I give you: an adamant spade. Do you get it? You get it, right? Don't make us dig a hole and hide in shame."
+ },
+ {
+  "name": "Adamant Watering Can",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Contents: Nothing. 0/300 Waters crops, impresses neighbours. Can be filled at any water source. Used for watering crops in Farming Plots."
+   },
+   {
+    "label": "Weight",
+    "value": "5.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x0"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Bar x6"
+   },
+   {
+    "label": "Material",
+    "value": "Desert Cloth x2"
+   },
+   {
+    "label": "Output",
+    "value": "Adamant Watering Can x1"
+   }
+  ],
+  "description": "[Wiki notice] This article is a stub. A stub is an article which does not cover all information available about the topic. You can help by expanding it.\n\nThe adamant watering can is a tool created at the blacksmith's bench. It is used to hydrate farming plots and has a capacity of 350 units. The can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players can empty the can at any time and fill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can. Along with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel. Fully hydrating a farming plot requires 50 units of water.\n\n[Journal] When you stop to think about it, a watering can is an odd item. It's a rain-delayer. You're holding back a little rain for times when there isn't rain. It's kept in an adamant holding-cell until that moment that it's allowed to run free, when it gets a short moment of elation before being sucked up the roots of a plant. That's weird, right? Or it just us? It's just us, isn't it. Ah darn it."
+ },
+ {
+  "name": "Anchovy Bait",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Cute little cannibal fish love some anchovy bait. Irresistible to Herring. Increases the catch chance of this fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Raw Anchovies x1"
+   },
+   {
+    "label": "Output",
+    "value": "Anchovy Bait x1"
+   }
+  ],
+  "description": "Anchovy bait is a power level 3 Fishing bait crafted at the crafting table. It increases the chance of catching herring. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] To attract fish with a taste for saltier prey, there’s little better than a nice anchovy strung up and offered as a sacrifice to those that dwell beneath the waves."
+ },
+ {
+  "name": "Animated Feather",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "To a fish, this feather looks like a long-lost love. Makes Armoured Catfish enamoured. Increases the catch chance of this fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Material",
+    "value": "Infernal Fragment x1"
+   },
+   {
+    "label": "Material",
+    "value": "Mystic Fibres x1"
+   },
+   {
+    "label": "Output",
+    "value": "Animated Feather x1"
+   }
+  ],
+  "description": "Animated feathers are a power level 6 Fishing bait crafted at the crafting table. It increases the chance of catching armoured catfish. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] When sparkly feathers coated in delicious juice are not enough, then create one that dances. The animated feather is infused with magic and when it reaches the water it writhes and wriggles in a hypnotic dance that fish feel mystically drawn to. If you hang one from a window, you may also find other weak-minded creatures dancing to its mysterious movements. Like Terry. Terry is an idiot."
+ },
+ {
+  "name": "Ash Rod",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A sturdy fishing rod, effective in Brynmoor."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Thread x1"
+   },
+   {
+    "label": "Output",
+    "value": "Ash Rod x1"
+   }
+  ],
+  "description": "The ash rod is a power level 2 Fishing tool crafted at the crafting table. You must reach Fishing level 3 to unlock this recipe.\n\n[Journal] Ah, the ash rod. It's been here from the First Age and will be here for many ages to come. Ever reliable, it gets the job done. Line up all the tools in the world and the ash rod will likely be named the most productive and certainly the most loved. All hail the ash rod!"
+ },
+ {
+  "name": "Blue Torch",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A trusty lightsource [sic] - now in blue."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Power Level",
+    "value": "1"
+   },
+   {
+    "label": "Block",
+    "value": "5"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Recipe",
+    "value": "Extinguished Blue Remnants"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Animal Fur x1"
+   },
+   {
+    "label": "Output",
+    "value": "Blue Torch x1"
+   }
+  ],
+  "description": "The blue torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished blue remnants."
+ },
+ {
+  "name": "Bone Pickaxe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 animal bone"
+   },
+   {
+    "label": "Description",
+    "value": "A basic mining tool made from tough animal bone. It is hard enough to mine copper and tin deposits."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "2"
+   },
+   {
+    "label": "Damage type",
+    "value": "Crush"
+   },
+   {
+    "label": "Attack style",
+    "value": "Main Hand"
+   },
+   {
+    "label": "Base damage",
+    "value": "15"
+   },
+   {
+    "label": "Block",
+    "value": "33"
+   },
+   {
+    "label": "Durability",
+    "value": "1350"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Animal Bone x8"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Leather x4"
+   },
+   {
+    "label": "Output",
+    "value": "Bone Pickaxe x1"
+   }
+  ],
+  "description": "A bone pickaxe is a power level 2 pickaxe that can be crafted at a crafting table. It can mine the same ores as the previous tiers, along with copper ore, and tin ore, dealing 15 damage to minable ores, and 30 damage with a critical swing. To unlock the recipe, players must have acquired animal bones.\n\n[Journal] We are made of sturdier stuff than we give ourselves credit for. The human body can withstand a staggering force before our bones give way to the stresses. So too is it for the bones of animals, especially those of Ashenfall. Here, the magic seeps into the marrow and strengthens the bone to be sturdier than before. When used as tools, refined into weapons, these bones can be made to break stone and release the imprisoned metal ore."
+ },
+ {
+  "name": "Bronze Logging Axe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 bronze bar"
+   },
+   {
+    "label": "Description",
+    "value": "A woodcutter's tool, forged from bronze."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Slash"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "20"
+   },
+   {
+    "label": "Block",
+    "value": "39"
+   },
+   {
+    "label": "Special action",
+    "value": "Overhead Chop"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Bar x5"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x4"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Thread x2"
+   },
+   {
+    "label": "Output",
+    "value": "Bronze Logging Axe x1"
+   }
+  ],
+  "description": "The bronze logging axe is a power level 3 logging axe that can be crafted at a blacksmith's bench. The bronze logging axe can cut the same trees as the previous tiers, along with oak trees. Deals 20 damage when felling applicable trees, and 30 when overhead chopping to split them.\n\n[Journal] Where bone and stone fail, metal provides. The Bronze Axe is strong enough to withstand greater force than its predecessors and can penetrate the bark of some of the strongest trees. On Ashenfall, nature has been hardened by the ambient magic, the bark of trees makes them resistant to most attacks. Yet, the Bronze Axe breaks through that barrier, not by magic, nor by cunning, but by sheer durability and resolve. The lumberjacks of Brynmoor favoured bronze axes over iron. While iron was stronger and felled a tree quicker, the relative cheapness and availability of copper and tin ore made it a much more cost-effective choice. The villagers disapproved when the leadership pushed for iron in everything. They felt that bronze was more than enough for the village's needs. But the lord wanted progress and didn’t care about the price."
+ },
+ {
+  "name": "Bronze Pickaxe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 bronze bar"
+   },
+   {
+    "label": "Description",
+    "value": "A trusty tool for mining, made from sturdy bronze."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Crush"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "34"
+   },
+   {
+    "label": "Block",
+    "value": "39"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Bar x5"
+   },
+   {
+    "label": "Material",
+    "value": "Oak Logs x4"
+   },
+   {
+    "label": "Material",
+    "value": "Leather x2"
+   },
+   {
+    "label": "Output",
+    "value": "Bronze Pickaxe x1"
+   }
+  ],
+  "description": "The bronze pickaxe is a power level 3 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, along with iron ore, as well as sandstone, and granite, dealing 34 damage to mineable ores, and 68 with a critical swing.\n\n[Journal] Copper and tin conspire well together, forging an alliance to destroy their former friends. The Bronze Pickaxe can shatter the mightiest stone and can mine through more durable ore than bone and stone could ever dream to battle. The dwarves that Guthix brought with him to Ashenfall, were fond of the Bronze Pickaxe. While iron and steel are sturdier, the Bronze Pickaxe was more readily available and they could risk a little decoration. Many would customise their pickaxes with family crests or a nickname that embodied them well. Often these would make the pickaxe impractical, yet they became a popular heirloom handed down to family members."
+ },
+ {
+  "name": "Bronze Spade",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A basic Spade made from bronze. Used to clear farming plots."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Durability",
+    "value": "350"
+   },
+   {
+    "label": "Power level",
+    "value": "1"
+   },
+   {
+    "label": "Charges per dig",
+    "value": "2"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Bar x4"
+   },
+   {
+    "label": "Material",
+    "value": "Oak Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Leather x2"
+   },
+   {
+    "label": "Output",
+    "value": "Bronze Spade x1"
+   }
+  ],
+  "description": "A bronze spade is a power level 2 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 40% to the next plot clearing stage. Therefore, it will take three digs to progress one stage.\n\n[Journal] Wood breaks, shatters and splinters, which can be very frustrating when out in the garden. Metal is more durable and longer lasting, and bronze is a very malleable metal. With one of these spades, you can assault the skin of the planet, reshaping Gielinor to suit your own grand designs."
+ },
+ {
+  "name": "Bronze Watering Can",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Contents: Nothing. 0/250 A bronze watering can. Can be filled at any water source. Used for watering crops in Farming Plots."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Bar x6"
+   },
+   {
+    "label": "Material",
+    "value": "Wool Cloth x2"
+   },
+   {
+    "label": "Output",
+    "value": "Bronze Watering Can x1"
+   }
+  ],
+  "description": "The bronze watering can is a tool created at the blacksmith's bench. It is used to hydrate farming plots, it has a capacity of 250 water and a watering rate of 25 per action. The can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players are able to empty the can at any time and fill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can. Along with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel.\n\n[Journal] While the druids relied on wooden watering cans, the more pragmatic farmers turned to metal. Bronze was sturdier, lasted longer and proved to ultimately be the better tool. Crops across Ashenfall found themselves constantly existing in a state of blissful hydration, never knowing the agony of thirst."
+ },
+ {
+  "name": "Coarse Net",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Made with two coarse threads at a crafting table. Rough but effective."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Thread x2"
+   },
+   {
+    "label": "Output",
+    "value": "Coarse Net x1"
+   }
+  ],
+  "description": "The coarse net is a power level 2 Fishing tool crafted at the crafting table. It is used to catch shrimp from net fishing spots found in Brynmoor.\n\n[Journal] Pity the poor shrimp or lobster, approaching the final moments of its life, only to find themselves in a coarse net. The snobbish among them might look down their antennae and think 'couldn't it have been a wool net, perhaps, or linen?'. We're inclined to agree with them. They have minutes before they get cooked in a pot, yet they don't receive the simple courtesy of a comfy net. When you're on your deathbed, we'll wrap you up in a coarse net and see how you like it."
+ },
+ {
+  "name": "Compost Bucket",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Contents: Compost: [X]/150 A wooden bucket used to carry a variety of compost. Pour its contents out over a Farming Plot to fertilize your plants!"
+   },
+   {
+    "label": "Weight",
+    "value": "5.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Farming x0"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x5"
+   },
+   {
+    "label": "Output",
+    "value": "Compost Bucket x1"
+   }
+  ],
+  "description": "The compost bucket is a tool created at the crafting table. Level 10 Farming is required to unlock the recipe. It can be used to take out compost and super compost from the compost bin and super compost bin, respectively, at a maximum of 150 units per bucket held in the inventory. When used on a farming plot, 10 units of either compost or super compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n[Journal] The first bucket on Gielinor was created by Mrs [sic] Hyacinth, to help her around the farm. They had buckets back on the human homeworld of Teragard, of course, but she hadn’t brought anything with her from the village Guthix had recruited her from. The problem was that Mrs Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Mrs Hyacinth needed something to help with the clear up [sic]. She used local twigs, at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie’s endeavours. Now, you too can fill one of these marvelous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
+ },
+ {
+  "name": "Desert Net",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A reliable and hard-wearing net made from desert thread."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x15"
+   },
+   {
+    "label": "Material",
+    "value": "Desert Thread x2"
+   },
+   {
+    "label": "Output",
+    "value": "Desert Net x1"
+   }
+  ],
+  "description": "The desert net is a power level 7 Fishing tool crafted at the crafting table.\n\n[Journal] Desert waters throws up some interesting challenges for a net. There are fish that like to nestle into the sand, both below the surface and where a net would not usually reach. To counter this problem, a desert net is weighted on one side but not the other. The weighted side trawls the sandy floor, while the unweighted side catches the fish that attempt to get away. It does lead to some unwanted catches - be prepared to find a wealth of bones in the Umbral Sands - but that's testament to how effective it is."
+ },
+ {
+  "name": "Feather Bait",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "What is it about feathers that fascinates a fish? A great way to bait them. Trout seems the most susceptible. increases the catch chance of this fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Feather Bait x1"
+   }
+  ],
+  "description": "Feather bait is a power level 2 Fishing bait crafted at the crafting table. It increases the chance of catching trout. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] Some fish are drawn to feathers. Something about the colours and the way the water dances around them, it's almost hypnotic to them."
+ },
+ {
+  "name": "Feathered Lure",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Entice Salmon with a knotted ball of bird knock-offs. Increases the catch chance of this fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Material",
+    "value": "Dwellberries x1"
+   },
+   {
+    "label": "Output",
+    "value": "Feathered Lure x1"
+   }
+  ],
+  "description": "Feathered lures are a power level 3 Fishing bait crafted at the crafting table. It increases the chance of catching salmon. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] Sometimes a feather alone isn’t enough, there must be flavour as well. Delicious, sticky, berry juice is pressed into this lure, so that the taste of it might spread through the water and attract the attention of fish with fruitier palettes."
+ },
+ {
+  "name": "Fine Net",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Made with two fine threads at a crafting table. An elegant little net."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Fine Thread x2"
+   },
+   {
+    "label": "Output",
+    "value": "Fine Net x1"
+   }
+  ],
+  "description": "The fine net is a power level 5 Fishing tool crafted at the crafting table.\n\n[Journal] Oooh, look at you, making a fine net. Lah-di- dah. I bet you're the kind to make a fine net and never use it. You just drape it on your side-table at dinner parties, so people can compliment it and ask where you fish. \"Oh you know, here and there\", you say, idly gesturing to a mounted bass on your wall (bought from a shop). But we see you, fisher-dandy. We see you very well."
+ },
+ {
+  "name": "Giant Krill Bait",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "If I told you why this bait works, I'd have to krill you. Infernal Eels look alive! Increases the catch chance of this fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Raw Giant Krill x1"
+   },
+   {
+    "label": "Material",
+    "value": "Vile Ashes x1"
+   },
+   {
+    "label": "Output",
+    "value": "Giant Krill Bait x1"
+   }
+  ],
+  "description": "Giant krill bait is a power level 6 Fishing bait crafted at the crafting table. It increases the chance of catching infernal eels. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] The vile ashes imbedded within these strange fishing lures, whisper to the most sinful part of the fish, drawing them to their demise. At least that’s what the Zamorakian mages claimed. In truth, they were simply tastier and more desirable to the fish, who have little concept of morality."
+ },
+ {
+  "name": "Green Torch",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A trusty lightsource - now in green."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Power Level",
+    "value": "1"
+   },
+   {
+    "label": "Block",
+    "value": "5"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Recipe",
+    "value": "Extinguished Green Remnants"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Animal Fur x1"
+   },
+   {
+    "label": "Output",
+    "value": "Green Torch x1"
+   }
+  ],
+  "description": "The green torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished green remnants."
+ },
+ {
+  "name": "Iron Logging Axe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 iron bar"
+   },
+   {
+    "label": "Description",
+    "value": "A durable tool for chopping trees, ideal for budding lumberjacks."
+   },
+   {
+    "label": "Weight",
+    "value": "4.5"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Slash"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "30"
+   },
+   {
+    "label": "Block",
+    "value": "46"
+   },
+   {
+    "label": "Special action",
+    "value": "Overhead Chop"
+   },
+   {
+    "label": "Durability",
+    "value": "2400"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Bar x6"
+   },
+   {
+    "label": "Material",
+    "value": "Oak Logs x4"
+   },
+   {
+    "label": "Material",
+    "value": "Wool Thread x2"
+   },
+   {
+    "label": "Output",
+    "value": "Iron Logging Axe x1"
+   }
+  ],
+  "description": "The iron logging axe is a power level 4 logging axe that can be crafted at a blacksmith's bench. The iron logging axe is able to cut the same kinds of trees as the previous tiers, along with blightwood roots and bloodwood sap. Deals 30 damage when felling applicable trees, and 45 when overhead chopping to split them.\n\n[Journal] While it might be cheaper to use bronze, there are some times when sheer power is necessary. For those times, a lumberjack need look no further than the glittering might of an iron axe’s blade. The mightiest of Ghornfell trees falls before its onslaught, and none in that region may stand against its might. Iron was so powerful, that it created a problem in Brynmoor. The population craved the metal so desperately that they mined the region almost dry. This let to infighting, small civil skirmishes and the white knights of the Blue Flame Keep, needed to be brought in to keep the peace. It is said that where iron goes, blood soon follows."
+ },
+ {
+  "name": "Iron Pickaxe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 iron bar"
+   },
+   {
+    "label": "Description",
+    "value": "Essential for mining hard, valuable rocks, this iron pickaxe is a miner's best friend."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Crush"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "50"
+   },
+   {
+    "label": "Block",
+    "value": "46"
+   },
+   {
+    "label": "Durability",
+    "value": "2100"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Bar x6"
+   },
+   {
+    "label": "Material",
+    "value": "Blightwood x4"
+   },
+   {
+    "label": "Material",
+    "value": "Hard Leather x2"
+   },
+   {
+    "label": "Output",
+    "value": "Iron Pickaxe x1"
+   }
+  ],
+  "description": "An iron pickaxe is a power level 4 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, along with gold ore and dragon teeth, dealing 50 damage to minable ores, and 100 with a critical swing.\n\n[Journal] Some metals tower over others, laughing at the weakness of their lesser cousins. Iron is sturdy, strong and the foundation of many a civilization. The metal makes strong bridges to cross dangerous waters. It can be smithed into tools, and weapons, stronger than any before. An iron pickaxe is one such tool. The blade of the axe is hard and precise, delivering massive force at the point of impact. Few ores and stones can resist this power, which is why dwarves have long since favored the iron pickaxe."
+ },
+ {
+  "name": "Iron Secateurs",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 iron bar"
+   },
+   {
+    "label": "Description",
+    "value": "A pair of gardening Secateurs that boost your harvesting yield while equipped."
+   },
+   {
+    "label": "Weight",
+    "value": "3.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x0"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Bar x2"
+   },
+   {
+    "label": "Material",
+    "value": "Padded Cloth x2"
+   },
+   {
+    "label": "Output",
+    "value": "Iron Secateurs x1"
+   }
+  ],
+  "description": "Iron secateurs are a farming tool that boosts harvest yields, with the recipe unlocked at 42 Farming. Players can expect to receive a 25% yield increase when harvesting fully grown plants whilst wielding the secateurs and clicking the Harvest left-click option on the harvestable crop. This effect does not apply when the Uproot spell is used, even when the secateurs are equipped.\n\n[Journal] The best way to get leaves to stay healthy is to instil within them a healthy sense of fear. By pruning away the leaves that have allowed themselves to fall to weakness, frailty and disease, you show the other leaves what happens if they don't behave. I find that whispering their failures to the plant, as I slice away parts of its extremities, emboldens the plant with a desire to thrive."
+ },
+ {
+  "name": "Kalphite Bait",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Kalphite bait. Increases the catch chance of fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "99"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Material",
+    "value": "Desert Thread x1"
+   },
+   {
+    "label": "Material",
+    "value": "Kalphite Ichor x1"
+   },
+   {
+    "label": "Output",
+    "value": "Kalphite Bait x1"
+   }
+  ],
+  "description": "Kalphite bait is a power level 7 bait crafted at the crafting table. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] That's where you come in. With a slice here and there, suddenly a fish gets to try am morsel of antennae or mandible. And let me tell you: if the size roles were reversed, the kalphite would be wiped out in a week."
+ },
+ {
+  "name": "Large Wardstone",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Basic Item"
+   },
+   {
+    "label": "Description",
+    "value": "Recharges your armour with a large amount of lifeward."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "25"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Runecrafting x10"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Essence x15"
+   },
+   {
+    "label": "Material",
+    "value": "Granite x1"
+   },
+   {
+    "label": "Material",
+    "value": "Wild Anima x1"
+   },
+   {
+    "label": "Output",
+    "value": "Large Wardstone x1"
+   }
+  ],
+  "description": "[Wiki notice] Large Wardstone was removed after an update. As the contents of this page no longer exist in RuneScape: Dragonwilds, this article is preserved for historical purposes.\n\nA large wardstone is a wardstone that recharges a player's armour with 90 lifeward in one second, but will inflict 25 Soulscourge on the player.\n\n[Journal] A more powerful and refined wardstone, this one allows you a much greater return on investment. When activated, it draws energy from the soul more cleanly and efficiently, reducing the impact of Soulscourge on the user."
+ },
+ {
+  "name": "Lobster Bait",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Scraps of lobster meat made into bait to draw in fish. A meal Undead Eels cannot resist. Increases the catch chance of this fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Raw Lobster x1"
+   },
+   {
+    "label": "Output",
+    "value": "Lobster Bait x1"
+   }
+  ],
+  "description": "The lobster bait is a power level 5 Fishing bait crafted at the crafting table. It increases the chance of catching undead eels. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] Some fish can only be attracted with a very expensive meal. Kind of like trying to date someone far out of your league. What better way to woo those with more refined palettes than a delicious lobster dinner?"
+ },
+ {
+  "name": "Magical Focus",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "17 June 2025 (Update 1 - 0.8.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Basic Item"
+   },
+   {
+    "label": "Description",
+    "value": "Imbue your staff to increase the damage of your magical attacks for a limited time."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "50"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x?"
+   },
+   {
+    "label": "Material",
+    "value": "Wild Anima x1"
+   },
+   {
+    "label": "Material",
+    "value": "Stone x10"
+   },
+   {
+    "label": "Output",
+    "value": "Magical Focus x1"
+   }
+  ],
+  "description": "A magical focus is an unlockable item at level 39 Magic, where players can imbue their equipped staff with a 15% damage increase for 10 minutes. Players can also stack the damage boost with a lesser Magic potion, making the player's staff also equipped with a 25% increased chance of a critical hit.\n\n[Journal] The wizard Mallory was never as good as he had hoped to be. He was proficient in spellcasting and his rote memory was excellent, but the power of his spells always fell a little short. His advancement through the ranks was due more to being around long enough than anything else, and he never quite earned the respect of his peers. That was until the day he created the focus. Mallory had always been good at making things. He enjoyed the simpler magic of crafting, and he found you could weave small threads of magic into the construction of something, breathing just a little bit more life and wonder into it than before. True craftsmanship, he believed, carried a little bit of the creator’s soul in it. The focus proved this theory and elevated it further. By creating a focus and subconsciously imbuing it with a bit of his essence, it facilitated a smoother, more fluid, channel of magic through the body. This resulted in spells of greater potency. Tragically, after sharing his knowledge with the other wizards, he was murdered by his mentor, who claimed the knowledge as his own. Karma is a stern judge, however, and the offending wizard later found himself being swallowed whole and digested by a dragon. Just punishment, I’m sure Mallory would agree."
+ },
+ {
+  "name": "Maple Rod",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A bad-ass rod, effective in Dowdun Reach."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Maple Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Mystic Thread x1"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Bar x1"
+   },
+   {
+    "label": "Output",
+    "value": "Maple Rod x1"
+   }
+  ],
+  "description": "The maple rod is a power level 6 Fishing tool crafted at the blacksmith's bench.\n\n[Journal] This is it. You've made it now. The pinnacle of Dowdun Reach fishing: ownership of a maple rod. Don't let it go to your head. The hook will get stuck in your nostril. The humble angler doesn't draw attention to the maple rod. They don't wax it or buy it a nice kebbit-fur sheath. They don't name it something like Deborah or kiss it before they go to bed. No, the humble angler strides into the middle of other anglers and says \"levels?\". They hear the fishing levels of others and nod in appreciation. Be the humble angler."
+ },
+ {
+  "name": "Medium Wardstone",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Basic Item"
+   },
+   {
+    "label": "Description",
+    "value": "Recharges your armour with a moderate amount of lifeward."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "25"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Runecrafting x10"
+   },
+   {
+    "label": "Material",
+    "value": "Sandstone x1"
+   },
+   {
+    "label": "Material",
+    "value": "Anima-Infused Bark x2"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Essence x10"
+   },
+   {
+    "label": "Output",
+    "value": "Medium Wardstone x1"
+   }
+  ],
+  "description": "[Wiki notice] Medium Wardstone was removed after an update. As the contents of this page no longer exist in RuneScape: Dragonwilds, this article is preserved for historical purposes.\n\nA medium wardstone is a wardstone that recharges a player's armour with 60 lifeward in one second, but will inflict 25 Soulscourge on the player.\n\n[Journal] Some materials are better at resonating with souls than others. This is why a home made of better quality stones feels more comfortable than one made from pebbles. When used in wardstones, they allow for more powerful effects at no greater cost to the soul itself. Drawing out more of the ambient anima within a person, whilst minimizing the damage done."
+ },
+ {
+  "name": "Mithril Logging Axe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 mithril bar"
+   },
+   {
+    "label": "Description",
+    "value": "A tool for chopping trees. Make sure to hit them with the sharp side."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "6"
+   },
+   {
+    "label": "Damage type",
+    "value": "Slash"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "68"
+   },
+   {
+    "label": "Block",
+    "value": "59"
+   },
+   {
+    "label": "Durability",
+    "value": "2400"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Bar x8"
+   },
+   {
+    "label": "Material",
+    "value": "Willow Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Mystic Thread x4"
+   },
+   {
+    "label": "Output",
+    "value": "Mithril Logging Axe x1"
+   }
+  ],
+  "description": "The mithril logging axe is a power level 6 logging axe that can be crafted at a blacksmith's bench. The mithril logging axe is able to cut the same kinds of trees as the previous tiers, along with maple trees. Deals 68 damage when felling applicable trees, and 102 when overhead chopping to split them. The recipe and ability to craft mithril logging axes are unlocked upon obtaining a mithril bar for the first time.\n\n[Journal] It hurts Doric a little that you've used his prized mithril to make something that chops wood, but don't worry - he can be something of a snob. Dionysius often reminds him that uses wood in his minecarts, pickaxe handles and toothpicks. Take some time to enjoy your increased capacity for woodcutting. There is a simple joy in watching your own increased efficiency."
+ },
+ {
+  "name": "Mithril Pickaxe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 mithril bar"
+   },
+   {
+    "label": "Description",
+    "value": "A tool for mining. Few rocks can withstand its strength."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "6"
+   },
+   {
+    "label": "Damage type",
+    "value": "Crush"
+   },
+   {
+    "label": "Base damage",
+    "value": "82"
+   },
+   {
+    "label": "Block",
+    "value": "59"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Bar x8"
+   },
+   {
+    "label": "Material",
+    "value": "Maple Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Cursed Leather x4"
+   },
+   {
+    "label": "Output",
+    "value": "Mithril Pickaxe x1"
+   }
+  ],
+  "description": "A mithril pickaxe is a power level 6 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers along with limestone, dealing 82 damage to minable ores, and 164 with a critical swing. The recipe and ability to craft the Mithril pickaxe are unlocked upon obtaining Maple logs for the first time.\n\n[Journal] A sign of mining distinction, the mithril pickaxe will get you noticed if you hang out with the right mining crowds. Doric in particularly will give you an appreciative wink. He might even toss you a rock cake or two. The mithril pickaxe is cold to the touch, incredibly reflective and - most importantly - strong as an ox. You will no doubt have already realised that it makes short work of any deposit you find."
+ },
+ {
+  "name": "Monkfish Bait",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Bait made from monkfish tail. Increases the catch chance of Desert Sole."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Raw Monkfish x1"
+   },
+   {
+    "label": "Output",
+    "value": "Monkfish Bait x1"
+   }
+  ],
+  "description": "Monkfish bait is a power level 7 Fishing bait crafted at the crafting table. It increases the chance of catching desert soles. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] You may be aware that, in some languages, fish is known as 'poisson'. Notice how 'poisson' is one letter shy of 'poison'? There's a reason for that: all fish carry varying amounts of poison in their bodies. Cooking can help to remove some of that poison, but certain varieties of raw fish are extremely dangerous to eat. A chunk of raw monkfish is not only delicious to other fish, but extremely poisonous. It makes it an angler's dream: a little glob of angry meat that can attract and then kill some of the most desirable fish.\n\n[Trivia] - The journal entry is referring to the French translation of the word \"fish\"."
+ },
+ {
+  "name": "Mystic Net",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Made with two mystic threads at a crafting table. A stunningly well crafted net."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Mystic Thread x2"
+   },
+   {
+    "label": "Output",
+    "value": "Mystic Net x1"
+   }
+  ],
+  "description": "The mystic net is a power level 6 Fishing tool crafted at the crafting table.\n\n[Journal] Brassica on a Bullock, that net is garish. You're not going to lose that, are you? I bet that your eyes lock onto it every time you open your inventory. First thing you see. Boom - MYSTIC NET. It has the same effect on marine life, of course. They're merrily swimming about, doing whatever lobster and shrimp do, and then boom - MYSTIC NET. Not much they can do, is there? They're transfixed, drawn in by the brightest of blue colours, like moths to a mirror ball. Which explains why the mystic net is rather formidable as a net. Not the most fashionable, mind."
+ },
+ {
+  "name": "Oak Rod",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A favourite fishing rod, effective in Ghornfell."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Oak Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Wool Thread x1"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Bar x1"
+   },
+   {
+    "label": "Output",
+    "value": "Oak Rod x1"
+   }
+  ],
+  "description": "The oak rod is a power level 3 Fishing tool crafted at the blacksmith's bench.\n\n[Journal] Oak rod is much like its anagram: it's an A-OK rod. Not brilliant, not terrible. It's a rod that you will you look back on fondly when you wield a mighty maple rod. \"Ah, I remember when I used to use an oak rod,\" you will say, as you bite the head off a live catfish and stand astride a pile of infernal eels. For now, appreciate your time with it. You will miss it once you have left it behind."
+ },
+ {
+  "name": "Plant Cure",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Potion"
+   },
+   {
+    "label": "Description",
+    "value": "Used to cure diseased plants and bring them back to a healthy state."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "20"
+   },
+   {
+    "label": "Facility (Stone range)",
+    "value": "Stone Range"
+   },
+   {
+    "label": "Skill (Stone range)",
+    "value": "Farming x2"
+   },
+   {
+    "label": "Material (Stone range)",
+    "value": "Weeds x2"
+   },
+   {
+    "label": "Material (Stone range)",
+    "value": "Animal Bone x1"
+   },
+   {
+    "label": "Material (Stone range)",
+    "value": "Clean Water x1"
+   },
+   {
+    "label": "Output (Stone range)",
+    "value": "Plant Cure x1"
+   },
+   {
+    "label": "Facility (Cooking range)",
+    "value": "Cooking Range"
+   },
+   {
+    "label": "Skill (Cooking range)",
+    "value": "Farming x2"
+   },
+   {
+    "label": "Material (Cooking range)",
+    "value": "Weeds x2"
+   },
+   {
+    "label": "Material (Cooking range)",
+    "value": "Animal Bone x1"
+   },
+   {
+    "label": "Material (Cooking range)",
+    "value": "Clean Water x1"
+   },
+   {
+    "label": "Output (Cooking range)",
+    "value": "Plant Cure x1"
+   }
+  ],
+  "description": "Plant cure is a potion that cures diseased plants and provides 2 Farming experience when used. It is made with 2 weeds, animal bone, and clean water in a stone range or a cooking range (unlike the other potions made in a brewing cauldron). It is learned at level 3 Farming and requires interacting with a stone range first to learn the recipe.\n\n[Journal] Fashioned from clean water, weeds and animal bones, this mixture leeches out the vitality from those ingredients and transfers it to the sick and dying plants in your care. Cooked over a range, this concoction was first thought to be the domain of druids and herblore masters, but in truth it was a cook who put the pieces together. Old mother [sic] Potterington was much beloved by the people of Bramblemead. On weekends, when people allowed themselves brief breaks from their toils, she would whip up a great batch of something delicious and simmering, and neighbouring farmers would drop by for a meal. This kindness extended not only to people, but to her garden and farming patches too. She whipped up a broth so infused with nutrients that Brassica Prime himself is said to have blessed it. When fed to plants, their withering and wilting leaves would stiffen and return to vibrancy — life and vitality theirs once again. Now you can brew such a concoction yourself, so that your plants might always life their healthiest days."
+ },
+ {
+  "name": "Purple Torch",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A trusty lightsource - now in purple."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Power Level",
+    "value": "1"
+   },
+   {
+    "label": "Block",
+    "value": "5"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Recipe",
+    "value": "Extinguished Purple Remnants"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Animal Fur x1"
+   },
+   {
+    "label": "Output",
+    "value": "Purple Torch x1"
+   }
+  ],
+  "description": "The purple torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished purple remnants."
+ },
+ {
+  "name": "Red Torch",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A trusty lightsource - now in red."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Power Level",
+    "value": "1"
+   },
+   {
+    "label": "Block",
+    "value": "5"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Recipe",
+    "value": "Extinguished Red Remnants"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Animal Fur x1"
+   },
+   {
+    "label": "Output",
+    "value": "Red Torch x1"
+   }
+  ],
+  "description": "The red torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished red remnants."
+ },
+ {
+  "name": "Rune Logging Axe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 Rune Bar"
+   },
+   {
+    "label": "Description",
+    "value": "Crafted from durable runite, this axe bites deeply into timber and stands up to years of hard use."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Damage type",
+    "value": "Slash"
+   },
+   {
+    "label": "Base damage",
+    "value": "95"
+   },
+   {
+    "label": "Block",
+    "value": "72"
+   },
+   {
+    "label": "Attack combo",
+    "value": "1"
+   },
+   {
+    "label": "Special action",
+    "value": "Overhead Chop"
+   },
+   {
+    "label": "Durability",
+    "value": "2700"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Bar x5"
+   },
+   {
+    "label": "Material",
+    "value": "Yew Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Vis Fibres x2"
+   },
+   {
+    "label": "Output",
+    "value": "Rune Logging Axe x1"
+   }
+  ],
+  "description": "Rune Logging Axe is a power level 8 logging axe that can cut Magic Trees.\n\n[Journal] To a tree, a human with a rune logging axe is their final boss. You are the ultimate test; the nemesis that they have been training for. They have been stretching their branches and aggressively photosynthesising for this moment. They have been fantastising about taking you down, so that they can be talked about in groves for centuries. 'The Lumberjack Ripper', they think. 'That's what they will call me.'"
+ },
+ {
+  "name": "Rune Pickaxe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 Rune Bar"
+   },
+   {
+    "label": "Description",
+    "value": "A masterfully forged pickaxe of pure runite, capable of breaking through even the toughest stone with ease."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Damage type",
+    "value": "Crush"
+   },
+   {
+    "label": "Base damage",
+    "value": "98"
+   },
+   {
+    "label": "Block",
+    "value": "72"
+   },
+   {
+    "label": "Durability",
+    "value": "2700"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Bar x5"
+   },
+   {
+    "label": "Material",
+    "value": "Magic Logs x4"
+   },
+   {
+    "label": "Material",
+    "value": "Black Dragon Leather x3"
+   },
+   {
+    "label": "Material",
+    "value": "Draconic Vis Wax x1"
+   },
+   {
+    "label": "Output",
+    "value": "Rune Pickaxe x1"
+   }
+  ],
+  "description": "Rune Pickaxe is a power level 8 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, dealing 98 damage to minable ores, and 196 with a critical swing.\n\n[Journal] If you fancy a giggle, watch an amateur try to mine runite. Grab a chair, pull yourself a dwarven stout, and watch the carnage. Runite, you see, actively repels a pickaxe. It twinkles with magic, and that magic - perhaps through some kind of geological evolutionary step - resists any attempt to mine it. Artlessly swing a pickaxe at a clump of runite and the pickaxe will bounce backwards, boomeranging towards the miner's head. There's a reason why field medics are posted at dwarven mines. The secret is that runite is soft. Not as soft as clay or gold, perhaps, but softer than most metals. You don't need to swing your pickaxe hard or fast. All that is needed is some finesse and patience. Better still, a runite pickaxe will disrupt the magical fields around the ore, pushing the ore out of the rock."
+ },
+ {
+  "name": "Rune Spade",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Whether digging gardening plots or unearthing treasure, this tool is built to last."
+   },
+   {
+    "label": "Weight",
+    "value": "5.5"
+   },
+   {
+    "label": "Durability",
+    "value": "800"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x50"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Bar x3"
+   },
+   {
+    "label": "Material",
+    "value": "Magic Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Black Dragon Leather x2"
+   },
+   {
+    "label": "Material",
+    "value": "Draconic Vis Wax x1"
+   },
+   {
+    "label": "Output",
+    "value": "Rune Spade x1"
+   }
+  ],
+  "description": "A rune spade is a power level 8 spade. It is crafted at the blacksmith's bench.\n\n[Journal] Vannaka likes to complain about 'Combat Tourists'. He would often be tapped up by wealthy families to teach their sons and daughters how to swing a weapon. He would arrive in their courtyards and find those sons and daughters in sparkling clean armour, about three sizes too big, and forged by the best smiths in the land. He would start his lesson by putting a palm on their visor and pushing them over. They would wobble about like an upturned gnome tortoise. He would then teach them about humility. See you, standing there with a rune spade? Same energy."
+ },
+ {
+  "name": "Rune Watering Can",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A sturdy rune watering can, built to endure countless seasons of tending crops and gardens."
+   },
+   {
+    "label": "Weight",
+    "value": "5.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x0"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Bar x4"
+   },
+   {
+    "label": "Material",
+    "value": "Vis Cloth x1"
+   },
+   {
+    "label": "Output",
+    "value": "Rune Watering Can x1"
+   }
+  ],
+  "description": "The rune watering can is a power level 8 watering can created at the blacksmith's bench.\n\n[Journal] You might wonder 'how can a watering can made of rune metal be different from any other watering can'? Well, that is a VERY good question, one which we have a cracking answer to. Honestly, it makes so much sense when you hear it."
+ },
+ {
+  "name": "Shrimp Bait",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Scraps of shrimp dressed to be eaten by fish. A Sardines favorite snack. Increases the catch chance of this fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Raw Shrimp x1"
+   },
+   {
+    "label": "Output",
+    "value": "Shrimp Bait x1"
+   }
+  ],
+  "description": "Shrimp bait is a power level 2 Fishing bait crafted at the crafting table. It increases the chance of catching raw sardines. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] Fishing bait made from a shrimp. Not terribly exciting, in the grand scheme of things, but still very useful for catching more fish."
+ },
+ {
+  "name": "Small Wardstone",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Basic Item"
+   },
+   {
+    "label": "Description",
+    "value": "Recharges your armour with a small amount of lifeward."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "25"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Runecrafting x10"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Essence x5"
+   },
+   {
+    "label": "Material",
+    "value": "Stone x1"
+   },
+   {
+    "label": "Output",
+    "value": "Small Wardstone x1"
+   }
+  ],
+  "description": "[Wiki notice] Small Wardstone was removed after an update. As the contents of this page no longer exist in RuneScape: Dragonwilds, this article is preserved for historical purposes.\n\nA small wardstone is a wardstone that recharges a player's armour with 30 lifeward in one second, but will inflict 25 Soulscourge on the player. To unlock this wardstone, players must both create and equip any power level 2 chest.\n\n[Journal] Wardstones are handy tools for anyone working with wards. Armour, when created on an anima-rich continent like Ashenfall, is infused with threads of enchantment that harness natural magic to provide an extra layer of protection for the wearer. This protection depletes upon use, as the energy within the ward is expended on the effect. But the wardstone can rectify this situation… for a price. The stone around the wardstone is hollow and more brittle than it seems, and the rune essence is carefully laid within it along with a final ingredient – a drop of the creators own blood. This blood, and the rune essence formation, creates a sort of harmonious connection between the bearer of the wardstone and the stone itself. When the stone is broken, it activates the rune essence and draws anima in from the nearest pure source – the soul of the user. Souls are containers of pure anima. They grow over time from experience and adventure, the more the bearer of said soul enriches their life with activity, the stronger the soul. This means that the damage the wardstone creates, whilst not insignificant, is easily repaired through the simple passage of time. Especially on Ashenfall, where merely surviving to the next hour is an adventure. Wardstones are great in a pinch, but one must be careful not to use too many, less the damage they deal to themselves becomes too great."
+ },
+ {
+  "name": "Spooky Bait",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Bait that gives fish the heeby-jeebies, but draws them in anyway. Undead Bass love a jump scare. Increases the catch chance of this fish."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Ectoplasm x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Spooky Bait x1"
+   }
+  ],
+  "description": "Spooky bait is a power level 5 Fishing bait crafted at the crafting table. It increases the chance of catching undead bass. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n[Journal] The ghostly remnants of ectoplasm can be strangely appealing to certain fish. Perhaps it is the siren call of the rivers of the underworld, calling all life to it’s ultimate destination. Perhaps it’s some sort of ancestral grief urging the fish to reconnect with those they have lost. Perhaps it’s simply that they find the thing pretty. Who can really say?"
+ },
+ {
+  "name": "Steel Logging Axe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 steel bar"
+   },
+   {
+    "label": "Description",
+    "value": "A woodcutter's tool, forged from Steel."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Slash"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "40"
+   },
+   {
+    "label": "Block",
+    "value": "52"
+   },
+   {
+    "label": "Durability",
+    "value": "2400"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bar x8"
+   },
+   {
+    "label": "Material",
+    "value": "Willow Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Fine Thread x4"
+   },
+   {
+    "label": "Output",
+    "value": "Steel Logging Axe x1"
+   }
+  ],
+  "description": "The steel logging axe is a power level 5 logging axe that can be crafted at a blacksmith's bench. The steel logging axe is able to cut the same kinds of trees as the previous tiers, along with thorny irit roots. Deals 40 damage when felling applicable trees, and 60 when overhead chopping to split them. The recipe and ability to craft steel logging axes are unlocked upon obtaining a steel bar for the first time.\n\n[Journal] A woodcutter's tool, forged from Steel."
+ },
+ {
+  "name": "Steel Pickaxe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 steel bar"
+   },
+   {
+    "label": "Description",
+    "value": "A Miner's tool, forged from steel."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Crush"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "66"
+   },
+   {
+    "label": "Block",
+    "value": "52"
+   },
+   {
+    "label": "Durability",
+    "value": "2100"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bar x8"
+   },
+   {
+    "label": "Material",
+    "value": "Willow Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Draconic Leather x4"
+   },
+   {
+    "label": "Output",
+    "value": "Steel Pickaxe x1"
+   }
+  ],
+  "description": "A steel pickaxe is a power level 5 pickaxe that can be crafted at a blacksmith's bench. It can mine the same ores as the previous tiers, along with soul stone, dealing 66 damage to minable ores, and 132 with a critical swing. The recipe and ability to craft steel pickaxe are unlocked upon obtaining willow logs for the first time.\n\n[Journal] A Miner's tool, forged from steel."
+ },
+ {
+  "name": "Steel Spade",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A robust Spade made from Steel. Used to clear farming plots."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Durability",
+    "value": "700"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Charges per dig",
+    "value": "3"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bar x4"
+   },
+   {
+    "label": "Material",
+    "value": "Willow Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Draconic Leather x2"
+   },
+   {
+    "label": "Output",
+    "value": "Steel Spade x1"
+   }
+  ],
+  "description": "A steel spade is a power level 3 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 60% to the next plot clearing stage. Therefore, it will take two digs to progress one stage.\n\n[Journal] Fallen from too many tall buildings, only to be punished for your misstep by the cruel and malicious ground? Well, now is your chance to get your revenge. The smug soil doesn't think you can touch it, but you can prove it wrong by stabbing it through its smug topsoil smirk with a nice steel spade. Oh, sure, it's great for gardening, but really this is a tool for sweet, sweet revenge."
+ },
+ {
+  "name": "Steel Watering Can",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Contents: Nothing. 0/300 A steel watering can. Can be filled at any water source. Used for watering crops in Farming Plots."
+   },
+   {
+    "label": "Weight",
+    "value": "5.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x0"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bar x6"
+   },
+   {
+    "label": "Material",
+    "value": "Padded Cloth x2"
+   },
+   {
+    "label": "Output",
+    "value": "Steel Watering Can x1"
+   }
+  ],
+  "description": "The steel watering can is a tool created at the blacksmith's bench. It is used to hydrate farming plots and has a capacity of 300 units. The can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players can empty the can at any time and fill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can. Along with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel. Fully hydrating a farming plot requires 50 units of water.\n\n[Journal] With the discovery of steel, most people found new and wonderful ways to bring death. They crafted sharper swords, stronger shields, axes that could slice through a foe like a hot knife through butter. Yet, some people saw this new material as a chance to bring life. Steel watering cans were sturdier and more durable. Able to bring much-needed moisture to dehydrated gardens, more than before."
+ },
+ {
+  "name": "Stone Logging Axe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 stone"
+   },
+   {
+    "label": "Description",
+    "value": "A crude but functional axe for chopping trees."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "1"
+   },
+   {
+    "label": "Damage type",
+    "value": "Slash"
+   },
+   {
+    "label": "Attack style",
+    "value": "2-Handed Weapon"
+   },
+   {
+    "label": "Base damage",
+    "value": "15"
+   },
+   {
+    "label": "Block",
+    "value": "26"
+   },
+   {
+    "label": "Special action",
+    "value": "Overhead Chop"
+   },
+   {
+    "label": "Durability",
+    "value": "1200"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Stone x6"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x8"
+   },
+   {
+    "label": "Output",
+    "value": "Stone Logging Axe x1"
+   }
+  ],
+  "description": "The stone logging axe is a power level 1 logging axe that can be crafted at a crafting table. The stone logging axe is only able to cut ash trees. The axe deals 15 damage when felling applicable trees, and 23 when overhead chopping to split them.\n\n[Journal] Trees are arrogant creatures, standing tall in the forests and refusing to bow to the wind. For decades they spread their roots, claiming dominion over the nearby soil. The claws of beasts are a mere distraction. Raging storms barely rustle their leaves. They refuse to move for anyone, arrogant to the core. Yet, it is not the wind, nor the heavens that shatter their resolve. Indeed, it is the lowliest of stones, refined to an edge. No matter how old the tree, how sturdy its frame, a single stone, the size of your fist, can bring the mightiest ash low. The Stone Axe is an alliance of such a rock, working together with branches cast aside in the tree's hubris. Proof that even the lowliest of us can make a difference."
+ },
+ {
+  "name": "Stone Pickaxe",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 ash log"
+   },
+   {
+    "label": "Description",
+    "value": "A primitive pickaxe capable of mining stone and rune essence."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Power level",
+    "value": "1"
+   },
+   {
+    "label": "Damage type",
+    "value": "Crush"
+   },
+   {
+    "label": "Attack style",
+    "value": "Main Hand"
+   },
+   {
+    "label": "Base damage",
+    "value": "10"
+   },
+   {
+    "label": "Block",
+    "value": "26"
+   },
+   {
+    "label": "Durability",
+    "value": "1200"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x15"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Stone x8"
+   },
+   {
+    "label": "Output",
+    "value": "Stone Pickaxe x1"
+   }
+  ],
+  "description": "The stone pickaxe is a power level 1 pickaxe that the player can craft at the start of the game, at a crafting table. It can mine stone, rune essence. This pickaxe deals 10 damage to mineable ores, and 20 damage with a critical swing.\n\n[Journal] It is always a sad moment when brother must turn against brother. When we must strike at the heart of our own people. Such is the curse of the Stone Pickaxe, whose role in life is to strike at its brethren, cutting large rocks into pieces, so that they might better be put to use. The smaller stone, carved so sharply that it has nothing left but the edge, turns the action of a single swing into an [sic] force that can shatter the largest boulder. There’s a metaphor there, I’m sure."
+ },
+ {
+  "name": "Torch",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Repair cost",
+    "value": "1 ash log"
+   },
+   {
+    "label": "Description",
+    "value": "A trusty light source."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Power level",
+    "value": "1"
+   },
+   {
+    "label": "Block",
+    "value": "5"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Animal Fur x1"
+   },
+   {
+    "label": "Output",
+    "value": "Torch x1"
+   }
+  ],
+  "description": "Torch is a tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. A player can still block while wielding it, but it will only account for the blocking of the weapon in the player's main hand, and so the torch may be positioned awkwardly. Whilst wielding the torch, the durability will dwindle by 1pt/second, which will take 1800 seconds (30 minutes) before it fully degrades. When creating a new character, a torch will be spawned within the inventory. The spell Fire Spirit largely obsoletes the use of a torch, as it frees up the offhand for a shield or allows for the use of two-handed weaponry, like bows and staves. The spell also does not use up any inventory space or encumbrance.\n\n[Journal] Mankind has always struggled against the darkness. The shadows hide a multitude of dangers, each of them longing to tear us apart. It is no surprise, then, that light has been weaponised. Simple wood and wrappings introduced to a flame; one then carries a small fragment of the day's protection in their hand. Although shadows are banished by its radiance, it serves as a poor defence against steel or claw."
+ },
+ {
+  "name": "Undead Spade",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 January 2026 (Eye on Ashenfall - 0.10.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A strangely spooky spade. Used to clear farming plots."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Durability",
+    "value": "450"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Charges per dig",
+    "value": "3"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Recipe",
+    "value": "Rotten Farming Tool"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x50"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bar x4"
+   },
+   {
+    "label": "Material",
+    "value": "Undead Bone x4"
+   },
+   {
+    "label": "Material",
+    "value": "Willow Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Draconic Leather x2"
+   },
+   {
+    "label": "Output",
+    "value": "Undead Spade x1"
+   }
+  ],
+  "description": "The undead spade is a power level 5 spade unlocked by studying the rotten farming tool vestige and craftable at a blacksmith's bench. It shares the same stats as a steel spade, and consumes 10 stamina with every digging attempt.\n\n[Journal] Jenniva Milgrim was a fan of her rest, she liked nothing more than to ensconce herself within her blankets and disappear into a nice dream. Mornings became lost to her and soon evenings joined her campaign and she would spend most of her existence in the myriad worlds of her subconscious. Then, one cruel day, she died. A victim of one of the first waves of the risen dead. She died, then awoke again as one of the rampaging horde. Except she did not rampage like the others. She did not cross the lands in search of souls to claim, or flesh to consume. Instead she sought comfort once again in blankets and cushions, but found that sleep was denied her, as dreams are the province of the living. There was precious little capability for thought in what remained of her brain, but a singular idea took hold. Since one buried the dead, perhaps that was where the dead could dream? Six feet under the soil, in blissful sleep. So it was, that Jenniva became the first of the dead to bury themselves, using this very tool to do so. It is said, that if you can find her grave, buried deep in the woods, you can still hear her snoring."
+ },
+ {
+  "name": "Willow Rod",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A professional-looking fishing rod, effective in Fellhollow."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Willow Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Fine Thread x1"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bar x1"
+   },
+   {
+    "label": "Output",
+    "value": "Willow Rod x1"
+   }
+  ],
+  "description": "The willow rod is a power level 5 Fishing tool crafted at the blacksmith's bench.\n\n[Journal] The weeping willow is a sallow tree, known for its love of water. Find a brook or ford and a willow will be there, lost in its reflection. That familiarity with water makes willow a strong wood for fishing rods. There's the merest wisp of magic running through it, an affinity for water. The fish recognise that affinity and relax. They circle until they're caught, which is pretty handy for an angler."
+ },
+ {
+  "name": "Wooden Spade",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A rudimentary spade made from Ash wood. Used to clear farming plots."
+   },
+   {
+    "label": "Weight",
+    "value": "5.0"
+   },
+   {
+    "label": "Durability",
+    "value": "300"
+   },
+   {
+    "label": "Power level",
+    "value": "1"
+   },
+   {
+    "label": "Charges per dig",
+    "value": "2"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x6"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Thread x1"
+   },
+   {
+    "label": "Output",
+    "value": "Wooden Spade x1"
+   }
+  ],
+  "description": "A wooden spade is a power level 1 spade that can be crafted at a crafting table. When used to dig a farming plot, players will use 10 stamina and progress by 20% to the next plot clearing stage. Therefore, it will take five digs to progress one stage.\n\n[Journal] Sometimes the very earth itself must be punished for its cruelty! These wooden tools, simple and elegant, can break through the planet's crust, letting you show Gielinor exactly who's boss."
+ },
+ {
+  "name": "Wooden Watering Can",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Contents: Nothing. 0/100 A watering can made from ash wood. Can be filled at any water source. Used for watering crops in Farming Plots."
+   },
+   {
+    "label": "Weight",
+    "value": "4.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x4"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Thread x1"
+   },
+   {
+    "label": "Output",
+    "value": "Wooden Watering Can x1"
+   }
+  ],
+  "description": "The wooden watering can is a tool created at the crafting table. It is used to hydrate farming plots and has a capacity of 200 water and has a water rate of 10 per action. The can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players can empty the can at any time and refill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can. Along with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel.\n\n[Journal] Rain is unreliable. It is far too whimsical in when and where it falls. Relying on its good nature is a sure-fire way to court drought, famine and ruin. Because of this, the druids created rainfall you could hold, handheld containers of water that could be summoned when and where it was needed. Fill one of these up from any water source and you can use it to keep your farming plots nice and moist."
+ },
+ {
+  "name": "Wool Net",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "Made with two wool threads at a crafting table. Unwieldy but does the job."
+   },
+   {
+    "label": "Weight",
+    "value": "1.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Wool Thread x2"
+   },
+   {
+    "label": "Output",
+    "value": "Wool Net x1"
+   }
+  ],
+  "description": "The wool net is a power level 3 Fishing tool crafted at the crafting table. It is used to catch shrimp and anchovies from net fishing spots found in Brynmoor and Ghornfell.\n\n[Journal] Wool is absolutely rubbish in water. Throw a sheep in a lake if you don't believe us. The water soaks into the wool and turns the poor animal into a sad, soggy anchor. That rubbishness is - conversely - rather useful when it comes to nets. The wool clods up, leaving barely any holes for a shrimp to make a getaway. It's also heavy as sin. The marine life is thoroughly pinned. Now, getting the water out of the net: that's another matter entirely. You might do well to leave it out to dry in the Umbral Sands."
+ },
+ {
+  "name": "Yellow Torch",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A trusty lightsource - now in yellow."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Power Level",
+    "value": "1"
+   },
+   {
+    "label": "Block",
+    "value": "5"
+   },
+   {
+    "label": "Durability",
+    "value": "1800"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Recipe",
+    "value": "Extinguished Yellow Remnants"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Coarse Animal Fur x1"
+   },
+   {
+    "label": "Output",
+    "value": "Yellow Torch x1"
+   }
+  ],
+  "description": "The yellow torch is a cosmetic variation of the torch tool item that can be wielded in the off-hand to help light up areas around the player, making it easier to see. It can be unlocked by studying extinguished yellow remnants."
+ },
+ {
+  "name": "Yew Rod",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Tool"
+   },
+   {
+    "label": "Description",
+    "value": "A fishing rod made from yew and adamant."
+   },
+   {
+    "label": "Weight",
+    "value": "1.5"
+   },
+   {
+    "label": "Facility",
+    "value": "Blacksmith's Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x15"
+   },
+   {
+    "label": "Material",
+    "value": "Yew Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Desert Thread x1"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Bar x1"
+   },
+   {
+    "label": "Output",
+    "value": "Yew Rod x1"
+   }
+  ],
+  "description": "The yew rod is a power level 7 Fishing tool crafted at the blacksmith's bench.\n\n[Journal] For a short period of time, there was an alliance between the trees and sea-dwelling creatures of Ashenfall. They shared common ground, after all: a hatred of being set on fire and chopped, primarily by humans and *spit* adventurers (trees would try to spit, but it mostly led to an unbecoming dribble of sap). The alliance didn't last long, mostly thanks to miscommunication down to a lack of common language. During a gathering at a seashore glade, the fish brought a contingent of hammerheads and sawfish, which the trees deemed overly aggressive. In retaliation, the yew trees 'showed a bit of branch' to a passing angler, and that angler found out that yew made for a spectacular fishing rod. There has been no talk of an alliance since then."
+ },
+ {
+  "name": "Adamant Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "22 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from adamant."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "42-101"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Yew Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Adamant Arrow x33"
+   }
+  ],
+  "description": "Adamant arrows are a power level 7 ammunition that are crafted at a fletching bench, and can be used to craft adamant barbed arrow, poisoned adamant arrow, and adamant fire arrow.\n\n[Journal] There is a constant battle between fletchers and armour smiths to one up each other. The armour smiths craft armour from stronger, sturdier and harder materials, meaning arrows must be made of equally, or greater, sturdiness of materials to pierce through them. The adamant arrow is a shining example of this eternal conflict. The metal is durable, powerful and deadly in the right hands, and pierces mithril, steel and lesser metals with almost mocking ease. Only adamant and greater quality armour stands a chance against them.\""
+ },
+ {
+  "name": "Adamant Barbed Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "22 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Lacerating arrows with barbed tips forged from adamant."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "4.2"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Barbs x1"
+   },
+   {
+    "label": "Output",
+    "value": "Adamant Barbed Arrow x33"
+   }
+  ],
+  "description": "Adamant barbed arrows are a power level 7 ammunition that are crafted at a fletching bench.\n\n[Journal] There are moments in life where you just decide that something must be forced to suffer. These arrows are designed just for that. When your enemy aggrieves you so much that you want to rip and tear and bleed them to death, this is the arrow for you. The Moon Garou do not use these arrows, even though they are aware of their construction. They consider it an unnecessary amount of suffering to inflict, when a well-placed shot is quicker and less dangerous for everyone else. Bandits that take up these arrows soon find themselves mistrusted even by their fellow thieves."
+ },
+ {
+  "name": "Adamant Bolt",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "A crossbow bolt with an adamant tip."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "76"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Adamant Bolt x33"
+   }
+  ],
+  "description": "Adamant bolts are a power level 7 ammunition crafted at a fletching bench.\n\n[Journal] Sturdy bolts of one of the most durable metals. Capable of piercing most armours with relative ease. Have you considered what else those metal bars could be used for? You could create tools that would grow plants in these desolate lands. You could craft beautiful sculptures to bring joy to all who see them. But, no, you went with murder spikes instead."
+ },
+ {
+  "name": "Adamant Fire Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "22 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Burning arrows with tips forged from adamant, coated in fire oil."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "4.2"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Fire Oil x1"
+   },
+   {
+    "label": "Output",
+    "value": "Adamant Fire Arrow x33"
+   }
+  ],
+  "description": "Adamant fire arrows are a power level 7 ammunition that are crafted at a fletching bench.\n\n[Journal] Fire almost seems redundant beneath the scorching glare of the Umbral Sands corrupted sun, yet fire will always find a way to burn something, if you let it. The shamans of ancient Moon Garou tribes believed that fire was intelligent, and alive, in ways that defied normal understanding. Some fires were good, gentle creatures, that would warm the hearth and banish the cold in the night. But other fires were cruel things, possessed of an overwhelming desire for destruction. The danger, of course, is, like people, all fires have the potential to betray you. Which is why some hunters had the sense to make sure the fire was very far away from them, by launching it through the air at ludicrous speeds."
+ },
+ {
+  "name": "Blurite Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Crossbow Bolts made from Blurite."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "41"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Blurite Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x3"
+   },
+   {
+    "label": "Output",
+    "value": "Blurite Bolts x33"
+   }
+  ],
+  "description": "Blurite bolts are power level 4 ammunition that can be fired with a blurite crossbow or higher. They are crafted at a fletching bench after unlocking the recipe with the vestige: azure metal contraption.\n\n[Journal] It was Mittens that learned how to turn blurite into crossbow bolts. His pet, the blacksmith Gothren, had continued to rely on iron and bronze to get the job done, but Mittens had realised that there was great potential in this strange blue metal. He would ruin sand moulds, crafted by Gothren to forge blurite bars, making them appear as long thin strips. It took more ruined moulds than the cat had hoped for his owner to realise that blurite bolts would match their namesake crossbow. Whether they were more effective, is of no value to a cat, appearance is, after all, everything."
+ },
+ {
+  "name": "Bone Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Lightweight, but very sharp. Can be fired using the Dorgeshuun Crossbow."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "0"
+   },
+   {
+    "label": "Special action",
+    "value": "HITS cause BLEED build up on targets"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Undead Bone x3"
+   },
+   {
+    "label": "Output",
+    "value": "Bone Bolts x33"
+   }
+  ],
+  "description": "Bone bolts are a power level 5 ammunition that can only be fired from Dorgeshuun crossbows. Bone bolts are unlocked after completing the quest, Even More Restless Ghosts. Unlike other bolts that split their damage between the crossbow and the bolt, all of it is on the crossbow so that it ascends properly.\n\n[Journal] Special bolts whittled from bones. Whilst only of use for a very specific crossbow, these bolts pack a surprising amount of punch."
+ },
+ {
+  "name": "Bronze Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from bronze."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "14-34"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Bronze Arrow x33"
+   }
+  ],
+  "description": "Bronze arrows are power level 3 ammunition that can be crafted at a fletching bench.\n\n[Journal] Bronze Arrows offer greater armour piercing than their non-metallic counterparts. Copper and tin were relatively uncommon in Brynmoor, so using the resources on arrows seemed like a waste of money. One faction of bandits delighted in this premise; their leader, a man known as the Auburn Ocelot — for reasons he would never explain — took great amusement in their use. The Auburn Ocelot would laugh as his bandits hurled expensive arrows at the villagers, pilfering coins worth far less than the ammunition used to corral them. To him, it wasn’t about the money but the look of confused terror on their faces and the knowledge that no one could stop him. He was above it all. Better than everyone. It was a rat that killed him. Not even a giant one. Just a tiny creature carrying a virulent plague. Money could not save him, no matter how much he flaunted. He was cremated and his ashes buried in the middle of nowhere so that no one might risk catching the infection that cost his life. Now, he’s almost completely forgotten."
+ },
+ {
+  "name": "Bronze Barbed Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Lacerating arrows with barbed tips forged from bronze."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "14"
+   },
+   {
+    "label": "Additional damage",
+    "value": "11-24"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Barbs x1"
+   },
+   {
+    "label": "Output",
+    "value": "Bronze Barbed Arrow x33"
+   }
+  ],
+  "description": "Bronze barbed arrows are bronze arrows with weapon barbs crafted on the arrow. Targets that are hit by a bronze barbed arrow will be inflicted with the bleed debuff. Like other barbed arrows, the icon will have a bleed icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] The barbed bronze arrow was the ammunition of choice for the hunting party of Lord Gawurin, the regent of Ashenfall. He and his hunting party would head out into the woods alongside a small contingent of White Knight bodyguards. The lord would hunt deer, boars and other game there, but he wasn’t the most accurate shot. This arrow was designed for bloodletting, meaning he only needed any hit to begin the prey’s downfall. A single strike would start them bleeding, slowing them down and making them easier to hunt. The hunt outcome was all but inevitable. Poor sport, some would whisper, but the lord cared only for the end result. It’s perhaps fitting, then, that Lord Gawurin would be hunted with his own arrows on the night of Falling Embers."
+ },
+ {
+  "name": "Bronze Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Crossbow bolts made from bronze."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "25"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x3"
+   },
+   {
+    "label": "Output",
+    "value": "Bronze Bolts x33"
+   }
+  ],
+  "description": "Bronze bolts are a power level 3 ammunition that can be fired from bronze crossbows.\n\n[Journal] Not a lot can be said about small spears of metal launched at high speeds into your opponent. They do exactly what you think they'll do to the target, and it's rarely pretty. Guards would buy crossbow bolts in bulk from the village blacksmith, giving him a steady income. This sadly had the effect of making the village blacksmith the most burgled property around."
+ },
+ {
+  "name": "Bronze Fire Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Burning arrows with tips forged from bronze coated in fire oil."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Additional damage",
+    "value": "11-24"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "1.4"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Fire Oil x1"
+   },
+   {
+    "label": "Output",
+    "value": "Bronze Fire Arrow x33"
+   }
+  ],
+  "description": "Bronze fire arrows are bronze arrows with fire oil applied with level 45 Ranged. Targets that are hit by a bronze fire arrow will be inflicted with the burning debuff, damaging the enemy by 5% of their max health for six seconds. Like other fire arrows, the icon will have a fire icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] Deadly arrows made deadlier with fire. Each arrow burns with the fury reserved for the most unpleasant parts of Infernus. They sear, they singe, and they melt the flesh, turning their victim into little more than ashes floating away on the wind. In the days of the great war against the Garou, the priests of Saradomin encouraged the use of these weapons. They saw it not just as a means of eradicating the hated beastmen, but to purify the world from their taint. Lougrim was a false goddess, in their eyes, and her followers had to be cleansed from existence. Modern scholars would doubtless be confused at their monotheistic mindset, considering that the literal god of war, Bandos, walked beside them into battle. The mental gymnastics employed by the Brynmoor priesthood, could have rivalled any athlete in the Gielinor Games."
+ },
+ {
+  "name": "Enchanted Adamant Bolt",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Adamant bolts infused with sanguine energy and a ruby tip. Drains some of the archers health to increase the bolts damage."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "76"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Bolt x33"
+   },
+   {
+    "label": "Material",
+    "value": "Ruby x1"
+   },
+   {
+    "label": "Material",
+    "value": "Astral Rune x10"
+   },
+   {
+    "label": "Material",
+    "value": "Fire Rune x15"
+   },
+   {
+    "label": "Output",
+    "value": "Enchanted Adamant Bolt x33"
+   }
+  ],
+  "description": "The Enchanted Adamant Bolt is a power level 7 bolt crafted at a Fletching Bench. It has a 15% chance to drain 15% of the user's current health and increase critical hit damage by 40% for that shot on a successful hit. If the special effect activates on a missed shot, the user's health is not drained, but it is still drained on non-critical hits.\n\n[Journal] Adamant is a special metal, responding well to magic and allowing it to be shaped into durable and deadly forms. Adamant bolts are the bane of many creatures, their sharpness and their hardiness lets them pierce through almost any defence. Yet, what if you didn’t stop the magic in the crafting process? What if you added more and more, creating bolts enchanted with murderous wrath? The answer to that is in these enchanted bolts, that sap your life in order to deal greater damage to your foe. Sacrifice for vengeance, the gods would approve. Except Guthix, but his opinion is somewhat moot these days."
+ },
+ {
+  "name": "Enchanted Blurite Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Blurite crossbow bolts tipped with enchanted Jade, that have a chance of dealing Earth magic damage and knocking your target down."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "32"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Blurite Bolts x33"
+   },
+   {
+    "label": "Material",
+    "value": "Jade x1"
+   },
+   {
+    "label": "Material",
+    "value": "Astral Rune x10"
+   },
+   {
+    "label": "Material",
+    "value": "Earth Rune x15"
+   },
+   {
+    "label": "Output",
+    "value": "Enchanted Blurite Bolts x33"
+   }
+  ],
+  "description": "Enchanted blurite bolts are an upgradeable version of blurite bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% earth magic damage.\n\n[Journal] No one is entirely sure who thought to enchant blurite crossbow bolts in Brynmoor. The earliest references talk about Ignatius Wormwood, a failed apprentice wizard with too much time on his hands. The story goes that he was challenged by one of the Knights to a duel, over some spat about a maiden or other. Evidently [sic] Ignatius may have been a failure in his robes, but worryingly successful out of them, if you get my gist. Now, the knight was a large and imposing man — referred to by his compatriots as the immovable boulder — and angry as he was, he had no intention of killing Ignatius, so he gave him a simple challenge instead. If Ignatius could knock him down, he’d win the duel, otherwise the Knight would claim victory and see Ignatius punished for his mischiefs. When Ignatius pulled the crossbow from his robes, the knight was concerned but knew that his armour and shield could stand against them. Yet, when the bolt impacted the knight’s pristine iron armour, he found himself hurled to the floor and the wind knocked out of him. Gracious in defeat [sic] the knight let Ignatius go, only for the wizard to wander into the next person he had wronged.\n\n[Trivia] - When equipped, the description mentions slowing down the target; the enchanted blurite bolts knock the target down instead."
+ },
+ {
+  "name": "Enchanted Bronze Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Bronze crossbow bolts tipped with enchanted opal. These have a chance to summon a lightning strike around your target, dealing Air Magic Damage to all nearby enemies."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "25"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Bolts x33"
+   },
+   {
+    "label": "Material",
+    "value": "Opal x1"
+   },
+   {
+    "label": "Material",
+    "value": "Astral Rune x10"
+   },
+   {
+    "label": "Material",
+    "value": "Air Rune x15"
+   },
+   {
+    "label": "Output",
+    "value": "Enchanted Bronze Bolts x33"
+   }
+  ],
+  "description": "Enchanted bronze bolts are an upgradeable version of bronze bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% air magic damage and up to 16 damage towards the enemy via the Shocked debuff.\n\n[Journal] Magic was never enough. Oh, sure, you could change bones into delicious peaches, you could summon water out of thin air, you could call down fire upon your foes and laugh as their flesh turns to ash (if you’re that way inclined). Yet, even so, it was never enough. There was always more death to deal, more damage to inflict, more pain to spread and the priests of Brynmoor wanted more of it. They wanted to see the garou crushed. Wanted to see them begging as the last of their pups expired beneath Saradomin’s purifying flame. So, they commissioned the wizards and alchemists to find new and innovative ways to summon suffering. Crossbow bolts proved to be an interesting revelation. By affixing gemstones to the tips of these weapons, not only could they inflict deadly wounds on their enemies, but they could also inflict debilitating pain so powerful that the opponent would be stunned, making the next attack much easier. The priests were very happy with this discovery. The so called “heretics” within Brynmoor were less so."
+ },
+ {
+  "name": "Enchanted Iron Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Iron crossbow bolts tipped with enchanted Jade, that have a chance of dealing Water magic damage and slowing your target."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "36"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Bolts x33"
+   },
+   {
+    "label": "Material",
+    "value": "Jade x1"
+   },
+   {
+    "label": "Material",
+    "value": "Astral Rune x10"
+   },
+   {
+    "label": "Material",
+    "value": "Water Rune x15"
+   },
+   {
+    "label": "Output",
+    "value": "Enchanted Iron Bolts x33"
+   }
+  ],
+  "description": "Enchanted iron bolts are an upgradeable version of iron bolts unlocked at level 35 Ranged. After creation, there is a 15% chance of one of the bolts being enchanted with 10% water magic damage.\n\n[Journal] Stone remembers, wood forgets, iron holds a grudge. So goes the Imcamdo saying. A reference to how much stronger metal weapons were than wood and stone. Still, with magic, this adage can become painfully true. The first enchanted iron bolts on Ashenfall were crafted by Lina Hesperian, one of the Amalgamated. She had hair that flowered [sic] like a waterfall down her spine. Her eyes were crystalline lakes, sparkling in the light, and her smile was as refreshing as any spring. She enchanted the bolts so that they might carry the gift of water, washing away infection for a clean and gentle kill. She made them for the hunters, so that they might claim their quarries with as little suffering as possible. She met the end that far too many Amalgamated suffered. Alone, frightened, in the cold and the dark of an alley, her blood seeping from the knife wound in her chest. As she gave her last breath, she cursed the world for it’s cruelty, and the iron listened. Now, each enchanted iron bolt taps into that grudge, inflicting a reminder of her suffering on any that feel the bolt’s sting.\n\n[Trivia] - When equipped, the description mentions knocking down the target; the enchanted iron bolts instead slow enemies down."
+ },
+ {
+  "name": "Enchanted Mithril Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "These crossbow bolts offer a chance to create a toxic burst, poisoning all nearby enemies."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "6"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "61"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Bolts x33"
+   },
+   {
+    "label": "Material",
+    "value": "Sapphire x1"
+   },
+   {
+    "label": "Material",
+    "value": "Nature Rune x10"
+   },
+   {
+    "label": "Material",
+    "value": "Air Rune x15"
+   },
+   {
+    "label": "Output",
+    "value": "Enchanted Mithril Bolts x33"
+   }
+  ],
+  "description": "Enchanted mithril bolts are a power level 6 ammunition crafted at a fletching bench that has a 15% chance to create a toxic burst, poisoning all nearby enemies within a 4-5 meter radius.\n\n[Journal] Goodness, you must really want to kill someone. As if punching through their armour with a crossbow bolt wasn't enough, you want to magically scupper them too. Remind me not to get on your bad side."
+ },
+ {
+  "name": "Enchanted Rune Bolt",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Rune bolts infused with magical energy and a diamond tip. Their targets rarely appreciate the distinction. Has a chance to pierce through several enemies at once."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "76"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Bolt x33"
+   },
+   {
+    "label": "Material",
+    "value": "Diamond x1"
+   },
+   {
+    "label": "Material",
+    "value": "Air Rune x10"
+   },
+   {
+    "label": "Material",
+    "value": "Astral Rune x15"
+   },
+   {
+    "label": "Output",
+    "value": "Enchanted Rune Bolt x33"
+   }
+  ],
+  "description": "Enchanted rune bolts are a power level 8 ammunition crafted at a fletching bench. It has a 15% chance to increase critical hit damage by 20% for that shot on a successful hit. When the special effect activates, the shot also pierces enemies. Despite being power level 8, these bolts deal the same base damage as Enchanted Adamant Bolts.\n\n[Journal] You can argue the semantics, but rune is already enchanted. It has inherent magical properties, which means that 'enchanting' it is a complicated process. It's like cursing a spell, or summoning a rune: you're just smooshing magic together and hoping nothing bad happens. And, as the Wise Old Man says, 'hoping nothing bad happens is basically inviting the bad into your bedchambers'. We'd have worded it differently, but you get the idea."
+ },
+ {
+  "name": "Enchanted Steel Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Steel crossbow bolts tipped with enchanted red topaz. Has a chance to create a necrotic bolt that heals you for a porportion of the damage dealt."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "49"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bolts x33"
+   },
+   {
+    "label": "Material",
+    "value": "Red Topaz x1"
+   },
+   {
+    "label": "Material",
+    "value": "Astral Rune x10"
+   },
+   {
+    "label": "Material",
+    "value": "Ectoplasm x1"
+   },
+   {
+    "label": "Output",
+    "value": "Enchanted Steel Bolts x33"
+   }
+  ],
+  "description": "Enchanted steel bolts are a power level 5 ammunition that has a 15% chance to heal 20% of the player's health when struck at an enemy.\n\n[Journal] Sharpened rods of metal, enchanted with magic. A surefire way to guarantee that your enemies have a particularly bad time. In Fellhollow these bolts were vital against the undead, as they provided that additional firepower needed to take down the relentless tide of shambling corpses.\n\n[Trivia] - Prior to the removal of Lifeward, enchanted steel bolts could restore Lifeward."
+ },
+ {
+  "name": "Fang Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips carved from animal fangs."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "2"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "10-24"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Small Animal Fang x1"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Fang Arrow x33"
+   }
+  ],
+  "description": "Fang arrows are power level 2 ammunition crafted at a Crafting Table.\n\n[Journal] For a short time, a necromancer arrived on Ashenfall. She had found her way here by boat, fleeing pirates who wanted revenge for her misdeeds. Her skills were limited; she could not raise undead legions, but she had a knack for controlling simple fangs and bones. She fled into the forests – pirates having found Ashenfall and hunting her down – where she would unleash fang arrows against her foes in the hope of stopping their chase. It didn’t work. Broken, lost and without hope, she prepared herself for death. But death never came for her. Instead, a Wild Knight, who wore a mask made from the skull of a wolf, rescued her. He pushed back her assailants and brought her to safety. Their fellowship after that was unbreakable, though no bond of romance flowed between them. She made the arrows, he fired the bow, and together, they feasted on their victories and kept the woods safe from unwanted intrusion. Even now, there are signs of their friendship. Hidden across the forest, miniature carvings of a wolf skull and a bat can be found in places that meant something to them."
+ },
+ {
+  "name": "Fang Barbed Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips carved from animal fangs."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "2"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "11"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x8"
+   },
+   {
+    "label": "Material",
+    "value": "Fang Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Barbs x1"
+   },
+   {
+    "label": "Output",
+    "value": "Fang Barbed Arrow x33"
+   }
+  ],
+  "description": "[Wiki notice] This article contains information about a subject known only to exist in the game files. The content is not intended to be accessible in game, and may or may not be reserved for use in a future update.\n\nFang barbed arrows are fang arrows with weapon barbs crafted on the arrow. Like other barbed arrows, the icon will have a Bleed icon placed on the top right of the arrow to distinguish itself from regular arrows. There are no additional bonuses at this time. Note: fang barbed arrows are currently not craftable in either regular or Creative Mode worlds, making them unobtainable.\n\n[Journal] Fang Barbed Arrow does not have an associated journal. Click here to edit the journal section if it exists in the cache."
+ },
+ {
+  "name": "Fang Fire Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips carved from animal fangs."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "2"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "11"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x8"
+   },
+   {
+    "label": "Material",
+    "value": "Fang Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Fire Oil x1"
+   },
+   {
+    "label": "Output",
+    "value": "Fang Fire Arrow x33"
+   }
+  ],
+  "description": "[Wiki notice] This article contains information about a subject known only to exist in the game files. The content is not intended to be accessible in game, and may or may not be reserved for use in a future update.\n\nFang fire arrows are fang arrows with fire oil applied with level 45 Ranged. Targets that are hit by the fang fire arrow will not be inflicted with the Burning debuff, but higher-tier arrows will have a higher chance of doing so. Like other fire arrows, the icon will have a fire icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] Fang Fire Arrow does not have an associated journal. Click here to edit the journal section if it exists in the cache."
+ },
+ {
+  "name": "Iron Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from iron."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "20-48"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Iron Arrow x33"
+   }
+  ],
+  "description": "Iron arrows are power level 4 ammunition that can be crafted at a fletching bench.\n\n[Journal] Iron Arrows are sturdy and sharp, capable of piercing most armour. Brynmoor soldiers regularly employed them in the war against the garou. Village blacksmiths toiled for weeks at a time, creating countless arrows to be slung into battle. They literally poured blood, sweat and tears into the cooling metal, each arrow containing a drop of their hatred of the beastmen. The arrows were effective, brutally so. The arrows forged by blacksmiths who had lost loved ones to the conflict seemed to hit harder still. Vengeance manifested in metal."
+ },
+ {
+  "name": "Iron Barbed Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Lacerating arrows with barbed tips forged from iron."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Additional damage",
+    "value": "20-48"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "2.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Barbs x1"
+   },
+   {
+    "label": "Output",
+    "value": "Iron Barbed Arrow x33"
+   }
+  ],
+  "description": "Iron barbed arrows are iron arrows with weapon barbs crafted on the arrow. Targets that are hit by a iron barbed arrow will be inflicted with the Bleed debuff, damaging the enemy by 5% of their max health for six seconds. Like other barbed arrows, the icon will have a Bleed icon placed on the top right of the arrow to distinguish itself from regular arrows. There are no additional bonuses at this time.\n\n[Journal] The first of these weapons was not commissioned for war. Nor was it commissioned for hunting. Instead, this most deadly arrow was created for nothing more than vengeance. Against a pigeon. Lord Gawurin was the ruler of Brynmoor, as appointed by the priests of Saradomin. He wore expensive garments of the finest materials, adorned with glittering jewels and gold chain. So, he was most affronted when a single pigeon determined that such a garment was the perfect restroom choice. The pigeon's audacity was unforgivable. Day after day, Lord Gawurin's garments were defiled by this feathered fiend. His anger grew, fuelling a desire for revenge that consumed him. He commissioned an arrow, a weapon of brutal design, with a single purpose- to make the pigeon suffer. With a sinister smile, he summoned the most skilled hunter, a woman who had brought down countless foes, and ordered her to end the pigeon's reign of terror. She stood at the top of the castle, her bow steady, her aim true. The tension in the air was palpable as she prepared to unleash the arrow of vengeance upon the pigeon. The world seemed to hold its breath in anticipation. She missed."
+ },
+ {
+  "name": "Iron Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Crossbow bolts made from iron."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "36"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x3"
+   },
+   {
+    "label": "Output",
+    "value": "Iron Bolts x33"
+   }
+  ],
+  "description": "Iron bolts are a power level 4 ammunition that can be fired from iron crossbows.\n\n[Journal] One sad aspect of human nature is that it will always strive to craft deadlier and deadlier weapons. Iron crossbow bolts were harder than their bronze counterparts, capable of penetrating the toughest garou armour. Obrimex, of the garou, once tried to replicate the weapons. He crafted little, sharpened tubes of iron that he felt would match their power. Alas, the garou hadn't crafted crossbow technology, and throwing these little metal darts largely proved to be irritating rather than dangerous."
+ },
+ {
+  "name": "Iron Fire Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Burning arrows with tips forged from iron coated in fire oil."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "4"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Additional damage",
+    "value": "16-34"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "2.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Fire Oil x1"
+   },
+   {
+    "label": "Output",
+    "value": "Iron Fire Arrow x33"
+   }
+  ],
+  "description": "Iron fire arrows are iron arrows with fire oil applied with level 45 Ranged. Targets that are hit by the iron fire arrow will be inflicted with the Burning debuff, damaging the enemy by 5% of their max health for six seconds. Like other fire arrows, the icon will have a fire icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] Rasthin was the master of fire. It was the gift she had stolen from the “soul of the world” as she called it. She could use the inner flame to inspire confidence or rouse people into a great fervour. The fire could reveal secrets, forcing truth from those who stood before her. But, more practical than all of that was one simple truth, that fire could burn. There were many a dragon that tried to battle Rasthin directly, believing their dragonfire could destroy her. Their bones litter Ashenfall. It was only Queen Kuldra herself who could challenge the dragonkin, and theirs was a battle that left scars in the lands for centuries. These arrows borrow a piece of Rasthin’s power. Able to inspire only by the fear they kindle in the wielder’s enemies. Yet, kindle they do, for those who face these flames will surely feel echoes of the fury wrought by the dragonkin lord of fire."
+ },
+ {
+  "name": "Mithril Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from mithril."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "6"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "34-82"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Mithril Arrow x33"
+   }
+  ],
+  "description": "Mithril arrows are a power level 6 ammunition that are crafted at a fletching bench, and can be used to craft mithril barbed arrow, poisoned mithril arrow, and mithril fire arrow.\n\n[Journal] Mithril is an attractive metal, shimmering and chromatic. If you ever get peppered with mithril arrows, you can look down and admire the constellation on your chest."
+ },
+ {
+  "name": "Mithril Barbed Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Lacerating arrows with barbed tips forged from mithril."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "6"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "3.4"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Barbs x1"
+   },
+   {
+    "label": "Output",
+    "value": "Mithril Barbed Arrow x33"
+   }
+  ],
+  "description": "Mithril barbed arrows are a power level 6 ammunition that are crafted at a fletching bench.\n\n[Journal] Demons dealt with wounds and ailments on their own. There was no such thing as a demon surgeon or sick bay. If wounds were fatal then the demon would die; if wounds were survivable, then survive they did. This was an observation of Summoner Flament, who passed it on to Alric, who idly mentioned it to Lord Rasmodel in one of their weekly meetings. As with most information, Lord Rasmodel examined it for opportunities. If demons sought no help from their wounds - no remedies, no medical assistance - then his knights would carry weapons that took advantage of that fact. Arrows were poisoned, since no demon carried antipoison. And arrows were barbed, as demons would pull them roughly from their hides, rather than remove them carefully. It was a small advantage, but Lord Rasmodel took it. As he would often say, \"stack opportunities, one on top of the other, and soon you will have an impregnable tower\"."
+ },
+ {
+  "name": "Mithril Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Crossbow bolts made from mithril."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "6"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "61"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x3"
+   },
+   {
+    "label": "Output",
+    "value": "Mithril Bolts x33"
+   }
+  ],
+  "description": "Mithril bolts are a power level 6 ammunition crafted at a fletching bench.\n\n[Journal] Demons are hardy creatures. The Black Knights had a habit of calling them 'Rackers', as they'd often require a whole bolt rack to bring down."
+ },
+ {
+  "name": "Mithril Fire Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Burning arrows with tips forged from mithril, coated in fire oil."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "6"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "3.4"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Fire Oil x1"
+   },
+   {
+    "label": "Output",
+    "value": "Mithril Fire Arrow x33"
+   }
+  ],
+  "description": "Mithril fire arrows are a power level 6 ammunition that are crafted at a fletching bench.\n\n[Journal] The Fogger's Gala was one of the few dates that a Black Knight could look forward to. An annual tradition, it would take place on the mistiest day of the year. As soon as low clouds started rolling in, word spread among the knights that it was Gala day. It was an informal event on the battlements of the keep. There were quivers that represented each of the night's events, and the knights would name their arrows and place them into the quivers of those they wanted to participate in. Arrows were drawn randomly to determine the order. Sergeant Blister was on hand with betting. He brought his blackboard, which he seemed to have on-hand when needed, and a week's wages were placed on friends and adversaries. The events all revolved around bows and crossbows. The fog made it almost impossible to see anything, so the Gala was a test of both memory and accuracy. One event required the archer to hit hay bales with fire arrows. The hay bales were invisible, so they only had location names to go by - the hut by the waterfall, Skrexis's bed - which meant firing Hail Mary's in the vague direction of their quarry, hoping that it would ignite in the night. Other events included Pin the Arrow on the Goblin (as you can probably imagine, a noisy goblin ran about in the fog), Farthest Arrow and Alric's Curtains."
+ },
+ {
+  "name": "Poisoned Adamant Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "22 June 2026 (Eye on Ashenfall - 0.12.0)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from adamant, coated in Weapon Poison."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "7"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "4.2"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Adamant Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Poison x1"
+   },
+   {
+    "label": "Output",
+    "value": "Poisoned Adamant Arrow x33"
+   }
+  ],
+  "description": "Poisoned adamant arrows are a power level 7 ammunition that are crafted at a fletching bench.\n\n[Journal] While adamant arrows might be considered deadly enough, there are still those that would push it further. The Moon Garou hunters found that if they dipped their arrows in deadly snake venom, then their enemies would fall faster and with less danger to the hunting party. Unsavoury bandit types found them useful as well, for far less practical a purpose. When they would raid caravans, they would strike the guards, drivers and occupants, with poisoned arrows, so that even if their victims could escape across the dunes, they would not live long enough to warn other caravans of their fate."
+ },
+ {
+  "name": "Poisoned Bronze Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from bronze coated in Weapon Poison."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Additional damage",
+    "value": "11-24"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "1.4"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Bronze Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Poison x1"
+   },
+   {
+    "label": "Output",
+    "value": "Poisoned Bronze Arrow x33"
+   }
+  ],
+  "description": "Poisoned bronze arrows are bronze arrows that are coated with weapon poison. Targets that are hit by a poisoned bronze arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds. Like other poisoned arrows, the icon will have a Poison icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] The Wild Knights were not above poison, any edge in a battle was worth having. Poison meant that you could take down a dangerous beast, even if your initial shot wasn’t a mortal one. The druids among the order felt little concern over its use either, after all nature is filled with wielders of poison and so the Wild Knight archers were simply emulating nature’s tools."
+ },
+ {
+  "name": "Poisoned Fang Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips carved from animal fangs coated in weapon poison."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "2"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Additional damage",
+    "value": "8-17"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "1.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Fang Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Poison x1"
+   },
+   {
+    "label": "Output",
+    "value": "Poisoned Fang Arrow x33"
+   }
+  ],
+  "description": "Poisoned fang arrows are fang arrows that are coated with weapon poison. Targets that are hit by a poisoned fang arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds. Like other poisoned arrows, the icon will have a Poison icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] The Children of Shadows loved using these. The very notion of bone and poison combined as a weapon; it touched some deep dark part of themselves and filled them with a malicious sort of glee. Alas such weapons proved relatively useless in any secret campaigns against the Saradominists of Bramblemead. Certainly, they could assassinate a baker if they needed to, but against a knight it would just ping harmlessly off their armour. Still, they made for good talking points at the secretive meetings, making enjoyably sinister table-decorations that paired well with the wine and cheeses."
+ },
+ {
+  "name": "Poisoned Iron Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from iron coated in Weapon Poison."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "3"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Additional damage",
+    "value": "16-34"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "2.0"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Iron Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Poison x1"
+   },
+   {
+    "label": "Output",
+    "value": "Poisoned Iron Arrow x33"
+   }
+  ],
+  "description": "Poisoned iron arrows are iron arrows that are coated with weapon poison. Targets that are hit by a poisoned iron arrow will be inflicted with the Poison debuff, damaging the enemy by 5% of their max health for six seconds. Like other poisoned arrows, the icon will have a Poison icon placed on the top right of the arrow to distinguish itself from regular arrows.\n\n[Journal] Lougrim abhorred the use of poison on arrows, she felt it cheapened the hunt. The mages could wield it in their spells, but a hunter should produce smooth, quick kills, creating as little suffering as possible. Most garou, in turn, would at first refuse to use poisons on their arrows. They followed her teachings, and they hunted swiftly and cleanly. After Lougrim’s fall it became clear just how foolish it was to seek such a merciful path, their new High Queen had made it clear that they should use all tools at their disposal."
+ },
+ {
+  "name": "Poisoned Mithril Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from mithril, coated in Weapon Poison."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "6"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Damage multiplier",
+    "value": "3.4"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Mithril Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Poison x1"
+   },
+   {
+    "label": "Output",
+    "value": "Poisoned Mithril Arrow x33"
+   }
+  ],
+  "description": "Poisoned mithril arrows are a power level 6 ammunition that are crafted at a fletching bench.\n\n[Journal] The Rasmodels were notorious for their use of poison. When they lived to the south, in Temple Woods and Bramblemead, it was often said that you should cover your cup, mouth and ears around a Rasmodel. One of the family was finally caught red-handed (or green-handed, considering the poison used), and the rumour moved to certainty. They were banished to Dowdun. The reputation followed them, and mostly became a gift rather than curse. No-one in Dowdun Reach wanted to cross the Rasmodels for fear of waking up in spasms. We say that it was 'mostly' a gift, because of an event between a young Lord Rasmodel and his cousin. Lord Rasmodel claimed that he could shoot an apple from the top of his cousin's head, and promptly did so. He handed one of the resulting apple-halves to his cousin who ate it, and promptly keeled over and died. It turned out that the arrow used to the cleave the apple was poisoned. Lord Rasmodel claimed that he had been using his father's hunting arrows, and one of them must have been tainted. It seemed entirely plausible. But there was still doubt. And that doubt grew into a reputation: a reputation that outmatched his own family's. Even at the age of eight, the inhabitants of Dowdun Reach gave Lord Rasmodel a wide berth."
+ },
+ {
+  "name": "Poisoned Rune Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from runite coated in poison."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "+42-101"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Poison x1"
+   },
+   {
+    "label": "Output",
+    "value": "Poisoned Rune Arrow x33"
+   }
+  ],
+  "description": "Poisoned rune arrows are a power level 8 ammunition that are crafted with a fletching bench.\n\n[Journal] Rune poison arrows were often called 'overkill arrows' by the garou in Kuldra's Tower. If the sharp rune metal didn't kill you, then the magical resonance in the arrow would. There was almost no need for the poison on top of that. You had to truly hate someone to make a rune poison arrow."
+ },
+ {
+  "name": "Poisoned Steel Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from steel coated in Weapon Poison."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "22-46"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Poison x1"
+   },
+   {
+    "label": "Output",
+    "value": "Poisoned Steel Arrow x33"
+   }
+  ],
+  "description": "Poisoned steel arrows are power level 5 ammunition crafted on the fletching bench.\n\n[Journal] What's better than a sharpened piece of wood with a super strong metal made into even sharper points, firing at your enemies with unreasonable speed? Why, the very same thing, but coated with a deadly toxic poison! I'd say your enemies would complain about you doing this, but they're too dead to fill in the form. So you're good."
+ },
+ {
+  "name": "Rune Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Rune arrows are prized for their exceptional flight and striking power."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "+42-101"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Magic Logs x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Rune Arrow x33"
+   }
+  ],
+  "description": "Rune arrows are a power level 8 ammunition that are crafted at a fletching bench, and can be used to craft rune barbed arrow, poisoned rune arrow, and rune fire arrow, though players may wish to simply use Adamant Arrow as they possess the same base damage.\n\n[Journal] You might think that rune is the last metal you would use for an arrow. Rune is a magical metal, and it has diamagnetic properties (meaning that it repels other metals, sometimes with force). You don't want to be aiming at a garou berserker, only to watch the arrow arc away from them. As Vannaka would say, 'your problem is that you're thinking like an amateur'. Archers don't actually WANT arrows to hit other metals: they want to slip into the gaps between armour, puncturing an armpit or neck. The best archers also love a trick-shot, hitting an opponent through a sea of allies. The trick is to use the diamagnetism to your benefit, and that - again, to quote Vannaka - 'comes from the hardest skill of all. Practice'."
+ },
+ {
+  "name": "Rune Barbed Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Lacerating arrows with tips forged from runite."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "+42-101"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Barbs x1"
+   },
+   {
+    "label": "Output",
+    "value": "Rune Barbed Arrow x33"
+   }
+  ],
+  "description": "Rune barbed arrows are a power level 8 ammunition that can be crafted with a fletching bench.\n\n[Journal] Possibly the cruelest use of runite is making barbed arrows. The metal applies a force against anything that tries to touch it, which makes removing a barbed arrow painful. You are just as likely to send it further into the wound than remove it. Some areas of Ashenfall banned their usage a long time ago, but that won't be a consideration if you're fighting Kuldra."
+ },
+ {
+  "name": "Rune Bolt",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Carefully forged rune crossbow bolts that hit hard and fly true."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "76"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Rune Bolt x33"
+   }
+  ],
+  "description": "The Rune Bolts are a power level 8 ammunition crafted at a Fletching Bench. Despite being power level 8, these bolts deal the same damage as adamant bolts.\n\n[Journal] You may have wondered where the phrase 'out of the blue' or 'a bolt from the blue' comes from. Its origins are actually from Misthalin, from the humans who made their way through the mountains to Isafdar. On arrival, they would be ambushed by roving elves, some of whom would fire rune arrows and bolts. Elves are a stealthy bunch, so the first thing a human soldier might know about the ambush would be an arc of blue (the 'blue' being the rune metal). The soldiers would worry about being shot by 'a bolt from the blue', which is where the saying originated. Also see 'the thin blue line' and 'screaming blue murder'."
+ },
+ {
+  "name": "Rune Fire Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 September 2026 (Our 1.0 Release is live!)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from runite coated in fire oil."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "8"
+   },
+   {
+    "label": "Damage type",
+    "value": "Fire"
+   },
+   {
+    "label": "Base damage",
+    "value": "+42-101"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Rune Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Fire Oil x1"
+   },
+   {
+    "label": "Output",
+    "value": "Rune Fire Arrow x33"
+   }
+  ],
+  "description": "Rune fire arrows are a power level 8 ammunition that can be crafted with a fletching bench.\n\n[Journal] The rune fire arrow is central to a story about the knight commander, Sir Leigh. In his will, Sir Leigh requested a full-boat burning. He wanted to be pushed out to sea, towards the mainland where he was born, and an archer was to set the pyre alight with a rune fire arrow. Sat at his desk, writing the will, it would have sounded like a fantastic idea to Sir Leigh. But in reality it was very different. Rune, you see, has repulsive properties. It is diamagnetic. So when Sir Leigh was laid to rest in his gold armour atop a raft, and the archer tried to aim for the pyre-wood beneath him, the rune arrows would not hit. Dozens upon dozens of arrows were fired, and they all deviated from their path thanks to the runic properties. By the time a boat was sent out with a man holding a lit torch, two seagulls and one shark had been set alight."
+ },
+ {
+  "name": "Steel Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips forged from Steel."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "27-65"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x100"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Steel Arrow x33"
+   }
+  ],
+  "description": "Steel arrows are a power level 5 ammunition that are crafted at a fletching bench.\n\n[Journal] Traditional wisdom says that to kill a zombie, you must destroy the brain. This is disappointingly untrue in Fellhollow, the animating force of Imaru’s hunger needs no thought to drive it forward. No, a far better plan is to destroy the bones and muscles with sharp metal-tipped spikes launched at the creatures with as much force as you can manage. Steel arrows perform this task very nicely."
+ },
+ {
+  "name": "Steel Barbed Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Lacerating arrows with barbed tips forged from Steel."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "22-46"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Weapon Barbs x1"
+   },
+   {
+    "label": "Output",
+    "value": "Steel Barbed Arrow x33"
+   }
+  ],
+  "description": "Steel barbed arrows are power level 5 ammunition that can be created on the fletching bench.\n\n[Journal] Sometimes it's not enough to just kill your enemy. There are times when you really want them to suffer as well. Steel arrows are nasty enough, but covering them in deadly barbs that will rend the flesh and empty the liquid lifeforce of a person onto the forest floor? That's just overkill."
+ },
+ {
+  "name": "Steel Bolts",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Ammo"
+   },
+   {
+    "label": "Description",
+    "value": "Crossbow bolts made from Steel."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Bolt"
+   },
+   {
+    "label": "Base damage",
+    "value": "49"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x60"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Bar x1"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x3"
+   },
+   {
+    "label": "Output",
+    "value": "Steel Bolts x33"
+   }
+  ],
+  "description": "Steel bolts are a power level 5 ammunition crafted at a fletching bench.\n\n[Journal] Sharpened bolts of steel projected at great speed is a formula for your target to have a very bad day. Although it was cheaper and quicker to forgo the coal and craft iron bolts, the relentless nature of the undead hordes required a more practical approach. Steel was stronger than iron, and was more likely to put the ravenous undead back in the dirt where they belonged, making it very popular in the last few years of Fellhollow’s resistance."
+ },
+ {
+  "name": "Steel Fire Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Burning arrows with tips forged from Steel coated in fire oil."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "5"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "22"
+   },
+   {
+    "label": "Facility",
+    "value": "Fletching Bench"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x40"
+   },
+   {
+    "label": "Material",
+    "value": "Steel Arrow x33"
+   },
+   {
+    "label": "Material",
+    "value": "Fire Oil x1"
+   },
+   {
+    "label": "Output",
+    "value": "Steel Fire Arrow x33"
+   }
+  ],
+  "description": "Steel fire arrows are only accessible in the cache and are not present in the game.\n\n[Journal] Some people just want to watch the world burn! Some people want to watch the world burn, but have thought through the logistics of fire and so decided to set the world aflame from a distance. These arrows are popular among the latter category."
+ },
+ {
+  "name": "Stone Arrow",
+  "infobox": [
+   {
+    "label": "Released",
+    "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+   },
+   {
+    "label": "Type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Description",
+    "value": "Arrows with tips of splintered stone."
+   },
+   {
+    "label": "Weight",
+    "value": "0.0"
+   },
+   {
+    "label": "Stack limit",
+    "value": "999"
+   },
+   {
+    "label": "Power level",
+    "value": "1"
+   },
+   {
+    "label": "Damage type",
+    "value": "Arrow"
+   },
+   {
+    "label": "Base damage",
+    "value": "5-12"
+   },
+   {
+    "label": "Facility",
+    "value": "Crafting Table"
+   },
+   {
+    "label": "Skill",
+    "value": "Artisan x20"
+   },
+   {
+    "label": "Material",
+    "value": "Stone x1"
+   },
+   {
+    "label": "Material",
+    "value": "Ash Logs x2"
+   },
+   {
+    "label": "Material",
+    "value": "Feathers x1"
+   },
+   {
+    "label": "Output",
+    "value": "Stone Arrow x33"
+   }
+  ],
+  "description": "Stone arrows are power level 1 ammunition crafted at a Crafting Table.\n\n[Journal] The Stone Arrow's weight and durability make it a more popular choice among hunters. The hardness of the tip makes it better at piercing tough animal hides or less durable forms of armour. In the Second Age, druids considered it a form of cheating, citing that it required a human's ingenuity to create rather than being a gift of nature. They seldom complained when the evening meal was served, celebrating the success of the hunt alongside everyone else. Even with somewhere as remote as Ashenfall, some humans turned to banditry, and they were very fond of Stone Arrows. Cheap and easy to produce, they help to kill and threaten anyone who makes the mistake of travelling through bandit-controlled woodland. One such bandit, the self-described 'bandit king, Otho', would choose only \"interesting\" stones to turn into arrows. Glittering pebbles that swished through the air. He was nicknamed the \"Magpie King\" because of his love for shiny pebbles. A moniker he was very unhappy with."
+ }
+]

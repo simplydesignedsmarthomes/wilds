@@ -1,0 +1,5390 @@
+[
+{
+"name": "A Brutal Bladehead",
+"type": "Vestige"
+},
+{
+"name": "A Corroded Serrated Blade",
+"type": "Vestige"
+},
+{
+"name": "A Cracked Bronze Vanity Mirror",
+"type": "Vestige"
+},
+{
+"name": "A Cruel Goblin Blade",
+"type": "Vestige"
+},
+{
+"name": "A Mysterious Crescent Carving",
+"type": "Vestige"
+},
+{
+"name": "A Simple Broken Bow",
+"type": "Vestige"
+},
+{
+"name": "A String of Sinew",
+"type": "Vestige"
+},
+{
+"name": "A Threadbare Grain Sack",
+"type": "Vestige"
+},
+{
+"name": "Abraxus Ring",
+"type": "Trinket"
+},
+{
+"name": "Abysmal Whip",
+"type": "Melee Weapon"
+},
+{
+"name": "Abyssal Ashes",
+"type": "Basic Material"
+},
+{
+"name": "Abyssal Remains",
+"type": "Vestige"
+},
+{
+"name": "Abyssal Spine",
+"type": "Basic Material"
+},
+{
+"name": "Abyssal Whip",
+"type": "Melee Weapon"
+},
+{
+"name": "Acrid Adhesive",
+"type": "Basic Item"
+},
+{
+"name": "Adamant Arrow",
+"type": "Arrow"
+},
+{
+"name": "Adamant Bar",
+"type": "Processed Material"
+},
+{
+"name": "Adamant Barbed Arrow",
+"type": "Arrow"
+},
+{
+"name": "Adamant Bolt",
+"type": "Ammo"
+},
+{
+"name": "Adamant Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Adamant Crossbow Limbs",
+"type": "Component"
+},
+{
+"name": "Adamant Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Adamant Fire Arrow",
+"type": "Arrow"
+},
+{
+"name": "Adamant Greataxe",
+"type": "Melee Weapon"
+},
+{
+"name": "Adamant Greatsword",
+"type": "Melee Weapon"
+},
+{
+"name": "Adamant Helmet",
+"type": "Melee Armour"
+},
+{
+"name": "Adamant Logging Axe",
+"type": "Tool"
+},
+{
+"name": "Adamant Mace",
+"type": "Melee Weapon"
+},
+{
+"name": "Adamant Med Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Adamant Pickaxe",
+"type": "Tool"
+},
+{
+"name": "Adamant Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Adamant Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Adamant Scimitar",
+"type": "Melee Weapon"
+},
+{
+"name": "Adamant Shield",
+"type": "Melee Armour"
+},
+{
+"name": "Adamant Spade",
+"type": "Tool"
+},
+{
+"name": "Adamant Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Adamant Warhammer",
+"type": "Melee Weapon"
+},
+{
+"name": "Adamant Watering Can",
+"type": "Tool"
+},
+{
+"name": "Adamantite Ore",
+"type": "Basic Material"
+},
+{
+"name": "Adhesive",
+"type": "Basic Item"
+},
+{
+"name": "Adventurer's Leggings",
+"type": "Basic Item"
+},
+{
+"name": "Adventurer's Longbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Adventurer's Tunic",
+"type": "Basic Item"
+},
+{
+"name": "Advert-Inna-Bottle",
+"type": "Quest Item"
+},
+{
+"name": "Aetheric Fundamentals, a Primordial Primer",
+"type": "Quest Item"
+},
+{
+"name": "Agility Cape",
+"type": "Basic Item"
+},
+{
+"name": "Air Rune",
+"type": "Rune"
+},
+{
+"name": "Amulet of Accuracy",
+"type": "Trinket"
+},
+{
+"name": "Amulet of Defence",
+"type": "Trinket"
+},
+{
+"name": "Amulet of Glory",
+"type": "Trinket"
+},
+{
+"name": "Amulet of Magic",
+"type": "Trinket"
+},
+{
+"name": "Amulet of Strength",
+"type": "Trinket"
+},
+{
+"name": "Amylase Crystal",
+"type": "Component"
+},
+{
+"name": "An Educational Blade",
+"type": "Vestige"
+},
+{
+"name": "An Ember-Edged Remnant of Cloth",
+"type": "Vestige"
+},
+{
+"name": "Ancestral Hat",
+"type": "Mage Armour"
+},
+{
+"name": "Ancestral Leggings",
+"type": "Mage Armour"
+},
+{
+"name": "Ancestral Robes",
+"type": "Mage Armour"
+},
+{
+"name": "Ancestral Staff",
+"type": "Magic Weapon"
+},
+{
+"name": "Ancestral Wand",
+"type": "Magic Weapon"
+},
+{
+"name": "Anchovy Bait",
+"type": "Tool"
+},
+{
+"name": "Angler's Hat",
+"type": "Basic Item"
+},
+{
+"name": "Anima-Infused Bark",
+"type": "Resource"
+},
+{
+"name": "Animal Bone",
+"type": "Basic Material"
+},
+{
+"name": "Animal Hide",
+"type": "Basic Material"
+},
+{
+"name": "Animal Hide Scraps",
+"type": "Basic Item"
+},
+{
+"name": "Animated Feather",
+"type": "Tool"
+},
+{
+"name": "Anti-Dragon Shield",
+"type": "Basic Item"
+},
+{
+"name": "Antifire Potion",
+"type": "Potion"
+},
+{
+"name": "Antipoison Potion",
+"type": "Potion"
+},
+{
+"name": "Antler",
+"type": "Basic Material"
+},
+{
+"name": "Apprentice Hat",
+"type": "Mage Armour"
+},
+{
+"name": "Apprentice Leggings",
+"type": "Mage Armour"
+},
+{
+"name": "Apprentice Robe",
+"type": "Mage Armour"
+},
+{
+"name": "Arcane Infusion",
+"type": "Drink"
+},
+{
+"name": "Arrowhead of Ancient Origin",
+"type": "Vestige"
+},
+{
+"name": "Artisan Cape",
+"type": "Basic Item"
+},
+{
+"name": "Ascension Core",
+"type": "Basic Material"
+},
+{
+"name": "Ascension Shard",
+"type": "Basic Material"
+},
+{
+"name": "Ash Battlestaff",
+"type": "Magic Weapon"
+},
+{
+"name": "Ash Logs",
+"type": "Resource"
+},
+{
+"name": "Ash Pile",
+"type": "Container"
+},
+{
+"name": "Ash Plank",
+"type": "Resource"
+},
+{
+"name": "Ash Rod",
+"type": "Tool"
+},
+{
+"name": "Ash Shortbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Ash Tree Seed",
+"type": "Seed"
+},
+{
+"name": "Ash Wand",
+"type": "Magic Weapon"
+},
+{
+"name": "Astral Rune",
+"type": "Rune"
+},
+{
+"name": "Attack Cape",
+"type": "Basic Item"
+},
+{
+"name": "Ava's Accumulator",
+"type": "Basic Item"
+},
+{
+"name": "Avantoe",
+"type": "Resource"
+},
+{
+"name": "Avantoe Seeds",
+"type": "Seed"
+},
+{
+"name": "Azure Metal Contraption",
+"type": "Vestige"
+},
+{
+"name": "Bag of Flour",
+"type": "Processed Material"
+},
+{
+"name": "Bag of Noggin'",
+"type": "Basic Item"
+},
+{
+"name": "Baked Potato",
+"type": "Food"
+},
+{
+"name": "Bandosian Amulet",
+"type": "Basic Item"
+},
+{
+"name": "Barbed Appendage",
+"type": "Vestige"
+},
+{
+"name": "Barrel Cactus Seeds",
+"type": "Seed"
+},
+{
+"name": "Battle-Scarred Black Metal",
+"type": "Vestige"
+},
+{
+"name": "Beast-Training Notes",
+"type": "Quest Item"
+},
+{
+"name": "Bedraggled Spellbook",
+"type": "Quest Item"
+},
+{
+"name": "Beef & Tomato Stew",
+"type": "Food"
+},
+{
+"name": "Beltfish Broth",
+"type": "Food"
+},
+{
+"name": "Berry Compote",
+"type": "Food"
+},
+{
+"name": "Berry Drizzle Pan-Seared",
+"type": "Food"
+},
+{
+"name": "Bird Nest",
+"type": "Container"
+},
+{
+"name": "Bittercap Mushroom",
+"type": "Raw Ingredient"
+},
+{
+"name": "Black Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Black Crossbow Limbs",
+"type": "Component"
+},
+{
+"name": "Black Desert Cape",
+"type": "Armour"
+},
+{
+"name": "Black Dragon Hide",
+"type": "Basic Material"
+},
+{
+"name": "Black Dragon Leather",
+"type": "Processed Material"
+},
+{
+"name": "Black Dragonhide Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Black Dragonhide Chaps",
+"type": "Ranged Armour"
+},
+{
+"name": "Black Dragonhide Coif",
+"type": "Ranged Armour"
+},
+{
+"name": "Black Greataxe",
+"type": "Melee Weapon"
+},
+{
+"name": "Black Knight Helmet",
+"type": "Melee Armour"
+},
+{
+"name": "Black Knight Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Black Knight Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Black Knight's Fortress Reward Pack",
+"type": "Container"
+},
+{
+"name": "Black Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "Black Metal Bar",
+"type": "Processed Material"
+},
+{
+"name": "Black Metal Scraps",
+"type": "Basic Material"
+},
+{
+"name": "Black Salvage Pile",
+"type": "Basic Material"
+},
+{
+"name": "Black Shield",
+"type": "Shield"
+},
+{
+"name": "Black Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Blightwood",
+"type": "Resource"
+},
+{
+"name": "Blightwood Battlestaff",
+"type": "Magic Weapon"
+},
+{
+"name": "Blightwood Longbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Blightwood Shortbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Blightwood Wand",
+"type": "Magic Weapon"
+},
+{
+"name": "Bloodblight Cape",
+"type": "Basic Item"
+},
+{
+"name": "Bloodstained Black Visor",
+"type": "Vestige"
+},
+{
+"name": "Bloodstained Hilt",
+"type": "Vestige"
+},
+{
+"name": "Bloodwood Sap",
+"type": "Resource"
+},
+{
+"name": "Bludgeoning Obsidian Construct",
+"type": "Vestige"
+},
+{
+"name": "Blue Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Blue Desert Cape",
+"type": "Armour"
+},
+{
+"name": "Blue Dragon Leather",
+"type": "Processed Material"
+},
+{
+"name": "Blue Dragon Scale",
+"type": "Basic Material"
+},
+{
+"name": "Blue Dragon Scale Dust",
+"type": "Resource"
+},
+{
+"name": "Blue Dragonhide",
+"type": "Resource"
+},
+{
+"name": "Blue Dragonhide Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Blue Dragonhide Chaps",
+"type": "Ranged Armour"
+},
+{
+"name": "Blue Dragonhide Coif",
+"type": "Ranged Armour"
+},
+{
+"name": "Blue Dyed Cape",
+"type": "Armour"
+},
+{
+"name": "Blue Hex Cape",
+"type": "Armour"
+},
+{
+"name": "Blue Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "Blue Torch",
+"type": "Tool"
+},
+{
+"name": "Blurite Bar",
+"type": "Basic Item"
+},
+{
+"name": "Blurite Bolts",
+"type": "Ammo"
+},
+{
+"name": "Blurite Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Blurite Crossbow Limbs",
+"type": "Component"
+},
+{
+"name": "Blurite Ore",
+"type": "Basic Material"
+},
+{
+"name": "Bone Bolts",
+"type": "Ammo"
+},
+{
+"name": "Bone Club",
+"type": "Melee Weapon"
+},
+{
+"name": "Bone Crossbow Limbs",
+"type": "Component"
+},
+{
+"name": "Bone Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Bone Pickaxe",
+"type": "Tool"
+},
+{
+"name": "Bow of Elidinis",
+"type": "Ranged Weapon"
+},
+{
+"name": "Braised Catfish",
+"type": "Food"
+},
+{
+"name": "Braised Undead Eel",
+"type": "Food"
+},
+{
+"name": "Bramblemead Cape",
+"type": "Basic Item"
+},
+{
+"name": "Bread",
+"type": "Food"
+},
+{
+"name": "Broken Titan's Wrath",
+"type": "Quest Item"
+},
+{
+"name": "Bronze Arrow",
+"type": "Arrow"
+},
+{
+"name": "Bronze Bar",
+"type": "Basic Item"
+},
+{
+"name": "Bronze Barbed Arrow",
+"type": "Arrow"
+},
+{
+"name": "Bronze Bolts",
+"type": "Ammo"
+},
+{
+"name": "Bronze Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Bronze Crossbow Limbs",
+"type": "Component"
+},
+{
+"name": "Bronze Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Bronze Fire Arrow",
+"type": "Arrow"
+},
+{
+"name": "Bronze Greatsword",
+"type": "Melee Weapon"
+},
+{
+"name": "Bronze Helmet",
+"type": "Melee Armour"
+},
+{
+"name": "Bronze Leaf",
+"type": "Component"
+},
+{
+"name": "Bronze Logging Axe",
+"type": "Tool"
+},
+{
+"name": "Bronze Mace",
+"type": "Melee Weapon"
+},
+{
+"name": "Bronze Med Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Bronze Pickaxe",
+"type": "Tool"
+},
+{
+"name": "Bronze Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Bronze Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Bronze Salvage Pile",
+"type": "Basic Material"
+},
+{
+"name": "Bronze Shield",
+"type": "Basic Item"
+},
+{
+"name": "Bronze Spade",
+"type": "Tool"
+},
+{
+"name": "Bronze Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Bronze Warhammer",
+"type": "Melee Weapon"
+},
+{
+"name": "Bronze Watering Can",
+"type": "Tool"
+},
+{
+"name": "Bucket of Milk",
+"type": "Quest Item"
+},
+{
+"name": "Bundle of Undead Twigs",
+"type": "Quest Item"
+},
+{
+"name": "Bunny Cactus Seeds",
+"type": "Seed"
+},
+{
+"name": "Burnished Belt Buckle",
+"type": "Vestige"
+},
+{
+"name": "Burnt Anchovies",
+"type": "Food"
+},
+{
+"name": "Burnt Beltfish",
+"type": "Food"
+},
+{
+"name": "Burnt Bread",
+"type": "Food"
+},
+{
+"name": "Burnt Cabbage",
+"type": "Food"
+},
+{
+"name": "Burnt Cadavaberries",
+"type": "Food"
+},
+{
+"name": "Burnt Catfish",
+"type": "Food"
+},
+{
+"name": "Burnt Desert Sole",
+"type": "Food"
+},
+{
+"name": "Burnt Dwellberries",
+"type": "Food"
+},
+{
+"name": "Burnt Egg",
+"type": "Food"
+},
+{
+"name": "Burnt Fillet",
+"type": "Food"
+},
+{
+"name": "Burnt Flank",
+"type": "Food"
+},
+{
+"name": "Burnt Giant Krill",
+"type": "Food"
+},
+{
+"name": "Burnt Haunch",
+"type": "Food"
+},
+{
+"name": "Burnt Herring",
+"type": "Food"
+},
+{
+"name": "Burnt Infernal Eel",
+"type": "Food"
+},
+{
+"name": "Burnt Lobster",
+"type": "Food"
+},
+{
+"name": "Burnt Maple Syrup",
+"type": "Food"
+},
+{
+"name": "Burnt Monkfish",
+"type": "Food"
+},
+{
+"name": "Burnt Mushroom",
+"type": "Food"
+},
+{
+"name": "Burnt Onion",
+"type": "Food"
+},
+{
+"name": "Burnt Peach",
+"type": "Food"
+},
+{
+"name": "Burnt Potato",
+"type": "Food"
+},
+{
+"name": "Burnt Pumpkin",
+"type": "Food"
+},
+{
+"name": "Burnt Rat Roast",
+"type": "Food"
+},
+{
+"name": "Burnt Redberries",
+"type": "Food"
+},
+{
+"name": "Burnt Salmon",
+"type": "Food"
+},
+{
+"name": "Burnt Sardine",
+"type": "Food"
+},
+{
+"name": "Burnt Shrimp",
+"type": "Food"
+},
+{
+"name": "Burnt Steak",
+"type": "Food"
+},
+{
+"name": "Burnt Tomato",
+"type": "Food"
+},
+{
+"name": "Burnt Trout",
+"type": "Food"
+},
+{
+"name": "Burnt Undead Bass",
+"type": "Food"
+},
+{
+"name": "Burnt Undead Eel",
+"type": "Food"
+},
+{
+"name": "Burnt Undead Steak",
+"type": "Food"
+},
+{
+"name": "Burnt Watermelon",
+"type": "Food"
+},
+{
+"name": "Cabbage",
+"type": "Raw Ingredient"
+},
+{
+"name": "Cabbage Seeds",
+"type": "Seed"
+},
+{
+"name": "Cactus Fibres",
+"type": "Processed Material"
+},
+{
+"name": "Cactus Steak",
+"type": "Raw Ingredient"
+},
+{
+"name": "Cactus Water",
+"type": "Drink"
+},
+{
+"name": "Cadavaberries",
+"type": "Food"
+},
+{
+"name": "Cadavaberry Infusion",
+"type": "Drink"
+},
+{
+"name": "Cadavaberry Seeds",
+"type": "Seed"
+},
+{
+"name": "Carved Bone Animal Lure",
+"type": "Vestige"
+},
+{
+"name": "Cauterised Undead Steak",
+"type": "Food"
+},
+{
+"name": "Challenge Horn",
+"type": "Quest Item"
+},
+{
+"name": "Charcoal",
+"type": "Basic Item"
+},
+{
+"name": "Cheeky Fryup",
+"type": "Food"
+},
+{
+"name": "Chef's Hat",
+"type": "Basic Item"
+},
+{
+"name": "Chewed Blue Cloth",
+"type": "Vestige"
+},
+{
+"name": "Chewed Green Cloth",
+"type": "Vestige"
+},
+{
+"name": "Chewed Pink Cloth",
+"type": "Vestige"
+},
+{
+"name": "Chewed Red Cloth",
+"type": "Vestige"
+},
+{
+"name": "Chewed Yellow Cloth",
+"type": "Vestige"
+},
+{
+"name": "Chieftain's Blade",
+"type": "Melee Weapon"
+},
+{
+"name": "Chipped Obsidian Construct",
+"type": "Vestige"
+},
+{
+"name": "Chitinous Carapace",
+"type": "Vestige"
+},
+{
+"name": "Clay",
+"type": "Basic Material"
+},
+{
+"name": "Clay Decoration",
+"type": "Component"
+},
+{
+"name": "Clay Decoration (Unfired)",
+"type": "Component"
+},
+{
+"name": "Clay Mould",
+"type": "Component"
+},
+{
+"name": "Clay Mould (Unfired)",
+"type": "Component"
+},
+{
+"name": "Clay Slab",
+"type": "Unknown"
+},
+{
+"name": "Clay Slab (Unfired)",
+"type": "Unknown"
+},
+{
+"name": "Clay Vessel",
+"type": "Component"
+},
+{
+"name": "Clay Vessel (Unfired)",
+"type": "Component"
+},
+{
+"name": "Clean Water",
+"type": "Drink"
+},
+{
+"name": "Cloying Damp Cowl",
+"type": "Vestige"
+},
+{
+"name": "Coal",
+"type": "Basic Item"
+},
+{
+"name": "Coarse Animal Fur",
+"type": "Basic Material"
+},
+{
+"name": "Coarse Net",
+"type": "Tool"
+},
+{
+"name": "Coarse Thread",
+"type": "Processed Material"
+},
+{
+"name": "Coclear Malificarum",
+"type": "Quest Item"
+},
+{
+"name": "Commemorative Coin",
+"type": "Vestige"
+},
+{
+"name": "Community Cape",
+"type": "Basic Item"
+},
+{
+"name": "Compost Bucket",
+"type": "Tool"
+},
+{
+"name": "Construction Cape",
+"type": "Basic Item"
+},
+{
+"name": "Cooking Cape",
+"type": "Basic Item"
+},
+{
+"name": "Cooling Arcane Infusion",
+"type": "Drink"
+},
+{
+"name": "Cooling Evasive Infusion",
+"type": "Drink"
+},
+{
+"name": "Cooling Ferocious Infusion",
+"type": "Drink"
+},
+{
+"name": "Cooling Fleet-Footed Infusion",
+"type": "Drink"
+},
+{
+"name": "Cooling Relentless Infusion",
+"type": "Drink"
+},
+{
+"name": "Copper Ore",
+"type": "Basic Material"
+},
+{
+"name": "Corpse Cotton",
+"type": "Basic Material"
+},
+{
+"name": "Corpse Cotton Seeds",
+"type": "Seed"
+},
+{
+"name": "Corroded Curved Blade",
+"type": "Vestige"
+},
+{
+"name": "Corroded Jewellery",
+"type": "Consumable"
+},
+{
+"name": "Corroded White Visor",
+"type": "Vestige"
+},
+{
+"name": "Corrupted Essence Sample",
+"type": "Quest Item"
+},
+{
+"name": "Crucible Engram of Betrayal",
+"type": "Basic Material"
+},
+{
+"name": "Crucible Engram of Helplessness",
+"type": "Basic Material"
+},
+{
+"name": "Crucible Engram of Humiliation",
+"type": "Basic Material"
+},
+{
+"name": "Crucible Engram of the Hounded",
+"type": "Basic Material"
+},
+{
+"name": "Crushed Obsidian Construct",
+"type": "Vestige"
+},
+{
+"name": "Crushed White Cuisse",
+"type": "Vestige"
+},
+{
+"name": "Crystal Bow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Crystal Seed",
+"type": "Quest Item"
+},
+{
+"name": "Curse Carrying Crown",
+"type": "Vestige"
+},
+{
+"name": "Curse Fragment (Despair)",
+"type": "Basic Item"
+},
+{
+"name": "Curse Fragment (Grief)",
+"type": "Basic Item"
+},
+{
+"name": "Curse Fragment (Rage)",
+"type": "Basic Item"
+},
+{
+"name": "Cursed Essence",
+"type": "Processed Material"
+},
+{
+"name": "Cursed Leather",
+"type": "Processed Material"
+},
+{
+"name": "Dark Mage Hood",
+"type": "Mage Armour"
+},
+{
+"name": "Dark Mage Robe Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Dark Mage Robes",
+"type": "Mage Armour"
+},
+{
+"name": "Demonic Metal Rod",
+"type": "Vestige"
+},
+{
+"name": "Demonic Oil",
+"type": "Processed Material"
+},
+{
+"name": "Dented White Pauldron",
+"type": "Vestige"
+},
+{
+"name": "Desert Cloth",
+"type": "Processed Material"
+},
+{
+"name": "Desert Hood",
+"type": "Mage Armour"
+},
+{
+"name": "Desert Net",
+"type": "Tool"
+},
+{
+"name": "Desert Robe Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Desert Robes",
+"type": "Mage Armour"
+},
+{
+"name": "Desert Thread",
+"type": "Processed Material"
+},
+{
+"name": "Desert Weed",
+"type": "Basic Material"
+},
+{
+"name": "Desert Weed Seeds",
+"type": "Seed"
+},
+{
+"name": "Diamond",
+"type": "Basic Material"
+},
+{
+"name": "Dihydrogen Monoxide",
+"type": "Basic Item"
+},
+{
+"name": "Dire Wolf Hide",
+"type": "Basic Material"
+},
+{
+"name": "Dire Wolf Leather",
+"type": "Basic Item"
+},
+{
+"name": "Dirty Water",
+"type": "Drink"
+},
+{
+"name": "Discordant Residue",
+"type": "Processed Material"
+},
+{
+"name": "Divine Cabbage",
+"type": "Resource"
+},
+{
+"name": "Dorgeshuun Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Doric's Smithing Supplies",
+"type": "Resource"
+},
+{
+"name": "Doric's Superior Smithing Supplies",
+"type": "Resource"
+},
+{
+"name": "Dowdun Reach Cape",
+"type": "Armour"
+},
+{
+"name": "Draconic Leather",
+"type": "Processed Material"
+},
+{
+"name": "Draconic Leather Scraps",
+"type": "Basic Material"
+},
+{
+"name": "Draconic Staff",
+"type": "Magic Weapon"
+},
+{
+"name": "Draconic Vis Wax",
+"type": "Processed Material"
+},
+{
+"name": "Dragon Blood",
+"type": "Basic Material"
+},
+{
+"name": "Dragon Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Dragon Full Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Dragon Kiteshield",
+"type": "Shield"
+},
+{
+"name": "Dragon Med Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Dragon Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Dragon Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Dragon Scimitar",
+"type": "Melee Weapon"
+},
+{
+"name": "Dragon Slayer Reward Pack",
+"type": "Container"
+},
+{
+"name": "Dragon Tooth",
+"type": "Basic Material"
+},
+{
+"name": "Dragonbane Cape",
+"type": "Basic Item"
+},
+{
+"name": "Dragonblight Shield",
+"type": "Basic Item"
+},
+{
+"name": "Dragonbone Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Dragoncurse Shield",
+"type": "Shield"
+},
+{
+"name": "Dragonfire Shield",
+"type": "Shield"
+},
+{
+"name": "Dragonkin Mage Hood",
+"type": "Mage Armour"
+},
+{
+"name": "Dragonkin Mage Robe Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Dragonkin Mage Robes",
+"type": "Mage Armour"
+},
+{
+"name": "Dragonslayer's Cape",
+"type": "Cape"
+},
+{
+"name": "Dragonstone",
+"type": "Basic Material"
+},
+{
+"name": "Dragonwolf Hide",
+"type": "Resource"
+},
+{
+"name": "Dried Cadavaberries",
+"type": "Food"
+},
+{
+"name": "Dried Dwellberries",
+"type": "Food"
+},
+{
+"name": "Dried Giant Krill",
+"type": "Food"
+},
+{
+"name": "Dried Peach",
+"type": "Food"
+},
+{
+"name": "Dried Redberries",
+"type": "Food"
+},
+{
+"name": "Dried Tea Leaves",
+"type": "Resource"
+},
+{
+"name": "Druid's Bandosian Amulet",
+"type": "Quest Item"
+},
+{
+"name": "Dubious Meat Pie",
+"type": "Food"
+},
+{
+"name": "Dust-covered Sketchbook",
+"type": "Basic Item"
+},
+{
+"name": "Dusty Black Pocket",
+"type": "Vestige"
+},
+{
+"name": "Dwellberries",
+"type": "Food"
+},
+{
+"name": "Dwellberry Crunchies",
+"type": "Food"
+},
+{
+"name": "Dwellberry Crunchies (Removed)",
+"type": "Food"
+},
+{
+"name": "Dwellberry Glazed Roast Flank",
+"type": "Food"
+},
+{
+"name": "Dwellberry Glazed Roast Meat",
+"type": "Food"
+},
+{
+"name": "Dwellberry Infusion",
+"type": "Drink"
+},
+{
+"name": "Dwellberry Seeds",
+"type": "Seed"
+},
+{
+"name": "Earth Rune",
+"type": "Rune"
+},
+{
+"name": "Ectoplasm",
+"type": "Basic Material"
+},
+{
+"name": "Egg",
+"type": "Raw Ingredient"
+},
+{
+"name": "Eggs Royale",
+"type": "Food"
+},
+{
+"name": "Elder Curiosities",
+"type": "Basic Material"
+},
+{
+"name": "Elongated Obsidian Construct",
+"type": "Vestige"
+},
+{
+"name": "Emerald",
+"type": "Basic Item"
+},
+{
+"name": "Empty Vial",
+"type": "Basic Item"
+},
+{
+"name": "Enchanted Adamant Bolt",
+"type": "Ammo"
+},
+{
+"name": "Enchanted Blurite Bolts",
+"type": "Ammo"
+},
+{
+"name": "Enchanted Bronze Bolts",
+"type": "Ammo"
+},
+{
+"name": "Enchanted Iron Bolts",
+"type": "Ammo"
+},
+{
+"name": "Enchanted Mithril Bolts",
+"type": "Ammo"
+},
+{
+"name": "Enchanted Rune Bolt",
+"type": "Ammo"
+},
+{
+"name": "Enchanted Steel Bolts",
+"type": "Ammo"
+},
+{
+"name": "Evasive Infusion",
+"type": "Drink"
+},
+{
+"name": "Eventide - A New Spawn",
+"type": "Quest Item"
+},
+{
+"name": "Extinguished Blue Remnants",
+"type": "Vestige"
+},
+{
+"name": "Extinguished Green Remnants",
+"type": "Vestige"
+},
+{
+"name": "Extinguished Purple Remnants",
+"type": "Vestige"
+},
+{
+"name": "Extinguished Red Remnants",
+"type": "Vestige"
+},
+{
+"name": "Extinguished Yellow Remnants",
+"type": "Vestige"
+},
+{
+"name": "Fabric That Hums With You",
+"type": "Vestige"
+},
+{
+"name": "Fallen Hoplite's Aspis",
+"type": "Shield"
+},
+{
+"name": "Fallen Hoplite's Chest",
+"type": "Melee Armour"
+},
+{
+"name": "Fallen Hoplite's Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Fallen Hoplite's Tassets",
+"type": "Melee Armour"
+},
+{
+"name": "Fang Arrow",
+"type": "Arrow"
+},
+{
+"name": "Fang Barbed Arrow",
+"type": "Arrow"
+},
+{
+"name": "Fang Fire Arrow",
+"type": "Arrow"
+},
+{
+"name": "Farmer's Hat",
+"type": "Basic Item"
+},
+{
+"name": "Farming Cape",
+"type": "Basic Item"
+},
+{
+"name": "Feather Bait",
+"type": "Tool"
+},
+{
+"name": "Feathered Lure",
+"type": "Tool"
+},
+{
+"name": "Feathers",
+"type": "Basic Material"
+},
+{
+"name": "Fellhollow Cape",
+"type": "Basic Item"
+},
+{
+"name": "Ferocious Infusion",
+"type": "Drink"
+},
+{
+"name": "Fibrous Pipe Cactus",
+"type": "Basic Item"
+},
+{
+"name": "Fillet",
+"type": "Food"
+},
+{
+"name": "Fine Cloth",
+"type": "Processed Material"
+},
+{
+"name": "Fine Net",
+"type": "Tool"
+},
+{
+"name": "Fine Thread",
+"type": "Processed Material"
+},
+{
+"name": "Fire Cape",
+"type": "Basic Item"
+},
+{
+"name": "Fire Oil",
+"type": "Processed Material"
+},
+{
+"name": "Fire Rune",
+"type": "Rune"
+},
+{
+"name": "Fish Fry",
+"type": "Food"
+},
+{
+"name": "Fishing Cape",
+"type": "Basic Item"
+},
+{
+"name": "Flank Steak",
+"type": "Food"
+},
+{
+"name": "Flax",
+"type": "Resource"
+},
+{
+"name": "Flax Seeds",
+"type": "Seed"
+},
+{
+"name": "Fleece",
+"type": "Basic Material"
+},
+{
+"name": "Fleet-Footed Infusion",
+"type": "Drink"
+},
+{
+"name": "Focused Agility Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Artisan Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Attack Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Construction Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Cooking Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Farming Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Fishing Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Mining Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Runecrafting Potion",
+"type": "Potion"
+},
+{
+"name": "Focused Woodcutting Potion",
+"type": "Potion"
+},
+{
+"name": "Food & Drink Salvage",
+"type": "Container"
+},
+{
+"name": "Forager's Sandwich",
+"type": "Food"
+},
+{
+"name": "Forbidden Scroll - 'Moon Goddess'",
+"type": "Quest Item"
+},
+{
+"name": "Forbidden Scroll - 'Old Kingdom'",
+"type": "Quest Item"
+},
+{
+"name": "Forbidden Scroll - 'Sun Demon'",
+"type": "Quest Item"
+},
+{
+"name": "Forbidden Scroll - 'The Schism'",
+"type": "Quest Item"
+},
+{
+"name": "Fortifying Crunchies",
+"type": "Food"
+},
+{
+"name": "Fortifying Soup",
+"type": "Food"
+},
+{
+"name": "Fortifying Stew",
+"type": "Food"
+},
+{
+"name": "Fractured Cape",
+"type": "Basic Item"
+},
+{
+"name": "Fractured Obsidian Construct",
+"type": "Vestige"
+},
+{
+"name": "Fried Cabbage",
+"type": "Food"
+},
+{
+"name": "Fried Egg",
+"type": "Food"
+},
+{
+"name": "Fried Onions",
+"type": "Food"
+},
+{
+"name": "Fried Salmon",
+"type": "Food"
+},
+{
+"name": "Fried Sardine",
+"type": "Food"
+},
+{
+"name": "Fruit Pie",
+"type": "Food"
+},
+{
+"name": "Fuel Briquette",
+"type": "Resource"
+},
+{
+"name": "Fuel Pellet",
+"type": "Processed Material"
+},
+{
+"name": "Fuzan's Head",
+"type": "Quest Item"
+},
+{
+"name": "Garou Arms",
+"type": "Quest Item"
+},
+{
+"name": "Garou Artefact",
+"type": "Basic Material"
+},
+{
+"name": "Garou Chit",
+"type": "Basic Material"
+},
+{
+"name": "Garou Highborn's Cloak",
+"type": "Basic Item"
+},
+{
+"name": "Garou Pack",
+"type": "Container"
+},
+{
+"name": "Garou Weave",
+"type": "Processed Material"
+},
+{
+"name": "Ghostspeak Amulet",
+"type": "Quest Item"
+},
+{
+"name": "Giant Krill Bait",
+"type": "Tool"
+},
+{
+"name": "Gilded Gyrhawk Amulet",
+"type": "Trinket"
+},
+{
+"name": "Gilded Paladin Cape",
+"type": "Cape"
+},
+{
+"name": "Gilded Paladin Chestpiece",
+"type": "Melee Armour"
+},
+{
+"name": "Gilded Paladin Helmet",
+"type": "Melee Armour"
+},
+{
+"name": "Gilded Paladin Legs",
+"type": "Melee Armour"
+},
+{
+"name": "Glass Decoration",
+"type": "Component"
+},
+{
+"name": "Glass Owl",
+"type": "Quest Item"
+},
+{
+"name": "Glass Pane",
+"type": "Resource"
+},
+{
+"name": "Glass Vessel",
+"type": "Component"
+},
+{
+"name": "Glazed Pumpkin Sandwich",
+"type": "Food"
+},
+{
+"name": "Goblin \"Swingslash\"",
+"type": "Melee Weapon"
+},
+{
+"name": "Goblin Legs",
+"type": "Quest Item"
+},
+{
+"name": "Goblin Pack",
+"type": "Container"
+},
+{
+"name": "Goblin War Banner",
+"type": "Basic Item"
+},
+{
+"name": "Gold Bar",
+"type": "Basic Item"
+},
+{
+"name": "Gold Leaf",
+"type": "Component"
+},
+{
+"name": "Gold Ore",
+"type": "Basic Material"
+},
+{
+"name": "Gold Salvage Pile",
+"type": "Basic Material"
+},
+{
+"name": "Gourmand Ring",
+"type": "Basic Item"
+},
+{
+"name": "Granite",
+"type": "Resource"
+},
+{
+"name": "Granite Maul",
+"type": "Melee Weapon"
+},
+{
+"name": "Greater Kalphite Wing",
+"type": "Basic Material"
+},
+{
+"name": "Green Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Green Desert Cape",
+"type": "Armour"
+},
+{
+"name": "Green Dragon Hide",
+"type": "Basic Material"
+},
+{
+"name": "Green Dragonhide Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Green Dragonhide Chaps",
+"type": "Ranged Armour"
+},
+{
+"name": "Green Dragonhide Coif",
+"type": "Ranged Armour"
+},
+{
+"name": "Green Dragonhide Leather",
+"type": "Processed Material"
+},
+{
+"name": "Green Dyad Cape",
+"type": "Armour"
+},
+{
+"name": "Green Hex Cape",
+"type": "Armour"
+},
+{
+"name": "Green Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "Green Torch",
+"type": "Tool"
+},
+{
+"name": "Grieving Moonstaff",
+"type": "Magic Weapon"
+},
+{
+"name": "Grilled Mushrooms",
+"type": "Food"
+},
+{
+"name": "Grilled Tomatoes",
+"type": "Food"
+},
+{
+"name": "Grilled Trout",
+"type": "Food"
+},
+{
+"name": "Grilled Undead Bass",
+"type": "Food"
+},
+{
+"name": "Grim Black Codpiece",
+"type": "Vestige"
+},
+{
+"name": "Ground Clay",
+"type": "Resource"
+},
+{
+"name": "Ground Dragon Tooth",
+"type": "Processed Material"
+},
+{
+"name": "Ground Granite",
+"type": "Resource"
+},
+{
+"name": "Ground Gypsum",
+"type": "Resource"
+},
+{
+"name": "Ground Limestone",
+"type": "Resource"
+},
+{
+"name": "Ground Obsidian",
+"type": "Basic Item"
+},
+{
+"name": "Ground Rune Essence",
+"type": "Processed Material"
+},
+{
+"name": "Ground Sandstone",
+"type": "Resource"
+},
+{
+"name": "Ground Stone",
+"type": "Resource"
+},
+{
+"name": "Ground Tea Leaves",
+"type": "Basic Item"
+},
+{
+"name": "Gypsum",
+"type": "Basic Material"
+},
+{
+"name": "Gypsum Wax",
+"type": "Processed Material"
+},
+{
+"name": "Gyrhawk Amulet",
+"type": "Trinket"
+},
+{
+"name": "Hard Leather",
+"type": "Basic Item"
+},
+{
+"name": "Hard Leather Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Hard Leather Chaps",
+"type": "Ranged Armour"
+},
+{
+"name": "Hard Leather Cowl",
+"type": "Ranged Armour"
+},
+{
+"name": "Hard Leather Scraps",
+"type": "Resource"
+},
+{
+"name": "Hardy Weathered Shell",
+"type": "Vestige"
+},
+{
+"name": "Harmonised Compound",
+"type": "Processed Material"
+},
+{
+"name": "Harralander",
+"type": "Basic Item"
+},
+{
+"name": "Harralander Seeds",
+"type": "Seed"
+},
+{
+"name": "Haunch",
+"type": "Food"
+},
+{
+"name": "Healing Potion",
+"type": "Potion"
+},
+{
+"name": "Hearty Crunchies",
+"type": "Food"
+},
+{
+"name": "Hearty Fortifying Soup",
+"type": "Food"
+},
+{
+"name": "Hearty Soup",
+"type": "Food"
+},
+{
+"name": "Hearty Stew",
+"type": "Food"
+},
+{
+"name": "Herb Baked Trout",
+"type": "Food"
+},
+{
+"name": "Herd Ring",
+"type": "Basic Item"
+},
+{
+"name": "Hermit Ring",
+"type": "Basic Item"
+},
+{
+"name": "Hollow Bark",
+"type": "Resource"
+},
+{
+"name": "Human Torso",
+"type": "Quest Item"
+},
+{
+"name": "Hunter Stagbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Icthlarian Fetish",
+"type": "Vestige"
+},
+{
+"name": "Icthlarin's Little Helper Reward Pack",
+"type": "Container"
+},
+{
+"name": "Imaru's Head",
+"type": "Quest Item"
+},
+{
+"name": "Imaru's Talon",
+"type": "Melee Weapon"
+},
+{
+"name": "Imbued Granite Maul Head",
+"type": "Quest Item"
+},
+{
+"name": "Imbued Leather Wrappings",
+"type": "Quest Item"
+},
+{
+"name": "Infernal Fragment",
+"type": "Special Material"
+},
+{
+"name": "Infinity Cloth",
+"type": "Processed Material"
+},
+{
+"name": "Infinity Robe Body",
+"type": "Mage Armour"
+},
+{
+"name": "Infinity Robe Hat",
+"type": "Mage Armour"
+},
+{
+"name": "Infinity Robe Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Inspiring Amulet of Attack",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Amulet of Magic",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Amulet of Ranged",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Insignia",
+"type": "Vestige"
+},
+{
+"name": "Inspiring Ring of Agility",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Ring of Artisan",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Ring of Construction",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Ring of Cooking",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Ring of Farming",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Ring of Fishing",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Ring of Mining",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Ring of Runecrafting",
+"type": "Trinket"
+},
+{
+"name": "Inspiring Ring of Woodcutting",
+"type": "Trinket"
+},
+{
+"name": "Irit",
+"type": "Resource"
+},
+{
+"name": "Iron Arrow",
+"type": "Arrow"
+},
+{
+"name": "Iron Bar",
+"type": "Processed Material"
+},
+{
+"name": "Iron Barbed Arrow",
+"type": "Arrow"
+},
+{
+"name": "Iron Bolts",
+"type": "Ammo"
+},
+{
+"name": "Iron Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Iron Crossbow Limbs",
+"type": "Component"
+},
+{
+"name": "Iron Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Iron Fire Arrow",
+"type": "Arrow"
+},
+{
+"name": "Iron Greataxe",
+"type": "Melee Weapon"
+},
+{
+"name": "Iron Greatsword",
+"type": "Melee Weapon"
+},
+{
+"name": "Iron Helmet",
+"type": "Melee Armour"
+},
+{
+"name": "Iron Logging Axe",
+"type": "Tool"
+},
+{
+"name": "Iron Mace",
+"type": "Melee Weapon"
+},
+{
+"name": "Iron Med Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Iron Ore",
+"type": "Basic Material"
+},
+{
+"name": "Iron Pickaxe",
+"type": "Tool"
+},
+{
+"name": "Iron Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Iron Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Iron Salvage Pile",
+"type": "Basic Material"
+},
+{
+"name": "Iron Secateurs",
+"type": "Tool"
+},
+{
+"name": "Iron Shield",
+"type": "Basic Item"
+},
+{
+"name": "Iron Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Iron Warhammer",
+"type": "Melee Weapon"
+},
+{
+"name": "Jade",
+"type": "Basic Item"
+},
+{
+"name": "Jade Emblem",
+"type": "Basic Item"
+},
+{
+"name": "Kalphite Bait",
+"type": "Tool"
+},
+{
+"name": "Kalphite Carapace Chest",
+"type": "Ranged Armour"
+},
+{
+"name": "Kalphite Carapace Helmet",
+"type": "Ranged Armour"
+},
+{
+"name": "Kalphite Carapace Legs",
+"type": "Ranged Armour"
+},
+{
+"name": "Kalphite Ichor",
+"type": "Basic Item"
+},
+{
+"name": "Kalphite Shell",
+"type": "Basic Item"
+},
+{
+"name": "Kalphite Shell Fragments",
+"type": "Basic Item"
+},
+{
+"name": "Kalphite Wing",
+"type": "Basic Material"
+},
+{
+"name": "Keris",
+"type": "Melee Weapon"
+},
+{
+"name": "Kot Pack",
+"type": "Container"
+},
+{
+"name": "Kuldra's Head",
+"type": "Quest Item"
+},
+{
+"name": "Kuldra's Wrath",
+"type": "Magic Weapon"
+},
+{
+"name": "Kwuarm",
+"type": "Resource"
+},
+{
+"name": "Kwuarm Seeds",
+"type": "Seed"
+},
+{
+"name": "Large Wardstone",
+"type": "Basic Item"
+},
+{
+"name": "Law Rune",
+"type": "Rune"
+},
+{
+"name": "Leather",
+"type": "Basic Item"
+},
+{
+"name": "Leather Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Leather Chaps",
+"type": "Ranged Armour"
+},
+{
+"name": "Leather Cowl",
+"type": "Ranged Armour"
+},
+{
+"name": "Leather Shield",
+"type": "Basic Item"
+},
+{
+"name": "Leggings Of Lightness",
+"type": "Basic Item"
+},
+{
+"name": "Leonard the Bound",
+"type": "Quest Item"
+},
+{
+"name": "Lesser Antipoison Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Attack Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Agility Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Artisan Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Attack Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Construction Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Cooking Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Farming Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Fishing Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Mining Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Runecrafting Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Focused Woodcutting Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Healing Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Lumberjack Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Magic Potion",
+"type": "Potion"
+},
+{
+"name": "Lesser Quarrymaster Potion",
+"type": "Potion"
+},
+{
+"name": "Lightning-in-a-bottle",
+"type": "Basic Item"
+},
+{
+"name": "Limestone",
+"type": "Basic Material"
+},
+{
+"name": "Limp Black Lining",
+"type": "Vestige"
+},
+{
+"name": "Lobster Bait",
+"type": "Tool"
+},
+{
+"name": "Lougrim's Staff",
+"type": "Quest Item"
+},
+{
+"name": "Lumber Backpack",
+"type": "Basic Item"
+},
+{
+"name": "Lumberjack Potion",
+"type": "Potion"
+},
+{
+"name": "Luminite Ore",
+"type": "Processed Material"
+},
+{
+"name": "Lunar Garou Hat",
+"type": "Mage Armour"
+},
+{
+"name": "Lunar Garou Robe Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Lunar Garou Robes",
+"type": "Mage Armour"
+},
+{
+"name": "Lunate Shawl",
+"type": "Vestige"
+},
+{
+"name": "Lunular Wrappings",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Applefeather Mosstail",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Astralbeak Warbler",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Coastal Sunbeak",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Crimson Crybaby",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Eclipseborn Sharpbeak",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Grassfoot Screecher",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Infernal Blightbeak",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Leafwood Strider",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Magic Carpet",
+"type": "Basic Item"
+},
+{
+"name": "MOUNT: Manafem Midnight",
+"type": "Mount"
+},
+{
+"name": "MOUNT: Moonsilk Weave",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Mossbeak Hunter",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Oakfeather Raptor",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Scorchsummer Ashbeak",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Scorchweave Rug",
+"type": "Mount"
+},
+{
+"name": "MOUNT: Springdown Runner",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Summerbellied Wagtail",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Sunkissed Clawfoot",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Uzzerian Umber",
+"type": "Vestige"
+},
+{
+"name": "MOUNT: Zamorakian Pledgesaddle",
+"type": "Vestige"
+},
+{
+"name": "Magic Cape",
+"type": "Basic Item"
+},
+{
+"name": "Magic Logs",
+"type": "Basic Material"
+},
+{
+"name": "Magic Longbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Magic Shortbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Magic Tree Seed",
+"type": "Seed"
+},
+{
+"name": "Magical Focus",
+"type": "Basic Item"
+},
+{
+"name": "Magnet",
+"type": "Quest Item"
+},
+{
+"name": "Maple Battlestaff",
+"type": "Magic Weapon"
+},
+{
+"name": "Maple Infusion",
+"type": "Drink"
+},
+{
+"name": "Maple Logs",
+"type": "Resource"
+},
+{
+"name": "Maple Longbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Maple Rod",
+"type": "Tool"
+},
+{
+"name": "Maple Sap",
+"type": "Basic Material"
+},
+{
+"name": "Maple Shortbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Maple Syrup",
+"type": "Food"
+},
+{
+"name": "Maple Toastie",
+"type": "Food"
+},
+{
+"name": "Maple Tree Seed",
+"type": "Seed"
+},
+{
+"name": "Maple Wand",
+"type": "Magic Weapon"
+},
+{
+"name": "Marentill Seeds",
+"type": "Seed"
+},
+{
+"name": "Marrentil",
+"type": "Resource"
+},
+{
+"name": "Master Wand",
+"type": "Magic Weapon"
+},
+{
+"name": "Master's Staff",
+"type": "Magic Weapon"
+},
+{
+"name": "Meat Pizza",
+"type": "Food"
+},
+{
+"name": "Meat Sandwich",
+"type": "Food"
+},
+{
+"name": "Meat Stew",
+"type": "Food"
+},
+{
+"name": "Meat Twist Sandwich",
+"type": "Food"
+},
+{
+"name": "Medium Wardstone",
+"type": "Basic Item"
+},
+{
+"name": "Miner Ring",
+"type": "Basic Item"
+},
+{
+"name": "Mining Cape",
+"type": "Basic Item"
+},
+{
+"name": "Mithril Arrow",
+"type": "Arrow"
+},
+{
+"name": "Mithril Bar",
+"type": "Processed Material"
+},
+{
+"name": "Mithril Barbed Arrow",
+"type": "Arrow"
+},
+{
+"name": "Mithril Bolts",
+"type": "Ammo"
+},
+{
+"name": "Mithril Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Mithril Crossbow Limbs",
+"type": "Component"
+},
+{
+"name": "Mithril Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Mithril Fire Arrow",
+"type": "Arrow"
+},
+{
+"name": "Mithril Greataxe",
+"type": "Melee Weapon"
+},
+{
+"name": "Mithril Greatsword",
+"type": "Melee Weapon"
+},
+{
+"name": "Mithril Helmet",
+"type": "Melee Armour"
+},
+{
+"name": "Mithril Logging Axe",
+"type": "Tool"
+},
+{
+"name": "Mithril Mace",
+"type": "Melee Weapon"
+},
+{
+"name": "Mithril Med Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Mithril Ore",
+"type": "Basic Material"
+},
+{
+"name": "Mithril Pickaxe",
+"type": "Tool"
+},
+{
+"name": "Mithril Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Mithril Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Mithril Salvage Pile",
+"type": "Basic Material"
+},
+{
+"name": "Mithril Scimitar",
+"type": "Melee Weapon"
+},
+{
+"name": "Mithril Shield",
+"type": "Melee Armour"
+},
+{
+"name": "Mithril Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Mithril Warhammer",
+"type": "Melee Weapon"
+},
+{
+"name": "Mixed Grill",
+"type": "Food"
+},
+{
+"name": "Mixed Platter",
+"type": "Food"
+},
+{
+"name": "Molten Glass",
+"type": "Resource"
+},
+{
+"name": "Monkfish Bait",
+"type": "Tool"
+},
+{
+"name": "Monkfish Fillets",
+"type": "Food"
+},
+{
+"name": "Monkfish Skewers",
+"type": "Food"
+},
+{
+"name": "Monstrous Fang",
+"type": "Basic Material"
+},
+{
+"name": "Moon Garou Pack",
+"type": "Container"
+},
+{
+"name": "Moon Ring",
+"type": "Basic Item"
+},
+{
+"name": "Moonstone",
+"type": "Quest Item"
+},
+{
+"name": "Moth Eaten Black Cloth",
+"type": "Vestige"
+},
+{
+"name": "Moth Eaten Blue Cloth",
+"type": "Vestige"
+},
+{
+"name": "Moth Eaten Green Cloth",
+"type": "Vestige"
+},
+{
+"name": "Moth Eaten Orange Cloth",
+"type": "Vestige"
+},
+{
+"name": "Moth Eaten Pink Cloth",
+"type": "Vestige"
+},
+{
+"name": "Moth Eaten Purple Cloth",
+"type": "Vestige"
+},
+{
+"name": "Moth Eaten Red Cloth",
+"type": "Vestige"
+},
+{
+"name": "Moth Eaten White Cloth",
+"type": "Vestige"
+},
+{
+"name": "Moth Eaten Yellow Cloth",
+"type": "Vestige"
+},
+{
+"name": "Mule Ring",
+"type": "Basic Item"
+},
+{
+"name": "Mushroom Kebab",
+"type": "Food"
+},
+{
+"name": "Mysterious Orb (Charged)",
+"type": "Quest Item"
+},
+{
+"name": "Mysterious Orb (Uncharged)",
+"type": "Quest Item"
+},
+{
+"name": "Mystic Cloth",
+"type": "Processed Material"
+},
+{
+"name": "Mystic Fibres",
+"type": "Basic Material"
+},
+{
+"name": "Mystic Hat",
+"type": "Mage Armour"
+},
+{
+"name": "Mystic Net",
+"type": "Tool"
+},
+{
+"name": "Mystic Robe Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Mystic Robes",
+"type": "Mage Armour"
+},
+{
+"name": "Mystic Thread",
+"type": "Basic Item"
+},
+{
+"name": "Naphtha",
+"type": "Basic Item"
+},
+{
+"name": "Nature Rune",
+"type": "Rune"
+},
+{
+"name": "Necromancer's Crown",
+"type": "Mage Armour"
+},
+{
+"name": "Necromancer's Robe Bottom",
+"type": "Mage Armour"
+},
+{
+"name": "Necromancer's Robe Top",
+"type": "Mage Armour"
+},
+{
+"name": "Necromancer's Staff",
+"type": "Magic Weapon"
+},
+{
+"name": "Necrotic Bonemeal",
+"type": "Processed Material"
+},
+{
+"name": "Noxious Draconic Visage",
+"type": "Component"
+},
+{
+"name": "Oak Battlestaff",
+"type": "Magic Weapon"
+},
+{
+"name": "Oak Logs",
+"type": "Resource"
+},
+{
+"name": "Oak Longbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Oak Plank",
+"type": "Resource"
+},
+{
+"name": "Oak Rod",
+"type": "Tool"
+},
+{
+"name": "Oak Shortbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Oak Tree Seed",
+"type": "Seed"
+},
+{
+"name": "Oak Wand",
+"type": "Magic Weapon"
+},
+{
+"name": "Obsidian Cape",
+"type": "Basic Item"
+},
+{
+"name": "Obsidian Chest",
+"type": "Melee Armour"
+},
+{
+"name": "Obsidian Device",
+"type": "Basic Material"
+},
+{
+"name": "Obsidian Helmet",
+"type": "Melee Armour"
+},
+{
+"name": "Obsidian Legs",
+"type": "Melee Armour"
+},
+{
+"name": "Onion",
+"type": "Raw Ingredient"
+},
+{
+"name": "Onion Seeds",
+"type": "Seed"
+},
+{
+"name": "Opal",
+"type": "Basic Item"
+},
+{
+"name": "Opal Emblem",
+"type": "Basic Item"
+},
+{
+"name": "Orange Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Orange Desert Cape",
+"type": "Armour"
+},
+{
+"name": "Orange Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "Ornate Golden Scarab",
+"type": "Vestige"
+},
+{
+"name": "Ornate Maul Handle",
+"type": "Quest Item"
+},
+{
+"name": "PATTERN: Bloodblight Cape",
+"type": "Pattern"
+},
+{
+"name": "PATTERN: Bramblemead Cape",
+"type": "Pattern"
+},
+{
+"name": "PATTERN: Fell Cape",
+"type": "Pattern"
+},
+{
+"name": "PATTERN: Fractured Cape",
+"type": "Pattern"
+},
+{
+"name": "PATTERN: Stormtouched Cape",
+"type": "Pattern"
+},
+{
+"name": "PATTERN: Whispering Cape",
+"type": "Pattern"
+},
+{
+"name": "PLAN: Armadyl Banner 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Armadyl Banner 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Armadyl Banner 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Armadyl Flag 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Armadyl Flag 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Armadyl Flag 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Armadyl Flag 04",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Armadyl Flag 05",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Armadyl Flag 06",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Banner 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Banner 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Banner 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Flag 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Flag 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Flag 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Flag 04",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Flag 05",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bandos Flag 06",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Barrel Pile",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Blue Standing Torch",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Blue Wall-Mounted Torch",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bowl of Onions",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Bowl of Peaches",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Broken Wooden Crate",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Dragonkin Gargoyle 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Dragonkin Gargoyle 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Dragonkin Gargoyle 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Dragonkin Obelisk 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Dragonkin Obelisk 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Dragonkin Obelisk 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Dragonkin Statue 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Dragonkin Statue 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Drum",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Hanging Ornament 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Hanging Ornament 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Hanging Ornament 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Hanging Ornament 04",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Hanging Pelt",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Stool",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Trophy 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Trophy 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Trophy 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Trophy 04",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Tusks 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Tusks 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Tusks 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Garou Wall Banner",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Grave 1",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Grave 2",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Grave 3",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Grave 4",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Green Standing Torch",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Green Wall-Mounted Torch",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Banner 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Banner 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Banner 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Flag 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Flag 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Flag 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Flag 04",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Flag 05",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Guthix Flag 06",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Headstone 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Headstone 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Keg Barrel",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Moon Garou Bed",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Open Wooden Barrel",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Potted Dwellberry Bush",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Potted Onion",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Potted Redberry Bush",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Purple Standing Torch",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Purple Wall-Mounted Torch",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Red Standing Torch",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Red Wall-Mounted Torch",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Banner 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Banner 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Banner 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Flag 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Flag 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Flag 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Flag 04",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Flag 05",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Saradomin Flag 06",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Sealed Wooden Crate",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Spectral Book",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Stack of Bowls",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Stacked Wooden Crates",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Textile Kit",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Vial Shelf",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Wooden Barrel",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Wooden Bin",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Wooden Bin Pile",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Banner 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Banner 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Banner 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Flag 01",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Flag 02",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Flag 03",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Flag 04",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Flag 05",
+"type": "Consumable"
+},
+{
+"name": "PLAN: Zamorak Flag 06",
+"type": "Consumable"
+},
+{
+"name": "Padded Cloth",
+"type": "Processed Material"
+},
+{
+"name": "Paladin Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Paladin's Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Paladin's Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Parts of a Sinister-Looking Staff",
+"type": "Vestige"
+},
+{
+"name": "Peach",
+"type": "Food"
+},
+{
+"name": "Pharaoh's Sceptre",
+"type": "Magic Weapon"
+},
+{
+"name": "Phoenix Ring",
+"type": "Basic Item"
+},
+{
+"name": "Pink Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Pink Desert Cape",
+"type": "Armour"
+},
+{
+"name": "Pink Dyad Cape",
+"type": "Armour"
+},
+{
+"name": "Pink Hex Cape",
+"type": "Armour"
+},
+{
+"name": "Pink Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "Pioneer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Pioneer's Scarf",
+"type": "Basic Item"
+},
+{
+"name": "Pipe Cactus Seeds",
+"type": "Seed"
+},
+{
+"name": "Plan Bundle: Armadyl Flags",
+"type": "Container"
+},
+{
+"name": "Plan Bundle: Bandos Flags",
+"type": "Container"
+},
+{
+"name": "Plan Bundle: Guthix Flags",
+"type": "Container"
+},
+{
+"name": "Plan Bundle: Saradomin Flags",
+"type": "Container"
+},
+{
+"name": "Plan Bundle: Zamorak Flags",
+"type": "Container"
+},
+{
+"name": "Plant Cure",
+"type": "Potion"
+},
+{
+"name": "Plate of Pure Obsidian",
+"type": "Vestige"
+},
+{
+"name": "Poison Ichor",
+"type": "Basic Item"
+},
+{
+"name": "Poisoned Adamant Arrow",
+"type": "Arrow"
+},
+{
+"name": "Poisoned Bronze Arrow",
+"type": "Arrow"
+},
+{
+"name": "Poisoned Fang Arrow",
+"type": "Arrow"
+},
+{
+"name": "Poisoned Iron Arrow",
+"type": "Arrow"
+},
+{
+"name": "Poisoned Mithril Arrow",
+"type": "Arrow"
+},
+{
+"name": "Poisoned Rune Arrow",
+"type": "Arrow"
+},
+{
+"name": "Poisoned Steel Arrow",
+"type": "Arrow"
+},
+{
+"name": "Portal Reward Pack",
+"type": "Container"
+},
+{
+"name": "Potato",
+"type": "Raw Ingredient"
+},
+{
+"name": "Potato Seeds",
+"type": "Seed"
+},
+{
+"name": "Primordial Heart",
+"type": "Basic Material"
+},
+{
+"name": "Pristine Armoured Catfish",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Beltfish",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Desert Sole",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Herring",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Infernal Eel",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Lobster",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Monkfish",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Salmon",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Sardine",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Trout",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Undead Bass",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Undead Eel",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pumpkin",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pumpkin Seeds",
+"type": "Seed"
+},
+{
+"name": "Pumpkin Soup",
+"type": "Food"
+},
+{
+"name": "Pumpkin Spice Infusion",
+"type": "Drink"
+},
+{
+"name": "Pungent Omelette",
+"type": "Food"
+},
+{
+"name": "Purified King's Token",
+"type": "Quest Item"
+},
+{
+"name": "Purple Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Purple Desert Cape",
+"type": "Armour"
+},
+{
+"name": "Purple Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "Purple Torch",
+"type": "Tool"
+},
+{
+"name": "Quarrymaster Potion",
+"type": "Potion"
+},
+{
+"name": "Queenslayer's Reward Pack",
+"type": "Resource"
+},
+{
+"name": "Ram Horn",
+"type": "Basic Material"
+},
+{
+"name": "Ranged Cape",
+"type": "Basic Item"
+},
+{
+"name": "Ranger Hat",
+"type": "Ranged Armour"
+},
+{
+"name": "Ranger Tights",
+"type": "Ranged Armour"
+},
+{
+"name": "Ranger Tunic",
+"type": "Ranged Armour"
+},
+{
+"name": "Rat Roast",
+"type": "Food"
+},
+{
+"name": "Ravanna's Ring",
+"type": "Trinket"
+},
+{
+"name": "Raw Anchovies",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Armoured Catfish",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Beltfish",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Bestial Meat",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Bird Meat",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Desert Sole",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Farm Meat",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Game Meat",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Giant Krill",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Herring",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Infernal Eel",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Lobster",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Monkfish",
+"type": "Food"
+},
+{
+"name": "Raw Rat Meat",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Salmon",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Sardine",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Shrimp",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Trout",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Undead Bass",
+"type": "Raw Ingredient"
+},
+{
+"name": "Raw Undead Eel",
+"type": "Raw Ingredient"
+},
+{
+"name": "Red Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Red Desert Cape",
+"type": "Armour"
+},
+{
+"name": "Red Dragon Hide",
+"type": "Basic Material"
+},
+{
+"name": "Red Dragonhide Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Red Dragonhide Coif",
+"type": "Ranged Armour"
+},
+{
+"name": "Red Dragonhide Leather",
+"type": "Processed Material"
+},
+{
+"name": "Red Dragonhide Legs",
+"type": "Ranged Armour"
+},
+{
+"name": "Red Dyad Cape",
+"type": "Armour"
+},
+{
+"name": "Red Hex Cape",
+"type": "Armour"
+},
+{
+"name": "Red Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "Red Topaz",
+"type": "Basic Item"
+},
+{
+"name": "Red Torch",
+"type": "Tool"
+},
+{
+"name": "Redberries",
+"type": "Food"
+},
+{
+"name": "Redberry Crunchies",
+"type": "Food"
+},
+{
+"name": "Redberry Glazed Roast Flank",
+"type": "Food"
+},
+{
+"name": "Redberry Infusion",
+"type": "Drink"
+},
+{
+"name": "Redberry Roast Rat",
+"type": "Food"
+},
+{
+"name": "Redberry Seeds",
+"type": "Seed"
+},
+{
+"name": "Refined Obsidian",
+"type": "Processed Material"
+},
+{
+"name": "Regicide Reward Pack",
+"type": "Container"
+},
+{
+"name": "Reinforced Body",
+"type": "Melee Armour"
+},
+{
+"name": "Reinforced Helmet",
+"type": "Melee Armour"
+},
+{
+"name": "Reinforced Legs",
+"type": "Melee Armour"
+},
+{
+"name": "Relentless Infusion",
+"type": "Drink"
+},
+{
+"name": "Remnants of a Rotting Robe",
+"type": "Vestige"
+},
+{
+"name": "Remnants of a Shattered Skull",
+"type": "Vestige"
+},
+{
+"name": "Restless Ghosts Reward Pack",
+"type": "Resource"
+},
+{
+"name": "Reward Pack: Brynmoor Bronze",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Brynmoor Gold",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Brynmoor Silver",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Dowdun Reach Bronze",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Dowdun Reach Gold",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Dowdun Reach Silver",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Fellhollow Bronze",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Fellhollow Gold",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Fellhollow Silver",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Ghornfell Bronze",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Ghornfell Gold",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Ghornfell Silver",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Umbral Sands Bronze",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Umbral Sands Gold",
+"type": "Container"
+},
+{
+"name": "Reward Pack: Umbral Sands Silver",
+"type": "Container"
+},
+{
+"name": "Ring of Life",
+"type": "Trinket"
+},
+{
+"name": "Ring of Pursuit",
+"type": "Basic Item"
+},
+{
+"name": "Ring of Recoil",
+"type": "Trinket"
+},
+{
+"name": "Roast Dinner",
+"type": "Food"
+},
+{
+"name": "Roast Pumpkin",
+"type": "Food"
+},
+{
+"name": "Roasted Lobster",
+"type": "Food"
+},
+{
+"name": "Rotten Farming Tool",
+"type": "Vestige"
+},
+{
+"name": "Rough Cloth",
+"type": "Processed Material"
+},
+{
+"name": "Ruby",
+"type": "Basic Material"
+},
+{
+"name": "Rune Arrow",
+"type": "Arrow"
+},
+{
+"name": "Rune Bar",
+"type": "Processed Material"
+},
+{
+"name": "Rune Barbed Arrow",
+"type": "Arrow"
+},
+{
+"name": "Rune Bolt",
+"type": "Ammo"
+},
+{
+"name": "Rune Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Rune Crossbow Limbs",
+"type": "Basic Item"
+},
+{
+"name": "Rune Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Rune Essence",
+"type": "Basic Item"
+},
+{
+"name": "Rune Fire Arrow",
+"type": "Arrow"
+},
+{
+"name": "Rune Greataxe",
+"type": "Melee Weapon"
+},
+{
+"name": "Rune Greatsword",
+"type": "Melee Weapon"
+},
+{
+"name": "Rune Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Rune Logging Axe",
+"type": "Tool"
+},
+{
+"name": "Rune Mace",
+"type": "Melee Weapon"
+},
+{
+"name": "Rune Pickaxe",
+"type": "Tool"
+},
+{
+"name": "Rune Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Rune Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Rune Scimitar",
+"type": "Melee Weapon"
+},
+{
+"name": "Rune Shield",
+"type": "Basic Item"
+},
+{
+"name": "Rune Spade",
+"type": "Tool"
+},
+{
+"name": "Rune Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Rune Warhammer",
+"type": "Melee Weapon"
+},
+{
+"name": "Rune Watering Can",
+"type": "Tool"
+},
+{
+"name": "Runecrafting Cape",
+"type": "Basic Item"
+},
+{
+"name": "Runite Med Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Runite Ore",
+"type": "Basic Material"
+},
+{
+"name": "Sacred Oil",
+"type": "Processed Material"
+},
+{
+"name": "Saga (Icthlarin's Little Helper)",
+"type": "Quest Item"
+},
+{
+"name": "Salve Amulet",
+"type": "Trinket"
+},
+{
+"name": "Salve Crystal",
+"type": "Quest Item"
+},
+{
+"name": "Sandstone",
+"type": "Basic Material"
+},
+{
+"name": "Sapphire",
+"type": "Basic Item"
+},
+{
+"name": "Sapphire Emblem",
+"type": "Basic Item"
+},
+{
+"name": "Saradomin Symbol",
+"type": "Basic Item"
+},
+{
+"name": "Saradominist Cloak",
+"type": "Basic Item"
+},
+{
+"name": "Sauteed Sardines",
+"type": "Food"
+},
+{
+"name": "Sauteed Shrimp",
+"type": "Food"
+},
+{
+"name": "Scarecrow's Key",
+"type": "Quest Item"
+},
+{
+"name": "Scorch Leather",
+"type": "Processed Material"
+},
+{
+"name": "Scratchy Sackcloth",
+"type": "Vestige"
+},
+{
+"name": "Seared Anchovies",
+"type": "Food"
+},
+{
+"name": "Seared Cactus Steak",
+"type": "Food"
+},
+{
+"name": "Selenic Veil",
+"type": "Vestige"
+},
+{
+"name": "Serrated Claw",
+"type": "Vestige"
+},
+{
+"name": "Shadow Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Shadow Chaps",
+"type": "Ranged Armour"
+},
+{
+"name": "Shadow Cowl",
+"type": "Ranged Armour"
+},
+{
+"name": "Shadow Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Shadow Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Shadowscale Cape",
+"type": "Basic Item"
+},
+{
+"name": "Shadowscale Hood",
+"type": "Ranged Armour"
+},
+{
+"name": "Shard of Black Pauldron",
+"type": "Vestige"
+},
+{
+"name": "Shard of Smoky Glass",
+"type": "Vestige"
+},
+{
+"name": "Shard of the Dreaming Stone",
+"type": "Quest Item"
+},
+{
+"name": "Shattered Black Blade",
+"type": "Vestige"
+},
+{
+"name": "Shattered Black Blade (Umbral Sands)",
+"type": "Vestige"
+},
+{
+"name": "Shimmerscale Powder",
+"type": "Processed Material"
+},
+{
+"name": "Shocking Plant Bulb",
+"type": "Basic Item"
+},
+{
+"name": "Shrapnel",
+"type": "Basic Material"
+},
+{
+"name": "Shred of Sunbleached Weave",
+"type": "Vestige"
+},
+{
+"name": "Shrimp Bait",
+"type": "Tool"
+},
+{
+"name": "Shrimp Omelette",
+"type": "Food"
+},
+{
+"name": "Shroud of Noggin",
+"type": "Basic Item"
+},
+{
+"name": "Sigil of a Phoenix",
+"type": "Vestige"
+},
+{
+"name": "Silver Bar",
+"type": "Basic Item"
+},
+{
+"name": "Silver Leaf",
+"type": "Component"
+},
+{
+"name": "Silver Ore",
+"type": "Basic Material"
+},
+{
+"name": "Silver Salvage Pile",
+"type": "Basic Material"
+},
+{
+"name": "Simply Splendid Feather",
+"type": "Vestige"
+},
+{
+"name": "Sinister Mechanism",
+"type": "Vestige"
+},
+{
+"name": "Skeleton Pack",
+"type": "Container"
+},
+{
+"name": "Skills Necklace",
+"type": "Trinket"
+},
+{
+"name": "Skullsplitter",
+"type": "Melee Weapon"
+},
+{
+"name": "Slightly Chaffing Chestguard",
+"type": "Vestige"
+},
+{
+"name": "Small Animal Fang",
+"type": "Basic Material"
+},
+{
+"name": "Small Ash Pile",
+"type": "Container"
+},
+{
+"name": "Small Wardstone",
+"type": "Basic Item"
+},
+{
+"name": "Smoked Herring",
+"type": "Food"
+},
+{
+"name": "Smoked Infernal Eel",
+"type": "Food"
+},
+{
+"name": "Smouldering Draconic Visage",
+"type": "Quest Item"
+},
+{
+"name": "Snapdragon",
+"type": "Resource"
+},
+{
+"name": "Snapdragon Seeds",
+"type": "Seed"
+},
+{
+"name": "Soda Ash",
+"type": "Resource"
+},
+{
+"name": "Sodden Black Leather",
+"type": "Vestige"
+},
+{
+"name": "Soft Animal Fur",
+"type": "Basic Item"
+},
+{
+"name": "Softly Vibrating Orb",
+"type": "Vestige"
+},
+{
+"name": "Soiled Blue Cloth",
+"type": "Vestige"
+},
+{
+"name": "Soiled Green Cloth",
+"type": "Vestige"
+},
+{
+"name": "Soiled Pink Cloth",
+"type": "Vestige"
+},
+{
+"name": "Soiled Red Cloth",
+"type": "Vestige"
+},
+{
+"name": "Soiled Yellow Cloth",
+"type": "Vestige"
+},
+{
+"name": "Soul Fragment",
+"type": "Special Material"
+},
+{
+"name": "Spare Farmer's Supplies",
+"type": "Container"
+},
+{
+"name": "Spectral Chinchompa Cape",
+"type": "Basic Item"
+},
+{
+"name": "Spectral Chinchompa Skull",
+"type": "Basic Material"
+},
+{
+"name": "Spectral Silver Thread",
+"type": "Quest Item"
+},
+{
+"name": "Splitbark Body",
+"type": "Mage Armour"
+},
+{
+"name": "Splitbark Helm",
+"type": "Mage Armour"
+},
+{
+"name": "Splitbark Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Splitbark Staff",
+"type": "Magic Weapon"
+},
+{
+"name": "Splitbark Wand",
+"type": "Magic Weapon"
+},
+{
+"name": "Spooky Bait",
+"type": "Tool"
+},
+{
+"name": "Squeaking Sausage",
+"type": "Food"
+},
+{
+"name": "Staff of Light",
+"type": "Magic Weapon"
+},
+{
+"name": "Stamina Potion",
+"type": "Potion"
+},
+{
+"name": "Steak",
+"type": "Food"
+},
+{
+"name": "Steak 'N' Eggs",
+"type": "Food"
+},
+{
+"name": "Steak Sandwich",
+"type": "Food"
+},
+{
+"name": "Steamed Beltfish",
+"type": "Food"
+},
+{
+"name": "Steel Arrow",
+"type": "Arrow"
+},
+{
+"name": "Steel Bar",
+"type": "Processed Material"
+},
+{
+"name": "Steel Barbed Arrow",
+"type": "Arrow"
+},
+{
+"name": "Steel Bolts",
+"type": "Ammo"
+},
+{
+"name": "Steel Crossbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Steel Crossbow Limbs",
+"type": "Component"
+},
+{
+"name": "Steel Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Steel Fire Arrow",
+"type": "Arrow"
+},
+{
+"name": "Steel Full Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Steel Greataxe",
+"type": "Melee Weapon"
+},
+{
+"name": "Steel Greatsword",
+"type": "Melee Weapon"
+},
+{
+"name": "Steel Logging Axe",
+"type": "Tool"
+},
+{
+"name": "Steel Mace",
+"type": "Melee Weapon"
+},
+{
+"name": "Steel Med Helm",
+"type": "Melee Armour"
+},
+{
+"name": "Steel Pickaxe",
+"type": "Tool"
+},
+{
+"name": "Steel Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "Steel Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Steel Salvage Pile",
+"type": "Basic Material"
+},
+{
+"name": "Steel Scimitar",
+"type": "Melee Weapon"
+},
+{
+"name": "Steel Shield",
+"type": "Basic Item"
+},
+{
+"name": "Steel Spade",
+"type": "Tool"
+},
+{
+"name": "Steel Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Steel Warhammer",
+"type": "Melee Weapon"
+},
+{
+"name": "Steel Watering Can",
+"type": "Tool"
+},
+{
+"name": "Stir-Fry",
+"type": "Food"
+},
+{
+"name": "Stone",
+"type": "Basic Material"
+},
+{
+"name": "Stone Arrow",
+"type": "Arrow"
+},
+{
+"name": "Stone Block",
+"type": "Resource"
+},
+{
+"name": "Stone Club",
+"type": "Melee Weapon"
+},
+{
+"name": "Stone Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Stone Logging Axe",
+"type": "Tool"
+},
+{
+"name": "Stone Pickaxe",
+"type": "Tool"
+},
+{
+"name": "Stormtouched Cape",
+"type": "Basic Item"
+},
+{
+"name": "Strong Sweet Tea",
+"type": "Drink"
+},
+{
+"name": "Strong Tea",
+"type": "Drink"
+},
+{
+"name": "Studded Leather Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Studded Leather Chaps",
+"type": "Ranged Armour"
+},
+{
+"name": "Studded Leather Cowl",
+"type": "Ranged Armour"
+},
+{
+"name": "Stuffed Catfish",
+"type": "Food"
+},
+{
+"name": "Stunted Kalphite Wing",
+"type": "Basic Material"
+},
+{
+"name": "Subjugation Staff",
+"type": "Magic Weapon"
+},
+{
+"name": "Sun Baked Sole",
+"type": "Food"
+},
+{
+"name": "Sun Ring",
+"type": "Basic Item"
+},
+{
+"name": "Sun-Bleached Head Wrap",
+"type": "Vestige"
+},
+{
+"name": "Sun-Bleached Leggings",
+"type": "Vestige"
+},
+{
+"name": "Sun-Bleached Vest",
+"type": "Vestige"
+},
+{
+"name": "Sundering Spiked Slab",
+"type": "Vestige"
+},
+{
+"name": "Super Antifire Potion",
+"type": "Potion"
+},
+{
+"name": "Super Antipoison Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Agility Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Artisan Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Attack Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Construction Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Cooking Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Farming Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Fishing Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Mining Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Runecrafting Potion",
+"type": "Potion"
+},
+{
+"name": "Super Focused Woodcutting Potion",
+"type": "Potion"
+},
+{
+"name": "Super Lumberjack Potion",
+"type": "Potion"
+},
+{
+"name": "Super Quarrymaster Potion",
+"type": "Potion"
+},
+{
+"name": "Suspiciously Light Tattered Boots",
+"type": "Vestige"
+},
+{
+"name": "Swabbie Pie",
+"type": "Food"
+},
+{
+"name": "Swamp Tar",
+"type": "Basic Material"
+},
+{
+"name": "Swamp Thread",
+"type": "Processed Material"
+},
+{
+"name": "Swamp Weed",
+"type": "Basic Item"
+},
+{
+"name": "Swamp Weed Seeds",
+"type": "Seed"
+},
+{
+"name": "Sweet Veg Ball",
+"type": "Food"
+},
+{
+"name": "Tainted King's Token",
+"type": "Quest Item"
+},
+{
+"name": "Tastefully Torn Tights",
+"type": "Vestige"
+},
+{
+"name": "Tattered Cape",
+"type": "Basic Item"
+},
+{
+"name": "Tattered Time-Lost Cloth",
+"type": "Vestige"
+},
+{
+"name": "Tea Leaves",
+"type": "Resource"
+},
+{
+"name": "Thane's Authority",
+"type": "Melee Weapon"
+},
+{
+"name": "The Binding of Ib",
+"type": "Quest Item"
+},
+{
+"name": "The Importance of Chaos",
+"type": "Quest Item"
+},
+{
+"name": "The Pride of the Avernic",
+"type": "Quest Item"
+},
+{
+"name": "The Radiant's Heart",
+"type": "Quest Item"
+},
+{
+"name": "The Wrath of Baba Potterington",
+"type": "Quest Item"
+},
+{
+"name": "Tin Ore",
+"type": "Basic Material"
+},
+{
+"name": "Titan's Wrath",
+"type": "Melee Weapon"
+},
+{
+"name": "Toadflax",
+"type": "Resource"
+},
+{
+"name": "Toadflax Seeds",
+"type": "Seed"
+},
+{
+"name": "TokTz-Ket-Xil",
+"type": "Shield"
+},
+{
+"name": "Toktz-Mej-Tal",
+"type": "Magic Weapon"
+},
+{
+"name": "Toktz-Xil-Ak",
+"type": "Melee Weapon"
+},
+{
+"name": "Tomato",
+"type": "Raw Ingredient"
+},
+{
+"name": "Tomato Seeds",
+"type": "Seed"
+},
+{
+"name": "Tome of Agility - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Agility - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of Attack - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Attack - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of Construction - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Construction - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of Cooking - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Cooking - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of Farming - Vol 1",
+"type": "Consumable"
+},
+{
+"name": "Tome of Farming - Vol 2",
+"type": "Consumable"
+},
+{
+"name": "Tome of Fishing - Vol 1",
+"type": "Consumable"
+},
+{
+"name": "Tome of Fishing - Vol 2",
+"type": "Consumable"
+},
+{
+"name": "Tome of Magic - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Magic - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of Mining - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Mining - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of Ranged - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Ranged - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of Runecrafting - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Runecrafting - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of Volcano",
+"type": "Tome"
+},
+{
+"name": "Tome of Woodcutting - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of Woodcutting - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of the Artisan - Vol 1",
+"type": "Resource"
+},
+{
+"name": "Tome of the Artisan - Vol 2",
+"type": "Resource"
+},
+{
+"name": "Tome of the Dragon Slayer",
+"type": "Resource"
+},
+{
+"name": "Tome of the Titan",
+"type": "Consumable Tome"
+},
+{
+"name": "Tome of the Undying",
+"type": "Resource"
+},
+{
+"name": "Torch",
+"type": "Tool"
+},
+{
+"name": "Torn Tapestry",
+"type": "Vestige"
+},
+{
+"name": "Twilight Lily",
+"type": "Resource"
+},
+{
+"name": "Twtiching Antenna",
+"type": "Vestige"
+},
+{
+"name": "TzHaar-Ket-Om",
+"type": "Melee Weapon"
+},
+{
+"name": "Ulv's Longbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Umbral Kebab",
+"type": "Food"
+},
+{
+"name": "Umbral Sands Cape",
+"type": "Armour"
+},
+{
+"name": "Undead Bone",
+"type": "Basic Material"
+},
+{
+"name": "Undead Chicken",
+"type": "Quest Item"
+},
+{
+"name": "Undead Delight",
+"type": "Food"
+},
+{
+"name": "Undead Draconic Visage",
+"type": "Quest Item"
+},
+{
+"name": "Undead Meat",
+"type": "Raw Ingredient"
+},
+{
+"name": "Undead Ranger's Bow",
+"type": "Bow"
+},
+{
+"name": "Undead Spade",
+"type": "Tool"
+},
+{
+"name": "Unholy Symbol",
+"type": "Basic Item"
+},
+{
+"name": "Unholy Water",
+"type": "Resource"
+},
+{
+"name": "Unusual Trout",
+"type": "Raw Ingredient"
+},
+{
+"name": "Unyielding Obsidian Construct",
+"type": "Vestige"
+},
+{
+"name": "Vault Core",
+"type": "Basic Item"
+},
+{
+"name": "Vault Shard",
+"type": "Basic Item"
+},
+{
+"name": "Vegan Fryup",
+"type": "Food"
+},
+{
+"name": "Vegetable Soup",
+"type": "Food"
+},
+{
+"name": "Velgar's Head",
+"type": "Quest Item"
+},
+{
+"name": "Vial",
+"type": "Resource"
+},
+{
+"name": "Victoria Sponge Cake",
+"type": "Food"
+},
+{
+"name": "Vile Ashes",
+"type": "Processed Material"
+},
+{
+"name": "Vine Root",
+"type": "Resource"
+},
+{
+"name": "Vis Cloth",
+"type": "Processed Material"
+},
+{
+"name": "Vis Fibres",
+"type": "Processed Material"
+},
+{
+"name": "Warped Feathers",
+"type": "Basic Material"
+},
+{
+"name": "Water Rune",
+"type": "Rune"
+},
+{
+"name": "Watermelon",
+"type": "Resource"
+},
+{
+"name": "Watermelon Jerky",
+"type": "Food"
+},
+{
+"name": "Watermelon Seeds",
+"type": "Seed"
+},
+{
+"name": "Weak Antipoison Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Agility Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Artisan Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Attack Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Construction Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Cooking Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Farming Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Fishing Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Mining Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Runecrafting Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Focused Woodcutting Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Healing Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Lumberjack Potion",
+"type": "Potion"
+},
+{
+"name": "Weak Quarrymaster Potion",
+"type": "Potion"
+},
+{
+"name": "Weapon Barbs",
+"type": "Basic Item"
+},
+{
+"name": "Weapon Poison",
+"type": "Potion"
+},
+{
+"name": "Weeds",
+"type": "Basic Material"
+},
+{
+"name": "Weighted Training Band",
+"type": "Vestige"
+},
+{
+"name": "Wheat",
+"type": "Raw Ingredient"
+},
+{
+"name": "Wheat Seeds",
+"type": "Seed"
+},
+{
+"name": "Whetstone",
+"type": "Basic Item"
+},
+{
+"name": "Whispering Cape",
+"type": "Basic Item"
+},
+{
+"name": "Whispering Elbow Pad",
+"type": "Vestige"
+},
+{
+"name": "White Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "White Desert Cape",
+"type": "Armour"
+},
+{
+"name": "White Full Helm",
+"type": "Melee Armour"
+},
+{
+"name": "White Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "White Platebody",
+"type": "Melee Armour"
+},
+{
+"name": "White Platelegs",
+"type": "Melee Armour"
+},
+{
+"name": "Wild Anima",
+"type": "Basic Item"
+},
+{
+"name": "Wild Archer Body",
+"type": "Ranged Armour"
+},
+{
+"name": "Wild Archer Chaps",
+"type": "Ranged Armour"
+},
+{
+"name": "Wild Archer Cowl",
+"type": "Ranged Armour"
+},
+{
+"name": "Wild Pie",
+"type": "Food"
+},
+{
+"name": "Wild Scout's Shortbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Willow Logs",
+"type": "Resource"
+},
+{
+"name": "Willow Longbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Willow Rod",
+"type": "Tool"
+},
+{
+"name": "Willow Shortbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Willow Tree Seed",
+"type": "Seed"
+},
+{
+"name": "Wither Water",
+"type": "Drink"
+},
+{
+"name": "Withered Heart",
+"type": "Basic Material"
+},
+{
+"name": "Withering Heights Reward Pack",
+"type": "Resource"
+},
+{
+"name": "Wizard Hat",
+"type": "Mage Armour"
+},
+{
+"name": "Wizard Robe Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Wizard Robes",
+"type": "Mage Armour"
+},
+{
+"name": "Wizard's Kneecap",
+"type": "Vestige"
+},
+{
+"name": "Wolfbane Dagger",
+"type": "Melee Weapon"
+},
+{
+"name": "Woodcutting Cape",
+"type": "Basic Item"
+},
+{
+"name": "Wooden Arrow",
+"type": "Arrow"
+},
+{
+"name": "Wooden Club",
+"type": "Melee Weapon"
+},
+{
+"name": "Wooden Shield",
+"type": "Basic Item"
+},
+{
+"name": "Wooden Spade",
+"type": "Tool"
+},
+{
+"name": "Wooden Training Sword",
+"type": "Melee Weapon"
+},
+{
+"name": "Wooden Watering Can",
+"type": "Tool"
+},
+{
+"name": "Woodsman Ring",
+"type": "Basic Item"
+},
+{
+"name": "Wool Cloth",
+"type": "Processed Material"
+},
+{
+"name": "Wool Net",
+"type": "Tool"
+},
+{
+"name": "Wool Thread",
+"type": "Basic Item"
+},
+{
+"name": "Yellow Adventurer's Cape",
+"type": "Basic Item"
+},
+{
+"name": "Yellow Desert Cape",
+"type": "Armour"
+},
+{
+"name": "Yellow Dyad Cape",
+"type": "Armour"
+},
+{
+"name": "Yellow Hex Cape",
+"type": "Armour"
+},
+{
+"name": "Yellow Memory of Menaphos",
+"type": "Vestige"
+},
+{
+"name": "Yellow Torch",
+"type": "Tool"
+},
+{
+"name": "Yew Logs",
+"type": "Resource"
+},
+{
+"name": "Yew Longbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Yew Plank",
+"type": "Resource"
+},
+{
+"name": "Yew Rod",
+"type": "Tool"
+},
+{
+"name": "Yew Shortbow",
+"type": "Ranged Weapon"
+},
+{
+"name": "Yew Tree Seed",
+"type": "Seed"
+},
+{
+"name": "Zamorak Cape",
+"type": "Basic Item"
+},
+{
+"name": "Zamorak Hood",
+"type": "Mage Armour"
+},
+{
+"name": "Zamorak Robe Legs",
+"type": "Mage Armour"
+},
+{
+"name": "Zamorak Robes",
+"type": "Mage Armour"
+},
+{
+"name": "Zamorak Staff",
+"type": "Magic Weapon"
+},
+{
+"name": "Zamorakian Mage Pack",
+"type": "Container"
+},
+{
+"name": "Zamorakian Warrior Pack",
+"type": "Container"
+},
+{
+"name": "Zogre Pack",
+"type": "Container"
+},
+{
+"name": "Zombie Arm",
+"type": "Melee Weapon"
+},
+{
+"name": "Zombie Axe",
+"type": "Melee Weapon"
+},
+{
+"name": "Zombie Pack",
+"type": "Container"
+}
+]

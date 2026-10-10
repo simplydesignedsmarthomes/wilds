@@ -8630,7 +8630,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "* Abyssal Snare (50) Launches DEMONIC ENERGY that homes in on a target, dealing DAMAGE and KNOCKING them DOWN * Barbed Attacks' build up Bleed on Enemies. (25) * Reckless Can BLOCK using UNARMED BLOCK"
+              "value": "* Abyssal Snare (50) Launches DEMONIC ENERGY that homes in on a target, dealing DAMAGE and KNOCKING them DOWN * Barbed Attacks' build up Bleed on Enemies. (25) * Reckless Can only BLOCK using UNARMED BLOCK"
             },
             {
               "label": "Durability",
@@ -10542,7 +10542,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The hunter stagbow is a power level 4 longbow that can be crafted at a fletching bench. The recipe is learned by consuming a string of sinew, a vestige dropped by garou hunters with a 3/100 drop chance. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is 10% increased draw speed, making this weapon draw faster than other longbows.\n\nThis weapon also has slightly higher base damage than other longbows, making this, in combination with the draw time reduction, the ideal longbow to ascend for players wishing to focus on pure damage, though Ulv's Longbow will still be better for the first shot due to its special effect.\n\nWhen repairing this bow, 3 Antlers are required at a Fletching workbench.\n\n(Journal)\nGahl was a garou druid who lost everyone he knew. In the wars inflicted on his people by the other races of Ashenfall, he grew jaded with the cruelty he saw all around him. This reached its peak when he found a garou village in ruins and goblins dancing and laughing as they threatened a newly born pup, in her crib.\n\nThe village is gone now, dragged beneath the soil. Gahl’s vengeance unleashed upon the goblins, erasing them from existence. He took the child as his own and raised her in a way alien to his people – he raised her with love.\n\nShe had no talent for magic, and could not learn his druid spells, so he taught her how to hunt with a bow, and she was a natural. Dahnu, as he named her, made a bow out of the first deer she and her father had hunted and that bow became a symbol to all she encountered.\n\nIn time she would claim a king’s seat. Defeating the prior monarch with reason and wit. Charming him out of his power and offering her people another way.\n\nHer people thrived, making her father proud.\n\nUntil Velgar brought her reign to an end."
+          "description": "The hunter stagbow is a power level 4 longbow that can be crafted at a fletching bench. The recipe is learned by consuming a string of sinew, a vestige dropped by garou hunters with a 3/100 drop chance. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect reads \"Increased DAMAGE, Reduced DRAW SPEED.\" This has been changed twice since it was introduced: At first, it said “+10% Draw Speed Reduction” then it was changed to “+10% Draw Speed,” before it was changed to what it reads now, however it continues to draw and fire faster than other longbows, despite the special effect's description. It's clear that the developer's intention is for this weapon to hit harder but slower, however that is not yet the case.\n\nThe increased damage is also far less than it used to be: Previously, it reached 152 base damage at power level 7 (compared to 100 and 102 for Ulv's Longbow and the Bow of Elidinis), however now it is a mere 2 base damage higher at power level 8 at 120 compared to 118 for the other two. That being said, as long as it continues to fire faster, this will remain the ideal longbow to ascend for players wishing to focus on sustained damage over time in longer fights, although Ulv's Longbow will still be better for the first shot due to its special effect, and the Bow of Elidinis' water damage and special attack remain interesting where effective.\n\n(Journal)\nGahl was a garou druid who lost everyone he knew. In the wars inflicted on his people by the other races of Ashenfall, he grew jaded with the cruelty he saw all around him. This reached its peak when he found a garou village in ruins and goblins dancing and laughing as they threatened a newly born pup, in her crib.\n\nThe village is gone now, dragged beneath the soil. Gahl’s vengeance unleashed upon the goblins, erasing them from existence. He took the child as his own and raised her in a way alien to his people – he raised her with love.\n\nShe had no talent for magic, and could not learn his druid spells, so he taught her how to hunt with a bow, and she was a natural. Dahnu, as he named her, made a bow out of the first deer she and her father had hunted and that bow became a symbol to all she encountered.\n\nIn time she would claim a king’s seat. Defeating the prior monarch with reason and wit. Charming him out of his power and offering her people another way.\n\nHer people thrived, making her father proud.\n\nUntil Velgar brought her reign to an end."
         },
         "stations": [
           "Fletching Bench"
@@ -17308,7 +17308,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The necromancer's crown is a power level 5 magic armour that can be created at an armour bench. It can be unlocked by purchasing the Curse Carrying Crown in Death's Exchange.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nThe first set of dark mage robes were so named because the technique to craft them required cloth that had been dyed by a unique alchemical mixture. As the years passed and Guthix introduced runes, the mixture was replaced with subtle enchantments, though the appearance was kept the same for tradition’s sake.\n\nNaturally, many practitioners of magic preferred this armour because of its darker aesthetic. Indeed, many rogue “dark wizards” would don this armour and use magic to engage in sinister undertakings, earning this armour’s moniker a more sinister meaning."
+          "description": "The necromancer's crown is a power level 5 magic armour that can be created at an armour bench. It can be unlocked by purchasing the Curse Carrying Crown in Death's Exchange.\n\n(Journal)\nThose who wield the power over life and death have a tendency to crave control. They need to manage things in their life on a pathological level, and this need often grows into a desire to manage the lives of everyone else.\n\nThe most well known necromancer in Fellhollow was a man called Calius Waithe. He was one of the Children of Shadows until he decided that their policies of peacful evil wasn't what he was looking for. He was more an overtly evil sort of guy.\n\nHe decided, on one fateful autumnal eve, to raise an army of the undead and march them on Emberwood. He imagined the village cowering before him as he named himself their new king."
         },
         "stations": [
           "Armour Bench"
@@ -17425,7 +17425,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Necromancer's robe bottom are a power level 5 magic armour that can be created at an armour bench. It plays a role in completing the What Remains is Written quest.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nThe most infamous dark wizards became a fairytale for the people of Brynmoor, a cautionary tale about greed and the desire for power. They sought power in the darkest of places, and it turned them into something monstrous.\n\nThey appeared in the village in the dead of night as twisted versions of themselves - mindless creatures infused with a shadowy essence. Those who found themselves in their path had their lives ripped out of them until nought but an empty husk remained.\n\nIt took all the visiting Wild Knights to take them down. Arrow after arrow, spell after spell, the task seemed almost insurmountable until the light of the sun made the creatures vulnerable. In their death throws, it was as if some horrible chill fell across the world as if a door somewhere had been opened into somewhere it shouldn’t."
+          "description": "Necromancer's robe bottom are a power level 5 magic armour that can be created at an armour bench. It plays a role in completing the What Remains is Written quest.\n\n(Journal)\nFaced with humiliation of villagers not fleeing in terror, the necromancer Callius Waithe was forced to use more harrowing tactics. He grabbed a jar of oil from a nearby blacksmith and threw it over his skeletal minions, and then he set them aflame. For what could be more terrifying than the shambling dead? Why, the shambling burning dead, of course!\n\nThis did cause the panic he wanted. Villagers fled the flames quickly, running to the wells in case of the inevitably flaming spread. Spread it did, for while the skeletons themselves did not burn, the oil covering them erupted into excited tongues of flame. Callius laughed at his evil genius, until the flames spread beyond the means of his control.\n\nIt is said that on autumn evenings, when the moon is full, the ghost of Callius can be seen screaming in the village, running through the streets trying to put out spectral flames."
         },
         "stations": [
           "Armour Bench"
@@ -17542,7 +17542,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Necromancer's robe top is a power level 5 magic armour that can be created at an armour bench after studying the vestige, remnants of a rotting robe. It plays a role in completing the What Remains is Written quest.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nBrynmoor had a string of so-called “dark wizards.” Most were little more than bandits with a penchant for magic. The guards were enough to deal with most troublemakers, but a small group of them caused real trouble.They were members of the “Children of Shadows”, a Zamorakian cult that began to spread through the population. The cult fed on distrust, paranoia and greed, some very human traits. Among this number were three apprentices of the wizard’s guild, who were frustrated that they were not given the promotions they felt they deserved.\n\nIn their quest for power, the ‘Children of Shadows’ stumbled upon ancient vaults, repositories of the dragonkin’s long-forgotten secrets. Here, they discovered the remnants of a forbidden text, a relic of immense power. Driven by their arrogance, they chose to follow its instructions, unaware of the horrors they were about to unleash."
+          "description": "Necromancer's robe top is a power level 5 magic armour that can be created at an armour bench after studying the vestige, remnants of a rotting robe. It plays a role in completing the What Remains is Written quest.\n\n(Journal)\nCallius Waithe created an army of the undead and marched them on Emberwood. Or, rather, he called his shambling little horde an army, even though it consisted only of five skeletons in various degrees of disrepair.\n\nThe village guard took aim at the skeletons, but their arrows lacked the strength to shatter bone, and Callius marched them through the gates with barely any opposition. Still, once he had made it through, he was not met with the terror he had hoped for. While shambling skeletons were certainly a fright that caused much shock, their limited number helped mitigate the terror.\n\nA small child even giggled and tried to offer one skeleton an apple. An act that filled Callius with unreasonable rage."
         },
         "stations": [
           "Armour Bench"
@@ -21638,7 +21638,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Desert robes are a power level 7 magic armour that can be crafted at an armour bench. The recipe is unlocked by purchasing and using the sun-bleached vest vestige from Beartach - The Merchant.\n\n(Journal)\nThe desert is a cruel and unforgiving place, and that was before Fuzan corrupted the sun against it. Dry air, filled with sand particles, leech all moisture from the body, leaving you dehydrated, exhausted and with no respite in view. Oases can be mirages, tricks played by the dunes to lure you deeper into your own destruction. These robes help to limit some of the desert’s power, through ancient tricks learned by those who have dwelled within the dunes for generations.\n\nThese simple leggings are all that stands between you and obliteration by a sandstorm. Sand can be sharp, it can be abrasive and, given time, it can wear a person down to nothing but the memory of them in another person’s mind.\n\nCloth won’t stop that, not really, but it will delay the obliteration long enough for you to get to shelter when the worst of the storm hits. You’ll still want to run, though."
+          "description": "Desert robes are a power level 7 magic armour that can be crafted at an armour bench. The recipe is unlocked by purchasing and using the sun-bleached vest vestige from Beartach - The Merchant.\n\n(Journal)\nThe desert is a cruel and unforgiving place, and that was before Fuzan corrupted the sun against it. Dry air, filled with sand particles, leech all moisture from the body, leaving you dehydrated, exhausted and with no respite in view. Oases can be mirages, tricks played by the dunes to lure you deeper into your own destruction. These robes help to limit some of the desert’s power, through ancient tricks learned by those who have dwelled within the dunes for generations.\n\nRobes are freeing, allowing the body to breathe and allowing moisture to evaporate, cooling you down. They're also easy to brush down, expelling sand that has crept its way into all the most uncomfortable parts.\n\nThis desert outfit was apparently passed down to the Moon Garou by the River Mother, who brought the lessons she had learned from her own deserts with her. She taught them how to craft them, how to fold the patterns for best effect and she taught the Moon Garou how to dance in them.\n\nOn rare festivals, the Moon Garou will attach ribbons, bells and obsidian glass shards to their robes. When they dance it creates a glorious swirling medley of colour, sound and glittering sparkles."
         },
         "stations": [
           "Armour Bench"
@@ -23861,7 +23861,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -26604,11 +26604,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "PARRYING causes POISON build up on enemies."
+              "value": "* VELGAR'S VENGEANCE PARRYING releases a BURST OF POISON that inflicts POISON build up on NEARBY enemies. * DRAGON BREATH RESISTANCE BLOCKING prevents incoming DRAGON BREATH DAMAGE"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -26666,7 +26666,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The dragonblight shield is a power level 4 masterwork shield that can be crafted at a blacksmith's bench after obtaining a noxious draconic visage from the Dragon Slayer reward pack by completing Dragon Slayer or from turning in Velgar's head to the Wise Old Man afterwards. One of the required materials is an anti-dragon shield and one is included in the reward pack. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect causes a cloud of poison to appear after a parry that only affects enemies. The damage per tick is based on the power level of the shield, dealing 4 damage per tick at power level 4, 5 at power level 5, and 6 at power level 6 and 7. This damage ticks 15 times, once per second, and the effect has an internal cooldown of 20 seconds. This damage does not interrupt a stagger caused by a parry. Despite not being listed, this shield also has Dragon Breath Resistance, the special effect of the anti-dragon shield, which provides the ability to block dragon fire.\n\nVenomous Trapper (the upgrade for Snare) is available at any time - once unlocked - for a few runes, and can also hold enemies in place, with only a 60 second cooldown. It applies the highest 6 damage per tick poison damage that the power level 6 and 7 shield do, and they do not stack. Neither stack with poisoned arrows or with weapon poison applied to a melee weapon, so this shield is in competition with a variety of other, more readily available sources of poison. It is, however, free, with the shorter cooldown when compared to Snare, and most notably does not interfere with staggers caused by parries, allowing the player to either riposte that target, deal with other targets, or make space.\n\n(Journal)\nStrange magics have transformed the head of a tyrant into a mystical adornment to this powerful shield. It is still strong, still durable and resists the fury of dragons, but now the shield seethes with Velgar's wrath.\n\nThe magic of the shield is twisted into a bitter poison. One that yearns to strike and rage against any in its path. In battle, it's possible to turn this poison on one's enemies, afflicting them with a dragon's hate.\n\nSometimes, in the dark, when the night is silent, it's as if the shield whispers angry curses into the darkness. As if the last vestiges of Velgar's fury are carried on the wind as hateful poison."
+          "description": "The dragonblight shield is a power level 4 masterwork shield that can be crafted at a blacksmith's bench after obtaining a noxious draconic visage from the Dragon Slayer reward pack by completing Dragon Slayer or from turning in Velgar's head to the Wise Old Man afterwards. One of the required materials is an anti-dragon shield and one is included in the reward pack. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect causes a cloud of poison to appear after a parry that only affects enemies. The damage per tick is based on the power level of the shield, dealing 4 damage per tick at power level 4, 5 at power level 5, and 6 at power level 6 and 7, and 7 at power level 8. This damage ticks 15 times, once per second, and the effect has an internal cooldown of 20 seconds. This damage does not interrupt a stagger caused by a parry. Despite not being listed, this shield also has Dragon Breath Resistance, the special effect of the anti-dragon shield, which provides the ability to block dragon fire.\n\nVenomous Trapper (the upgrade for Snare) is available at any time - once unlocked - for a few runes, and can also hold enemies in place, with only a 60 second cooldown. It applies the highest 6 damage per tick poison damage that the power level 6 and 7 shield do, and they do not stack. Neither stack with poisoned arrows or with weapon poison applied to a melee weapon, so this shield is in competition with a variety of other, more readily available sources of poison. It is, however, free, with the shorter cooldown when compared to Snare, and most notably does not interfere with staggers caused by parries, allowing the player to either riposte that target, deal with other targets, or make space.\n\n(Journal)\nStrange magics have transformed the head of a tyrant into a mystical adornment to this powerful shield. It is still strong, still durable and resists the fury of dragons, but now the shield seethes with Velgar's wrath.\n\nThe magic of the shield is twisted into a bitter poison. One that yearns to strike and rage against any in its path. In battle, it's possible to turn this poison on one's enemies, afflicting them with a dragon's hate.\n\nSometimes, in the dark, when the night is silent, it's as if the shield whispers angry curses into the darkness. As if the last vestiges of Velgar's fury are carried on the wind as hateful poison."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -26700,11 +26700,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "PARRYING sends a GHOSTLY CLAW forwards and DAMAGES enemies"
+              "value": "* IMARU'S RETRIBUTION PARRYING sends a GHOSTLY CLAW forwards and DAMAGES enemies * DRAGON BREATH RESISTANCE BLOCKING prevents incoming DRAGON BREATH DAMAGE"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -26790,7 +26790,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Power level",
-              "value": "7"
+              "value": "8"
             },
             {
               "label": "Released",
@@ -26802,11 +26802,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "FUZAN'S FURY PARRYING launches a burst of lava forwards. This will detonate on impact dealing DAMAGE and BURNING build up."
+              "value": "* FUZAN'S FURY PARRYING launches a BURST OF LAVA that detonates on impact, dealing DAMAGE and inflicting BURNING build up * DRAGON BREATH RESISTANCE BLOCKING prevents incoming DRAGON BREATH DAMAGE"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Repair cost",
@@ -26972,11 +26972,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "Increased block value."
+              "value": "Increased DEFENSE"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -27630,12 +27630,12 @@ window.WILDS_STORAGE = [
               "value": "Basic Item"
             },
             {
-              "label": "Power level",
-              "value": "N/A"
-            },
-            {
               "label": "Released",
               "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+            },
+            {
+              "label": "Special effect",
+              "value": "* Burning Endurance Receiving or blocking DAMAGE has a chance to triggering BURNING on your attacker. Melee KILLS on BURNING enemies refill STAMINA."
             },
             {
               "label": "Melee defence",
@@ -27648,10 +27648,6 @@ window.WILDS_STORAGE = [
             {
               "label": "Magic defence",
               "value": "+4"
-            },
-            {
-              "label": "Set bonus 1",
-              "value": "Burning Endurance - Receiving or blocking DAMAGE has a chance to triggering BURNING on your attacker. Melee KILLS on BURNING enemies refill STAMINA."
             },
             {
               "label": "Weight",
@@ -31829,12 +31825,8 @@ window.WILDS_STORAGE = [
               "value": "60"
             },
             {
-              "label": "Special effect",
-              "value": "Slightly increased MELEE CRIT DAMAGE Reduced DAMAGE NEGATION"
-            },
-            {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Repair cost",
@@ -59459,6 +59451,12 @@ window.WILDS_STORAGE = [
               "station": "Fletching Bench"
             },
             {
+              "name": "Poisoned Steel Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Steel_Arrow.png?013aa",
+              "station": "Fletching Bench"
+            },
+            {
               "name": "Poisoned Mithril Arrow",
               "qty": 33,
               "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Mithril_Arrow.png?abce6",
@@ -59474,12 +59472,6 @@ window.WILDS_STORAGE = [
               "name": "Poisoned Rune Arrow",
               "qty": 33,
               "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Rune_Arrow.png?0fa13",
-              "station": "Fletching Bench"
-            },
-            {
-              "name": "Poisoned Steel Arrow",
-              "qty": 33,
-              "img": "https://dragonwilds.runescape.wiki/images/Poisoned_Steel_Arrow.png?013aa",
               "station": "Fletching Bench"
             }
           ],
@@ -71725,9 +71717,14 @@ window.WILDS_STORAGE = [
               ],
               "materials": [
                 {
-                  "name": "Dragonwolf Hide",
+                  "name": "Hard Leather",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather.png?d4d9c"
+                },
+                {
+                  "name": "Dragon Blood",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dragonwolf_Hide.png?b634c"
+                  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Blood.png?8f0c1"
                 }
               ],
               "output": {
@@ -71747,14 +71744,9 @@ window.WILDS_STORAGE = [
               ],
               "materials": [
                 {
-                  "name": "Hard Leather",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather.png?d4d9c"
-                },
-                {
-                  "name": "Dragon Blood",
+                  "name": "Dragonwolf Hide",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Blood.png?8f0c1"
+                  "img": "https://dragonwilds.runescape.wiki/images/Dragonwolf_Hide.png?b634c"
                 }
               ],
               "output": {
@@ -73389,11 +73381,6 @@ window.WILDS_STORAGE = [
               "source": "Chest (Umbral Sands)",
               "qty": "2-3",
               "rarity": "1.46/100"
-            },
-            {
-              "source": "Barrel Cactus (Farming)",
-              "qty": "5",
-              "rarity": "Always"
             }
           ],
           "shops": [],
@@ -92140,6 +92127,11 @@ window.WILDS_STORAGE = [
               "source": "Barrel Cactus",
               "qty": "2-3",
               "rarity": "Always"
+            },
+            {
+              "source": "Barrel Cactus (Farming)",
+              "qty": "5",
+              "rarity": "Always"
             }
           ],
           "shops": [],
@@ -95170,7 +95162,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Wheat is a power level 2 raw ingredient. It can be harvested from wheat (farming) after it has fully grown. Wheat seeds can be used in a farming plot to grow the source plant.\n\n(Journal)\nThese humble grains are the staple of many a burgeoning society. Breads, cakes, pastries and all manner of delicious foodstuffs can be forged from these marvellous stalks."
+          "description": "Wheat is a power level 2 raw ingredient. It can be harvested from wheat (farming) after it has fully grown. Wheat seeds can be used in any farming plot to grow the source plant, but planting the Wheat seeds in a Ash Farming Plot will decrease the chance of disease.\n\n(Journal)\nThese humble grains are the staple of many a burgeoning society. Breads, cakes, pastries and all manner of delicious foodstuffs can be forged from these marvellous stalks."
         },
         "step": 0
       },
@@ -100390,11 +100382,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "14"
+              "value": "14-34"
             },
             {
-              "label": "Additional damage",
-              "value": "11-24"
+              "label": "Damage multiplier",
+              "value": "1.4"
+            },
+            {
+              "label": "Special effect",
+              "value": "Bleed"
             },
             {
               "label": "Weight",
@@ -100561,15 +100557,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Damage type",
-              "value": "Arrow"
+              "value": "Fire"
             },
             {
-              "label": "Additional damage",
-              "value": "11-24"
+              "label": "Base damage",
+              "value": "14-34"
             },
             {
               "label": "Damage multiplier",
               "value": "1.4"
+            },
+            {
+              "label": "Special effect",
+              "value": "Burning"
             },
             {
               "label": "Weight",
@@ -100709,7 +100709,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Enchanted bronze bolts are an upgradeable version of bronze bolts unlocked at level 35 Ranged. Upon creation, there is a 15% chance of the stack of bolts being enchanted with 10% air magic damage and up to 16 damage towards the enemy via the Shocked debuff.\n\n(Journal)\nMagic was never enough. Oh, sure, you could change bones into delicious peaches, you could summon water out of thin air, you could call down fire upon your foes and laugh as their flesh turns to ash (if you’re that way inclined). Yet, even so, it was never enough. There was always more death to deal, more damage to inflict, more pain to spread and the priests of Brynmoor wanted more of it.\n\nThey wanted to see the garou crushed. Wanted to see them begging as the last of their pups expired beneath Saradomin’s purifying flame. So, they commissioned the wizards and alchemists to find new and innovative ways to summon suffering.\n\nCrossbow bolts proved to be an interesting revelation. By affixing gemstones to the tips of these weapons, not only could they inflict deadly wounds on their enemies, but they could also inflict debilitating pain so powerful that the opponent would be stunned, making the next attack much easier.\n\nThe priests were very happy with this discovery. The so called “heretics” within Brynmoor were less so."
+          "description": "Enchanted bronze bolts are an upgradeable version of bronze bolts unlocked at level 35 Ranged.\n\nThe bolts have a 15% chance to trigger a lightning explosion around a target. This lightning explosion deals 10 air magic damage to enemies within a 4.5 meter radius and applies the Shocked debuff.\n\n(Journal)\nMagic was never enough. Oh, sure, you could change bones into delicious peaches, you could summon water out of thin air, you could call down fire upon your foes and laugh as their flesh turns to ash (if you’re that way inclined). Yet, even so, it was never enough. There was always more death to deal, more damage to inflict, more pain to spread and the priests of Brynmoor wanted more of it.\n\nThey wanted to see the garou crushed. Wanted to see them begging as the last of their pups expired beneath Saradomin’s purifying flame. So, they commissioned the wizards and alchemists to find new and innovative ways to summon suffering.\n\nCrossbow bolts proved to be an interesting revelation. By affixing gemstones to the tips of these weapons, not only could they inflict deadly wounds on their enemies, but they could also inflict debilitating pain so powerful that the opponent would be stunned, making the next attack much easier.\n\nThe priests were very happy with this discovery. The so called “heretics” within Brynmoor were less so."
         },
         "stations": [
           "Fletching Bench"
@@ -100742,12 +100742,16 @@ window.WILDS_STORAGE = [
               "value": "Arrow"
             },
             {
-              "label": "Additional damage",
-              "value": "11-24"
+              "label": "Base damage",
+              "value": "14-34"
             },
             {
               "label": "Damage multiplier",
               "value": "1.4"
+            },
+            {
+              "label": "Special effect",
+              "value": "Poison"
             },
             {
               "label": "Weight",
@@ -101026,12 +101030,16 @@ window.WILDS_STORAGE = [
               "value": "Arrow"
             },
             {
-              "label": "Additional damage",
+              "label": "Base damage",
               "value": "20-48"
             },
             {
               "label": "Damage multiplier",
               "value": "2.0"
+            },
+            {
+              "label": "Special effect",
+              "value": "Bleed"
             },
             {
               "label": "Weight",
@@ -101198,15 +101206,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Damage type",
-              "value": "Arrow"
+              "value": "Fire"
             },
             {
-              "label": "Additional damage",
-              "value": "16-34"
+              "label": "Base damage",
+              "value": "20-48"
             },
             {
               "label": "Damage multiplier",
               "value": "2.0"
+            },
+            {
+              "label": "Special effect",
+              "value": "Burning"
             },
             {
               "label": "Weight",
@@ -101276,7 +101288,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Power level",
-              "value": "3"
+              "value": "4"
             },
             {
               "label": "Released",
@@ -101287,12 +101299,16 @@ window.WILDS_STORAGE = [
               "value": "Arrow"
             },
             {
-              "label": "Additional damage",
-              "value": "16-34"
+              "label": "Base damage",
+              "value": "20-48"
             },
             {
               "label": "Damage multiplier",
               "value": "2.0"
+            },
+            {
+              "label": "Special effect",
+              "value": "Poison"
             },
             {
               "label": "Weight",
@@ -101472,7 +101488,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "22-46"
+              "value": "27-65"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "2.7"
+            },
+            {
+              "label": "Special effect",
+              "value": "Poison"
             },
             {
               "label": "Weight",
@@ -101555,6 +101579,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "27-65"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "2.7"
             },
             {
               "label": "Weight",
@@ -101666,7 +101694,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "22-46"
+              "value": "27-65"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "2.7"
+            },
+            {
+              "label": "Special effect",
+              "value": "Bleed"
             },
             {
               "label": "Weight",
@@ -101833,11 +101869,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Damage type",
-              "value": "Arrow"
+              "value": "Fire"
             },
             {
               "label": "Base damage",
-              "value": "22"
+              "value": "27-65"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "2.7"
+            },
+            {
+              "label": "Special effect",
+              "value": "Burning"
             },
             {
               "label": "Weight",
@@ -101885,7 +101929,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Steel fire arrows are only accessible in the cache and are not present in the game.\n\n(Journal)\nSome people just want to watch the world burn! Some people want to watch the world burn, but have thought through the logistics of fire and so decided to set the world aflame from a distance. These arrows are popular among the latter category."
+          "description": "Steel fire arrows are power level 5 ammunition crafted on the fletching bench.\n\n(Journal)\nSome people just want to watch the world burn! Some people want to watch the world burn, but have thought through the logistics of fire and so decided to set the world aflame from a distance. These arrows are popular among the latter category."
         },
         "stations": [
           "Fletching Bench"
@@ -102014,6 +102058,10 @@ window.WILDS_STORAGE = [
               "value": "34-82"
             },
             {
+              "label": "Damage multiplier",
+              "value": "3.4"
+            },
+            {
               "label": "Weight",
               "value": "0.0 kg"
             },
@@ -102116,8 +102164,16 @@ window.WILDS_STORAGE = [
               "value": "Arrow"
             },
             {
+              "label": "Base damage",
+              "value": "34-82"
+            },
+            {
               "label": "Damage multiplier",
               "value": "3.4"
+            },
+            {
+              "label": "Special effect",
+              "value": "Bleed"
             },
             {
               "label": "Weight",
@@ -102284,11 +102340,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Damage type",
-              "value": "Arrow"
+              "value": "Fire"
+            },
+            {
+              "label": "Base damage",
+              "value": "34-82"
             },
             {
               "label": "Damage multiplier",
               "value": "3.4"
+            },
+            {
+              "label": "Special effect",
+              "value": "Burning"
             },
             {
               "label": "Weight",
@@ -102369,8 +102433,16 @@ window.WILDS_STORAGE = [
               "value": "Arrow"
             },
             {
+              "label": "Base damage",
+              "value": "34-82"
+            },
+            {
               "label": "Damage multiplier",
               "value": "3.4"
+            },
+            {
+              "label": "Special effect",
+              "value": "Poison"
             },
             {
               "label": "Weight",
@@ -102453,6 +102525,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "42-101"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "4.2"
             },
             {
               "label": "Weight",
@@ -102557,8 +102633,16 @@ window.WILDS_STORAGE = [
               "value": "Arrow"
             },
             {
+              "label": "Base damage",
+              "value": "42-101"
+            },
+            {
               "label": "Damage multiplier",
               "value": "4.2"
+            },
+            {
+              "label": "Special effect",
+              "value": "Bleed"
             },
             {
               "label": "Weight",
@@ -102725,11 +102809,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Damage type",
-              "value": "Arrow"
+              "value": "Fire"
+            },
+            {
+              "label": "Base damage",
+              "value": "42-101"
             },
             {
               "label": "Damage multiplier",
               "value": "4.2"
+            },
+            {
+              "label": "Special effect",
+              "value": "Burning"
             },
             {
               "label": "Weight",
@@ -102902,8 +102994,16 @@ window.WILDS_STORAGE = [
               "value": "Arrow"
             },
             {
+              "label": "Base damage",
+              "value": "42-101"
+            },
+            {
               "label": "Damage multiplier",
               "value": "4.2"
+            },
+            {
+              "label": "Special effect",
+              "value": "Poison"
             },
             {
               "label": "Weight",
@@ -103077,7 +103177,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "+42-101"
+              "value": "42-101"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "4.2"
+            },
+            {
+              "label": "Special effect",
+              "value": "Poison"
             },
             {
               "label": "Weight",
@@ -103159,7 +103267,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "+42-101"
+              "value": "42-101"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "4.2"
             },
             {
               "label": "Weight",
@@ -103265,7 +103377,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "+42-101"
+              "value": "42-101"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "4.2"
+            },
+            {
+              "label": "Special effect",
+              "value": "Bleed"
             },
             {
               "label": "Weight",
@@ -103436,7 +103556,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "+42-101"
+              "value": "42-101"
+            },
+            {
+              "label": "Damage multiplier",
+              "value": "4.2"
+            },
+            {
+              "label": "Special effect",
+              "value": "Burning"
             },
             {
               "label": "Weight",
@@ -110654,7 +110782,20 @@ window.WILDS_STORAGE = [
             }
           ],
           "sources": [],
-          "shops": [],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "buy",
+              "cost": 500,
+              "currency": "Garou Chit"
+            },
+            {
+              "seller": "Domri - The Merchant",
+              "mode": "buy",
+              "cost": 500,
+              "currency": "Garou Chit"
+            }
+          ],
           "perks": [],
           "description": "Garou artefact is an item found in Umbral Sands. It can be sold to the merchants Domri, Beartach and Iasadair for 500 garou chits. Garou artefact can also be used to craft Lunar Robes.\n\n(Journal)\nLost remnants of the Old Kingdom, the desert civilisation created by the Moon Garou before it was destroyed by Fuzan. These antiques are pieces of history for the Moon Garou and vendors will be happy to purchase them, for a very fair price."
         },

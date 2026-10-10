@@ -438,7 +438,9 @@ body.map-overlay-open{overflow:hidden}
 .mat-chip-noimg{width:22px;height:22px;display:flex;align-items:center;justify-content:center;flex-shrink:0;color:var(--text3);font-size:11px}
 .recipe-card{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.5rem .6rem;margin-top:.4rem}
 .recipe-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.2rem .6rem}
-.recipe-station{font-family:var(--head);font-weight:700;font-size:13px;color:var(--gold)}
+.recipe-station{font-family:var(--head);font-weight:700;font-size:13px;color:var(--gold);display:inline-flex;align-items:center;gap:.4rem}
+.construct-icon{width:22px;height:22px;object-fit:contain;flex-shrink:0}
+.construct-icon-noimg{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;background:var(--panel3);border-radius:5px;font-size:11px;color:var(--text3)}
 .recipe-xp{font-size:12px;color:var(--text3)}
 .recipe-note{font-size:12px;color:var(--text3);margin-top:.35rem}
 .info-list{display:grid;gap:.3rem;margin-top:.3rem}
@@ -509,6 +511,7 @@ body.map-overlay-open{overflow:hidden}
 <script src="quest-walkthroughs.js" onerror="this.remove()"></script>
 <script src="quest-maps.js" onerror="this.remove()"></script>
 <script src="updates.js" onerror="this.remove()"></script>
+<script src="construction.js" onerror="this.remove()"></script>
 <script src="storage.js"></script>
 <script>
 (function(){
@@ -646,6 +649,9 @@ body.map-overlay-open{overflow:hidden}
   // more crafting stations and see everything makeable there, combined).
   var storageView = "station";
   var selectedStations = {};
+  // Which Construction category (Roofs & walls, Furniture, ...) is expanded
+  // under the Construction box on Progress.
+  var openConstructionGroup = null;
 
   // ---------- view state ----------
   // Progress is the app's home now - there's no separate landing screen to
@@ -964,6 +970,47 @@ body.map-overlay-open{overflow:hidden}
     return subGrid + panel;
   }
 
+  // ---------- tracker: construction ----------
+  // Everything placeable from the game's own Build Menu - stations,
+  // structure pieces, furniture, decorations - grouped for browsing, with
+  // the materials each one costs. Reuses itemChip() for the material icons,
+  // the same chip the Items tab's recipes use, and .recipe-card for the
+  // per-build layout, so it looks and feels like the rest of the app
+  // instead of a bolted-on list. See .research/fetch_construction_data.py.
+  function constructionGroupBox(g){
+    var open = openSub === "construction:"+g.key;
+    return '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-subbox="construction:'+esc(g.key)+'">'+
+      '<span class="tk-subbox-label">'+esc(g.label)+'</span>'+
+      '<span class="tk-subbox-stat">'+g.items.length+'</span>'+
+      '<span class="tk-subbox-sub">buildable</span>'+
+      '</button>';
+  }
+  function constructionItemCardHtml(it){
+    var xp = (it.skills || []).map(function(s){ return esc(s.name)+(s.xp ? ' '+esc(String(s.xp))+' XP' : ''); }).join(", ");
+    var icon = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy" class="construct-icon">' : '<span class="construct-icon construct-icon-noimg">?</span>';
+    return '<div class="recipe-card"><div class="recipe-head"><span class="recipe-station">'+icon+esc(it.name)+'</span>'+
+      (xp ? '<span class="recipe-xp">'+xp+'</span>' : '')+'</div>'+
+      (it.materials.length
+        ? '<div class="mat-chips">'+it.materials.map(itemChip).join("")+'</div>'
+        : '<div class="recipe-note">No materials needed.</div>')+
+      '</div>';
+  }
+  function constructionTotal(){
+    return (window.WILDS_CONSTRUCTION || []).reduce(function(s, g){ return s + g.items.length; }, 0);
+  }
+  function constructionBlock(){
+    var groups = window.WILDS_CONSTRUCTION || [];
+    if (!groups.length) return '<div class="note">Not catalogued yet.</div>';
+    var grid = '<div class="tk-subgrid">'+groups.map(constructionGroupBox).join("")+'</div>';
+    var panel = "";
+    if (openSub && openSub.indexOf("construction:") === 0){
+      var key = openSub.slice("construction:".length);
+      var g = groups.filter(function(x){ return x.key === key; })[0];
+      if (g) panel = '<div class="tk-subpanel"><h4>'+esc(g.label)+'</h4>'+g.items.map(constructionItemCardHtml).join("")+'</div>';
+    }
+    return grid + panel;
+  }
+
   // ---------- tracker: sync + backup ----------
   var ALPHA = "ABCDEFGHJKMNPQRSTUVWXYZ23456789";
   function newCode(){
@@ -1040,11 +1087,13 @@ body.map-overlay-open{overflow:hidden}
     var grid = '<div class="tk-grid">'+
       tkBox("skills", "Skills", sk.done+" / "+sk.total, "Total level", Math.round(sk.done/sk.total*100), "boxStatSkills", "boxBarSkills")+
       tkBox("quests", "Quests", qt.done+" / "+qt.total, "Completed", Math.round(qt.done/qt.total*100))+
+      tkBox("construction", "Construction", String(constructionTotal()), "Buildable", null)+
       '</div>';
 
     var panel = "";
     if (openBox === "skills") panel = '<div class="tk-panel"><h3>Skills</h3>'+skillsBlock()+'</div>';
     else if (openBox === "quests") panel = '<div class="tk-panel"><h3>Quests</h3>'+questsBlock()+'</div>';
+    else if (openBox === "construction") panel = '<div class="tk-panel"><h3>Construction</h3>'+constructionBlock()+'</div>';
 
     trackerEl.innerHTML = '<div class="tk-head"><h2>My progress</h2></div>'+grid+panel;
   }

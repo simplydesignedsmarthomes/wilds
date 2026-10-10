@@ -5,7 +5,8 @@
   2. discover_new_items.py - file any brand-new item the wiki added.
   3. build_storage.py (pass 1) - so new names exist for step 4 to fetch.
   4. fetch_wiki_data.py - refresh buckets/wikitext/images, including new items.
-  5. fetch_map_data.py, fetch_updates_data.py - refresh the rest of the data.
+  5. fetch_map_data.py, fetch_updates_data.py, fetch_construction_data.py -
+     refresh the rest of the data.
   6. build_storage.py (pass 2) - now fully hydrated.
   7. audit_items.py --json, diffed against audit_baseline.json.
   8. Write .research/_ci_result.json: {"changed": bool, "needsReview": bool,
@@ -71,6 +72,7 @@ def main():
     run(".research/fetch_wiki_data.py")
     run(".research/fetch_map_data.py")
     run(".research/fetch_updates_data.py")
+    run(".research/fetch_construction_data.py")
     run(".research/build_storage.py")
 
     audit_out = os.path.join(HERE, "_audit_run.json")

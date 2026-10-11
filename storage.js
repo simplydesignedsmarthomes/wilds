@@ -33730,7 +33730,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -33811,7 +33811,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -33892,7 +33892,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -33973,7 +33973,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34049,7 +34049,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34125,7 +34125,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34201,7 +34201,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34277,7 +34277,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34353,7 +34353,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34429,7 +34429,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34505,7 +34505,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34581,7 +34581,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34657,7 +34657,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34733,7 +34733,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -34809,7 +34809,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench.",
+        "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench.",
         "detail": {
           "stats": [
             {
@@ -35078,7 +35078,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -35159,7 +35159,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -35240,7 +35240,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -35553,7 +35553,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -36367,7 +36367,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -36448,7 +36448,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "jewellery",
-        "note": "Jewellery item with no stated effect on the wiki.",
+        "note": "Jewellery item with no stated special effect.",
         "detail": {
           "stats": [
             {
@@ -106992,7 +106992,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "vestiges",
-        "note": "A tattered vestige item; the wiki hints you could perhaps learn something from it.",
+        "note": "A tattered vestige item - studying it may teach you something.",
         "detail": {
           "stats": [
             {
@@ -107038,7 +107038,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "vestiges",
-        "note": "A tattered vestige item; the wiki hints you could perhaps learn something from it.",
+        "note": "A tattered vestige item - studying it may teach you something.",
         "detail": {
           "stats": [
             {
@@ -107498,7 +107498,7 @@ window.WILDS_STORAGE = [
         "tier": "",
         "tierRank": null,
         "chest": "vestiges",
-        "note": "A vestige item the wiki hints you could perhaps learn something from.",
+        "note": "A vestige item that may teach you something if studied.",
         "detail": {
           "stats": [
             {

@@ -453,7 +453,7 @@
     "tier": "",
     "tierRank": null,
     "chest": "vestiges",
-    "note": "A tattered vestige item; the wiki hints you could perhaps learn something from it."
+    "note": "A tattered vestige item - studying it may teach you something."
   },
   {
     "name": "Lunular Wrappings",
@@ -461,7 +461,7 @@
     "tier": "",
     "tierRank": null,
     "chest": "vestiges",
-    "note": "A tattered vestige item; the wiki hints you could perhaps learn something from it."
+    "note": "A tattered vestige item - studying it may teach you something."
   },
   {
     "name": "Moth Eaten Black Cloth",
@@ -541,7 +541,7 @@
     "tier": "",
     "tierRank": null,
     "chest": "vestiges",
-    "note": "A vestige item the wiki hints you could perhaps learn something from."
+    "note": "A vestige item that may teach you something if studied."
   },
   {
     "name": "Ornate Golden Scarab",

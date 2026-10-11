@@ -1,1994 +1,1994 @@
 [
- {
-  "name": "Abraxus Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Abraxus_Ring.png?4e3ff",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Has a chance to reduce the rune cost of utility spells when cast. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Adamant Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Helmet.png?0728c",
-  "tier": "Adamant",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A durable adamant helmet forged for the strongest of warriors. (head slot; melee armour; melee def 21, ranged def 19, magic def 18; crafted at Armour Bench)"
- },
- {
-  "name": "Adamant Med Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Med_Helm_%28Journal%29.png?f38b3",
-  "tier": "Adamant",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A sturdy adamant helm built for serious combat. (head slot; melee armour; melee def 21, ranged def 19, magic def 18; crafted at Armour Bench)"
- },
- {
-  "name": "Adamant Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platebody.png?eb43f",
-  "tier": "Adamant",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A sturdy set of adamant chest armour, forged for the strongest of warriors. (body slot; melee armour; melee def 53, ranged def 47, magic def 45; crafted at Armour Bench)"
- },
- {
-  "name": "Adamant Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platelegs.png?499cf",
-  "tier": "Adamant",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A sturdy set of adamant leg armour, forged for the strongest of warriors. (legs slot; melee armour; melee def 32, ranged def 28, magic def 27; crafted at Armour Bench)"
- },
- {
-  "name": "Adamant Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Adamant_Shield.png?e9de4",
-  "tier": "Adamant",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "Solid protection, slightly heavy. (off-hand slot; melee armour; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Adventurer's Leggings",
-  "img": "https://dragonwilds.runescape.wiki/images/Adventurer%27s_Leggings.png?53b64",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Basic and comfortable attire fit for a new adventurer. (legs slot; melee def 8, ranged def 8, magic def 8; crafted at Crafting Table)"
- },
- {
-  "name": "Adventurer's Tunic",
-  "img": "https://dragonwilds.runescape.wiki/images/Adventurer%27s_Tunic.png?6df0e",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Basic and comfortable attire fit for a new adventurer. (body slot; melee def 8, ranged def 8, magic def 8; crafted at Crafting Table)"
- },
- {
-  "name": "Agility Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Agility_Cape.png?07e93",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Agility is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2)"
- },
- {
-  "name": "Amulet of Accuracy",
-  "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Accuracy_%28Journal%29.png?cdf7d",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Increased CRITICAL DAMAGE. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Amulet of Defence",
-  "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Defence_%28Journal%29.png?3b44d",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Increased ARMOUR VALUE. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Amulet of Glory",
-  "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Glory.png?bc75c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Increased MELEE, MAGIC, and RANGED CRIT DAMAGE. Increased DEFENCE. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Amulet of Magic",
-  "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Magic_%28Journal%29.png?b5f2c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Increased MAGIC DAMAGE. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Amulet of Strength",
-  "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Strength_%28Journal%29.png?b7172",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Increased MELEE DAMAGE. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Ancestral Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Hat_%28Journal%29.png?f38b3",
-  "tier": "Ancestral",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "Woven with ancient knowledge and arcane tradition. The hat is old, the magic within is older. (head slot; mage armour; melee def 21, ranged def 22, magic def 24; crafted at Armour Bench)"
- },
- {
-  "name": "Ancestral Leggings",
-  "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Leggings_%28Journal%29.png?f38b3",
-  "tier": "Ancestral",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "Enchanted garments that carry the legacy of generations of powerful spellcasters. (legs slot; mage armour; melee def 32, ranged def 33, magic def 36; crafted at Armour Bench)"
- },
- {
-  "name": "Ancestral Robes",
-  "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Robes_%28Journal%29.png?f38b3",
-  "tier": "Ancestral",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "Robes worn in the pursuit of magical mastery, embroidered with symbols whose meaning has long been forgotten. (body slot; mage armour; melee def 53, ranged def 54, magic def 60; crafted at Armour Bench)"
- },
- {
-  "name": "Angler's Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Angler%27s_Hat.png?b653e",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A rather dapper looking cap that upon catching a fish has a chance to not reduce the amount of fish in the node. (head slot; melee def +1, ranged def +1, magic def +1; crafted at Crafting Table)"
- },
- {
-  "name": "Anti-Dragon Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Anti-Dragon_Shield.png?de704",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "This provides partial protection from dragonbreath attacks. (off-hand slot; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Apprentice Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Apprentice_Hat.png?a1adf",
-  "tier": "Apprentice",
-  "tierRank": 0,
-  "chest": "armour",
-  "note": "A comfortable hat made from linen, perfect for adventurers who are practicing magic. (head slot; mage armour; melee def +3, ranged def +4, magic def +6)"
- },
- {
-  "name": "Apprentice Leggings",
-  "img": "https://dragonwilds.runescape.wiki/images/Apprentice_Leggings.png?a1adf",
-  "tier": "Apprentice",
-  "tierRank": 0,
-  "chest": "armour",
-  "note": "Provides basic protection for trainees in the magical arts. (legs slot; mage armour; melee def +5, ranged def +6, magic def +9)"
- },
- {
-  "name": "Apprentice Robe",
-  "img": "https://dragonwilds.runescape.wiki/images/Apprentice_Robe.png?a1adf",
-  "tier": "Apprentice",
-  "tierRank": 0,
-  "chest": "armour",
-  "note": "Provides basic protection for trainees in the magical arts. (body slot; mage armour; melee def +8, ranged def +9, magic def +15)"
- },
- {
-  "name": "Artisan Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Artisan_Cape.png?f8ad9",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Artisan is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Attack Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Attack_Cape.png?06c55",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Attack is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Ava's Accumulator",
-  "img": "https://dragonwilds.runescape.wiki/images/Ava%27s_Accumulator.png?3e88b",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A bagged chicken ready to serve you, magnet in claw. (melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Bag of Noggin'",
-  "img": "https://dragonwilds.runescape.wiki/images/Bag_of_Noggin%27.png?52628",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "The only thing this protects is your identity. (head slot; melee def +1, ranged def +1, magic def +1; crafted at Crafting Table)"
- },
- {
-  "name": "Black Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Adventurer%27s_Cape.png?05bac",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Black Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Desert_Cape.png?108ca",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A black cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Black Dragonhide Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Body_%28Journal%29.png?f38b3",
-  "tier": "Black Dragonhide",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "Tough, flexible black dragonhide armour trusted by hunters who prefer to strike from afar. (body slot; ranged armour; melee def 54, ranged def 58, magic def 54; crafted at Armour Bench)"
- },
- {
-  "name": "Black Dragonhide Chaps",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Chaps_%28Journal%29.png?f38b3",
-  "tier": "Black Dragonhide",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "Crafted from resilient black dragonhide, these leggings allow swift movement while providing excellent protection. (legs slot; ranged armour; melee def 33, ranged def 35, magic def 33; crafted at Armour Bench)"
- },
- {
-  "name": "Black Dragonhide Coif",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Coif_%28Journal%29.png?f38b3",
-  "tier": "Black Dragonhide",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "Fashioned from black dragonhide, this helm offers protection without hindering an archer's awareness. (head slot; ranged armour; melee def 22, ranged def 23, magic def 22; crafted at Armour Bench)"
- },
- {
-  "name": "Black Knight Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Helmet.png?cadc9",
-  "tier": "Black metal",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "A metal helm worn by the Black Knights of Dowdun Reach. (head slot; melee armour; melee def +18, ranged def +16, magic def +15; crafted at Armour Bench)"
- },
- {
-  "name": "Black Knight Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Platebody.png?7a846",
-  "tier": "Black metal",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "A heavy chestplate worn by the Black Knights of Dowdun Reach. (body slot; melee armour; melee def 45, ranged def 39, magic def 38; crafted at Armour Bench)"
- },
- {
-  "name": "Black Knight Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Platelegs.png?d7d78",
-  "tier": "Black metal",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "Sturdy leg armour worn by the Black Knights of Dowdun Reach. (legs slot; melee armour; melee def 27, ranged def 24, magic def 23; crafted at Armour Bench)"
- },
- {
-  "name": "Black Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Black_Shield.png?97c8f",
-  "tier": "Black metal",
-  "tierRank": 6,
-  "chest": "armour",
-  "note": "A shield popularised by the Black Knights and made from black matal. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Bloodblight Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Bloodblight_Cape.png?a1adf",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cloak commemorating a dragon's vengeance. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Blue Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Blue_Adventurer%27s_Cape.png?94558",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Blue Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Blue_Desert_Cape.png?815df",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A Blue cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Blue Dragonhide Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Body.png?a9b8b",
-  "tier": "Blue Dragonhide",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Ranged body armour crafted from blue dragonhide. Form-fitting, yet intimidating. (body slot; ranged armour; melee def +39, ranged def +43, magic def +39; crafted at Armour Bench)"
- },
- {
-  "name": "Blue Dragonhide Chaps",
-  "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Chaps.png?d11d5",
-  "tier": "Blue Dragonhide",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Flexible ranged leg armour crafted from blue dragonhide. (legs slot; ranged armour; melee def +24, ranged def +26, magic def +24; crafted at Armour Bench)"
- },
- {
-  "name": "Blue Dragonhide Coif",
-  "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Coif.png?2948c",
-  "tier": "Blue Dragonhide",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Lightweight ranged headgear crafted from blue dragonhide. (head slot; ranged armour; melee def +16, ranged def +17, magic def +16; crafted at Armour Bench)"
- },
- {
-  "name": "Blue Dyed Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Blue Hex Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Blue_Hex_Cape.png?3fe82",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Blue Torch",
-  "img": "https://dragonwilds.runescape.wiki/images/Blue_Torch.png?2fc71",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A trusty lightsource. (off-hand slot; crafted at Crafting Table)"
- },
- {
-  "name": "Bramblemead Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Bramblemead_Cape.png?5c246",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cloak to remember simpler times. (body slot; melee def +2, ranged def +2, magic def +2)"
- },
- {
-  "name": "Bronze Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Helmet.png?a1adf",
-  "tier": "Bronze",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "A helmet forged from bronze. (head slot; melee armour; melee def +9, ranged def +7, magic def +6; crafted at Armour Bench)"
- },
- {
-  "name": "Bronze Med Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Med_Helm_%28Journal%29.png?f38b3",
-  "tier": "Bronze",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "A simple bronze helm that's seen more training grounds than battlefields. (head slot; melee armour; melee def 9, ranged def 7, magic def 6; crafted at Armour Bench)"
- },
- {
-  "name": "Bronze Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Platebody.png?a1adf",
-  "tier": "Bronze",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "A heavy chestplate made from bronze. (body slot; melee armour; melee def +23, ranged def +17, magic def +15; crafted at Armour Bench)"
- },
- {
-  "name": "Bronze Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Platelegs.png?a1adf",
-  "tier": "Bronze",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "Heavy platelegs made from bronze. (legs slot; melee armour; melee def +14, ranged def +10, magic def +9; crafted at Armour Bench)"
- },
- {
-  "name": "Bronze Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Shield.png?c2a0c",
-  "tier": "Bronze",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "Steadily block and parry attacks with this basic, dependable bronze shield. (off-hand slot; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Chef's Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Chef%27s_Hat.png?a1adf",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "What a silly hat. (head slot; melee def 1, ranged def 1, magic def 1; crafted at Crafting Table)"
- },
- {
-  "name": "Community Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Community_Cape.png?b4928",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A symbol of dedication and support, this cape is granted to those who leave a lasting mark on the community. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Crafting Table)"
- },
- {
-  "name": "Construction Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Construction_Cape.png?26e9c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Construction is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Cooking Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Cooking_Cape.png?0c2ba",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Cooking is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Dark Mage Hood",
-  "img": "https://dragonwilds.runescape.wiki/images/Dark_Mage_Hood.png?5b65c",
-  "tier": "Dark Mage",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "A mystical hood, popular with edgier wizards. (head slot; mage armour; melee def +9, ranged def +10, magic def +12; crafted at Armour Bench)"
- },
- {
-  "name": "Dark Mage Robe Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Dark_Mage_Robe_Legs.png?5b65c",
-  "tier": "Dark Mage",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Lightweight magical armour for edgier spellcasters. (legs slot; mage armour; melee def +14, ranged def +15, magic def +18; crafted at Armour Bench)"
- },
- {
-  "name": "Dark Mage Robes",
-  "img": "https://dragonwilds.runescape.wiki/images/Dark_Mage_Robes.png?5b65c",
-  "tier": "Dark Mage",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Magical armour for the edgier wizard. (body slot; mage armour; melee def +23, ranged def +24, magic def +30; crafted at Armour Bench)"
- },
- {
-  "name": "Desert Hood",
-  "img": "https://dragonwilds.runescape.wiki/images/Desert_Hood.png?a717f",
-  "tier": "Desert",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A lightweight hood woven for the harsh desert sun. It shields the wearer from heat and drifting sands. (head slot; mage armour; melee def -, ranged def -, magic def -; crafted at Armour Bench)"
- },
- {
-  "name": "Desert Robe Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Desert_Robe_Legs.png?a1791",
-  "tier": "Desert",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "Lightweight leggings made for desert travel, offering protection from heat while allowing easy movement across the sand. (legs slot; mage armour; melee def -, ranged def -, magic def -; crafted at Armour Bench)"
- },
- {
-  "name": "Desert Robes",
-  "img": "https://dragonwilds.runescape.wiki/images/Desert_Robes.png?eb854",
-  "tier": "Desert",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "Loose-fitting and breathable, this robe protects against the sun's harsh glare while allowing air to flow freely. (body slot; mage armour; melee def -, ranged def -, magic def -; crafted at Armour Bench)"
- },
- {
-  "name": "Dowdun Reach Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Dowdun_Reach_Cape.png?518a5",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "There is no better display of mastery of the Dowdun Reach area. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Dragon Full Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Full_Helm_%28Journal%29.png?571f2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A fearsome helm forged from dragon metal. Protects your head. Dragons generally aim downwards. (head slot; melee armour; melee def 27, ranged def 25, magic def 24)"
- },
- {
-  "name": "Dragon Kiteshield",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Kiteshield_%28Journal%29.png?571f2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A dragon-forged kiteshield built to stand firm against overwhelming odds. (off-hand slot; off-hand shield)"
- },
- {
-  "name": "Dragon Med Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Med_Helm_%28Journal%29.png?571f2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "An imposing helm forged from legendary dragon metal. (head slot; melee armour; melee def 27, ranged def 25, magic def 24)"
- },
- {
-  "name": "Dragon Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Platebody_%28Journal%29.png?571f2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "The centrepiece of the dragon armour set, forged to withstand blows that would cripple lesser warriors. (body slot; melee armour; melee def 68, ranged def 62, magic def 60)"
- },
- {
-  "name": "Dragon Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Platelegs_%28Journal%29.png?571f2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Dragon-forged platelegs offering exceptional protection without sacrificing mobility. (legs slot; melee armour; melee def 41, ranged def 37, magic def 36)"
- },
- {
-  "name": "Dragonbane Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragonbane_Cape.png?5b65c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A badge of honor for those who completed all challenges during the closed Alpha Test. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Dragonblight Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragonblight_Shield.png?00af6",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "The Spirit of Velgar lives on within this shield, corrupting your enemies. (off-hand slot; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Dragoncurse Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragoncurse_Shield.png?b572d",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "The spirit of Imaru lives on within this shield. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Dragonfire Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragonfire_Shield.png?22188",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A shield forged in the wake of Fuzan's fall. Its scales still glow with a smoldering heat, as though the dragon's fury refuses to fade. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Dragonkin Mage Hood",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragonkin_Mage_Hood.png?5b65c",
-  "tier": "Dragonkin Mage",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "A hood styled after the ancient overlords of Ashenfall. (head slot; mage armour; melee def +9, ranged def +10, magic def +12; crafted at Armour Bench)"
- },
- {
-  "name": "Dragonkin Mage Robe Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragonkin_Mage_Robe_Legs.png?5b65c",
-  "tier": "Dragonkin Mage",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Leggings styled after the ancient overlords of Ashenfall. (legs slot; mage armour; melee def +14, ranged def +15, magic def +18; crafted at Armour Bench)"
- },
- {
-  "name": "Dragonkin Mage Robes",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragonkin_Mage_Robes.png?5b65c",
-  "tier": "Dragonkin Mage",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Robes styled after the ancient overlords of Ashenfall. (body slot; mage armour; melee def +23, ranged def +24, magic def +30; crafted at Armour Bench)"
- },
- {
-  "name": "Dragonslayer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Dragonslayer%27s_Cape_%28Journal%29.png?571f2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Awarded to those who have faced Queen Kuldra and Emerged victorious. Few Capes carry greater prestige. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Fallen Hoplite's Aspis",
-  "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Aspis.png?eb007",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "The shield of an Undead Hoplite. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Fallen Hoplite's Chest",
-  "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Chest.png?fb0d1",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Melee chest armour once belonging to a long dead Saradomin Hoplite. (body slot; melee armour; melee def +38, ranged def +32, magic def +30; crafted at Armour Bench)"
- },
- {
-  "name": "Fallen Hoplite's Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Helm.png?ba07d",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A Melee helmet once belonging to a long dead Saradomin Hoplite. (head slot; melee armour; melee def +15, ranged def +13, magic def +12; crafted at Armour Bench)"
- },
- {
-  "name": "Fallen Hoplite's Tassets",
-  "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Tassets.png?a85d2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Melee leg armour once belonging to a long dead Saradomin Hoplite. (legs slot; melee armour; melee def +23, ranged def +19, magic def +18; crafted at Armour Bench)"
- },
- {
-  "name": "Farmer's Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Farmer%27s_Hat.png?103b5",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A delightful piece of headwear, popular with those who toil the land. (head slot; melee def +1, ranged def +1, magic def +1; crafted at Crafting Table)"
- },
- {
-  "name": "Farming Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Farming_Cape.png?39ef8",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Farming is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Fellhollow Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Fellhollow_Cape.png?2d1f8",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cloak depicting the ethereal beauty of Fellhollow. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Fire Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Fire_Cape.png?72d4b",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Receiving or blocking damage has a chance to triggering burning on your attacker. Melee kills on Burning enemies refill stamina. (body slot; melee def +4, ranged def +4, magic def +4)"
- },
- {
-  "name": "Fishing Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Fishing_Cape.png?2a4a8",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Fishing is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Fractured Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Fractured_Cape.png?5b65c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cloak warning against the danger of hubris. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Garou Highborn's Cloak",
-  "img": "https://dragonwilds.runescape.wiki/images/Garou_Highborn%27s_Cloak.png?5b65c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cloak worn by garou nobility. (body slot; melee def +2, ranged def +2, magic def +2)"
- },
- {
-  "name": "Gilded Gyrhawk Amulet",
-  "img": "https://dragonwilds.runescape.wiki/images/Gilded_Gyrhawk_Amulet.png?fd035",
-  "tier": "Gilded",
-  "tierRank": 1,
-  "chest": "jewellery",
-  "note": "+25% Increased AGILITY XP from Agility Courses. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Gilded Paladin Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Cape_%28Journal%29.png?0e33a",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A magnificent cape trimmed in gold, worn by those who wish to stand apart from the crowd. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Crafting Table)"
- },
- {
-  "name": "Gilded Paladin Chestpiece",
-  "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Chestpiece_%28Journal%29.png?78d70",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "An ornate golden chestpiece that serves as a symbol of power, status, and confidence. (body slot; melee armour; melee def 30, ranged def 24, magic def 23; crafted at Armour Bench)"
- },
- {
-  "name": "Gilded Paladin Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Helmet_%28Journal%29.png?78d70",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Polished to a brilliant shine, this helmet is as impressive as it is eye-catching. (head slot; melee armour; melee def 12, ranged def 10, magic def 9; crafted at Armour Bench)"
- },
- {
-  "name": "Gilded Paladin Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Legs_%28Journal%29.png?78d70",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Golden platelegs for warriors who believe protection should be seen from a distance. (legs slot; melee armour; melee def 18, ranged def 15, magic def 14; crafted at Armour Bench)"
- },
- {
-  "name": "Goblin War Banner",
-  "img": "https://dragonwilds.runescape.wiki/images/Goblin_War_Banner.png?5b65c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cloak reminding us that even gods can be forgotten. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Gourmand Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Gourmand_Ring.png?9b2da",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Green Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Green_Adventurer%27s_Cape.png?03c93",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Green Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Green_Desert_Cape.png?922e5",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A Green cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Green Dragonhide Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Body.png?32562",
-  "tier": "Green Dragonhide",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Ranged body armour crafted from Green Dragonhide. Form-fitting yet intimidating. (body slot; ranged armour; melee def +32, ranged def +36, magic def +32; crafted at Armour Bench)"
- },
- {
-  "name": "Green Dragonhide Chaps",
-  "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Chaps.png?19ab2",
-  "tier": "Green Dragonhide",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Agile Ranged leg armour crafted from Green Dragonhide. (legs slot; ranged armour; melee def +19, ranged def +21, magic def +19; crafted at Armour Bench)"
- },
- {
-  "name": "Green Dragonhide Coif",
-  "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Coif.png?f0ba4",
-  "tier": "Green Dragonhide",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Lightweight Ranger headgear crafted from Green Dragonhide for Ranged users. (head slot; ranged armour; melee def +13, ranged def +14, magic def +13; crafted at Armour Bench)"
- },
- {
-  "name": "Green Dyad Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Green_Dyad_Cape.png?945e8",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Green Hex Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Green_Hex_Cape.png?bc0f6",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Green Torch",
-  "img": "https://dragonwilds.runescape.wiki/images/Green_Torch.png?fc371",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A trusty lightsource - now in green. (off-hand slot; crafted at Crafting Table)"
- },
- {
-  "name": "Gyrhawk Amulet",
-  "img": "https://dragonwilds.runescape.wiki/images/Gyrhawk_Amulet.png?7d0c9",
-  "tier": "Basic",
-  "tierRank": 0,
-  "chest": "jewellery",
-  "note": "While wearing this amulet, Warped Feathers are consumed to award additional XP while exploring the world. Crafted at a Crafting Table."
- },
- {
-  "name": "Hard Leather Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather_Body.png?9b2da",
-  "tier": "Hard Leather",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "Durable armour crafted from hard leather. (body slot; ranged armour; melee def 17, ranged def 21, magic def 17; crafted at Armour Bench)"
- },
- {
-  "name": "Hard Leather Chaps",
-  "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather_Chaps.png?9b2da",
-  "tier": "Hard Leather",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "Durable armour crafted from hard leather. (legs slot; ranged armour; melee def 10, ranged def 12, magic def 10; crafted at Armour Bench)"
- },
- {
-  "name": "Hard Leather Cowl",
-  "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather_Cowl.png?9b2da",
-  "tier": "Hard Leather",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "A durable helmet crafted from hard leather. (head slot; ranged armour; melee def 7, ranged def 8, magic def 7; crafted at Armour Bench)"
- },
- {
-  "name": "Herd Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Herd_Ring.png?9b2da",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Hermit Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Hermit_Ring.png?9b2da",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Infinity Robe Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Body.png?892c5",
-  "tier": "Infinity Robe",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A wizard's robe, infused with endless arcane force. (body slot; mage armour; melee def +45, ranged def +47, magic def +53; crafted at Armour Bench)"
- },
- {
-  "name": "Infinity Robe Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Hat.png?aa8fe",
-  "tier": "Infinity Robe",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A wizard's hat, infused with boundless magical power. (head slot; mage armour; melee def +18, ranged def +19, magic def +21; crafted at Armour Bench)"
- },
- {
-  "name": "Infinity Robe Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Legs.png?3b400",
-  "tier": "Infinity",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A wizard's hat, infused with boundless magical power. (legs slot; mage armour; melee def +27, ranged def +28, magic def +32; crafted at Armour Bench)"
- },
- {
-  "name": "Inspiring Amulet of Attack",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Attack.png?2833e",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Amulet of Magic",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Magic.png?2cab7",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Amulet of Ranged",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Ranged.png?92f24",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Agility",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Agility.png?91a88",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Artisan",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Artisan.png?24f33",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Construction",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Construction.png?a122b",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Cooking",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Cooking.png?4adaa",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Farming",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Farming.png?9c238",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Fishing",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Fishing.png?bdeaa",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Mining",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Mining.png?32545",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Runecrafting",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Runecrafting.png?14c3f",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Inspiring Ring of Woodcutting",
-  "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Woodcutting.png?22f5b",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Iron Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Iron_Helmet.png?9b2da",
-  "tier": "Iron",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Protect your head with this sturdy iron headgear. (head slot; melee armour; melee def 12, ranged def 10, magic def 9; crafted at Armour Bench)"
- },
- {
-  "name": "Iron Med Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Iron_Med_Helm_%28Journal%29.png?78d70",
-  "tier": "Iron",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "A dependable helm trusted by countless adventurers. (head slot; melee armour; melee def 12, ranged def 10, magic def 9; crafted at Armour Bench)"
- },
- {
-  "name": "Iron Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Iron_Platebody.png?9b2da",
-  "tier": "Iron",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "A heavy iron chestplate, providing superior protection in battle. (body slot; melee armour; melee def 30, ranged def 24, magic def 23; crafted at Armour Bench)"
- },
- {
-  "name": "Iron Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Iron_Platelegs.png?9b2da",
-  "tier": "Iron",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Sturdy iron leg armour. (legs slot; melee armour; melee def 18, ranged def 15, magic def 14; crafted at Armour Bench)"
- },
- {
-  "name": "Iron Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Iron_Shield.png?9f0a3",
-  "tier": "Iron",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "A reliable, durable shield crafted from iron; perfect for tanking big hits. (off-hand slot; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Kalphite Carapace Chest",
-  "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Chest.png?a9d03",
-  "tier": "Kalphite Carapace",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "This chest armour is made from parts of the kalphites. Its durable but flexible nature makes it excellent for rangers. (body slot; ranged armour; melee def +47, ranged def +51, magic def +47; crafted at Armour Bench)"
- },
- {
-  "name": "Kalphite Carapace Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Helmet.png?21975",
-  "tier": "Kalphite Carapace",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "This helmet is made from parts of the kalphites. Its durable but flexible nature makes it excellent for rangers. (head slot; ranged armour; melee def +19, ranged def +20, magic def +19; crafted at Armour Bench)"
- },
- {
-  "name": "Kalphite Carapace Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Legs.png?04bab",
-  "tier": "Kalphite Carapace",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "This leg armour is made from parts of the kalphites. Its durable but flexible nature makes it excellent for rangers. (legs slot; ranged armour; melee def +28, ranged def +30, magic def +28; crafted at Armour Bench)"
- },
- {
-  "name": "Leather Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Leather_Body.png?9b2da",
-  "tier": "Leather",
-  "tierRank": 0,
-  "chest": "armour",
-  "note": "Protective armour made from leather. (body slot; ranged armour; melee def +9, ranged def +13, magic def +9)"
- },
- {
-  "name": "Leather Chaps",
-  "img": "https://dragonwilds.runescape.wiki/images/Leather_Chaps.png?9b2da",
-  "tier": "Leather",
-  "tierRank": 0,
-  "chest": "armour",
-  "note": "Protective armour made from leather. (legs slot; ranged armour; melee def +6, ranged def +8, magic def +6)"
- },
- {
-  "name": "Leather Cowl",
-  "img": "https://dragonwilds.runescape.wiki/images/Leather_Cowl.png?9b2da",
-  "tier": "Leather",
-  "tierRank": 0,
-  "chest": "armour",
-  "note": "Protective armour made from leather. (head slot; ranged armour; melee def +4, ranged def +5, magic def +4)"
- },
- {
-  "name": "Leather Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Leather_Shield.png?89f78",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A slightly more refined and durable shield made from wood and tanned animal hide. (off-hand slot)"
- },
- {
-  "name": "Leggings Of Lightness",
-  "img": "https://dragonwilds.runescape.wiki/images/Leggings_Of_Lightness.png?9b2da",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Fabeled leggings that allow you to carry more!. (legs slot; melee def +0, ranged def +0, magic def +0; crafted at Crafting Table)"
- },
- {
-  "name": "Lumber Backpack",
-  "img": "https://dragonwilds.runescape.wiki/images/Lumber_Backpack.png?838ce",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Stylish? Yes! But not only that... A highly functional backpack that improves your luck with rare wood resource drops. It also lightens the weight of carried wood, and gives a gentle boost to woodcutting progression. (body slot; crafted at Armour Bench)"
- },
- {
-  "name": "Lunar Garou Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Hat.png?b3a6b",
-  "tier": "Lunar Garou",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "A lunar-infused hood designed to complement the garou robes, Suitable for magic users, enhancing healing abilities at night. (head slot; mage armour; melee def +18, ranged def +19, magic def +21; crafted at Armour Bench)"
- },
- {
-  "name": "Lunar Garou Robe Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robe_Legs.png?d2e0b",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Lunar-imbued leggings that complete the garou robe set. Suitable for magic users, enhancing healing abilities at night. (legs slot; mage armour; crafted at Armour Bench)"
- },
- {
-  "name": "Lunar Garou Robes",
-  "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robes.png?345d5",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Robes woven under the light of a full moon, imbued with the wild power of the garou. Suitable for magic users, enhancing healing abilities at night. (body slot; mage armour; crafted at Armour Bench)"
- },
- {
-  "name": "Magic Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Magic_Cape.png?69480",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Magic is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Miner Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Miner_Ring.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Mining Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Mining_Cape.png?bc90a",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Mining is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Mithril Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Helmet.png?f3bcf",
-  "tier": "Mithril",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Protect your head with this durable mithril headgear. (head slot; melee armour; melee def 18, ranged def 16, magic def 15; crafted at Armour Bench)"
- },
- {
-  "name": "Mithril Med Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Med_Helm_%28Journal%29.png?78d70",
-  "tier": "Mithril",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Lightweight, durable, and highly sought after. (head slot; melee armour; melee def 18, ranged def 16, magic def 15; crafted at Armour Bench)"
- },
- {
-  "name": "Mithril Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Platebody.png?00114",
-  "tier": "Mithril",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "A heavy mithril plate, providing welcome protection in battle. (body slot; melee armour; melee def +45, ranged def +39, magic def +38; crafted at Armour Bench)"
- },
- {
-  "name": "Mithril Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Platelegs.png?6ce42",
-  "tier": "Mithril",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Durable mithril leg armour. (legs slot; melee armour; melee def 27, ranged def 24, magic def 23; crafted at Armour Bench)"
- },
- {
-  "name": "Mithril Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Mithril_Shield.png?50346",
-  "tier": "Mithril",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "A sturdy shield crafted from mithril. Perfect for holding your ground. (off-hand slot; melee armour; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Moon Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Moon_Ring.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Mule Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Mule_Ring.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Mystic Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Mystic_Hat.png?0f26d",
-  "tier": "Mystic",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "A magically resonant hood, perfect for staying warm. (head slot; mage armour; melee def 15, ranged def 16, magic def 18; crafted at Armour Bench)"
- },
- {
-  "name": "Mystic Robe Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Mystic_Robe_Legs.png?38081",
-  "tier": "Mystic",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Lightweight magical gear for the aspiring sorcerer. (legs slot; mage armour; melee def 23, ranged def 24, magic def 27; crafted at Armour Bench)"
- },
- {
-  "name": "Mystic Robes",
-  "img": "https://dragonwilds.runescape.wiki/images/Mystic_Robes.png?694fe",
-  "tier": "Mystic",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "The finest magical thread, spun into fabolous mage gear. (body slot; mage armour; melee def 38, ranged def 39, magic def 45; crafted at Armour Bench)"
- },
- {
-  "name": "Necromancer's Crown",
-  "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Crown.png?8dab5",
-  "tier": "Necromancer's",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Magical headgear for those that rule over their undead minions. (head slot; mage armour; melee def +12, ranged def +13, magic def +15; crafted at Armour Bench)"
- },
- {
-  "name": "Necromancer's Robe Bottom",
-  "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Robe_Bottom.png?8f047",
-  "tier": "Necromancer's",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Leggings styled after the ancient overlords of Ashenfall. (body slot; mage armour; melee def +18, ranged def +19, magic def +23; crafted at Armour Bench)"
- },
- {
-  "name": "Necromancer's Robe Top",
-  "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Robe_Top.png?40ad2",
-  "tier": "Necromancer's",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Leggings styled after the ancient overlords of Ashenfall. (body slot; mage armour; melee def +30, ranged def +32, magic def +38; crafted at Armour Bench)"
- },
- {
-  "name": "Obsidian Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Cape.png?1a170",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Black as cooled lava, this cape radiates a faint, lingering heat. It provides a small boost to Defence. (body slot; melee def +4, ranged def +4, magic def +4; crafted at Armour Bench)"
- },
- {
-  "name": "Obsidian Chest",
-  "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Chest.png?00b73",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Heavy obsidian chest armour designed for frontline warriors. Offers exceptional protection and resilience in close combat. (body slot; melee armour; melee def +53, ranged def +47, magic def +45; crafted at Armour Bench)"
- },
- {
-  "name": "Obsidian Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Helmet.png?647e6",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A sturdy obsidian helmet designed for frontline warriors. Offers exceptional protection and resilience in close combat. (head slot; melee armour; melee def +21, ranged def +19, magic def +18; crafted at Armour Bench)"
- },
- {
-  "name": "Obsidian Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Legs.png?6621a",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Heavy obsidian leg armour designed for frontline warriors. Offers exceptional protection and resilience in close combat. (legs slot; melee armour; melee def +32, ranged def +28, magic def +27; crafted at Armour Bench)"
- },
- {
-  "name": "Orange Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Orange_Adventurer%27s_Cape.png?05bac",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Orange Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Orange_Desert_Cape.png?39d40",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A Orange cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Paladin Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Paladin_Platelegs.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Sturdy leg armour worn by the paladins of Saradomin. (legs slot; melee armour; melee def 18, ranged def 15, magic def 14; crafted at Armour Bench)"
- },
- {
-  "name": "Paladin's Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Paladin%27s_Helm.png?06e8f",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A metal helm, worn by paladins in service to the church of Saradomin. (head slot; melee armour; melee def 12, ranged def 10, magic def 9; crafted at Armour Bench)"
- },
- {
-  "name": "Paladin's Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Paladin%27s_Platebody.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A heavy chestplate worn by the paladins of Saradomin. (body slot; melee armour; melee def 30, ranged def 24, magic def 23; crafted at Armour Bench)"
- },
- {
-  "name": "Phoenix Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Phoenix_Ring.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Pink Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Pink_Adventurer%27s_Cape.png?05bac",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Pink Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Pink_Desert_Cape.png?19596",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A Pink cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Pink Dyad Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Pink_Dyad_Cape.png?b7c75",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Pink Hex Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Pink_Hex_Cape.png?b64ac",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Pioneer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Pioneer%27s_Cape.png?78d70",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape worn by Ashenfall's first explorers. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Crafting Table)"
- },
- {
-  "name": "Pioneer's Scarf",
-  "img": "https://dragonwilds.runescape.wiki/images/Pioneer%27s_Scarf.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A scarf worn by Ashenfall's first explorers. (body slot; melee def +0, ranged def +0, magic def +0; crafted at Crafting Table)"
- },
- {
-  "name": "Prayer Cape",
-  "img": "",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Cape of Accomplishment requiring level 99 Prayer, craftable at a crafting table once earned; a trimmed version is available if multiple skills are at 99."
- },
- {
-  "name": "Purple Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Purple_Adventurer%27s_Cape.png?e72aa",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Purple Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Purple_Desert_Cape.png?887b4",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A Purple cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Purple Torch",
-  "img": "https://dragonwilds.runescape.wiki/images/Purple_Torch.png?b69e8",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A trusty lightsource - now in purple. (off-hand slot; crafted at Crafting Table)"
- },
- {
-  "name": "Ranged Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Ranged_Cape.png?39ef8",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Ranged is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Ranger Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Ranger_Hat.png?07a9f",
-  "tier": "Ranger",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Ranger head gear. Wearing this gives you the urge to rob from the rich to help the poor for some reason. (head slot; ranged armour; melee def +13, ranged def +14, magic def +13; crafted at Armour Bench)"
- },
- {
-  "name": "Ranger Tights",
-  "img": "https://dragonwilds.runescape.wiki/images/Ranger_Tights.png?d945e",
-  "tier": "Ranger",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Ranger leg gear that makes you feel both agile and slightly rebellious. (legs slot; ranged armour; melee def +19, ranged def +21, magic def +19; crafted at Armour Bench)"
- },
- {
-  "name": "Ranger Tunic",
-  "img": "https://dragonwilds.runescape.wiki/images/Ranger_Tunic.png?69c19",
-  "tier": "Ranger",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Ranger armour that's as dangerous as it is dapper!. (body slot; ranged armour; melee def +32, ranged def +36, magic def +32; crafted at Armour Bench)"
- },
- {
-  "name": "Ravanna's Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Ravanna%27s_Ring.png?f500d",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "After KILLING an enemy, there is a chance for a CORPSE COTTON FLOWER to grow where they fell. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Red Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Red_Adventurer%27s_Cape.png?05bac",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Red Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Red_Desert_Cape.png?c62c3",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A Red cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2)"
- },
- {
-  "name": "Red Dragonhide Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Body.png?95f13",
-  "tier": "Red Dragonhide",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "Agile chest armour stitched from red dragonhide, fit for the finest of archers. (body slot; ranged armour; melee def +47, ranged def +51, magic def +47; crafted at Armour Bench)"
- },
- {
-  "name": "Red Dragonhide Coif",
-  "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Coif.png?99b7e",
-  "tier": "Red Dragonhide",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "Headgear made of red dragonhide, fit for the finest of archers. (head slot; ranged armour; melee def +19, ranged def +20, magic def +19; crafted at Armour Bench)"
- },
- {
-  "name": "Red Dragonhide Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Legs.png?be9c9",
-  "tier": "Red Dragonhide",
-  "tierRank": 5,
-  "chest": "armour",
-  "note": "Headgear made of red dragonhide, fit for the finest of archers. (legs slot; ranged armour; melee def +28, ranged def +30, magic def +28; crafted at Armour Bench)"
- },
- {
-  "name": "Red Dyad Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Red_Dyad_Cape.png?23ac2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Red Hex Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Red_Hex_Cape.png?4ea93",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Red Torch",
-  "img": "https://dragonwilds.runescape.wiki/images/Red_Torch.png?c1b0a",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A trusty lightsource - now in red. (off-hand slot; crafted at Crafting Table)"
- },
- {
-  "name": "Reinforced Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Reinforced_Body.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A heavy chestplate made from Leather and Bone. (body slot; melee armour; melee def +15, ranged def +9, magic def +8)"
- },
- {
-  "name": "Reinforced Helmet",
-  "img": "https://dragonwilds.runescape.wiki/images/Reinforced_Helmet.png?0b97c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Protect your noggin with this basic headgear made from leather and bone. (head slot; melee armour; melee def +6, ranged def +4, magic def +3; crafted at Crafting Table)"
- },
- {
-  "name": "Reinforced Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Reinforced_Legs.png?aeaba",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Heavy platelegs made from Leather and Bone. (legs slot; melee armour; melee def +9, ranged def +6, magic def +5)"
- },
- {
-  "name": "Ring of Life",
-  "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Life.png?c801e",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "When close to DEATH, TELEPORTS you to your current BED. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Ring of Recoil",
-  "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Recoil.png?a9fd4",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "A PERCENTAGE of DAMAGE received is DEALT back to ATTACKERS. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Rune Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Rune_Helm_%28Journal%29.png?034dd",
-  "tier": "Rune",
-  "tierRank": 7,
-  "chest": "armour",
-  "note": "A sturdy rune helm built to withstand the chaos of close combat. (head slot; melee armour; melee def 24, ranged def 22, magic def 21; crafted at Armour Bench)"
- },
- {
-  "name": "Rune Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Rune_Platebody_%28Journal%29.png?034dd",
-  "tier": "Rune",
-  "tierRank": 7,
-  "chest": "armour",
-  "note": "Thick rune plates forged into armour for the strongest of warriors. (body slot; melee armour; melee def 60, ranged def 54, magic def 53; crafted at Armour Bench)"
- },
- {
-  "name": "Rune Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Rune_Platelegs_%28Journal%29.png?034dd",
-  "tier": "Rune",
-  "tierRank": 7,
-  "chest": "armour",
-  "note": "Durable rune platelegs designed for warriors who spend more time fighting than running. (legs slot; melee armour; melee def 36, ranged def 33, magic def 32; crafted at Armour Bench)"
- },
- {
-  "name": "Rune Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Rune_Shield_%28Journal%29.png?034dd",
-  "tier": "Rune",
-  "tierRank": 7,
-  "chest": "armour",
-  "note": "A rune shield forged to endure punishment that would leave lesser metal in pieces. (off-hand slot; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Runecrafting Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Runecrafting_Cape.png?094a0",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Runecrafting is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Runite Med Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Runite_Med_Helm_%28Journal%29.png?7932b",
-  "tier": "Rune",
-  "tierRank": 7,
-  "chest": "armour",
-  "note": "A strong rune helm, for keeping important thoughts safely inside. (head slot; melee armour; melee def 24, ranged def 22, magic def 21; crafted at Armour Bench)"
- },
- {
-  "name": "Salve Amulet",
-  "img": "https://dragonwilds.runescape.wiki/images/Salve_Amulet.png?ed377",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Increased DAMAGE to UNDEAD enemies. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Saradominist Cloak",
-  "img": "https://dragonwilds.runescape.wiki/images/Saradominist_Cloak.png?2c8bc",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Worn by followers of Saradomin, this cloak reflects a commitment to justice and the light of reason. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Crafting Table)"
- },
- {
-  "name": "Shadow Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Shadow_Body.png?d9370",
-  "tier": "Shadow",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Durable armour worn by the Children of Shadows. (body slot; ranged armour; melee def +39, ranged def +43, magic def +39; crafted at Armour Bench)"
- },
- {
-  "name": "Shadow Chaps",
-  "img": "https://dragonwilds.runescape.wiki/images/Shadow_Chaps.png?f05d5",
-  "tier": "Shadow",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Pliable leg armour worn by the Children of Shadows. (legs slot; ranged armour; melee def +24, ranged def +26, magic def +24; crafted at Armour Bench)"
- },
- {
-  "name": "Shadow Cowl",
-  "img": "https://dragonwilds.runescape.wiki/images/Shadow_Cowl.png?2cdd1",
-  "tier": "Shadow",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "A ranged headpiece worn by the Children of Shadows. (head slot; ranged armour; melee def +16, ranged def +17, magic def +16; crafted at Armour Bench)"
- },
- {
-  "name": "Shadowscale Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Shadowscale_Cape.png?f0009",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape worn by those from the lands of death and decay. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Shadowscale Hood",
-  "img": "https://dragonwilds.runescape.wiki/images/Shadowscale_Hood.png?7986f",
-  "tier": "Shadowscale",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Ranger Headgear worn by the Skeleton Archer's. (head slot; ranged armour; melee def +13, ranged def +14, magic def +13; crafted at Armour Bench)"
- },
- {
-  "name": "Shroud of Noggin",
-  "img": "https://dragonwilds.runescape.wiki/images/Shroud_of_Noggin.png?59792",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A ghostly sackcloth mask. Reduces Wither buildup while worn. (head slot; melee def +1, ranged def +1, magic def +1; crafted at Crafting Table)"
- },
- {
-  "name": "Skills Necklace",
-  "img": "https://dragonwilds.runescape.wiki/images/Skills_Necklace.png?6268e",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Grants a BONUS when gathering FISHING, MINING and WOODCUTTING resources in the world. Crafted at a Jeweler's Bench."
- },
- {
-  "name": "Spectral Chinchompa Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Spectral_Chinchompa_Cape.png?6996c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Ab, artistic, if unusual, cape. (body slot; melee def +2, ranged def +2, magic def +2)"
- },
- {
-  "name": "Splitbark Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Body.png?25d30",
-  "tier": "Splitbark",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Magical armour crafted from fine cloth and hollow bark. it has strange magical properties. (body slot; mage armour; melee def +30, ranged def +32, magic def +38; crafted at Armour Bench)"
- },
- {
-  "name": "Splitbark Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Helmet.png?baf98",
-  "tier": "Splitbark",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Magical head armour crafted from wither-corrupted hollow bark. (head slot; mage armour; melee def +12, ranged def +13, magic def +15; crafted at Armour Bench)"
- },
- {
-  "name": "Splitbark Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Legs.png?60e20",
-  "tier": "Splitbark",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Magical leg armour crafted from wither-corrupted hollow bark. (legs slot; mage armour; melee def +18, ranged def +19, magic def +23; crafted at Armour Bench)"
- },
- {
-  "name": "Steel Full Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Steel_Full_Helm.png?8267a",
-  "tier": "Steel",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "A full helmet forged from Steel for Melee users. (head slot; melee armour; melee def 15, ranged def 13, magic def 12; crafted at Armour Bench)"
- },
- {
-  "name": "Steel Med Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/Steel_Med_Helm_%28Journal%29.png?f38b3",
-  "tier": "Steel",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "A dependable helm trusted by countless adventurers. (head slot; melee armour; melee def 15, ranged def 13, magic def 12; crafted at Armour Bench)"
- },
- {
-  "name": "Steel Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/Steel_Platebody.png?bd65d",
-  "tier": "Steel",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "A strong set of well-crafted Steel platemail for Melee users. (body slot; melee armour; melee def +38, ranged def +32, magic def +30; crafted at Armour Bench)"
- },
- {
-  "name": "Steel Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/Steel_Platelegs.png?40565",
-  "tier": "Steel",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "Sturdy and well-made Steel leg armour for Melee users. (legs slot; melee armour; melee def 23, ranged def 19, magic def 18; crafted at Armour Bench)"
- },
- {
-  "name": "Steel Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Steel_Shield.png?71729",
-  "tier": "Steel",
-  "tierRank": 3,
-  "chest": "armour",
-  "note": "A reliable, durable shield crafted from Steel, perfect for taking big hits. (off-hand slot; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Stormtouched Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Stormtouched_Cape.png?aeaba",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cloak depicting ancient monsters and a mage's fury. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Studded Leather Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Studded_Leather_Body.png?aeaba",
-  "tier": "Studded Leather",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Durable armour crafted from hard leather reinforced with iron studs. (body slot; ranged armour; melee def 24, ranged def 28, magic def 24; crafted at Armour Bench)"
- },
- {
-  "name": "Studded Leather Chaps",
-  "img": "https://dragonwilds.runescape.wiki/images/Studded_Leather_Chaps.png?aeaba",
-  "tier": "Studded Leather",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Durable armour crafted from hard leather reinforced with iron studs. (legs slot; ranged armour; melee def 15, ranged def 17, magic def 15; crafted at Armour Bench)"
- },
- {
-  "name": "Studded Leather Cowl",
-  "img": "https://dragonwilds.runescape.wiki/images/Studded_Leather_Cowl.png?aeaba",
-  "tier": "Studded Leather",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "A durable helmet crafted from hard leather reinforced with iron studs. (head slot; ranged armour; melee def 10, ranged def 11, magic def 10; crafted at Armour Bench)"
- },
- {
-  "name": "Sun Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Sun_Ring.png?aeaba",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Tattered Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Tattered_Cape.png?aeaba",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "It provides some warmth... barely. (body slot)"
- },
- {
-  "name": "TokTz-Ket-Xil",
-  "img": "https://dragonwilds.runescape.wiki/images/TokTz-Ket-Xil.png?ff2a4",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A jagged shield of obsidian, shaped to deflect and punish in equal measure. Its edges are as dangerous as the blows it stops. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
- },
- {
-  "name": "Torch",
-  "img": "https://dragonwilds.runescape.wiki/images/Torch.png?da7c7",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A trusty light source. (off-hand slot; crafted at Crafting Table)"
- },
- {
-  "name": "Umbral Sands Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Umbral_Sands_Cape.png?085e2",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A light desert cape designed to shield against sun and sand. Offers comfort during long journeys across the dunes. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Whispering Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Whispering_Cape.png?aeaba",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cloak that makes you shiver, even as it protects against the cold. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "White Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/White_Adventurer%27s_Cape.png?05bac",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "White Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/White_Desert_Cape.png?4bc1c",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A White cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "White Full Helm",
-  "img": "https://dragonwilds.runescape.wiki/images/White_Full_Helm.png?0273b",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A helmet worn by a member of the Holy Order of White Knights. It is pure white. (head slot; melee armour; melee def +15, ranged def +13, magic def +12; crafted at Armour Bench)"
- },
- {
-  "name": "White Platebody",
-  "img": "https://dragonwilds.runescape.wiki/images/White_Platebody.png?76cff",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "White Platebody worn by a member of the Holy Order of White Knights. (body slot; melee armour; melee def +38, ranged def +32, magic def +30; crafted at Armour Bench)"
- },
- {
-  "name": "White Platelegs",
-  "img": "https://dragonwilds.runescape.wiki/images/White_Platelegs.png?302e3",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "White Platelegs worn by a member of the Holy Order of White Knights. (legs slot; melee armour; melee def +23, ranged def +19, magic def +18; crafted at Armour Bench)"
- },
- {
-  "name": "Wild Archer Body",
-  "img": "https://dragonwilds.runescape.wiki/images/Wild_Archer_Body.png?aeaba",
-  "tier": "Wild Archer",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Durable armour worn by a Wild Knight archer. (body slot; ranged armour; melee def +24, ranged def +28, magic def +24; crafted at Armour Bench)"
- },
- {
-  "name": "Wild Archer Chaps",
-  "img": "https://dragonwilds.runescape.wiki/images/Wild_Archer_Chaps.png?d1f99",
-  "tier": "Wild Archer",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "Durable leg armour worn by a Wild Knight archer. (legs slot; ranged armour; melee def +15, ranged def +17, magic def +15; crafted at Armour Bench)"
- },
- {
-  "name": "Wild Archer Cowl",
-  "img": "https://dragonwilds.runescape.wiki/images/Wild_Archer_Cowl.png?d1f99",
-  "tier": "Wild Archer",
-  "tierRank": 2,
-  "chest": "armour",
-  "note": "A helmet worn by a Wild Knight archer. (head slot; ranged armour; melee def +10, ranged def +11, magic def +10; crafted at Armour Bench)"
- },
- {
-  "name": "Wizard Hat",
-  "img": "https://dragonwilds.runescape.wiki/images/Wizard_Hat.png?d1f99",
-  "tier": "Wizard",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "A stylish hat, popular with spellcasters. (head slot; mage armour; melee def 6, ranged def 7, magic def 9; crafted at Armour Bench)"
- },
- {
-  "name": "Wizard Robe Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Wizard_Robe_Legs.png?d1f99",
-  "tier": "Wizard",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "Lightweight magical armour. (legs slot; mage armour; melee def 9, ranged def 10, magic def 4; crafted at Armour Bench)"
- },
- {
-  "name": "Wizard Robes",
-  "img": "https://dragonwilds.runescape.wiki/images/Wizard_Robes.png?d1f99",
-  "tier": "Wizard",
-  "tierRank": 1,
-  "chest": "armour",
-  "note": "Lightweight magical armour. (body slot; mage armour; melee def 15, ranged def 17, magic def 23; crafted at Armour Bench)"
- },
- {
-  "name": "Woodcutting Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Woodcutting_Cape.png?2fc69",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Congratulations! Reaching level 99 in Woodcutting is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
- },
- {
-  "name": "Wooden Shield",
-  "img": "https://dragonwilds.runescape.wiki/images/Wooden_Shield.png?de704",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "Basic protection for those seeking to block and parry more efficiently. (off-hand slot; crafted at Crafting Table)"
- },
- {
-  "name": "Woodsman Ring",
-  "img": "https://dragonwilds.runescape.wiki/images/Woodsman_Ring.png?6806e",
-  "tier": "",
-  "tierRank": null,
-  "chest": "jewellery",
-  "note": "Jewellery item with no stated effect on the wiki."
- },
- {
-  "name": "Yellow Adventurer's Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Yellow_Adventurer%27s_Cape.png?e5ecc",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
- },
- {
-  "name": "Yellow Desert Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Yellow_Desert_Cape.png?b9b3a",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A Yellow cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Yellow Dyad Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Yellow_Dyad_Cape.png?6a512",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Yellow Hex Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Yellow_Hex_Cape.png?47617",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Yellow Torch",
-  "img": "https://dragonwilds.runescape.wiki/images/Yellow_Torch.png?a4a77",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A trusty lightsource - now in yellow. (off-hand slot; crafted at Crafting Table)"
- },
- {
-  "name": "Zamorak Cape",
-  "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Cape.png?8160a",
-  "tier": "",
-  "tierRank": null,
-  "chest": "armour",
-  "note": "A cape that proudly displays obeisance to the god Zamorak. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
- },
- {
-  "name": "Zamorak Hood",
-  "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Hood.png?de324",
-  "tier": "Zamorak",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "A hood styled after the Zamorakian magi of Dowdun Reach. (head slot; mage armour; melee def +15, ranged def +16, magic def +18; crafted at Armour Bench)"
- },
- {
-  "name": "Zamorak Robe Legs",
-  "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Robe_Legs.png?24e4a",
-  "tier": "Zamorak",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Robe legs styled after the Zamorakian magi of Dowdun Reach. (legs slot; mage armour; melee def +23, ranged def +24, magic def +27; crafted at Armour Bench)"
- },
- {
-  "name": "Zamorak Robes",
-  "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Robes.png?f365f",
-  "tier": "Zamorak",
-  "tierRank": 4,
-  "chest": "armour",
-  "note": "Zamorak Robes. (body slot; mage armour; melee def +38, ranged def +39, magic def +45; crafted at Armour Bench)"
- }
+  {
+    "name": "Abraxus Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Abraxus_Ring.png?4e3ff",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Has a chance to reduce the rune cost of utility spells when cast. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Adamant Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Adamant_Helmet.png?0728c",
+    "tier": "Adamant",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A durable adamant helmet forged for the strongest of warriors. (head slot; melee armour; melee def 21, ranged def 19, magic def 18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Adamant Med Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Adamant_Med_Helm_%28Journal%29.png?f38b3",
+    "tier": "Adamant",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A sturdy adamant helm built for serious combat. (head slot; melee armour; melee def 21, ranged def 19, magic def 18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Adamant Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platebody.png?eb43f",
+    "tier": "Adamant",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A sturdy set of adamant chest armour, forged for the strongest of warriors. (body slot; melee armour; melee def 53, ranged def 47, magic def 45; crafted at Armour Bench)"
+  },
+  {
+    "name": "Adamant Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platelegs.png?499cf",
+    "tier": "Adamant",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A sturdy set of adamant leg armour, forged for the strongest of warriors. (legs slot; melee armour; melee def 32, ranged def 28, magic def 27; crafted at Armour Bench)"
+  },
+  {
+    "name": "Adamant Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Adamant_Shield.png?e9de4",
+    "tier": "Adamant",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "Solid protection, slightly heavy. (off-hand slot; melee armour; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Adventurer's Leggings",
+    "img": "https://dragonwilds.runescape.wiki/images/Adventurer%27s_Leggings.png?53b64",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Basic and comfortable attire fit for a new adventurer. (legs slot; melee def 8, ranged def 8, magic def 8; crafted at Crafting Table)"
+  },
+  {
+    "name": "Adventurer's Tunic",
+    "img": "https://dragonwilds.runescape.wiki/images/Adventurer%27s_Tunic.png?6df0e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Basic and comfortable attire fit for a new adventurer. (body slot; melee def 8, ranged def 8, magic def 8; crafted at Crafting Table)"
+  },
+  {
+    "name": "Agility Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Agility_Cape.png?07e93",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Agility is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2)"
+  },
+  {
+    "name": "Amulet of Accuracy",
+    "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Accuracy_%28Journal%29.png?cdf7d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Increased CRITICAL DAMAGE. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Amulet of Defence",
+    "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Defence_%28Journal%29.png?3b44d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Increased ARMOUR VALUE. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Amulet of Glory",
+    "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Glory.png?bc75c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Increased MELEE, MAGIC, and RANGED CRIT DAMAGE. Increased DEFENCE. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Amulet of Magic",
+    "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Magic_%28Journal%29.png?b5f2c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Increased MAGIC DAMAGE. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Amulet of Strength",
+    "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Strength_%28Journal%29.png?b7172",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Increased MELEE DAMAGE. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Ancestral Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Hat_%28Journal%29.png?f38b3",
+    "tier": "Ancestral",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "Woven with ancient knowledge and arcane tradition. The hat is old, the magic within is older. (head slot; mage armour; melee def 21, ranged def 22, magic def 24; crafted at Armour Bench)"
+  },
+  {
+    "name": "Ancestral Leggings",
+    "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Leggings_%28Journal%29.png?f38b3",
+    "tier": "Ancestral",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "Enchanted garments that carry the legacy of generations of powerful spellcasters. (legs slot; mage armour; melee def 32, ranged def 33, magic def 36; crafted at Armour Bench)"
+  },
+  {
+    "name": "Ancestral Robes",
+    "img": "https://dragonwilds.runescape.wiki/images/Ancestral_Robes_%28Journal%29.png?f38b3",
+    "tier": "Ancestral",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "Robes worn in the pursuit of magical mastery, embroidered with symbols whose meaning has long been forgotten. (body slot; mage armour; melee def 53, ranged def 54, magic def 60; crafted at Armour Bench)"
+  },
+  {
+    "name": "Angler's Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Angler%27s_Hat.png?b653e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A rather dapper looking cap that upon catching a fish has a chance to not reduce the amount of fish in the node. (head slot; melee def +1, ranged def +1, magic def +1; crafted at Crafting Table)"
+  },
+  {
+    "name": "Anti-Dragon Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Anti-Dragon_Shield.png?de704",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "This provides partial protection from dragonbreath attacks. (off-hand slot; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Apprentice Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Apprentice_Hat.png?a1adf",
+    "tier": "Apprentice",
+    "tierRank": 0,
+    "chest": "armour",
+    "note": "A comfortable hat made from linen, perfect for adventurers who are practicing magic. (head slot; mage armour; melee def +3, ranged def +4, magic def +6)"
+  },
+  {
+    "name": "Apprentice Leggings",
+    "img": "https://dragonwilds.runescape.wiki/images/Apprentice_Leggings.png?a1adf",
+    "tier": "Apprentice",
+    "tierRank": 0,
+    "chest": "armour",
+    "note": "Provides basic protection for trainees in the magical arts. (legs slot; mage armour; melee def +5, ranged def +6, magic def +9)"
+  },
+  {
+    "name": "Apprentice Robe",
+    "img": "https://dragonwilds.runescape.wiki/images/Apprentice_Robe.png?a1adf",
+    "tier": "Apprentice",
+    "tierRank": 0,
+    "chest": "armour",
+    "note": "Provides basic protection for trainees in the magical arts. (body slot; mage armour; melee def +8, ranged def +9, magic def +15)"
+  },
+  {
+    "name": "Artisan Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Artisan_Cape.png?f8ad9",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Artisan is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Attack Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Attack_Cape.png?06c55",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Attack is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Ava's Accumulator",
+    "img": "https://dragonwilds.runescape.wiki/images/Ava%27s_Accumulator.png?3e88b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A bagged chicken ready to serve you, magnet in claw. (melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Bag of Noggin'",
+    "img": "https://dragonwilds.runescape.wiki/images/Bag_of_Noggin%27.png?52628",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "The only thing this protects is your identity. (head slot; melee def +1, ranged def +1, magic def +1; crafted at Crafting Table)"
+  },
+  {
+    "name": "Black Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Adventurer%27s_Cape.png?05bac",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Black Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Desert_Cape.png?108ca",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A black cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Black Dragonhide Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Body_%28Journal%29.png?f38b3",
+    "tier": "Black Dragonhide",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "Tough, flexible black dragonhide armour trusted by hunters who prefer to strike from afar. (body slot; ranged armour; melee def 54, ranged def 58, magic def 54; crafted at Armour Bench)"
+  },
+  {
+    "name": "Black Dragonhide Chaps",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Chaps_%28Journal%29.png?f38b3",
+    "tier": "Black Dragonhide",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "Crafted from resilient black dragonhide, these leggings allow swift movement while providing excellent protection. (legs slot; ranged armour; melee def 33, ranged def 35, magic def 33; crafted at Armour Bench)"
+  },
+  {
+    "name": "Black Dragonhide Coif",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Dragonhide_Coif_%28Journal%29.png?f38b3",
+    "tier": "Black Dragonhide",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "Fashioned from black dragonhide, this helm offers protection without hindering an archer's awareness. (head slot; ranged armour; melee def 22, ranged def 23, magic def 22; crafted at Armour Bench)"
+  },
+  {
+    "name": "Black Knight Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Helmet.png?cadc9",
+    "tier": "Black metal",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "A metal helm worn by the Black Knights of Dowdun Reach. (head slot; melee armour; melee def +18, ranged def +16, magic def +15; crafted at Armour Bench)"
+  },
+  {
+    "name": "Black Knight Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Platebody.png?7a846",
+    "tier": "Black metal",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "A heavy chestplate worn by the Black Knights of Dowdun Reach. (body slot; melee armour; melee def 45, ranged def 39, magic def 38; crafted at Armour Bench)"
+  },
+  {
+    "name": "Black Knight Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Knight_Platelegs.png?d7d78",
+    "tier": "Black metal",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "Sturdy leg armour worn by the Black Knights of Dowdun Reach. (legs slot; melee armour; melee def 27, ranged def 24, magic def 23; crafted at Armour Bench)"
+  },
+  {
+    "name": "Black Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Black_Shield.png?97c8f",
+    "tier": "Black metal",
+    "tierRank": 6,
+    "chest": "armour",
+    "note": "A shield popularised by the Black Knights and made from black matal. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Bloodblight Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Bloodblight_Cape.png?a1adf",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cloak commemorating a dragon's vengeance. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Blue Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Adventurer%27s_Cape.png?94558",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Blue Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Desert_Cape.png?815df",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A Blue cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Blue Dragonhide Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Body.png?a9b8b",
+    "tier": "Blue Dragonhide",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Ranged body armour crafted from blue dragonhide. Form-fitting, yet intimidating. (body slot; ranged armour; melee def +39, ranged def +43, magic def +39; crafted at Armour Bench)"
+  },
+  {
+    "name": "Blue Dragonhide Chaps",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Chaps.png?d11d5",
+    "tier": "Blue Dragonhide",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Flexible ranged leg armour crafted from blue dragonhide. (legs slot; ranged armour; melee def +24, ranged def +26, magic def +24; crafted at Armour Bench)"
+  },
+  {
+    "name": "Blue Dragonhide Coif",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Dragonhide_Coif.png?2948c",
+    "tier": "Blue Dragonhide",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Lightweight ranged headgear crafted from blue dragonhide. (head slot; ranged armour; melee def +16, ranged def +17, magic def +16; crafted at Armour Bench)"
+  },
+  {
+    "name": "Blue Dyed Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Blue Hex Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Hex_Cape.png?3fe82",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Blue Torch",
+    "img": "https://dragonwilds.runescape.wiki/images/Blue_Torch.png?2fc71",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A trusty lightsource. (off-hand slot; crafted at Crafting Table)"
+  },
+  {
+    "name": "Bramblemead Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Bramblemead_Cape.png?5c246",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cloak to remember simpler times. (body slot; melee def +2, ranged def +2, magic def +2)"
+  },
+  {
+    "name": "Bronze Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Helmet.png?a1adf",
+    "tier": "Bronze",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "A helmet forged from bronze. (head slot; melee armour; melee def +9, ranged def +7, magic def +6; crafted at Armour Bench)"
+  },
+  {
+    "name": "Bronze Med Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Med_Helm_%28Journal%29.png?f38b3",
+    "tier": "Bronze",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "A simple bronze helm that's seen more training grounds than battlefields. (head slot; melee armour; melee def 9, ranged def 7, magic def 6; crafted at Armour Bench)"
+  },
+  {
+    "name": "Bronze Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Platebody.png?a1adf",
+    "tier": "Bronze",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "A heavy chestplate made from bronze. (body slot; melee armour; melee def +23, ranged def +17, magic def +15; crafted at Armour Bench)"
+  },
+  {
+    "name": "Bronze Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Platelegs.png?a1adf",
+    "tier": "Bronze",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "Heavy platelegs made from bronze. (legs slot; melee armour; melee def +14, ranged def +10, magic def +9; crafted at Armour Bench)"
+  },
+  {
+    "name": "Bronze Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Shield.png?c2a0c",
+    "tier": "Bronze",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "Steadily block and parry attacks with this basic, dependable bronze shield. (off-hand slot; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Chef's Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Chef%27s_Hat.png?a1adf",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "What a silly hat. (head slot; melee def 1, ranged def 1, magic def 1; crafted at Crafting Table)"
+  },
+  {
+    "name": "Community Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Community_Cape.png?b4928",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A symbol of dedication and support, this cape is granted to those who leave a lasting mark on the community. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Crafting Table)"
+  },
+  {
+    "name": "Construction Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Construction_Cape.png?26e9c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Construction is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Cooking Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Cooking_Cape.png?0c2ba",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Cooking is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Dark Mage Hood",
+    "img": "https://dragonwilds.runescape.wiki/images/Dark_Mage_Hood.png?5b65c",
+    "tier": "Dark Mage",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "A mystical hood, popular with edgier wizards. (head slot; mage armour; melee def +9, ranged def +10, magic def +12; crafted at Armour Bench)"
+  },
+  {
+    "name": "Dark Mage Robe Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Dark_Mage_Robe_Legs.png?5b65c",
+    "tier": "Dark Mage",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Lightweight magical armour for edgier spellcasters. (legs slot; mage armour; melee def +14, ranged def +15, magic def +18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Dark Mage Robes",
+    "img": "https://dragonwilds.runescape.wiki/images/Dark_Mage_Robes.png?5b65c",
+    "tier": "Dark Mage",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Magical armour for the edgier wizard. (body slot; mage armour; melee def +23, ranged def +24, magic def +30; crafted at Armour Bench)"
+  },
+  {
+    "name": "Desert Hood",
+    "img": "https://dragonwilds.runescape.wiki/images/Desert_Hood.png?a717f",
+    "tier": "Desert",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A lightweight hood woven for the harsh desert sun. It shields the wearer from heat and drifting sands. (head slot; mage armour; melee def -, ranged def -, magic def -; crafted at Armour Bench)"
+  },
+  {
+    "name": "Desert Robe Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Desert_Robe_Legs.png?a1791",
+    "tier": "Desert",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "Lightweight leggings made for desert travel, offering protection from heat while allowing easy movement across the sand. (legs slot; mage armour; melee def -, ranged def -, magic def -; crafted at Armour Bench)"
+  },
+  {
+    "name": "Desert Robes",
+    "img": "https://dragonwilds.runescape.wiki/images/Desert_Robes.png?eb854",
+    "tier": "Desert",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "Loose-fitting and breathable, this robe protects against the sun's harsh glare while allowing air to flow freely. (body slot; mage armour; melee def -, ranged def -, magic def -; crafted at Armour Bench)"
+  },
+  {
+    "name": "Dowdun Reach Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Dowdun_Reach_Cape.png?518a5",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "There is no better display of mastery of the Dowdun Reach area. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Dragon Full Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragon_Full_Helm_%28Journal%29.png?571f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A fearsome helm forged from dragon metal. Protects your head. Dragons generally aim downwards. (head slot; melee armour; melee def 27, ranged def 25, magic def 24)"
+  },
+  {
+    "name": "Dragon Kiteshield",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragon_Kiteshield_%28Journal%29.png?571f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A dragon-forged kiteshield built to stand firm against overwhelming odds. (off-hand slot; off-hand shield)"
+  },
+  {
+    "name": "Dragon Med Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragon_Med_Helm_%28Journal%29.png?571f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "An imposing helm forged from legendary dragon metal. (head slot; melee armour; melee def 27, ranged def 25, magic def 24)"
+  },
+  {
+    "name": "Dragon Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragon_Platebody_%28Journal%29.png?571f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "The centrepiece of the dragon armour set, forged to withstand blows that would cripple lesser warriors. (body slot; melee armour; melee def 68, ranged def 62, magic def 60)"
+  },
+  {
+    "name": "Dragon Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragon_Platelegs_%28Journal%29.png?571f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Dragon-forged platelegs offering exceptional protection without sacrificing mobility. (legs slot; melee armour; melee def 41, ranged def 37, magic def 36)"
+  },
+  {
+    "name": "Dragonbane Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragonbane_Cape.png?5b65c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A badge of honor for those who completed all challenges during the closed Alpha Test. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Dragonblight Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragonblight_Shield.png?00af6",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "The Spirit of Velgar lives on within this shield, corrupting your enemies. (off-hand slot; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Dragoncurse Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragoncurse_Shield.png?b572d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "The spirit of Imaru lives on within this shield. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Dragonfire Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragonfire_Shield.png?22188",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A shield forged in the wake of Fuzan's fall. Its scales still glow with a smoldering heat, as though the dragon's fury refuses to fade. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Dragonkin Mage Hood",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragonkin_Mage_Hood.png?5b65c",
+    "tier": "Dragonkin Mage",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "A hood styled after the ancient overlords of Ashenfall. (head slot; mage armour; melee def +9, ranged def +10, magic def +12; crafted at Armour Bench)"
+  },
+  {
+    "name": "Dragonkin Mage Robe Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragonkin_Mage_Robe_Legs.png?5b65c",
+    "tier": "Dragonkin Mage",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Leggings styled after the ancient overlords of Ashenfall. (legs slot; mage armour; melee def +14, ranged def +15, magic def +18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Dragonkin Mage Robes",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragonkin_Mage_Robes.png?5b65c",
+    "tier": "Dragonkin Mage",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Robes styled after the ancient overlords of Ashenfall. (body slot; mage armour; melee def +23, ranged def +24, magic def +30; crafted at Armour Bench)"
+  },
+  {
+    "name": "Dragonslayer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Dragonslayer%27s_Cape_%28Journal%29.png?571f2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Awarded to those who have faced Queen Kuldra and Emerged victorious. Few Capes carry greater prestige. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Fallen Hoplite's Aspis",
+    "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Aspis.png?eb007",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "The shield of an Undead Hoplite. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Fallen Hoplite's Chest",
+    "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Chest.png?fb0d1",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Melee chest armour once belonging to a long dead Saradomin Hoplite. (body slot; melee armour; melee def +38, ranged def +32, magic def +30; crafted at Armour Bench)"
+  },
+  {
+    "name": "Fallen Hoplite's Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Helm.png?ba07d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A Melee helmet once belonging to a long dead Saradomin Hoplite. (head slot; melee armour; melee def +15, ranged def +13, magic def +12; crafted at Armour Bench)"
+  },
+  {
+    "name": "Fallen Hoplite's Tassets",
+    "img": "https://dragonwilds.runescape.wiki/images/Fallen_Hoplite%27s_Tassets.png?a85d2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Melee leg armour once belonging to a long dead Saradomin Hoplite. (legs slot; melee armour; melee def +23, ranged def +19, magic def +18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Farmer's Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Farmer%27s_Hat.png?103b5",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A delightful piece of headwear, popular with those who toil the land. (head slot; melee def +1, ranged def +1, magic def +1; crafted at Crafting Table)"
+  },
+  {
+    "name": "Farming Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Farming_Cape.png?39ef8",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Farming is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Fellhollow Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Fellhollow_Cape.png?2d1f8",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cloak depicting the ethereal beauty of Fellhollow. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Fire Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Fire_Cape.png?72d4b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Receiving or blocking damage has a chance to triggering burning on your attacker. Melee kills on Burning enemies refill stamina. (body slot; melee def +4, ranged def +4, magic def +4)"
+  },
+  {
+    "name": "Fishing Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Fishing_Cape.png?2a4a8",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Fishing is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Fractured Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Fractured_Cape.png?5b65c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cloak warning against the danger of hubris. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Garou Highborn's Cloak",
+    "img": "https://dragonwilds.runescape.wiki/images/Garou_Highborn%27s_Cloak.png?5b65c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cloak worn by garou nobility. (body slot; melee def +2, ranged def +2, magic def +2)"
+  },
+  {
+    "name": "Gilded Gyrhawk Amulet",
+    "img": "https://dragonwilds.runescape.wiki/images/Gilded_Gyrhawk_Amulet.png?fd035",
+    "tier": "Gilded",
+    "tierRank": 1,
+    "chest": "jewellery",
+    "note": "+25% Increased AGILITY XP from Agility Courses. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Gilded Paladin Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Cape_%28Journal%29.png?0e33a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A magnificent cape trimmed in gold, worn by those who wish to stand apart from the crowd. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Crafting Table)"
+  },
+  {
+    "name": "Gilded Paladin Chestpiece",
+    "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Chestpiece_%28Journal%29.png?78d70",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "An ornate golden chestpiece that serves as a symbol of power, status, and confidence. (body slot; melee armour; melee def 30, ranged def 24, magic def 23; crafted at Armour Bench)"
+  },
+  {
+    "name": "Gilded Paladin Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Helmet_%28Journal%29.png?78d70",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Polished to a brilliant shine, this helmet is as impressive as it is eye-catching. (head slot; melee armour; melee def 12, ranged def 10, magic def 9; crafted at Armour Bench)"
+  },
+  {
+    "name": "Gilded Paladin Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Legs_%28Journal%29.png?78d70",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Golden platelegs for warriors who believe protection should be seen from a distance. (legs slot; melee armour; melee def 18, ranged def 15, magic def 14; crafted at Armour Bench)"
+  },
+  {
+    "name": "Goblin War Banner",
+    "img": "https://dragonwilds.runescape.wiki/images/Goblin_War_Banner.png?5b65c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cloak reminding us that even gods can be forgotten. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Gourmand Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Gourmand_Ring.png?9b2da",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Green Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Adventurer%27s_Cape.png?03c93",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Green Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Desert_Cape.png?922e5",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A Green cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Green Dragonhide Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Body.png?32562",
+    "tier": "Green Dragonhide",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Ranged body armour crafted from Green Dragonhide. Form-fitting yet intimidating. (body slot; ranged armour; melee def +32, ranged def +36, magic def +32; crafted at Armour Bench)"
+  },
+  {
+    "name": "Green Dragonhide Chaps",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Chaps.png?19ab2",
+    "tier": "Green Dragonhide",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Agile Ranged leg armour crafted from Green Dragonhide. (legs slot; ranged armour; melee def +19, ranged def +21, magic def +19; crafted at Armour Bench)"
+  },
+  {
+    "name": "Green Dragonhide Coif",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Dragonhide_Coif.png?f0ba4",
+    "tier": "Green Dragonhide",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Lightweight Ranger headgear crafted from Green Dragonhide for Ranged users. (head slot; ranged armour; melee def +13, ranged def +14, magic def +13; crafted at Armour Bench)"
+  },
+  {
+    "name": "Green Dyad Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Dyad_Cape.png?945e8",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Green Hex Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Hex_Cape.png?bc0f6",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Green Torch",
+    "img": "https://dragonwilds.runescape.wiki/images/Green_Torch.png?fc371",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A trusty lightsource - now in green. (off-hand slot; crafted at Crafting Table)"
+  },
+  {
+    "name": "Gyrhawk Amulet",
+    "img": "https://dragonwilds.runescape.wiki/images/Gyrhawk_Amulet.png?7d0c9",
+    "tier": "Basic",
+    "tierRank": 0,
+    "chest": "jewellery",
+    "note": "While wearing this amulet, Warped Feathers are consumed to award additional XP while exploring the world. Crafted at a Crafting Table."
+  },
+  {
+    "name": "Hard Leather Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather_Body.png?9b2da",
+    "tier": "Hard Leather",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "Durable armour crafted from hard leather. (body slot; ranged armour; melee def 17, ranged def 21, magic def 17; crafted at Armour Bench)"
+  },
+  {
+    "name": "Hard Leather Chaps",
+    "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather_Chaps.png?9b2da",
+    "tier": "Hard Leather",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "Durable armour crafted from hard leather. (legs slot; ranged armour; melee def 10, ranged def 12, magic def 10; crafted at Armour Bench)"
+  },
+  {
+    "name": "Hard Leather Cowl",
+    "img": "https://dragonwilds.runescape.wiki/images/Hard_Leather_Cowl.png?9b2da",
+    "tier": "Hard Leather",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "A durable helmet crafted from hard leather. (head slot; ranged armour; melee def 7, ranged def 8, magic def 7; crafted at Armour Bench)"
+  },
+  {
+    "name": "Herd Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Herd_Ring.png?9b2da",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Hermit Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Hermit_Ring.png?9b2da",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Infinity Robe Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Body.png?892c5",
+    "tier": "Infinity Robe",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A wizard's robe, infused with endless arcane force. (body slot; mage armour; melee def +45, ranged def +47, magic def +53; crafted at Armour Bench)"
+  },
+  {
+    "name": "Infinity Robe Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Hat.png?aa8fe",
+    "tier": "Infinity Robe",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A wizard's hat, infused with boundless magical power. (head slot; mage armour; melee def +18, ranged def +19, magic def +21; crafted at Armour Bench)"
+  },
+  {
+    "name": "Infinity Robe Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Infinity_Robe_Legs.png?3b400",
+    "tier": "Infinity",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A wizard's hat, infused with boundless magical power. (legs slot; mage armour; melee def +27, ranged def +28, magic def +32; crafted at Armour Bench)"
+  },
+  {
+    "name": "Inspiring Amulet of Attack",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Attack.png?2833e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Amulet of Magic",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Magic.png?2cab7",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Amulet of Ranged",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Amulet_of_Ranged.png?92f24",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Agility",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Agility.png?91a88",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Artisan",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Artisan.png?24f33",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Construction",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Construction.png?a122b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Cooking",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Cooking.png?4adaa",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Farming",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Farming.png?9c238",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Fishing",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Fishing.png?bdeaa",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Mining",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Mining.png?32545",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Runecrafting",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Runecrafting.png?14c3f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Inspiring Ring of Woodcutting",
+    "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Woodcutting.png?22f5b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Iron Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Iron_Helmet.png?9b2da",
+    "tier": "Iron",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Protect your head with this sturdy iron headgear. (head slot; melee armour; melee def 12, ranged def 10, magic def 9; crafted at Armour Bench)"
+  },
+  {
+    "name": "Iron Med Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Iron_Med_Helm_%28Journal%29.png?78d70",
+    "tier": "Iron",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "A dependable helm trusted by countless adventurers. (head slot; melee armour; melee def 12, ranged def 10, magic def 9; crafted at Armour Bench)"
+  },
+  {
+    "name": "Iron Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Iron_Platebody.png?9b2da",
+    "tier": "Iron",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "A heavy iron chestplate, providing superior protection in battle. (body slot; melee armour; melee def 30, ranged def 24, magic def 23; crafted at Armour Bench)"
+  },
+  {
+    "name": "Iron Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Iron_Platelegs.png?9b2da",
+    "tier": "Iron",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Sturdy iron leg armour. (legs slot; melee armour; melee def 18, ranged def 15, magic def 14; crafted at Armour Bench)"
+  },
+  {
+    "name": "Iron Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Iron_Shield.png?9f0a3",
+    "tier": "Iron",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "A reliable, durable shield crafted from iron; perfect for tanking big hits. (off-hand slot; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Kalphite Carapace Chest",
+    "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Chest.png?a9d03",
+    "tier": "Kalphite Carapace",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "This chest armour is made from parts of the kalphites. Its durable but flexible nature makes it excellent for rangers. (body slot; ranged armour; melee def +47, ranged def +51, magic def +47; crafted at Armour Bench)"
+  },
+  {
+    "name": "Kalphite Carapace Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Helmet.png?21975",
+    "tier": "Kalphite Carapace",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "This helmet is made from parts of the kalphites. Its durable but flexible nature makes it excellent for rangers. (head slot; ranged armour; melee def +19, ranged def +20, magic def +19; crafted at Armour Bench)"
+  },
+  {
+    "name": "Kalphite Carapace Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Kalphite_Carapace_Legs.png?04bab",
+    "tier": "Kalphite Carapace",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "This leg armour is made from parts of the kalphites. Its durable but flexible nature makes it excellent for rangers. (legs slot; ranged armour; melee def +28, ranged def +30, magic def +28; crafted at Armour Bench)"
+  },
+  {
+    "name": "Leather Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Leather_Body.png?9b2da",
+    "tier": "Leather",
+    "tierRank": 0,
+    "chest": "armour",
+    "note": "Protective armour made from leather. (body slot; ranged armour; melee def +9, ranged def +13, magic def +9)"
+  },
+  {
+    "name": "Leather Chaps",
+    "img": "https://dragonwilds.runescape.wiki/images/Leather_Chaps.png?9b2da",
+    "tier": "Leather",
+    "tierRank": 0,
+    "chest": "armour",
+    "note": "Protective armour made from leather. (legs slot; ranged armour; melee def +6, ranged def +8, magic def +6)"
+  },
+  {
+    "name": "Leather Cowl",
+    "img": "https://dragonwilds.runescape.wiki/images/Leather_Cowl.png?9b2da",
+    "tier": "Leather",
+    "tierRank": 0,
+    "chest": "armour",
+    "note": "Protective armour made from leather. (head slot; ranged armour; melee def +4, ranged def +5, magic def +4)"
+  },
+  {
+    "name": "Leather Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Leather_Shield.png?89f78",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A slightly more refined and durable shield made from wood and tanned animal hide. (off-hand slot)"
+  },
+  {
+    "name": "Leggings Of Lightness",
+    "img": "https://dragonwilds.runescape.wiki/images/Leggings_Of_Lightness.png?9b2da",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Fabeled leggings that allow you to carry more!. (legs slot; melee def +0, ranged def +0, magic def +0; crafted at Crafting Table)"
+  },
+  {
+    "name": "Lumber Backpack",
+    "img": "https://dragonwilds.runescape.wiki/images/Lumber_Backpack.png?838ce",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Stylish? Yes! But not only that... A highly functional backpack that improves your luck with rare wood resource drops. It also lightens the weight of carried wood, and gives a gentle boost to woodcutting progression. (body slot; crafted at Armour Bench)"
+  },
+  {
+    "name": "Lunar Garou Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Hat.png?b3a6b",
+    "tier": "Lunar Garou",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "A lunar-infused hood designed to complement the garou robes, Suitable for magic users, enhancing healing abilities at night. (head slot; mage armour; melee def +18, ranged def +19, magic def +21; crafted at Armour Bench)"
+  },
+  {
+    "name": "Lunar Garou Robe Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robe_Legs.png?d2e0b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Lunar-imbued leggings that complete the garou robe set. Suitable for magic users, enhancing healing abilities at night. (legs slot; mage armour; crafted at Armour Bench)"
+  },
+  {
+    "name": "Lunar Garou Robes",
+    "img": "https://dragonwilds.runescape.wiki/images/Lunar_Garou_Robes.png?345d5",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Robes woven under the light of a full moon, imbued with the wild power of the garou. Suitable for magic users, enhancing healing abilities at night. (body slot; mage armour; crafted at Armour Bench)"
+  },
+  {
+    "name": "Magic Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Magic_Cape.png?69480",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Magic is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Miner Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Miner_Ring.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Mining Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Mining_Cape.png?bc90a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Mining is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Mithril Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Mithril_Helmet.png?f3bcf",
+    "tier": "Mithril",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Protect your head with this durable mithril headgear. (head slot; melee armour; melee def 18, ranged def 16, magic def 15; crafted at Armour Bench)"
+  },
+  {
+    "name": "Mithril Med Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Mithril_Med_Helm_%28Journal%29.png?78d70",
+    "tier": "Mithril",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Lightweight, durable, and highly sought after. (head slot; melee armour; melee def 18, ranged def 16, magic def 15; crafted at Armour Bench)"
+  },
+  {
+    "name": "Mithril Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Mithril_Platebody.png?00114",
+    "tier": "Mithril",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "A heavy mithril plate, providing welcome protection in battle. (body slot; melee armour; melee def +45, ranged def +39, magic def +38; crafted at Armour Bench)"
+  },
+  {
+    "name": "Mithril Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Mithril_Platelegs.png?6ce42",
+    "tier": "Mithril",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Durable mithril leg armour. (legs slot; melee armour; melee def 27, ranged def 24, magic def 23; crafted at Armour Bench)"
+  },
+  {
+    "name": "Mithril Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Mithril_Shield.png?50346",
+    "tier": "Mithril",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "A sturdy shield crafted from mithril. Perfect for holding your ground. (off-hand slot; melee armour; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Moon Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Moon_Ring.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Mule Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Mule_Ring.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Mystic Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Mystic_Hat.png?0f26d",
+    "tier": "Mystic",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "A magically resonant hood, perfect for staying warm. (head slot; mage armour; melee def 15, ranged def 16, magic def 18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Mystic Robe Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Mystic_Robe_Legs.png?38081",
+    "tier": "Mystic",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Lightweight magical gear for the aspiring sorcerer. (legs slot; mage armour; melee def 23, ranged def 24, magic def 27; crafted at Armour Bench)"
+  },
+  {
+    "name": "Mystic Robes",
+    "img": "https://dragonwilds.runescape.wiki/images/Mystic_Robes.png?694fe",
+    "tier": "Mystic",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "The finest magical thread, spun into fabolous mage gear. (body slot; mage armour; melee def 38, ranged def 39, magic def 45; crafted at Armour Bench)"
+  },
+  {
+    "name": "Necromancer's Crown",
+    "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Crown.png?8dab5",
+    "tier": "Necromancer's",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Magical headgear for those that rule over their undead minions. (head slot; mage armour; melee def +12, ranged def +13, magic def +15; crafted at Armour Bench)"
+  },
+  {
+    "name": "Necromancer's Robe Bottom",
+    "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Robe_Bottom.png?8f047",
+    "tier": "Necromancer's",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Leggings styled after the ancient overlords of Ashenfall. (body slot; mage armour; melee def +18, ranged def +19, magic def +23; crafted at Armour Bench)"
+  },
+  {
+    "name": "Necromancer's Robe Top",
+    "img": "https://dragonwilds.runescape.wiki/images/Necromancer%27s_Robe_Top.png?40ad2",
+    "tier": "Necromancer's",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Leggings styled after the ancient overlords of Ashenfall. (body slot; mage armour; melee def +30, ranged def +32, magic def +38; crafted at Armour Bench)"
+  },
+  {
+    "name": "Obsidian Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Cape.png?1a170",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Black as cooled lava, this cape radiates a faint, lingering heat. It provides a small boost to Defence. (body slot; melee def +4, ranged def +4, magic def +4; crafted at Armour Bench)"
+  },
+  {
+    "name": "Obsidian Chest",
+    "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Chest.png?00b73",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Heavy obsidian chest armour designed for frontline warriors. Offers exceptional protection and resilience in close combat. (body slot; melee armour; melee def +53, ranged def +47, magic def +45; crafted at Armour Bench)"
+  },
+  {
+    "name": "Obsidian Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Helmet.png?647e6",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A sturdy obsidian helmet designed for frontline warriors. Offers exceptional protection and resilience in close combat. (head slot; melee armour; melee def +21, ranged def +19, magic def +18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Obsidian Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Obsidian_Legs.png?6621a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Heavy obsidian leg armour designed for frontline warriors. Offers exceptional protection and resilience in close combat. (legs slot; melee armour; melee def +32, ranged def +28, magic def +27; crafted at Armour Bench)"
+  },
+  {
+    "name": "Orange Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Orange_Adventurer%27s_Cape.png?05bac",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Orange Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Orange_Desert_Cape.png?39d40",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A Orange cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Paladin Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Paladin_Platelegs.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Sturdy leg armour worn by the paladins of Saradomin. (legs slot; melee armour; melee def 18, ranged def 15, magic def 14; crafted at Armour Bench)"
+  },
+  {
+    "name": "Paladin's Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Paladin%27s_Helm.png?06e8f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A metal helm, worn by paladins in service to the church of Saradomin. (head slot; melee armour; melee def 12, ranged def 10, magic def 9; crafted at Armour Bench)"
+  },
+  {
+    "name": "Paladin's Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Paladin%27s_Platebody.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A heavy chestplate worn by the paladins of Saradomin. (body slot; melee armour; melee def 30, ranged def 24, magic def 23; crafted at Armour Bench)"
+  },
+  {
+    "name": "Phoenix Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Phoenix_Ring.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Pink Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Pink_Adventurer%27s_Cape.png?05bac",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Pink Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Pink_Desert_Cape.png?19596",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A Pink cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Pink Dyad Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Pink_Dyad_Cape.png?b7c75",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Pink Hex Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Pink_Hex_Cape.png?b64ac",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Pioneer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Pioneer%27s_Cape.png?78d70",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape worn by Ashenfall's first explorers. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Crafting Table)"
+  },
+  {
+    "name": "Pioneer's Scarf",
+    "img": "https://dragonwilds.runescape.wiki/images/Pioneer%27s_Scarf.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A scarf worn by Ashenfall's first explorers. (body slot; melee def +0, ranged def +0, magic def +0; crafted at Crafting Table)"
+  },
+  {
+    "name": "Prayer Cape",
+    "img": "",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Cape of Accomplishment requiring level 99 Prayer, craftable at a crafting table once earned; a trimmed version is available if multiple skills are at 99."
+  },
+  {
+    "name": "Purple Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Purple_Adventurer%27s_Cape.png?e72aa",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Purple Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Purple_Desert_Cape.png?887b4",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A Purple cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Purple Torch",
+    "img": "https://dragonwilds.runescape.wiki/images/Purple_Torch.png?b69e8",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A trusty lightsource - now in purple. (off-hand slot; crafted at Crafting Table)"
+  },
+  {
+    "name": "Ranged Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Ranged_Cape.png?39ef8",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Ranged is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Ranger Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Ranger_Hat.png?07a9f",
+    "tier": "Ranger",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Ranger head gear. Wearing this gives you the urge to rob from the rich to help the poor for some reason. (head slot; ranged armour; melee def +13, ranged def +14, magic def +13; crafted at Armour Bench)"
+  },
+  {
+    "name": "Ranger Tights",
+    "img": "https://dragonwilds.runescape.wiki/images/Ranger_Tights.png?d945e",
+    "tier": "Ranger",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Ranger leg gear that makes you feel both agile and slightly rebellious. (legs slot; ranged armour; melee def +19, ranged def +21, magic def +19; crafted at Armour Bench)"
+  },
+  {
+    "name": "Ranger Tunic",
+    "img": "https://dragonwilds.runescape.wiki/images/Ranger_Tunic.png?69c19",
+    "tier": "Ranger",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Ranger armour that's as dangerous as it is dapper!. (body slot; ranged armour; melee def +32, ranged def +36, magic def +32; crafted at Armour Bench)"
+  },
+  {
+    "name": "Ravanna's Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Ravanna%27s_Ring.png?f500d",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "After KILLING an enemy, there is a chance for a CORPSE COTTON FLOWER to grow where they fell. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Red Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Adventurer%27s_Cape.png?05bac",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Red Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Desert_Cape.png?c62c3",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A Red cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2)"
+  },
+  {
+    "name": "Red Dragonhide Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Body.png?95f13",
+    "tier": "Red Dragonhide",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "Agile chest armour stitched from red dragonhide, fit for the finest of archers. (body slot; ranged armour; melee def +47, ranged def +51, magic def +47; crafted at Armour Bench)"
+  },
+  {
+    "name": "Red Dragonhide Coif",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Coif.png?99b7e",
+    "tier": "Red Dragonhide",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "Headgear made of red dragonhide, fit for the finest of archers. (head slot; ranged armour; melee def +19, ranged def +20, magic def +19; crafted at Armour Bench)"
+  },
+  {
+    "name": "Red Dragonhide Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Dragonhide_Legs.png?be9c9",
+    "tier": "Red Dragonhide",
+    "tierRank": 5,
+    "chest": "armour",
+    "note": "Headgear made of red dragonhide, fit for the finest of archers. (legs slot; ranged armour; melee def +28, ranged def +30, magic def +28; crafted at Armour Bench)"
+  },
+  {
+    "name": "Red Dyad Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Dyad_Cape.png?23ac2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Red Hex Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Hex_Cape.png?4ea93",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Red Torch",
+    "img": "https://dragonwilds.runescape.wiki/images/Red_Torch.png?c1b0a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A trusty lightsource - now in red. (off-hand slot; crafted at Crafting Table)"
+  },
+  {
+    "name": "Reinforced Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Reinforced_Body.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A heavy chestplate made from Leather and Bone. (body slot; melee armour; melee def +15, ranged def +9, magic def +8)"
+  },
+  {
+    "name": "Reinforced Helmet",
+    "img": "https://dragonwilds.runescape.wiki/images/Reinforced_Helmet.png?0b97c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Protect your noggin with this basic headgear made from leather and bone. (head slot; melee armour; melee def +6, ranged def +4, magic def +3; crafted at Crafting Table)"
+  },
+  {
+    "name": "Reinforced Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Reinforced_Legs.png?aeaba",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Heavy platelegs made from Leather and Bone. (legs slot; melee armour; melee def +9, ranged def +6, magic def +5)"
+  },
+  {
+    "name": "Ring of Life",
+    "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Life.png?c801e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "When close to DEATH, TELEPORTS you to your current BED. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Ring of Recoil",
+    "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Recoil.png?a9fd4",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "A PERCENTAGE of DAMAGE received is DEALT back to ATTACKERS. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Rune Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Rune_Helm_%28Journal%29.png?034dd",
+    "tier": "Rune",
+    "tierRank": 7,
+    "chest": "armour",
+    "note": "A sturdy rune helm built to withstand the chaos of close combat. (head slot; melee armour; melee def 24, ranged def 22, magic def 21; crafted at Armour Bench)"
+  },
+  {
+    "name": "Rune Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Rune_Platebody_%28Journal%29.png?034dd",
+    "tier": "Rune",
+    "tierRank": 7,
+    "chest": "armour",
+    "note": "Thick rune plates forged into armour for the strongest of warriors. (body slot; melee armour; melee def 60, ranged def 54, magic def 53; crafted at Armour Bench)"
+  },
+  {
+    "name": "Rune Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Rune_Platelegs_%28Journal%29.png?034dd",
+    "tier": "Rune",
+    "tierRank": 7,
+    "chest": "armour",
+    "note": "Durable rune platelegs designed for warriors who spend more time fighting than running. (legs slot; melee armour; melee def 36, ranged def 33, magic def 32; crafted at Armour Bench)"
+  },
+  {
+    "name": "Rune Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Rune_Shield_%28Journal%29.png?034dd",
+    "tier": "Rune",
+    "tierRank": 7,
+    "chest": "armour",
+    "note": "A rune shield forged to endure punishment that would leave lesser metal in pieces. (off-hand slot; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Runecrafting Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Runecrafting_Cape.png?094a0",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Runecrafting is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Runite Med Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Runite_Med_Helm_%28Journal%29.png?7932b",
+    "tier": "Rune",
+    "tierRank": 7,
+    "chest": "armour",
+    "note": "A strong rune helm, for keeping important thoughts safely inside. (head slot; melee armour; melee def 24, ranged def 22, magic def 21; crafted at Armour Bench)"
+  },
+  {
+    "name": "Salve Amulet",
+    "img": "https://dragonwilds.runescape.wiki/images/Salve_Amulet.png?ed377",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Increased DAMAGE to UNDEAD enemies. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Saradominist Cloak",
+    "img": "https://dragonwilds.runescape.wiki/images/Saradominist_Cloak.png?2c8bc",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Worn by followers of Saradomin, this cloak reflects a commitment to justice and the light of reason. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Crafting Table)"
+  },
+  {
+    "name": "Shadow Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Shadow_Body.png?d9370",
+    "tier": "Shadow",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Durable armour worn by the Children of Shadows. (body slot; ranged armour; melee def +39, ranged def +43, magic def +39; crafted at Armour Bench)"
+  },
+  {
+    "name": "Shadow Chaps",
+    "img": "https://dragonwilds.runescape.wiki/images/Shadow_Chaps.png?f05d5",
+    "tier": "Shadow",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Pliable leg armour worn by the Children of Shadows. (legs slot; ranged armour; melee def +24, ranged def +26, magic def +24; crafted at Armour Bench)"
+  },
+  {
+    "name": "Shadow Cowl",
+    "img": "https://dragonwilds.runescape.wiki/images/Shadow_Cowl.png?2cdd1",
+    "tier": "Shadow",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "A ranged headpiece worn by the Children of Shadows. (head slot; ranged armour; melee def +16, ranged def +17, magic def +16; crafted at Armour Bench)"
+  },
+  {
+    "name": "Shadowscale Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Shadowscale_Cape.png?f0009",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape worn by those from the lands of death and decay. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Shadowscale Hood",
+    "img": "https://dragonwilds.runescape.wiki/images/Shadowscale_Hood.png?7986f",
+    "tier": "Shadowscale",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Ranger Headgear worn by the Skeleton Archer's. (head slot; ranged armour; melee def +13, ranged def +14, magic def +13; crafted at Armour Bench)"
+  },
+  {
+    "name": "Shroud of Noggin",
+    "img": "https://dragonwilds.runescape.wiki/images/Shroud_of_Noggin.png?59792",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A ghostly sackcloth mask. Reduces Wither buildup while worn. (head slot; melee def +1, ranged def +1, magic def +1; crafted at Crafting Table)"
+  },
+  {
+    "name": "Skills Necklace",
+    "img": "https://dragonwilds.runescape.wiki/images/Skills_Necklace.png?6268e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Grants a BONUS when gathering FISHING, MINING and WOODCUTTING resources in the world. Crafted at a Jeweler's Bench."
+  },
+  {
+    "name": "Spectral Chinchompa Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Spectral_Chinchompa_Cape.png?6996c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Ab, artistic, if unusual, cape. (body slot; melee def +2, ranged def +2, magic def +2)"
+  },
+  {
+    "name": "Splitbark Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Body.png?25d30",
+    "tier": "Splitbark",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Magical armour crafted from fine cloth and hollow bark. it has strange magical properties. (body slot; mage armour; melee def +30, ranged def +32, magic def +38; crafted at Armour Bench)"
+  },
+  {
+    "name": "Splitbark Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Helmet.png?baf98",
+    "tier": "Splitbark",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Magical head armour crafted from wither-corrupted hollow bark. (head slot; mage armour; melee def +12, ranged def +13, magic def +15; crafted at Armour Bench)"
+  },
+  {
+    "name": "Splitbark Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Legs.png?60e20",
+    "tier": "Splitbark",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Magical leg armour crafted from wither-corrupted hollow bark. (legs slot; mage armour; melee def +18, ranged def +19, magic def +23; crafted at Armour Bench)"
+  },
+  {
+    "name": "Steel Full Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Steel_Full_Helm.png?8267a",
+    "tier": "Steel",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "A full helmet forged from Steel for Melee users. (head slot; melee armour; melee def 15, ranged def 13, magic def 12; crafted at Armour Bench)"
+  },
+  {
+    "name": "Steel Med Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/Steel_Med_Helm_%28Journal%29.png?f38b3",
+    "tier": "Steel",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "A dependable helm trusted by countless adventurers. (head slot; melee armour; melee def 15, ranged def 13, magic def 12; crafted at Armour Bench)"
+  },
+  {
+    "name": "Steel Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/Steel_Platebody.png?bd65d",
+    "tier": "Steel",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "A strong set of well-crafted Steel platemail for Melee users. (body slot; melee armour; melee def +38, ranged def +32, magic def +30; crafted at Armour Bench)"
+  },
+  {
+    "name": "Steel Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/Steel_Platelegs.png?40565",
+    "tier": "Steel",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "Sturdy and well-made Steel leg armour for Melee users. (legs slot; melee armour; melee def 23, ranged def 19, magic def 18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Steel Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Steel_Shield.png?71729",
+    "tier": "Steel",
+    "tierRank": 3,
+    "chest": "armour",
+    "note": "A reliable, durable shield crafted from Steel, perfect for taking big hits. (off-hand slot; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Stormtouched Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Stormtouched_Cape.png?aeaba",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cloak depicting ancient monsters and a mage's fury. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Studded Leather Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Studded_Leather_Body.png?aeaba",
+    "tier": "Studded Leather",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Durable armour crafted from hard leather reinforced with iron studs. (body slot; ranged armour; melee def 24, ranged def 28, magic def 24; crafted at Armour Bench)"
+  },
+  {
+    "name": "Studded Leather Chaps",
+    "img": "https://dragonwilds.runescape.wiki/images/Studded_Leather_Chaps.png?aeaba",
+    "tier": "Studded Leather",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Durable armour crafted from hard leather reinforced with iron studs. (legs slot; ranged armour; melee def 15, ranged def 17, magic def 15; crafted at Armour Bench)"
+  },
+  {
+    "name": "Studded Leather Cowl",
+    "img": "https://dragonwilds.runescape.wiki/images/Studded_Leather_Cowl.png?aeaba",
+    "tier": "Studded Leather",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "A durable helmet crafted from hard leather reinforced with iron studs. (head slot; ranged armour; melee def 10, ranged def 11, magic def 10; crafted at Armour Bench)"
+  },
+  {
+    "name": "Sun Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Sun_Ring.png?aeaba",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Tattered Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Tattered_Cape.png?aeaba",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "It provides some warmth... barely. (body slot)"
+  },
+  {
+    "name": "TokTz-Ket-Xil",
+    "img": "https://dragonwilds.runescape.wiki/images/TokTz-Ket-Xil.png?ff2a4",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A jagged shield of obsidian, shaped to deflect and punish in equal measure. Its edges are as dangerous as the blows it stops. (off-hand slot; off-hand shield; crafted at Blacksmith's Bench)"
+  },
+  {
+    "name": "Torch",
+    "img": "https://dragonwilds.runescape.wiki/images/Torch.png?da7c7",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A trusty light source. (off-hand slot; crafted at Crafting Table)"
+  },
+  {
+    "name": "Umbral Sands Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Umbral_Sands_Cape.png?085e2",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A light desert cape designed to shield against sun and sand. Offers comfort during long journeys across the dunes. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Whispering Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Whispering_Cape.png?aeaba",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cloak that makes you shiver, even as it protects against the cold. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "White Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/White_Adventurer%27s_Cape.png?05bac",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "White Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/White_Desert_Cape.png?4bc1c",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A White cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "White Full Helm",
+    "img": "https://dragonwilds.runescape.wiki/images/White_Full_Helm.png?0273b",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A helmet worn by a member of the Holy Order of White Knights. It is pure white. (head slot; melee armour; melee def +15, ranged def +13, magic def +12; crafted at Armour Bench)"
+  },
+  {
+    "name": "White Platebody",
+    "img": "https://dragonwilds.runescape.wiki/images/White_Platebody.png?76cff",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "White Platebody worn by a member of the Holy Order of White Knights. (body slot; melee armour; melee def +38, ranged def +32, magic def +30; crafted at Armour Bench)"
+  },
+  {
+    "name": "White Platelegs",
+    "img": "https://dragonwilds.runescape.wiki/images/White_Platelegs.png?302e3",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "White Platelegs worn by a member of the Holy Order of White Knights. (legs slot; melee armour; melee def +23, ranged def +19, magic def +18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Wild Archer Body",
+    "img": "https://dragonwilds.runescape.wiki/images/Wild_Archer_Body.png?aeaba",
+    "tier": "Wild Archer",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Durable armour worn by a Wild Knight archer. (body slot; ranged armour; melee def +24, ranged def +28, magic def +24; crafted at Armour Bench)"
+  },
+  {
+    "name": "Wild Archer Chaps",
+    "img": "https://dragonwilds.runescape.wiki/images/Wild_Archer_Chaps.png?d1f99",
+    "tier": "Wild Archer",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "Durable leg armour worn by a Wild Knight archer. (legs slot; ranged armour; melee def +15, ranged def +17, magic def +15; crafted at Armour Bench)"
+  },
+  {
+    "name": "Wild Archer Cowl",
+    "img": "https://dragonwilds.runescape.wiki/images/Wild_Archer_Cowl.png?d1f99",
+    "tier": "Wild Archer",
+    "tierRank": 2,
+    "chest": "armour",
+    "note": "A helmet worn by a Wild Knight archer. (head slot; ranged armour; melee def +10, ranged def +11, magic def +10; crafted at Armour Bench)"
+  },
+  {
+    "name": "Wizard Hat",
+    "img": "https://dragonwilds.runescape.wiki/images/Wizard_Hat.png?d1f99",
+    "tier": "Wizard",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "A stylish hat, popular with spellcasters. (head slot; mage armour; melee def 6, ranged def 7, magic def 9; crafted at Armour Bench)"
+  },
+  {
+    "name": "Wizard Robe Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Wizard_Robe_Legs.png?d1f99",
+    "tier": "Wizard",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "Lightweight magical armour. (legs slot; mage armour; melee def 9, ranged def 10, magic def 4; crafted at Armour Bench)"
+  },
+  {
+    "name": "Wizard Robes",
+    "img": "https://dragonwilds.runescape.wiki/images/Wizard_Robes.png?d1f99",
+    "tier": "Wizard",
+    "tierRank": 1,
+    "chest": "armour",
+    "note": "Lightweight magical armour. (body slot; mage armour; melee def 15, ranged def 17, magic def 23; crafted at Armour Bench)"
+  },
+  {
+    "name": "Woodcutting Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Woodcutting_Cape.png?2fc69",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Congratulations! Reaching level 99 in Woodcutting is an astonishing feat. Wear this cape with pride. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Mystic Forge)"
+  },
+  {
+    "name": "Wooden Shield",
+    "img": "https://dragonwilds.runescape.wiki/images/Wooden_Shield.png?de704",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "Basic protection for those seeking to block and parry more efficiently. (off-hand slot; crafted at Crafting Table)"
+  },
+  {
+    "name": "Woodsman Ring",
+    "img": "https://dragonwilds.runescape.wiki/images/Woodsman_Ring.png?6806e",
+    "tier": "",
+    "tierRank": null,
+    "chest": "jewellery",
+    "note": "Jewellery item with no stated special effect."
+  },
+  {
+    "name": "Yellow Adventurer's Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Yellow_Adventurer%27s_Cape.png?e5ecc",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A simple, yet stylish accessory. (body slot; melee def +2, ranged def +2, magic def +2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Yellow Desert Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Yellow_Desert_Cape.png?b9b3a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A Yellow cape, stitched in an ancient desert style. Its patterns reflect a long-standing mastery of life beneath the scorching sun. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Yellow Dyad Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Yellow_Dyad_Cape.png?6a512",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Yellow Hex Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Yellow_Hex_Cape.png?47617",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape made for its looks more than any kind of magical potency. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Yellow Torch",
+    "img": "https://dragonwilds.runescape.wiki/images/Yellow_Torch.png?a4a77",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A trusty lightsource - now in yellow. (off-hand slot; crafted at Crafting Table)"
+  },
+  {
+    "name": "Zamorak Cape",
+    "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Cape.png?8160a",
+    "tier": "",
+    "tierRank": null,
+    "chest": "armour",
+    "note": "A cape that proudly displays obeisance to the god Zamorak. (body slot; melee def 2, ranged def 2, magic def 2; crafted at Armour Bench)"
+  },
+  {
+    "name": "Zamorak Hood",
+    "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Hood.png?de324",
+    "tier": "Zamorak",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "A hood styled after the Zamorakian magi of Dowdun Reach. (head slot; mage armour; melee def +15, ranged def +16, magic def +18; crafted at Armour Bench)"
+  },
+  {
+    "name": "Zamorak Robe Legs",
+    "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Robe_Legs.png?24e4a",
+    "tier": "Zamorak",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Robe legs styled after the Zamorakian magi of Dowdun Reach. (legs slot; mage armour; melee def +23, ranged def +24, magic def +27; crafted at Armour Bench)"
+  },
+  {
+    "name": "Zamorak Robes",
+    "img": "https://dragonwilds.runescape.wiki/images/Zamorak_Robes.png?f365f",
+    "tier": "Zamorak",
+    "tierRank": 4,
+    "chest": "armour",
+    "note": "Zamorak Robes. (body slot; mage armour; melee def +38, ranged def +39, magic def +45; crafted at Armour Bench)"
+  }
 ]

@@ -21,3 +21,20 @@ window.WILDS_SKILLS = [
   ["Fishing", "Gathering", "Catch fish to level this skill."],
   ["Agility", "Support", "Run courses and traverse the world to level this skill."]
 ];
+
+// The game's own skill icons (each skill's wiki page image), not hand-drawn
+// line art - straight from dragonwilds.runescape.wiki, one per skill.
+window.WILDS_SKILL_ICONS = {
+  "Attack": "https://dragonwilds.runescape.wiki/images/Attack.png",
+  "Magic": "https://dragonwilds.runescape.wiki/images/Magic.png",
+  "Ranged": "https://dragonwilds.runescape.wiki/images/Ranged.png",
+  "Mining": "https://dragonwilds.runescape.wiki/images/Mining.png",
+  "Woodcutting": "https://dragonwilds.runescape.wiki/images/Woodcutting.png",
+  "Artisan": "https://dragonwilds.runescape.wiki/images/Artisan.png",
+  "Construction": "https://dragonwilds.runescape.wiki/images/Construction.png",
+  "Cooking": "https://dragonwilds.runescape.wiki/images/Cooking.png",
+  "Runecrafting": "https://dragonwilds.runescape.wiki/images/Runecrafting.png",
+  "Farming": "https://dragonwilds.runescape.wiki/images/Farming.png",
+  "Fishing": "https://dragonwilds.runescape.wiki/images/Fishing.png",
+  "Agility": "https://dragonwilds.runescape.wiki/images/Agility.png"
+};

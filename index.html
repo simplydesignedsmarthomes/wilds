@@ -271,18 +271,39 @@ body.map-overlay-open{overflow:hidden}
 /* skill rows with a stepper for level */
 .fd{display:flex;align-items:center;gap:.5rem;padding:.6rem .8rem;border-bottom:1px solid var(--edge-dark)}
 .fd:last-child{border-bottom:0}
-.fd-icon{display:flex;flex-shrink:0;color:var(--gold)}
+.fd-icon{display:flex;flex-shrink:0;align-items:center;justify-content:center;color:var(--gold)}
 .fd-icon svg{width:19px;height:19px}
+.fd-icon img{width:22px;height:22px;object-fit:contain}
 .fd .nm{font-family:var(--head);font-size:14px;line-height:1.2;flex:1;min-width:0;color:var(--text)}
 .fd .nm .cat{display:block;font-family:var(--ui);font-size:11px;color:var(--text3);margin-top:2px;text-transform:none}
 .fd .stp{margin-left:auto;display:flex;align-items:center;gap:.3rem;flex-shrink:0}
 .fd .stp button{width:28px;height:28px;border:1px solid var(--edge-dark);background:var(--panel2);color:var(--gold);border-radius:var(--r);font-size:16px;font-weight:700;line-height:1;cursor:pointer;padding:0}
 .fd .stp button:active{background:var(--gold);color:var(--bg)}
 .fd .stp .v{min-width:34px;text-align:center;font-size:15px;color:var(--gold);font-variant-numeric:tabular-nums;font-weight:700;font-family:var(--head);display:inline-block}
+[data-skill-level]{cursor:pointer;text-decoration:underline;text-decoration-style:dotted;text-decoration-color:var(--edge-light);text-underline-offset:3px}
 @keyframes tickUp{0%{transform:scale(1.55)}55%{transform:scale(1.15)}100%{transform:scale(1)}}
 @keyframes tickDown{0%{transform:scale(1.35);color:var(--red)}55%{transform:scale(1.1);color:var(--red)}100%{transform:scale(1)}}
 .tick-up{animation:tickUp .3s cubic-bezier(.2,.9,.3,1) 1}
 .tick-down{animation:tickDown .28s cubic-bezier(.2,.9,.3,1) 1}
+/* Everything bounces in on load rather than just appearing - a little
+   overshoot past full size before it settles, cascading across a grid
+   instead of popping in all at once. Skipped entirely for anyone who's
+   asked their OS for reduced motion. */
+@media (prefers-reduced-motion: no-preference){
+  @keyframes popIn{0%{opacity:0;transform:scale(.82) translateY(8px)}65%{opacity:1;transform:scale(1.035) translateY(0)}100%{opacity:1;transform:scale(1) translateY(0)}}
+  .tk-box,.tk-subbox,.item-tile,.cc-card,.video-thumb,.update-card,.recipe-card{animation:popIn .4s cubic-bezier(.34,1.56,.64,1) both}
+  .tk-grid>*,.tk-subgrid>*,.item-grid>*,.construct-grid>*{animation-name:popIn;animation-duration:.4s;animation-timing-function:cubic-bezier(.34,1.56,.64,1);animation-fill-mode:both}
+  .tk-grid>*:nth-child(1),.tk-subgrid>*:nth-child(1),.item-grid>*:nth-child(1),.construct-grid>*:nth-child(1){animation-delay:0ms}
+  .tk-grid>*:nth-child(2),.tk-subgrid>*:nth-child(2),.item-grid>*:nth-child(2),.construct-grid>*:nth-child(2){animation-delay:30ms}
+  .tk-grid>*:nth-child(3),.tk-subgrid>*:nth-child(3),.item-grid>*:nth-child(3),.construct-grid>*:nth-child(3){animation-delay:60ms}
+  .tk-grid>*:nth-child(4),.tk-subgrid>*:nth-child(4),.item-grid>*:nth-child(4),.construct-grid>*:nth-child(4){animation-delay:90ms}
+  .tk-grid>*:nth-child(5),.tk-subgrid>*:nth-child(5),.item-grid>*:nth-child(5),.construct-grid>*:nth-child(5){animation-delay:120ms}
+  .tk-grid>*:nth-child(6),.tk-subgrid>*:nth-child(6),.item-grid>*:nth-child(6),.construct-grid>*:nth-child(6){animation-delay:150ms}
+  .tk-grid>*:nth-child(7),.tk-subgrid>*:nth-child(7),.item-grid>*:nth-child(7),.construct-grid>*:nth-child(7){animation-delay:180ms}
+  .tk-grid>*:nth-child(8),.tk-subgrid>*:nth-child(8),.item-grid>*:nth-child(8),.construct-grid>*:nth-child(8){animation-delay:210ms}
+  .tk-grid>*:nth-child(n+9),.tk-subgrid>*:nth-child(n+9),.item-grid>*:nth-child(n+9),.construct-grid>*:nth-child(n+9){animation-delay:240ms}
+  .video-grid>*,.update-card{animation:popIn .4s cubic-bezier(.34,1.56,.64,1) both}
+}
 .fd-name{display:flex;align-items:center;gap:.5rem;flex:1;min-width:0;background:none;border:0;color:inherit;font:inherit;text-align:left;cursor:pointer;padding:0}
 .chevron-btn{margin-left:auto;flex-shrink:0;background:none;border:0;color:var(--text3);font-size:20px;line-height:1;cursor:pointer;padding:.2rem .3rem;transition:transform .15s ease}
 .chevron-btn.open{transform:rotate(90deg);color:var(--gold)}
@@ -377,16 +398,17 @@ body.map-overlay-open{overflow:hidden}
 /* Indented a level below .tk-box's own grid: a muted left bar plus a
    "Category subcategories" label (set where this grid is rendered) make
    it read as nested, not just a smaller sibling card. */
-.tk-crumb{font-family:var(--head);font-size:12.5px;font-weight:700;color:var(--text);text-transform:uppercase;letter-spacing:.03em;margin:.9rem 0 .5rem;padding-left:.6rem;border-left:3px solid var(--edge-light)}
-.tk-crumb span{color:var(--text3);font-weight:600;text-transform:none;letter-spacing:0}
-.tk-subgrid{display:grid;grid-template-columns:1fr 1fr;gap:.5rem;padding-left:.6rem;border-left:3px solid var(--edge-light)}
+.tk-subgrid{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
+/* One step lighter than .tk-box's panel - a plain tonal shift is the only
+   cue that these sit a level in, rather than a line/label calling it out
+   (misleading on Skills, where Attack etc. aren't really "subcategories"). */
 .tk-subbox{
   display:flex;flex-direction:column;gap:.1rem;text-align:left;cursor:pointer;
-  background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);
+  background:var(--panel3);border:1px solid var(--edge-dark);border-radius:var(--r);
   padding:.6rem .7rem;color:inherit;font-family:inherit;
 }
 .tk-subbox.open{border-color:var(--gold)}
-.tk-subbox:active{background:var(--panel3)}
+.tk-subbox:active{background:var(--edge-light)}
 .tk-subbox-label{font-family:var(--head);font-size:11px;font-weight:700;color:var(--gold);text-transform:uppercase;letter-spacing:.03em}
 .station-label{display:flex;align-items:center;gap:.4rem}
 .station-icon{width:20px;height:20px;object-fit:contain;flex-shrink:0}
@@ -394,6 +416,23 @@ body.map-overlay-open{overflow:hidden}
 .icon-lightbox{position:fixed;inset:0;z-index:90;background:rgba(5,4,8,.92);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1rem;padding:2rem;cursor:zoom-out}
 .icon-lightbox img{max-width:min(70vw,320px);max-height:50vh;object-fit:contain;filter:drop-shadow(0 6px 24px rgba(0,0,0,.6))}
 .icon-lightbox-caption{font-family:var(--head);font-size:16px;font-weight:700;color:var(--gold);text-align:center}
+/* Rotary number picker - tap a level to open it, scroll/drag to the value
+   you want, same spirit as an iOS wheel picker. No typing, no 98 taps. */
+.num-picker{position:fixed;inset:0;z-index:95;background:rgba(5,4,8,.75);display:flex;align-items:flex-end;justify-content:center}
+.num-picker[hidden]{display:none}
+.num-picker-sheet{width:100%;max-width:480px;background:var(--panel);border-top:1px solid var(--edge-light);border-radius:var(--r-lg) var(--r-lg) 0 0;box-shadow:0 -10px 30px rgba(0,0,0,.5);padding:1.1rem 1rem calc(env(safe-area-inset-bottom) + 1.1rem);display:flex;flex-direction:column;align-items:center;gap:.9rem}
+.num-picker-title{font-family:var(--head);font-size:13px;font-weight:700;color:var(--text3);text-transform:uppercase;letter-spacing:.05em}
+.num-picker-wheel-wrap{position:relative;width:150px;height:210px;overflow:hidden}
+.num-picker-highlight{position:absolute;left:0;right:0;top:50%;transform:translateY(-50%);height:42px;background:var(--panel2);border-top:1px solid var(--edge-light);border-bottom:1px solid var(--edge-light);pointer-events:none;border-radius:var(--r);z-index:1}
+.num-picker-wheel{position:relative;z-index:2;height:100%;overflow-y:scroll;scroll-snap-type:y mandatory;-webkit-overflow-scrolling:touch;touch-action:pan-y}
+.num-picker-wheel-row{height:42px;display:flex;align-items:center;justify-content:center;scroll-snap-align:center;font-family:var(--head);font-size:19px;font-weight:700;color:var(--text3);transition:color .15s;cursor:pointer}
+.num-picker-wheel-row.sel{color:var(--gold);font-size:25px}
+.num-picker-wheel-wrap.num-picker-wheel-as-input{width:100px;height:auto;overflow:visible}
+.num-picker-wheel-wrap.num-picker-wheel-as-input .num-picker-highlight{display:none}
+.num-picker-input{width:100%;background:var(--panel2);border:1px solid var(--edge-light);border-radius:var(--r);padding:.5rem;text-align:center;font-family:var(--head);font-size:28px;font-weight:700;color:var(--gold);-moz-appearance:textfield}
+.num-picker-input::-webkit-outer-spin-button,.num-picker-input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+.num-picker-done{background:var(--gold);color:var(--bg);border:0;border-radius:999px;padding:.6rem 2.2rem;font-family:var(--head);font-size:14px;font-weight:700;cursor:pointer}
+.num-picker-done:active{opacity:.85}
 .tk-subbox-stat{font-family:var(--head);font-size:17px;font-weight:700;color:var(--text);font-variant-numeric:tabular-nums}
 .tk-subbox-sub{font-size:11px;color:var(--text3)}
 .tk-subbox .bar{margin-top:.25rem;height:5px}
@@ -449,7 +488,11 @@ body.map-overlay-open{overflow:hidden}
 .stat-chip .fk{display:block;font-size:10px}
 .stat-chip .fv{font-size:13px;color:var(--text)}
 .mat-chips{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.35rem}
-.mat-chip{display:flex;align-items:center;gap:.35rem;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:999px;padding:.2rem .6rem .2rem .25rem}
+.mat-chip{display:flex;align-items:center;gap:.35rem;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:999px;padding:.2rem .6rem .2rem .25rem;cursor:pointer}
+.mat-chip:active{background:var(--panel3)}
+.nav-back-btn{position:fixed;left:.9rem;bottom:calc(var(--tb) + env(safe-area-inset-bottom) + .8rem);z-index:40;background:var(--panel);border:1px solid var(--edge-light);border-radius:999px;padding:.55rem 1.1rem .55rem .9rem;color:var(--gold);font-family:var(--head);font-size:13px;font-weight:700;box-shadow:var(--shadow);cursor:pointer}
+.nav-back-btn[hidden]{display:none}
+.nav-back-btn:active{background:var(--panel3)}
 .mat-chip img{width:22px;height:22px;object-fit:contain;flex-shrink:0}
 .mat-chip-text{font-size:12px;color:var(--text2)}
 .mat-chip-text b{color:var(--gold)}
@@ -526,6 +569,19 @@ body.map-overlay-open{overflow:hidden}
   <div class="icon-lightbox-caption" id="iconLightboxCaption"></div>
 </div>
 
+<div class="num-picker" id="numPicker" hidden>
+  <div class="num-picker-sheet">
+    <div class="num-picker-title" id="numPickerTitle"></div>
+    <div class="num-picker-wheel-wrap">
+      <div class="num-picker-highlight"></div>
+      <div class="num-picker-wheel" id="numPickerWheel"></div>
+    </div>
+    <button type="button" class="num-picker-done" id="numPickerDone">Done</button>
+  </div>
+</div>
+
+<button type="button" class="nav-back-btn" id="navBackBtn" hidden>&#8249; Back</button>
+
 <script src="skills.js"></script>
 <script src="level-unlocks.js" onerror="this.remove()"></script>
 <script src="quests.js"></script>
@@ -571,7 +627,14 @@ body.map-overlay-open{overflow:hidden}
     "Fishing": '<path d="M4 12c3-4 10-4 13 0-3 4-10 4-13 0z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="M17 12l4-3v6z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><circle cx="7.5" cy="11.3" r=".8" fill="currentColor" stroke="none"/>',
     "Agility": '<path d="M4 20c3 0 3-6 7-6s2 6 6 6 3-8 3-8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="18" cy="6" r="1.4" fill="currentColor" stroke="none"/>'
   };
-  function skillSvg(name){ return SKILL_ICONS[name] ? '<svg viewBox="0 0 24 24" aria-hidden="true">'+SKILL_ICONS[name]+'</svg>' : ""; }
+  // The game's own skill icon when we have one (we have all twelve), the
+  // hand-drawn line art as a fallback if a future skill shows up before its
+  // icon does.
+  function skillSvg(name){
+    var url = (window.WILDS_SKILL_ICONS || {})[name];
+    if (url) return '<img src="'+esc(url)+'" alt="" loading="lazy">';
+    return SKILL_ICONS[name] ? '<svg viewBox="0 0 24 24" aria-hidden="true">'+SKILL_ICONS[name]+'</svg>' : "";
+  }
 
   // ---------- build the unified, searchable entry list ----------
   var ENTRIES = [];
@@ -651,6 +714,23 @@ body.map-overlay-open{overflow:hidden}
   }
   function skillLevel(name){ return STATE.skills[name] || 1; }
   function setSkillLevel(name, v){ STATE.skills[name] = Math.max(1, Math.min(99, v)); saveState(); }
+  // Shared by the +/- stepper and the rotary picker, so both land in the
+  // same surgical DOM update (no full redraw, so scroll position holds).
+  function applySkillLevel(name, newVal, tickEl, tickClass){
+    setSkillLevel(name, newVal);
+    var lvl = skillLevel(name);
+    document.querySelectorAll('[data-skill-level="'+name+'"]').forEach(function(el){
+      el.textContent = el.classList.contains("tk-subbox-stat") ? ("Lv " + lvl) : String(lvl);
+    });
+    if (tickEl && tickClass){
+      tickEl.classList.remove("tick-up", "tick-down");
+      void tickEl.offsetWidth; // restart the animation even on repeated same-direction taps
+      tickEl.classList.add(tickClass);
+    }
+    updateSkillTotal();
+    var wrap = document.querySelector('[data-unlock-list="'+name+'"]');
+    if (wrap) wrap.outerHTML = unlockListWrap(name, lvl);
+  }
 
   // UI-only state: which tracker sub-panels are expanded. Not persisted - // rebuilt fresh each session, but must survive a drawTracker() re-render
   // triggered by clicking something *inside* an open panel.
@@ -680,6 +760,63 @@ body.map-overlay-open{overflow:hidden}
   // Catalogue tab, same one-of-several-boxes pattern as Progress.
   var catalogueView = "items";
 
+  // Tap a material/recipe chip anywhere (a recipe's materials, a used-in
+  // list, a Construction card) and jump straight to that item's own entry -
+  // swipe left-to-right (or tap Back) to return exactly where you were,
+  // as many levels deep as you've jumped. The app has no other use for a
+  // horizontal gesture (scrolling is vertical-only throughout), so the
+  // swipe is unambiguous.
+  var NAV_STACK = [];
+  function findItemChest(name){
+    var cats = window.WILDS_STORAGE || [];
+    for (var i = 0; i < cats.length; i++){
+      if (cats[i].items.some(function(it){ return it.name === name; })) return cats[i].key;
+    }
+    return null;
+  }
+  var navBackBtn;
+  function updateNavBackBtn(){
+    if (navBackBtn) navBackBtn.hidden = !NAV_STACK.length;
+  }
+  function navSnapshot(){
+    return {
+      tab: view.tab, catalogueView: catalogueView, storageView: storageView,
+      openChest: openChest, openItem: openItem, selectedStations: Object.assign({}, selectedStations),
+      openConstructionCat: openConstructionCat, openConstructionSub: openConstructionSub,
+      openConstructionGroups: Object.assign({}, openConstructionGroups),
+      scrollY: window.scrollY
+    };
+  }
+  function navToMaterial(name){
+    var chestKey = findItemChest(name);
+    if (!chestKey) return;
+    NAV_STACK.push(navSnapshot());
+    view.tab = "storage"; view.q = ""; qInput.value = ""; clearBtn.classList.remove("on");
+    catalogueView = "items";
+    storageView = "chest";
+    openChest = chestKey;
+    openItem = "chest:" + chestKey + "::" + name;
+    if (STATE.powerFilterOn){
+      var cat = (window.WILDS_STORAGE || []).filter(function(c){ return c.key === chestKey; })[0];
+      var it = cat && cat.items.filter(function(x){ return x.name === name; })[0];
+      if (it && it.step > STATE.powerLevel){ STATE.powerFilterOn = false; saveState(); }
+    }
+    draw();
+    window.scrollTo(0, 0);
+    updateNavBackBtn();
+  }
+  function navBack(){
+    if (!NAV_STACK.length) return;
+    var s = NAV_STACK.pop();
+    view.tab = s.tab; catalogueView = s.catalogueView; storageView = s.storageView;
+    openChest = s.openChest; openItem = s.openItem; selectedStations = s.selectedStations;
+    openConstructionCat = s.openConstructionCat; openConstructionSub = s.openConstructionSub;
+    openConstructionGroups = s.openConstructionGroups;
+    draw();
+    window.scrollTo(0, s.scrollY || 0);
+    updateNavBackBtn();
+  }
+
   // ---------- view state ----------
   // Progress is the app's home now - there's no separate landing screen to
   // navigate away from and back to.
@@ -689,6 +826,24 @@ body.map-overlay-open{overflow:hidden}
   var qInput = $("#q"), clearBtn = $("#clear"), resultsEl = $("#results"),
       countEl = $("#count"), trackerEl = $("#tracker"), tabbarEl = $("#tabbar"), gearBtn = $("#gearBtn"),
       iconLightboxEl = $("#iconLightbox"), iconLightboxImgEl = $("#iconLightboxImg"), iconLightboxCaptionEl = $("#iconLightboxCaption");
+  navBackBtn = $("#navBackBtn");
+  navBackBtn.addEventListener("click", navBack);
+  // Swipe right anywhere to go back - the app never scrolls horizontally
+  // (vertical-only throughout), so this gesture is free to reclaim, and a
+  // mouse user gets the same "‹ Back" button instead.
+  (function(){
+    var sx = null, sy = null, st = 0;
+    document.addEventListener("touchstart", function(e){
+      if (!NAV_STACK.length || !e.touches.length) { sx = null; return; }
+      sx = e.touches[0].clientX; sy = e.touches[0].clientY; st = Date.now();
+    }, { passive: true });
+    document.addEventListener("touchend", function(e){
+      if (sx == null || !e.changedTouches.length) return;
+      var dx = e.changedTouches[0].clientX - sx, dy = e.changedTouches[0].clientY - sy, dt = Date.now() - st;
+      sx = null;
+      if (dx > 70 && Math.abs(dy) < 60 && dt < 700) navBack();
+    }, { passive: true });
+  })();
 
   // Tap any item/station icon to see it bigger - the wiki's own art, full
   // size, nothing fancier. One overlay shared by every icon in the app
@@ -710,6 +865,91 @@ body.map-overlay-open{overflow:hidden}
     var nameEl = host.querySelector(".item-tile-name, .mat-chip-text, .cc-name, .tk-subbox-label, h5");
     return nameEl ? nameEl.textContent.trim() : "";
   }
+
+  // Number picker: on touch, a scroll wheel instead of mashing +/- up to 98
+  // times; on a mouse/trackpad, typing is faster, so it's a plain numeric
+  // field instead - (pointer: coarse) is the real signal for which makes
+  // sense, not screen width (a touch tablet at desktop width still wants
+  // the wheel; a mouse in a narrow window still wants to type).
+  var numPickerEl = $("#numPicker"), numPickerTitleEl = $("#numPickerTitle"),
+      numPickerWheelEl = $("#numPickerWheel"), numPickerDoneEl = $("#numPickerDone");
+  var NUM_PICKER_ROW_H = 42;
+  var numPickerOnCommit = null;
+  function numPickerIsCoarse(){ return !(window.matchMedia && window.matchMedia("(pointer: fine)").matches); }
+  function openNumPicker(title, min, max, value, onCommit){
+    numPickerOnCommit = onCommit;
+    numPickerTitleEl.textContent = title;
+    numPickerWheelEl.dataset.min = min;
+    numPickerWheelEl.dataset.max = max;
+    var coarse = numPickerIsCoarse();
+    numPickerWheelEl.dataset.mode = coarse ? "wheel" : "input";
+    if (coarse){
+      var pad = NUM_PICKER_ROW_H * 2;
+      var rows = [];
+      for (var n = min; n <= max; n++){
+        rows.push('<div class="num-picker-wheel-row" data-n="'+n+'">'+n+'</div>');
+      }
+      numPickerWheelEl.innerHTML = rows.join("");
+      numPickerWheelEl.style.padding = pad + "px 0";
+      numPickerWheelEl.parentElement.classList.remove("num-picker-wheel-as-input");
+      numPickerEl.hidden = false;
+      numPickerWheelEl.scrollTop = (Math.max(min, Math.min(max, value)) - min) * NUM_PICKER_ROW_H;
+      markNumPickerSelection();
+    } else {
+      numPickerWheelEl.style.padding = "0";
+      numPickerWheelEl.parentElement.classList.add("num-picker-wheel-as-input");
+      numPickerWheelEl.innerHTML = '<input type="number" inputmode="numeric" class="num-picker-input" id="numPickerInput" min="'+min+'" max="'+max+'" value="'+value+'">';
+      numPickerEl.hidden = false;
+      var inp = $("#numPickerInput");
+      inp.addEventListener("keydown", function(e){ if (e.key === "Enter") commitNumPicker(); });
+      setTimeout(function(){ inp.focus(); inp.select(); }, 20);
+    }
+  }
+  function closeNumPicker(){ numPickerEl.hidden = true; numPickerOnCommit = null; }
+  function numPickerScrollTopFor(v){ return (v - parseInt(numPickerWheelEl.dataset.min, 10)) * NUM_PICKER_ROW_H; }
+  function numPickerCenteredValue(){
+    if (numPickerWheelEl.dataset.mode === "input"){
+      var inp = $("#numPickerInput");
+      if (!inp) return null;
+      var min = parseInt(numPickerWheelEl.dataset.min, 10), max = parseInt(numPickerWheelEl.dataset.max, 10);
+      var v = parseInt(inp.value, 10);
+      if (isNaN(v)) return null;
+      return Math.max(min, Math.min(max, v));
+    }
+    var rows = numPickerWheelEl.querySelectorAll(".num-picker-wheel-row");
+    if (!rows.length) return null;
+    var idx = Math.round(numPickerWheelEl.scrollTop / NUM_PICKER_ROW_H);
+    idx = Math.max(0, Math.min(rows.length - 1, idx));
+    return parseInt(rows[idx].dataset.n, 10);
+  }
+  function markNumPickerSelection(){
+    var v = numPickerCenteredValue();
+    numPickerWheelEl.querySelectorAll(".num-picker-wheel-row").forEach(function(row){
+      row.classList.toggle("sel", parseInt(row.dataset.n, 10) === v);
+    });
+  }
+  var numPickerScrollTimer = null;
+  numPickerWheelEl.addEventListener("scroll", function(){
+    if (numPickerWheelEl.dataset.mode === "input") return;
+    markNumPickerSelection();
+    clearTimeout(numPickerScrollTimer);
+    numPickerScrollTimer = setTimeout(function(){
+      var v = numPickerCenteredValue();
+      if (v != null) numPickerWheelEl.scrollTo({ top: numPickerScrollTopFor(v), behavior: "smooth" });
+    }, 110);
+  });
+  numPickerWheelEl.addEventListener("click", function(e){
+    var row = e.target.closest(".num-picker-wheel-row");
+    if (row) numPickerWheelEl.scrollTo({ top: numPickerScrollTopFor(parseInt(row.dataset.n, 10)), behavior: "smooth" });
+  });
+  function commitNumPicker(){
+    var v = numPickerCenteredValue();
+    var cb = numPickerOnCommit;
+    closeNumPicker();
+    if (cb && v != null) cb(v);
+  }
+  numPickerDoneEl.addEventListener("click", commitNumPicker);
+  numPickerEl.addEventListener("click", function(e){ if (e.target === numPickerEl) commitNumPicker(); });
 
   function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g, function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c];
@@ -1084,7 +1324,6 @@ body.map-overlay-open{overflow:hidden}
     var grid = '<div class="tk-grid">'+cats.map(constructionCatBox).join("")+'</div>';
     var cat = cats.filter(function(c){ return c.key === openConstructionCat; })[0];
     if (!cat) return grid;
-    var crumb = '<div class="tk-crumb">'+esc(cat.label)+' <span>subcategories</span></div>';
     var subGrid = '<div class="tk-subgrid">'+cat.subcats.map(function(sc){ return constructionSubBox(cat.key, sc); }).join("")+'</div>';
     var subPanel = "";
     var prefix = cat.key+"::";
@@ -1096,7 +1335,7 @@ body.map-overlay-open{overflow:hidden}
           sub.groups.map(function(g){ return constructionGroupSection(cat.key, sub.key, g); }).join("")+'</div>';
       }
     }
-    return grid + crumb + subGrid + subPanel;
+    return grid + subGrid + subPanel;
   }
 
   // ---------- tracker: sync + backup ----------
@@ -1238,7 +1477,7 @@ body.map-overlay-open{overflow:hidden}
   function itemChip(c){
     var img = c.img || itemImgByName(c.name);
     var qty = (c.qty && c.qty !== 1) ? '<b>'+esc(String(c.qty))+'×</b> ' : '';
-    return '<div class="mat-chip">'+
+    return '<div class="mat-chip" data-mat-link="'+esc(c.name)+'">'+
       (img ? '<img src="'+esc(img)+'" alt="" loading="lazy">' : '<span class="mat-chip-noimg">?</span>')+
       '<span class="mat-chip-text">'+qty+esc(c.name)+'</span></div>';
   }
@@ -1304,7 +1543,7 @@ body.map-overlay-open{overflow:hidden}
         (examine ? '<div class="item-examine">“'+esc(examine)+'”</div>' : '')+
         (about ? '<div class="fv item-detail-desc">'+esc(about)+'</div>' : '')+'</div>';
     }
-    return html || '<div class="note">No extra detail on the wiki for this one yet.</div>';
+    return html || '<div class="note">No extra detail catalogued for this one yet.</div>';
   }
   function itemGridHtml(items, scope){
     if (!items.length) return "";
@@ -1411,7 +1650,7 @@ body.map-overlay-open{overflow:hidden}
       '</div>';
     var body = "";
     if (catalogueView === "items"){
-      body = '<div class="tk-panel"><h3>Items</h3><p class="tk-head-note">'+total+' items, sorted lowest to highest quality. Tap one to see everything the wiki has on it.</p>'+
+      body = '<div class="tk-panel"><h3>Items</h3><p class="tk-head-note">'+total+' items, sorted lowest to highest quality. Tap one to see everything catalogued on it.</p>'+
         storageTabs() + powerControl() +
         (storageView === "station" ? stationBlock() : storageBlock())+'</div>';
     } else {
@@ -1597,7 +1836,7 @@ body.map-overlay-open{overflow:hidden}
     var img = gallery[new Date().getDate() % gallery.length];
     return '<div class="update-hero"><img src="'+esc(img)+'" alt="" loading="lazy">'+
       '<div class="update-hero-fade"></div>'+
-      '<div class="update-hero-text"><h2>Updates</h2><p>Patch notes and dev posts for RuneScape: Dragonwilds, mirrored from the wiki’s own update log - usually the same day they go out.</p></div></div>';
+      '<div class="update-hero-text"><h2>Updates</h2><p>Patch notes and dev posts for RuneScape: Dragonwilds, kept current with the game’s own update log - usually the same day they go out.</p></div></div>';
   }
   function drawUpdates(){
     var data = window.WILDS_UPDATES || { discord: "", gallery: [], updates: [] };
@@ -2070,6 +2309,11 @@ body.map-overlay-open{overflow:hidden}
       openIconLightbox(e.target.src, nearbyIconName(e.target));
       return;
     }
+    var matLink = e.target.closest("[data-mat-link]");
+    if (matLink){
+      navToMaterial(matLink.dataset.matLink);
+      return;
+    }
     var viewBtn = e.target.closest("button[data-view]");
     if (viewBtn){
       storageView = viewBtn.dataset.view;
@@ -2197,20 +2441,15 @@ body.map-overlay-open{overflow:hidden}
     if (stp){
       var name = stp.dataset.skill;
       var d = parseInt(stp.dataset.d, 10);
-      setSkillLevel(name, skillLevel(name) + d);
-      var newLvl = skillLevel(name);
-      document.querySelectorAll('[data-skill-level="'+name+'"]').forEach(function(el){
-        el.textContent = el.classList.contains("tk-subbox-stat") ? ("Lv " + newLvl) : String(newLvl);
+      applySkillLevel(name, skillLevel(name) + d, stp.parentElement.querySelector("[data-skill-level]"), d > 0 ? "tick-up" : "tick-down");
+      return;
+    }
+    var lvlSpan = e.target.closest("[data-skill-level]");
+    if (lvlSpan){
+      var skName = lvlSpan.dataset.skillLevel;
+      openNumPicker(skName, 1, 99, skillLevel(skName), function(v){
+        applySkillLevel(skName, v, null, null);
       });
-      var v = stp.parentElement.querySelector("[data-skill-level]");
-      if (v){
-        v.classList.remove("tick-up", "tick-down");
-        void v.offsetWidth; // restart the animation even on repeated same-direction taps
-        v.classList.add(d > 0 ? "tick-up" : "tick-down");
-      }
-      updateSkillTotal();
-      var wrap = document.querySelector('[data-unlock-list="'+name+'"]');
-      if (wrap) wrap.outerHTML = unlockListWrap(name, newLvl);
       return;
     }
     var toggleQuest = e.target.closest("button[data-toggle-quest]");

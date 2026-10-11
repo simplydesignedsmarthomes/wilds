@@ -291,6 +291,22 @@ def main():
                 max_step = max(max_step, assign_steps(row["items"]))
     out = [row for row in out if row["items"] or row["key"] != "misc"]
 
+    # A small personal touch: each chest tile shows one representative
+    # item's icon, picked by hand where there's an obvious one, falling
+    # back to the first item that actually has an icon otherwise.
+    CHEST_ICON_ITEM = {
+        "weapons": "Bronze Sword", "armour": "Bronze Platebody", "jewellery": "Amulet of Strength",
+        "food": "Cheeky Fryup", "potions": "Weak Healing Potion", "ores": "Iron Ore",
+        "stone": "Stone", "pottery": "Clay Vessel", "textiles": "Leather", "bones": "Animal Bone",
+        "wood": "Oak Logs", "runes": "Air Rune", "alchemy": "Adhesive", "farming": "Cabbage Seeds",
+        "tools": "Bronze Pickaxe", "ammo": "Bronze Arrow", "progression": "Vault Core",
+    }
+    for row in out:
+        wanted = CHEST_ICON_ITEM.get(row["key"])
+        by_name = {it["name"]: it for it in row["items"]}
+        pick = by_name.get(wanted) or next((it for it in row["items"] if it.get("img")), None)
+        row["img"] = pick["img"] if pick else ""
+
     # A station and its "Advanced" upgrade make the same family of goods at
     # a higher tier, so they browse as one combined entry rather than two
     # near-empty boxes. Item-level station tags stay specific (an item still

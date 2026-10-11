@@ -612,28 +612,10 @@ body.map-overlay-open{overflow:hidden}
     updates: '<path d="M12 4a1.4 1.4 0 0 1 1.4 1.4v.5c2.1.8 3.5 2.8 3.5 5.1v3l1.6 2.3H5.5L7.1 14v-3c0-2.3 1.4-4.3 3.5-5.1v-.5A1.4 1.4 0 0 1 12 4Z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="M9.5 19a2.5 2.5 0 0 0 5 0" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>'
   };
 
-  // One small original glyph per skill, as a visual aid next to the name - // a quick shape to scan for rather than reading twelve words each time.
-  var SKILL_ICONS = {
-    "Attack": '<path d="M6 18 16 8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M7.5 13.5 10.5 16.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="5" cy="19" r="1.1" fill="currentColor" stroke="none"/>',
-    "Magic": '<path d="M12 3 13.4 10.6 21 12 13.4 13.4 12 21 10.6 13.4 3 12 10.6 10.6Z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>',
-    "Ranged": '<path d="M6 4c6 2 6 14 0 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M6 12h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M15 9l3 3-3 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>',
-    "Mining": '<path d="M16 4 6 14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M5 15l2 2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M13 3c2.2-.3 5 .8 6.3 2.7-2 1.6-4.8 1.9-6.9 1.1" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>',
-    "Woodcutting": '<path d="M8 20 17 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M12 9c1.5-2.5 4.5-3.7 7-3-1 2.3-1.2 5.3-3.6 6.8-1.2.8-2.7.6-3.4-.4-.8-1.1-.7-2.6 0-3.4z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>',
-    "Artisan": '<circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M12 4v2M12 18v2M4 12h2M18 12h2M6.3 6.3l1.4 1.4M16.3 16.3l1.4 1.4M17.7 6.3l-1.4 1.4M7.7 16.3l-1.4 1.4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>',
-    "Construction": '<rect x="4" y="6" width="16" height="3" rx="1" fill="none" stroke="currentColor" stroke-width="1.4"/><rect x="4" y="11" width="16" height="3" rx="1" fill="none" stroke="currentColor" stroke-width="1.4"/><rect x="4" y="16" width="16" height="3" rx="1" fill="none" stroke="currentColor" stroke-width="1.4"/>',
-    "Cooking": '<path d="M12 3c2 3-1 4-1 6.5 0 1.4 1 2.5 2.3 2.5 1.6 0 2.7-1.4 2.4-3 2 1.6 3.3 4.2 3.3 6.5 0 3.6-3.1 6.5-7 6.5s-7-2.9-7-6.5c0-3.4 2.2-5.7 4-8.5 1-1.5 1.7-2.5 3-4z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>',
-    "Runecrafting": '<path d="M12 3 20 12 12 21 4 12Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M12 8v8M8.5 12h7" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>',
-    "Farming": '<path d="M12 21v-8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M12 13c0-3.5-2.5-5.5-6-5.5.3 3.5 2.5 5.5 6 5.5z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><path d="M12 10c0-3 2.2-5 5.5-5-.2 3-2.2 5-5.5 5z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>',
-    "Fishing": '<path d="M4 12c3-4 10-4 13 0-3 4-10 4-13 0z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="M17 12l4-3v6z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><circle cx="7.5" cy="11.3" r=".8" fill="currentColor" stroke="none"/>',
-    "Agility": '<path d="M4 20c3 0 3-6 7-6s2 6 6 6 3-8 3-8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="18" cy="6" r="1.4" fill="currentColor" stroke="none"/>'
-  };
-  // The game's own skill icon when we have one (we have all twelve), the
-  // hand-drawn line art as a fallback if a future skill shows up before its
-  // icon does.
+  // Only the game's own wiki icon for each skill - no hand-drawn stand-ins.
   function skillSvg(name){
     var url = (window.WILDS_SKILL_ICONS || {})[name];
-    if (url) return '<img src="'+esc(url)+'" alt="" loading="lazy">';
-    return SKILL_ICONS[name] ? '<svg viewBox="0 0 24 24" aria-hidden="true">'+SKILL_ICONS[name]+'</svg>' : "";
+    return url ? '<img src="'+esc(url)+'" alt="" loading="lazy">' : "";
   }
 
   // ---------- build the unified, searchable entry list ----------
@@ -787,6 +769,15 @@ body.map-overlay-open{overflow:hidden}
       scrollY: window.scrollY
     };
   }
+  // Scrolls so el's top sits just under the sticky search bar, rather than
+  // merely "somewhere on screen" - getBoundingClientRect alone would still
+  // leave it hidden behind .hero.
+  function scrollToElementTop(el){
+    if (!el){ window.scrollTo(0, 0); return; }
+    var heroEl = document.querySelector(".hero");
+    var heroH = heroEl ? heroEl.offsetHeight : 0;
+    window.scrollTo(0, Math.max(0, el.getBoundingClientRect().top + window.scrollY - heroH - 10));
+  }
   function navToMaterial(name){
     var chestKey = findItemChest(name);
     if (!chestKey) return;
@@ -802,7 +793,7 @@ body.map-overlay-open{overflow:hidden}
       if (it && it.step > STATE.powerLevel){ STATE.powerFilterOn = false; saveState(); }
     }
     draw();
-    window.scrollTo(0, 0);
+    scrollToElementTop(document.querySelector('[data-item="'+CSS.escape(openItem)+'"]'));
     updateNavBackBtn();
   }
   function navBack(){
@@ -1292,8 +1283,9 @@ body.map-overlay-open{overflow:hidden}
     var count = cat.subcats.reduce(function(s, sc){
       return s + sc.groups.reduce(function(s2, g){ return s2 + g.items.length; }, 0);
     }, 0);
+    var icon = cat.img ? '<img src="'+esc(cat.img)+'" alt="" loading="lazy" class="station-icon">' : '';
     return '<button type="button" class="tk-box'+(open?" open":"")+nk("ccat:"+cat.key)+'" data-ccat="'+esc(cat.key)+'">'+
-      '<span class="tk-box-label">'+esc(cat.label)+'</span>'+
+      '<span class="tk-box-label station-label">'+icon+'<span>'+esc(cat.label)+'</span></span>'+
       '<span class="tk-box-stat">'+count+'</span>'+
       '<span class="tk-box-sub">buildable</span></button>';
   }
@@ -1301,8 +1293,9 @@ body.map-overlay-open{overflow:hidden}
     var skey = catKey+"::"+sub.key;
     var open = openConstructionSub === skey;
     var count = sub.groups.reduce(function(s, g){ return s + g.items.length; }, 0);
+    var icon = sub.img ? '<img src="'+esc(sub.img)+'" alt="" loading="lazy" class="station-icon">' : '';
     return '<button type="button" class="tk-subbox'+(open?" open":"")+nk("csub:"+skey)+'" data-csub="'+esc(skey)+'">'+
-      '<span class="tk-subbox-label">'+esc(sub.label)+'</span>'+
+      '<span class="tk-subbox-label station-label">'+icon+'<span>'+esc(sub.label)+'</span></span>'+
       '<span class="tk-subbox-stat">'+count+'</span>'+
       '<span class="tk-subbox-sub">buildable</span></button>';
   }
@@ -1457,8 +1450,9 @@ body.map-overlay-open{overflow:hidden}
   function chestBox(cat){
     var open = openChest === cat.key;
     var shown = visibleItems(cat).length;
+    var icon = cat.img ? '<img src="'+esc(cat.img)+'" alt="" loading="lazy" class="station-icon">' : '';
     return '<button type="button" class="tk-subbox'+(open?" open":"")+nk("chestbox:"+cat.key)+'" data-chest="'+esc(cat.key)+'">'+
-      '<span class="tk-subbox-label">'+esc(cat.label)+'</span>'+
+      '<span class="tk-subbox-label station-label">'+icon+'<span>'+esc(cat.label)+'</span></span>'+
       '<span class="tk-subbox-stat">'+shown+(STATE.powerFilterOn && shown!==cat.items.length ? ' / '+cat.items.length : '')+'</span>'+
       '<span class="tk-subbox-sub">items</span>'+
       '</button>';

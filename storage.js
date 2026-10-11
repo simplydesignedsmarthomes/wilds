@@ -13206,7 +13206,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 7
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Sword.png?561ef"
   },
   {
     "key": "armour",
@@ -32990,7 +32991,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 7
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Platebody.png?a1adf"
   },
   {
     "key": "jewellery",
@@ -36523,7 +36525,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 1
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Amulet_of_Strength_%28Journal%29.png?b7172"
   },
   {
     "key": "food",
@@ -52332,7 +52335,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 3
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Cheeky_Fryup.png?a7725"
   },
   {
     "key": "potions",
@@ -59491,7 +59495,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 3
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c"
   },
   {
     "key": "ores",
@@ -64658,7 +64663,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 6
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Iron_Ore.png?dfc4f"
   },
   {
     "key": "stone",
@@ -68648,7 +68654,8 @@ window.WILDS_STORAGE = [
         },
         "step": 0
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Stone.png?6b36b"
   },
   {
     "key": "pottery",
@@ -70396,7 +70403,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 0
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
   },
   {
     "key": "textiles",
@@ -78717,7 +78725,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 3
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Leather.png?d4d9c"
   },
   {
     "key": "bones",
@@ -81727,7 +81736,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 0
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Animal_Bone.png?a3305"
   },
   {
     "key": "wood",
@@ -86762,7 +86772,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 6
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Oak_Logs.png?58308"
   },
   {
     "key": "runes",
@@ -89553,7 +89564,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 6
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Air_Rune.png?4b156"
   },
   {
     "key": "alchemy",
@@ -91498,7 +91510,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 0
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Adhesive_%28Journal%29.png?1b828"
   },
   {
     "key": "farming",
@@ -95306,7 +95319,8 @@ window.WILDS_STORAGE = [
         },
         "step": 0
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Cabbage_Seeds.png?2a726"
   },
   {
     "key": "tools",
@@ -100150,7 +100164,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 6
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Pickaxe.png?561ef"
   },
   {
     "key": "ammo",
@@ -104237,7 +104252,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 6
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Bronze_Arrow.png?0acdc"
   },
   {
     "key": "vestiges",
@@ -109864,7 +109880,8 @@ window.WILDS_STORAGE = [
         },
         "step": 0
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/A_Brutal_Bladehead.png?3719c"
   },
   {
     "key": "progression",
@@ -111326,7 +111343,8 @@ window.WILDS_STORAGE = [
         ],
         "step": 0
       }
-    ]
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Ascension_Core_%28Power_Level_4%29.png?b6101"
   }
 ];
 window.WILDS_STORAGE_MAX_STEP = 8;

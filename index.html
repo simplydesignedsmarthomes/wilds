@@ -290,9 +290,16 @@ body.map-overlay-open{overflow:hidden}
    already on screen a moment ago (see nk() / curVisibleKeys), so opening a
    subcategory bounces in just the newly-revealed subcategory boxes, not
    the whole page's worth of stuff that was already sitting there.
-   Skipped entirely for anyone who's asked their OS for reduced motion. */
+   New content below the fold starts as .pop-pending (invisible) instead,
+   and only turns into .pop-in - and actually bounces - once activateReveals()
+   sees it scroll into view, so the bounce isn't wasted off-screen.
+   Skipped entirely for anyone who's asked their OS for reduced motion
+   (.pop-pending stays fully visible for them, since nothing will ever
+   promote it with an animation). */
+.pop-pending{opacity:1}
 @media (prefers-reduced-motion: no-preference){
   @keyframes popIn{0%{opacity:0;transform:scale(.82) translateY(8px)}65%{opacity:1;transform:scale(1.035) translateY(0)}100%{opacity:1;transform:scale(1) translateY(0)}}
+  .pop-pending{opacity:0}
   .pop-in{animation:popIn .4s cubic-bezier(.34,1.56,.64,1) both}
   .tk-grid>*.pop-in:nth-child(1),.tk-subgrid>*.pop-in:nth-child(1),.item-grid>*.pop-in:nth-child(1),.construct-grid>*.pop-in:nth-child(1){animation-delay:0ms}
   .tk-grid>*.pop-in:nth-child(2),.tk-subgrid>*.pop-in:nth-child(2),.item-grid>*.pop-in:nth-child(2),.construct-grid>*.pop-in:nth-child(2){animation-delay:30ms}
@@ -949,22 +956,60 @@ body.map-overlay-open{overflow:hidden}
   // "Bounce in only what's new" tracking: every top-level drawX() function
   // resets curVisibleKeys, then calls nk(key) once per element it renders
   // (a stable identity for that element - a chest key, an item's scope::name,
-  // a channel id...). nk() returns " pop-in" the first time a key shows up
-  // since the last full render pass, "" if it was already there - so an
-  // element whose identity persisted across a redraw (even though its DOM
-  // node was just recreated by the innerHTML swap) doesn't replay the
-  // animation, and only genuinely newly-revealed content bounces.
+  // a channel id...). nk() marks the element " pop-pending" the first time a
+  // key shows up since the last full render pass, "" if it was already there
+  // - so an element whose identity persisted across a redraw (even though
+  // its DOM node was just recreated by the innerHTML swap) doesn't replay
+  // the animation, and only genuinely newly-revealed content bounces.
+  // "pop-pending" rather than the animation class itself because a card
+  // rendered below the fold would otherwise burn its one bounce while
+  // off-screen - activateReveals() (run right after every render pass) only
+  // promotes it to the real ".pop-in" animation once it actually scrolls
+  // into view, so the bounce still lands even for content you had to scroll
+  // to reach.
   var prevVisibleKeys = {}, curVisibleKeys = {};
   function nk(key){
     curVisibleKeys[key] = true;
-    return prevVisibleKeys[key] ? "" : " pop-in";
+    return prevVisibleKeys[key] ? "" : " pop-pending";
   }
   function beginVisiblePass(){ curVisibleKeys = {}; }
   // A copy, not the same object - so an nk() call from outside a pass (e.g.
   // infinite-scroll appending a video thumb straight into the DOM, with no
   // begin/endVisiblePass around it) can't quietly mutate what the next real
   // pass compares against.
-  function endVisiblePass(){ prevVisibleKeys = Object.assign({}, curVisibleKeys); }
+  function endVisiblePass(){ prevVisibleKeys = Object.assign({}, curVisibleKeys); activateReveals(); }
+
+  var revealObserver = null;
+  function getRevealObserver(){
+    if (!revealObserver && "IntersectionObserver" in window){
+      revealObserver = new IntersectionObserver(function(entries){
+        entries.forEach(function(entry){
+          if (!entry.isIntersecting) return;
+          entry.target.classList.remove("pop-pending");
+          entry.target.classList.add("pop-in");
+          revealObserver.unobserve(entry.target);
+        });
+      }, { rootMargin: "0px 0px -40px 0px", threshold: 0.01 });
+    }
+    return revealObserver;
+  }
+  // Anything already on screen bounces right away, same as before; anything
+  // below the fold waits for the user to actually scroll it into view.
+  function activateReveals(){
+    var pending = trackerEl.querySelectorAll(".pop-pending");
+    if (!pending.length) return;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    var obs = getRevealObserver();
+    pending.forEach(function(el){
+      var r = el.getBoundingClientRect();
+      if (!obs || (r.top < vh && r.bottom > 0)){
+        el.classList.remove("pop-pending");
+        el.classList.add("pop-in");
+      } else {
+        obs.observe(el);
+      }
+    });
+  }
 
   // ---------- bottom tab bar ----------
   function tabSvg(iconKey){ return '<svg viewBox="0 0 24 24" aria-hidden="true">'+ICONS[iconKey]+'</svg>'; }
@@ -1928,6 +1973,7 @@ body.map-overlay-open{overflow:hidden}
           if (activeVideoChannel() && activeVideoChannel().id === channelId){
             var grid = document.getElementById("videoGrid");
             if (grid) grid.insertAdjacentHTML("beforeend", fresh.map(function(id){ return videoThumbHtml(id, false); }).join(''));
+            activateReveals();
             var favWrap = document.getElementById("videoFavRowWrap");
             if (favWrap) favWrap.innerHTML = videoFavRowHtml(vstate);
           }

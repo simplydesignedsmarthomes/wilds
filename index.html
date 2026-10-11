@@ -285,24 +285,24 @@ body.map-overlay-open{overflow:hidden}
 @keyframes tickDown{0%{transform:scale(1.35);color:var(--red)}55%{transform:scale(1.1);color:var(--red)}100%{transform:scale(1)}}
 .tick-up{animation:tickUp .3s cubic-bezier(.2,.9,.3,1) 1}
 .tick-down{animation:tickDown .28s cubic-bezier(.2,.9,.3,1) 1}
-/* Everything bounces in on load rather than just appearing - a little
-   overshoot past full size before it settles, cascading across a grid
-   instead of popping in all at once. Skipped entirely for anyone who's
-   asked their OS for reduced motion. */
+/* Bounces new content in - a little overshoot past full size before it
+   settles. Opt-in via .pop-in, added in JS only to elements that weren't
+   already on screen a moment ago (see nk() / curVisibleKeys), so opening a
+   subcategory bounces in just the newly-revealed subcategory boxes, not
+   the whole page's worth of stuff that was already sitting there.
+   Skipped entirely for anyone who's asked their OS for reduced motion. */
 @media (prefers-reduced-motion: no-preference){
   @keyframes popIn{0%{opacity:0;transform:scale(.82) translateY(8px)}65%{opacity:1;transform:scale(1.035) translateY(0)}100%{opacity:1;transform:scale(1) translateY(0)}}
-  .tk-box,.tk-subbox,.item-tile,.cc-card,.video-thumb,.update-card,.recipe-card{animation:popIn .4s cubic-bezier(.34,1.56,.64,1) both}
-  .tk-grid>*,.tk-subgrid>*,.item-grid>*,.construct-grid>*{animation-name:popIn;animation-duration:.4s;animation-timing-function:cubic-bezier(.34,1.56,.64,1);animation-fill-mode:both}
-  .tk-grid>*:nth-child(1),.tk-subgrid>*:nth-child(1),.item-grid>*:nth-child(1),.construct-grid>*:nth-child(1){animation-delay:0ms}
-  .tk-grid>*:nth-child(2),.tk-subgrid>*:nth-child(2),.item-grid>*:nth-child(2),.construct-grid>*:nth-child(2){animation-delay:30ms}
-  .tk-grid>*:nth-child(3),.tk-subgrid>*:nth-child(3),.item-grid>*:nth-child(3),.construct-grid>*:nth-child(3){animation-delay:60ms}
-  .tk-grid>*:nth-child(4),.tk-subgrid>*:nth-child(4),.item-grid>*:nth-child(4),.construct-grid>*:nth-child(4){animation-delay:90ms}
-  .tk-grid>*:nth-child(5),.tk-subgrid>*:nth-child(5),.item-grid>*:nth-child(5),.construct-grid>*:nth-child(5){animation-delay:120ms}
-  .tk-grid>*:nth-child(6),.tk-subgrid>*:nth-child(6),.item-grid>*:nth-child(6),.construct-grid>*:nth-child(6){animation-delay:150ms}
-  .tk-grid>*:nth-child(7),.tk-subgrid>*:nth-child(7),.item-grid>*:nth-child(7),.construct-grid>*:nth-child(7){animation-delay:180ms}
-  .tk-grid>*:nth-child(8),.tk-subgrid>*:nth-child(8),.item-grid>*:nth-child(8),.construct-grid>*:nth-child(8){animation-delay:210ms}
-  .tk-grid>*:nth-child(n+9),.tk-subgrid>*:nth-child(n+9),.item-grid>*:nth-child(n+9),.construct-grid>*:nth-child(n+9){animation-delay:240ms}
-  .video-grid>*,.update-card{animation:popIn .4s cubic-bezier(.34,1.56,.64,1) both}
+  .pop-in{animation:popIn .4s cubic-bezier(.34,1.56,.64,1) both}
+  .tk-grid>*.pop-in:nth-child(1),.tk-subgrid>*.pop-in:nth-child(1),.item-grid>*.pop-in:nth-child(1),.construct-grid>*.pop-in:nth-child(1){animation-delay:0ms}
+  .tk-grid>*.pop-in:nth-child(2),.tk-subgrid>*.pop-in:nth-child(2),.item-grid>*.pop-in:nth-child(2),.construct-grid>*.pop-in:nth-child(2){animation-delay:30ms}
+  .tk-grid>*.pop-in:nth-child(3),.tk-subgrid>*.pop-in:nth-child(3),.item-grid>*.pop-in:nth-child(3),.construct-grid>*.pop-in:nth-child(3){animation-delay:60ms}
+  .tk-grid>*.pop-in:nth-child(4),.tk-subgrid>*.pop-in:nth-child(4),.item-grid>*.pop-in:nth-child(4),.construct-grid>*.pop-in:nth-child(4){animation-delay:90ms}
+  .tk-grid>*.pop-in:nth-child(5),.tk-subgrid>*.pop-in:nth-child(5),.item-grid>*.pop-in:nth-child(5),.construct-grid>*.pop-in:nth-child(5){animation-delay:120ms}
+  .tk-grid>*.pop-in:nth-child(6),.tk-subgrid>*.pop-in:nth-child(6),.item-grid>*.pop-in:nth-child(6),.construct-grid>*.pop-in:nth-child(6){animation-delay:150ms}
+  .tk-grid>*.pop-in:nth-child(7),.tk-subgrid>*.pop-in:nth-child(7),.item-grid>*.pop-in:nth-child(7),.construct-grid>*.pop-in:nth-child(7){animation-delay:180ms}
+  .tk-grid>*.pop-in:nth-child(8),.tk-subgrid>*.pop-in:nth-child(8),.item-grid>*.pop-in:nth-child(8),.construct-grid>*.pop-in:nth-child(8){animation-delay:210ms}
+  .tk-grid>*.pop-in:nth-child(n+9),.tk-subgrid>*.pop-in:nth-child(n+9),.item-grid>*.pop-in:nth-child(n+9),.construct-grid>*.pop-in:nth-child(n+9){animation-delay:240ms}
 }
 .fd-name{display:flex;align-items:center;gap:.5rem;flex:1;min-width:0;background:none;border:0;color:inherit;font:inherit;text-align:left;cursor:pointer;padding:0}
 .chevron-btn{margin-left:auto;flex-shrink:0;background:none;border:0;color:var(--text3);font-size:20px;line-height:1;cursor:pointer;padding:.2rem .3rem;transition:transform .15s ease}
@@ -955,6 +955,26 @@ body.map-overlay-open{overflow:hidden}
     return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c];
   }); }
 
+  // "Bounce in only what's new" tracking: every top-level drawX() function
+  // resets curVisibleKeys, then calls nk(key) once per element it renders
+  // (a stable identity for that element - a chest key, an item's scope::name,
+  // a channel id...). nk() returns " pop-in" the first time a key shows up
+  // since the last full render pass, "" if it was already there - so an
+  // element whose identity persisted across a redraw (even though its DOM
+  // node was just recreated by the innerHTML swap) doesn't replay the
+  // animation, and only genuinely newly-revealed content bounces.
+  var prevVisibleKeys = {}, curVisibleKeys = {};
+  function nk(key){
+    curVisibleKeys[key] = true;
+    return prevVisibleKeys[key] ? "" : " pop-in";
+  }
+  function beginVisiblePass(){ curVisibleKeys = {}; }
+  // A copy, not the same object - so an nk() call from outside a pass (e.g.
+  // infinite-scroll appending a video thumb straight into the DOM, with no
+  // begin/endVisiblePass around it) can't quietly mutate what the next real
+  // pass compares against.
+  function endVisiblePass(){ prevVisibleKeys = Object.assign({}, curVisibleKeys); }
+
   // ---------- bottom tab bar ----------
   function tabSvg(iconKey){ return '<svg viewBox="0 0 24 24" aria-hidden="true">'+ICONS[iconKey]+'</svg>'; }
   function drawTabbar(){
@@ -1097,6 +1117,7 @@ body.map-overlay-open{overflow:hidden}
       trackerEl.hidden = false;
       resultsEl.innerHTML = ""; countEl.textContent = "";
       drawVideos();
+      refreshVideosIfStale();
       return;
     }
     if (view.tab === "updates" && !q){
@@ -1165,7 +1186,7 @@ body.map-overlay-open{overflow:hidden}
   // category, or one per quest line. Tapping it expands the actual list.
   function tkSubBox(key, label, stat, sub, pct){
     var open = openSub === key;
-    return '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-subbox="'+esc(key)+'">'+
+    return '<button type="button" class="tk-subbox'+(open?" open":"")+nk("subbox:"+key)+'" data-subbox="'+esc(key)+'">'+
       '<span class="tk-subbox-label">'+esc(label)+'</span>'+
       '<span class="tk-subbox-stat">'+esc(stat)+'</span>'+
       '<span class="tk-subbox-sub">'+esc(sub)+'</span>'+
@@ -1182,7 +1203,7 @@ body.map-overlay-open{overflow:hidden}
     var name = s[0];
     var lvl = skillLevel(name);
     var open = openSub === "skill:"+name;
-    return '<div class="tk-subbox tk-skillbox'+(open?" open":"")+'">'+
+    return '<div class="tk-subbox tk-skillbox'+(open?" open":"")+nk("skillbox:"+name)+'">'+
       '<button type="button" class="tk-skillbox-main" data-subbox="skill:'+esc(name)+'">'+
         '<span class="fd-icon">'+skillSvg(name)+'</span>'+
         '<span class="tk-subbox-label">'+esc(name)+'</span>'+
@@ -1271,7 +1292,7 @@ body.map-overlay-open{overflow:hidden}
     var count = cat.subcats.reduce(function(s, sc){
       return s + sc.groups.reduce(function(s2, g){ return s2 + g.items.length; }, 0);
     }, 0);
-    return '<button type="button" class="tk-box'+(open?" open":"")+'" data-ccat="'+esc(cat.key)+'">'+
+    return '<button type="button" class="tk-box'+(open?" open":"")+nk("ccat:"+cat.key)+'" data-ccat="'+esc(cat.key)+'">'+
       '<span class="tk-box-label">'+esc(cat.label)+'</span>'+
       '<span class="tk-box-stat">'+count+'</span>'+
       '<span class="tk-box-sub">buildable</span></button>';
@@ -1280,7 +1301,7 @@ body.map-overlay-open{overflow:hidden}
     var skey = catKey+"::"+sub.key;
     var open = openConstructionSub === skey;
     var count = sub.groups.reduce(function(s, g){ return s + g.items.length; }, 0);
-    return '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-csub="'+esc(skey)+'">'+
+    return '<button type="button" class="tk-subbox'+(open?" open":"")+nk("csub:"+skey)+'" data-csub="'+esc(skey)+'">'+
       '<span class="tk-subbox-label">'+esc(sub.label)+'</span>'+
       '<span class="tk-subbox-stat">'+count+'</span>'+
       '<span class="tk-subbox-sub">buildable</span></button>';
@@ -1288,10 +1309,10 @@ body.map-overlay-open{overflow:hidden}
   // Every card shows its icon, name, Construction XP and full materials up
   // front - no click needed - laid out in a responsive multi-column grid so
   // several sit side by side instead of one per row.
-  function constructionItemCardHtml(it){
+  function constructionItemCardHtml(it, scope){
     var xp = (it.skills || []).map(function(s){ return esc(s.name)+(s.xp ? ' '+esc(String(s.xp))+' XP' : ''); }).join(", ");
     var icon = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy" class="cc-icon">' : '<span class="cc-icon cc-icon-noimg">?</span>';
-    return '<div class="cc-card">'+
+    return '<div class="cc-card'+nk("ccard:"+scope+"::"+it.name)+'">'+
       '<div class="cc-head">'+icon+'<span class="cc-name">'+esc(it.name)+'</span></div>'+
       (xp ? '<div class="cc-xp">'+xp+'</div>' : '')+
       (it.materials.length ? '<div class="mat-chips">'+it.materials.map(itemChip).join("")+'</div>' : '<div class="recipe-note">No materials needed.</div>')+
@@ -1302,10 +1323,10 @@ body.map-overlay-open{overflow:hidden}
   // (a material set) gets its own collapsible header, closed by default.
   function constructionGroupSection(catKey, subKey, g){
     var scope = catKey+"::"+subKey+"::"+(g.label || "_");
-    var cards = '<div class="construct-grid">'+g.items.map(constructionItemCardHtml).join("")+'</div>';
+    var cards = '<div class="construct-grid">'+g.items.map(function(it){ return constructionItemCardHtml(it, scope); }).join("")+'</div>';
     if (!g.label) return cards;
     var open = !!openConstructionGroups[scope];
-    var header = '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-cgroup="'+esc(scope)+'">'+
+    var header = '<button type="button" class="tk-subbox'+(open?" open":"")+nk("cgroup:"+scope)+'" data-cgroup="'+esc(scope)+'">'+
       '<span class="tk-subbox-label">'+esc(g.label)+'</span>'+
       '<span class="tk-subbox-stat">'+g.items.length+'</span>'+
       '<span class="tk-subbox-sub">buildable</span></button>';
@@ -1402,7 +1423,7 @@ body.map-overlay-open{overflow:hidden}
 
   function tkBox(key, label, stat, sub, pct, statId, barId){
     var open = openBox === key;
-    return '<button type="button" class="tk-box'+(open?" open":"")+'" data-box="'+key+'">'+
+    return '<button type="button" class="tk-box'+(open?" open":"")+nk("box:"+key)+'" data-box="'+key+'">'+
       '<span class="tk-box-label">'+esc(label)+'</span>'+
       '<span class="tk-box-stat"'+(statId?' id="'+statId+'"':'')+'>'+esc(stat)+'</span>'+
       '<span class="tk-box-sub">'+esc(sub)+'</span>'+
@@ -1410,6 +1431,7 @@ body.map-overlay-open{overflow:hidden}
       '</button>';
   }
   function drawTracker(){
+    beginVisiblePass();
     var sk = skillsTotal(), qt = questsTotal();
     var grid = '<div class="tk-grid">'+
       tkBox("skills", "Skills", sk.done+" / "+sk.total, "Total level", Math.round(sk.done/sk.total*100), "boxStatSkills", "boxBarSkills")+
@@ -1421,6 +1443,7 @@ body.map-overlay-open{overflow:hidden}
     else if (openBox === "quests") panel = '<div class="tk-panel"><h3>Quests</h3>'+questsBlock()+'</div>';
 
     trackerEl.innerHTML = '<div class="tk-head"><h2>My progress</h2></div>'+grid+panel;
+    endVisiblePass();
   }
 
   // ---------- items / storage ----------
@@ -1434,7 +1457,7 @@ body.map-overlay-open{overflow:hidden}
   function chestBox(cat){
     var open = openChest === cat.key;
     var shown = visibleItems(cat).length;
-    return '<button type="button" class="tk-subbox'+(open?" open":"")+'" data-chest="'+esc(cat.key)+'">'+
+    return '<button type="button" class="tk-subbox'+(open?" open":"")+nk("chestbox:"+cat.key)+'" data-chest="'+esc(cat.key)+'">'+
       '<span class="tk-subbox-label">'+esc(cat.label)+'</span>'+
       '<span class="tk-subbox-stat">'+shown+(STATE.powerFilterOn && shown!==cat.items.length ? ' / '+cat.items.length : '')+'</span>'+
       '<span class="tk-subbox-sub">items</span>'+
@@ -1453,7 +1476,7 @@ body.map-overlay-open{overflow:hidden}
   function itemTile(it, scope){
     var img = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy">' : '<span class="item-tile-noimg">?</span>';
     var open = openItem === scope+"::"+it.name;
-    return '<button type="button" class="item-tile'+(open?" open":"")+'" data-item="'+esc(scope+"::"+it.name)+'">'+
+    return '<button type="button" class="item-tile'+(open?" open":"")+nk("item:"+scope+"::"+it.name)+'" data-item="'+esc(scope+"::"+it.name)+'">'+
       '<div class="item-tile-img">'+img+'</div>'+
       '<div class="item-tile-name">'+esc(it.name)+'</div>'+
       (it.tier ? '<div class="item-tile-tier '+tierHue(it.tier)+'">'+esc(it.tier)+'</div>' : '')+
@@ -1574,7 +1597,7 @@ body.map-overlay-open{overflow:hidden}
   function stationBox(st){
     var on = !!selectedStations[st.name];
     var icon = st.img ? '<img src="'+esc(st.img)+'" alt="" loading="lazy" class="station-icon">' : '';
-    return '<button type="button" class="tk-subbox'+(on?" open":"")+'" data-station="'+esc(st.name)+'">'+
+    return '<button type="button" class="tk-subbox'+(on?" open":"")+nk("stationbox:"+st.name)+'" data-station="'+esc(st.name)+'">'+
       '<span class="tk-subbox-label station-label">'+icon+'<span>'+esc(st.name)+'</span></span>'+
       '<span class="tk-subbox-stat">'+st.count+'</span>'+
       '<span class="tk-subbox-sub">items</span>'+
@@ -1642,6 +1665,7 @@ body.map-overlay-open{overflow:hidden}
     if (again) window.scrollBy(0, again.getBoundingClientRect().top - before);
   }
   function drawStorage(){
+    beginVisiblePass();
     var cats = window.WILDS_STORAGE || [];
     var total = cats.reduce(function(s,c){ return s + c.items.length; }, 0);
     var grid = '<div class="tk-grid">'+
@@ -1658,10 +1682,11 @@ body.map-overlay-open{overflow:hidden}
         constructionBlock()+'</div>';
     }
     trackerEl.innerHTML = '<div class="tk-head"><h2>Catalogue</h2></div>'+grid+body;
+    endVisiblePass();
   }
   function tkBox2(key, label, stat, sub){
     var open = catalogueView === key;
-    return '<button type="button" class="tk-box'+(open?" open":"")+'" data-catview="'+key+'">'+
+    return '<button type="button" class="tk-box'+(open?" open":"")+nk("box:"+key)+'" data-catview="'+key+'">'+
       '<span class="tk-box-label">'+esc(label)+'</span>'+
       '<span class="tk-box-stat">'+esc(stat)+'</span>'+
       '<span class="tk-box-sub">'+esc(sub)+'</span>'+
@@ -1738,7 +1763,7 @@ body.map-overlay-open{overflow:hidden}
   }
   function videoThumbHtml(id, active){
     var fav = isFavoriteVideo(id);
-    return '<div class="video-thumb'+(active?" active":"")+'" data-vid="'+esc(id)+'" role="button" tabindex="0">'+
+    return '<div class="video-thumb'+(active?" active":"")+nk("vid:"+id)+'" data-vid="'+esc(id)+'" role="button" tabindex="0">'+
       '<img src="https://i.ytimg.com/vi/'+esc(id)+'/mqdefault.jpg" alt="" loading="lazy">'+
       '<button type="button" class="video-fav'+(fav?" on":"")+'" data-fav="'+esc(id)+'" aria-label="Favorite">'+(fav?"★":"☆")+'</button>'+
       '</div>';
@@ -1775,10 +1800,12 @@ body.map-overlay-open{overflow:hidden}
       '<div class="video-add-status" id="videoAddStatus"></div>';
   }
   function drawVideos(){
+    beginVisiblePass();
     var channel = activeVideoChannel();
     if (!channel){
       trackerEl.innerHTML = '<div class="tk-head"><h2>Videos</h2></div>'+videoChannelsRowHtml()+
         '<div class="note">Add a YouTube channel above to get started.</div>';
+      endVisiblePass();
       return;
     }
     var vstate = videoStateFor(channel.id);
@@ -1798,6 +1825,18 @@ body.map-overlay-open{overflow:hidden}
       '<div id="videoMoreNote">'+videoMoreNoteHtml(vstate, channel.name)+'</div>';
     loadYouTubeIframeApi();
     window.addEventListener("scroll", onVideosScroll);
+    endVisiblePass();
+  }
+  // A failed fetch used to leave vstate.stale true forever, and drawVideos()
+  // auto-retried on every redraw (including the one its own retry caused) -
+  // an unthrottled loop that hammered the network and froze the tab. Now
+  // the auto-refresh only ever fires from an explicit "the user just got
+  // here" moment (opening the tab, adding a channel, switching to one),
+  // never from drawVideos() itself, so a redraw can never trigger another.
+  function refreshVideosIfStale(){
+    var channel = activeVideoChannel();
+    if (!channel) return;
+    var vstate = videoStateFor(channel.id);
     if (vstate.stale && !vstate.loading) refreshVideos();
   }
   function teardownVideos(){
@@ -1825,7 +1864,7 @@ body.map-overlay-open{overflow:hidden}
     var meta = (u.date || u.category)
       ? '<div class="update-meta">'+(u.date ? esc(u.date) : "")+(u.category ? ' <span class="update-cat">'+esc(u.category)+'</span>' : '')+'</div>'
       : "";
-    return '<div class="update-card">'+updateMediaHtml(u)+
+    return '<div class="update-card'+nk("update:"+u.title)+'">'+updateMediaHtml(u)+
       '<div class="update-card-body">'+meta+
       '<h3><a href="'+esc(DRAGONWILDS_NEWS_URL)+'" target="_blank" rel="noopener">'+esc(u.title)+'</a></h3>'+
       (u.summary ? '<p class="update-summary">'+esc(u.summary)+(u.summary.length >= 400 ? "…" : "")+'</p>' : "")+
@@ -1839,11 +1878,13 @@ body.map-overlay-open{overflow:hidden}
       '<div class="update-hero-text"><h2>Updates</h2><p>Patch notes and dev posts for RuneScape: Dragonwilds, kept current with the game’s own update log - usually the same day they go out.</p></div></div>';
   }
   function drawUpdates(){
+    beginVisiblePass();
     var data = window.WILDS_UPDATES || { discord: "", gallery: [], updates: [] };
     var rows = data.updates || [];
     var hero = updateHeroHtml(data.gallery);
     trackerEl.innerHTML = (hero || '<div class="tk-head"><h2>Updates</h2></div>')+
       (rows.length ? rows.map(updateCardHtml).join("") : '<div class="note">No updates loaded yet.</div>');
+    endVisiblePass();
   }
   function teardownUpdates(){}
   // Selecting a thumbnail or loading another page of results only ever
@@ -1954,6 +1995,7 @@ body.map-overlay-open{overflow:hidden}
         STATE.activeVideoChannelId = data.channelId;
         saveState();
         drawVideos();
+        refreshVideosIfStale();
       })
       .catch(function(){
         if (statusEl) statusEl.textContent = "Couldn’t reach YouTube.";
@@ -2405,6 +2447,7 @@ body.map-overlay-open{overflow:hidden}
       STATE.activeVideoChannelId = chBtn.dataset.channel;
       saveState();
       drawVideos();
+      refreshVideosIfStale();
       return;
     }
     if (e.target.id === "videoAddBtn"){

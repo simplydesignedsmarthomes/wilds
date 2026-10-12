@@ -300,16 +300,16 @@ body.map-overlay-open{overflow:hidden}
 @media (prefers-reduced-motion: no-preference){
   @keyframes popIn{0%{opacity:0;transform:scale(.82) translateY(8px)}65%{opacity:1;transform:scale(1.035) translateY(0)}100%{opacity:1;transform:scale(1) translateY(0)}}
   .pop-pending{opacity:0}
-  .pop-in{animation:popIn .4s cubic-bezier(.34,1.56,.64,1) both}
+  .pop-in{animation:popIn .22s cubic-bezier(.34,1.56,.64,1) both}
   .tk-grid>*.pop-in:nth-child(1),.tk-subgrid>*.pop-in:nth-child(1),.item-grid>*.pop-in:nth-child(1),.construct-grid>*.pop-in:nth-child(1){animation-delay:0ms}
-  .tk-grid>*.pop-in:nth-child(2),.tk-subgrid>*.pop-in:nth-child(2),.item-grid>*.pop-in:nth-child(2),.construct-grid>*.pop-in:nth-child(2){animation-delay:30ms}
-  .tk-grid>*.pop-in:nth-child(3),.tk-subgrid>*.pop-in:nth-child(3),.item-grid>*.pop-in:nth-child(3),.construct-grid>*.pop-in:nth-child(3){animation-delay:60ms}
-  .tk-grid>*.pop-in:nth-child(4),.tk-subgrid>*.pop-in:nth-child(4),.item-grid>*.pop-in:nth-child(4),.construct-grid>*.pop-in:nth-child(4){animation-delay:90ms}
-  .tk-grid>*.pop-in:nth-child(5),.tk-subgrid>*.pop-in:nth-child(5),.item-grid>*.pop-in:nth-child(5),.construct-grid>*.pop-in:nth-child(5){animation-delay:120ms}
-  .tk-grid>*.pop-in:nth-child(6),.tk-subgrid>*.pop-in:nth-child(6),.item-grid>*.pop-in:nth-child(6),.construct-grid>*.pop-in:nth-child(6){animation-delay:150ms}
-  .tk-grid>*.pop-in:nth-child(7),.tk-subgrid>*.pop-in:nth-child(7),.item-grid>*.pop-in:nth-child(7),.construct-grid>*.pop-in:nth-child(7){animation-delay:180ms}
-  .tk-grid>*.pop-in:nth-child(8),.tk-subgrid>*.pop-in:nth-child(8),.item-grid>*.pop-in:nth-child(8),.construct-grid>*.pop-in:nth-child(8){animation-delay:210ms}
-  .tk-grid>*.pop-in:nth-child(n+9),.tk-subgrid>*.pop-in:nth-child(n+9),.item-grid>*.pop-in:nth-child(n+9),.construct-grid>*.pop-in:nth-child(n+9){animation-delay:240ms}
+  .tk-grid>*.pop-in:nth-child(2),.tk-subgrid>*.pop-in:nth-child(2),.item-grid>*.pop-in:nth-child(2),.construct-grid>*.pop-in:nth-child(2){animation-delay:16ms}
+  .tk-grid>*.pop-in:nth-child(3),.tk-subgrid>*.pop-in:nth-child(3),.item-grid>*.pop-in:nth-child(3),.construct-grid>*.pop-in:nth-child(3){animation-delay:32ms}
+  .tk-grid>*.pop-in:nth-child(4),.tk-subgrid>*.pop-in:nth-child(4),.item-grid>*.pop-in:nth-child(4),.construct-grid>*.pop-in:nth-child(4){animation-delay:48ms}
+  .tk-grid>*.pop-in:nth-child(5),.tk-subgrid>*.pop-in:nth-child(5),.item-grid>*.pop-in:nth-child(5),.construct-grid>*.pop-in:nth-child(5){animation-delay:64ms}
+  .tk-grid>*.pop-in:nth-child(6),.tk-subgrid>*.pop-in:nth-child(6),.item-grid>*.pop-in:nth-child(6),.construct-grid>*.pop-in:nth-child(6){animation-delay:80ms}
+  .tk-grid>*.pop-in:nth-child(7),.tk-subgrid>*.pop-in:nth-child(7),.item-grid>*.pop-in:nth-child(7),.construct-grid>*.pop-in:nth-child(7){animation-delay:96ms}
+  .tk-grid>*.pop-in:nth-child(8),.tk-subgrid>*.pop-in:nth-child(8),.item-grid>*.pop-in:nth-child(8),.construct-grid>*.pop-in:nth-child(8){animation-delay:112ms}
+  .tk-grid>*.pop-in:nth-child(n+9),.tk-subgrid>*.pop-in:nth-child(n+9),.item-grid>*.pop-in:nth-child(n+9),.construct-grid>*.pop-in:nth-child(n+9){animation-delay:128ms}
 }
 .fd-name{display:flex;align-items:center;gap:.5rem;flex:1;min-width:0;background:none;border:0;color:inherit;font:inherit;text-align:left;cursor:pointer;padding:0}
 .chevron-btn{margin-left:auto;flex-shrink:0;background:none;border:0;color:var(--text3);font-size:20px;line-height:1;cursor:pointer;padding:.2rem .3rem;transition:transform .15s ease}
@@ -989,9 +989,16 @@ body.map-overlay-open{overflow:hidden}
           if (!entry.isIntersecting) return;
           entry.target.classList.remove("pop-pending");
           entry.target.classList.add("pop-in");
+          // A fast scroll can cross a whole screenful of these in one go, all
+          // landing in the same observer callback - the nth-child stagger
+          // meant for "everything bounces in together when you open a panel"
+          // would otherwise queue them up behind each other here too, so a
+          // quick scroll looks like nothing happened until it "catches up".
+          // Each one earns its bounce the moment it's actually seen instead.
+          entry.target.style.animationDelay = "0ms";
           revealObserver.unobserve(entry.target);
         });
-      }, { rootMargin: "0px 0px -40px 0px", threshold: 0.01 });
+      }, { rootMargin: "0px 0px 300px 0px", threshold: 0.01 });
     }
     return revealObserver;
   }

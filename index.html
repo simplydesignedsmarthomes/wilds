@@ -285,31 +285,48 @@ body.map-overlay-open{overflow:hidden}
 @keyframes tickDown{0%{transform:scale(1.35);color:var(--red)}55%{transform:scale(1.1);color:var(--red)}100%{transform:scale(1)}}
 .tick-up{animation:tickUp .3s cubic-bezier(.2,.9,.3,1) 1}
 .tick-down{animation:tickDown .28s cubic-bezier(.2,.9,.3,1) 1}
-/* Bounces new content in - a little overshoot past full size before it
-   settles. Opt-in via .pop-in, added in JS only to elements that weren't
-   already on screen a moment ago (see nk() / curVisibleKeys), so opening a
-   subcategory bounces in just the newly-revealed subcategory boxes, not
-   the whole page's worth of stuff that was already sitting there.
+/* Settles new content in with a tiny spring wobble (scale + a couple degrees
+   of rotation overshoot) plus a brief ember/gold glow pulse along the edge -
+   the same accent color the tier-ember styling uses elsewhere, so it reads
+   as this app's own signature rather than a generic web fade. The glow is a
+   second, un-filled animation stacked in the same `animation` shorthand: it
+   has no 100% fill-mode of its own, so the moment it finishes, box-shadow
+   falls back to whatever that element's own CSS already says (its normal
+   resting shadow, or a tier-ember ring) instead of getting stuck mid-glow.
+   Opt-in via .pop-in, added in JS only to elements that weren't already on
+   screen a moment ago (see nk() / curVisibleKeys), so opening a subcategory
+   bounces in just the newly-revealed subcategory boxes, not the whole
+   page's worth of stuff that was already sitting there.
    New content below the fold starts as .pop-pending (invisible) instead,
-   and only turns into .pop-in - and actually bounces - once activateReveals()
-   sees it scroll into view, so the bounce isn't wasted off-screen.
+   and only turns into .pop-in - and actually plays - once activateReveals()
+   sees it scroll into view, so the effect isn't wasted off-screen.
    Skipped entirely for anyone who's asked their OS for reduced motion
    (.pop-pending stays fully visible for them, since nothing will ever
    promote it with an animation). */
 .pop-pending{opacity:1}
 @media (prefers-reduced-motion: no-preference){
-  @keyframes popIn{0%{opacity:0;transform:scale(.82) translateY(8px)}65%{opacity:1;transform:scale(1.035) translateY(0)}100%{opacity:1;transform:scale(1) translateY(0)}}
+  @keyframes popIn{
+    0%{opacity:0;transform:scale(.9) translateY(10px) rotate(-1.4deg)}
+    45%{opacity:1;transform:scale(1.035) translateY(-2px) rotate(1deg)}
+    70%{transform:scale(.985) translateY(1px) rotate(-.4deg)}
+    100%{opacity:1;transform:scale(1) translateY(0) rotate(0deg)}
+  }
+  @keyframes emberGlow{
+    0%{box-shadow:0 0 0 0 rgba(255,176,0,0)}
+    40%{box-shadow:0 0 16px 3px rgba(255,176,0,.5)}
+    100%{box-shadow:0 0 0 0 rgba(255,176,0,0)}
+  }
   .pop-pending{opacity:0}
-  .pop-in{animation:popIn .22s cubic-bezier(.34,1.56,.64,1) both}
+  .pop-in{animation:popIn .32s cubic-bezier(.22,1,.36,1) both, emberGlow .4s ease-out}
   .tk-grid>*.pop-in:nth-child(1),.tk-subgrid>*.pop-in:nth-child(1),.item-grid>*.pop-in:nth-child(1),.construct-grid>*.pop-in:nth-child(1){animation-delay:0ms}
-  .tk-grid>*.pop-in:nth-child(2),.tk-subgrid>*.pop-in:nth-child(2),.item-grid>*.pop-in:nth-child(2),.construct-grid>*.pop-in:nth-child(2){animation-delay:16ms}
-  .tk-grid>*.pop-in:nth-child(3),.tk-subgrid>*.pop-in:nth-child(3),.item-grid>*.pop-in:nth-child(3),.construct-grid>*.pop-in:nth-child(3){animation-delay:32ms}
-  .tk-grid>*.pop-in:nth-child(4),.tk-subgrid>*.pop-in:nth-child(4),.item-grid>*.pop-in:nth-child(4),.construct-grid>*.pop-in:nth-child(4){animation-delay:48ms}
-  .tk-grid>*.pop-in:nth-child(5),.tk-subgrid>*.pop-in:nth-child(5),.item-grid>*.pop-in:nth-child(5),.construct-grid>*.pop-in:nth-child(5){animation-delay:64ms}
-  .tk-grid>*.pop-in:nth-child(6),.tk-subgrid>*.pop-in:nth-child(6),.item-grid>*.pop-in:nth-child(6),.construct-grid>*.pop-in:nth-child(6){animation-delay:80ms}
-  .tk-grid>*.pop-in:nth-child(7),.tk-subgrid>*.pop-in:nth-child(7),.item-grid>*.pop-in:nth-child(7),.construct-grid>*.pop-in:nth-child(7){animation-delay:96ms}
-  .tk-grid>*.pop-in:nth-child(8),.tk-subgrid>*.pop-in:nth-child(8),.item-grid>*.pop-in:nth-child(8),.construct-grid>*.pop-in:nth-child(8){animation-delay:112ms}
-  .tk-grid>*.pop-in:nth-child(n+9),.tk-subgrid>*.pop-in:nth-child(n+9),.item-grid>*.pop-in:nth-child(n+9),.construct-grid>*.pop-in:nth-child(n+9){animation-delay:128ms}
+  .tk-grid>*.pop-in:nth-child(2),.tk-subgrid>*.pop-in:nth-child(2),.item-grid>*.pop-in:nth-child(2),.construct-grid>*.pop-in:nth-child(2){animation-delay:20ms}
+  .tk-grid>*.pop-in:nth-child(3),.tk-subgrid>*.pop-in:nth-child(3),.item-grid>*.pop-in:nth-child(3),.construct-grid>*.pop-in:nth-child(3){animation-delay:40ms}
+  .tk-grid>*.pop-in:nth-child(4),.tk-subgrid>*.pop-in:nth-child(4),.item-grid>*.pop-in:nth-child(4),.construct-grid>*.pop-in:nth-child(4){animation-delay:60ms}
+  .tk-grid>*.pop-in:nth-child(5),.tk-subgrid>*.pop-in:nth-child(5),.item-grid>*.pop-in:nth-child(5),.construct-grid>*.pop-in:nth-child(5){animation-delay:80ms}
+  .tk-grid>*.pop-in:nth-child(6),.tk-subgrid>*.pop-in:nth-child(6),.item-grid>*.pop-in:nth-child(6),.construct-grid>*.pop-in:nth-child(6){animation-delay:100ms}
+  .tk-grid>*.pop-in:nth-child(7),.tk-subgrid>*.pop-in:nth-child(7),.item-grid>*.pop-in:nth-child(7),.construct-grid>*.pop-in:nth-child(7){animation-delay:120ms}
+  .tk-grid>*.pop-in:nth-child(8),.tk-subgrid>*.pop-in:nth-child(8),.item-grid>*.pop-in:nth-child(8),.construct-grid>*.pop-in:nth-child(8){animation-delay:140ms}
+  .tk-grid>*.pop-in:nth-child(n+9),.tk-subgrid>*.pop-in:nth-child(n+9),.item-grid>*.pop-in:nth-child(n+9),.construct-grid>*.pop-in:nth-child(n+9){animation-delay:160ms}
 }
 .fd-name{display:flex;align-items:center;gap:.5rem;flex:1;min-width:0;background:none;border:0;color:inherit;font:inherit;text-align:left;cursor:pointer;padding:0}
 .chevron-btn{margin-left:auto;flex-shrink:0;background:none;border:0;color:var(--text3);font-size:20px;line-height:1;cursor:pointer;padding:.2rem .3rem;transition:transform .15s ease}
@@ -998,7 +1015,7 @@ body.map-overlay-open{overflow:hidden}
           entry.target.style.animationDelay = "0ms";
           revealObserver.unobserve(entry.target);
         });
-      }, { rootMargin: "0px 0px 300px 0px", threshold: 0.01 });
+      }, { rootMargin: "0px 0px 40px 0px", threshold: 0.01 });
     }
     return revealObserver;
   }

@@ -1681,13 +1681,23 @@ body.map-overlay-open{overflow:hidden}
   }
   function stationBlock(){
     var stations = window.WILDS_STATIONS || [];
-    var names = Object.keys(selectedStations).filter(function(k){ return selectedStations[k]; });
     var grid = '<div class="tk-subgrid">'+stations.map(stationBox).join("")+'</div>';
     if (!stations.length) return grid + '<div class="note">Crafting stations aren’t catalogued yet - still being researched.</div>';
+    var names = Object.keys(selectedStations).filter(function(k){ return selectedStations[k]; });
     if (!names.length) return grid;
+    // Several stations can be selected across different rows at once, so the
+    // combined panel can't sit "right after the one tapped box" the way a
+    // single-open panel can (see rowInsert()) - instead it goes right after
+    // the last row that has a selection in it, rather than after the whole
+    // grid regardless of how many more stations follow below.
+    var cols = 2, lastIdx = -1;
+    stations.forEach(function(st, i){ if (selectedStations[st.name]) lastIdx = i; });
+    var breakAt = Math.floor(lastIdx / cols) * cols + cols;
     var items = itemsAtStations(selectedStations);
-    return grid + '<div class="tk-panel" style="margin-top:.8rem"><h3>Made at '+esc(names.join(" + "))+' ('+items.length+')</h3>'+
+    var panel = '<div class="tk-subpanel"><h4>Made at '+esc(names.join(" + "))+' ('+items.length+')</h4>'+
       (items.length ? itemGridHtml(items, "station") : '<div class="note">Nothing at your current power level yet.</div>')+'</div>';
+    var html = stations.slice(0, breakAt).map(stationBox).join("") + panel + stations.slice(breakAt).map(stationBox).join("");
+    return '<div class="tk-subgrid">'+html+'</div>';
   }
   function storageTabs(){
     return '<div class="view-tabs">'+

@@ -203,18 +203,45 @@ def load_all(details):
 # real products.
 MAX_DOWNSTREAM_STATIONS = 3
 
+# "Build Menu" is the game's own Construction menu, not a crafting station -
+# any raw material used in even one building recipe (an ore, a seed) would
+# otherwise pick up "Build Menu" as if it were a peer of the Grill or the
+# Blacksmith's Bench, complete with a blank icon since it isn't a real,
+# buildable thing itself. Construction already has its own dedicated tab
+# (see fetch_construction_data.py), so it's excluded from station tagging
+# entirely rather than showing up a second time, out of place, here.
+NOT_A_STATION = {"Build Menu"}
+
 def item_stations(detail):
     made = []
     for r in detail["recipes"]:
-        if r["station"] and r["station"] not in made:
-            made.append(r["station"])
+        st = r["station"]
+        if st and st not in NOT_A_STATION and st not in made:
+            made.append(st)
     if made:
         return made
-    downstream = []
+    counts, order = {}, []
     for u in detail["usedIn"]:
-        if u["station"] and u["station"] not in downstream:
-            downstream.append(u["station"])
-    return downstream if len(downstream) <= MAX_DOWNSTREAM_STATIONS else []
+        st = u["station"]
+        if not st or st in NOT_A_STATION:
+            continue
+        if st not in counts:
+            counts[st] = 0
+            order.append(st)
+        counts[st] += 1
+    if not counts:
+        return []
+    # A raw material used overwhelmingly at one station (most of its real
+    # recipes) but only incidentally in a one-off recipe or two elsewhere -
+    # a potion herb that also flavors a single cooked dish - belongs with
+    # its dominant station alone. Listing every station it ever touches
+    # would scatter it across tiles that aren't really "its" station and
+    # bury the one that actually defines it.
+    top = max(counts, key=lambda s: counts[s])
+    rest = sum(c for s, c in counts.items() if s != top)
+    if counts[top] >= 3 and counts[top] >= 3 * rest:
+        return [top]
+    return order if len(order) <= MAX_DOWNSTREAM_STATIONS else []
 
 # A few item types got caught by two different research agents under two
 # different chest labels (e.g. an arrow is both "a weapon" and "ammo" by the

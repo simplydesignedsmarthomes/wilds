@@ -452,9 +452,11 @@ body.map-overlay-open{overflow:hidden}
 .tk-skillbox-stp{display:flex;align-items:center;gap:.4rem;margin-top:.35rem}
 .tk-skillbox-stp button{width:26px;height:26px;flex-shrink:0;border:1px solid var(--edge-dark);background:var(--panel);color:var(--gold);border-radius:var(--r);font-size:15px;font-weight:700;line-height:1;cursor:pointer;padding:0}
 .tk-skillbox-stp button:active{background:var(--gold);color:var(--bg)}
-/* the open skill's detail spans the full grid width, right where it was
-   tapped - remaining boxes flow below it until it's closed again */
+/* An open box's detail spans the full grid width, right after the row it's
+   in - its row-mate stays put beside it rather than dropping to the row
+   after the panel (see rowInsert()). */
 .tk-subgrid > .tk-subpanel{grid-column:1 / -1;margin-top:0}
+.tk-grid > .tk-cat-expand{grid-column:1 / -1}
 
 /* Items/Storage: a chest's contents as a small icon grid, images hotlinked
    straight from the wiki */
@@ -1218,6 +1220,27 @@ body.map-overlay-open{overflow:hidden}
     return { done: done, total: count };
   }
 
+  // Renders a fixed-column grid of boxes where tapping one opens a detail
+  // panel - the panel is inserted after the whole row it belongs to, not
+  // right after the box itself, so its row-mate stays put instead of
+  // getting bumped down to the row after the panel (which is what a plain
+  // per-box insertion into a 2-column CSS grid would do). Shared by Skills,
+  // Quest lines, Items/chests and Construction's category and subcategory
+  // grids - every fixed `cols`-column tk-grid/tk-subgrid with a tap-to-open
+  // box.
+  function rowInsert(items, cols, boxFn, isOpenFn, panelFn){
+    var html = "";
+    for (var i = 0; i < items.length; i += cols){
+      var row = items.slice(i, i + cols), openItem = null;
+      row.forEach(function(it){
+        html += boxFn(it);
+        if (isOpenFn(it)) openItem = it;
+      });
+      if (openItem) html += panelFn(openItem);
+    }
+    return html;
+  }
+
   // A small box within an already-open Skills/Quests box: one per skill
   // category, or one per quest line. Tapping it expands the actual list.
   function tkSubBox(key, label, stat, sub, pct){
@@ -1262,13 +1285,9 @@ body.map-overlay-open{overflow:hidden}
   function skillsBlock(){
     var released = window.WILDS_SKILLS || [];
     var openName = (openSub && openSub.indexOf("skill:") === 0) ? openSub.slice(6) : null;
-    var html = released.map(function(s){
-      var box = skillBox(s);
-      if (openName && s[0] === openName){
-        box += '<div class="tk-subpanel" data-skill-panel="'+esc(openName)+'"><h4>'+esc(openName)+'</h4>'+skillDetail(openName)+'</div>';
-      }
-      return box;
-    }).join("");
+    var html = rowInsert(released, 2, skillBox, function(s){ return openName && s[0] === openName; }, function(s){
+      return '<div class="tk-subpanel" data-skill-panel="'+esc(s[0])+'"><h4>'+esc(s[0])+'</h4>'+skillDetail(s[0])+'</div>';
+    });
     return '<div class="tk-subgrid">'+html+'</div>';
   }
   function updateSkillTotal(){
@@ -1300,20 +1319,14 @@ body.map-overlay-open{overflow:hidden}
   }
   function questsBlock(){
     var lines = questLines();
-    var subGrid = '<div class="tk-subgrid">'+lines.map(function(line){
+    var html = rowInsert(lines, 2, function(line){
       var t = questLineTotal(line);
       return tkSubBox("questline:"+line.key, line.key, t.done+" / "+t.total, "Quests", Math.round(t.done/t.total*100));
-    }).join("")+'</div>';
-    var panel = "";
-    if (openSub && openSub.indexOf("questline:") === 0){
-      var key = openSub.slice(10);
-      var line = lines.filter(function(l){ return l.key === key; })[0];
-      if (line){
-        var rows = line.list.map(function(n){ return questRow(n, "", line.prefix); }).join("");
-        panel = '<div class="tk-subpanel"><h4>'+esc(key)+'</h4><div class="area open"><div class="body" style="padding-top:.6rem"><div class="chk">'+rows+'</div></div></div></div>';
-      }
-    }
-    return subGrid + panel;
+    }, function(line){ return openSub === "questline:"+line.key; }, function(line){
+      var rows = line.list.map(function(n){ return questRow(n, "", line.prefix); }).join("");
+      return '<div class="tk-subpanel"><h4>'+esc(line.key)+'</h4><div class="area open"><div class="body" style="padding-top:.6rem"><div class="chk">'+rows+'</div></div></div></div>';
+    });
+    return '<div class="tk-subgrid">'+html+'</div>';
   }
 
   // ---------- construction (lives under the Catalogue tab) ----------
@@ -1377,24 +1390,26 @@ body.map-overlay-open{overflow:hidden}
       }, 0);
     }, 0);
   }
+  // The open category's subcategory grid (and, within it, the open
+  // subcategory's own items panel) - broken out so it can be slotted in
+  // right after the open category's row, same trick as rowInsert one level up.
+  function constructionSubGridHtml(cat){
+    var prefix = cat.key+"::";
+    var html = rowInsert(cat.subcats, 2, function(sc){ return constructionSubBox(cat.key, sc); },
+      function(sc){ return openConstructionSub === prefix+sc.key; },
+      function(sc){
+        return '<div class="tk-subpanel"><h4>'+esc(sc.label)+'</h4>'+
+          sc.groups.map(function(g){ return constructionGroupSection(cat.key, sc.key, g); }).join("")+'</div>';
+      });
+    return '<div class="tk-subgrid">'+html+'</div>';
+  }
   function constructionBlock(){
     var cats = window.WILDS_CONSTRUCTION || [];
     if (!cats.length) return '<div class="note">Not catalogued yet.</div>';
-    var grid = '<div class="tk-grid">'+cats.map(constructionCatBox).join("")+'</div>';
-    var cat = cats.filter(function(c){ return c.key === openConstructionCat; })[0];
-    if (!cat) return grid;
-    var subGrid = '<div class="tk-subgrid">'+cat.subcats.map(function(sc){ return constructionSubBox(cat.key, sc); }).join("")+'</div>';
-    var subPanel = "";
-    var prefix = cat.key+"::";
-    if (openConstructionSub && openConstructionSub.indexOf(prefix) === 0){
-      var subKey = openConstructionSub.slice(prefix.length);
-      var sub = cat.subcats.filter(function(s){ return s.key === subKey; })[0];
-      if (sub){
-        subPanel = '<div class="tk-subpanel"><h4>'+esc(sub.label)+'</h4>'+
-          sub.groups.map(function(g){ return constructionGroupSection(cat.key, sub.key, g); }).join("")+'</div>';
-      }
-    }
-    return grid + subGrid + subPanel;
+    var html = rowInsert(cats, 2, constructionCatBox, function(c){ return openConstructionCat === c.key; }, function(c){
+      return '<div class="tk-cat-expand">'+constructionSubGridHtml(c)+'</div>';
+    });
+    return '<div class="tk-grid">'+html+'</div>';
   }
 
   // ---------- tracker: sync + backup ----------
@@ -1619,17 +1634,13 @@ body.map-overlay-open{overflow:hidden}
   }
   function storageBlock(){
     var cats = window.WILDS_STORAGE || [];
-    var html = cats.map(function(cat){
-      var box = chestBox(cat);
-      if (openChest === cat.key){
-        var shown = visibleItems(cat);
-        var tiles = shown.length
-          ? itemGridHtml(shown, "chest:"+cat.key)
-          : '<div class="note">'+(cat.items.length ? "Nothing at your current power level yet." : "Nothing catalogued here yet.")+'</div>';
-        box += '<div class="tk-subpanel"><h4>'+esc(cat.label)+'</h4>'+tiles+'</div>';
-      }
-      return box;
-    }).join("");
+    var html = rowInsert(cats, 2, chestBox, function(cat){ return openChest === cat.key; }, function(cat){
+      var shown = visibleItems(cat);
+      var tiles = shown.length
+        ? itemGridHtml(shown, "chest:"+cat.key)
+        : '<div class="note">'+(cat.items.length ? "Nothing at your current power level yet." : "Nothing catalogued here yet.")+'</div>';
+      return '<div class="tk-subpanel"><h4>'+esc(cat.label)+'</h4>'+tiles+'</div>';
+    });
     return '<div class="tk-subgrid">'+html+'</div>';
   }
   // ---------- items / by crafting station ----------

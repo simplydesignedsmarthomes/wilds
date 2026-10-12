@@ -175,7 +175,12 @@ def main():
                 if not rec:
                     missed.append("%s / %s: %s" % (cat_label, sub_label, name))
                     continue
-                item = dict(rec, name=name)
+                # The Buildings page's own anchor/tag for this entry (e.g. a
+                # "Roofing#Cabin" link) - the only place a material style
+                # actually lives for pieces like roofs, whose name and recipe
+                # are otherwise identical across Cabin/Cottage/Castle/
+                # Kharidian and only differ by which recipe resolve() found.
+                item = dict(rec, name=name, style=style or "")
                 by_group.setdefault(group_label or "", []).append(item)
                 seen_names.add(link_target)
             # A lone group named after its own subcategory ("Basic survival"

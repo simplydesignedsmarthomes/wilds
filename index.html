@@ -1384,21 +1384,31 @@ body.map-overlay-open{overflow:hidden}
   // Every card shows its icon, name, Construction XP and full materials up
   // front - no click needed - laid out in a responsive multi-column grid so
   // several sit side by side instead of one per row.
-  function constructionItemCardHtml(it, scope){
+  function constructionItemCardHtml(it, scope, materialLabel){
     var xp = (it.skills || []).map(function(s){ return esc(s.name)+(s.xp ? ' '+esc(String(s.xp))+' XP' : ''); }).join(", ");
     var icon = it.img ? '<img src="'+esc(it.img)+'" alt="" loading="lazy" class="cc-icon">' : '<span class="cc-icon cc-icon-noimg">?</span>';
     return '<div class="cc-card'+nk("ccard:"+scope+"::"+it.name)+'">'+
       '<div class="cc-head">'+icon+'<span class="cc-name">'+esc(it.name)+'</span></div>'+
+      (materialLabel ? '<div class="item-tile-tier">'+esc(materialLabel)+'</div>' : '')+
       (xp ? '<div class="cc-xp">'+xp+'</div>' : '')+
       (it.materials.length ? '<div class="mat-chips">'+it.materials.map(itemChip).join("")+'</div>' : '<div class="recipe-note">No materials needed.</div>')+
       '</div>';
   }
   // A group with no label is the only content in its subcategory (nothing
   // to close), so it renders straight into a card grid; a named group
-  // (a material set) gets its own collapsible header, closed by default.
+  // (a material set - Cabin, Castle, Kharidian...) gets its own collapsible
+  // header, closed by default, AND repeats as a small tag on every card in
+  // it - once you've scrolled a header out of view, or if several groups'
+  // cards end up visually close together, the tag is what still tells a
+  // Cabin wall apart from a Castle one at a glance.
   function constructionGroupSection(catKey, subKey, g){
     var scope = catKey+"::"+subKey+"::"+(g.label || "_");
-    var cards = '<div class="construct-grid">'+g.items.map(function(it){ return constructionItemCardHtml(it, scope); }).join("")+'</div>';
+    // A piece's own style tag (from the Buildings page's own anchor for that
+    // entry - "Roofing#Cabin", say) beats the group label: it's how pieces
+    // like roofs surface a material even with no group of their own, and
+    // it's what tells two identically-named cards (a Kharidian roof comes in
+    // a Red and a Blue awning, both called "Large Awning Roof") apart.
+    var cards = '<div class="construct-grid">'+g.items.map(function(it){ return constructionItemCardHtml(it, scope, it.style || g.label); }).join("")+'</div>';
     if (!g.label) return cards;
     var open = !!openConstructionGroups[scope];
     var header = '<button type="button" class="tk-subbox'+(open?" open":"")+nk("cgroup:"+scope)+'" data-cgroup="'+esc(scope)+'">'+

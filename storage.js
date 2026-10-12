@@ -22,7 +22,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Attack style",
@@ -113,7 +113,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -203,7 +203,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Attack style",
@@ -294,7 +294,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -400,7 +400,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -506,7 +506,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -614,7 +614,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -725,7 +725,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -824,7 +824,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -927,7 +927,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -1038,7 +1038,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -1136,7 +1136,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Attack style",
@@ -1231,7 +1231,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -1335,7 +1335,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -1435,7 +1435,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Attack style",
@@ -1522,7 +1522,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -1598,7 +1598,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Attack style",
@@ -1698,7 +1698,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -1807,7 +1807,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -1912,7 +1912,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Attack style",
@@ -2008,7 +2008,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -2121,7 +2121,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -2237,7 +2237,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -2345,7 +2345,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -2453,7 +2453,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -2561,7 +2561,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -2677,7 +2677,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -2776,7 +2776,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -2852,7 +2852,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Attack style",
@@ -2952,7 +2952,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Attack style",
@@ -3048,7 +3048,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -3161,7 +3161,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -3269,7 +3269,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -3377,7 +3377,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -3485,7 +3485,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -3593,7 +3593,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -3708,7 +3708,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -3828,7 +3828,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -3931,7 +3931,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -4040,7 +4040,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -4141,7 +4141,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -4213,7 +4213,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Attack style",
@@ -4313,7 +4313,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -4422,7 +4422,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -4527,7 +4527,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Attack style",
@@ -4623,7 +4623,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -4731,7 +4731,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -4835,7 +4835,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -4939,7 +4939,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -5043,7 +5043,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -5147,7 +5147,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -5251,7 +5251,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -5371,7 +5371,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -5466,7 +5466,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -5538,7 +5538,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -5639,7 +5639,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -5743,7 +5743,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -5847,7 +5847,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -5951,7 +5951,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -6055,7 +6055,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -6159,7 +6159,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -6279,7 +6279,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -6378,7 +6378,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Attack style",
@@ -6479,7 +6479,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Attack style",
@@ -6580,7 +6580,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -6689,7 +6689,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -6790,7 +6790,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -6862,7 +6862,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Attack style",
@@ -6963,7 +6963,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Attack style",
@@ -7064,7 +7064,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -7180,7 +7180,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -7296,7 +7296,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -7393,7 +7393,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -7490,7 +7490,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -7562,7 +7562,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -7667,7 +7667,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -7771,7 +7771,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -7879,7 +7879,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -7983,7 +7983,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -8087,7 +8087,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -8195,7 +8195,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -8303,7 +8303,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -8402,7 +8402,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -8478,7 +8478,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -8602,7 +8602,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -8723,7 +8723,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -8813,7 +8813,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -8926,7 +8926,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -9002,7 +9002,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -9105,7 +9105,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -9177,7 +9177,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -9288,7 +9288,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -9401,7 +9401,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -9516,7 +9516,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -9630,7 +9630,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -9742,7 +9742,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -9854,7 +9854,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -9923,7 +9923,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -10000,7 +10000,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -10116,7 +10116,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -10231,7 +10231,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -10352,7 +10352,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -10459,7 +10459,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -10568,7 +10568,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "24 February 2026 (Eye on Ashenfall - 0.10.2)"
+              "value": "24 February 2026"
             },
             {
               "label": "Damage type",
@@ -10684,7 +10684,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -10800,7 +10800,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -10873,7 +10873,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -10985,7 +10985,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -11102,7 +11102,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -11214,7 +11214,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -11330,7 +11330,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -11446,7 +11446,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -11563,7 +11563,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -11675,7 +11675,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -11791,7 +11791,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -11918,7 +11918,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -12020,7 +12020,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -12131,7 +12131,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -12237,7 +12237,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "24 February 2026 (Eye on Ashenfall - 0.10.2)"
+              "value": "24 February 2026"
             },
             {
               "label": "Damage type",
@@ -12346,7 +12346,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -12455,7 +12455,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -12559,7 +12559,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -12675,7 +12675,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -12760,7 +12760,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -12861,7 +12861,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -12978,7 +12978,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -13104,7 +13104,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 January 2026 (Eye on Ashenfall - 0.10.1)"
+              "value": "15 January 2026"
             },
             {
               "label": "Damage type",
@@ -13232,7 +13232,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -13334,7 +13334,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -13436,7 +13436,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -13538,7 +13538,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -13640,7 +13640,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -13742,7 +13742,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -13844,7 +13844,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -13951,7 +13951,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -14054,7 +14054,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -14161,7 +14161,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -14268,7 +14268,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Block",
@@ -14350,7 +14350,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -14457,7 +14457,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -14564,7 +14564,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -14671,7 +14671,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -14778,7 +14778,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -14885,7 +14885,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -14992,7 +14992,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -15104,7 +15104,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -15216,7 +15216,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -15328,7 +15328,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -15440,7 +15440,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -15552,7 +15552,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -15664,7 +15664,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -15776,7 +15776,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -15884,7 +15884,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -15996,7 +15996,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -16108,7 +16108,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Block",
@@ -16195,7 +16195,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -16307,7 +16307,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -16419,7 +16419,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -16531,7 +16531,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -16643,7 +16643,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -16755,7 +16755,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -16867,7 +16867,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -16984,7 +16984,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -17101,7 +17101,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -17218,7 +17218,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -17335,7 +17335,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -17452,7 +17452,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -17569,7 +17569,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -17686,7 +17686,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -17803,7 +17803,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -17920,7 +17920,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -18037,7 +18037,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -18154,7 +18154,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -18271,7 +18271,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -18388,7 +18388,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -18505,7 +18505,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -18618,7 +18618,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -18735,7 +18735,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -18852,7 +18852,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Block",
@@ -18939,7 +18939,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -19051,7 +19051,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -19163,7 +19163,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -19275,7 +19275,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -19387,7 +19387,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -19495,7 +19495,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -19607,7 +19607,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -19719,7 +19719,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Block",
@@ -19806,7 +19806,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -19918,7 +19918,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -20030,7 +20030,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -20142,7 +20142,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -20246,7 +20246,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -20350,7 +20350,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -20458,7 +20458,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -20566,7 +20566,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -20674,7 +20674,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -20782,7 +20782,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -20904,7 +20904,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -21022,7 +21022,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -21144,7 +21144,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -21266,7 +21266,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -21353,7 +21353,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (0.12 - Known Issues and Vital Information)"
+              "value": "23 June 2026"
             },
             {
               "label": "Special effect",
@@ -21457,7 +21457,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (0.12 - Known Issues and Vital Information)"
+              "value": "23 June 2026"
             },
             {
               "label": "Special effect",
@@ -21561,7 +21561,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (0.12 - Known Issues and Vital Information)"
+              "value": "23 June 2026"
             },
             {
               "label": "Special effect",
@@ -21665,7 +21665,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (0.12 - Known Issues and Vital Information)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -21783,7 +21783,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (0.12 - Known Issues and Vital Information)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -21908,7 +21908,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (0.12 - Known Issues and Vital Information)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -22026,7 +22026,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -22138,7 +22138,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -22250,7 +22250,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -22362,7 +22362,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (0.12 - Known Issues and Vital Information)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -22479,7 +22479,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -22597,7 +22597,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -22715,7 +22715,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -22833,7 +22833,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -22946,7 +22946,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -23059,7 +23059,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -23168,7 +23168,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -23281,7 +23281,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -23394,7 +23394,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -23507,7 +23507,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -23620,7 +23620,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -23737,7 +23737,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -23854,7 +23854,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Block",
@@ -23941,7 +23941,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -24054,7 +24054,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -24163,7 +24163,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -24276,7 +24276,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Block",
@@ -24359,7 +24359,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -24472,7 +24472,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -24557,7 +24557,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -24638,7 +24638,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (RuneScape: Dragonwilds is out!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Melee defence",
@@ -24709,7 +24709,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Special effect",
@@ -24804,7 +24804,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Block",
@@ -24931,7 +24931,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -25003,7 +25003,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -25075,7 +25075,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Melee defence",
@@ -25171,7 +25171,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -25248,7 +25248,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -25310,7 +25310,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -25377,7 +25377,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Versions",
@@ -25450,7 +25450,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -25512,7 +25512,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -25579,7 +25579,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -25641,7 +25641,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -25703,7 +25703,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Versions",
@@ -25802,7 +25802,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -25893,7 +25893,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "19 May 2026 (Unknown)"
+              "value": "19 May 2026"
             },
             {
               "label": "Melee defence",
@@ -25955,7 +25955,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -26027,7 +26027,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -26099,7 +26099,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Versions",
@@ -26176,7 +26176,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -26249,7 +26249,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Block",
@@ -26307,7 +26307,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -26380,7 +26380,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -26453,7 +26453,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -26526,7 +26526,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -26597,7 +26597,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Block",
@@ -26693,7 +26693,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Block",
@@ -26795,7 +26795,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -26893,7 +26893,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -26965,7 +26965,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Block",
@@ -27061,7 +27061,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -27174,7 +27174,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -27287,7 +27287,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -27400,7 +27400,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Melee defence",
@@ -27487,7 +27487,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -27559,7 +27559,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Versions",
@@ -27632,7 +27632,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Special effect",
@@ -27683,7 +27683,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Melee defence",
@@ -27750,7 +27750,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Versions",
@@ -27823,7 +27823,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -27870,7 +27870,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -27958,7 +27958,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -28066,7 +28066,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -28174,7 +28174,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Melee defence",
@@ -28278,7 +28278,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -28340,7 +28340,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -28402,7 +28402,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -28469,7 +28469,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -28531,7 +28531,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -28597,7 +28597,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Block",
@@ -28675,7 +28675,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Special effect",
@@ -28769,7 +28769,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -28849,7 +28849,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -28930,7 +28930,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -29011,7 +29011,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -29083,7 +29083,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -29155,7 +29155,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -29221,7 +29221,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -29323,7 +29323,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -29425,7 +29425,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (0.12 - Known Issues and Vital Information)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -29523,7 +29523,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -29585,7 +29585,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -29656,7 +29656,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -29768,7 +29768,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -29880,7 +29880,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -29988,7 +29988,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -30025,7 +30025,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -30062,7 +30062,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -30097,7 +30097,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -30134,7 +30134,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -30171,7 +30171,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -30208,7 +30208,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -30270,7 +30270,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -30337,7 +30337,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -30399,7 +30399,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -30461,7 +30461,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -30535,7 +30535,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -30672,7 +30672,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -30734,7 +30734,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -30801,7 +30801,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -30873,7 +30873,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -30935,7 +30935,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -31002,7 +31002,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -31064,7 +31064,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -31130,7 +31130,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -31232,7 +31232,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -31334,7 +31334,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -31432,7 +31432,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -31504,7 +31504,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "19 May 2026 (Unknown)"
+              "value": "19 May 2026"
             },
             {
               "label": "Melee defence",
@@ -31571,7 +31571,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -31633,7 +31633,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 January 2026 (Eye on Ashenfall - 0.10.1)"
+              "value": "15 January 2026"
             },
             {
               "label": "Melee defence",
@@ -31680,7 +31680,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Versions",
@@ -31753,7 +31753,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -31819,7 +31819,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -31897,7 +31897,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Versions",
@@ -31970,7 +31970,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Versions",
@@ -32043,7 +32043,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -32105,7 +32105,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -32176,7 +32176,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -32298,7 +32298,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -32420,7 +32420,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -32538,7 +32538,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -32614,7 +32614,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Block",
@@ -32687,7 +32687,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Melee defence",
@@ -32749,7 +32749,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Melee defence",
@@ -32816,7 +32816,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -32878,7 +32878,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Melee defence",
@@ -32940,7 +32940,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Special effect",
@@ -33013,7 +33013,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Special effect",
@@ -33098,7 +33098,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Special effect",
@@ -33180,7 +33180,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "24 February 2026 (Eye on Ashenfall - 0.10.2)"
+              "value": "24 February 2026"
             },
             {
               "label": "Special effect",
@@ -33277,7 +33277,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Special effect",
@@ -33370,7 +33370,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Special effect",
@@ -33467,7 +33467,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Special effect",
@@ -33555,7 +33555,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Special effect",
@@ -33648,7 +33648,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Special effect",
@@ -33745,7 +33745,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -33826,7 +33826,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -33907,7 +33907,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -33984,7 +33984,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34060,7 +34060,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34136,7 +34136,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34212,7 +34212,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -34288,7 +34288,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34364,7 +34364,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34440,7 +34440,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34516,7 +34516,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34592,7 +34592,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -34668,7 +34668,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34744,7 +34744,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34820,7 +34820,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -34896,7 +34896,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -35093,7 +35093,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -35174,7 +35174,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -35255,7 +35255,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -35332,7 +35332,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -35568,7 +35568,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -35645,7 +35645,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "19 May 2026 (Eye on Ashenfall - 0.11.2)"
+              "value": "19 May 2026"
             },
             {
               "label": "Special effect",
@@ -35737,7 +35737,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -35869,7 +35869,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Special effect",
@@ -35957,7 +35957,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Special effect",
@@ -36045,7 +36045,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Special effect",
@@ -36133,7 +36133,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -36290,7 +36290,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Special effect",
@@ -36382,7 +36382,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -36463,7 +36463,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Melee defence",
@@ -36547,7 +36547,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -36685,7 +36685,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -36816,7 +36816,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -36954,7 +36954,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -37055,7 +37055,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -37156,7 +37156,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -37257,7 +37257,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Sustenance",
@@ -37390,7 +37390,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -37514,7 +37514,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -37586,7 +37586,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -37767,7 +37767,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -37890,7 +37890,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -37977,7 +37977,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -38051,7 +38051,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -38138,7 +38138,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -38251,7 +38251,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -38358,7 +38358,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -38465,7 +38465,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -38629,7 +38629,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -38725,7 +38725,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -38821,7 +38821,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -38917,7 +38917,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -39005,7 +39005,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -39097,7 +39097,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -39193,7 +39193,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -39289,7 +39289,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -39377,7 +39377,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -39513,7 +39513,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -39618,7 +39618,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -39716,7 +39716,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -39812,7 +39812,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -39900,7 +39900,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -39996,7 +39996,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -40092,7 +40092,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -40188,7 +40188,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Sustenance",
@@ -40324,7 +40324,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -40420,7 +40420,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -40508,7 +40508,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -40596,7 +40596,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -40684,7 +40684,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -40776,7 +40776,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -40868,7 +40868,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -40960,7 +40960,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -41052,7 +41052,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -41148,7 +41148,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -41244,7 +41244,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -41340,7 +41340,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -41428,7 +41428,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -41516,7 +41516,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -41612,7 +41612,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -41708,7 +41708,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -41804,7 +41804,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -41869,7 +41869,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -41965,7 +41965,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -42061,7 +42061,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -42177,7 +42177,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Hydration",
@@ -42440,7 +42440,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Hydration",
@@ -42579,7 +42579,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -42688,7 +42688,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -42833,7 +42833,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -42951,7 +42951,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -43053,7 +43053,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -43252,7 +43252,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -43327,7 +43327,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -43423,7 +43423,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -43614,7 +43614,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -43775,7 +43775,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -43932,7 +43932,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -44006,7 +44006,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -44161,7 +44161,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Weight",
@@ -44270,7 +44270,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -44385,7 +44385,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -44512,7 +44512,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -44599,7 +44599,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -44735,7 +44735,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Sustenance",
@@ -44837,7 +44837,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -44938,7 +44938,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -45039,7 +45039,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -45194,7 +45194,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -45369,7 +45369,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -45532,7 +45532,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -45656,7 +45656,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -45774,7 +45774,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -45898,7 +45898,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -45987,7 +45987,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Sustenance",
@@ -46098,7 +46098,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -46228,7 +46228,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -46361,7 +46361,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -46480,7 +46480,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -46598,7 +46598,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -46679,7 +46679,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -46812,7 +46812,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -46913,7 +46913,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -46987,7 +46987,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -47088,7 +47088,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -47324,7 +47324,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -47434,7 +47434,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Sustenance",
@@ -47536,7 +47536,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Sustenance",
@@ -47638,7 +47638,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -47751,7 +47751,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Sustenance",
@@ -47862,7 +47862,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -48017,7 +48017,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -48135,7 +48135,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -48254,7 +48254,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -48334,7 +48334,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -48433,7 +48433,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -48538,7 +48538,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -48677,7 +48677,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -48821,7 +48821,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -48912,7 +48912,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -49003,7 +49003,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -49247,7 +49247,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -49325,7 +49325,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -49399,7 +49399,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -49505,7 +49505,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -49610,7 +49610,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -49746,7 +49746,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -49858,7 +49858,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -49973,7 +49973,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -50092,7 +50092,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -50199,7 +50199,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -50314,7 +50314,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -50421,7 +50421,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -50528,7 +50528,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -50624,7 +50624,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -50763,7 +50763,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Sustenance",
@@ -50882,7 +50882,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Sustenance",
@@ -50993,7 +50993,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -51106,7 +51106,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -51202,7 +51202,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -51289,7 +51289,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -51396,7 +51396,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -51488,7 +51488,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -51559,7 +51559,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Sustenance",
@@ -51660,7 +51660,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -51775,7 +51775,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -51878,7 +51878,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -52007,7 +52007,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Sustenance",
@@ -52113,7 +52113,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Sustenance",
@@ -52248,7 +52248,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -52357,7 +52357,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -52487,7 +52487,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Duration",
@@ -52566,7 +52566,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -52696,7 +52696,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -52826,7 +52826,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -52956,7 +52956,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -53086,7 +53086,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -53165,7 +53165,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Duration",
@@ -53244,7 +53244,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -53374,7 +53374,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -53504,7 +53504,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -53634,7 +53634,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -53765,7 +53765,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -53895,7 +53895,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -54025,7 +54025,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -54115,7 +54115,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Duration",
@@ -54194,7 +54194,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Duration",
@@ -54273,7 +54273,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -54363,7 +54363,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -54453,7 +54453,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -54543,7 +54543,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -54633,7 +54633,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -54718,7 +54718,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Duration",
@@ -54803,7 +54803,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -54893,7 +54893,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -54983,7 +54983,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -55073,7 +55073,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -55148,7 +55148,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -55238,7 +55238,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "17 June 2025 (Update 1 - 0.8.0)"
+              "value": "17 June 2025"
             },
             {
               "label": "Duration",
@@ -55317,7 +55317,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Duration",
@@ -55402,7 +55402,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -55499,7 +55499,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -55596,7 +55596,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Duration",
@@ -55682,7 +55682,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -55779,7 +55779,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -55876,7 +55876,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -55973,7 +55973,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -56070,7 +56070,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -56167,7 +56167,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Duration",
@@ -56259,7 +56259,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -56356,7 +56356,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -56453,7 +56453,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -56550,7 +56550,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -56625,7 +56625,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -56722,7 +56722,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Duration",
@@ -56819,7 +56819,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Health",
@@ -56899,7 +56899,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -56979,7 +56979,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Duration",
@@ -57053,7 +57053,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57128,7 +57128,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57208,7 +57208,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57288,7 +57288,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57368,7 +57368,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57448,7 +57448,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57528,7 +57528,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57608,7 +57608,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57688,7 +57688,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57768,7 +57768,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57843,7 +57843,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Duration",
@@ -57918,7 +57918,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -57988,7 +57988,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Hydration",
@@ -58127,7 +58127,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Hydration",
@@ -58256,7 +58256,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Hydration",
@@ -58385,7 +58385,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Hydration",
@@ -58524,7 +58524,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Hydration",
@@ -58653,7 +58653,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Duration",
@@ -58688,7 +58688,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Duration",
@@ -58723,7 +58723,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Hydration",
@@ -58829,7 +58829,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Hydration",
@@ -58970,7 +58970,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 September 2025 (Eye on Ashenfall - 0.9.1)"
+              "value": "29 September 2025"
             },
             {
               "label": "Hydration",
@@ -59104,7 +59104,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Duration",
@@ -59183,7 +59183,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -59222,7 +59222,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -59287,7 +59287,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -59326,7 +59326,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -59386,7 +59386,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -59517,7 +59517,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -59572,7 +59572,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -59714,7 +59714,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -59868,7 +59868,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -60279,7 +60279,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -60439,7 +60439,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -60553,7 +60553,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -60608,7 +60608,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -60959,7 +60959,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -61014,7 +61014,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -61386,7 +61386,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -61459,7 +61459,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -61519,7 +61519,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -61816,7 +61816,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -61883,7 +61883,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -62141,7 +62141,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -62371,7 +62371,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -62557,7 +62557,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -62768,7 +62768,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -62819,7 +62819,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -63058,7 +63058,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -63154,7 +63154,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -63228,7 +63228,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -63349,7 +63349,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -63659,7 +63659,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -63823,7 +63823,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -63935,7 +63935,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -63990,7 +63990,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Stack limit",
@@ -64041,7 +64041,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -64369,7 +64369,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -64504,7 +64504,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -64623,7 +64623,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -64685,7 +64685,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -65209,7 +65209,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -65317,7 +65317,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -65476,7 +65476,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -65541,7 +65541,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -65660,7 +65660,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -65732,7 +65732,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -65815,7 +65815,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -65893,7 +65893,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -65998,7 +65998,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -66298,7 +66298,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -66502,7 +66502,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Health",
@@ -66578,7 +66578,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -66646,7 +66646,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -66711,7 +66711,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -66938,7 +66938,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -66993,7 +66993,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -67123,7 +67123,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -67753,7 +67753,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -68676,7 +68676,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -68883,7 +68883,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -69111,7 +69111,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -69183,7 +69183,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -69399,7 +69399,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -69471,7 +69471,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             }
           ],
           "recipes": [],
@@ -69498,7 +69498,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             }
           ],
           "recipes": [],
@@ -69525,7 +69525,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -69843,7 +69843,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -69915,7 +69915,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -69987,7 +69987,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -70065,7 +70065,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -70251,7 +70251,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -70323,7 +70323,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -70425,7 +70425,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -70492,7 +70492,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -70613,7 +70613,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -71018,7 +71018,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -71080,7 +71080,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -71201,7 +71201,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -71632,7 +71632,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 December 2025 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 December 2025"
             },
             {
               "label": "Weight",
@@ -71699,7 +71699,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -72088,7 +72088,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -72191,7 +72191,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Stack limit",
@@ -72242,7 +72242,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -72500,7 +72500,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -72702,7 +72702,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -72977,7 +72977,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -73124,7 +73124,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -73270,7 +73270,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -73332,7 +73332,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -73415,7 +73415,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -73771,7 +73771,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -74321,7 +74321,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -74404,7 +74404,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -74625,7 +74625,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -74816,7 +74816,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -74876,7 +74876,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -74945,7 +74945,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -75042,7 +75042,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -75119,7 +75119,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -75192,7 +75192,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -75498,7 +75498,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -75719,7 +75719,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -75912,7 +75912,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -76030,7 +76030,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -76222,7 +76222,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -76314,7 +76314,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -76446,7 +76446,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -76624,7 +76624,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -76698,7 +76698,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -76859,7 +76859,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -77435,7 +77435,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -77592,7 +77592,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -77746,7 +77746,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -77879,7 +77879,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -78040,7 +78040,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -78159,7 +78159,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -78297,7 +78297,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -78418,7 +78418,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -78747,7 +78747,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -78802,7 +78802,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -78871,7 +78871,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -79189,7 +79189,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -79289,7 +79289,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -79361,7 +79361,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -79458,7 +79458,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -79596,7 +79596,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -79741,7 +79741,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -79823,7 +79823,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -79895,7 +79895,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -79994,7 +79994,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -80148,7 +80148,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -80220,7 +80220,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -80285,7 +80285,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -80357,7 +80357,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -80453,7 +80453,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -80504,7 +80504,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -80592,7 +80592,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -80633,7 +80633,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -80731,7 +80731,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -80853,7 +80853,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -80958,7 +80958,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -81152,7 +81152,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 January 2026 (Eye on Ashenfall - 0.10.1)"
+              "value": "15 January 2026"
             },
             {
               "label": "Weight",
@@ -81187,7 +81187,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -81252,7 +81252,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -81517,7 +81517,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -81591,7 +81591,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -81676,7 +81676,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -81758,7 +81758,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -83571,7 +83571,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -84154,7 +84154,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -85005,7 +85005,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -85186,7 +85186,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -85525,7 +85525,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -85686,7 +85686,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -85865,7 +85865,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -86184,7 +86184,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -86295,7 +86295,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -86420,7 +86420,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -86475,7 +86475,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -86561,7 +86561,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Location",
@@ -86600,7 +86600,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -86700,7 +86700,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -86794,7 +86794,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -87081,7 +87081,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -87360,7 +87360,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -87559,7 +87559,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -87833,7 +87833,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -88137,7 +88137,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -88336,7 +88336,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -88578,7 +88578,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -88650,7 +88650,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -88734,7 +88734,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -89125,7 +89125,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -89351,7 +89351,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -89586,7 +89586,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -89681,7 +89681,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -89801,7 +89801,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -90074,7 +90074,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -90294,7 +90294,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Stack limit",
@@ -90345,7 +90345,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -90577,7 +90577,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -90887,7 +90887,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -91043,7 +91043,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -91152,7 +91152,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -91390,7 +91390,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -91532,7 +91532,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -91592,7 +91592,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -91653,7 +91653,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -91718,7 +91718,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -91773,7 +91773,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -91838,7 +91838,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -91962,7 +91962,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -92012,7 +92012,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -92079,7 +92079,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Hydration",
@@ -92176,7 +92176,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -92226,7 +92226,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -92276,7 +92276,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -92326,7 +92326,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -92376,7 +92376,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -92427,7 +92427,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -92598,7 +92598,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -92648,7 +92648,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -92796,7 +92796,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -92846,7 +92846,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -93015,7 +93015,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -93075,7 +93075,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -93137,7 +93137,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -93202,7 +93202,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -93241,7 +93241,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -93296,7 +93296,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -93341,7 +93341,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -93477,7 +93477,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -93522,7 +93522,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -93658,7 +93658,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -93708,7 +93708,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -93758,7 +93758,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -93875,7 +93875,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -93925,7 +93925,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94017,7 +94017,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94067,7 +94067,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94117,7 +94117,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -94204,7 +94204,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -94367,7 +94367,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94417,7 +94417,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -94497,7 +94497,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94547,7 +94547,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -94656,7 +94656,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94706,7 +94706,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94780,7 +94780,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94830,7 +94830,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Sustenance",
@@ -94928,7 +94928,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -94983,7 +94983,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -95087,7 +95087,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -95194,7 +95194,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -95244,7 +95244,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -95289,7 +95289,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -95345,7 +95345,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -95443,7 +95443,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -95537,7 +95537,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -95640,7 +95640,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -95739,7 +95739,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Block",
@@ -95817,7 +95817,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Versions",
@@ -95886,7 +95886,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -95996,7 +95996,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -96091,7 +96091,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Repair cost",
@@ -96165,7 +96165,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -96264,7 +96264,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -96363,7 +96363,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Block",
@@ -96441,7 +96441,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Versions",
@@ -96515,7 +96515,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -96614,7 +96614,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -96709,7 +96709,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -96808,7 +96808,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -96908,7 +96908,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -96992,7 +96992,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Versions",
@@ -97066,7 +97066,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -97169,7 +97169,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -97269,7 +97269,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Durability",
@@ -97349,7 +97349,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -97415,7 +97415,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -97496,7 +97496,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -97582,7 +97582,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Durability",
@@ -97656,7 +97656,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -97734,7 +97734,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -97829,7 +97829,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -97890,7 +97890,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -97951,7 +97951,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Durability",
@@ -98016,7 +98016,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -98092,7 +98092,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -98183,7 +98183,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Durability",
@@ -98248,7 +98248,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -98338,7 +98338,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -98412,7 +98412,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -98498,7 +98498,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -98573,7 +98573,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -98644,7 +98644,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "17 June 2025 (Update 1 - 0.8.0)"
+              "value": "17 June 2025"
             },
             {
               "label": "Weight",
@@ -98714,7 +98714,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Durability",
@@ -98789,7 +98789,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -98864,7 +98864,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -98945,7 +98945,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Durability",
@@ -99010,7 +99010,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Durability",
@@ -99085,7 +99085,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -99203,7 +99203,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -99281,7 +99281,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -99355,7 +99355,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -99431,7 +99431,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -99501,7 +99501,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -99586,7 +99586,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Block",
@@ -99668,7 +99668,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 January 2026 (Eye on Ashenfall - 0.10.1)"
+              "value": "15 January 2026"
             },
             {
               "label": "Dig value",
@@ -99752,7 +99752,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Durability",
@@ -99831,7 +99831,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Dig value",
@@ -99900,7 +99900,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Versions",
@@ -99965,7 +99965,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "21 April 2026 (Eye on Ashenfall - 0.11.1)"
+              "value": "21 April 2026"
             },
             {
               "label": "Weight",
@@ -100030,7 +100030,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Block",
@@ -100104,7 +100104,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Durability",
@@ -100190,7 +100190,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -100277,7 +100277,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -100389,7 +100389,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -100479,7 +100479,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -100568,7 +100568,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -100658,7 +100658,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -100750,7 +100750,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -100840,7 +100840,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -100932,7 +100932,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -101038,7 +101038,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -101128,7 +101128,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -101217,7 +101217,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -101307,7 +101307,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -101403,7 +101403,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -101495,7 +101495,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -101585,7 +101585,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -101701,7 +101701,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -101791,7 +101791,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -101880,7 +101880,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -101970,7 +101970,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -102062,7 +102062,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -102172,7 +102172,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -102262,7 +102262,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -102351,7 +102351,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -102441,7 +102441,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Damage type",
@@ -102531,7 +102531,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "22 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "22 June 2026"
             },
             {
               "label": "Damage type",
@@ -102641,7 +102641,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "22 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "22 June 2026"
             },
             {
               "label": "Damage type",
@@ -102731,7 +102731,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Damage type",
@@ -102820,7 +102820,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "22 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "22 June 2026"
             },
             {
               "label": "Damage type",
@@ -102910,7 +102910,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -103002,7 +103002,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "22 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "22 June 2026"
             },
             {
               "label": "Damage type",
@@ -103092,7 +103092,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -103184,7 +103184,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -103274,7 +103274,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -103384,7 +103384,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -103474,7 +103474,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -103563,7 +103563,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Damage type",
@@ -103653,7 +103653,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -103742,7 +103742,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Damage type",
@@ -103823,7 +103823,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -103915,7 +103915,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Damage type",
@@ -104021,7 +104021,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -104103,7 +104103,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -104185,7 +104185,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Damage type",
@@ -104274,7 +104274,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -104324,7 +104324,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -104369,7 +104369,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -104419,7 +104419,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -104474,7 +104474,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -104524,7 +104524,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -104569,7 +104569,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -104614,7 +104614,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -104659,7 +104659,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 September 2026 (Our 1.0 Release is live!)"
+              "value": "15 September 2026"
             },
             {
               "label": "Weight",
@@ -104704,7 +104704,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -104749,7 +104749,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -104788,7 +104788,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -104834,7 +104834,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "11 September 2025 (Eye on Ashenfall - 0.9)"
+              "value": "11 September 2025"
             },
             {
               "label": "Weight",
@@ -104879,7 +104879,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -104925,7 +104925,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -104971,7 +104971,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "24 February 2026 (Eye on Ashenfall - 0.10.2)"
+              "value": "24 February 2026"
             },
             {
               "label": "Weight",
@@ -105020,7 +105020,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -105065,7 +105065,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105111,7 +105111,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105163,7 +105163,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -105208,7 +105208,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -105247,7 +105247,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105302,7 +105302,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -105348,7 +105348,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -105398,7 +105398,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105444,7 +105444,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105490,7 +105490,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105536,7 +105536,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105582,7 +105582,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105628,7 +105628,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -105674,7 +105674,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -105720,7 +105720,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -105770,7 +105770,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -105815,7 +105815,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -105860,7 +105860,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -105899,7 +105899,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -105945,7 +105945,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -105991,7 +105991,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -106037,7 +106037,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -106083,7 +106083,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -106135,7 +106135,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -106181,7 +106181,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -106227,7 +106227,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106277,7 +106277,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106322,7 +106322,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106367,7 +106367,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106412,7 +106412,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106457,7 +106457,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106502,7 +106502,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -106548,7 +106548,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106594,7 +106594,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106639,7 +106639,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -106685,7 +106685,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -106731,7 +106731,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106770,7 +106770,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -106848,7 +106848,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -106926,7 +106926,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -106971,7 +106971,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -107017,7 +107017,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -107063,7 +107063,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -107109,7 +107109,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107155,7 +107155,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107201,7 +107201,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107247,7 +107247,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107293,7 +107293,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107339,7 +107339,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107385,7 +107385,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107431,7 +107431,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107477,7 +107477,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107523,7 +107523,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -107568,7 +107568,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             }
           ],
           "recipes": [],
@@ -107601,7 +107601,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -107684,7 +107684,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -107729,7 +107729,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -107774,7 +107774,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -107813,7 +107813,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -107858,7 +107858,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -107897,7 +107897,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -107943,7 +107943,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -107998,7 +107998,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 January 2025 (Eye on Ashenfall - 0.10.1)"
+              "value": "15 January 2025"
             },
             {
               "label": "Weight",
@@ -108033,7 +108033,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -108085,7 +108085,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "24 February 2026 (Eye on Ashenfall - 0.10.2)"
+              "value": "24 February 2026"
             },
             {
               "label": "Weight",
@@ -108124,7 +108124,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -108170,7 +108170,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "24 February 2026 (Eye on Ashenfall - 0.10.2)"
+              "value": "24 February 2026"
             },
             {
               "label": "Weight",
@@ -108215,7 +108215,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -108261,7 +108261,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -108307,7 +108307,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -108359,7 +108359,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -108404,7 +108404,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "29 July 2026 (0.12.1 is now live!)"
+              "value": "29 July 2026"
             },
             {
               "label": "Weight",
@@ -108453,7 +108453,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "24 February 2026 (Eye on Ashenfall - 0.10.2)"
+              "value": "24 February 2026"
             },
             {
               "label": "Special effect",
@@ -108544,7 +108544,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -108590,7 +108590,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -108636,7 +108636,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -108688,7 +108688,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -108734,7 +108734,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -108785,7 +108785,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -108831,7 +108831,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -108877,7 +108877,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -108923,7 +108923,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -108969,7 +108969,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -109015,7 +109015,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -109061,7 +109061,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -109107,7 +109107,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -109149,7 +109149,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -109191,7 +109191,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -109233,7 +109233,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -109278,7 +109278,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -109323,7 +109323,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025 (RuneScape: Dragonwilds is out!)"
+              "value": "15 April 2025"
             },
             {
               "label": "Weight",
@@ -109378,7 +109378,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -109424,7 +109424,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -109474,7 +109474,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -109519,7 +109519,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -109565,7 +109565,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "16 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "16 December 2025"
             },
             {
               "label": "Weight",
@@ -109622,7 +109622,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -109667,7 +109667,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",
@@ -109713,7 +109713,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -109759,7 +109759,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -109804,7 +109804,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -109850,7 +109850,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye_on_Ashenfall_-_0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -109902,7 +109902,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -110093,7 +110093,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -110132,7 +110132,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -110197,7 +110197,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -110272,7 +110272,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -110347,7 +110347,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -110402,7 +110402,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Stack limit",
@@ -110493,7 +110493,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Stack limit",
@@ -110584,7 +110584,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Stack limit",
@@ -110675,7 +110675,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Stack limit",
@@ -110766,7 +110766,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -110836,7 +110836,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "23 June 2026 (Eye on Ashenfall - 0.12.0)"
+              "value": "23 June 2026"
             },
             {
               "label": "Weight",
@@ -110911,7 +110911,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "31 March 2026 (0.11 is live now! Enter Dowdun Reach...)"
+              "value": "31 March 2026"
             },
             {
               "label": "Weight",
@@ -111151,7 +111151,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 December 2025 (Eye on Ashenfall - 0.10)"
+              "value": "15 December 2025"
             },
             {
               "label": "Weight",

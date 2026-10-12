@@ -167,12 +167,11 @@ STAT_TEMPLATES = r"Infobox (Item|Weapon|Armour|Trinket|Tool|Build|Perk|Resource 
 
 unknown_params = {}
 
+# Just the date - the wiki's own "update" param is whatever patch/devblog
+# name or promo blurb ("Our 1.0 Release is live!", "0.12 - Known Issues and
+# Vital Information") was attached at the time, not a fact worth repeating.
 def _release(p, n=""):
-    rel = clean(p.get("release" + n, ""))
-    upd = clean(p.get("update" + n, ""))
-    if rel and upd:
-        return "%s (%s)" % (rel, upd)
-    return rel or upd
+    return clean(p.get("release" + n, ""))
 
 def parse_stats(wt):
     stats = {}

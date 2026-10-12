@@ -1718,8 +1718,15 @@ body.map-overlay-open{overflow:hidden}
     stations.forEach(function(st, i){ if (selectedStations[st.name]) lastIdx = i; });
     var breakAt = Math.floor(lastIdx / cols) * cols + cols;
     var items = itemsAtStations(selectedStations);
+    // Keyed to the exact combination selected, not just the constant word
+    // "station" - otherwise an item makeable at more than one place (Baked
+    // Potato, say, at both Grill and Cooking Range) would only ever bounce
+    // in the first time you ever saw it in ANY combination, leaving it
+    // looking stuck/skipped the next time you pick a different station that
+    // also happens to make it, even though everything else around it is new.
+    var scopeKey = "station:" + names.slice().sort().join("+");
     var panel = '<div class="tk-subpanel"><h4>Made at '+esc(names.join(" + "))+' ('+items.length+')</h4>'+
-      (items.length ? itemGridHtml(items, "station") : '<div class="note">Nothing at your current power level yet.</div>')+'</div>';
+      (items.length ? itemGridHtml(items, scopeKey) : '<div class="note">Nothing at your current power level yet.</div>')+'</div>';
     var html = stations.slice(0, breakAt).map(stationBox).join("") + panel + stations.slice(breakAt).map(stationBox).join("");
     return '<div class="tk-subgrid">'+html+'</div>';
   }

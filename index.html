@@ -756,7 +756,7 @@ body.map-overlay-open{overflow:hidden}
   var openItem = null;
   // "chest" (default, browse by material/category) or "station" (pick one or
   // more crafting stations and see everything makeable there, combined).
-  var storageView = "station";
+  var storageView = "chest";
   var selectedStations = {};
   // Construction drill-down state (Category -> Subcategory -> material-set
   // group(s) -> a single item's expanded materials), all scoped by key so
@@ -1732,8 +1732,8 @@ body.map-overlay-open{overflow:hidden}
   }
   function storageTabs(){
     return '<div class="view-tabs">'+
-      '<button type="button" class="view-tab'+(storageView==="station"?" on":"")+'" data-view="station">By crafting station</button>'+
       '<button type="button" class="view-tab'+(storageView==="chest"?" on":"")+'" data-view="chest">By material</button>'+
+      '<button type="button" class="view-tab'+(storageView==="station"?" on":"")+'" data-view="station">By crafting station</button>'+
       '</div>';
   }
   function powerControl(){

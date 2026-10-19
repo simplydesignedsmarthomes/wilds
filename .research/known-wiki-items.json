@@ -73,7 +73,7 @@
 },
 {
 "name": "Adamant Bolt",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Adamant Crossbow",
@@ -133,7 +133,7 @@
 },
 {
 "name": "Adamant Shield",
-"type": "Melee Armour"
+"type": "Shield"
 },
 {
 "name": "Adamant Spade",
@@ -269,7 +269,7 @@
 },
 {
 "name": "Anti-Dragon Shield",
-"type": "Basic Item"
+"type": "Shield"
 },
 {
 "name": "Antifire Potion",
@@ -584,7 +584,7 @@
 "type": "Ranged Armour"
 },
 {
-"name": "Blue Dyed Cape",
+"name": "Blue Dyad Cape",
 "type": "Armour"
 },
 {
@@ -605,7 +605,7 @@
 },
 {
 "name": "Blurite Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Blurite Crossbow",
@@ -621,7 +621,7 @@
 },
 {
 "name": "Bone Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Bone Club",
@@ -677,7 +677,7 @@
 },
 {
 "name": "Bronze Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Bronze Crossbow",
@@ -786,6 +786,10 @@
 {
 "name": "Burnt Cabbage",
 "type": "Food"
+},
+{
+"name": "Burnt Cactus Steak",
+"type": "Basic Item"
 },
 {
 "name": "Burnt Cadavaberries",
@@ -1349,7 +1353,7 @@
 },
 {
 "name": "Dragonblight Shield",
-"type": "Basic Item"
+"type": "Shield"
 },
 {
 "name": "Dragonbone Dagger",
@@ -1481,7 +1485,7 @@
 },
 {
 "name": "Emerald",
-"type": "Basic Item"
+"type": "Basic Material"
 },
 {
 "name": "Empty Vial",
@@ -1489,31 +1493,31 @@
 },
 {
 "name": "Enchanted Adamant Bolt",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Enchanted Blurite Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Enchanted Bronze Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Enchanted Iron Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Enchanted Mithril Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Enchanted Rune Bolt",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Enchanted Steel Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Evasive Infusion",
@@ -2125,7 +2129,7 @@
 },
 {
 "name": "Imbued Granite Maul Head",
-"type": "Quest Item"
+"type": "Basic Material"
 },
 {
 "name": "Imbued Leather Wrappings",
@@ -2221,7 +2225,7 @@
 },
 {
 "name": "Iron Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Iron Crossbow",
@@ -2362,6 +2366,10 @@
 {
 "name": "Kwuarm Seeds",
 "type": "Seed"
+},
+{
+"name": "Large Compost Bucket",
+"type": "Basic Item"
 },
 {
 "name": "Large Wardstone",
@@ -2712,6 +2720,10 @@
 "type": "Basic Item"
 },
 {
+"name": "Missing Letter",
+"type": "Quest Item"
+},
+{
 "name": "Mithril Arrow",
 "type": "Arrow"
 },
@@ -2725,7 +2737,7 @@
 },
 {
 "name": "Mithril Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Mithril Crossbow",
@@ -2793,7 +2805,7 @@
 },
 {
 "name": "Mithril Shield",
-"type": "Melee Armour"
+"type": "Shield"
 },
 {
 "name": "Mithril Sword",
@@ -2840,7 +2852,7 @@
 "type": "Basic Item"
 },
 {
-"name": "Moonstone",
+"name": "Moonstone (item)",
 "type": "Quest Item"
 },
 {
@@ -4033,7 +4045,7 @@
 },
 {
 "name": "Rune Bolt",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Rune Crossbow",
@@ -4093,7 +4105,7 @@
 },
 {
 "name": "Rune Shield",
-"type": "Basic Item"
+"type": "Shield"
 },
 {
 "name": "Rune Spade",
@@ -4469,7 +4481,7 @@
 },
 {
 "name": "Steel Bolts",
-"type": "Ammo"
+"type": "Bolt"
 },
 {
 "name": "Steel Crossbow",
@@ -4929,7 +4941,7 @@
 },
 {
 "name": "Twilight Lily",
-"type": "Resource"
+"type": "Quest Item"
 },
 {
 "name": "Twtiching Antenna",
@@ -4938,6 +4950,10 @@
 {
 "name": "TzHaar-Ket-Om",
 "type": "Melee Weapon"
+},
+{
+"name": "Ultra Compost",
+"type": "Resource"
 },
 {
 "name": "Ulv's Longbow",
@@ -4973,7 +4989,7 @@
 },
 {
 "name": "Undead Ranger's Bow",
-"type": "Bow"
+"type": "Ranged Weapon"
 },
 {
 "name": "Undead Spade",
@@ -4985,7 +5001,7 @@
 },
 {
 "name": "Unholy Water",
-"type": "Resource"
+"type": "Quest Item"
 },
 {
 "name": "Unusual Trout",

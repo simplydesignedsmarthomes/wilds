@@ -26,15 +26,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Two Handed"
+              "value": "Staff"
             },
             {
-              "label": "Damage multiplier",
+              "label": "Rune damage",
               "value": "1.9"
             },
             {
               "label": "Attack combo",
               "value": "4"
+            },
+            {
+              "label": "Special action",
+              "value": "Staff special attack"
             },
             {
               "label": "Durability",
@@ -121,11 +125,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Shortbow"
             },
             {
               "label": "Base damage",
               "value": "15"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Durability",
@@ -318,7 +326,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Block Breaker"
             },
             {
               "label": "Durability",
@@ -424,7 +432,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Lacerate"
             },
             {
               "label": "Durability",
@@ -521,12 +529,12 @@ window.WILDS_STORAGE = [
               "value": "25"
             },
             {
-              "label": "Damage multiplier",
-              "value": "1.4"
-            },
-            {
               "label": "Reload speed",
               "value": "2.0 seconds"
+            },
+            {
+              "label": "Special action",
+              "value": "Heavy bolt"
             },
             {
               "label": "Durability",
@@ -638,7 +646,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Lacerate"
             },
             {
               "label": "Durability",
@@ -748,6 +756,10 @@ window.WILDS_STORAGE = [
               "value": "32.5"
             },
             {
+              "label": "Special action",
+              "value": "Whirlwind Slash"
+            },
+            {
               "label": "Durability",
               "value": "1050"
             },
@@ -845,6 +857,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "39"
+            },
+            {
+              "label": "Special action",
+              "value": "Block Breaker"
             },
             {
               "label": "Durability",
@@ -951,7 +967,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Barge"
             },
             {
               "label": "Durability",
@@ -1061,6 +1077,10 @@ window.WILDS_STORAGE = [
               "value": "32.5"
             },
             {
+              "label": "Special action",
+              "value": "Quake"
+            },
+            {
               "label": "Durability",
               "value": "1050"
             },
@@ -1140,15 +1160,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Two Handed"
+              "value": "Staff"
             },
             {
-              "label": "Damage multiplier",
+              "label": "Rune damage",
               "value": "2.8"
             },
             {
               "label": "Attack combo",
               "value": "4"
+            },
+            {
+              "label": "Special action",
+              "value": "Staff special attack"
             },
             {
               "label": "Durability",
@@ -1239,15 +1263,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Longbow"
             },
             {
               "label": "Base damage",
               "value": "34"
             },
             {
-              "label": "Damage multiplier",
-              "value": "1.4"
+              "label": "Special action",
+              "value": "Power shot"
             },
             {
               "label": "Durability",
@@ -1343,11 +1367,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Shortbow"
             },
             {
               "label": "Base damage",
               "value": "22"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Durability",
@@ -1602,15 +1630,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Two Handed"
+              "value": "Staff"
             },
             {
               "label": "Rune damage",
-              "value": "x4.1"
+              "value": "4.1"
             },
             {
               "label": "Attack combo",
               "value": "4"
+            },
+            {
+              "label": "Special action",
+              "value": "Staff special attack"
             },
             {
               "label": "Durability",
@@ -1706,15 +1738,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Longbow"
             },
             {
               "label": "Base damage",
               "value": "48"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.0"
+              "label": "Special action",
+              "value": "Power shot"
             },
             {
               "label": "Durability",
@@ -1815,11 +1847,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Shortbow"
             },
             {
               "label": "Base damage",
               "value": "33"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Durability",
@@ -2023,12 +2059,12 @@ window.WILDS_STORAGE = [
               "value": "36"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.0"
-            },
-            {
               "label": "Reload speed",
               "value": "2.0 seconds"
+            },
+            {
+              "label": "Special action",
+              "value": "Heavy bolt"
             },
             {
               "label": "Durability",
@@ -2145,7 +2181,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Lacerate"
             },
             {
               "label": "Durability",
@@ -2260,6 +2296,10 @@ window.WILDS_STORAGE = [
               "value": "40"
             },
             {
+              "label": "Special action",
+              "value": "Decimate"
+            },
+            {
               "label": "Durability",
               "value": "1300"
             },
@@ -2368,6 +2408,10 @@ window.WILDS_STORAGE = [
               "value": "39.5"
             },
             {
+              "label": "Special action",
+              "value": "Whirlwind Slash"
+            },
+            {
               "label": "Durability",
               "value": "1300"
             },
@@ -2474,6 +2518,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "46"
+            },
+            {
+              "label": "Special action",
+              "value": "Block Breaker"
             },
             {
               "label": "Durability",
@@ -2585,7 +2633,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Barge"
             },
             {
               "label": "Durability",
@@ -2698,6 +2746,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "39.5"
+            },
+            {
+              "label": "Special action",
+              "value": "Quake"
             },
             {
               "label": "Durability",
@@ -2856,15 +2908,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Two Handed"
+              "value": "Staff"
             },
             {
-              "label": "Damage multiplier",
+              "label": "Rune damage",
               "value": "5.4"
             },
             {
               "label": "Attack combo",
               "value": "4"
+            },
+            {
+              "label": "Special action",
+              "value": "Staff special attack"
             },
             {
               "label": "Durability",
@@ -3063,12 +3119,12 @@ window.WILDS_STORAGE = [
               "value": "49"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.7"
-            },
-            {
               "label": "Reload speed",
               "value": "2.0"
+            },
+            {
+              "label": "Special action",
+              "value": "Heavy bolt"
             },
             {
               "label": "Durability",
@@ -3173,7 +3229,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "38 - 97"
+              "value": "38 - 98"
             },
             {
               "label": "Attack combo",
@@ -3182,6 +3238,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "52"
+            },
+            {
+              "label": "Special action",
+              "value": "Lacerate"
             },
             {
               "label": "Durability",
@@ -3292,6 +3352,10 @@ window.WILDS_STORAGE = [
               "value": "39"
             },
             {
+              "label": "Special action",
+              "value": "Decimate"
+            },
+            {
               "label": "Durability",
               "value": "1300"
             },
@@ -3398,6 +3462,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "39"
+            },
+            {
+              "label": "Special action",
+              "value": "Whirlwind Slash"
             },
             {
               "label": "Durability",
@@ -3508,6 +3576,10 @@ window.WILDS_STORAGE = [
               "value": "26"
             },
             {
+              "label": "Special action",
+              "value": "Block Breaker"
+            },
+            {
               "label": "Durability",
               "value": "1300"
             },
@@ -3614,6 +3686,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "26"
+            },
+            {
+              "label": "Special action",
+              "value": "Leaping Slash"
             },
             {
               "label": "Durability",
@@ -3723,10 +3799,6 @@ window.WILDS_STORAGE = [
               "value": "59-108"
             },
             {
-              "label": "Damage multiplier",
-              "value": "5.4"
-            },
-            {
               "label": "Critical chance",
               "value": "0.02"
             },
@@ -3740,7 +3812,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Barge"
             },
             {
               "label": "Durability",
@@ -3851,6 +3923,10 @@ window.WILDS_STORAGE = [
               "value": "39"
             },
             {
+              "label": "Special action",
+              "value": "Quake"
+            },
+            {
               "label": "Durability",
               "value": "1300"
             },
@@ -3905,7 +3981,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The steel sword is a power level 5 one-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a slow and heavy slam in front of the player, with a small area-of-effect shockwave that will cause a hard knockdown on most opponents and deal heavy damage.\n\n(Journal)\nLionel wasn't good at much in life, but he could swing a hammer, and he could swing it hard. As one of the Amalgamated, born with hair of metal and skin of stone, Lionel worried that he would be hated as the Almalgamated in Brynmoor had been, but Fellhollow proved to be a kinder place.\n\nInstead of being feared and shunned, his unnatural strength became a source of pride among his family and friends. Locals would challenge him to heft heavier and heavier things, cheering and lavishing him with praise as he did so.\n\nLife had been good. He was happy. So, of course, it all had to end.\n\nWhen the dead began to rise, arrows and blades seemed less effective than before, but crushing faces still got the job done. His family and friends escaped to the Silverthorn Keep and Lionel waited at the guardhouse, standing as a wall against the tide of the undead. Countless zombies and skeletons fell to his hammer, reduced to little more than powder in a few careful swings. He could have stemmed the tide if that were all, but when the zogre descended upon him, even Lionel's warhammer eventually broke against the strain."
+          "description": "The steel warhammer is a power level 5 two-handed melee weapon that can be crafted at a blacksmith's bench. Its special attack is a slow and heavy slam in front of the player, with a small area-of-effect shockwave that will cause a hard knockdown on most opponents and deal heavy damage.\n\n(Journal)\nLionel wasn't good at much in life, but he could swing a hammer, and he could swing it hard. As one of the Amalgamated, born with hair of metal and skin of stone, Lionel worried that he would be hated as the Almalgamated in Brynmoor had been, but Fellhollow proved to be a kinder place.\n\nInstead of being feared and shunned, his unnatural strength became a source of pride among his family and friends. Locals would challenge him to heft heavier and heavier things, cheering and lavishing him with praise as he did so.\n\nLife had been good. He was happy. So, of course, it all had to end.\n\nWhen the dead began to rise, arrows and blades seemed less effective than before, but crushing faces still got the job done. His family and friends escaped to the Silverthorn Keep and Lionel waited at the guardhouse, standing as a wall against the tide of the undead. Countless zombies and skeletons fell to his hammer, reduced to little more than powder in a few careful swings. He could have stemmed the tide if that were all, but when the zogre descended upon him, even Lionel's warhammer eventually broke against the strain."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -3939,15 +4015,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Longbow"
             },
             {
               "label": "Base damage",
               "value": "65"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.7"
+              "label": "Special action",
+              "value": "Power shot"
             },
             {
               "label": "Durability",
@@ -4048,11 +4124,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Shortbow"
             },
             {
               "label": "Base damage",
               "value": "43"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Durability",
@@ -4217,15 +4297,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Two Handed"
+              "value": "Staff"
             },
             {
-              "label": "Damage multiplier",
+              "label": "Rune damage",
               "value": "6.8"
             },
             {
               "label": "Attack combo",
               "value": "4"
+            },
+            {
+              "label": "Special action",
+              "value": "Staff special attack"
             },
             {
               "label": "Durability",
@@ -4321,15 +4405,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Longbow"
             },
             {
               "label": "Base damage",
               "value": "82"
             },
             {
-              "label": "Damage multiplier",
-              "value": "3.4"
+              "label": "Special action",
+              "value": "Power shot"
             },
             {
               "label": "Durability",
@@ -4430,11 +4514,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Shortbow"
             },
             {
               "label": "Base damage",
               "value": "54"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Durability",
@@ -4638,12 +4726,12 @@ window.WILDS_STORAGE = [
               "value": "61"
             },
             {
-              "label": "Damage multiplier",
-              "value": "3.4"
-            },
-            {
               "label": "Reload speed",
               "value": "2.0"
+            },
+            {
+              "label": "Special action",
+              "value": "Heavy bolt"
             },
             {
               "label": "Durability",
@@ -4743,7 +4831,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "48-122"
+              "value": "48 - 123"
             },
             {
               "label": "Attack combo",
@@ -4751,7 +4839,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "30"
+              "value": "59"
+            },
+            {
+              "label": "Special action",
+              "value": "Lacerate"
             },
             {
               "label": "Durability",
@@ -4858,6 +4950,10 @@ window.WILDS_STORAGE = [
               "value": "44"
             },
             {
+              "label": "Special action",
+              "value": "Decimate"
+            },
+            {
               "label": "Durability",
               "value": "1600"
             },
@@ -4960,6 +5056,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "44"
+            },
+            {
+              "label": "Special action",
+              "value": "Whirlwind Slash"
             },
             {
               "label": "Durability",
@@ -5066,6 +5166,10 @@ window.WILDS_STORAGE = [
               "value": "30"
             },
             {
+              "label": "Special action",
+              "value": "Block Breaker"
+            },
+            {
               "label": "Durability",
               "value": "1600"
             },
@@ -5170,6 +5274,10 @@ window.WILDS_STORAGE = [
               "value": "30"
             },
             {
+              "label": "Special action",
+              "value": "Leaping Slash"
+            },
+            {
               "label": "Durability",
               "value": "1600"
             },
@@ -5266,10 +5374,6 @@ window.WILDS_STORAGE = [
               "value": "75-136"
             },
             {
-              "label": "Damage multiplier",
-              "value": "6.8"
-            },
-            {
               "label": "Critical chance",
               "value": "0.02"
             },
@@ -5283,7 +5387,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Barge"
             },
             {
               "label": "Durability",
@@ -5392,6 +5496,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "44"
+            },
+            {
+              "label": "Special action",
+              "value": "Quake"
             },
             {
               "label": "Durability",
@@ -5553,6 +5661,10 @@ window.WILDS_STORAGE = [
               "value": "76"
             },
             {
+              "label": "Special action",
+              "value": "Heavy bolt"
+            },
+            {
               "label": "Durability",
               "value": "1600"
             },
@@ -5651,7 +5763,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "59-152"
+              "value": "59 - 150"
             },
             {
               "label": "Attack combo",
@@ -5659,7 +5771,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "30"
+              "value": "66"
+            },
+            {
+              "label": "Special action",
+              "value": "Lacerate"
             },
             {
               "label": "Durability",
@@ -5766,6 +5882,10 @@ window.WILDS_STORAGE = [
               "value": "44"
             },
             {
+              "label": "Special action",
+              "value": "Decimate"
+            },
+            {
               "label": "Durability",
               "value": "1600"
             },
@@ -5868,6 +5988,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "44"
+            },
+            {
+              "label": "Special action",
+              "value": "Whirlwind Slash"
             },
             {
               "label": "Durability",
@@ -5974,6 +6098,10 @@ window.WILDS_STORAGE = [
               "value": "30"
             },
             {
+              "label": "Special action",
+              "value": "Block Breaker"
+            },
+            {
               "label": "Durability",
               "value": "1600"
             },
@@ -6078,6 +6206,10 @@ window.WILDS_STORAGE = [
               "value": "30"
             },
             {
+              "label": "Special action",
+              "value": "Leaping Slash"
+            },
+            {
               "label": "Durability",
               "value": "1600"
             },
@@ -6174,10 +6306,6 @@ window.WILDS_STORAGE = [
               "value": "93-168"
             },
             {
-              "label": "Damage multiplier",
-              "value": "?"
-            },
-            {
               "label": "Critical chance",
               "value": "?"
             },
@@ -6191,7 +6319,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Barge"
             },
             {
               "label": "Durability",
@@ -6300,6 +6428,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "44"
+            },
+            {
+              "label": "Special action",
+              "value": "Quake"
             },
             {
               "label": "Durability",
@@ -6483,7 +6615,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Two Handed"
+              "value": "Staff"
             },
             {
               "label": "Rune damage",
@@ -6492,6 +6624,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Attack combo",
               "value": "4"
+            },
+            {
+              "label": "Special action",
+              "value": "Staff special attack"
             },
             {
               "label": "Durability",
@@ -6547,14 +6683,14 @@ window.WILDS_STORAGE = [
                 "qty": 1,
                 "img": "https://dragonwilds.runescape.wiki/images/Master%27s_Staff.png?060f3"
               },
-              "unlock": ""
+              "unlock": "Ornate Golden Scarab"
             }
           ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Master's staff is a power level 7 two-handed staff that can be crafted at a mystic forge.\n\n(Journal)\nBefore the master wand, there was a staff of such power that the mages of the wizard’s tower decided it was too dangerous to keep. They placed the staff in teleportation circle, scrambled the coordinates and hurled it through the Abyss to settle far away from Misthalin.\n\nIn truth, it should have ended in the depths of the sea, sinking down and down into the darkness, but something caught it instead.\n\nA powerful elven mage had found their way to Ashenfall, and they had already indulged in powers darker than what their kin traditionally allowed. They felt the staff hurtling through the Abyss and used their unnatural sorcery to pull it to them, so that they might benefit from its power.\n\nThis elf and his retinue found their way to the Umbral Sands, where they challenged one of the Moon Garou’s mages to a magical duel, over some perceived slight or other. The battle was magnificent, power that shook the dunes and cast a great sandstorm into the skies. The garou was defeated, but not before her spells shattered the master’s staff.\n\nIn his arrogance he cast the remains aside and continued his journey into Ashenfall. Moon Garou would find the remnants of the staff and found a way to recreate it. Weaker than the original, true, but still possessing a power that would make lesser mages tremble."
+          "description": "The Master's staff is a power level 7 two-handed staff that can be crafted at a mystic forge. Players must receive the Ornate Golden Scarab to create the staff.\n\n(Journal)\nBefore the master wand, there was a staff of such power that the mages of the wizard’s tower decided it was too dangerous to keep. They placed the staff in teleportation circle, scrambled the coordinates and hurled it through the Abyss to settle far away from Misthalin.\n\nIn truth, it should have ended in the depths of the sea, sinking down and down into the darkness, but something caught it instead.\n\nA powerful elven mage had found their way to Ashenfall, and they had already indulged in powers darker than what their kin traditionally allowed. They felt the staff hurtling through the Abyss and used their unnatural sorcery to pull it to them, so that they might benefit from its power.\n\nThis elf and his retinue found their way to the Umbral Sands, where they challenged one of the Moon Garou’s mages to a magical duel, over some perceived slight or other. The battle was magnificent, power that shook the dunes and cast a great sandstorm into the skies. The garou was defeated, but not before her spells shattered the master’s staff.\n\nIn his arrogance he cast the remains aside and continued his journey into Ashenfall. Moon Garou would find the remnants of the staff and found a way to recreate it. Weaker than the original, true, but still possessing a power that would make lesser mages tremble."
         },
         "stations": [
           "Mystic Forge"
@@ -6588,15 +6724,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Longbow"
             },
             {
               "label": "Base damage",
               "value": "101"
             },
             {
-              "label": "Damage multiplier",
-              "value": "4.2"
+              "label": "Special action",
+              "value": "Power shot"
             },
             {
               "label": "Durability",
@@ -6697,11 +6833,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Shortbow"
             },
             {
               "label": "Base damage",
               "value": "66"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Durability",
@@ -6875,6 +7015,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Attack combo",
               "value": "4"
+            },
+            {
+              "label": "Special action",
+              "value": "Staff special attack"
             },
             {
               "label": "Durability",
@@ -7088,7 +7232,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Decimate ( 50)"
+              "value": "Decimate"
             },
             {
               "label": "Special effect",
@@ -7204,7 +7348,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge ( 25)"
+              "value": "Barge"
             },
             {
               "label": "Special effect",
@@ -7304,7 +7448,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Longbow"
+            },
+            {
+              "label": "Base damage",
+              "value": "118"
+            },
+            {
+              "label": "Special action",
+              "value": "Power shot"
             },
             {
               "label": "Durability",
@@ -7401,11 +7553,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Shortbow"
             },
             {
               "label": "Base damage",
               "value": "78"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Durability",
@@ -7581,6 +7737,10 @@ window.WILDS_STORAGE = [
               "value": "5"
             },
             {
+              "label": "Special action",
+              "value": "Heavy bolt"
+            },
+            {
               "label": "Durability",
               "value": "1900"
             },
@@ -7679,7 +7839,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "69-177"
+              "value": "69 - 177"
             },
             {
               "label": "Attack combo",
@@ -7688,6 +7848,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "72"
+            },
+            {
+              "label": "Special action",
+              "value": "Lacerate"
             },
             {
               "label": "Durability",
@@ -7886,6 +8050,10 @@ window.WILDS_STORAGE = [
               "value": "Slash"
             },
             {
+              "label": "Attack style",
+              "value": "Greatsword"
+            },
+            {
               "label": "Base damage",
               "value": "147-255"
             },
@@ -8004,6 +8172,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "72"
+            },
+            {
+              "label": "Special action",
+              "value": "Block Breaker"
             },
             {
               "label": "Durability",
@@ -8626,7 +8798,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Abyssal Snare (50 Special Attack)"
+              "value": "Abyssal Snare"
             },
             {
               "label": "Special effect",
@@ -8731,7 +8903,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Bow"
+              "value": "Longbow"
             },
             {
               "label": "Base damage",
@@ -8739,7 +8911,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "None"
+              "value": "Power shot"
             },
             {
               "label": "Durability",
@@ -8834,6 +9006,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "5"
+            },
+            {
+              "label": "Special action",
+              "value": "Heavy bolt"
             },
             {
               "label": "Special effect",
@@ -9025,6 +9201,10 @@ window.WILDS_STORAGE = [
               "value": "33"
             },
             {
+              "label": "Special action",
+              "value": "Block Breaker"
+            },
+            {
               "label": "Durability",
               "value": "850"
             },
@@ -9189,7 +9369,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "14 - 33"
+              "value": "14 - 35"
             },
             {
               "label": "Attack combo",
@@ -9201,7 +9381,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special Attack"
+              "value": "Lacerate"
             },
             {
               "label": "Durability",
@@ -9304,7 +9484,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lunar Rain ( 50)"
+              "value": "Lunar Rain"
             },
             {
               "label": "Special effect",
@@ -9375,7 +9555,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The bow of Elidinis is a power level 7 masterwork longbow that can be crafted at a fletching bench. The recipe is received as a reward for completing the Mapping The Sands II quest. It can be ascended at the mystic forge using ascension cores.\n\nIts first special effect is Blessing of Elidinis, which makes arrows also deal water magic damage in addition to ranged damage. Kills with water magic have a chance to drop water orbs that provide some health and a little hydration when picked up. Its special action is Lunar Rain, which costs 6 stamina and deals water magic damage over the targeted area for a short time. This is considered a Magic attack rather than a Ranged one, providing Magic XP and benefitting from the lesser magic potion and 3/3 magic armour's set effect increasing the chance of getting critical strikes instead of Ranged XP and weakpoint modifiers. However, its other special effect is Purity of the Moon, which is supposed to prevent the use of barbed, poisoned, and fire arrows when using this bow. However, this does not work, and all of those arrows can be fired from this weapon.\n\nSimilar to the zombie axe, when using normal, barbed, or poisoned arrows, this weapon deals both ranged and water damage simultaneously. Unlike most other damage modifiers, this damage is additive, which means that attacking an enemy weak to one but resistant to the other will result in more damage done than expected, but less than an enemy neither weak nor resistant to either. However, when using fire arrows, the water damage is replaced with fire. When comparing this bow to the hunter stagbow against KotHaar specifically, it deals slightly more, but the stagbow fires slightly faster. Therefore, when not using Astral Rain, in all other situations, the hunter stagbow is the ideal longbow to ascend.\n\n(Journal)\nShe is known by many names, both here and in the deserts entire oceans apart from one another, yet to all of them she is a source of life and creation. She is the river in the desert sands, from which all civilisation blooms, and she is the rain that washes away the cruel and merciless when the monsoon season comes.\n\nTo the Moon Garou, she is the River Mother, the Moon Maiden, and their salvation. For it was she, who helped the wandering garou to step away from their primal predatory nature, and tame the sands, cultivating crops and building cities.\n\nShe left the deserts centuries ago, to places unknown. Some say she wanders the stars in search of a place where her grief can be lessened. While others claim she prepares for war against a more insidious foe. A creature of fire, ash and hatred, the demon of the sun.\n\nThis bow was left to one of her favourite Moon Garou, a warrior called Kyter, whom she raised as her own after he was orphaned by a cruel sandstorm. The bow was passed down his family line, parent to child, until the last of the bloodline was murdered by Fuzan.\n\nNow, the bow is yours. Use it wisely, for she will surely be annoyed if you don't."
+          "description": "The bow of Elidinis is a power level 7 masterwork longbow that can be crafted at a fletching bench. The recipe is received as a reward for completing the Mapping The Sands II quest. It can be ascended at the mystic forge using ascension cores.\n\nIts first special effect is Blessing of Elidinis, which makes arrows also deal water magic damage in addition to ranged damage. Kills with water magic have a chance to drop water orbs that provide some health and a little hydration when picked up. Its special action is Lunar Rain, which costs 6 stamina and deals water magic damage over the targeted area for a short time. This is considered a Magic attack rather than a Ranged one, providing Magic XP and benefitting from the lesser magic potion and 3/3 magic armour's set effect increasing the chance of getting critical strikes instead of Ranged XP and weakpoint modifiers. However, its other special effect is Purity of the Moon, which prevents the use of barbed, poisoned, and fire arrows when using this bow.\n\nSimilar to the zombie axe, this weapon deals both ranged and water damage simultaneously. Unlike most other damage modifiers, this damage is additive, which means that attacking an enemy weak to one but resistant to the other will result in more damage done than expected, but less than an enemy neither weak nor resistant to either. When comparing this bow to the hunter stagbow against KotHaar specifically, it deals slightly more, but the stagbow fires slightly faster. Therefore, when not using Astral Rain, in all other situations, the hunter stagbow is the ideal longbow to ascend.\n\n(Journal)\nShe is known by many names, both here and in the deserts entire oceans apart from one another, yet to all of them she is a source of life and creation. She is the river in the desert sands, from which all civilisation blooms, and she is the rain that washes away the cruel and merciless when the monsoon season comes.\n\nTo the Moon Garou, she is the River Mother, the Moon Maiden, and their salvation. For it was she, who helped the wandering garou to step away from their primal predatory nature, and tame the sands, cultivating crops and building cities.\n\nShe left the deserts centuries ago, to places unknown. Some say she wanders the stars in search of a place where her grief can be lessened. While others claim she prepares for war against a more insidious foe. A creature of fire, ash and hatred, the demon of the sun.\n\nThis bow was left to one of her favourite Moon Garou, a warrior called Kyter, whom she raised as her own after he was orphaned by a cruel sandstorm. The bow was passed down his family line, parent to child, until the last of the bloodline was murdered by Fuzan.\n\nNow, the bow is yours. Use it wisely, for she will surely be annoyed if you don't."
         },
         "stations": [
           "Fletching Bench"
@@ -9425,7 +9605,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge ( 25)"
+              "value": "Barge"
             },
             {
               "label": "Special effect",
@@ -9653,6 +9833,10 @@ window.WILDS_STORAGE = [
               "value": "5"
             },
             {
+              "label": "Special action",
+              "value": "Heavy bolt"
+            },
+            {
               "label": "Special effect",
               "value": "* Increased DRAW SPEED with RANGED ATTACKS * Can only fire BONE BOLTS"
             },
@@ -9762,7 +9946,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special (Hold) ( 25)"
+              "value": "Staff special attack"
             },
             {
               "label": "Special effect",
@@ -9862,7 +10046,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Ranged Weapon"
+              "value": "Crossbow"
             },
             {
               "label": "Base damage",
@@ -9871,6 +10055,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "5"
+            },
+            {
+              "label": "Special action",
+              "value": "Heavy bolt"
             },
             {
               "label": "Special effect",
@@ -9900,7 +10088,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "The Dragon crossbow is a power level 9 ranged weapon that can be received after completing the Scorned Wilderness raid and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this crossbow is both uncraftable and has a passive full durability.\n\nBug: Despite the special effect stating an increase to damage against dragons, this crossbow does not currently get a damage boost against dragons.\n\n(Journal)\nBrakka presented the cache of weapons to the other dragonkin. For himself he chose the kiteshield: he didn't care much for combat, and he felt a strange kinship with its resilience.\n\nAvisk chose a scimitar with a growl. He turned the metal in his hands and licked it. Brakka knew Avisk well enough that Avisk would be more interested in the material and its properties for his studies. Avisk chose the scimitar simply because it contained the greatest weight of the metal.\n\nRasthin was next and chose a crossbow and some bolts. She walked immediately to her workbench and began exposing the metal to the elements. She lit a bolt on fire and seemed satisfied that the fire failed to extinguish.\n\nLacrussa took a kiteshield. She tossed it to the corner, disinterested with these trinkets.\n\nBrakka didn't know what to expect from Viika. He wondered whether they would turn down the gift, perhaps, or pick a kiteshield - something of a more pacifist bent.\n\nViika picked the dragon crossbow. \"I know someone who will have need of this,\" they said."
+          "description": "The Dragon crossbow is a power level 9 ranged weapon that can be received after completing the Scorned Wilderness raid and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this crossbow is both uncraftable and has a passive full durability.\n\n(Journal)\nBrakka presented the cache of weapons to the other dragonkin. For himself he chose the kiteshield: he didn't care much for combat, and he felt a strange kinship with its resilience.\n\nAvisk chose a scimitar with a growl. He turned the metal in his hands and licked it. Brakka knew Avisk well enough that Avisk would be more interested in the material and its properties for his studies. Avisk chose the scimitar simply because it contained the greatest weight of the metal.\n\nRasthin was next and chose a crossbow and some bolts. She walked immediately to her workbench and began exposing the metal to the elements. She lit a bolt on fire and seemed satisfied that the fire failed to extinguish.\n\nLacrussa took a kiteshield. She tossed it to the corner, disinterested with these trinkets.\n\nBrakka didn't know what to expect from Viika. He wondered whether they would turn down the gift, perhaps, or pick a kiteshield - something of a more pacifist bent.\n\nViika picked the dragon crossbow. \"I know someone who will have need of this,\" they said."
         },
         "step": 7
       },
@@ -9947,7 +10135,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Leaping Slash ( 25)"
+              "value": "Leaping Slash"
             },
             {
               "label": "Special effect",
@@ -9977,7 +10165,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "The dragon scimitar is a Power level 9 weapon that can be received after completing the Scorned Wilderness raid and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this scimitar is both uncraftable and has a passive full durability.\n\nBug: Despite the special effect stating an increase to damage against dragons, this weapon does not currently get a damage boost against dragons.\n\n(Journal)\nDragon metal is not, as the name might imply, made of dragons. Well, not directly. It's a composite of a material called orikalkum (or orichalcum, depending on whether you prefer to use the dwarven spelling) and drakolith, which no longer resides on Ashenfall. The dragonkin, notably Brakka, exhausted whatever deposits were left on the island.\n\nOnce an alloy has been formed by these two materials, it needs to be forged in dragonfire. That, unlike drakolith, was in abundance on Ashenfall. The result was dragon metal, and Brakka could make precious little of it. There was enough to make a throne, perhaps, or a motherlode maw. Realistically, Brakka couldn't use the metal to make much of material use, so he a forged small armoury of kiteshields, scimitars and crossbows. If the dragonkin were to ever be threatened, then they would at least have the best weapons on Ashenfall to respond."
+          "description": "The dragon scimitar is a Power level 9 weapon that can be received after completing the Scorned Wilderness raid and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this scimitar is both uncraftable and has a passive full durability.\n\n(Journal)\nDragon metal is not, as the name might imply, made of dragons. Well, not directly. It's a composite of a material called orikalkum (or orichalcum, depending on whether you prefer to use the dwarven spelling) and drakolith, which no longer resides on Ashenfall. The dragonkin, notably Brakka, exhausted whatever deposits were left on the island.\n\nOnce an alloy has been formed by these two materials, it needs to be forged in dragonfire. That, unlike drakolith, was in abundance on Ashenfall. The result was dragon metal, and Brakka could make precious little of it. There was enough to make a throne, perhaps, or a motherlode maw. Realistically, Brakka couldn't use the metal to make much of material use, so he a forged small armoury of kiteshields, scimitars and crossbows. If the dragonkin were to ever be threatened, then they would at least have the best weapons on Ashenfall to respond."
         },
         "step": 7
       },
@@ -10024,7 +10212,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate ( 25)"
+              "value": "Lacerate"
             },
             {
               "label": "Special effect",
@@ -10140,7 +10328,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker ( 33)"
+              "value": "Block Breaker"
             },
             {
               "label": "Special effect",
@@ -10255,7 +10443,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Battering Ram ( 50)"
+              "value": "Battering Ram"
             },
             {
               "label": "Special effect",
@@ -10372,7 +10560,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special (Hold) ( 25)"
+              "value": "Staff special attack"
             },
             {
               "label": "Special effect",
@@ -10472,6 +10660,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "52"
+            },
+            {
+              "label": "Special action",
+              "value": "Power shot"
             },
             {
               "label": "Special effect",
@@ -10592,7 +10784,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Leaping Slash Block Breaker ( 33)"
+              "value": "Leaping Slash"
             },
             {
               "label": "Special effect",
@@ -10708,7 +10900,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate ( 33)"
+              "value": "Lacerate"
             },
             {
               "label": "Special effect",
@@ -10850,7 +11042,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Kuldra's Wrath is a power level 9 wand and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this wand is both uncraftable and has a passive full durability.\n\nBug: Despite the special effect stating an increase to damage against dragons, this wand does not currently get a damage boost against dragons.\n\n(Journal)\nWhen Kuldra was no bigger than a terrorbird, the dragonkin Viika would play with her. They had bonded - the dragon and the seer. It is hard to imagine that this was the same Kuldra whose five heads would eventually loom over Ashenfall.\n\nTheir early relationship had but one frosty moment. Viika's eyes glazed over and they grabbed a stick and thrust it into Kuldra's paw. Kuldra screamed and tried to rip the stick out, but it was a splinter that her teeth couldn't reach. It had retreated too far into her body. The playmates were pulled apart, with Viika screaming fragmented nonsense about \"bringing a weapon to the world\" and \"I did what must be done, yet also did not\".\n\nKuldra was confused about the sudden betrayal. She retreated into the pile of rags that she had made into a nest. Later, Viika approached Kuldra with an upturned palm, their thoughts more lucid. They asked Kuldra for forgiveness, and Kuldra gave it happily.\n\nBut while they returned to being friends, Kuldra was unable to remove the splinter. It itched and ached as it pushed further into her bloodstream."
+          "description": "Kuldra's Wrath is a power level 9 wand obtained by opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this wand is both uncraftable and has a passive full durability.\n\n(Journal)\nWhen Kuldra was no bigger than a terrorbird, the dragonkin Viika would play with her. They had bonded - the dragon and the seer. It is hard to imagine that this was the same Kuldra whose five heads would eventually loom over Ashenfall.\n\nTheir early relationship had but one frosty moment. Viika's eyes glazed over and they grabbed a stick and thrust it into Kuldra's paw. Kuldra screamed and tried to rip the stick out, but it was a splinter that her teeth couldn't reach. It had retreated too far into her body. The playmates were pulled apart, with Viika screaming fragmented nonsense about \"bringing a weapon to the world\" and \"I did what must be done, yet also did not\".\n\nKuldra was confused about the sudden betrayal. She retreated into the pile of rags that she had made into a nest. Later, Viika approached Kuldra with an upturned palm, their thoughts more lucid. They asked Kuldra for forgiveness, and Kuldra gave it happily.\n\nBut while they returned to being friends, Kuldra was unable to remove the splinter. It itched and ached as it pushed further into her bloodstream."
         },
         "step": 7
       },
@@ -10893,7 +11085,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special (Hold) ( 25)"
+              "value": "Staff special attack"
             },
             {
               "label": "Special effect",
@@ -11005,7 +11197,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special (Hold) ( 25)"
+              "value": "Staff special attack"
             },
             {
               "label": "Special effect",
@@ -11076,7 +11268,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The pharaoh's sceptre is a power level 7 staff that can be crafted at a mystic forge. The recipe is learned from the Icthlarian fetish, the reward from the quest Contact!. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is Royal Mandate: While holding the Sceptre, the wielder is able to use the Confuse spell without consuming runes. Its special action is Sworn Servant: This summons Buddy, a friendly kalphite to attack and distract enemies in combat. Buddy can be used for up to 3 minutes as long as it is still alive, and will take another five minutes for it to respawn when recasting the sceptre's special action. However, due to Hollow Vessel, while Buddy is active, the wielder regains stamina 10% slower than normal.\n\nBug: There is currently a bug where Buddy will not respawn, or spawn in a online world.\n\n(Journal)\nThe Moon Garou tried the whole Pharaoh concept exactly once. Unused to non-violent systems of government, they gathered together as a people and pulled stones from a bag to decide who was the luckiest of all of them, and therefore who deserved to rule.\n\nIt was, as you can imagine, not a smart system of governance.\n\nThe winner was a garou called Hakanaten, and he did not want the job. He had always been an outsider, far more interested with the goings on of the nearby Kalphite hives then he was with the goings on of the city. Still, he had been chosen by an assumption of destiny and was set upon a throne with crown and sceptre in hand.\n\nHe hated it. He made decisions as best he could, but could never please everyone. If he tried to help one person, it angered another. If he cast judgement on a lawbreaker, he was deemed cruel by some and weak by others. No matter what he tried, he only found himself more and more isolated from his kin.\n\nIn the end a revolt saw him deposed and the throne destroyed. He was cast into the hive he so adored, where he was expected not to live for long. Yet, he had studied the hive and he could mimic their behaviours better than some of his own people’s. He helped them dig tunnels. He joined them on hunts. He lived a life far happier among the hive then he ever did at home.\n\nThe sceptre, that had been cast down with him, carries with it a measure of his fondness for the insects. It is said that anyone who wields it, can call on the hive for aid, in memory of an unlucky monarch."
+          "description": "The pharaoh's sceptre is a power level 7 staff that can be crafted at a mystic forge. The recipe is learned from the Icthlarian fetish, the reward from the quest Contact!. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is Royal Mandate: While holding the Sceptre, the wielder is able to use the Confuse spell without consuming runes. Its special action is Sworn Servant: This summons Buddy, a friendly kalphite to attack and distract enemies in combat. Buddy can be used for up to 3 minutes as long as it is still alive, and will take another five minutes for it to respawn when recasting the sceptre's special action. However, due to Hollow Vessel, while Buddy is active, the wielder regains stamina much slower (90% slower than normal). Fighting while Buddy is out can be dangerous due to the lack of stamina regen.\n\nBug: There is currently a bug where Buddy will not respawn, or spawn in a online world.\n\n(Journal)\nThe Moon Garou tried the whole Pharaoh concept exactly once. Unused to non-violent systems of government, they gathered together as a people and pulled stones from a bag to decide who was the luckiest of all of them, and therefore who deserved to rule.\n\nIt was, as you can imagine, not a smart system of governance.\n\nThe winner was a garou called Hakanaten, and he did not want the job. He had always been an outsider, far more interested with the goings on of the nearby Kalphite hives then he was with the goings on of the city. Still, he had been chosen by an assumption of destiny and was set upon a throne with crown and sceptre in hand.\n\nHe hated it. He made decisions as best he could, but could never please everyone. If he tried to help one person, it angered another. If he cast judgement on a lawbreaker, he was deemed cruel by some and weak by others. No matter what he tried, he only found himself more and more isolated from his kin.\n\nIn the end a revolt saw him deposed and the throne destroyed. He was cast into the hive he so adored, where he was expected not to live for long. Yet, he had studied the hive and he could mimic their behaviours better than some of his own people’s. He helped them dig tunnels. He joined them on hunts. He lived a life far happier among the hive then he ever did at home.\n\nThe sceptre, that had been cast down with him, carries with it a measure of his fondness for the insects. It is said that anyone who wields it, can call on the hive for aid, in memory of an unlucky monarch."
         },
         "stations": [
           "Mystic Forge"
@@ -11123,6 +11315,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "5"
+            },
+            {
+              "label": "Special action",
+              "value": "Heavy bolt"
             },
             {
               "label": "Special effect",
@@ -11238,7 +11434,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Whirlwind Slash ( 33)"
+              "value": "Whirlwind Slash"
             },
             {
               "label": "Special effect",
@@ -11304,7 +11500,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The shadow sword is a power level 5 greatsword created using a blacksmith's bench. The recipe is learned by consuming the shard of smoky glass, dropped from a zogre. It is required to complete Doric's Quest to receive the zombie axe. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is +25% damage against spectral enemies such as lost souls, ghost wolves, and soulstone sentinels.\n\nIt has almost exactly the same stats as other greatswords with Titan's Wrath as the one exception, and although it can be valuable in Fellhollow, extra damage to spectral enemies is useless outside of that region. Still, the zombie axe is the best one-handed crush weapon available to ascend, especially as it also deals slash damage, so getting this weapon just for that is worthwhile.\n\n(Journal)\nIt might be better to refer to this sword as a smoke sword, given its wispy nature, but there is no denying that this is an ephemeral blade aligned with the world of the dead.\n\nIt feels cold to the touch and sometimes, when you least expect it, you are almost certain you can hear whispering coming from the blade."
+          "description": "The shadow sword is a power level 5 greatsword created using a blacksmith's bench. The recipe is learned by consuming the shard of smoky glass, dropped from a zogre. It is required to complete Doric's Quest. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is +25% damage against spectral enemies such as lost souls, ghost wolves, and soulstone sentinels.\n\nIt has almost exactly the same stats as other greatswords with Titan's Wrath as the one exception, and although it can be valuable in Fellhollow, extra damage to spectral enemies is useless outside of that region.\n\n(Journal)\nIt might be better to refer to this sword as a smoke sword, given its wispy nature, but there is no denying that this is an ephemeral blade aligned with the world of the dead.\n\nIt feels cold to the touch and sometimes, when you least expect it, you are almost certain you can hear whispering coming from the blade."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -11354,7 +11550,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker ( 33)"
+              "value": "Block Breaker"
             },
             {
               "label": "Special effect",
@@ -11466,7 +11662,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special (Hold) ( 25)"
+              "value": "Staff special attack"
             },
             {
               "label": "Special effect",
@@ -11583,7 +11779,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special (Hold) ( 25)"
+              "value": "Staff special attack"
             },
             {
               "label": "Special effect",
@@ -11699,7 +11895,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Decimate ( 50)"
+              "value": "Decimate"
             },
             {
               "label": "Special effect",
@@ -11815,7 +12011,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Flames of Rage ( 33)"
+              "value": "Flames of Rage"
             },
             {
               "label": "Special effect",
@@ -11938,7 +12134,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special (Hold) ( 25)"
+              "value": "Staff special attack"
             },
             {
               "label": "Special effect",
@@ -12044,7 +12240,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge ( 33)"
+              "value": "Barge"
             },
             {
               "label": "Special effect",
@@ -12155,7 +12351,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "QUAKE ( 50)"
+              "value": "Quake"
             },
             {
               "label": "Special effect",
@@ -12252,6 +12448,10 @@ window.WILDS_STORAGE = [
               "value": "65"
             },
             {
+              "label": "Special action",
+              "value": "Power shot"
+            },
+            {
               "label": "Special effect",
               "value": "Increased DAMAGE to UNSESPECTING targets."
             },
@@ -12320,7 +12520,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ulv's longbow is a power level 5 longbow that can be obtained (as well as its crafting recipe) as a reward from the Mirror, Mirror quest. It can then be crafted from a fletching bench. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is 15% increased damage against unsuspecting targets, i.e. ones not yet in combat. Interestingly, this is the same damage bonus as trick shot, meaning that this weapon can deal the same damage on the first hit on a target as follow up trick shots on the same target.\n\nOnce the player can no longer continue aiming (to dodge an attack, for example), the trick shot is lost and another arrow will have to be fully drawn and fired to get it back. This makes the hunter stagbow's 10% faster draw speed more appealing, as it can loose and get back to trick shots faster. This weapon would be a competitive alternative, but after ascending to power level 7, the hunter stagbow far outpaces this weapon's base damage with 152 compared to only 100. Even with the special effect, the hunter stagbow will hit harder on every shot and is therefore the ideal longbow to ascend.\n\n(Journal)\nUlv was always the silent hunter, in more ways than one. While it was true that no word ever left his lips, his footsteps, breath and, most importantly, his arrows were all equally devoid of sound. The Wild Knights would jokingly call him the Silent Killer - though over time, the crueller among them called him Silent But Deadly - knowing he lacked the ability to argue back. The boy took these insults with quiet grace, never biting back, never reacting. He was used to such small cruelties, having faced them all his life.\n\nHe had carved the bow himself and once walked Ravanna through the process. The two of them had a true a friendship as could ever be hoped for. No linger romantic tensions. No transaction or debt. No honour chained them together. They were friends simply because they were. Because two lonely people had found each other and a comfort in the other's eccentricities. The wolf and the bat, platonic soulmates to the end.\n\nFor one of his birthdays, Ravanna enchanted the bow with a simple spell. She took animal bones, skulls and hides and wove necromantic magic through them, wrapping them around the limb and grip of the bow, imbuing them with just enough of the Underworld to strip them of their sound and a little of their substance. Like ghosts, the arrows would sail silently through the air, dropping targets that never knew what hit them.\n\nIt would have been the perfect birthday gift. If only Ulv had lived long enough to receive it.\n\nThe garou can be brutal in their assaults, considering notions like mercy to be the domain of the weak and cowardly. Ulv was simply in the wrong place at the wrong time. He was ambushed by a patrol of young garou looking for the bloodmark that would grant them adulthood. There were six of them; Ulv reduced their number to four before claws tore his through, silencing him forever.\n\nWhen Ravanna found his body, she went mad. An anger unlike any other, a rage more powerful than any storm, waged a war of light and the dark inside her. The darkness won. Using the souls of the slain garou, Ravanna's necromantic curse tore through the Highlands, twisting the clouds into screaming things filled with a mere sliver of her rage. AS the ghosts of the dead garou crashed about within them, the clouds unleashed lightning and thunder upon the populace below, destroying countless settlements in an instant and countless more over the centuries that followed."
+          "description": "Ulv's longbow is a power level 5 longbow that can be obtained (as well as its crafting recipe) as a reward from the Mirror, Mirror quest. It can then be crafted from a fletching bench. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is 15% increased damage against unsuspecting targets, i.e. ones not yet in combat. Interestingly, this is the same damage bonus as trick shot, meaning that this weapon can deal the same damage on the first hit on a target as follow up trick shots on the same target.\n\nOnce the player can no longer continue aiming (to dodge an attack, for example), the trick shot is lost and another arrow will have to be fully drawn and fired to get it back. This makes the hunter stagbow's 10% faster draw speed more appealing, as it can loose and get back to trick shots faster.\n\n(Journal)\nUlv was always the silent hunter, in more ways than one. While it was true that no word ever left his lips, his footsteps, breath and, most importantly, his arrows were all equally devoid of sound. The Wild Knights would jokingly call him the Silent Killer - though over time, the crueller among them called him Silent But Deadly - knowing he lacked the ability to argue back. The boy took these insults with quiet grace, never biting back, never reacting. He was used to such small cruelties, having faced them all his life.\n\nHe had carved the bow himself and once walked Ravanna through the process. The two of them had a true a friendship as could ever be hoped for. No linger romantic tensions. No transaction or debt. No honour chained them together. They were friends simply because they were. Because two lonely people had found each other and a comfort in the other's eccentricities. The wolf and the bat, platonic soulmates to the end.\n\nFor one of his birthdays, Ravanna enchanted the bow with a simple spell. She took animal bones, skulls and hides and wove necromantic magic through them, wrapping them around the limb and grip of the bow, imbuing them with just enough of the Underworld to strip them of their sound and a little of their substance. Like ghosts, the arrows would sail silently through the air, dropping targets that never knew what hit them.\n\nIt would have been the perfect birthday gift. If only Ulv had lived long enough to receive it.\n\nThe garou can be brutal in their assaults, considering notions like mercy to be the domain of the weak and cowardly. Ulv was simply in the wrong place at the wrong time. He was ambushed by a patrol of young garou looking for the bloodmark that would grant them adulthood. There were six of them; Ulv reduced their number to four before claws tore his through, silencing him forever.\n\nWhen Ravanna found his body, she went mad. An anger unlike any other, a rage more powerful than any storm, waged a war of light and the dark inside her. The darkness won. Using the souls of the slain garou, Ravanna's necromantic curse tore through the Highlands, twisting the clouds into screaming things filled with a mere sliver of her rage. AS the ghosts of the dead garou crashed about within them, the clouds unleashed lightning and thunder upon the populace below, destroying countless settlements in an instant and countless more over the centuries that followed."
         },
         "stations": [
           "Fletching Bench"
@@ -12338,7 +12538,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Bow"
+              "value": "Ranged Weapon"
             },
             {
               "label": "Power level",
@@ -12359,6 +12559,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "50"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Special effect",
@@ -12468,6 +12672,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "21"
+            },
+            {
+              "label": "Special action",
+              "value": "Rapid fire"
             },
             {
               "label": "Special effect",
@@ -12583,7 +12791,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate ( 25)"
+              "value": "Lacerate"
             },
             {
               "label": "Special effect",
@@ -12690,6 +12898,10 @@ window.WILDS_STORAGE = [
               "value": "14"
             },
             {
+              "label": "Special effect",
+              "value": "Not currently in game"
+            },
+            {
               "label": "Durability",
               "value": "275"
             },
@@ -12784,7 +12996,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge ( 25)"
+              "value": "Barge"
             },
             {
               "label": "Durability",
@@ -12881,7 +13093,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Special (Hold) ( 25)"
+              "value": "Staff special attack"
             },
             {
               "label": "Special effect",
@@ -13002,7 +13214,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker ( 33)"
+              "value": "Block Breaker"
             },
             {
               "label": "Special effect",
@@ -13128,7 +13340,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker ( 33)"
+              "value": "Block Breaker"
             },
             {
               "label": "Special effect",
@@ -14028,7 +14240,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Bronze Med Helm is a power level 3 armour piece. It can be crafted at an Armour Bench using 4 Bronze Bar, 2 Hard Leather, and 1 Wool Thread.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nSometimes you just want to wear a cube on your head and call it fashion. There's no shame in that, we all have our quirks. Why, I like to strut around my house with a raven-shaped walking cane and top hat on and no one's calling me weird - true, it's because anyone that does so is kneecapped and thrown into my basement oubliette, but they learn from their mistakes over time.\n\nHaha, did I say basement oubliette? I meant something entirely sane and normal, you don't need to worry.\n\nNow, these bronze helms are the very peak of rectangular fashion and, for just a few bronze bars, they're very cost-effective."
+          "description": "The Bronze Med Helm is a power level 3 armour piece. It can be crafted at an Armour Bench using 4 Bronze Bar, 2 Hard Leather, and 1 Wool Thread. The recipe for this item is obtained by purchasing the Deluxe Edition and by having a bronze bar in the player's inventory for the first time.\n\n(Journal)\nSometimes you just want to wear a cube on your head and call it fashion. There's no shame in that, we all have our quirks. Why, I like to strut around my house with a raven-shaped walking cane and top hat on and no one's calling me weird - true, it's because anyone that does so is kneecapped and thrown into my basement oubliette, but they learn from their mistakes over time.\n\nHaha, did I say basement oubliette? I meant something entirely sane and normal, you don't need to worry.\n\nNow, these bronze helms are the very peak of rectangular fashion and, for just a few bronze bars, they're very cost-effective."
         },
         "stations": [
           "Armour Bench"
@@ -14752,7 +14964,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Wizard hat is a power level 3 magic armour that can be crafted at an armour bench. Requires interacting with a Mystic Forge to unlock .\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nOn Ashenfall, it was rare for those wearing these robes to be seen outside the Wizard's Guild. The structure on the hillside was home to strange practices and even stranger experiments. Powerful spells were studied and unleashed across an already magically problematic countryside.\n\nThe White Knights, often summoned to address the perils that the Wizard's Guild inadvertently unleashed, were a frequent presence. Their duties ranged from quelling peculiar weather phenomena to managing the \"accidental\" summoning of demons. To maintain control, a contingent of knights established a permanent residence within the guild, their vigilant eyes ever watchful."
+          "description": "Wizard hat is a power level 3 magic armour that can be crafted at an armour bench. Unlocked via acquiring rough cloth.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nOn Ashenfall, it was rare for those wearing these robes to be seen outside the Wizard's Guild. The structure on the hillside was home to strange practices and even stranger experiments. Powerful spells were studied and unleashed across an already magically problematic countryside.\n\nThe White Knights, often summoned to address the perils that the Wizard's Guild inadvertently unleashed, were a frequent presence. Their duties ranged from quelling peculiar weather phenomena to managing the \"accidental\" summoning of demons. To maintain control, a contingent of knights established a permanent residence within the guild, their vigilant eyes ever watchful."
         },
         "stations": [
           "Armour Bench"
@@ -14859,7 +15071,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Wizard robe legs are a power level 3 magic armour that can be crafted at an armour bench. Requires interacting with a Mystic Forge to unlock .\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nAll documents have been expunged of the events that came to be known as the Day of Purple Feathers. No wizard or knight will speak of what occurred. However, villagers soon learned that squawking like a chicken would send both knight and wizard into unexplained panic.\n\nFor some reason, the egg deliveries to the Wizard's Guild were cancelled around the same time."
+          "description": "Wizard robe legs are a power level 3 magic armour that can be crafted at an armour bench. Unlocked via acquiring rough cloth.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nAll documents have been expunged of the events that came to be known as the Day of Purple Feathers. No wizard or knight will speak of what occurred. However, villagers soon learned that squawking like a chicken would send both knight and wizard into unexplained panic.\n\nFor some reason, the egg deliveries to the Wizard's Guild were cancelled around the same time."
         },
         "stations": [
           "Armour Bench"
@@ -14966,7 +15178,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Wizard robes are a power level 3 magic armour that can be crafted at an armour bench. Requires interacting with a Mystic Forge with Wild Anima in inventory to unlock .\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nDespite the antagonistic intentions of the White Knights' arrival in the Wizard’s Guild, the two factions got along well. Apprentices would often prank low-ranked knights, using small spells to make them appear foolish. The knights would respond with more practical reprisals, which led to an escalation of shenanigans until the highest-ranking members of both orders got involved. Then things really got out of hand."
+          "description": "Wizard robes are a power level 3 magic armour that can be crafted at an armour bench. Unlocked via acquiring rough cloth.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nDespite the antagonistic intentions of the White Knights' arrival in the Wizard’s Guild, the two factions got along well. Apprentices would often prank low-ranked knights, using small spells to make them appear foolish. The knights would respond with more practical reprisals, which led to an escalation of shenanigans until the highest-ranking members of both orders got involved. Then things really got out of hand."
         },
         "stations": [
           "Armour Bench"
@@ -15078,7 +15290,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Dark mage hood is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nThe first set of dark mage robes were\"was\", not \"were\" so named because the technique to craft them required cloth that had been dyed by a unique alchemical mixture. As the years passed and Guthix introduced runes, the mixture was replaced with subtle enchantments, though the appearance was kept the same for tradition’s sake.\n\nNaturally, many practitioners of magic preferred this armour for its darker aesthetic. Indeed, many rogue dark wizards would don this armour and use magic to engage in sinister undertakings, earning this armour's moniker a more sinister meaning."
+          "description": "Dark mage hood is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth and interacting with the mystic forge.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nThe first set of dark mage robes were\"was\", not \"were\" so named because the technique to craft them required cloth that had been dyed by a unique alchemical mixture. As the years passed and Guthix introduced runes, the mixture was replaced with subtle enchantments, though the appearance was kept the same for tradition’s sake.\n\nNaturally, many practitioners of magic preferred this armour for its darker aesthetic. Indeed, many rogue dark wizards would don this armour and use magic to engage in sinister undertakings, earning this armour's moniker a more sinister meaning."
         },
         "stations": [
           "Armour Bench"
@@ -15190,7 +15402,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Dark mage robe legs is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nThe most infamous dark wizards became a fairy tale for the people of Brynmoor, a cautionary tale of greed and the desire for power. They sought power in the darkest of places, and it turned them into something monstrous.\n\nThey appeared in the village in the dead of night as twisted versions of themselves - mindless creatures infused with a shadowy essence. Those who found themselves in their path had their lives ripped out of them until nought but an empty husk remained.\n\nIt took all the visiting Wild Knights to take them down. Arrow after arrow, spell after spell, the task seemed almost insurmountable, until the light of the sun made the creatures vulnerable. In their death throes, it was as if some horrible chill fell across the world, as if a door somewhere had been opened into somewhere it shouldn’t."
+          "description": "Dark mage robe legs is a power level 4 magic armour that can be created at an armour bench.\n\nThe recipe is discovered after obtaining padded cloth and interacting with the mystic forge.\n\n(Journal)\nAlthough the name may be sinister, the robes and the people who wear them are not automatically evil.\n\nThe most infamous dark wizards became a fairy tale for the people of Brynmoor, a cautionary tale of greed and the desire for power. They sought power in the darkest of places, and it turned them into something monstrous.\n\nThey appeared in the village in the dead of night as twisted versions of themselves - mindless creatures infused with a shadowy essence. Those who found themselves in their path had their lives ripped out of them until nought but an empty husk remained.\n\nIt took all the visiting Wild Knights to take them down. Arrow after arrow, spell after spell, the task seemed almost insurmountable, until the light of the sun made the creatures vulnerable. In their death throes, it was as if some horrible chill fell across the world, as if a door somewhere had been opened into somewhere it shouldn’t."
         },
         "stations": [
           "Armour Bench"
@@ -15572,7 +15784,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Set bonus 2",
-              "value": "+17.5% Magic Attack Speed"
+              "value": "+10% Magic Attack Speed"
             },
             {
               "label": "Set bonus 3",
@@ -15858,7 +16070,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Iron Med Helm is a power level 4 armour piece. It can be crafted at an Armour Bench using 4 Iron Bar, 4 Hard Leather, 1 Padded Cloth, and 1 Vault Shard.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition\n\n(Journal)\nBronze, it's so last region, isn't it? It's weak, it's gaudy. Why, you can do so much better than that. Iron, that's the future: a ferromagnetic cage around your cranium is guaranteed to prevent almost some damage to your squishy brain.\n\nStrangely, none of the residents of Brynmoor wore medium helms: they all went straight for full helms. Probably because they wanted to protect their face from deadly weapons, the cowards."
+          "description": "The Iron Med Helm is a power level 4 armour piece. It can be crafted at an Armour Bench using 4 Iron Bar, 4 Hard Leather, 1 Padded Cloth, and 1 Vault Shard. The recipe for this item is obtained from purchasing the Deluxe Edition and by having an iron bar in the player's inventory for the first time.\n\n(Journal)\nBronze, it's so last region, isn't it? It's weak, it's gaudy. Why, you can do so much better than that. Iron, that's the future: a ferromagnetic cage around your cranium is guaranteed to prevent almost some damage to your squishy brain.\n\nStrangely, none of the residents of Brynmoor wore medium helms: they all went straight for full helms. Probably because they wanted to protect their face from deadly weapons, the cowards."
         },
         "stations": [
           "Armour Bench"
@@ -17309,7 +17521,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The necromancer's crown is a power level 5 magic armour that can be created at an armour bench. It can be unlocked by purchasing the Curse Carrying Crown in Death's Exchange.\n\n(Journal)\nThose who wield the power over life and death have a tendency to crave control. They need to manage things in their life on a pathological level, and this need often grows into a desire to manage the lives of everyone else.\n\nThe most well known necromancer in Fellhollow was a man called Calius Waithe. He was one of the Children of Shadows until he decided that their policies of peacful evil wasn't what he was looking for. He was more an overtly evil sort of guy.\n\nHe decided, on one fateful autumnal eve, to raise an army of the undead and march them on Emberwood. He imagined the village cowering before him as he named himself their new king."
+          "description": "The necromancer's crown is a power level 5 magic armour that can be created at an armour bench. It can be unlocked by purchasing the Curse Carrying Crown in Death's Exchange. The Crown, Robe Top, and Robe Legs are required to complete the What Remains is Written quest.\n\n(Journal)\nThose who wield the power over life and death have a tendency to crave control. They need to manage things in their life on a pathological level, and this need often grows into a desire to manage the lives of everyone else.\n\nThe most well known necromancer in Fellhollow was a man called Calius Waithe. He was one of the Children of Shadows until he decided that their policies of peacful evil wasn't what he was looking for. He was more an overtly evil sort of guy.\n\nHe decided, on one fateful autumnal eve, to raise an army of the undead and march them on Emberwood. He imagined the village cowering before him as he named himself their new king."
         },
         "stations": [
           "Armour Bench"
@@ -17426,7 +17638,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Necromancer's robe bottom are a power level 5 magic armour that can be created at an armour bench. It plays a role in completing the What Remains is Written quest.\n\n(Journal)\nFaced with humiliation of villagers not fleeing in terror, the necromancer Callius Waithe was forced to use more harrowing tactics. He grabbed a jar of oil from a nearby blacksmith and threw it over his skeletal minions, and then he set them aflame. For what could be more terrifying than the shambling dead? Why, the shambling burning dead, of course!\n\nThis did cause the panic he wanted. Villagers fled the flames quickly, running to the wells in case of the inevitably flaming spread. Spread it did, for while the skeletons themselves did not burn, the oil covering them erupted into excited tongues of flame. Callius laughed at his evil genius, until the flames spread beyond the means of his control.\n\nIt is said that on autumn evenings, when the moon is full, the ghost of Callius can be seen screaming in the village, running through the streets trying to put out spectral flames."
+          "description": "Necromancer's robe bottom are a power level 5 magic armour that can be created at an armour bench. The Crown, Robe Top, and Robe Legs are required to complete the What Remains is Written quest.\n\n(Journal)\nFaced with humiliation of villagers not fleeing in terror, the necromancer Callius Waithe was forced to use more harrowing tactics. He grabbed a jar of oil from a nearby blacksmith and threw it over his skeletal minions, and then he set them aflame. For what could be more terrifying than the shambling dead? Why, the shambling burning dead, of course!\n\nThis did cause the panic he wanted. Villagers fled the flames quickly, running to the wells in case of the inevitably flaming spread. Spread it did, for while the skeletons themselves did not burn, the oil covering them erupted into excited tongues of flame. Callius laughed at his evil genius, until the flames spread beyond the means of his control.\n\nIt is said that on autumn evenings, when the moon is full, the ghost of Callius can be seen screaming in the village, running through the streets trying to put out spectral flames."
         },
         "stations": [
           "Armour Bench"
@@ -17543,7 +17755,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Necromancer's robe top is a power level 5 magic armour that can be created at an armour bench after studying the vestige, remnants of a rotting robe. It plays a role in completing the What Remains is Written quest.\n\n(Journal)\nCallius Waithe created an army of the undead and marched them on Emberwood. Or, rather, he called his shambling little horde an army, even though it consisted only of five skeletons in various degrees of disrepair.\n\nThe village guard took aim at the skeletons, but their arrows lacked the strength to shatter bone, and Callius marched them through the gates with barely any opposition. Still, once he had made it through, he was not met with the terror he had hoped for. While shambling skeletons were certainly a fright that caused much shock, their limited number helped mitigate the terror.\n\nA small child even giggled and tried to offer one skeleton an apple. An act that filled Callius with unreasonable rage."
+          "description": "Necromancer's robe top is a power level 5 magic armour that can be created at an armour bench after studying the vestige, remnants of a rotting robe. The Crown, Robe Top, and Robe Legs are required to complete the What Remains is Written quest.\n\n(Journal)\nCallius Waithe created an army of the undead and marched them on Emberwood. Or, rather, he called his shambling little horde an army, even though it consisted only of five skeletons in various degrees of disrepair.\n\nThe village guard took aim at the skeletons, but their arrows lacked the strength to shatter bone, and Callius marched them through the gates with barely any opposition. Still, once he had made it through, he was not met with the terror he had hoped for. While shambling skeletons were certainly a fright that caused much shock, their limited number helped mitigate the terror.\n\nA small child even giggled and tried to offer one skeleton an apple. An act that filled Callius with unreasonable rage."
         },
         "stations": [
           "Armour Bench"
@@ -18057,7 +18269,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Set bonus 2",
-              "value": "+17.5% Magic Attack Speed"
+              "value": "+10% Magic Attack Speed"
             },
             {
               "label": "Set bonus 3",
@@ -18592,7 +18804,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Steel Med Helm is a power level 5 helmet. It can be crafted at an Armour Bench using 4 Steel Bar, 4 Draconic Leather, 1 Fine Cloth, 1 Sacred Oil, and 2 Vault Shard.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nWith just a little bit of coal and a much better set up, you can replace your pathetic iron helmets with the much more durable steel. Steel is shinier, sturdier and just all round better for you than iron, so go ahead and hurl that iron helm off a cliff and embrace your new look in galvanised steel.\n\nIn Fellhollow the local warriors experimented with medium helms. They were lighter, easier to make and seemed like a really good idea. Oh, sure, they looked bizarre, a strange sort of cube wrapped around one's face, but there was no denying the... err... the...drip? is that what kids say these days? I lose track.\n\nAnyway, steel, it's better than iron and no less, well, square."
+          "description": "The Steel Med Helm is a power level 5 helmet. It can be crafted at an Armour Bench using 4 Steel Bar, 4 Draconic Leather, 1 Fine Cloth, 1 Sacred Oil, and 2 Vault Shard. The recipe for this item is obtained by purchasing the Deluxe Edition and having a steel bar in the player's inventory for the first time.\n\n(Journal)\nWith just a little bit of coal and a much better set up, you can replace your pathetic iron helmets with the much more durable steel. Steel is shinier, sturdier and just all round better for you than iron, so go ahead and hurl that iron helm off a cliff and embrace your new look in galvanised steel.\n\nIn Fellhollow the local warriors experimented with medium helms. They were lighter, easier to make and seemed like a really good idea. Oh, sure, they looked bizarre, a strange sort of cube wrapped around one's face, but there was no denying the... err... the...drip? is that what kids say these days? I lose track.\n\nAnyway, steel, it's better than iron and no less, well, square."
         },
         "stations": [
           "Armour Bench"
@@ -19469,7 +19681,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Mithril Med Helm is a power level 6 helmet. It can be crafted at an Armour Bench using 4 Mithril Bar, 4 Cursed Leather, 1 Mystic Cloth, and 1 Demonic Oil.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nThe warriors of Dowdun Reach were skilled in the manipulation of mithril metal. They made swords, axes, and great hammers that could crush their enemies flat. They crafted impressive suits of armour, though they favoured the more sinister-looking black armour than the mystical-looking mithril.\n\nOne Zamorakian blacksmith, a man called Bob, like so many people on Gielinor, crafted the first mithril medium helm to very little fanfare. He would wear it at every meeting, he would show it off at all the big events, all to impress the women of the keep. You can imagine how well that went.\n\nNot very well, for clarity's sake."
+          "description": "The Mithril Med Helm is a power level 6 helmet. It can be crafted at an Armour Bench using 4 Mithril Bar, 4 Cursed Leather, 1 Mystic Cloth, and 1 Demonic Oil. The recipe for this item is obtained by purchasing the Deluxe Edition and having a mithril bar in the player's inventory for the first time.\n\n(Journal)\nThe warriors of Dowdun Reach were skilled in the manipulation of mithril metal. They made swords, axes, and great hammers that could crush their enemies flat. They crafted impressive suits of armour, though they favoured the more sinister-looking black armour than the mystical-looking mithril.\n\nOne Zamorakian blacksmith, a man called Bob, like so many people on Gielinor, crafted the first mithril medium helm to very little fanfare. He would wear it at every meeting, he would show it off at all the big events, all to impress the women of the keep. You can imagine how well that went.\n\nNot very well, for clarity's sake."
         },
         "stations": [
           "Armour Bench"
@@ -19711,7 +19923,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Melee Armour"
+              "value": "Shield"
             },
             {
               "label": "Power level",
@@ -20996,7 +21208,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Adamant Med Helm is a power level 7 helmet. It can be crafted at an Armour Bench using 4 Adamant Bar, 4 Scorch Leather, 1 Desert Cloth, 1 Refined Obsidian, 1 Gypsum Wax, and 1 Garou Weave.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nThe Moon Garou have crafted impressive suits of armour. Stylish, elegant, and sturdy. One of their blacksmiths experimented with the medium helm, and earned much mockery from his tribe.\n\nTrue, the helm was sturdy and turned aside arrow and blade alike, but it lacked the grace and style of the traditional adamant armour, given that it was so very, very square.\n\nStill, he would be most glad to have crafted it, for on one sandstorm-heavy evening, it was the only thing that saved him when the kalphites attacked. They were brutal, they were cruel, they tore apart the rest of his caravan in moments, yet his helm stood strong against the maw of one of their number, and they abandoned him when they realised how much effort eating him would be."
+          "description": "The Adamant Med Helm is a power level 7 helmet. It can be crafted at an Armour Bench using 4 Adamant Bar, 4 Scorch Leather, 1 Desert Cloth, 1 Refined Obsidian, 1 Gypsum Wax, and 1 Garou Weave. The recipe for this item is obtained by purchasing the Deluxe Edition and having an adamantbar in the player's inventory for the first time.\n\n(Journal)\nThe Moon Garou have crafted impressive suits of armour. Stylish, elegant, and sturdy. One of their blacksmiths experimented with the medium helm, and earned much mockery from his tribe.\n\nTrue, the helm was sturdy and turned aside arrow and blade alike, but it lacked the grace and style of the traditional adamant armour, given that it was so very, very square.\n\nStill, he would be most glad to have crafted it, for on one sandstorm-heavy evening, it was the only thing that saved him when the kalphites attacked. They were brutal, they were cruel, they tore apart the rest of his caravan in moments, yet his helm stood strong against the maw of one of their number, and they abandoned him when they realised how much effort eating him would be."
         },
         "stations": [
           "Armour Bench"
@@ -21258,7 +21470,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Melee Armour"
+              "value": "Shield"
             },
             {
               "label": "Power level",
@@ -21270,7 +21482,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "65"
+              "value": "66"
             },
             {
               "label": "Durability",
@@ -21757,7 +21969,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Infinity robe body is a power level 7 magic armour that can be crafted at an armour bench.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nParts of the kalphites, most notably their wings, were a scintillating spectrum of beautiful colours. As they caught the sunlight, they would bloom into a radiant rainbow of delight and Karia found herself overcome with a strange sort of envy previously unknown to her people.\n\nShe wanted to sparkle. She wanted to shine. She wanted to live a life encased in the most magnificent and wondrous colours, and she would do anything to make it happen.\n\nTo call the events that followed a war would be an over-exaggeration, but not wholly inaccurate. The garou descended on the hives with blade, claw and bow, ready to tear the beasts apart so that they might claim the colourful materials for themselves. The kalphite, of course, did not fall easily and many garou lives were lost in the clothing-mad conflict."
+          "description": "Infinity robe body is a power level 7 magic armour that can be crafted at an armour bench. The recipe for this item and the rest of the armour set is unlocked by creating Infinity Cloth for the first time.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nParts of the kalphites, most notably their wings, were a scintillating spectrum of beautiful colours. As they caught the sunlight, they would bloom into a radiant rainbow of delight and Karia found herself overcome with a strange sort of envy previously unknown to her people.\n\nShe wanted to sparkle. She wanted to shine. She wanted to live a life encased in the most magnificent and wondrous colours, and she would do anything to make it happen.\n\nTo call the events that followed a war would be an over-exaggeration, but not wholly inaccurate. The garou descended on the hives with blade, claw and bow, ready to tear the beasts apart so that they might claim the colourful materials for themselves. The kalphite, of course, did not fall easily and many garou lives were lost in the clothing-mad conflict."
         },
         "stations": [
           "Armour Bench"
@@ -21882,7 +22094,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Infinity robe hat is a power level 7 magic armour that can be crafted at an armour bench.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell, they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nKaira, druid of the Softfoot tribe, was one of the first of the Moon Garou to hunt through the sands in search of materials they could use to craft robes of their own. They expected magnificent beasts with scales and horns the likes of which they had never seen. They found the kalphites instead.\n\nTheir first interaction did not go well."
+          "description": "Infinity robe hat is a power level 7 magic armour that can be crafted at an armour bench. The recipe for this item and the rest of the armour set is unlocked by creating Infinity Cloth for the first time.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell, they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nKaira, druid of the Softfoot tribe, was one of the first of the Moon Garou to hunt through the sands in search of materials they could use to craft robes of their own. They expected magnificent beasts with scales and horns the likes of which they had never seen. They found the kalphites instead.\n\nTheir first interaction did not go well."
         },
         "stations": [
           "Armour Bench"
@@ -22000,7 +22212,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Infinity robe legs are power level 7 magic armour that can be crafted at an armour bench.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nThe kalphite did not offer diplomatic solutions to the garou’s assaults, but they offered violent ones. On one night, the garou saw an approaching sandstorm, but were not prepared for the truth. As the storm approached, the buzzing sound grew to a crescendo as the great kalphite swarm blotted out the stars and moon, descending upon the village.\n\nThere were none left alive once all had passed.\n\nYou would think this would have been the end of it, that death and pain would be deterrent enough. Yet, for the years, decades and centuries that followed, the desire for colourful material was too strong a lure.\n\nCountless lives have been lost to kalphite retribution. But what is fashion without a little sacrifice?"
+          "description": "Infinity robe legs are power level 7 magic armour that can be crafted at an armour bench. The recipe for this item and the rest of the armour set is unlocked by creating Infinity Cloth for the first time.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nThe kalphite did not offer diplomatic solutions to the garou’s assaults, but they offered violent ones. On one night, the garou saw an approaching sandstorm, but were not prepared for the truth. As the storm approached, the buzzing sound grew to a crescendo as the great kalphite swarm blotted out the stars and moon, descending upon the village.\n\nThere were none left alive once all had passed.\n\nYou would think this would have been the end of it, that death and pain would be deterrent enough. Yet, for the years, decades and centuries that followed, the desire for colourful material was too strong a lure.\n\nCountless lives have been lost to kalphite retribution. But what is fashion without a little sacrifice?"
         },
         "stations": [
           "Armour Bench"
@@ -24268,7 +24480,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Basic Item"
+              "value": "Shield"
             },
             {
               "label": "Power level",
@@ -24446,7 +24658,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Runite Med Helm is a power level 8 helmet. It can be crafted at an Armour Bench using 4 Rune Bar, 4 Black Dragon Leather, 1 Vis Cloth, 1 Harmonised Compound, and 1 Draconic Vis Wax.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nThe first suit of rune armour was worn by the god Guthix, after many months of failed blacksmithing attempts. For all his might, skill and wisdom, Guthix, it seemed, was remarkably poor at anything practical and that delighted him in ways he couldn't share. For Guthix had never really wanted to be a god. Though he took his responsibilities seriously, he had ascended in an act of vengeance, not by deliberate intent. In his transcendence, he had lost much of what made him happier in his mortal life. Failures, it seems, could spark as much joy as success, for one learns and grows from the experience and such growth defines who we are.\n\nThe rune medium helm is one of the first pieces he crafted. You can tell because it looks like a brick with delusions of grandeur."
+          "description": "The Runite Med Helm is a power level 8 helmet. It can be crafted at an Armour Bench using 4 Rune Bar, 4 Black Dragon Leather, 1 Vis Cloth, 1 Harmonised Compound, and 1 Draconic Vis Wax. The recipe for this item is obtained by purchasing the Deluxe Edition and having a runite bar in the player's inventory for the first time.\n\n(Journal)\nThe first suit of rune armour was worn by the god Guthix, after many months of failed blacksmithing attempts. For all his might, skill and wisdom, Guthix, it seemed, was remarkably poor at anything practical and that delighted him in ways he couldn't share. For Guthix had never really wanted to be a god. Though he took his responsibilities seriously, he had ascended in an act of vengeance, not by deliberate intent. In his transcendence, he had lost much of what made him happier in his mortal life. Failures, it seems, could spark as much joy as success, for one learns and grows from the experience and such growth defines who we are.\n\nThe rune medium helm is one of the first pieces he crafted. You can tell because it looks like a brick with delusions of grandeur."
         },
         "stations": [
           "Armour Bench"
@@ -24641,6 +24853,10 @@ window.WILDS_STORAGE = [
               "value": "29 July 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -24683,7 +24899,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Agility cape is a Cape of Accomplishment able to be crafted and worn with a level 99 Agility. It can be crafted at the crafting table. This cape, while worn, gives the player a small chance to not consume stamina for jumping, dashing, or evading.\n\nTrimmed versions can be made the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! Like the nimblest of ferrets, you can scoot up drainpipes and scurry across ledges.\n\nNow you have mastered the Agility skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou have gathered all possible agility abilityabilities! People look at you and feel immediately tired."
+          "description": "The Agility cape is a Cape of Accomplishment able to be crafted and worn with a level 99 Agility. It can be crafted at the crafting table. This cape, while worn, gives the player a 10% chance to not consume stamina for jumping, dashing, or evading.\n\nTrimmed versions can be made the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! Like the nimblest of ferrets, you can scoot up drainpipes and scurry across ledges.\n\nNow you have mastered the Agility skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou have gathered all possible agility abilityabilities! People look at you and feel immediately tired."
         },
         "stations": [
           "Crafting Table"
@@ -24796,7 +25012,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Basic Item"
+              "value": "Shield"
             },
             {
               "label": "Power level",
@@ -24812,7 +25028,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "DRAGON BREATH RESISTANCE When actively BLOCKING, this shield is able to BLOCK incoming DRAGON FIRE."
+              "value": "DRAGON BREATH RESISTANCE; When actively BLOCKING, this shield is able to BLOCK incoming DRAGON FIRE."
             },
             {
               "label": "Durability",
@@ -24934,6 +25150,10 @@ window.WILDS_STORAGE = [
               "value": "31 March 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -24981,7 +25201,7 @@ window.WILDS_STORAGE = [
               "desc": "Repairing gear costs no resources when this cape is worn."
             }
           ],
-          "description": "The Artisan cape is a Cape of Accomplishment able to be crafted and worn at level 99 Artisan. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You're a Master Maker, a Crafting Connoisseur, an Artisan Fartisan.\n\nNow you have mastered the Artisan skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou're a Master Maker, a Crafting Connoisseur, an Artisan Fartisan."
+          "description": "The Artisan cape is a Cape of Accomplishment able to be crafted and worn at level 99 Artisan. It can be crafted at the mystic forge. There is a 10% chance of not using resources when repairing equipment or gear.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You're a Master Maker, a Crafting Connoisseur, an Artisan Fartisan.\n\nNow you have mastered the Artisan skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou're a Master Maker, a Crafting Connoisseur, an Artisan Fartisan."
         },
         "stations": [
           "Mystic Forge"
@@ -25003,7 +25223,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Released",
-              "value": "15 April 2025"
+              "value": "31 March 2026"
+            },
+            {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
             },
             {
               "label": "Melee defence",
@@ -25053,7 +25277,7 @@ window.WILDS_STORAGE = [
               "desc": "Melee attacks have a small chance at costing no stamina when used."
             }
           ],
-          "description": "The Attack cape is a Cape of Accomplishment able to be crafted and worn at level 99 Attack. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! While you may have 99 problems, Attack isn't one of them.\n\nNow you have mastered the Attack skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nA cape of SKILL - TRIMMED"
+          "description": "The Attack cape is a Cape of Accomplishment able to be crafted and worn at level 99 Attack. It can be crafted at the mystic forge. Whilst attacking, players' attacks have a 15% chance of not using stamina.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! While you may have 99 problems, Attack isn't one of them.\n\nNow you have mastered the Attack skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nA cape of SKILL - TRIMMED"
         },
         "stations": [
           "Mystic Forge"
@@ -25557,11 +25781,58 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The blue desert cape is a stylish cape that takes no materials to craft. The recipe is unlocked after studying the blue memory of Menaphos vestige, which can be found in chests in Umbral Sands.\n\n(Journal)\nA sapphire cape in the Menaphite style. Though not technically Menaphite in design, these Moon Garou creations were heavily influenced by the “River Mother”, a visiting goddess with a strong connection to the Menaphite deserts."
+          "description": "The blue desert cape is a stylish cape that takes no materials to craft. The recipe is unlocked after studying the blue memory of Menaphos vestige, which can be found in chests in Umbral Sands. It is also an award after completing Mapping The Sands I\n\n(Journal)\nA sapphire cape in the Menaphite style. Though not technically Menaphite in design, these Moon Garou creations were heavily influenced by the “River Mother”, a visiting goddess with a strong connection to the Menaphite deserts."
         },
         "stations": [
           "Armour Bench"
         ],
+        "step": 7
+      },
+      {
+        "name": "Blue Dyad Cape",
+        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d",
+        "tier": "",
+        "tierRank": null,
+        "chest": "armour",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Armour"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026"
+            },
+            {
+              "label": "Melee defence",
+              "value": "2"
+            },
+            {
+              "label": "Ranged defence",
+              "value": "2"
+            },
+            {
+              "label": "Magic defence",
+              "value": "2"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A cape made for its looks more than any kind of magical potency."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The blue dyad cape is a stylish cape that can be created by learning the vestige bought from Postie Pete in Evil Emporium.\n\n(Journal)\nA wise purchase. While it doesn't make you invisible or grant you super-powers, this cape does make a delightful swishing noise as you sashay."
+        },
         "step": 7
       },
       {
@@ -25619,7 +25890,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The blue dyed cape is a stylish cape that can be created by learning the vestige bought from Postie Pete in Evil Emporium.\n\n(Journal)\nA wise purchase. While it doesn't make you invisible or grant you super-powers, this cape does make a delightful swishing noise as you sashay."
+          "description": "The blue dyad cape is a stylish cape that can be created by learning the vestige bought from Postie Pete in Evil Emporium.\n\n(Journal)\nA wise purchase. While it doesn't make you invisible or grant you super-powers, this cape does make a delightful swishing noise as you sashay."
         },
         "stations": [
           "Armour Bench"
@@ -25958,6 +26229,10 @@ window.WILDS_STORAGE = [
               "value": "31 March 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -26005,7 +26280,7 @@ window.WILDS_STORAGE = [
               "desc": "You have a small chance to not use building materials when placing a build piece."
             }
           ],
-          "description": "The Construction cape is a Cape of Accomplishment able to be crafted and worn at level 99 Construction. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You can look upon your constructions and see that they are good.\n\nNow you have mastered the Construction skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Construction Cape with all the trimmings. Precious few can claim that distinction."
+          "description": "The Construction cape is a Cape of Accomplishment that can be crafted and worn at level 99 Construction. It can be crafted at the mystic forge. Repairing structures do not use any materials whilst using the cape.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You can look upon your constructions and see that they are good.\n\nNow you have mastered the Construction skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Construction Cape with all the trimmings. Precious few can claim that distinction."
         },
         "stations": [
           "Mystic Forge"
@@ -26028,6 +26303,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Released",
               "value": "31 March 2026"
+            },
+            {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
             },
             {
               "label": "Melee defence",
@@ -26077,7 +26356,7 @@ window.WILDS_STORAGE = [
               "desc": "You cannot burn food while wearing this cape."
             }
           ],
-          "description": "The Cooking cape is a Cape of Accomplishment able to be crafted and worn at level 99 Cooking. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! There is no flavour you have not found, no edible you have not eaten.\n\nNow you have mastered the Cooking skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Cooking Cape with all the trimmings. Precious few can claim that distinction."
+          "description": "The Cooking cape is a Cape of Accomplishment able to be crafted and worn at level 99 Cooking. It can be crafted at the mystic forge. Players will not burn any food whilst wearing the cape.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! There is no flavour you have not found, no edible you have not eaten.\n\nNow you have mastered the Cooking skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Cooking Cape with all the trimmings. Precious few can claim that distinction."
         },
         "stations": [
           "Mystic Forge"
@@ -26589,7 +26868,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Basic Item"
+              "value": "Shield"
             },
             {
               "label": "Power level",
@@ -26769,7 +27048,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "The dragoncurse shield is a power level 5 masterwork shield that is obtained from the Withering Heights reward pack by completing Withering Heights. It can be crafted at a blacksmith's bench after obtaining an undead draconic visage from the same pack or from turning in Imaru's head to Death afterwards, although it will require another anti-dragon shield. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect causes a spectral dragon claw to rise from the ground and deal 25 damage to and pull enemies slightly away from the player. Unlike the dragonblight shield, the effect does not scale with power level. It has a 20 second internal cooldown. This damage will interrupt a stagger caused by a parry. Despite not being listed, this shield also has Dragon Breath Resistance, the special effect of the anti-dragon shield, which provides the ability to block dragon fire.\n\nAs long as the target is not immune to poison (like green dragons) and poison is not being applied from another source (like Venomous Trapper, poisoned arrows, or weapon poison), then the dragonblight shield's effect is better because the damage scales with power level, dealing more total damage over time, and it doesn't interrupt staggers. That being said, fallen hoplite's aspis will also have more block value and toktz-ket-xil will have increased melee crit damage after a parry, but reduced block value.\n\n(Journal)\nA shield with the visage of Imaru the devourer welded to the front. Holding the shield feels cold to the touch and instils within you a hunger for battle. Your blood pumps faster with a terrible need to rend your enemy limb from limb."
+          "description": "The dragoncurse shield is a power level 5 masterwork shield that is obtained from the Withering Heights reward pack by completing Withering Heights. It can be crafted at a blacksmith's bench after obtaining an undead draconic visage from the same pack or from turning in Imaru's head to Death afterwards, although it will require another anti-dragon shield. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect causes a spectral dragon claw to rise from the ground and deal 25 damage to and pull enemies slightly away from the player. Unlike the dragonblight shield, the effect does not scale with power level. It has a 20 second internal cooldown. This damage will interrupt a stagger caused by a parry. Additionally, this shield also has Dragon Breath Resistance, the special effect of the anti-dragon shield, which provides the ability to block dragon fire.\n\nAs long as the target is not immune to poison (like green dragons) and poison is not being applied from another source (like Venomous Trapper, poisoned arrows, or weapon poison), then the dragonblight shield's effect is better because the damage scales with power level, dealing more total damage over time, and it doesn't interrupt staggers. That being said, fallen hoplite's aspis will also have more block value and toktz-ket-xil will have increased melee crit damage after a parry, but reduced block value.\n\n(Journal)\nA shield with the visage of Imaru the devourer welded to the front. Holding the shield feels cold to the touch and instils within you a hunger for battle. Your blood pumps faster with a terrible need to rend your enemy limb from limb."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -26791,7 +27070,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Power level",
-              "value": "8"
+              "value": "7"
             },
             {
               "label": "Released",
@@ -27148,7 +27427,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Fallen hoplite's chest is a power level 5 melee armour that can be crafted at an armour bench.\n\nThe recipe is a reward from Kalistrakthen Kara, a dragonkin vault. It can be obtained by interactng with a dragonkin effigy within the vault. The dragonkin effigy can be found behind a breakable wall, near the two diamond door with a distinct circular cracked pattern. It has the exact same combat stats and durability as steel platebody and white platebody, making them functionally identical.\n\n(Journal)\nThose joining the Fellhollow military who were not from the more noble bloodlines would go into the force known as hoplites. This force of warrior farmers named themselves after the hoplites of Hallow, legendary forces spoken of in some of the Saradominist text.\n\nThese hoplites would meet at the end of each week to train and practice battle manoeuvres. They became walls of impenetrable shields, or terrifying spiked shells, moving with the sort of unity that only comes over years and years of training.\n\nTheir secret, so they claimed, was the weekly barbeque. Once training was resolved, if they had performed well enough, the retired members of the hoplites would cook them delicious meats and roasted vegetables, served with an overly generous helping of alcoholic beverages."
+          "description": "Fallen hoplite's chest is a power level 5 melee armour that can be crafted at an armour bench.\n\nThe recipe is a reward from Kalistrakthen Kara, a dragonkin vault. It can be obtained by interacting with a dragonkin effigy within the vault. The dragonkin effigy can be found behind a breakable wall, near the two diamond door with a distinct circular cracked pattern. It has the exact same combat stats and durability as steel platebody and white platebody, making them functionally identical.\n\n(Journal)\nThose joining the Fellhollow military who were not from the more noble bloodlines would go into the force known as hoplites. This force of warrior farmers named themselves after the hoplites of Hallow, legendary forces spoken of in some of the Saradominist text.\n\nThese hoplites would meet at the end of each week to train and practice battle manoeuvres. They became walls of impenetrable shields, or terrifying spiked shells, moving with the sort of unity that only comes over years and years of training.\n\nTheir secret, so they claimed, was the weekly barbeque. Once training was resolved, if they had performed well enough, the retired members of the hoplites would cook them delicious meats and roasted vegetables, served with an overly generous helping of alcoholic beverages."
         },
         "stations": [
           "Armour Bench"
@@ -27490,6 +27769,10 @@ window.WILDS_STORAGE = [
               "value": "31 March 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -27537,7 +27820,7 @@ window.WILDS_STORAGE = [
               "desc": "This cape acts as an infinite source of plant cure potions."
             }
           ],
-          "description": "The Farming cape is a Cape of Accomplishment able to be crafted and worn at level 99 Farming. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You could grow seeds in lava, saplings in ice, and bulbs in the neckfolds of a Golem.\n\nNow you have mastered the Farming skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou could grow seeds in lava, saplings in ice, and bulbs in the neckfolds of a Golem."
+          "description": "The Farming cape is a Cape of Accomplishment that can be crafted and worn at level 99 Farming. It can be crafted at the mystic forge. Whilst wearing the cape, players have an unlimited number of plant cure potions to cure diseased plants.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You could grow seeds in lava, saplings in ice, and bulbs in the neckfolds of a Golem.\n\nNow you have mastered the Farming skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou could grow seeds in lava, saplings in ice, and bulbs in the neckfolds of a Golem."
         },
         "stations": [
           "Mystic Forge"
@@ -27686,6 +27969,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -27728,7 +28015,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Fishing cape is a Cape of Accomplishment able to be crafted and worn at level 99 Fishing. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You're a fishing colossus, conquering rivers and seas with nowt but a net and rod.\n\nNow you have mastered the Fishing skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!"
+          "description": "The Fishing cape is a Cape of Accomplishment crafted and worn at level 99 Fishing. It can be crafted at the mystic forge. There is currently no special effect for either the regular or trimmed versions of the cape.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You're a fishing colossus, conquering rivers and seas with nowt but a net and rod.\n\nNow you have mastered the Fishing skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou're a fishing colossus, conquering rivers and seas with nowt but your net and rod."
         },
         "stations": [
           "Mystic Forge"
@@ -29014,6 +29301,10 @@ window.WILDS_STORAGE = [
               "value": "31 March 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -29061,7 +29352,7 @@ window.WILDS_STORAGE = [
               "desc": "Magic attacks have a small chance at costing no stamina when used."
             }
           ],
-          "description": "The Magic cape is a Cape of Accomplishment able to be crafted and worn at level 99 Magic. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You could pull a hat from a rabbit, you're that magical.\n\nNow you have mastered the Magic skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Magic Cape with all the trimmings. Precious few can claim that distinction."
+          "description": "The Magic cape is a Cape of Accomplishment able to be crafted and worn at level 99 Magic. It can be crafted at the mystic forge and has a 15% chance not to consume stamina when casting Magic attacks.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You could pull a hat from a rabbit, you're that magical.\n\nNow you have mastered the Magic skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Magic Cape with all the trimmings. Precious few can claim that distinction."
         },
         "stations": [
           "Mystic Forge"
@@ -29133,7 +29424,7 @@ window.WILDS_STORAGE = [
               "desc": "You have a small chance to instantly finish mining an ore rock."
             }
           ],
-          "description": "The Mining cape is a Cape of Accomplishment able to be crafted and worn at level 99 Mining. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! Your veins are glittering ore; your eyes are diamonds; your deposits are clumps of rock.\n\nNow you have mastered the Mining skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Mining Cape with all the trimmings. Precious few can claim that distinction."
+          "description": "The Mining cape is a Cape of Accomplishment that can be crafted and worn at level 99 Mining. It can be crafted at the mystic forge. Players have a 10% chance to finish mining an ore rock instantly.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! Your veins are glittering ore; your eyes are diamonds; your deposits are clumps of rock.\n\nNow you have mastered the Mining skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Mining Cape with all the trimmings. Precious few can claim that distinction."
         },
         "stations": [
           "Mystic Forge"
@@ -30650,7 +30941,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Prayer cape is a Cape of Accomplishment that will require 99 Prayer to craft and wear. It can be crafted at the crafting table.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99."
+          "description": "The Prayer cape is an upcoming Cape of Accomplishment that may require 99 Prayer to craft and wear."
         },
         "stations": [
           "Crafting Table"
@@ -30804,6 +31095,10 @@ window.WILDS_STORAGE = [
               "value": "31 March 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -30851,7 +31146,7 @@ window.WILDS_STORAGE = [
               "desc": "Range attacks have a small chance at costing no stamina when used."
             }
           ],
-          "description": "The Ranged cape is a Cape of Accomplishment able to be crafted and worn at level 99 Ranged. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! They say that you can slice off the whisker of garou from a thousand paces.\n\nNow you have mastered the Ranged skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Ranged Cape with all the trimmings. Precious few can claim that distinction."
+          "description": "The Ranged cape is a Cape of Accomplishment that can be crafted and worn at level 99 Ranged. It can be crafted at the mystic forge. Players have a 15% chance not to consume stamina whilst attacking with Ranged attacks.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! They say that you can slice off the whisker of garou from a thousand paces.\n\nNow you have mastered the Ranged skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Ranged Cape with all the trimmings. Precious few can claim that distinction."
         },
         "stations": [
           "Mystic Forge"
@@ -31435,6 +31730,10 @@ window.WILDS_STORAGE = [
               "value": "31 March 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -31482,7 +31781,7 @@ window.WILDS_STORAGE = [
               "desc": "You siphon double the amount of runes from Anima Vents."
             }
           ],
-          "description": "The Runecrafting cape is a Cape of Accomplishment able to be crafted and worn at level 99 Runecrafting. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You've crafted more runes than a roomful of crafty runecrafters.\n\nNow you have mastered the skill of Runecrafting, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Runecrafting Cape with all the trimmings. Precious few can claim that distinction."
+          "description": "The Runecrafting cape is a Cape of Accomplishment able to be crafted and worn at level 99 Runecrafting. It can be crafted at the mystic forge. Players have a 50% chance of doubling the amount of runes specific to the anima vent that are siphoned.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You've crafted more runes than a roomful of crafty runecrafters.\n\nNow you have mastered the skill of Runecrafting, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Runecrafting Cape with all the trimmings. Precious few can claim that distinction."
         },
         "stations": [
           "Mystic Forge"
@@ -31826,6 +32125,10 @@ window.WILDS_STORAGE = [
               "value": "60"
             },
             {
+              "label": "Special effect",
+              "value": "* Increase melee damage after parry by 15%. * Reduced block."
+            },
+            {
               "label": "Durability",
               "value": "1,600"
             },
@@ -31948,7 +32251,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Umbral Sands cape is a armour piece located in Umbral Sands. Players can find the recipe for this cape in the hills, north-east of the pyramid in the Dunes of Uzzer.\n\n(Journal)\nReminisce on all the times that sand got literally everywhere. In your shoes. In your eyes. In your breakfast. This cape is a beautifully embroidered reminder of all the hot sun, scratchy grains, and annoying bugs trying to eat your face.\n\nWear it with pride.\n\nRunning in sand is one of the hardest things in the world, so take a bow. You've not only mastered Umbral Sands, but you've run about in it, which is something that most of us would try to avoid."
+          "description": "Umbral Sands cape is a armour piece located in Umbral Sands. Players can find the recipe for this cape in the hills, north-east of the pyramid in the Dunes of Uzzer. The recipe can be found in a chest high up the vertical rock formation and cannot be reached without building foundations.\n\n(Journal)\nReminisce on all the times that sand got literally everywhere. In your shoes. In your eyes. In your breakfast. This cape is a beautifully embroidered reminder of all the hot sun, scratchy grains, and annoying bugs trying to eat your face.\n\nWear it with pride.\n\nRunning in sand is one of the hardest things in the world, so take a bow. You've not only mastered Umbral Sands, but you've run about in it, which is something that most of us would try to avoid."
         },
         "stations": [
           "Armour Bench"
@@ -32541,6 +32844,10 @@ window.WILDS_STORAGE = [
               "value": "31 March 2026"
             },
             {
+              "label": "Versions",
+              "value": "Regular, Trimmed"
+            },
+            {
               "label": "Melee defence",
               "value": "+2"
             },
@@ -32588,7 +32895,7 @@ window.WILDS_STORAGE = [
               "desc": "You have a small chance to instantly finish chopping a tree."
             }
           ],
-          "description": "The Woodcutting cape is a Cape of Accomplishment able to be crafted and worn at level 99 Woodcutting. It can be crafted at the mystic forge.\n\nTrimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! Trees tell stories about you to their saplings. \"Fear the Tree Killer\".\n\nNow you have mastered the Woodcutting skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done.\n\nDouble congratulations! You have achieved a Woodcutting Cape with all the trimmings. Precious few can claim that distinction."
+          "description": "The Woodcutting cape is a Cape of Accomplishment able to be crafted and worn at level 99 Woodcutting, crafted at the mystic forge. Players have a 10% chance of instantaneously finish chopping a tree.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! Trees tell stories about you to their saplings. \"Fear the Tree Killer\".\n\nNow you have mastered the Woodcutting skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done.\n\nDouble congratulations! You have achieved a Woodcutting Cape with all the trimmings. Precious few can claim that distinction."
         },
         "stations": [
           "Mystic Forge"
@@ -32984,7 +33291,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Zamorak cape is a cape rewarded by Zanik after the completion of Biohazard. When worn by the player it gives the following special effect: \"Afterimage explodes and causes Burning when it expires\".\n\n(Journal)\nZamorak never came to Dowdun Reach. Its gates were never graced by the mahjarrat. No general came, or ambassador from the mainland. Even the ZMI failed to send an offshoot to the keep.\n\nHow was that possible? Chaos taught them that, by simple laws of averages, a high-ranking Zamorakian should have stumbled onto their shores. Ashenfall and Dowdun Reach was too much of an opportunity. Greed must have led a Zamorakian highborn here.\n\nThe silence was deafening. Everyone who lived or worked in the keep knew what this meant: Zamorak had barred his inner circle from visiting Ashenfall, likely at pain of death. How else could Dowdun Reach have been left alone for so long?\n\nBut why? Why did Zamorak keep Ashenfall at arm's length? The answers differed, depending on the zeal of the follower. Zamorak feared something on Ashenfall. Zamorak knew that something made it worthless. Zamorak was already here, just without Dowdun's knowing. Zamorak is in all of us.\n\nRemarkably, that mystery only strengthened the beliefs of Dowdun's Zamorakians. By being so contemptible to Zamorak, they were utterly important. They were main characters in Zamorak's performance.\n\nIt suggests another reason why Zamorak might have left Ashenfall alone. Perhaps he wanted to show that nothing - not even his disdain - would soften his people's infatuation."
+          "description": "The Zamorak cape is a cape rewarded by Zanik after the completion of Biohazard. When worn by the player, casting the Afterimage spell will cause the burning debuff once it expires.\n\n(Journal)\nZamorak never came to Dowdun Reach. Its gates were never graced by the mahjarrat. No general came, or ambassador from the mainland. Even the ZMI failed to send an offshoot to the keep.\n\nHow was that possible? Chaos taught them that, by simple laws of averages, a high-ranking Zamorakian should have stumbled onto their shores. Ashenfall and Dowdun Reach was too much of an opportunity. Greed must have led a Zamorakian highborn here.\n\nThe silence was deafening. Everyone who lived or worked in the keep knew what this meant: Zamorak had barred his inner circle from visiting Ashenfall, likely at pain of death. How else could Dowdun Reach have been left alone for so long?\n\nBut why? Why did Zamorak keep Ashenfall at arm's length? The answers differed, depending on the zeal of the follower. Zamorak feared something on Ashenfall. Zamorak knew that something made it worthless. Zamorak was already here, just without Dowdun's knowing. Zamorak is in all of us.\n\nRemarkably, that mystery only strengthened the beliefs of Dowdun's Zamorakians. By being so contemptible to Zamorak, they were utterly important. They were main characters in Zamorak's performance.\n\nIt suggests another reason why Zamorak might have left Ashenfall alone. Perhaps he wanted to show that nothing - not even his disdain - would soften his people's infatuation."
         },
         "stations": [
           "Armour Bench"
@@ -33076,7 +33383,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The gyrhawk amulet is an amulet that can be crafted at a crafting table. While equipped, the amulet grants +100% Agility experience when walking or sprinting but consumes warped feathers.\n\nTo unlock the recipe, players must receive warped feathers in their inventory, found in reward packs after completing Agility courses.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
+          "description": "The gyrhawk amulet is an amulet that can be crafted at a crafting table. While equipped, the amulet grants +100% Agility experience when walking or sprinting but consumes warped feathers. To unlock the recipe, players must receive warped feathers in their inventory, found in reward packs after completing Agility courses. Note that wearing the gyrhawk amulet whilst completing an agility course will not use warped feathers.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
         },
         "stations": [
           "Crafting Table"
@@ -33445,7 +33752,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of defence is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases players' armour Value of all three damage types by 5 for each piece (head, torso, and legs).\n\n(Journal)\nNot everyone can wear armour when faced with the hordes of shambling undead. Children and the frail, become targets with little to protect them from gnashing teeth and jaws. In these scenarios magic becomes incredibly important, and these amulets delayed the deaths of countless lives.\n\nNot everyone was happy with such utilitarian approaches to survival, however. As the days drew on and resources grew scarce, empathy began to wane in the population of Emberwood. Amulets of defence were handed out to those determined to have the most need, but the criteria for that became a hot subject of contention.\n\nIt would be nice to imagine a world where everyone pulled together to defend against the undead, but human nature sadly shattered that dream. Still, while there would always be those who would attempt to steal the amulets from the needy, there were plenty more who would stand against them.\n\nThese amulets now carry an echo of those protectors, shielding its wearers from harm."
+          "description": "The amulet of defence is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases players' armour value of all three damage types by 5 for each piece (head, torso, and legs).\n\n(Journal)\nNot everyone can wear armour when faced with the hordes of shambling undead. Children and the frail, become targets with little to protect them from gnashing teeth and jaws. In these scenarios magic becomes incredibly important, and these amulets delayed the deaths of countless lives.\n\nNot everyone was happy with such utilitarian approaches to survival, however. As the days drew on and resources grew scarce, empathy began to wane in the population of Emberwood. Amulets of defence were handed out to those determined to have the most need, but the criteria for that became a hot subject of contention.\n\nIt would be nice to imagine a world where everyone pulled together to defend against the undead, but human nature sadly shattered that dream. Still, while there would always be those who would attempt to steal the amulets from the needy, there were plenty more who would stand against them.\n\nThese amulets now carry an echo of those protectors, shielding its wearers from harm."
         },
         "stations": [
           "Jeweler's Bench"
@@ -33533,7 +33840,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of glory is an amulet that boosts melee, magic, and ranged critical damage while also increasing defence. While worn, the amulet provides an additional +5 defence to all combat styles and 25% increase to magical attacks, melee attacks, and ranged critical damage.\n\nTo unlock the recipe, players must find and study the commemorative coin vestige.\n\n(Journal)\nPower, trapped in dragonstone crystal and worn around the neck, that is the essence of this amulet. The facets of the dragonstone refract and refine the enchantments cast upon the item, somehow creating a magical lattice of surprising strength.\n\nMany have tried to create variations of this theme, yet dragonstone proves too fragile a substance for practical use. Once someone attempted to make a dragonstone dagger, to see if they could turn it into a blade of glory, yet they could not find a sufficiently large stone that wasn't valuable enough to bankrupt a small nation.\n\nOne wizard attempted strange alchemical practices to try and forge a staff of pure dragonstone. Alas, not only did he fail to create such a stone, but the magical explosion that resulted from his hubris removed his lab, and all his research, from this plane of reality.\n\nIt's probably a good idea that no one attempted to duplicate his work."
+          "description": "The amulet of glory is an amulet that boosts melee, magic, and ranged critical damage while also increasing defence. While worn, the amulet provides an additional +5 defence to all combat styles and a 12% increase to critical damage for magic, melee, and ranged attacks.\n\nTo unlock the recipe, players must find and study the commemorative coin vestige.\n\n(Journal)\nPower, trapped in dragonstone crystal and worn around the neck, that is the essence of this amulet. The facets of the dragonstone refract and refine the enchantments cast upon the item, somehow creating a magical lattice of surprising strength.\n\nMany have tried to create variations of this theme, yet dragonstone proves too fragile a substance for practical use. Once someone attempted to make a dragonstone dagger, to see if they could turn it into a blade of glory, yet they could not find a sufficiently large stone that wasn't valuable enough to bankrupt a small nation.\n\nOne wizard attempted strange alchemical practices to try and forge a staff of pure dragonstone. Alas, not only did he fail to create such a stone, but the magical explosion that resulted from his hubris removed his lab, and all his research, from this plane of reality.\n\nIt's probably a good idea that no one attempted to duplicate his work."
         },
         "stations": [
           "Jeweler's Bench"
@@ -33719,7 +34026,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of strength is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases the player's melee damage with both one-handed and two-handed weapons by 12.5% each.\n\n(Journal)\nMight makes right, is the cry of every wannabe despot. Bandos in particular was very fond of this statement. This amulet upholds that notion and does its best to help make sure you are the most correct person around.\n\nIt imbues your muscles with body-aligned anima, the magic strengthening the sinew and fortifying your bones. It adds greater force to your swing that will crush your enemies before you.\n\nThe goblin general, Snotknucke, wore this amulet and attempted to hunt down Velgar. He believed that, with its magic, he could fell the beast in a single swing of his club. Snotknuckle was stronger, deadlier and more powerful than ever, but this did very little against the rock that Velgar dropped on his head."
+          "description": "The amulet of strength is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases the player's melee damage with both one-handed and two-handed weapons by 12.5% each. It will not increase unarmed damage.\n\n(Journal)\nMight makes right, is the cry of every wannabe despot. Bandos in particular was very fond of this statement. This amulet upholds that notion and does its best to help make sure you are the most correct person around.\n\nIt imbues your muscles with body-aligned anima, the magic strengthening the sinew and fortifying your bones. It adds greater force to your swing that will crush your enemies before you.\n\nThe goblin general, Snotknucke, wore this amulet and attempted to hunt down Velgar. He believed that, with its magic, he could fell the beast in a single swing of his club. Snotknuckle was stronger, deadlier and more powerful than ever, but this did very little against the rock that Velgar dropped on his head."
         },
         "stations": [
           "Jeweler's Bench"
@@ -35944,7 +36251,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The ring of life is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players automatic teleportation to their bed or bed roll upon reaching 10% health. Once that happens, the ring becomes broken, requiring 2 Vault Core to repair. The recipe is unlocked through Death's Exchange for 800 soul fragments.\n\n(Journal)\nHarold has a job for you and won’t let something as trivial as your expired mortality get in the way. This piece of enchanted jewellery is primed to go off when you’re about to land on Death’s list, whisking you away to safety before the scythe needs to be swung.\n\nThere are many sorcerers that have studied these rings for years, going slowly mad as they try to uncover the secrets of immortality. If they could just learn the methods by which this ring operates, they could extend their lives indefinitely.\n\nOnly one wizard ever actually learned this secret, but he forgot the method by which this ring works, for it teleports you at the moment of your death. As the ring does not stop the aging process, this unfortunate mage now spends his eternity in perpetual teleportation – hurled through the abyss, never to take form again."
+          "description": "The ring of life is a ring that can be crafted at a jeweler's bench. While equipped, the ring grants players automatic teleportation to their bed or bed roll upon reaching 10% health. Once that happens, the ring becomes broken, requiring 2 Vault Core to repair. The player can save the repair cost of 2 Vault Cores. by using magical mending upgrade requiring 90 Artisan on the ring. The recipe is unlocked through Death's Exchange for 800 soul fragments.\n\nThe ring is particularly useful playing in hard mode, as to not lose earned experience points in all skills when dying.\n\n*Note that the ring will currently save you from death no matter the amount of damage you take and will reduce your lifepoints to 1.\n\n(Journal)\nHarold has a job for you and won’t let something as trivial as your expired mortality get in the way. This piece of enchanted jewellery is primed to go off when you’re about to land on Death’s list, whisking you away to safety before the scythe needs to be swung.\n\nThere are many sorcerers that have studied these rings for years, going slowly mad as they try to uncover the secrets of immortality. If they could just learn the methods by which this ring operates, they could extend their lives indefinitely.\n\nOnly one wizard ever actually learned this secret, but he forgot the method by which this ring works, for it teleports you at the moment of your death. As the ring does not stop the aging process, this unfortunate mage now spends his eternity in perpetual teleportation – hurled through the abyss, never to take form again."
         },
         "stations": [
           "Jeweler's Bench"
@@ -36308,7 +36615,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "Grants a BONUS when gathering FISHING, MINING and WOODCUTTING resources in the world"
+              "value": "Whilst mining or woodcutting there is a chance to double the received resources"
             },
             {
               "label": "Carry weight",
@@ -36370,7 +36677,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The skills necklace is a trinket crafted at a jeweler's bench, and has a special effect of whilst fishing, mining, or woodcutting there is a chance to double the recieved resources.\n\n(Journal)\nNot all magic is focused on the obliteration of one’s enemies; though many would argue that’s where the fun lies. No, magic can also improve the rest of one’s life in similarly impressive ways.\n\nThis necklace, favoured by artisans, miners, lumberjacks and similar, is an example of such magic. The enchantment is simple, it enhances ones luck. When swinging at a rock, you have a higher chance of finding that weak seam. If cutting down a tree, the forces acting on your cuts make it easier to fell it. You are a little luckier in your endeavours and therefore get better results.\n\nIn the Wizard’s Tower this has caused no end of arguments. Luck, isn’t a thing. It’s not a law of creation, nor a principle on which the measured universe runs. Cause has Effect. Doing one action creates an outcome, a different action another. Luck, whilst popular with the layperson, isn’t something that can be measured or refined, it’s simply coincidence, nothing more.\n\nYet, this necklance proves that it must be a thing. Even though it can’t be. Therefore this little trinket has been the source of some of the longest, loudest and most violent debates for decades."
+          "description": "The skills necklace is a trinket crafted at a jeweler's bench after unlocking the inspiring insignia vestige. Its special effect includes a 25% chance to double the resources gained whilst mining or woodcutting.\n\n(Journal)\nNot all magic is focused on the obliteration of one’s enemies; though many would argue that’s where the fun lies. No, magic can also improve the rest of one’s life in similarly impressive ways.\n\nThis necklace, favoured by artisans, miners, lumberjacks and similar, is an example of such magic. The enchantment is simple, it enhances ones luck. When swinging at a rock, you have a higher chance of finding that weak seam. If cutting down a tree, the forces acting on your cuts make it easier to fell it. You are a little luckier in your endeavours and therefore get better results.\n\nIn the Wizard’s Tower this has caused no end of arguments. Luck, isn’t a thing. It’s not a law of creation, nor a principle on which the measured universe runs. Cause has Effect. Doing one action creates an outcome, a different action another. Luck, whilst popular with the layperson, isn’t something that can be measured or refined, it’s simply coincidence, nothing more.\n\nYet, this necklance proves that it must be a thing. Even though it can’t be. Therefore this little trinket has been the source of some of the longest, loudest and most violent debates for decades."
         },
         "stations": [
           "Jeweler's Bench"
@@ -37505,7 +37812,7 @@ window.WILDS_STORAGE = [
               "desc": "Grants RESISTANCE to SCORCH buildup"
             }
           ],
-          "description": "Cactus steak is a Power Level 5 consumable food item that provides 20 health and 20 sustenance when eaten. It can be cooked from cactus steak at either a campfire or grill. It requires Cooking level 50 to cook and 75 to not burn, otherwise creating Burnt Cactus Steak.\n\n(Journal)\nLook, not everyone gets to tuck into a redberry pie every night. Sometimes you have to make do, using the resources you have to hand. A cactus steak is very much 'making do': it's prickly to prepare, as you might expect, and tough to eat.\n\nIt's the kind of meal that makes a garou cub eyeroll and ask whether something other than cactus steak will be on the menu tomorrow. It doesn't matter that it's what nutritionists call a 'superfood', offering some alphabetical variety of vitamins. It's just not particularly exciting or flavoursome, and you might find your cubs making excuses to be elsewhere at dinnertime."
+          "description": "Cactus steak is a Power Level 5 consumable food item that provides 20 health and 20 sustenance when eaten. It can be cooked from cactus steak at either a campfire or grill. It requires Cooking level 50 to cook and 75 to not burn, otherwise creating burnt cactus Steak.\n\n(Journal)\nLook, not everyone gets to tuck into a redberry pie every night. Sometimes you have to make do, using the resources you have to hand. A cactus steak is very much 'making do': it's prickly to prepare, as you might expect, and tough to eat.\n\nIt's the kind of meal that makes a garou cub eyeroll and ask whether something other than cactus steak will be on the menu tomorrow. It doesn't matter that it's what nutritionists call a 'superfood', offering some alphabetical variety of vitamins. It's just not particularly exciting or flavoursome, and you might find your cubs making excuses to be elsewhere at dinnertime."
         },
         "stations": [
           "Campfire",
@@ -43043,7 +43350,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Dried peaches are a power level 1 food item made by cooking a peach at a campfire or grill. They provide 25 sustenance and 20 health when consumed."
+          "description": "Dried peaches are a power level 3 food item made by cooking a peach at a campfire or grill. They provide 25 sustenance and 20 health when consumed."
         },
         "stations": [
           "Campfire",
@@ -45978,7 +46285,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Fruit pie is a consumable food item that provides 90 health and 85 sustenance. It is made with dried redberries, dried dwellberries, and bread in a cooking range. Cadavaberries are required to be held to unlock the recipe.\n\n(Journal)\nGrannies everywhere are masters of this dish. Delicious fruits, a touch of sugar, some delightful pastry and that final ingredient - a dark blessing to ancient gods.\n\nOr love, that works too.\n\nWith the pact complete, these pies allow you those fond memories of comfort, hope and family. Something much needed out in the wilds of Ashenfall."
+          "description": "Fruit pie is a consumable food item that provides 90 health and 85 sustenance. It is made with dried redberries, dried dwellberries, and bread in a cooking range. Dried Cadavaberries are required to be held to unlock the recipe.\n\n(Journal)\nGrannies everywhere are masters of this dish. Delicious fruits, a touch of sugar, some delightful pastry and that final ingredient - a dark blessing to ancient gods.\n\nOr love, that works too.\n\nWith the pact complete, these pies allow you those fond memories of comfort, hope and family. Something much needed out in the wilds of Ashenfall."
         },
         "stations": [
           "Cooking Range"
@@ -66542,6 +66849,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Ground_Gypsum.png?87205",
               "station": "Grindstone"
+            },
+            {
+              "name": "Ultra Compost Bin",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost_Bin.png?19160",
+              "station": "Build Menu"
             }
           ],
           "sources": [
@@ -70110,7 +70423,7 @@ window.WILDS_STORAGE = [
               "skills": [
                 {
                   "name": "Artisan",
-                  "xp": 0.5
+                  "xp": 40
                 }
               ],
               "materials": [
@@ -73568,7 +73881,7 @@ window.WILDS_STORAGE = [
               "name": "Fuel Pellet",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c",
-              "station": "Blacksmith Bench"
+              "station": "Blacksmith's Bench"
             },
             {
               "name": "Focused Mining Potion",
@@ -77072,9 +77385,9 @@ window.WILDS_STORAGE = [
               "station": "Blacksmith's Bench"
             },
             {
-              "name": "Scarecrow",
+              "name": "Scarecrow (decoration)",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Scarecrow.png?833ac",
+              "img": "https://dragonwilds.runescape.wiki/images/Scarecrow_%28decoration%29.png?833ac",
               "station": "Build Menu"
             },
             {
@@ -78869,7 +79182,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Abyssal spines are dropped from killing the abyssal demon and are a key material for players wishing to craft the abyssal whip. Players will need to bring this abyssal spine to a Dragonkin effigy at the Kletterbuja Kara vault in Bloodblight Swamp to receive the recipe to create the abyssal whip.\n\n(Journal)\nThe spinal column of an abyssal demon. A monstrous creature from between the gaps in reality. It pulses with hatred, and you’re convinced it wriggles occasionally."
+          "description": "Abyssal spines are dropped from killing the abyssal demon and are a key material for players wishing to craft the abysmal whip.\n\n(Journal)\nThe spinal column of an abyssal demon. A monstrous creature from between the gaps in reality. It pulses with hatred, and you’re convinced it wriggles occasionally."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -84920,9 +85233,9 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Scarecrow",
+              "name": "Scarecrow (decoration)",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Scarecrow.png?833ac",
+              "img": "https://dragonwilds.runescape.wiki/images/Scarecrow_%28decoration%29.png?833ac",
               "station": "Build Menu"
             },
             {
@@ -85688,7 +86001,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Maple logs are obtained by chopping down maple trees, with a mithril logging axe or better.\n\n(Journal)\nMaple is a versatile tree. It's a formidable material, making some of the finest fishing rods, staves and bows. Its sap is also a glorious thing, capable of being made into nature's nectar: maple syrup.\n\nIts leaf is also smooth and large enough that it can be folded over numerous times, which makes it useful if you're caught short in the forest. Which, we should add, is not, and will not be, a consideration for you. It is extremely unlikely that a \"being caught short\" hunger-like bar will be added for you to maintain. Realism can be pushed too far."
+          "description": "Maple logs are obtained by chopping down maple trees, with a mithril logging axe or better. It can now be used to make super compost!\n\n(Journal)\nMaple is a versatile tree. It's a formidable material, making some of the finest fishing rods, staves and bows. Its sap is also a glorious thing, capable of being made into nature's nectar: maple syrup.\n\nIts leaf is also smooth and large enough that it can be folded over numerous times, which makes it useful if you're caught short in the forest. Which, we should add, is not, and will not be, a consideration for you. It is extremely unlikely that a \"being caught short\" hunger-like bar will be added for you to maintain. Realism can be pushed too far."
         },
         "step": 3
       },
@@ -85849,6 +86162,18 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Umbral_Vulture_Perch.png?655da",
               "station": "Build Menu"
+            },
+            {
+              "name": "Ultra Compost Bin",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost_Bin.png?19160",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Large Compost Bucket",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Large_Compost_Bucket.png?40236",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -89775,7 +90100,7 @@ window.WILDS_STORAGE = [
               "name": "Fuel Pellet",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c",
-              "station": "Blacksmith Bench"
+              "station": "Blacksmith's Bench"
             },
             {
               "name": "Iron Chest",
@@ -90059,7 +90384,7 @@ window.WILDS_STORAGE = [
               "name": "Fuel Pellet",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c",
-              "station": "Blacksmith Bench"
+              "station": "Blacksmith's Bench"
             }
           ],
           "sources": [
@@ -91156,7 +91481,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Naptha is an item that is unlocked at level 45 Ranged, where players can use naptha to create fire oil. It is also dropped by dragon wolves.\n\n(Journal)\nDistilled from swamp tar and charcoal.\n\nOnce known as “thick water”, naptha is liquid fire in waiting. It takes little to bring this substance to ignition, even too bright a sunny day can bring the raging flame from within.\n\nAs such, this material is widely sought by anyone with a strong desire to set things aflame. Pyromaniacs, alchemists and dragon cultists alike yearn for this liquid."
+          "description": "Naptha is an item that is unlocked at level 45 Ranged, where players can use naptha to create fire oil. It is also dropped by dragon wolves and carnivorous chinchompas.\n\n(Journal)\nDistilled from swamp tar and charcoal.\n\nOnce known as “thick water”, naptha is liquid fire in waiting. It takes little to bring this substance to ignition, even too bright a sunny day can bring the raging flame from within.\n\nAs such, this material is widely sought by anyone with a strong desire to set things aflame. Pyromaniacs, alchemists and dragon cultists alike yearn for this liquid."
         },
         "stations": [
           "Brewing Cauldron"
@@ -92058,6 +92383,18 @@ window.WILDS_STORAGE = [
               "name": "Seared Cactus Steak",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Seared_Cactus_Steak.png?42af6",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Cactus Steak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Cactus_Steak.png?367d6",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Cactus Steak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Cactus_Steak.png?367d6",
               "station": "Grill"
             }
           ],
@@ -93135,7 +93472,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Kwuarm is a herb that must be farmed using kwuarm seeds found in Goblin, Garou, or skeleton packs.\n\n(Journal)\nThis herb has travelled far to deliver its malicious benefits to the people of Ashenfall. Its name, in Dwarvish, means “warm death” since it causes a terrible burning fever if the sap is consumed.\n\nWhen crushed down to release its sap and oils, this herb is a requirement in some of the deadliest and most dangerous poisonous mixtures."
+          "description": "Kwuarm is a herb that must be farmed using kwuarm seeds found in Garou or skeleton packs.\n\n(Journal)\nThis herb has travelled far to deliver its malicious benefits to the people of Ashenfall. Its name, in Dwarvish, means “warm death” since it causes a terrible burning fever if the sap is consumed.\n\nWhen crushed down to release its sap and oils, this herb is a requirement in some of the deadliest and most dangerous poisonous mixtures."
         },
         "stations": [
           "Brewing Cauldron"
@@ -93236,10 +93573,16 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [],
-          "sources": [],
+          "sources": [
+            {
+              "source": "Magic Tree",
+              "qty": "1",
+              "rarity": "Unknown"
+            }
+          ],
           "shops": [],
           "perks": [],
-          "description": "A magic tree seed is an unreleased type of seed, intended for use with the Farming skill to grow a magic tree.\n\nWhile the seed exists within the game files, it is currently unobtainable in-game through normal gameplay. It is expected to drop from magic trees with the 1.0.1 update."
+          "description": "A magic tree seed is a Power level 1 seed, used with the Farming skill to grow a magic tree."
         },
         "step": 0
       },
@@ -94865,9 +95208,9 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
-              "name": "Scarecrow",
+              "name": "Scarecrow (decoration)",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Scarecrow.png?833ac",
+              "img": "https://dragonwilds.runescape.wiki/images/Scarecrow_%28decoration%29.png?833ac",
               "station": "Build Menu"
             },
             {
@@ -95129,9 +95472,9 @@ window.WILDS_STORAGE = [
               "station": "Grindstone"
             },
             {
-              "name": "Scarecrow",
+              "name": "Scarecrow (decoration)",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Scarecrow.png?833ac",
+              "img": "https://dragonwilds.runescape.wiki/images/Scarecrow_%28decoration%29.png?833ac",
               "station": "Build Menu"
             },
             {
@@ -95365,7 +95708,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Logging axe"
             },
             {
               "label": "Base damage",
@@ -95463,7 +95806,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Main Hand"
+              "value": "Pickaxe"
             },
             {
               "label": "Base damage",
@@ -95557,7 +95900,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Logging axe"
             },
             {
               "label": "Base damage",
@@ -95660,7 +96003,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Pickaxe"
             },
             {
               "label": "Base damage",
@@ -95906,7 +96249,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Logging axe"
             },
             {
               "label": "Base damage",
@@ -96016,7 +96359,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Pickaxe"
             },
             {
               "label": "Base damage",
@@ -96185,7 +96528,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Logging axe"
             },
             {
               "label": "Base damage",
@@ -96194,6 +96537,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "52"
+            },
+            {
+              "label": "Special action",
+              "value": "Overhead Chop"
             },
             {
               "label": "Durability",
@@ -96284,7 +96631,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Pickaxe"
             },
             {
               "label": "Base damage",
@@ -96535,7 +96882,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Logging axe"
             },
             {
               "label": "Base damage",
@@ -96544,6 +96891,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "59"
+            },
+            {
+              "label": "Special action",
+              "value": "Overhead Chop"
             },
             {
               "label": "Durability",
@@ -96633,8 +96984,16 @@ window.WILDS_STORAGE = [
               "value": "Crush"
             },
             {
+              "label": "Attack style",
+              "value": "Pickaxe"
+            },
+            {
               "label": "Base damage",
               "value": "82"
+            },
+            {
+              "label": "Attack combo",
+              "value": "1"
             },
             {
               "label": "Block",
@@ -96729,7 +97088,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "2-Handed Weapon"
+              "value": "Logging axe"
             },
             {
               "label": "Base damage",
@@ -96738,6 +97097,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Block",
               "value": "66"
+            },
+            {
+              "label": "Special action",
+              "value": "Overhead Chop"
             },
             {
               "label": "Durability",
@@ -96825,6 +97188,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Damage type",
               "value": "Crush"
+            },
+            {
+              "label": "Attack style",
+              "value": "Pickaxe"
             },
             {
               "label": "Base damage",
@@ -97052,7 +97419,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The adamant watering can is a tool created at the blacksmith's bench. It is used to hydrate farming plots and has a capacity of 350 units.\n\nThe can may be filled with either dirty water or clean water, but not both at the same time. When the can is filled, it may not be filled with the opposite type until it is emptied. Players can empty the can at any time and fill it with a different water type. To fill the can, the can must be filled at a water source. Players cannot use the physical items dirty water or clean water to fill the can.\n\nAlong with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel.\n\nFully hydrating a farming plot requires 50 units of water.\n\n(Journal)\nWhen you stop to think about it, a watering can is an odd item. It's a rain-delayer. You're holding back a little rain for times when there isn't rain. It's kept in an adamant holding-cell until that moment that it's allowed to run free, when it gets a short moment of elation before being sucked up the roots of a plant.\n\nThat's weird, right? Or it just us? It's just us, isn't it. Ah darn it."
+          "description": "The adamant watering can is a tool created at the blacksmith's bench. It hydrates farming plots and has a capacity of 350 units.\n\nThe can may be filled with either dirty water or clean water, but not both at once. Once filled, the can cannot be filled with the opposite type until it is emptied. Players can empty the can at any time and fill it with a different water type. To fill the can, players must fill the can at a water source. Players cannot use the physical items dirty water or clean water to fill the can.\n\nAlong with bodies of water, players may fill the can at the rain catcher, well, water barrel, or large water barrel.\n\nFully hydrating a farming plot requires 50 units of water.\n\nNOTE: This watering can distributes 40 units of water per use. Since a plot only requires 50 units of water to be fully watered, you essentially waste 30 units of water per plot if watering manually. The best use case for this can is with the Humidify spell, since it holds more total water.\n\n(Journal)\nWhen you stop to think about it, a watering can is an odd item. It's a rain-delayer. You're holding back a little rain for times when there isn't rain. It's kept in an adamant holding-cell until that moment that it's allowed to run free, when it gets a short moment of elation before being sucked up the roots of a plant.\n\nThat's weird, right? Or it just us? It's just us, isn't it. Ah darn it."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -97083,6 +97450,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Damage type",
               "value": "Slash"
+            },
+            {
+              "label": "Attack style",
+              "value": "Logging axe"
             },
             {
               "label": "Base damage",
@@ -97186,6 +97557,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Damage type",
               "value": "Crush"
+            },
+            {
+              "label": "Attack style",
+              "value": "Pickaxe"
             },
             {
               "label": "Base damage",
@@ -97754,7 +98129,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Attack style",
-              "value": "Main Hand"
+              "value": "Pickaxe"
             },
             {
               "label": "Base damage",
@@ -97941,7 +98316,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The compost bucket is a tool created at the crafting table. Level 10 Farming is required to unlock the recipe. It can be used to take out compost and super compost from the compost bin and super compost bin, respectively, at a maximum of 150 units per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost or super compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Mrsno full stop Hyacinth, to help her around the farm. They had buckets back on the human homeworld of Teragard, of course, but she hadn’t brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Mrs Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Mrs Hyacinth needed something to help with the clear upmisspelled cleanup.\n\nShe used local twigs, at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie’s endeavours.\n\nNow, you too can fill one of these marvelous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
+          "description": "The compost bucket is a tool created at the crafting table. Level 10 Farming is required to unlock the recipe. It can be used to take out compost, super compost, and ultra compost from the compost bin, super compost bin, and ultra compost bin, respectively. A maximum of 150 units can be collected per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost or super compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Mrsno full stop Hyacinth, to help her around the farm. They had buckets back on the human homeworld of Teragard, of course, but she hadn’t brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Mrs Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Mrs Hyacinth needed something to help with the clear upmisspelled cleanup.\n\nShe used local twigs, at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie’s endeavours.\n\nNow, you too can fill one of these marvelous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
         },
         "stations": [
           "Crafting Table"
@@ -100412,10 +100787,6 @@ window.WILDS_STORAGE = [
               "value": "14-34"
             },
             {
-              "label": "Damage multiplier",
-              "value": "1.4"
-            },
-            {
               "label": "Special effect",
               "value": "Bleed"
             },
@@ -100483,7 +100854,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -100591,10 +100962,6 @@ window.WILDS_STORAGE = [
               "value": "14-34"
             },
             {
-              "label": "Damage multiplier",
-              "value": "1.4"
-            },
-            {
               "label": "Special effect",
               "value": "Burning"
             },
@@ -100662,7 +101029,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -100679,6 +101046,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "25"
+            },
+            {
+              "label": "Special effect",
+              "value": "Chance to summon a lightning strike around your target, dealing Air Magic Damage to all nearby enemies."
             },
             {
               "label": "Weight",
@@ -100773,10 +101144,6 @@ window.WILDS_STORAGE = [
               "value": "14-34"
             },
             {
-              "label": "Damage multiplier",
-              "value": "1.4"
-            },
-            {
               "label": "Special effect",
               "value": "Poison"
             },
@@ -100844,7 +101211,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -100861,6 +101228,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "36"
+            },
+            {
+              "label": "Special effect",
+              "value": "Chance of dealing Water magic damage and slowing your target."
             },
             {
               "label": "Weight",
@@ -101061,10 +101432,6 @@ window.WILDS_STORAGE = [
               "value": "20-48"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.0"
-            },
-            {
               "label": "Special effect",
               "value": "Bleed"
             },
@@ -101132,7 +101499,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -101240,10 +101607,6 @@ window.WILDS_STORAGE = [
               "value": "20-48"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.0"
-            },
-            {
               "label": "Special effect",
               "value": "Burning"
             },
@@ -101330,10 +101693,6 @@ window.WILDS_STORAGE = [
               "value": "20-48"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.0"
-            },
-            {
               "label": "Special effect",
               "value": "Poison"
             },
@@ -101407,7 +101766,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -101424,6 +101783,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "49"
+            },
+            {
+              "label": "Special effect",
+              "value": "Chance to create a necrotic bolt that heals you for a porportion of the damage dealt."
             },
             {
               "label": "Weight",
@@ -101518,10 +101881,6 @@ window.WILDS_STORAGE = [
               "value": "27-65"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.7"
-            },
-            {
               "label": "Special effect",
               "value": "Poison"
             },
@@ -101606,10 +101965,6 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "27-65"
-            },
-            {
-              "label": "Damage multiplier",
-              "value": "2.7"
             },
             {
               "label": "Weight",
@@ -101724,10 +102079,6 @@ window.WILDS_STORAGE = [
               "value": "27-65"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.7"
-            },
-            {
               "label": "Special effect",
               "value": "Bleed"
             },
@@ -101795,7 +102146,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -101903,10 +102254,6 @@ window.WILDS_STORAGE = [
               "value": "27-65"
             },
             {
-              "label": "Damage multiplier",
-              "value": "2.7"
-            },
-            {
               "label": "Special effect",
               "value": "Burning"
             },
@@ -101974,7 +102321,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -101991,6 +102338,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "61"
+            },
+            {
+              "label": "Special effect",
+              "value": "Chance to create a toxic burst, poisoning all nearby enemies."
             },
             {
               "label": "Weight",
@@ -102083,10 +102434,6 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "34-82"
-            },
-            {
-              "label": "Damage multiplier",
-              "value": "3.4"
             },
             {
               "label": "Weight",
@@ -102195,10 +102542,6 @@ window.WILDS_STORAGE = [
               "value": "34-82"
             },
             {
-              "label": "Damage multiplier",
-              "value": "3.4"
-            },
-            {
               "label": "Special effect",
               "value": "Bleed"
             },
@@ -102266,7 +102609,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -102374,10 +102717,6 @@ window.WILDS_STORAGE = [
               "value": "34-82"
             },
             {
-              "label": "Damage multiplier",
-              "value": "3.4"
-            },
-            {
               "label": "Special effect",
               "value": "Burning"
             },
@@ -102464,10 +102803,6 @@ window.WILDS_STORAGE = [
               "value": "34-82"
             },
             {
-              "label": "Damage multiplier",
-              "value": "3.4"
-            },
-            {
               "label": "Special effect",
               "value": "Poison"
             },
@@ -102552,10 +102887,6 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "42-101"
-            },
-            {
-              "label": "Damage multiplier",
-              "value": "4.2"
             },
             {
               "label": "Weight",
@@ -102664,10 +102995,6 @@ window.WILDS_STORAGE = [
               "value": "42-101"
             },
             {
-              "label": "Damage multiplier",
-              "value": "4.2"
-            },
-            {
               "label": "Special effect",
               "value": "Bleed"
             },
@@ -102735,7 +103062,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -102843,10 +103170,6 @@ window.WILDS_STORAGE = [
               "value": "42-101"
             },
             {
-              "label": "Damage multiplier",
-              "value": "4.2"
-            },
-            {
               "label": "Special effect",
               "value": "Burning"
             },
@@ -102914,7 +103237,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -102931,6 +103254,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "76"
+            },
+            {
+              "label": "Special effect",
+              "value": "Drains some of the archers health to increase the bolts damage."
             },
             {
               "label": "Weight",
@@ -103025,10 +103352,6 @@ window.WILDS_STORAGE = [
               "value": "42-101"
             },
             {
-              "label": "Damage multiplier",
-              "value": "4.2"
-            },
-            {
               "label": "Special effect",
               "value": "Poison"
             },
@@ -103096,7 +103419,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -103112,7 +103435,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "76"
+              "value": "88"
+            },
+            {
+              "label": "Special effect",
+              "value": "Chance to pierce through several enemies at once."
             },
             {
               "label": "Weight",
@@ -103207,10 +103534,6 @@ window.WILDS_STORAGE = [
               "value": "42-101"
             },
             {
-              "label": "Damage multiplier",
-              "value": "4.2"
-            },
-            {
               "label": "Special effect",
               "value": "Poison"
             },
@@ -103295,10 +103618,6 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "42-101"
-            },
-            {
-              "label": "Damage multiplier",
-              "value": "4.2"
             },
             {
               "label": "Weight",
@@ -103407,10 +103726,6 @@ window.WILDS_STORAGE = [
               "value": "42-101"
             },
             {
-              "label": "Damage multiplier",
-              "value": "4.2"
-            },
-            {
               "label": "Special effect",
               "value": "Bleed"
             },
@@ -103478,7 +103793,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -103494,7 +103809,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "76"
+              "value": "88"
             },
             {
               "label": "Weight",
@@ -103586,10 +103901,6 @@ window.WILDS_STORAGE = [
               "value": "42-101"
             },
             {
-              "label": "Damage multiplier",
-              "value": "4.2"
-            },
-            {
               "label": "Special effect",
               "value": "Burning"
             },
@@ -103657,7 +103968,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -103746,7 +104057,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -103765,8 +104076,8 @@ window.WILDS_STORAGE = [
               "value": "0"
             },
             {
-              "label": "Special action",
-              "value": "HITS cause BLEED build up on targets"
+              "label": "Special effect",
+              "value": "* Can only be fired from the Dorgeshuun Crossbow * HITS cause BLEED build up on targets"
             },
             {
               "label": "Weight",
@@ -103827,7 +104138,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Ammo"
+              "value": "Bolt"
             },
             {
               "label": "Power level",
@@ -103844,6 +104155,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Base damage",
               "value": "32"
+            },
+            {
+              "label": "Special effect",
+              "value": "Chance of dealing Earth magic damage and knocking your target down."
             },
             {
               "label": "Weight",
@@ -104044,6 +104359,10 @@ window.WILDS_STORAGE = [
               "value": "11"
             },
             {
+              "label": "Special effect",
+              "value": "Not currently in game"
+            },
+            {
               "label": "Weight",
               "value": "0.0 kg"
             },
@@ -104126,6 +104445,10 @@ window.WILDS_STORAGE = [
               "value": "11"
             },
             {
+              "label": "Special effect",
+              "value": "Not currently in game"
+            },
+            {
               "label": "Weight",
               "value": "0.0 kg"
             },
@@ -104204,12 +104527,16 @@ window.WILDS_STORAGE = [
               "value": "Arrow"
             },
             {
+              "label": "Base damage",
+              "value": "10-24"
+            },
+            {
               "label": "Additional damage",
               "value": "8-17"
             },
             {
-              "label": "Damage multiplier",
-              "value": "1.0"
+              "label": "Special effect",
+              "value": "Poison"
             },
             {
               "label": "Weight",
@@ -105803,12 +106130,12 @@ window.WILDS_STORAGE = [
             {
               "source": "Red Dragon",
               "qty": "1",
-              "rarity": "1/40"
+              "rarity": "Rare"
             }
           ],
           "shops": [],
           "perks": [],
-          "description": "The commemorative coin is a vestige that unlocks the recipe for the amulet of glory. It can be received as a drop by red dragon in Umbral Sands."
+          "description": "The commemorative coin is a vestige that unlocks the recipe for the amulet of glory. It can be received as a drop from red dragon's in Umbral Sands."
         },
         "step": 0
       },
@@ -106778,7 +107105,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Quest Item"
+              "value": "Basic Material"
             },
             {
               "label": "Released",
@@ -106959,7 +107286,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Red Dragon",
               "qty": "1",
-              "rarity": "1/40"
+              "rarity": "Rare"
             }
           ],
           "shops": [],
@@ -107581,6 +107908,18 @@ window.WILDS_STORAGE = [
             {
               "label": "Released",
               "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Perhaps you could learn from it."
             }
           ],
           "recipes": [],
@@ -107594,7 +107933,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Ornate Golden Scarab is a drop from the Kalphite Queen, but was mistakenly added to the game."
+          "description": "Ornate Golden Scarab is a vestige drop from the Kalphite Queen, and can create the Master's Staff after studying this vestige."
         },
         "step": 0
       },
@@ -108290,17 +108629,17 @@ window.WILDS_STORAGE = [
             {
               "source": "Zogre",
               "qty": "1",
-              "rarity": "1/10"
+              "rarity": "Rare"
             },
             {
               "source": "Ulgo the Zogre",
               "qty": "1",
-              "rarity": "1/6.7"
+              "rarity": "Rare"
             }
           ],
           "shops": [],
           "perks": [],
-          "description": "The shard of smoky glass is a vestige that players can consume, receiving the recipe to create the shadow sword. It should be noted that only Zogres found within Fellhollow are able to drop this item."
+          "description": "The shard of smoky glass is a vestige that players can consume, receiving the recipe to create the shadow sword. Only Zogres found within Fellhollow are able to drop this item."
         },
         "step": 0
       },
@@ -110051,9 +110390,9 @@ window.WILDS_STORAGE = [
               ],
               "materials": [
                 {
-                  "name": "Ascension Shard (Power Level 8)",
+                  "name": "Ascension Shard (Power Level 7)",
                   "qty": 99,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_8%29.png?a9a45"
+                  "img": "https://dragonwilds.runescape.wiki/images/Ascension_Shard_%28Power_Level_7%29.png?fc950"
                 },
                 {
                   "name": "Rune Bar",
@@ -110083,7 +110422,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands. For most cores, players can gain core shards by killing mini-bosses (such as red dragons, green dragons, and blue dragons).\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible.\n\n(Journal)\nImagine, if you will, what you could do if you could harness your dreams. If you could take an ideal, refine it and reforge it using the power of the imagination. Such a technology is terrifying in its potential, and Avisk was the first to explore its possibilities.\n\nThis core is a part of the nightmare, refined and reforged over and over again, then condescended into a singularity and sealed within dragonkin technology. It is a mote of potential, waiting to be released.\n\nThe technology is limited for now. Avisk was only able to use it to improve his existing equipment, as well as to empower the beasts he trapped in the nightmare dreamscape. Fortunately, limited as it might be, you should find this technology particularly useful, as it will allow you upgrade and improve some of your more unique equipment, such as masterwork gear."
+          "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands. For most cores, players can gain core shards by killing mini-bosses (such as red dragons, green dragons, and blue dragons).\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible.\n\nBug: After upgrading an item with a core, there is a visual bug where the stats will appear not to increase.\n\n(Journal)\nImagine, if you will, what you could do if you could harness your dreams. If you could take an ideal, refine it and reforge it using the power of the imagination. Such a technology is terrifying in its potential, and Avisk was the first to explore its possibilities.\n\nThis core is a part of the nightmare, refined and reforged over and over again, then condescended into a singularity and sealed within dragonkin technology. It is a mote of potential, waiting to be released.\n\nThe technology is limited for now. Avisk was only able to use it to improve his existing equipment, as well as to empower the beasts he trapped in the nightmare dreamscape. Fortunately, limited as it might be, you should find this technology particularly useful, as it will allow you upgrade and improve some of your more unique equipment, such as masterwork gear."
         },
         "stations": [
           "Mystic Forge"
@@ -110125,7 +110464,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "step": 0
       },
@@ -110187,7 +110526,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "stations": [
           "Mystic Forge"
@@ -110262,7 +110601,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "stations": [
           "Mystic Forge"
@@ -110337,7 +110676,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "stations": [
           "Mystic Forge"
@@ -110375,28 +110714,23 @@ window.WILDS_STORAGE = [
             }
           ],
           "recipes": [],
-          "usedIn": [
-            {
-              "name": "Ascension Core",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ascension_Core_%28Power_Level_8%29.png?d7f13",
-              "station": "Mystic Forge"
-            }
-          ],
+          "usedIn": [],
           "sources": [
             {
               "source": "Black Dragon",
               "qty": "8-12",
               "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "8-12",
+              "rarity": "Rare"
             }
           ],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no Ascension shard 7, as it is earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
-        "stations": [
-          "Mystic Forge"
-        ],
         "step": 0
       },
       {
@@ -110810,7 +111144,13 @@ window.WILDS_STORAGE = [
               "station": "Armour Bench"
             }
           ],
-          "sources": [],
+          "sources": [
+            {
+              "source": "Artifact Salvage",
+              "qty": "1",
+              "rarity": "20/100"
+            }
+          ],
           "shops": [
             {
               "seller": "Iasadair - The Merchant",
@@ -111427,7 +111767,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Mystic Forge",
-    "count": 42,
+    "count": 41,
     "members": [
       "Mystic Forge"
     ],

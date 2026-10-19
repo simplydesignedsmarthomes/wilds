@@ -55,7 +55,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A -- . ':!.research/_ci_result.json' ':!.research/_audit_run.json'
+          rm -f .research/_ci_result.json .research/_audit_run.json && git add -A .
           printf 'Auto-refresh from a Dragonwilds update\n\n%s\n' "$SUMMARY" > /tmp/commit-msg.txt
           git commit -F /tmp/commit-msg.txt
           git push origin HEAD:main
@@ -70,7 +70,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           branch="auto-update/$(date +%Y%m%d-%H%M%S)"
           git checkout -b "$branch"
-          git add -A -- . ':!.research/_ci_result.json' ':!.research/_audit_run.json'
+          rm -f .research/_ci_result.json .research/_audit_run.json && git add -A .
           git commit -m "Dragonwilds update needs a quick look before it ships"
           git push origin "$branch"
           {

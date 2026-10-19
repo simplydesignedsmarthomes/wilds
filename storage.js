@@ -39312,6 +39312,94 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Burnt Cactus Steak",
+        "img": "https://dragonwilds.runescape.wiki/images/Burnt_Cactus_Steak.png?367d6",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.2 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Too well done, but still edible."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Campfire",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Cactus Steak",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Steak.png?bb45a"
+                }
+              ],
+              "output": {
+                "name": "Burnt Cactus Steak",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Burnt_Cactus_Steak.png?367d6"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Grill",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Cactus Steak",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Steak.png?bb45a"
+                }
+              ],
+              "output": {
+                "name": "Burnt Cactus Steak",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Burnt_Cactus_Steak.png?367d6"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A Burnt Cactus Steak is a burnt version of the seared cactus steak, giving players 20 soulscourge when eaten."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
         "name": "Burnt Cadavaberries",
         "img": "https://dragonwilds.runescape.wiki/images/Burnt_Cadavaberries.png?c9e8f",
         "tier": "",
@@ -93542,6 +93630,67 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Large Compost Bucket",
+        "img": "https://dragonwilds.runescape.wiki/images/Large_Compost_Bucket.png?40236",
+        "tier": "",
+        "tierRank": null,
+        "chest": "farming",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "14 October 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "6.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "An upgraded wooden bucket with room for extra Compost. Fewer trips, more fertilizing - just try not to strain your back! Pour its contents over a Farming Plot to Fertilize your plants."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Crafting Table",
+              "skills": [
+                {
+                  "name": "Farming",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Yew Logs",
+                  "qty": 5,
+                  "img": "https://dragonwilds.runescape.wiki/images/Yew_Logs.png?29d27"
+                }
+              ],
+              "output": {
+                "name": "Large Compost Bucket",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Large_Compost_Bucket.png?40236"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The large compost bucket is a tool created at the crafting table. Level 65 Farming is required to unlock the recipe. It can be used to take out compost, super compost and ultra compost from the compost bin, super compost bin and ultra compost bin, respectively, at a maximum of 300 units per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost, super compost or ultra compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Ms Hyacinth, to help her around the farm. They had buckets back in the human homeworld of Teragard, of course, but she hadn't brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Ms Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Ms Hyacinth needed something to help with the clean-up.\n\nShe used local twigs at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie's endeavours.\n\nNow, you too can fill one of these marvellous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
+        },
+        "stations": [
+          "Crafting Table"
+        ],
+        "step": 0
+      },
+      {
         "name": "Magic Tree Seed",
         "img": "https://dragonwilds.runescape.wiki/images/Magic_Tree_Seed.png?b7b75",
         "tier": "",
@@ -95168,6 +95317,37 @@ window.WILDS_STORAGE = [
           "shops": [],
           "perks": [],
           "description": "Tomato seeds are a type of Ghornfell seed, used in the Farming skill.\n\n(Journal)\nUnlock the plant that causes the most arguments amongst the truly bored, the humble tomato. Is it a fruit? A vegetable? A plague on sandwiches everywhere? Well, now you can start these arguments wherever you like, by planting one of these beauties in a fresh farming patch."
+        },
+        "step": 0
+      },
+      {
+        "name": "Ultra Compost",
+        "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+        "tier": "",
+        "tierRank": null,
+        "chest": "farming",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "14 October 2026"
+            },
+            {
+              "label": "Description",
+              "value": "Fertilizing a plot with this is beneficial to its yield. Like, suspiciously beneficial. Wow!"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Ultra compost is an item made at the ultra compost bin at a rate of 10 units per item composted, which can be gathered and used via the compost bucket. Applying ultra compost to a patch provides 50 Farming experience, decreases the disease chance to 12.5%, and multiplies the yield by 2.5."
         },
         "step": 0
       },
@@ -107434,6 +107614,99 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Missing Letter",
+        "img": "https://dragonwilds.runescape.wiki/images/Missing_Letter.png?633df",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 January 2026"
+            },
+            {
+              "label": "Versions",
+              "value": "Withered Village, Standing Stones, Imaru's Tower"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Deliver to: Withered Village - Bleakfields Valley - Fellhollow"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Missing Letters are quest items in the quest, Letters for the Dead, where players need to collect these throughout Fellhollow."
+        },
+        "step": 0
+      },
+      {
+        "name": "Moonstone (item)",
+        "img": "https://dragonwilds.runescape.wiki/images/Moonstone_%28item%29.png?76515",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A glittering gemstone, desired by a merchant in the Alcarrid garou settlement."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Gypsum Node",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Moonstone (scenery)",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Moonstone is a quest item found after mining moonstone rocks in Umbral Sands. Players will need to hand three of these to Domri - The Merchant to complete the rogue trader section of Icthlarin's Little Helper."
+        },
+        "step": 0
+      },
+      {
         "name": "Moth Eaten Black Cloth",
         "img": "https://dragonwilds.runescape.wiki/images/Moth_Eaten_Black_Cloth.png?2bf82",
         "tier": "",
@@ -111719,7 +111992,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Crafting Table",
-    "count": 85,
+    "count": 86,
     "members": [
       "Crafting Table"
     ],
@@ -111727,7 +112000,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Grill",
-    "count": 84,
+    "count": 85,
     "members": [
       "Grill"
     ],
@@ -111735,7 +112008,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Campfire",
-    "count": 83,
+    "count": 84,
     "members": [
       "Campfire"
     ],

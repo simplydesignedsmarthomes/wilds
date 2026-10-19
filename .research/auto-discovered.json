@@ -6,5 +6,45 @@
   "tierRank": null,
   "chest": "armour",
   "note": ""
+ },
+ {
+  "name": "Burnt Cactus Steak",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "food",
+  "note": ""
+ },
+ {
+  "name": "Large Compost Bucket",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "farming",
+  "note": ""
+ },
+ {
+  "name": "Missing Letter",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Moonstone (item)",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Ultra Compost",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "farming",
+  "note": ""
  }
 ]

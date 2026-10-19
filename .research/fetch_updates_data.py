@@ -43,30 +43,39 @@ def get(params):
 
 def list_update_pages(limit):
     """Newest-first Update: namespace pages, via recent-changes (cheap, one
-    call per 500) rather than allpages (which isn't date-ordered)."""
-    titles, cont, seen = [], {}, set()
-    while len(titles) < limit:
+    call per 500) rather than allpages (which isn't date-ordered). Returns
+    page IDs, not titles - a post can get renamed after it's first created
+    (seen in the wild: "Eye on Ashenfall 0 1.0.0" -> "Eye on Ashenfall -
+    1.0.1 Update", with the old title left behind as a redirect, sometimes
+    a stale/broken one pointing at neither the new title nor anywhere real).
+    The page ID is the one thing a rename can't invalidate."""
+    pageids, cont, seen = [], {}, set()
+    while len(pageids) < limit:
         d = get(dict({"action": "query", "list": "recentchanges", "rcnamespace": "100",
                       "rctype": "new", "rclimit": "500", "rcprop": "title|timestamp|ids",
                       "rcdir": "older", "format": "json"}, **cont))
         for rc in d["query"]["recentchanges"]:
             if rc["pageid"] not in seen:
                 seen.add(rc["pageid"])
-                titles.append(rc["title"])
-        if "continue" not in d or len(titles) >= limit:
+                pageids.append(rc["pageid"])
+        if "continue" not in d or len(pageids) >= limit:
             break
         cont = d["continue"]
-    return titles[:limit]
+    return pageids[:limit]
 
-def fetch_contents(titles):
+def fetch_contents(pageids):
+    """pageid -> (current title, content) - fetched by ID so a post that's
+    been renamed since it was first discovered still resolves to its real,
+    current title and text instead of a stale or redirected one."""
     out = {}
-    for i in range(0, len(titles), 50):
-        chunk = titles[i:i + 50]
+    pageids = list(pageids)
+    for i in range(0, len(pageids), 50):
+        chunk = pageids[i:i + 50]
         d = get({"action": "query", "prop": "revisions", "rvprop": "content", "rvslots": "main",
-                 "format": "json", "formatversion": "2", "titles": "|".join(chunk)})
+                 "format": "json", "formatversion": "2", "pageids": "|".join(str(p) for p in chunk)})
         for p in d["query"]["pages"]:
             if "revisions" in p:
-                out[p["title"]] = p["revisions"][0]["slots"]["main"]["content"]
+                out[p["pageid"]] = (p["title"], p["revisions"][0]["slots"]["main"]["content"])
         time.sleep(0.4)
     return out
 
@@ -105,12 +114,15 @@ def strip_title(title):
     return title.split(":", 1)[1] if ":" in title else title
 
 def main():
-    titles = list_update_pages(MAX_UPDATES)
-    contents = fetch_contents(titles)
+    pageids = list_update_pages(MAX_UPDATES)
+    contents = fetch_contents(pageids)
 
     parsed, file_names = [], []
-    for title in titles:
-        wt = contents.get(title)
+    for pid in pageids:
+        found = contents.get(pid)
+        if not found:
+            continue
+        title, wt = found
         if not wt or re.match(r"\s*#redirect", wt, re.I):
             continue
         header = None

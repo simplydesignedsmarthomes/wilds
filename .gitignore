@@ -1,6 +1,8 @@
 .netlify/
 node_modules/
 .DS_Store
+__pycache__/
+*.pyc
 
 # .research/ holds the data pipeline: the scripts and hand-curated source
 # files below are tracked (the check-updates workflow needs them), but the

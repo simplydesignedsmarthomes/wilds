@@ -87,6 +87,13 @@ def clean(v, keep_paragraphs=False):
     v = re.sub(r"<!--.*?-->", "", v, flags=re.S)
     v = re.sub(r"<ref[^>]*/>", "", v)
     v = re.sub(r"<ref[^>]*>.*?</ref>", "", v, flags=re.S)
+    # Magic words (__NOTOC__, __TOC__, ...) carry no reader-facing meaning,
+    # so they're just dropped; "==Heading==" section markup keeps its text
+    # (still a real sentence worth reading) but loses the == fencing, which
+    # otherwise shows up verbatim in a stripped-down summary like the
+    # Updates tab's.
+    v = re.sub(r"__[A-Z]+__", "", v)
+    v = re.sub(r"^\s*=+\s*(.*?)\s*=+\s*$", r"\1", v, flags=re.M)
     v = re.sub(r"<br\s*/?>", "\n" if keep_paragraphs else "; ", v, flags=re.I)
     v = re.sub(r"\[\[(?:File|Image):[^\]]*\]\]", "", v, flags=re.I)
     v = re.sub(r"\[\[([^\]|]+)\|([^\]]+)\]\]", r"\2", v)

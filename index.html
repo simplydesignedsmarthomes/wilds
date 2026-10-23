@@ -536,6 +536,10 @@ body.map-overlay-open{overflow:hidden}
 .mat-chip-text{font-size:12px;color:var(--text2)}
 .mat-chip-text b{color:var(--gold)}
 .mat-chip-noimg{width:22px;height:22px;display:flex;align-items:center;justify-content:center;flex-shrink:0;color:var(--text3);font-size:11px}
+/* The wiki's own image host occasionally 502s for a while; swallow a failed
+   load quietly (keeps the element's layout box, just hides the browser's
+   broken-image glyph) rather than showing a wall of broken icons. */
+img.img-broken{visibility:hidden}
 .recipe-card{background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.5rem .6rem;margin-top:.4rem}
 .recipe-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.2rem .6rem}
 .recipe-station{font-family:var(--head);font-weight:700;font-size:13px;color:var(--gold)}
@@ -667,6 +671,27 @@ body.map-overlay-open{overflow:hidden}
     return url ? '<img src="'+esc(url)+'" alt="" loading="lazy">' : "";
   }
 
+  // A crafting station is itself a buildable Construction piece, so its own
+  // build recipe (materials + XP) already lives in window.WILDS_CONSTRUCTION
+  // under its exact name - no separate scrape needed, just a flat lookup.
+  // Declared up here (ahead of the ENTRIES build below, which calls it) so
+  // there's no risk of its own `var ... = null` cache-reset line running
+  // after that first call and wiping out the map it just built.
+  var CONSTRUCTION_ITEM_BY_NAME = null;
+  function constructionItemByName(name){
+    if (!CONSTRUCTION_ITEM_BY_NAME){
+      CONSTRUCTION_ITEM_BY_NAME = {};
+      (window.WILDS_CONSTRUCTION || []).forEach(function(cat){
+        cat.subcats.forEach(function(sc){
+          sc.groups.forEach(function(g){
+            g.items.forEach(function(it){ CONSTRUCTION_ITEM_BY_NAME[it.name] = it; });
+          });
+        });
+      });
+    }
+    return CONSTRUCTION_ITEM_BY_NAME[name] || null;
+  }
+
   // ---------- build the unified, searchable entry list ----------
   var ENTRIES = [];
 
@@ -688,10 +713,22 @@ body.map-overlay-open{overflow:hidden}
   // Storage items browse through the dedicated Items/Storage tab (grouped by
   // chest, see drawStorage()) but are also searchable individually here (tab
   // left blank so they don't show up as their own flat browsing list).
+  // `names` additionally carries every recipe ingredient, "used to make",
+  // drop-source and merchant name touching this item, so a search like
+  // "mithril bar" also surfaces everything built FROM mithril bar, not just
+  // mithril bar's own entry - a reverse/"what uses this" lookup, not just
+  // a name match.
   (window.WILDS_STORAGE || []).forEach(function(cat){
     cat.items.forEach(function(it, i){
+      var d = it.detail || {};
+      var relatedNames = [];
+      (d.recipes || []).forEach(function(r){ (r.materials || []).forEach(function(m){ relatedNames.push(m.name); }); });
+      (d.usedIn || []).forEach(function(u){ relatedNames.push(u.name); });
+      (d.sources || []).forEach(function(s){ relatedNames.push(s.source); });
+      (d.shops || []).forEach(function(s){ relatedNames.push(s.seller); });
       ENTRIES.push({ kind:"storage-item", tab:"", id:"storitem:"+cat.key+":"+i, name:it.name,
-        sub:it.tier||cat.label, img:it.img, note:it.note||"", chestLabel:cat.label, item:it });
+        sub:it.tier||cat.label, img:it.img, note:it.note||"", chestLabel:cat.label, item:it,
+        names: relatedNames.length ? relatedNames : undefined });
     });
   });
 
@@ -699,10 +736,17 @@ body.map-overlay-open{overflow:hidden}
   // station" view, but are also searchable individually here as their own
   // reference page (tab left blank so they don't get a flat browsing list
   // of their own). `names` carries a merged station's other tags (e.g.
-  // "Advanced Tannery" for the "Tannery" entry) so searching either finds it.
+  // "Advanced Tannery" for the "Tannery" entry) plus its own build
+  // materials, so "mithril bar" also surfaces the station it's used to build.
   (window.WILDS_STATIONS || []).forEach(function(st){
+    var members = st.members && st.members.length ? st.members : [st.name];
+    var relatedNames = members.slice();
+    members.forEach(function(m){
+      var ci = constructionItemByName(m);
+      if (ci) (ci.materials || []).forEach(function(mm){ relatedNames.push(mm.name); });
+    });
     ENTRIES.push({ kind:"station", tab:"", id:"station:"+st.name, name:st.name,
-      sub:st.count+" craftable items", img:st.img, names:st.members, station:st });
+      sub:st.count+" craftable items", img:st.img, names:relatedNames, station:st });
   });
 
   // ---------- search ----------
@@ -821,7 +865,7 @@ body.map-overlay-open{overflow:hidden}
   }
   function navSnapshot(){
     return {
-      tab: view.tab, catalogueView: catalogueView, storageView: storageView,
+      tab: view.tab, q: view.q, catalogueView: catalogueView, storageView: storageView,
       openChest: openChest, openItem: openItem, selectedStations: Object.assign({}, selectedStations),
       openConstructionCat: openConstructionCat, openConstructionSub: openConstructionSub,
       openConstructionGroups: Object.assign({}, openConstructionGroups),
@@ -858,10 +902,11 @@ body.map-overlay-open{overflow:hidden}
   function navBack(){
     if (!NAV_STACK.length) return;
     var s = NAV_STACK.pop();
-    view.tab = s.tab; catalogueView = s.catalogueView; storageView = s.storageView;
+    view.tab = s.tab; view.q = s.q || ""; catalogueView = s.catalogueView; storageView = s.storageView;
     openChest = s.openChest; openItem = s.openItem; selectedStations = s.selectedStations;
     openConstructionCat = s.openConstructionCat; openConstructionSub = s.openConstructionSub;
     openConstructionGroups = s.openConstructionGroups;
+    qInput.value = view.q; clearBtn.classList.toggle("on", !!view.q);
     draw();
     window.scrollTo(0, s.scrollY || 0);
     updateNavBackBtn();
@@ -921,6 +966,14 @@ body.map-overlay-open{overflow:hidden}
   document.addEventListener("keydown", function(e){
     if (e.key === "Escape" && !iconLightboxEl.hidden) closeIconLightbox();
   });
+  // Every image in the app hotlinks straight to the wiki's own CDN, which
+  // occasionally 502s for a while (the whole site, not just this app, loses
+  // its icons when that happens). "error" doesn't bubble, so this has to be
+  // a capturing listener on document rather than a delegated one like the
+  // click handlers above - but it still only needs wiring up once.
+  document.addEventListener("error", function(e){
+    if (e.target.tagName === "IMG") e.target.classList.add("img-broken");
+  }, true);
   function nearbyIconName(img){
     var host = img.closest(".item-tile, .mat-chip, .cc-card, .tk-subbox, .item-detail, .cc-head");
     if (!host) return "";
@@ -1772,23 +1825,6 @@ body.map-overlay-open{overflow:hidden}
     });
     out.sort(function(a,b){ return a.name.localeCompare(b.name); });
     return out;
-  }
-  // A crafting station is itself a buildable Construction piece, so its own
-  // build recipe (materials + XP) already lives in window.WILDS_CONSTRUCTION
-  // under its exact name - no separate scrape needed, just a flat lookup.
-  var CONSTRUCTION_ITEM_BY_NAME = null;
-  function constructionItemByName(name){
-    if (!CONSTRUCTION_ITEM_BY_NAME){
-      CONSTRUCTION_ITEM_BY_NAME = {};
-      (window.WILDS_CONSTRUCTION || []).forEach(function(cat){
-        cat.subcats.forEach(function(sc){
-          sc.groups.forEach(function(g){
-            g.items.forEach(function(it){ CONSTRUCTION_ITEM_BY_NAME[it.name] = it; });
-          });
-        });
-      });
-    }
-    return CONSTRUCTION_ITEM_BY_NAME[name] || null;
   }
   // Every item craftable at a given station, for that station's own
   // reference page - unlike itemsAtStations() (the live Catalogue browse

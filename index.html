@@ -108,6 +108,19 @@ body{
   padding:.35rem .6rem;cursor:pointer;display:none;
 }
 .searchbox .clear.on{display:block}
+/* Only shown while actually searching - a quick escape hatch to the wider
+   web for whatever the in-app catalogue doesn't have yet (a crafting
+   station's own wiki talk page, a build guide, ...), carrying the exact
+   query plus "dragonwilds" so results land on-topic without retyping. */
+.web-search-row{display:flex;gap:.5rem;margin-top:.55rem}
+.web-search-link{
+  display:flex;align-items:center;gap:.35rem;flex:1;justify-content:center;
+  background:var(--panel2);border:1px solid var(--edge-dark);border-radius:999px;
+  padding:.45rem .7rem;font-size:12.5px;font-weight:700;color:var(--gold);
+  text-decoration:none;box-shadow:inset 0 1px 0 rgba(0,0,0,.4);white-space:nowrap
+}
+.web-search-link:active{background:var(--panel3)}
+.web-search-link svg{width:14px;height:14px;flex-shrink:0}
 
 
 main.wrap{flex-shrink:0;padding-bottom:calc(var(--tb) + 2rem + env(safe-area-inset-bottom))}
@@ -580,6 +593,16 @@ body.map-overlay-open{overflow:hidden}
       </svg>
     </button>
   </div>
+  <div class="wrap web-search-row" id="webSearchRow" hidden>
+    <a class="web-search-link" id="googleSearchLink" target="_blank" rel="noopener noreferrer">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      Search Google
+    </a>
+    <a class="web-search-link" id="youtubeSearchLink" target="_blank" rel="noopener noreferrer">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5.5" width="18" height="13" rx="3" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M10 9.5v5l4.5-2.5z" fill="currentColor" stroke="none"/></svg>
+      Search YouTube
+    </a>
+  </div>
 </section>
 
 <main class="wrap">
@@ -670,6 +693,16 @@ body.map-overlay-open{overflow:hidden}
       ENTRIES.push({ kind:"storage-item", tab:"", id:"storitem:"+cat.key+":"+i, name:it.name,
         sub:it.tier||cat.label, img:it.img, note:it.note||"", chestLabel:cat.label, item:it });
     });
+  });
+
+  // Crafting stations browse through the Items/Storage tab's "By crafting
+  // station" view, but are also searchable individually here as their own
+  // reference page (tab left blank so they don't get a flat browsing list
+  // of their own). `names` carries a merged station's other tags (e.g.
+  // "Advanced Tannery" for the "Tannery" entry) so searching either finds it.
+  (window.WILDS_STATIONS || []).forEach(function(st){
+    ENTRIES.push({ kind:"station", tab:"", id:"station:"+st.name, name:st.name,
+      sub:st.count+" craftable items", img:st.img, names:st.members, station:st });
   });
 
   // ---------- search ----------
@@ -842,7 +875,19 @@ body.map-overlay-open{overflow:hidden}
   var $ = function(sel, root){ return (root||document).querySelector(sel); };
   var qInput = $("#q"), clearBtn = $("#clear"), resultsEl = $("#results"),
       countEl = $("#count"), trackerEl = $("#tracker"), tabbarEl = $("#tabbar"), gearBtn = $("#gearBtn"),
-      iconLightboxEl = $("#iconLightbox"), iconLightboxImgEl = $("#iconLightboxImg"), iconLightboxCaptionEl = $("#iconLightboxCaption");
+      iconLightboxEl = $("#iconLightbox"), iconLightboxImgEl = $("#iconLightboxImg"), iconLightboxCaptionEl = $("#iconLightboxCaption"),
+      webSearchRowEl = $("#webSearchRow"), googleSearchLinkEl = $("#googleSearchLink"), youtubeSearchLinkEl = $("#youtubeSearchLink");
+  // Carries the exact typed query, plus "dragonwilds" so a search for
+  // something this app doesn't have yet (or doesn't have in full) still
+  // lands on-topic on the open web, in one tap, no retyping.
+  function updateWebSearchLinks(){
+    var q = view.q.trim();
+    webSearchRowEl.hidden = !q;
+    if (!q) return;
+    var query = encodeURIComponent(q + " dragonwilds");
+    googleSearchLinkEl.href = "https://www.google.com/search?q=" + query;
+    youtubeSearchLinkEl.href = "https://www.youtube.com/results?search_query=" + query;
+  }
   navBackBtn = $("#navBackBtn");
   navBackBtn.addEventListener("click", navBack);
   // Swipe right anywhere to go back - the app never scrolls horizontally
@@ -1129,10 +1174,24 @@ body.map-overlay-open{overflow:hidden}
       var badge = '<span class="tagline">'+esc(e.chestLabel)+'</span>';
       return cardWrap(e, cardHeader(e, badge, icon), itemDetailHtml(e.item));
     }
+    if (e.kind === "station"){
+      var stIcon = e.img ? '<span class="card-icon"><img src="'+esc(e.img)+'" alt="" loading="lazy"></span>' : null;
+      var stBadge = '<span class="tagline">Crafting station</span>';
+      return cardWrap(e, cardHeader(e, stBadge, stIcon), stationDetailHtml(e.station));
+    }
     return "";
   }
 
   resultsEl.addEventListener("click", function(e){
+    if (e.target.tagName === "IMG" && e.target.closest(".item-tile-img, .mat-chip, .cc-icon, .station-icon")){
+      openIconLightbox(e.target.src, nearbyIconName(e.target));
+      return;
+    }
+    var matLink = e.target.closest("[data-mat-link]");
+    if (matLink){
+      navToMaterial(matLink.dataset.matLink);
+      return;
+    }
     var btn = e.target.closest("button[data-open]");
     if (!btn) return;
     var card = btn.closest(".card");
@@ -1146,6 +1205,7 @@ body.map-overlay-open{overflow:hidden}
   function draw(){
     drawTabbar();
     var q = view.q.trim();
+    updateWebSearchLinks();
     trackerEl.hidden = true;
     teardownVideos();
     teardownMap();
@@ -1712,6 +1772,61 @@ body.map-overlay-open{overflow:hidden}
     });
     out.sort(function(a,b){ return a.name.localeCompare(b.name); });
     return out;
+  }
+  // A crafting station is itself a buildable Construction piece, so its own
+  // build recipe (materials + XP) already lives in window.WILDS_CONSTRUCTION
+  // under its exact name - no separate scrape needed, just a flat lookup.
+  var CONSTRUCTION_ITEM_BY_NAME = null;
+  function constructionItemByName(name){
+    if (!CONSTRUCTION_ITEM_BY_NAME){
+      CONSTRUCTION_ITEM_BY_NAME = {};
+      (window.WILDS_CONSTRUCTION || []).forEach(function(cat){
+        cat.subcats.forEach(function(sc){
+          sc.groups.forEach(function(g){
+            g.items.forEach(function(it){ CONSTRUCTION_ITEM_BY_NAME[it.name] = it; });
+          });
+        });
+      });
+    }
+    return CONSTRUCTION_ITEM_BY_NAME[name] || null;
+  }
+  // Every item craftable at a given station, for that station's own
+  // reference page - unlike itemsAtStations() (the live Catalogue browse
+  // view), this ignores the power-level filter since it's meant to answer
+  // "what can this station ever make", not "what can I make right now".
+  function allItemsAtStation(st){
+    var members = {};
+    (st.members && st.members.length ? st.members : [st.name]).forEach(function(m){ members[m] = true; });
+    var out = [];
+    (window.WILDS_STORAGE || []).forEach(function(cat){
+      cat.items.forEach(function(it){
+        if (it.stations && it.stations.some(function(s){ return members[s]; })) out.push(it);
+      });
+    });
+    out.sort(function(a,b){ return a.name.localeCompare(b.name); });
+    return out;
+  }
+  var MADE_HERE_SHOWN = 48;
+  function stationDetailHtml(st){
+    var members = st.members && st.members.length ? st.members : [st.name];
+    var recipes = members.map(function(m){ return { member:m, ci:constructionItemByName(m) }; })
+      .filter(function(r){ return r.ci; });
+    var html = "";
+    if (recipes.length){
+      html += '<div class="r block"><div class="fk subhead">How to build</div>'+
+        recipes.map(function(r){
+          var label = recipes.length > 1 ? '<div class="recipe-note"><b>'+esc(r.member)+'</b></div>' : "";
+          return label + recipeCardHtml({ name:r.member }, { station:"Construction", materials:r.ci.materials || [], skills:r.ci.skills || [] });
+        }).join("")+'</div>';
+    }
+    var items = allItemsAtStation(st);
+    if (items.length){
+      var shown = items.slice(0, MADE_HERE_SHOWN);
+      html += '<div class="r block"><div class="fk subhead">Made here ('+items.length+')</div><div class="mat-chips">'+
+        shown.map(function(it){ return itemChip({ name:it.name, img:it.img, qty:1 }); }).join("")+'</div>'+
+        (items.length > shown.length ? '<div class="recipe-note">and '+(items.length - shown.length)+' more</div>' : '')+'</div>';
+    }
+    return html || '<div class="note">No extra detail catalogued for this one yet.</div>';
   }
   function stationBlock(){
     var stations = window.WILDS_STATIONS || [];

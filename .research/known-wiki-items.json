@@ -8,10 +8,6 @@
 "type": "Vestige"
 },
 {
-"name": "A Cracked Bronze Vanity Mirror",
-"type": "Vestige"
-},
-{
 "name": "A Cruel Goblin Blade",
 "type": "Vestige"
 },
@@ -1134,6 +1130,10 @@
 {
 "name": "Corrupted Essence Sample",
 "type": "Quest Item"
+},
+{
+"name": "Cracked Bronze Vanity Mirror",
+"type": "Vestige"
 },
 {
 "name": "Crucible Engram of Betrayal",
@@ -2568,7 +2568,7 @@
 "type": "Vestige"
 },
 {
-"name": "MOUNT: Mossbeak Hunter",
+"name": "MOUNT: Mossbreak Hunter",
 "type": "Vestige"
 },
 {

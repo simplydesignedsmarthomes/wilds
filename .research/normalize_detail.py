@@ -265,6 +265,37 @@ def _load_cache(name, default):
         return default
     return json.load(open(path, encoding="utf-8"))
 
+# Items that have never been in the live game. Distinct from content that was
+# real and later removed: these sit in the game cache, so the wiki documents
+# them, but no player has been able to obtain them. The wiki says so in prose
+# on each page ("currently not in the game", "cannot be obtained") or with its
+# {{Shelved content}} template - never with {{Gone}} or
+# Category:Discontinued content, which is why a sweep of those missed them.
+#
+# Defined here rather than in build_storage.py because every script that
+# assembles recipe and usedIn lists imports WikiData, and a phantom item that
+# is dropped from the item list still surfaces inside live items' lists
+# otherwise - a Vault Core card was listing all nine rings below.
+#
+# Verified 2026-10-28 against the wiki; re-check when refreshing, since an
+# item here could legitimately ship later (the Phoenix Ring already came back
+# as the Ring of Life, which is live and stays).
+NOT_IN_GAME_NAMES = {
+    # Datamined rings, each "3 Vault Cores at a Smithing Forge" - a station
+    # that was itself removed in 0.12.0. Real jewellery is made at the
+    # Jeweler's Bench (Abraxus Ring, Ring of Life, the amulets), which is
+    # live and unaffected.
+    "Gourmand Ring", "Herd Ring", "Hermit Ring", "Miner Ring", "Moon Ring",
+    "Mule Ring", "Phoenix Ring", "Sun Ring", "Woodsman Ring",
+    # Prototype / scrapped resources and gear
+    "Clay Slab (Unfired)",  # cache-only
+    "Fuel Briquette",       # no recipe exists
+    "Soda Ash",             # glass shipped as Sandstone+Limestone at a Blast Furnace
+    "Vine Root",            # "cannot be obtained in the game"
+    "Wooden Arrow",         # {{Shelved content}}; an old spell prototype
+    "Wooden Club",          # power level 1 mace, never in game
+}
+
 class WikiData:
     def __init__(self):
         b = _load_cache("wiki_buckets.json", {"recipe": [], "dropsline": [], "storeline": []})
@@ -413,7 +444,12 @@ class WikiData:
     # it. Drop those entries here, at the one place recipes/usedIn get
     # assembled, so no "make this at a Cooking Pot" card can surface anywhere
     # in the app (an item's detail card, its station tag, a search result).
-    DISCONTINUED_STATIONS = {"Cooking Pot"}
+    # "Smithing Forge" is the Smithing Anvil, removed in 0.12.0 and replaced by
+    # the Blacksmith's Bench, Armour Bench and Mystic Forge. The only recipes
+    # still naming it are the nine datamined rings in NOT_IN_GAME_NAMES, which
+    # go too - but it belongs here regardless, so a stale forge recipe can
+    # never reach a card again.
+    DISCONTINUED_STATIONS = {"Cooking Pot", "Smithing Forge"}
 
     # Stations the wiki has renamed but not finished renaming everywhere.
     # "Fletching Table" redirects to Fletching Bench; one straggler recipe
@@ -428,6 +464,12 @@ class WikiData:
         for r in rows:
             st = r.get("station")
             if st in self.DISCONTINUED_STATIONS:
+                continue
+            # Dropping a phantom item's own entry is not enough: it still
+            # shows up inside live items' recipe and usedIn lists (every
+            # Vault Core card listed all nine datamined rings). Filter by
+            # item name here too, where those lists are assembled.
+            if html.unescape(r.get("name") or "").strip() in NOT_IN_GAME_NAMES:
                 continue
             if st in self.STATION_RENAMES:
                 r = dict(r, station=self.STATION_RENAMES[st])

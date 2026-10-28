@@ -5,7 +5,7 @@ import json, html, re, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from normalize_detail import WikiData
+from normalize_detail import WikiData, NOT_IN_GAME_NAMES
 ROOT = os.path.dirname(HERE)
 
 CHEST_LABELS = [
@@ -186,6 +186,13 @@ DISCONTINUED_NAMES = {
     "Small Wardstone", "Weak Healing Potion",
 }
 DROP_NAMES |= DISCONTINUED_NAMES
+
+# Items that were never in the live game at all - a different thing from
+# DISCONTINUED_NAMES above, which were real and got pulled. The list lives in
+# normalize_detail.py beside the station filtering, because dropping these
+# from the item list is only half the job: WikiData also has to strip them out
+# of live items' recipe and usedIn lists.
+DROP_NAMES |= NOT_IN_GAME_NAMES
 
 def clean_name(n):
     return html.unescape(n or "").strip()

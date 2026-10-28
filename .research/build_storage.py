@@ -82,6 +82,57 @@ TIER_OVERRIDES = {
     "Rune Crossbow Limbs": (7, "Rune"), "Bronze Leaf": (1, "Bronze"),
 }
 
+# Each crop/herb seed only takes root in one of four regions (the wiki's own
+# Template:Seeds navbox groups them this way, checked 2026-10-27 - more
+# reliable than parsing each seed's own freeform "Best planted in ___ plots"
+# description line, which isn't worded identically everywhere). Tree seeds
+# ("Plant this directly into the ground") aren't region-locked and are left
+# out on purpose - see item_region()'s "Anywhere" fallback below.
+SEED_REGIONS = {
+    "Cabbage Seeds": "Brynmoor", "Flax Seeds": "Brynmoor", "Potato Seeds": "Brynmoor",
+    "Redberry Seeds": "Brynmoor", "Wheat Seeds": "Brynmoor",
+    "Marentill Seeds": "Brynmoor", "Harralander Seeds": "Brynmoor",
+    "Dwellberry Seeds": "Ghornfell", "Tomato Seeds": "Ghornfell", "Onion Seeds": "Ghornfell",
+    "Swamp Weed Seeds": "Ghornfell",
+    "Kwuarm Seeds": "Ghornfell", "Snapdragon Seeds": "Ghornfell", "Toadflax Seeds": "Ghornfell",
+    "Cadavaberry Seeds": "Fellhollow", "Watermelon Seeds": "Fellhollow", "Pumpkin Seeds": "Fellhollow",
+    "Corpse Cotton Seeds": "Fellhollow",
+    "Avantoe Seeds": "Fellhollow", "Irit Seeds": "Fellhollow",
+    "Barrel Cactus Seeds": "Umbral Sands", "Bunny Cactus Seeds": "Umbral Sands",
+    "Desert Weed Seeds": "Umbral Sands", "Pipe Cactus Seeds": "Umbral Sands",
+}
+
+# The harvested crop/herb shares its seed's region - but only where the wiki
+# names them so closely that the link is certain (its page title is the
+# seed's own name, minus "Seed(s)", give or take the one actual spelling
+# quirk - Marrentil the herb vs. "Marentill Seeds" the seed that grows it).
+# Left out on purpose: several seeds above (Redberry, Dwellberry, Cadavaberry,
+# Corpse Cotton, both cactus seeds) have no standalone harvested-item page of
+# their own to tag, and Pipe Cactus Seeds' own linked "grows into" page no
+# longer exists - the "Fibrous Pipe Cactus" already in this chest is a
+# different, wild-gathered item (its own page describes it growing near yew
+# trees, nothing about being farmed), so it's deliberately not tagged here.
+CROP_FOR_SEED = {
+    "Potato Seeds": "Potato", "Cabbage Seeds": "Cabbage", "Flax Seeds": "Flax", "Wheat Seeds": "Wheat",
+    "Tomato Seeds": "Tomato", "Onion Seeds": "Onion", "Swamp Weed Seeds": "Swamp Weed",
+    "Watermelon Seeds": "Watermelon", "Pumpkin Seeds": "Pumpkin",
+    "Harralander Seeds": "Harralander", "Kwuarm Seeds": "Kwuarm", "Snapdragon Seeds": "Snapdragon",
+    "Toadflax Seeds": "Toadflax", "Avantoe Seeds": "Avantoe", "Irit Seeds": "Irit",
+    "Marentill Seeds": "Marrentil",
+}
+CROP_REGIONS = {crop: SEED_REGIONS[seed] for seed, crop in CROP_FOR_SEED.items()}
+
+TREE_SEEDS = {"Ash Tree Seed", "Oak Tree Seed", "Willow Tree Seed", "Maple Tree Seed", "Yew Tree Seed", "Magic Tree Seed"}
+
+def item_region(name):
+    if name in SEED_REGIONS:
+        return SEED_REGIONS[name]
+    if name in CROP_REGIONS:
+        return CROP_REGIONS[name]
+    if name in TREE_SEEDS:
+        return "Anywhere"
+    return ""
+
 # Build-menu structures (crafting stations, furniture) aren't inventory items;
 # the app covers them as stations in the "By station" view instead.
 BUILD_MENU_PIECES = {"Brewing Cauldron"}
@@ -209,6 +260,9 @@ def load_all(details):
         stations = item_stations(rec["detail"])
         if stations:
             rec["stations"] = stations
+        region = item_region(name)
+        if region:
+            rec["region"] = region
         items.append(rec)
     return items
 

@@ -89975,6 +89975,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "An ash tree seed is a type of seed, used with the Farming skill to grow an ash tree.\n\nAsh tree seeds have a power level of 1.\n\n(Journal)\nOoh, there's a good riddle in here somewhere.\n\nWhat starts as a seed and turns to ash without once getting burned?\n\nYeah, that will do it. Feel free to bring that along to all your riddle parties."
         },
+        "region": "Anywhere",
         "step": 0
       },
       {
@@ -90036,6 +90037,7 @@ window.WILDS_STORAGE = [
         "stations": [
           "Brewing Cauldron"
         ],
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -90101,6 +90103,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Avantoe seeds are a type of Fellhollow seed, used in the Farming skill. Avantoe seeds can be used to grow avantoe in a farming plot. However, it is best to plant them in a willow farming plot.\n\nPlanting avantoe seeds in a farming plot will yield 5 experience in Farming.\n\n(Journal)\nBack on the mainland, the avantoe has a reputation for being a little high-maintenance. It only grows after a heavy bout of rainfall, and - even then - the bloom only lasts for a matter of hours. Get distracted, and you can miss the plant's entire life-cycle. Luckily, the climate and soil of Ashenfall means that the avantoe is less flighty than its mainland equivalent.\n\nYou can see why avantoe is the perfect reagent for stamina and agility potions. It lives its short life at speed, and leaves something of itself behind that does the same for you. As in, it can boost your stamina rather than give you a short life."
         },
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -90156,6 +90159,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Barrel cactus seeds are a type of Umbral Sands Seed, used in the Farming skill. Barrel cactus seeds can be used to grow Barrel Cactus (Farming) in a farming plot. However, it is best to plant them in a yew farming plot.\n\n(Journal)\nWe doff our caps to you. You walked into Umbral Sands from Dowdun Reach, looked at the sands, scorch and giant dragon and thought \"you know what? I'm going to do some farming\". You're as based as the people who, likewise, were confronted by all of those things and promptly built a giant wooden house.\n\nOf all the things to grow, we can actually understand the barrel cactus. Native to this region, it's also full of moisture – thus the 'barrel' – which is reasonably integral to the game you are playing.\""
         },
+        "region": "Umbral Sands",
         "step": 0
       },
       {
@@ -90218,6 +90222,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Bunny cactus seeds are a type of Umbral Sand seed, used in the Farming skill. Bunny cactus seeds can be used to grow Bunny Cactus (Farming) in a farming plot. However, it is best to plant them in a yew farming plot.\n\n(Journal)\nThe bunny cactus isn't only named that way because of its rabbit-ear-like limbs. It's also a prolific reproducer. A single plant can produce dozens of seeds, and in turn it can create dozens of bunny cacti.\n\nNow I think of it, the bunny cactus also develops little tufts of fur on its spikes, reminiscent of a rabbit's cotton tail. Damn, they really nailed the naming of this cactus."
         },
+        "region": "Umbral Sands",
         "step": 0
       },
       {
@@ -90323,6 +90328,7 @@ window.WILDS_STORAGE = [
           "Campfire",
           "Grill"
         ],
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -90373,6 +90379,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Cabbage seeds are a type of Brynmoor seed, used in the Farming skill. Cabbage seeds can be used to grow Cabbage in a farming plot. However, it is best to plant them in ash farming plot.\n\nPlanting cabbage seeds in a farming plot will yield 5 experience in Farming.\n\n(Journal)\nHail Brassica Prime, lord of deliciousness and nutrition! Within these tiny seeds rest all the power of creation, ready to burst forth into spherical orbs of crisp deliciousness.\n\nGuthix once encountered Brassica Prime when he wandered the moors of Ashenfall. On a strange outcrop, beneath a waterfall that reflected the silver moonlight, he spied a cabbage so large and so full of nutrition that he was briefly stunned at its magnificence.\n\nWhen the cabbage spoke, the god of balance found himself quite at a loss. According to the cabbage, he was the lord of all vegetables, and keeper of the ancient secrets of a balanced diet, seeing some small kinship in Guthix's search for harmony. They held long and curious conversations, deep into the night, about the nature of magic, divinity and, of course, food.\n\nBrassica's stories changed every night. Each moonrise offered a new excuse for his divinity, and new lessons on how he had supposedly shaped creation itself, by mixing together the base vitamins needed for the universe to thrive.\n\nMad, perhaps, or just composed of an alien way of thinking, but Guthix took some small comfort in his strange new friend. As such, he made a point of having his druids sow cabbage seeds in every field and around all his settlements, so that Brassica might be honoured in some small way"
         },
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -90599,6 +90606,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Cadavaberry seeds are a type of Fellhollow seed, used in the Farming skill. Cadavaberry seeds can be obtained from harvesting wild cadavaberry bushes.\n\n(Journal)\nSometimes you just want to fill your garden wth deadly berries. This was certainly true of Agnes DeWithlington-Smithe, a self-proclaimed \"witch\" with zero magical talent. She delighted in filling her garden with strange and dangerous herbs and flowers. The more poisonous, the better.\n\nLocals would claim that she was a retired assassin, trying to hone her craft. In truth, she just discovered something about the plants that she admired and, ultimately, she thought they were pretty."
         },
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -90649,6 +90657,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Corpse cotton seeds are a type of seed, used in the Farming skill. They can be used to grow Fellhollow's corpse cotton plants in a farming plot. However, it is best to plant them in willow farming plot. Planting the seeds in a farming plot will yield 5 experience Farming. Corpse cotton seeds can be obtained from harvesting wild corpse cotton plants.\n\n(Journal)\nPopular with necromantic horticulturalists, the corpse cotton plant is as useful as it is mildly disturbing. These seeds will allow you to avoid getting yourself blown up in random locations, instead allowing you to access this dreadful plant in the comfort of your own garden."
         },
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -90699,6 +90708,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Desert weed seeds are a type of Umbral Sand seed, used in the Farming skill. Desert weed seeds can be used to grow Desert Weed (Farming) in a farming plot. However, it is best to plant them in a yew farming plot.\n\n(Journal)\nWhy is Umbral Sands yellow? Because the desert weed!\n\nDesert weed is an admirable plant, mainly for its ability to survive no matter the conditions. Even when there are no nutrients in the sand, water is scarce, and the temperature only exists at the extremes, the desert weed is the little plant that could. It finds potential in the tiny cracks between death and more death. We are all playing this little survival game, but perhaps the desert weed is out-performing us all."
         },
+        "region": "Umbral Sands",
         "step": 0
       },
       {
@@ -90749,6 +90759,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Dwellberry seeds are a type of Ghornfell seed, used in the Farming skill. Dwellberry seeds can be obtained from harvesting wild dwellberry bushes.\n\n(Journal)\nGarou consider dwellberries to have spiritual significance. Their priests believe that if they are crushed into paste and used as a war paint, they can ward off evil spirits, misfortune, and vermin.\n\nThe seeds are often used in this process, creating a powdery texture that can make it easier to spread the paint across the fur."
         },
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -90976,6 +90987,7 @@ window.WILDS_STORAGE = [
           "Brewing Cauldron",
           "Crafting Table"
         ],
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -91026,6 +91038,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Flax seeds are a type of Brynmoor seed, used in the Farming skill. Flax seeds can be used to grow flax (Farming) in a farming plot. However, it is best to plant them in an ash farming plot.\n\nPlanting flax seeds in a farming plot will yield 5 experience in Farming. Flax seeds can be obtained from harvesting wild flax plants.\n\n(Journal)\nNow you can plant these pretty blue flowers wherever you like. Bring much needed vibrancy to your drab and dreary little wooden hovel. Or, of course, you could grow them for harvest and turn them into thread, but isn't that a waste when they're so very pretty?"
         },
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -91174,6 +91187,7 @@ window.WILDS_STORAGE = [
           "Stone Range",
           "Cooking Range"
         ],
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -91224,6 +91238,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Harralander seeds are a type of Brynmoor seed, used in the Farming skill.\n\n(Journal)\nTired of sinking into swamp-mud in search of these fragrant little herbs? Well now you can grow them yourself.\n\nThe fragrance of these herbs is even better without the swamp to full it and can be a very pleasant pick-me-up first thing in the day."
         },
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -91392,6 +91407,7 @@ window.WILDS_STORAGE = [
         "stations": [
           "Brewing Cauldron"
         ],
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -91449,6 +91465,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Irit seeds are a type of Fellhollow seed, used in the Farming skill.\n\n(Journal)\nThorny irit is a pain to harvest. You must seek out the spiky roots and battle with them before you can claim the herbs for yourself. With these seeds, you can skip some of that faff and instead grow them wherever you like, the very pinnacle of convenience."
         },
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -91511,6 +91528,7 @@ window.WILDS_STORAGE = [
         "stations": [
           "Brewing Cauldron"
         ],
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -91573,6 +91591,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Kwuarm seeds are a type of Ghornfell seed, used in the Farming skill. Kwuarm seeds can be obtained from a skeleton or garou pack, after discovering ash logs. When planted with the Farming skill, kwuarm seeds will grow into kwuarm.\n\n(Journal)\nThese plants are greedily hoarded by goblins and garou, their poisonous capabilities highly desired by their scouts. With these seeds, you no longer need to slaughter goblins in droves to acquire these herbs, instead you can grow them yourself in your own back yard."
         },
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -91679,6 +91698,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "A magic tree seed is a Power level 1 seed, used with the Farming skill to grow a magic tree."
         },
+        "region": "Anywhere",
         "step": 0
       },
       {
@@ -91731,6 +91751,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "A maple tree seed is a power level 1 seed, used with the Farming skill to grow a maple tree.\n\n(Journal)\nA tree full of bounties, whether it's maple logs for your crafting needs or maple syrup for cooking. The maple tree knows how much you need its wares and it keeps a ledger. You are indebted to the maple tree, and it will come to collect."
         },
+        "region": "Anywhere",
         "step": 0
       },
       {
@@ -91776,6 +91797,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Marentill seeds (also spelled marrentil) are a type of Brynmoor seed, used in the Farming skill.\n\n(Journal)\nNo longer do you need traipse through the swamps in search of these precious little herbs, now you can grow them in your own back garden.\n\nWhen not drowned out by the foul stench of the swamps, these herbs have a pleasant odour to them that can attract invisible squirrels to your garden. Keep your eyes open for them!"
         },
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -91912,6 +91934,7 @@ window.WILDS_STORAGE = [
         "stations": [
           "Brewing Cauldron"
         ],
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -91957,6 +91980,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "An oak tree seed is a type of seed, used with the Farming skill to grow an oak tree.\n\nOak tree seeds have a power level of 1.\n\n(Journal)\nSometimes naming conventions are piffle. Yes, yes, we know the argument: it should be called 'oak seeds' so that players know it turns into an oak. But we all know that an oak seed is an acorn. Grow a spine, naming convention people!"
         },
+        "region": "Anywhere",
         "step": 0
       },
       {
@@ -92069,6 +92093,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Onions are a Power Level 3 raw ingredient, which means they can be cooked at a campfire or grill into fried onions starting at Cooking level 27, and not burnt into burnt onion at level 41. They can also be used to make lesser Focused Cooking potion, bowl of onions, and potted onion. They can be collected from onion (plant) in Fractured Plains, and Farmed from onion (Farming) grown from onion seeds. Onions can be used to make compost.\n\n(Journal)\nOften used in metaphors about layers, but also in soups too. The soups are more fun."
         },
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -92119,6 +92144,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Onion seeds are a type of Ghornfell seed, used in the Farming skill. Onion seeds can be obtained from harvesting wild onion (plant).\n\n(Journal)\nSometimes you just want a way to make everyone around you cry. Onions have always served this purpose, and I often bring one with me to slice into at social gatherings when I feel everyone is being just a little too happy.\n\nWith these seeds, you can avoid scavenging for onions across the dangerous plains and instead a produce a steady supply with which to torment your friends and family. Or you could eat them, I guess, if you're weird."
         },
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -92169,6 +92195,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Pipe cactus seeds are a type of Umbral Sands seed, used in the Farming skill. Pipe cactus seeds can be used to grow Pipe Cactus (Farming) in a farming plot. However, it is best to plant them in a yew farming plot.\n\n(Journal)\nThe pipe cactus is like an iceberg, if you replace the ice with cactus and the sea with sand. A pipe cactus runs deep, deep into the sands, its roots grasping for any moisture it can find. That moisture often can be found at the bottom of quicksand, or on the bedrock, many metres below the surface. A pipe cactus is one of the few that can 'pipe' that moisture up.\n\nMany a moon garou has tried to suck that moisture up through the 'pipe' of the cactus, like a natural well. The pipe cactus has evolved counter-measures to that particular ploy, including valve-like structures up its stem, and, you know, spikes."
         },
+        "region": "Umbral Sands",
         "step": 0
       },
       {
@@ -92261,6 +92288,7 @@ window.WILDS_STORAGE = [
           "Campfire",
           "Grill"
         ],
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -92311,6 +92339,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Potato seeds are a type of Brynmoor seed, used in the Farming skill. Potato seeds can be used to grow potatoes in a farming plot. However, it is best to plant them in ash farming plot.\n\nPlanting potato seeds in a farming plot will yield 5 experience in Farming. Potato seeds can be obtained from harvesting wild potato plants.\n\n(Journal)\nKnow this secret, child, the potato is a source of foods both delicious and dangerous. They can be baked, roasted over a fire to create a delectable fluffy centre encased within a crisp and tasty core. Or they can be combined with butter and milk to craft a small mountain of creamy extravagance that can serve both as meal and sculpture material.\n\nThese seeds, small and unremarkable, can be transformed into meals of such exquisite flavour that they can end wars. Or, as was the case of the feud between the Sherrydoe and Nab families, start one - that ended up in a house burning to the ground, three failed marriages and a cow being briefly elected mayor. It's best not to ask."
         },
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -92403,6 +92432,7 @@ window.WILDS_STORAGE = [
           "Campfire",
           "Grill"
         ],
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -92453,6 +92483,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Pumpkin seeds are a type of Fellhollow seed, used in the Farming skill. Pumpkin seeds can be used to grow Pumpkin (farming) in a farming plot. However, it is best to plant them in Willow Farming Plot.\n\nPlanting pumpkin seeds in a farming plot will yield 5 experience in Farming, and can be obtained from harvesting wild pumpkin (plant)s.\n\n(Journal)\nThese gourds are most popular around autumn, when they are hollowed out by local children and used to ward away spirits - poorly, as it seems they attract more than they repel.\n\nIndeed one strange fellow found himself so delighted by the odd gourds that he took an aspect of them into himself, feeling that they best embodied his favourite time of the year. So the strange individual known as \"Pumpkin Pete\", part of the Pete family, came to be."
         },
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -92503,6 +92534,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Redberry seeds are a type of Brynmoor seed, used in the Farming skill. Redberry seeds can be used to grow redberries in a farming plot. However, it is best to plant them in an ash farming plot.\n\nPlanting redberry seeds in a farming plot will yield 5 experience in Farming. Redberry seeds can be obtained from harvesting wild redberry bushes.\n\n(Journal)\nGrow your own tasty berries with these lovely little seeds. In ancient Ashenfall, young villagers would gift a potential romantic partner with a handful of berries, and if the plant flourished it was seen as proof that they were meant to be together.\n\nMost considered it a rather cheap and rubbish gift, and so contrary to the folklore, these rarely resulted in meaningful relationships."
         },
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -92752,6 +92784,7 @@ window.WILDS_STORAGE = [
         "stations": [
           "Brewing Cauldron"
         ],
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -92802,6 +92835,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Snapdragon seeds are a type of Ghornfell seed, used in the Farming skill. Snapdragon seeds can be obtained from harvesting wild Snapdragon.\n\n(Journal)\nUnfortunately, these seeds do not grow adorable little scaly nightmares to terrorise your enemies.\n\nFortunately, they do grow into useful little medicinal herbs with various uses in herblore. So, an alright trade-off, even if the tiny dragons would be better."
         },
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -92882,6 +92916,7 @@ window.WILDS_STORAGE = [
           "Spinning Wheel",
           "Brewing Cauldron"
         ],
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -92932,6 +92967,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Swamp weed seeds are a type of Ghornfell seed, used in the Farming skill. Swamp weed seeds can be used to grow swamp weed in a farming plot. However, it is best to plant them in oak farming plot. Planting swamp weed seeds in a farming plot will yield 5 experience in Farming. Swamp weed seeds can be obtained from harvesting wild Swamp Weed.\n\n(Journal)\nSometimes you don't want to grow pretty little flowers, you want to grow something you found in the murkiest corners of the world. Swamp weed, as it's name suggests, is normally found in the deadly swamps of Ashenfall, but with these seeds you can grow them from the comfort of your garden."
         },
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -93041,6 +93077,7 @@ window.WILDS_STORAGE = [
           "Brewing Cauldron",
           "Cooking Range"
         ],
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -93091,6 +93128,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Toadflax seeds are a type of Ghornfell seed, used in the Farming skill. Toadflax seeds can be obtained from harvesting wild toadflax (plant).\n\n(Journal)\nAlthough they prefer the toxic atmosphere of the Bloodlight swamps, these seeds can grow just about anywhere with the right care paid to them."
         },
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -93165,6 +93203,7 @@ window.WILDS_STORAGE = [
           "Campfire",
           "Grill"
         ],
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -93215,6 +93254,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Tomato seeds are a type of Ghornfell seed, used in the Farming skill.\n\n(Journal)\nUnlock the plant that causes the most arguments amongst the truly bored, the humble tomato. Is it a fruit? A vegetable? A plague on sandwiches everywhere? Well, now you can start these arguments wherever you like, by planting one of these beauties in a fresh farming patch."
         },
+        "region": "Ghornfell",
         "step": 0
       },
       {
@@ -93343,6 +93383,7 @@ window.WILDS_STORAGE = [
           "Campfire",
           "Grill"
         ],
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -93398,6 +93439,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Watermelon seeds are a type of Fellhollow seed, used in the Farming skill. Watermelon seeds can be used to grow watermelon plants in a farming plot. However, it is best to plant them in a willow farming plot. Planting watermelon seeds in a farming plot will yield 5 experience in Farming.\n\n(Journal)\nThese tiny seeds can grow into a delightful patch of scrumptious watermelons. Use them to cultivate plants for delicious fruit salads, add garnish to garnish cocktails, or paint faces on them if you're very lonely."
         },
+        "region": "Fellhollow",
         "step": 0
       },
       {
@@ -93603,6 +93645,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Wheat is a power level 2 raw ingredient. It can be harvested from wheat (farming) after it has fully grown. Wheat seeds can be used in any farming plot to grow the source plant, but planting the Wheat seeds in a Ash Farming Plot will decrease the chance of disease.\n\n(Journal)\nThese humble grains are the staple of many a burgeoning society. Breads, cakes, pastries and all manner of delicious foodstuffs can be forged from these marvellous stalks."
         },
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -93653,6 +93696,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Wheat seeds are a type of Brynmoor seed, used in the Farming skill. Wheat seeds can be used to grow wheat in a farming plot. However, it is best to plant them in ash farming plot. Planting wheat seeds in a farming plot will yield 5 experience in Farming. Wheat seeds can be obtained from goblin packs, and the Wise Old Man will give three wheat seeds to the player when starting the Growing Pains side-quest.\n\n(Journal)\nIf you're trying to reduce your carbohydrate intake, then you probably want to toss these seeds into the fire. If, however, you're a fan of bread in all its many and sundry forms, then you can start your life as a wheat farmer with a handful of these seeds. Just plant them in a farming patch and start planning the name of your future bakery."
         },
+        "region": "Brynmoor",
         "step": 0
       },
       {
@@ -93698,6 +93742,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "A willow tree seed is a type of seed, used with the Farming skill to grow a willow tree.\n\nWillow tree seeds have a power level of 1.\n\n(Journal)\nDid you know that a willow seed is called a 'salix', and looks a bit like the stuffing out of a toy bear? Now, we appreciate that doesn't reconcile with the icon we have chosen for the willow seed, but we would have got complaints that 'the willow seed icon looks like the stuffing from a toy bear'. Honestly, there was no good option here. If you're a botanist, close your eyes and imagine the fluff."
         },
+        "region": "Anywhere",
         "step": 0
       },
       {
@@ -93743,6 +93788,7 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "A yew tree seed is a type of seed, used with the Farming skill to grow a yew tree.\n\nYew tree seeds have a power level of 1.\n\n(Journal)\nI had a friend called Ewan who had a yew orchard, and decided that he would let his female sheep graze there. It was the source of much hilarity, I tell you.\n\nA yew seed, you might not know, is actually called an 'aril'. It comes from the middle of a yew's red berry. It's also dangerously poisonous, so we'll add that to the long list of things in Ashenfall that are trying to kill you."
         },
+        "region": "Anywhere",
         "step": 0
       }
     ],

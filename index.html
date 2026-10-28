@@ -1062,11 +1062,20 @@ img.img-broken{visibility:hidden}
   var ZOOMABLE_ICONS = ".item-tile-img, .mat-chip, .cc-icon, .station-icon, .card-icon, .drop-icon";
   function openIconLightbox(src, caption){
     if (!src) return;
+    // If the previous zoom's art genuinely failed to load it left img-broken
+    // behind, and that class would hide this one too.
+    iconLightboxImgEl.classList.remove("img-broken");
     iconLightboxImgEl.src = src;
     iconLightboxCaptionEl.textContent = caption || "";
     iconLightboxEl.hidden = false;
   }
-  function closeIconLightbox(){ iconLightboxEl.hidden = true; iconLightboxImgEl.src = ""; }
+  function closeIconLightbox(){
+    iconLightboxEl.hidden = true;
+    // removeAttribute, not src = "". An empty src resolves against the base
+    // URL, so the browser re-fetches index.html and tries to decode the HTML
+    // as an image - a wasted request that also fails.
+    iconLightboxImgEl.removeAttribute("src");
+  }
   iconLightboxEl.addEventListener("click", closeIconLightbox);
   document.addEventListener("keydown", function(e){
     if (e.key === "Escape" && !iconLightboxEl.hidden) closeIconLightbox();
@@ -1076,8 +1085,12 @@ img.img-broken{visibility:hidden}
   // its icons when that happens). "error" doesn't bubble, so this has to be
   // a capturing listener on document rather than a delegated one like the
   // click handlers above - but it still only needs wiring up once.
+  // An <img> carrying no src of its own is an empty slot, not broken art, and
+  // marking it hid the lightbox image for the rest of the session: closing a
+  // zoom cleared the src, that counted as a load failure, and every zoom after
+  // the first one opened onto a caption with an invisible image above it.
   document.addEventListener("error", function(e){
-    if (e.target.tagName === "IMG") e.target.classList.add("img-broken");
+    if (e.target.tagName === "IMG" && e.target.getAttribute("src")) e.target.classList.add("img-broken");
   }, true);
   function nearbyIconName(img){
     // A row that already names its target in a data attribute (bestiary

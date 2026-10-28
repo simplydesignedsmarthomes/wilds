@@ -6690,7 +6690,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Master's staff is a power level 7 two-handed staff that can be crafted at a mystic forge. Players must receive the Ornate Golden Scarab to create the staff.\n\n(Journal)\nBefore the master wand, there was a staff of such power that the mages of the wizard’s tower decided it was too dangerous to keep. They placed the staff in teleportation circle, scrambled the coordinates and hurled it through the Abyss to settle far away from Misthalin.\n\nIn truth, it should have ended in the depths of the sea, sinking down and down into the darkness, but something caught it instead.\n\nA powerful elven mage had found their way to Ashenfall, and they had already indulged in powers darker than what their kin traditionally allowed. They felt the staff hurtling through the Abyss and used their unnatural sorcery to pull it to them, so that they might benefit from its power.\n\nThis elf and his retinue found their way to the Umbral Sands, where they challenged one of the Moon Garou’s mages to a magical duel, over some perceived slight or other. The battle was magnificent, power that shook the dunes and cast a great sandstorm into the skies. The garou was defeated, but not before her spells shattered the master’s staff.\n\nIn his arrogance he cast the remains aside and continued his journey into Ashenfall. Moon Garou would find the remnants of the staff and found a way to recreate it. Weaker than the original, true, but still possessing a power that would make lesser mages tremble."
+          "description": "The Master's staff is a power level 7 two-handed staff that can be crafted at a mystic forge.\n\n(Journal)\nBefore the master wand, there was a staff of such power that the mages of the wizard’s tower decided it was too dangerous to keep. They placed the staff in teleportation circle, scrambled the coordinates and hurled it through the Abyss to settle far away from Misthalin.\n\nIn truth, it should have ended in the depths of the sea, sinking down and down into the darkness, but something caught it instead.\n\nA powerful elven mage had found their way to Ashenfall, and they had already indulged in powers darker than what their kin traditionally allowed. They felt the staff hurtling through the Abyss and used their unnatural sorcery to pull it to them, so that they might benefit from its power.\n\nThis elf and his retinue found their way to the Umbral Sands, where they challenged one of the Moon Garou’s mages to a magical duel, over some perceived slight or other. The battle was magnificent, power that shook the dunes and cast a great sandstorm into the skies. The garou was defeated, but not before her spells shattered the master’s staff.\n\nIn his arrogance he cast the remains aside and continued his journey into Ashenfall. Moon Garou would find the remnants of the staff and found a way to recreate it. Weaker than the original, true, but still possessing a power that would make lesser mages tremble."
         },
         "stations": [
           "Mystic Forge"
@@ -7686,7 +7686,7 @@ window.WILDS_STORAGE = [
               "name": "Shadow Crossbow",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
-              "station": "Fletching Table"
+              "station": "Fletching Bench"
             }
           ],
           "sources": [],
@@ -8757,7 +8757,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Abyssal Whip",
-        "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip_%28Journal%29.png?737d3",
+        "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip_%28Journal%29.png?07e9c",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -9900,7 +9900,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The dorgeshuun crossbow is a power level 5 crossbow that can be crafted at a fletching bench. The recipe is obtained from the quest Even More Restless Ghosts. It can be ascended at a mystic forge using ascension cores.\n\nIts special effect is a hidden -25% Reload Duration, making it reload faster than other crossbows. It also can only fire bone bolts, which can similarly only be fired from this crossbow. Unlike other crossbows and bolts that split the damage between them, all of it is on the crossbow. This is to ensure that the weapon ascends correctly, and isn't forced to use weaker bolts than other crossbows. The bone bolts additionally build bleed, and with three hits in a short time, deal 40 damage. This damage does not scale with power level.\n\nExcluding the bleed damage from the bone bolts, this weapon has the same base damage, reload speed, and durability as the blurite crossbow at similar power levels. With that in mind, the choice comes down to what bolts are desired, particularly enchanted bolts, as the difference is entirely down to their effects. The shadow crossbow is a notable mention as it can squeeze more damage out of enchanted bolts with +15% weakpoint damage, but it does so far slower than this or the blurite crossbow.\n\n(Journal)\nThe cave goblins are a practical sort, using materials more readily available underground than any that might require potential damage to their subterranean dwellings, such as mining. This crossbow is made from bones, traditionally of creatures found beneath the surface.\n\nZanik once used this crossbow to defeat a deadly spectre in the underworld. A being infused with some dread malign power, that threatened the denizens of Um. Normal weapons had no effect on the creature, yet for some reason the bone bolts fired by this crossbow were enough to unravel its material form, banishing it back to the darkness."
+          "description": "The dorgeshuun crossbow is a power level 5 crossbow that can be crafted at a fletching bench. The recipe is unlocked from the quest Even More Restless Ghosts. It can be ascended at a mystic forge using ascension cores.\n\nIts special effect is a hidden -25% Reload Duration, making it reload faster than other crossbows. It also can only fire bone bolts, which can similarly only be fired from this crossbow. Unlike other crossbows and bolts that split the damage between them, all of it is on the crossbow. This is to ensure that the weapon ascends correctly, and isn't forced to use weaker bolts than other crossbows. The bone bolts additionally build bleed, and with three hits in a short time, deal 40 damage. This damage does not scale with power level.\n\nExcluding the bleed damage from the bone bolts, this weapon has the same base damage, reload speed, and durability as the blurite crossbow at similar power levels. With that in mind, the choice comes down to what bolts are desired, particularly enchanted bolts, as the difference is entirely down to their effects. The shadow crossbow is a notable mention as it can squeeze more damage out of enchanted bolts with +15% weakpoint damage, but it does so far slower than this or the blurite crossbow.\n\n(Journal)\nThe cave goblins are a practical sort, using materials more readily available underground than any that might require potential damage to their subterranean dwellings, such as mining. This crossbow is made from bones, traditionally of creatures found beneath the surface.\n\nZanik once used this crossbow to defeat a deadly spectre in the underworld. A being infused with some dread malign power, that threatened the denizens of Um. Normal weapons had no effect on the creature, yet for some reason the bone bolts fired by this crossbow were enough to unravel its material form, banishing it back to the darkness."
         },
         "stations": [
           "Fletching Bench"
@@ -10308,7 +10308,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Damage type",
-              "value": "Crush"
+              "value": "Slash"
             },
             {
               "label": "Attack style",
@@ -11343,7 +11343,7 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [
             {
-              "station": "Fletching Table",
+              "station": "Fletching Bench",
               "skills": [
                 {
                   "name": "Artisan",
@@ -11387,7 +11387,7 @@ window.WILDS_STORAGE = [
           "description": "The shadow crossbow is a power level 6 crossbow that can be crafted at a fletching bench. The recipe is unlocked after studying the sinister mechanism, which can be found in chests throughout Dowdun Reach or purchased from Postie Pete's Evil Emporium for 300 infernal fragments. It can be ascended at a mystic forge using ascension cores.\n\nIts special effect deals 15% increased damage to weakpoints, however it has +25% Reload Duration, meaning it reloads slower than other crossbows.\n\nWhen looking to maximize the damage done per metal or enchanted bolts, this is the pick. However, as it reloads slower than most other crossbows and the blurite crossbow and dorgeshuun crossbow reload faster than most other crossbows, it reloads significantly slower by comparison. One of the most useful aspects of a crossbow is the flinch that they cause per hit, and those are simply able to do that more often. The choice comes down to what bolt type is preferred, as the dorgeshuun can only fire bone bolts.\n\n(Journal)\nClimb the turrets of Dowdun Reach in its prime, and you would have found the Black Knight Snipers. These were the elite marksmen of the Black Knights, tasked with looking outward when the rest of the order would look inward. They would scan the skyline for threat - for the beating wings of a dragon. There was no greater trophy for the Black Snipers.\n\nOnesupposed to be \"On\" one occasion, a bolt was loosed at Imaru. She had arrived at the keep for diplomatic purposes, and was rewarded with a bolt to the neck. You could see the conflict within her, as her urges were swallowed. For a second, a disdainful eye moved to the Black Sniper. But she reset and continued to talk to Lord Rasmodel and Alric like nothing happened.\n\nRestraint was certainly beaten into the Black Snipers that night."
         },
         "stations": [
-          "Fletching Table"
+          "Fletching Bench"
         ],
         "step": 7
       },
@@ -12637,6 +12637,124 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Fletching Bench"
+        ],
+        "step": 7
+      },
+      {
+        "name": "Weapon Barbs",
+        "img": "https://dragonwilds.runescape.wiki/images/Weapon_Barbs.png?f915e",
+        "tier": "",
+        "tierRank": null,
+        "chest": "weapons",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "11 September 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Pointy!; ; Used to craft Barbed Arrows or to coat your equipped melee weapon with barbs that cause Bleed buildup for a short duration."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 60
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Shrapnel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Shrapnel.png?157b3"
+                },
+                {
+                  "name": "Bronze Bar",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Bronze_Bar.png?dfc4f"
+                },
+                {
+                  "name": "Adhesive",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Adhesive.png?44043"
+                }
+              ],
+              "output": {
+                "name": "Weapon Barbs",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Weapon_Barbs.png?f915e"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Bronze Barbed Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Barbed_Arrow.png?a22ca",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Iron Barbed Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Iron_Barbed_Arrow.png?ad7b0",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Steel Barbed Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Steel_Barbed_Arrow.png?3648c",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Mithril Barbed Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Barbed_Arrow.png?4039c",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Adamant Barbed Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Barbed_Arrow.png?a6bb9",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Rune Barbed Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Barbed_Arrow.png?8b5c8",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Fang Barbed Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Fang_Barbed_Arrow.png?af855",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Weapon barbs are an item unlocked at level 22 Ranged, allowing players to either craft barbed arrows or imbue their held melee weapon (except for basic tools such as axes or pickaxes) with the Bleed debuff for two minutes.\n\n(Journal)\nUsed to craft Barbed Arrows or to coat your equipped melee weapon with barbs, causing Bleed buildup for a short duration.\n\nSometimes, you just really want to hurt something. It happens. We each have that little voice that tells us to make something bleed, just a little.\n\nWell, blacksmiths thought to themselves, \"what if we listen to that voice?\" and created these little doohickies. Barbs for your weapons, so that they may tear, rend and otherwise force your opponents to bleed with every strike."
+        },
+        "stations": [
+          "Blacksmith's Bench"
         ],
         "step": 7
       },
@@ -25369,7 +25487,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ava's accumulator is an armour item equipped in the cape slot. It is a reward from Animal Magnetism, and additional ones can also be crafted via the Armour Bench after the quest. Ava's accumulator adds a 10% chance of recovering arrows when worn.\n\n(Journal)\nAva is the apprentice to Dr Oddenstein, an eccentric scientist who lives in Draynor Manor, and a skilled inventor in her own right. She whiles away her limited free time by studying the lesser-known field of necroballistics, and creating strange and wonderful gizmos to further her studies.\n\nPerhaps her proudest achievement, is the invention of the attractor. By harnessing the energies of an undead chicken to the harmonic frequencies of a common bar magnet, her device can snatch grounded projectiles and bring them back to the quiver before they can be lost. This money saving experiment is not only great for hunters, but for anyone looking for an excuse to fill their enemies full of sharp sticks of wood.\n\nAlways the generous sort, but one with little head for marketing, Ava has decided to pass on her genius invention to others. Rather than publishing a paper, or passing the methodology onto the Varrock library, she has instead written the instructions in a bottle and sent it adrift in the ocean for anyone to find. Fate, she believes, will draw it to where it is meant to go. Like magnets, probably."
+          "description": "Ava's accumulator is an armour item equipped in the cape slot. It is a reward from Animal Magnetism, and additional ones can also be crafted via the Armour Bench after the quest. Ava's accumulator adds a 10% chance of recovering arrows when worn. Please note that it will not recover spectral arrows of any kind.\n\n(Journal)\nAva is the apprentice to Dr Oddenstein, an eccentric scientist who lives in Draynor Manor, and a skilled inventor in her own right. She whiles away her limited free time by studying the lesser-known field of necroballistics, and creating strange and wonderful gizmos to further her studies.\n\nPerhaps her proudest achievement, is the invention of the attractor. By harnessing the energies of an undead chicken to the harmonic frequencies of a common bar magnet, her device can snatch grounded projectiles and bring them back to the quiver before they can be lost. This money saving experiment is not only great for hunters, but for anyone looking for an excuse to fill their enemies full of sharp sticks of wood.\n\nAlways the generous sort, but one with little head for marketing, Ava has decided to pass on her genius invention to others. Rather than publishing a paper, or passing the methodology onto the Varrock library, she has instead written the instructions in a bottle and sent it adrift in the ocean for anyone to find. Fate, she believes, will draw it to where it is meant to go. Like magnets, probably."
         },
         "stations": [
           "Armour Bench"
@@ -25790,7 +25908,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Blue Dyad Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d",
+        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyad_Cape.png?f298d",
         "tier": "",
         "tierRank": null,
         "chest": "armour",
@@ -25826,18 +25944,33 @@ window.WILDS_STORAGE = [
               "value": "A cape made for its looks more than any kind of magical potency."
             }
           ],
-          "recipes": [],
+          "recipes": [
+            {
+              "station": "Armour Bench",
+              "skills": [],
+              "materials": [],
+              "output": {
+                "name": "Blue Dyad Cape",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyad_Cape.png?f298d"
+              },
+              "unlock": "Chewed Blue Cloth"
+            }
+          ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
           "description": "The blue dyad cape is a stylish cape that can be created by learning the vestige bought from Postie Pete in Evil Emporium.\n\n(Journal)\nA wise purchase. While it doesn't make you invisible or grant you super-powers, this cape does make a delightful swishing noise as you sashay."
         },
+        "stations": [
+          "Armour Bench"
+        ],
         "step": 7
       },
       {
         "name": "Blue Dyed Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d",
+        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyad_Cape.png?f298d",
         "tier": "",
         "tierRank": null,
         "chest": "armour",
@@ -25879,9 +26012,9 @@ window.WILDS_STORAGE = [
               "skills": [],
               "materials": [],
               "output": {
-                "name": "Blue Dyed Cape",
+                "name": "Blue Dyad Cape",
                 "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d"
+                "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyad_Cape.png?f298d"
               },
               "unlock": "Chewed Blue Cloth"
             }
@@ -26277,7 +26410,7 @@ window.WILDS_STORAGE = [
           "perks": [
             {
               "name": "Construction Cape",
-              "desc": "You have a small chance to not use building materials when placing a build piece."
+              "desc": "You can repair buildings for free."
             }
           ],
           "description": "The Construction cape is a Cape of Accomplishment that can be crafted and worn at level 99 Construction. It can be crafted at the mystic forge. Repairing structures do not use any materials whilst using the cape.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You can look upon your constructions and see that they are good.\n\nNow you have mastered the Construction skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Construction Cape with all the trimmings. Precious few can claim that distinction."
@@ -29114,7 +29247,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Lumber backpack is an armour item equipped in the cape slot. Equipping this grants a +10% reduction to the weight of carried wood, +10% increase to Woodcutting experience, +10% increase to the amount of wood received from chopping trees and +15% for special item drop chance.\n\nThe recipe unlocks at level 59 Woodcutting.\n\n(Journal)\nA hefty bag, heavily reinforced, this backpack is everything a budding lumberer needs in order to carry large quantities of wood from one place to a different place."
+          "description": "A lumber backpack is an armour item equipped in the cape slot. Equipping this grants a +10% reduction to the weight of carried wood, +10% increase to Woodcutting experience, +10% increase to the amount of wood received from chopping trees and +15% for special item drop chance.\n\nThe recipe unlocks at level 59 Woodcutting.\n\n(Journal)\nA hefty bag, heavily reinforced, this backpack is everything a budding lumberer needs in order to carry large quantities of wood from one place to a different place."
         },
         "stations": [
           "Armour Bench"
@@ -31275,7 +31408,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The red desert cape is a cape that takes no materials to craft, but is not currently in the game. The recipe is unlocked after studying the red memory of Menaphos vestige, which is also currently unavailable in-game.\n\n(Journal)\nA crimson cape in the Menaphite style. Though not technically Menaphite in design, these Moon Garou creations were heavily influenced by the “River Mother”, a visiting goddess with a strong connection to the Menaphite deserts."
+          "description": "The red desert cape is a cape that takes no materials to craft. The recipe is unlocked after studying the red memory of Menaphos vestige, which can be found in chests in Umbral Sands.\n\n(Journal)\nA crimson cape in the Menaphite style. Though not technically Menaphite in design, these Moon Garou creations were heavily influenced by the “River Mother”, a visiting goddess with a strong connection to the Menaphite deserts."
         },
         "stations": [
           "Armour Bench"
@@ -33383,7 +33516,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The gyrhawk amulet is an amulet that can be crafted at a crafting table. While equipped, the amulet grants +100% Agility experience when walking or sprinting but consumes warped feathers. To unlock the recipe, players must receive warped feathers in their inventory, found in reward packs after completing Agility courses. Note that wearing the gyrhawk amulet whilst completing an agility course will not use warped feathers.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
+          "description": "The gyrhawk amulet is an amulet that can be crafted at a crafting table. While equipped, the amulet slowly consumes warped feathers in order to grant +100% Agility experience when walking or sprinting.\n\nThe feathers must be held in the inventory while wearing the amulet, otherwise the amulet has no effect. Note that wearing the gyrhawk amulet whilst completing an agility course will not use warped feathers.\n\nTo unlock the recipe for the amulet, players must receive warped feathers in their inventory, which are found in reward packs after completing Agility courses.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
         },
         "stations": [
           "Crafting Table"
@@ -33465,7 +33598,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The gilded gyrhawk amulet is an amulet that can be crafted at a jeweler's bench after obtaining gold record times on all available Agility courses. While equipped, the amulet grants +100% Agility experience when walking or sprinting by consuming warped feathers in the player's inventory, while also providing +25% Agility experience when training on Agility courses.\n\nThis item, thus far, is the only trinket in the game with an Agility level requirement to wear and craft at level 65 Agility.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want\"wants\" to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
+          "description": "The gilded gyrhawk amulet is an amulet that can be crafted at a jeweler's bench after obtaining gold record times on all available Agility courses. While equipped, the amulet slowly consumes warped feathers in order to grant +100% Agility experience when walking or sprinting, while also providing +25% Agility experience when training on Agility courses.\n\nThe feathers must be held in the inventory while wearing the amulet, otherwise the amulet has no effect. Note that wearing the gilded gyrhawk amulet whilst completing an agility course will not use warped feathers.\n\nThis item, thus far, is the only trinket in the game with an Agility level requirement to wear and craft, at level 65 Agility.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want\"wants\" to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
         },
         "stations": [
           "Jeweler's Bench"
@@ -33588,7 +33721,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "Increased CRITICAL DAMAGE"
+              "value": "Increased WEAK POINT damage with RANGED weapons"
             },
             {
               "label": "Carry weight",
@@ -33655,7 +33788,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of accuracy is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players a 15% increase in critical damage and critical weakpoint damage.\n\n(Journal)\nThe Wild Knights knew the dangers of missing their target. If an arrow did not slay its target quickly, then too soon would the quarry either escape, or, worse, gather friends. Wolf packs could easily tear a small group of Knights to pieces if not dealt with fast.\n\nThe Amulet of Accuracy made sure that hunts went smoothly. When a shot landed, it landed hard. Alpha wolves would be slain in a single well-placed shot, and sturdier threats might go down in a small flurry of arrows.\n\nWhen Silverthorn Keep stood against the rising horde of zombies, these amulets were worn by the keep defenders who unleashed a torrent of arrows into the hungry dead."
+          "description": "The amulet of accuracy is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players a 15% increase in weak point damage with Ranged weapons. Since hits with ranged weapons against the weak point are considered critical hits, this is functionally the same as ranged critical damage.\n\nThe recipe is unlocked through Death's Exchange by purchasing the Arrowhead of Ancient Origin vestige for 350 soul fragments.\n\n(Journal)\nThe Wild Knights knew the dangers of missing their target. If an arrow did not slay its target quickly, then too soon would the quarry either escape, or, worse, gather friends. Wolf packs could easily tear a small group of Knights to pieces if not dealt with fast.\n\nThe Amulet of Accuracy made sure that hunts went smoothly. When a shot landed, it landed hard. Alpha wolves would be slain in a single well-placed shot, and sturdier threats might go down in a small flurry of arrows.\n\nWhen Silverthorn Keep stood against the rising horde of zombies, these amulets were worn by the keep defenders who unleashed a torrent of arrows into the hungry dead."
         },
         "stations": [
           "Jeweler's Bench"
@@ -33752,7 +33885,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of defence is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases players' armour value of all three damage types by 5 for each piece (head, torso, and legs).\n\n(Journal)\nNot everyone can wear armour when faced with the hordes of shambling undead. Children and the frail, become targets with little to protect them from gnashing teeth and jaws. In these scenarios magic becomes incredibly important, and these amulets delayed the deaths of countless lives.\n\nNot everyone was happy with such utilitarian approaches to survival, however. As the days drew on and resources grew scarce, empathy began to wane in the population of Emberwood. Amulets of defence were handed out to those determined to have the most need, but the criteria for that became a hot subject of contention.\n\nIt would be nice to imagine a world where everyone pulled together to defend against the undead, but human nature sadly shattered that dream. Still, while there would always be those who would attempt to steal the amulets from the needy, there were plenty more who would stand against them.\n\nThese amulets now carry an echo of those protectors, shielding its wearers from harm."
+          "description": "The amulet of defence is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases players' armour value of all three damage types by 5 for each piece (head, torso, and legs).\n\nThe recipe is unlocked through Death's Exchange by purchasing the Hardy Weathered Shell vestige for 350 soul fragments.\n\n(Journal)\nNot everyone can wear armour when faced with the hordes of shambling undead. Children and the frail, become targets with little to protect them from gnashing teeth and jaws. In these scenarios magic becomes incredibly important, and these amulets delayed the deaths of countless lives.\n\nNot everyone was happy with such utilitarian approaches to survival, however. As the days drew on and resources grew scarce, empathy began to wane in the population of Emberwood. Amulets of defence were handed out to those determined to have the most need, but the criteria for that became a hot subject of contention.\n\nIt would be nice to imagine a world where everyone pulled together to defend against the undead, but human nature sadly shattered that dream. Still, while there would always be those who would attempt to steal the amulets from the needy, there were plenty more who would stand against them.\n\nThese amulets now carry an echo of those protectors, shielding its wearers from harm."
         },
         "stations": [
           "Jeweler's Bench"
@@ -33840,7 +33973,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of glory is an amulet that boosts melee, magic, and ranged critical damage while also increasing defence. While worn, the amulet provides an additional +5 defence to all combat styles and a 12% increase to critical damage for magic, melee, and ranged attacks.\n\nTo unlock the recipe, players must find and study the commemorative coin vestige.\n\n(Journal)\nPower, trapped in dragonstone crystal and worn around the neck, that is the essence of this amulet. The facets of the dragonstone refract and refine the enchantments cast upon the item, somehow creating a magical lattice of surprising strength.\n\nMany have tried to create variations of this theme, yet dragonstone proves too fragile a substance for practical use. Once someone attempted to make a dragonstone dagger, to see if they could turn it into a blade of glory, yet they could not find a sufficiently large stone that wasn't valuable enough to bankrupt a small nation.\n\nOne wizard attempted strange alchemical practices to try and forge a staff of pure dragonstone. Alas, not only did he fail to create such a stone, but the magical explosion that resulted from his hubris removed his lab, and all his research, from this plane of reality.\n\nIt's probably a good idea that no one attempted to duplicate his work."
+          "description": "The amulet of glory is an amulet that boosts melee, magic, and ranged critical damage while also increasing defence. While worn, the amulet provides an additional +5 defence to all combat styles, a 12.5% increase to melee and magic damage, and a 15% increase to ranged critical damage.\n\nTo unlock the recipe, players must find and study the commemorative coin vestige.\n\n(Journal)\nPower, trapped in dragonstone crystal and worn around the neck, that is the essence of this amulet. The facets of the dragonstone refract and refine the enchantments cast upon the item, somehow creating a magical lattice of surprising strength.\n\nMany have tried to create variations of this theme, yet dragonstone proves too fragile a substance for practical use. Once someone attempted to make a dragonstone dagger, to see if they could turn it into a blade of glory, yet they could not find a sufficiently large stone that wasn't valuable enough to bankrupt a small nation.\n\nOne wizard attempted strange alchemical practices to try and forge a staff of pure dragonstone. Alas, not only did he fail to create such a stone, but the magical explosion that resulted from his hubris removed his lab, and all his research, from this plane of reality.\n\nIt's probably a good idea that no one attempted to duplicate his work."
         },
         "stations": [
           "Jeweler's Bench"
@@ -33933,7 +34066,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of Magic is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players increased magic damage by a factor of 12.5%. The recipe is unlocked through Death's Exchange for 350 soul fragments. There, it's called \"Softly Vibrating Orb\".\n\n(Journal)\nEmberwood had its fair share of spellcasters, though lacking the funding of the tower to the south. With more limited resources the mages of Emberwood found other methods to strengthen their art, and the Amulet of Magic was popular among all of them.\n\nDruids worseincorrectly spelled \"wore\" in cache these amulets while performing rituals around the standing stones, hoping that it might strengthen their bond with nature. The self-proclaimed warlocks, of the Children of Shadows, would sit in darkened basements wearing these glittering amulets as they intoned dark rites that had no effect. The Wild Knight mages would use them more pragmatically, wielding magic against all the threats that the villagers were unaware of."
+          "description": "The amulet of Magic is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players increased magic damage by a factor of 12.5%.\n\nThe recipe is unlocked through Death's Exchange by purchasing the Softly Vibrating Orb vestige for 350 soul fragments.\n\n(Journal)\nEmberwood had its fair share of spellcasters, though lacking the funding of the tower to the south. With more limited resources the mages of Emberwood found other methods to strengthen their art, and the Amulet of Magic was popular among all of them.\n\nDruids worseincorrectly spelled \"wore\" in cache these amulets while performing rituals around the standing stones, hoping that it might strengthen their bond with nature. The self-proclaimed warlocks, of the Children of Shadows, would sit in darkened basements wearing these glittering amulets as they intoned dark rites that had no effect. The Wild Knight mages would use them more pragmatically, wielding magic against all the threats that the villagers were unaware of."
         },
         "stations": [
           "Jeweler's Bench"
@@ -34026,7 +34159,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of strength is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases the player's melee damage with both one-handed and two-handed weapons by 12.5% each. It will not increase unarmed damage.\n\n(Journal)\nMight makes right, is the cry of every wannabe despot. Bandos in particular was very fond of this statement. This amulet upholds that notion and does its best to help make sure you are the most correct person around.\n\nIt imbues your muscles with body-aligned anima, the magic strengthening the sinew and fortifying your bones. It adds greater force to your swing that will crush your enemies before you.\n\nThe goblin general, Snotknucke, wore this amulet and attempted to hunt down Velgar. He believed that, with its magic, he could fell the beast in a single swing of his club. Snotknuckle was stronger, deadlier and more powerful than ever, but this did very little against the rock that Velgar dropped on his head."
+          "description": "The amulet of strength is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet increases the player's melee damage with both one-handed and two-handed weapons by 12.5% each. It will not increase unarmed damage.\n\nThe recipe is unlocked through Death's Exchange by purchasing the Weighted Training Band vestige for 350 soul fragments.\n\n(Journal)\nMight makes right, is the cry of every wannabe despot. Bandos in particular was very fond of this statement. This amulet upholds that notion and does its best to help make sure you are the most correct person around.\n\nIt imbues your muscles with body-aligned anima, the magic strengthening the sinew and fortifying your bones. It adds greater force to your swing that will crush your enemies before you.\n\nThe goblin general, Snotknucke, wore this amulet and attempted to hunt down Velgar. He believed that, with its magic, he could fell the beast in a single swing of his club. Snotknuckle was stronger, deadlier and more powerful than ever, but this did very little against the rock that Velgar dropped on his head."
         },
         "stations": [
           "Jeweler's Bench"
@@ -34109,9 +34242,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The gourmand ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nIt is said that this ring was first created by a traveling chef, a visitor from strange lands who sought culinary adventure. They experimented with a wide range of dishes, consuming foods thought unnatural by some, always looking for the next best meal.\n\nWhen they found a meal that did not fill them with revulsion, they would don this ring so that they might savor the meal far longer than before.\n\nNow, this ring is popular with anyone that wants to get the most out of a good mealmissing period"
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -34190,9 +34320,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The herd ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nThis ring was often used as an engagement ring. The magic weaves souls together and makes their anima resonate in harmony. The resulting change allows for the body to regenerate more readily, enhancing their time together and forging bonds of companionship.\n\nNaturally it only requires the bonds of camaraderie, rather than romance, and was very popular among bands of hunters, farmers or anyone else. Longtime comrades would often gift each other with these rings as a sign of their bond of friendship."
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -34271,9 +34398,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The hermit ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nIn a world of extroverts it’s for introverts to get by, so when the magic of this ring was discovered it made many lives easier. Plenty of people preferred to work by themselves, without needing to keep an eye out for anyone near them.\n\nWild Knights, who often hunted alone, were particularly fond of these rings and would often wear them on their long missions in the forestsmissing period"
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -35387,6 +35511,45 @@ window.WILDS_STORAGE = [
         "step": 1
       },
       {
+        "name": "Jade Emblem",
+        "img": "https://dragonwilds.runescape.wiki/images/Jade_Emblem.png?b89b4",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "19 May 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "One of three emblem keys required to unlock a statue."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A jade emblem is a quest item used in Statues of Saradomin. This emblem is found near the centre of Fractured Plains."
+        },
+        "step": 1
+      },
+      {
         "name": "Miner Ring",
         "img": "https://dragonwilds.runescape.wiki/images/Miner_Ring.png?0b97c",
         "tier": "",
@@ -35462,9 +35625,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The miner ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nMost magic focused on directly manipulating a substance, magic to enhance mining, for example, always focused on the rocks. Yet, the eldest of minors would know secret techniques and talents, that made their work in the mines seem like its own sort of magic.\n\nThese rings were modelled after one of them, and it is rumoured that the first of the enchantments included a piece of an old miner’s soul. Now when you wear one of these rings, you feel a sense of the right place to strike and the right way to carry ore, protecting your tools and reducing exhaustion."
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -35543,9 +35703,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The moon ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nThis ring glints in the moonlight with an unnatural sparkle belying the magic within. The ring’s power causes the wearer’s anima circulation to strengthen in the darkness, but struggling to resist the light of the day.\n\nVery popular with teenage villagers going about their black-tunic phase."
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -35624,9 +35781,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The mule ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nNot everyone can be a warrior, yet heroes come in all shapes and sizes. The most beloved villagers in Brynmoor, were not those who through themselves headlong into battle, but those who took a share of everyone’s burdens.\n\nThis ring strengthens the muscles, making it easier to carry a heavier load. But weapons and armour feel heavier to the wearer, as though the emotional weight of warfare is manifest instead."
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -35867,6 +36021,45 @@ window.WILDS_STORAGE = [
         "step": 1
       },
       {
+        "name": "Opal Emblem",
+        "img": "https://dragonwilds.runescape.wiki/images/Opal_Emblem.png?13f40",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "19 May 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "One of three emblem keys required to unlock a statue."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "An opal emblem is a quest item used in Statues of Saradomin. This emblem is found at the western side of the Whispering Swamp."
+        },
+        "step": 1
+      },
+      {
         "name": "Phoenix Ring",
         "img": "https://dragonwilds.runescape.wiki/images/Phoenix_Ring.png?0b97c",
         "tier": "",
@@ -35942,9 +36135,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The phoenix ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game and was later replaced with a live version called the ring of life.\n\n(Journal)\nEverything dies, this is the truth of existence. Even mountains and forests will eventually fall. Time is the great equaliser that consumes stars and mayflies with equal relish, and every living being always fights against it.\n\nMagicians and alchemists have gone mad trying to defeat the arrow of time, doing whatever is possible to stall death’s embrace. This ring is one of the most successful approaches so far.\n\nThe ring stores magical energy within the band and at the moment where death should claim it’s quarry, the ring cracks and the power is released, infusing their host with a burst of magic – undoing damage and restoring health."
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       },
       {
@@ -36259,6 +36449,94 @@ window.WILDS_STORAGE = [
         "step": 1
       },
       {
+        "name": "Ring of Pursuit",
+        "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Pursuit.png?55b45",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Special effect",
+              "value": "ANIMALS are less AWARE of your PRESENCE"
+            },
+            {
+              "label": "Carry weight",
+              "value": "1.0"
+            },
+            {
+              "label": "Durability",
+              "value": "1000"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A magical ring that makes you sneakier."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Jeweler's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 100
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay Mould",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b"
+                },
+                {
+                  "name": "Silver Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Silver_Bar.png?dfc4f"
+                },
+                {
+                  "name": "Opal",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Opal.png?44043"
+                },
+                {
+                  "name": "Vault Shard",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Vault_Shard.png?789d1"
+                }
+              ],
+              "output": {
+                "name": "Ring of Pursuit",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Pursuit.png?55b45"
+              },
+              "unlock": "Carved Bone Animal Lure"
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The ring of pursuit is a trinket, made on the jeweler's bench. Its special effect reduces animals’ awareness of the player's presence by 80%. For example, if the awareness radius of the deer is 50 metres, wearing the trinket will decrease the radius by 40 metres.\n\n(Journal)\nHunters have always needed an edge, and this ring is just that. It enhances a hunter's senses and quitens their movements. Their prey becomes less wary of them and more vulnerable to attach.\n\nThe garou were particularly fond of these rings, and during the few years of peace between the humans of Bramblemead and the garou of Ghornfell, villagers could barter these trinkets for far more than they were worth to other villagers."
+        },
+        "stations": [
+          "Jeweler's Bench"
+        ],
+        "step": 1
+      },
+      {
         "name": "Ring of Recoil",
         "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Recoil.png?a9fd4",
         "tier": "",
@@ -36332,14 +36610,14 @@ window.WILDS_STORAGE = [
                 "qty": 1,
                 "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Recoil.png?a9fd4"
               },
-              "unlock": "A Cracked Bronze Vanity Mirror"
+              "unlock": "Cracked Bronze Vanity Mirror"
             }
           ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The ring of recoil is a ring that can be crafted at a jeweler's bench. While equipped, the ring deals percentage of damage received back to attackers. The damage dealt is equal to 50% of the damage taken, rounded up.\n\n(Journal)\nVengeance isn’t a dish best served cold, but one served quickly. Whilst taking years to enact the cruellest retaliation might work in the civilised world, in the wilds of Ashenfall a quick strike is far more valuable.\n\nThis ring was first created by one of the Amalgamated, worn as both deterrence and for some small satisfaction when they were targeted by vigilante mobs. It didn’t prevent the bruises, or fix the broken bones, but their assailants attacks would end much more quickly when they discovered they weren’t as untouchable as they thought."
+          "description": "The ring of recoil is a ring that can be crafted at a jeweler's bench. While equipped, the ring deals percentage of damage received back to attackers. The damage dealt is equal to 50% of the damage taken, rounded up. To unlock the recipe, players must unlock the Cracked Bronze Vanity Mirror.\n\n(Journal)\nVengeance isn’t a dish best served cold, but one served quickly. Whilst taking years to enact the cruellest retaliation might work in the civilised world, in the wilds of Ashenfall a quick strike is far more valuable.\n\nThis ring was first created by one of the Amalgamated, worn as both deterrence and for some small satisfaction when they were targeted by vigilante mobs. It didn’t prevent the bruises, or fix the broken bones, but their assailants attacks would end much more quickly when they discovered they weren’t as untouchable as they thought."
         },
         "stations": [
           "Jeweler's Bench"
@@ -36597,6 +36875,45 @@ window.WILDS_STORAGE = [
         "step": 1
       },
       {
+        "name": "Sapphire Emblem",
+        "img": "https://dragonwilds.runescape.wiki/images/Sapphire_Emblem.png?cd6bd",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "19 May 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "One of three emblem keys required to unlock a statue."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A sapphire emblem is a quest item used in Statues of Saradomin. This emblem is found at the north-eastern side of the Stormtouched Highlands."
+        },
+        "step": 1
+      },
+      {
         "name": "Skills Necklace",
         "img": "https://dragonwilds.runescape.wiki/images/Skills_Necklace.png?6268e",
         "tier": "",
@@ -36760,8 +37077,101 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The sun ring is a power level 4 piece of armour, made by using three vault cores on a smithing forge. However, it is currently not in the game.\n\n(Journal)\nGlittering during the daytime, the magic of this ring makes you feel more alive in the light of the sun. It was popular among farmers who spent their lives toiling in the fields, beneath the glare of the noonday sun."
         },
+        "step": 1
+      },
+      {
+        "name": "Unholy Symbol",
+        "img": "https://dragonwilds.runescape.wiki/images/Unholy_Symbol.png?cd333",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026"
+            },
+            {
+              "label": "Special effect",
+              "value": "Increases DAMAGE but reduces HEALTH while worn"
+            },
+            {
+              "label": "Carry weight",
+              "value": "2.0"
+            },
+            {
+              "label": "Durability",
+              "value": "2500"
+            },
+            {
+              "label": "Repair cost",
+              "value": "5 vault shards"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "A necklace that proudly displays the Zamorak symbol. Don't wear it to church."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Jeweler's Bench",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Clay Mould",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b"
+                },
+                {
+                  "name": "Gold Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Gold_Bar.png?dfc4f"
+                },
+                {
+                  "name": "Silver Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Silver_Bar.png?dfc4f"
+                },
+                {
+                  "name": "Opal",
+                  "qty": 4,
+                  "img": "https://dragonwilds.runescape.wiki/images/Opal.png?44043"
+                },
+                {
+                  "name": "Vault Shard",
+                  "qty": 6,
+                  "img": "https://dragonwilds.runescape.wiki/images/Vault_Shard.png?789d1"
+                }
+              ],
+              "output": {
+                "name": "Unholy Symbol",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Unholy_Symbol.png?cd333"
+              },
+              "unlock": "Corroded Jewellery"
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The unholy symbol is an amulet that can be crafted at a jeweler's bench. It provides a 15% increase in damage for all combat styles, but reduces health by 15%.\n\nThe vestige for the unholy symbol can be unlocked via the quest Wanted! that is given by Vannaka in Dowdun Reach.\n\n(Journal)\nFor those who wish to keep Zamorak close to their heart, we give you the unholy symbol. To complete the look, we recommend a black top, eyeliner, sticking your tongue out and making Zamorak horns with your hands."
+        },
         "stations": [
-          "Smithing Forge"
+          "Jeweler's Bench"
         ],
         "step": 1
       },
@@ -36841,9 +37251,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "The woodsman ring is an unobtainable jewellery slot item found in the game files. Currently, it cannot be obtained legitimately. It shares its only effect of adding 400 carry capacity with every other early access ring.\n\n(Journal)\nThe trees of Ashenfall are infused with magic, which makes them a little more cunning than a normal tree. While lacking sapience, nor sentience, these trees possess on characteristic in abundance – they possess spite.\n\nA tree’s spite resonates back across the axe that cuts it, leaving splinters in the handle and cracks in the blade. Over time this shatters the tool, forcing repairs, which can infuriate lumberjacks when they’re in the middle of a swing.\n\nThis ring makes the wearer’s anima feel more in tune with nature, reducing the spite of the tree’s retaliation. While unable to negate it completely, it makes axes last longer and logs feel lighter to carry."
         },
-        "stations": [
-          "Smithing Forge"
-        ],
         "step": 1
       }
     ],
@@ -38188,7 +38595,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Beef & tomato stew is a consumable food item that provides 60 health and 65 sustenance. It is made with grilled tomatoes, steak, and dried redberries in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nTomatoes go well with just about everything. They enhance the flavours of anything they’re paired with and a nice beef stew is no exception. The combined flavours are comforting as well as filling, and almost make you forget that you’re a long way from home, on a continent filled with murderous dragons."
+          "description": "Beef & tomato stew is a consumable food item that provides 60 health and 65 sustenance. It is made with grilled tomatoes, steak, and dried redberries in a stone range or a cooking range, however a player must interact with a stone range first and have grilled tomatoes in their inventory to learn the recipe.\n\n(Journal)\nTomatoes go well with just about everything. They enhance the flavours of anything they’re paired with and a nice beef stew is no exception. The combined flavours are comforting as well as filling, and almost make you forget that you’re a long way from home, on a continent filled with murderous dragons."
         },
         "stations": [
           "Stone Range",
@@ -40617,7 +41024,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Burnt maple syrup is a power level 4 consumable burnt food item that has a chance to be made when cooking maple sap at a campfire or grill, and guaranteed when cooking maple syrup. It requires a Cooking level lower than 50 to burn from maple sap, and guaranteed with a level lower than 41. It provides 15 sustenance when consumed. Despite being a power level 4 item, it can only be deposited into a compost bin and not a super compost bin."
+          "description": "Burnt maple syrup is a power level 4 consumable burnt food item that has a chance to be made when cooking maple sap at a campfire or grill, and guaranteed when cooking maple syrup. It requires a Cooking level lower than 50 to burn from maple sap, and guaranteed with a level lower than 41. It provides 15 sustenance when consumed. It can be deposited into a super compost bin."
         },
         "stations": [
           "Campfire",
@@ -40676,7 +41083,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
                 }
               ],
               "output": {
@@ -40698,7 +41105,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
                 }
               ],
               "output": {
@@ -41161,7 +41568,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Burnt pumpkin is a consumable burnt food item that has a chance to be made when cooking pumpkin at a campfire or grill, provides 15 sustenance when consumed, and has no uses beyond being eaten for food."
+          "description": "Burnt pumpkin is a consumable burnt food item that has a chance to be made when cooking pumpkin at a campfire or grill, provides 15 sustenance when consumed. Beyond being eaten as food, its only other purpose is as super compost, meaning that if one plans on specifically using pumpkin to supply the super compost bin, one can intentionally double-cook the pumpkin for extra cooking XP first."
         },
         "stations": [
           "Campfire",
@@ -42467,7 +42874,7 @@ window.WILDS_STORAGE = [
             },
             {
               "name": "Steadfast Stomach",
-              "desc": "Grants RESISTENCEtypo to WITHER effects"
+              "desc": "Grants RESISTANCE to WITHER effects"
             }
           ],
           "description": "Cauterised undead steak is a power level 4 food item that provides 2 health and 25 sustenance as well as the perks Ravenous and Steadfast Stomach, which drains hydration and sustenance 20% faster and grants resistance to Wither effects for 150 seconds. It can be cooked from undead meat at either a campfire or a grill, and is used in dubious meat pie.\n\n(Journal)\nDespite the appearance of their former owners and the deeply unpleasant smell emanating from it, undead meat is not rotten. It, like the nature of its former owners, is preserved in a state between life and death, as if it's on the cusp of souring, but never quite getting there.\n\nThis unique nature gives it some very interesting properties, but sadly, flavour isn't one of them."
@@ -43812,18 +44219,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Feathered_Lure.png?7abf7",
               "station": "Crafting Table"
-            },
-            {
-              "name": "Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Healing_Potion.png?b83dc",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Healing_Potion.png?39e25",
-              "station": "Brewing Cauldron"
             }
           ],
           "sources": [
@@ -44045,6 +44440,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Victoria_Sponge_Cake.png?ee883",
               "station": "Cooking Range"
+            },
+            {
+              "name": "Glorious Cake",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Victoria_Sponge_Cake.png?ee883",
+              "station": "Goblin Stove"
             }
           ],
           "sources": [
@@ -44634,6 +45035,11 @@ window.WILDS_STORAGE = [
               "source": "Food & Drink Salvage",
               "qty": "2-3",
               "rarity": "4.17/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/5"
             }
           ],
           "shops": [],
@@ -45440,7 +45846,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Fruit pie is a consumable food item that provides 90 health and 85 sustenance. It is made with dried redberries, dried dwellberries, and bread in a cooking range. Dried Cadavaberries are required to be held to unlock the recipe.\n\n(Journal)\nGrannies everywhere are masters of this dish. Delicious fruits, a touch of sugar, some delightful pastry and that final ingredient - a dark blessing to ancient gods.\n\nOr love, that works too.\n\nWith the pact complete, these pies allow you those fond memories of comfort, hope and family. Something much needed out in the wilds of Ashenfall."
+          "description": "Fruit pie is a consumable food item that provides 90 health and 85 sustenance. It is made with dried redberries, dried dwellberries, and bread in a cooking range. Dried redberries or dried dwellberries are required in the player's inventory to unlock the recipe.\n\n(Journal)\nGrannies everywhere are masters of this dish. Delicious fruits, a touch of sugar, some delightful pastry and that final ingredient - a dark blessing to ancient gods.\n\nOr love, that works too.\n\nWith the pact complete, these pies allow you those fond memories of comfort, hope and family. Something much needed out in the wilds of Ashenfall."
         },
         "stations": [
           "Cooking Range"
@@ -45534,6 +45940,11 @@ window.WILDS_STORAGE = [
               "source": "Food & Drink Salvage",
               "qty": "2-3",
               "rarity": "4.17/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/5"
             }
           ],
           "shops": [],
@@ -46566,6 +46977,11 @@ window.WILDS_STORAGE = [
               "source": "Food & Drink Salvage",
               "qty": "2-3",
               "rarity": "4.17/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/5"
             }
           ],
           "shops": [],
@@ -46786,6 +47202,11 @@ window.WILDS_STORAGE = [
               "source": "Food & Drink Salvage",
               "qty": "2-3",
               "rarity": "4.17/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/5"
             }
           ],
           "shops": [],
@@ -46803,7 +47224,7 @@ window.WILDS_STORAGE = [
               "desc": "REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
             }
           ],
-          "description": "Meat twist sandwich is a consumable food item that provides 90 health and 80 sustenance, as well as the perks Knowledgable Nourishment, Meaty Meal, and Foreman's Feast, which increases experience gain in all skills by 10%, reduces hunger drain by 25%, and reduces the stamina cost of Woodcutting and Mining by 33% for 600 seconds. It is made with flank steak, rat roast, dried redberries, and bread in a cooking range after finding the recipe nearby Valerius in Dowdun Reach, between The Library and The Cathedral.\n\n(Journal)\nThe 'twist' in the meat twist is a delightful redberry jus. The 'twist' in the Anima Twist is not, unfortunately, a delightful redberry jus."
+          "description": "A meat twist sandwich is a consumable food item that provides 90 health and 80 sustenance, as well as the perks Knowledgable Nourishment, Meaty Meal, and Foreman's Feast, which increases experience gain in all skills by 10%, reduces hunger drain by 25%, and reduces the stamina cost of Woodcutting and Mining by 33% for 600 seconds. It is made with flank steak, rat roast, dried redberries, and bread in a cooking range after finding the recipe nearby Valerius in Dowdun Reach, between The Library and The Cathedral.\n\n(Journal)\nThe 'twist' in the meat twist is a delightful redberry jus. The 'twist' in the Anima Twist is not, unfortunately, a delightful redberry jus."
         },
         "stations": [
           "Cooking Range"
@@ -46865,7 +47286,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
                 }
               ],
               "output": {
@@ -46887,7 +47308,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
                 }
               ],
               "output": {
@@ -47130,6 +47551,606 @@ window.WILDS_STORAGE = [
           "Grill",
           "Cooking Range"
         ],
+        "step": 3
+      },
+      {
+        "name": "Pristine Armoured Catfish",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Armoured_Catfish.png?5e9ef",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "9.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Armoured Catfish, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Armoured Catfish Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Armoured_Catfish_Trophy.png?fb7c9",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine armoured catfish is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 braised catfish starting at Cooking level 41, and not burnt into 3 burnt catfish at level 50. It can also be used to make Pristine Armoured Catfish Trophy. It can be gathered from rod fishing spots with ideally a maple rod in Dowdun Reach at level 3 Fishing. Using animated feather increases the chance of catching one. It is the pristine variant of a Raw Armoured Catfish.\n\n(Journal)\nSometimes evolution gets inspired by the wrong things. The catfish of Ashenfall have long been the victim of any creature that chooses to make them lunch. They are caught, cooked and consumed more often than is reasonable, and their suffering seemed too great as a result. So it was that a god took pity on them and gave them a defence.\n\nIt is uncertain which god, for none have claimed responsibility, but the divine whimsy could be the result of any of them. All we know is that the fish now have a chance against their assailants, an armoured hide to ward off some of the worst of their misery.\n\nSadly, they are no match for you."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Beltfish",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Beltfish.png?b3ff6",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Beltfish Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Beltfish_Trophy.png?806f7",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine beltfish is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 steamed beltfish. It can also be used to make Pristine Beltfish Trophy. It can be gathered from rod fishing spots with ideally a yew rod in Umbral Sands at level 3 Fishing. Using kalphite bait increases the chance of catching one. It is the pristine variant of a raw beltfish.\n\n(Journal)\nIf there were a Fishing Contest quest in Ashenfall, you can be sure that this little belter (ha!) would win outright. The lean, whiplike grace; the elegant lines of its form; the shimmer on its scales. We don't want to go overboard, but this fish you have caught is quite the looker."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Desert Sole",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Desert_Sole.png?e80fa",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Desert Sole Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Desert_Sole_Trophy.png?0e7be",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine desert sole is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 sun baked sole. It can also be used to make Pristine Desert Sole Trophy. It can be gathered from rod fishing spots with ideally a yew rod in Umbral Sands at level 3 Fishing. Using monkfish bait increases the chance of catching one. It is the pristine variant of a raw desert sole.\n\n(Journal)\nSome fish were born to be hung on a plaque within somebody's house. The desert sole, flat as the wood that you're going to nail it onto, is one of those fish. Its eyes even follow you as you move around the house, like those paintings you hear about in haunted houses.\n\nAs a note, the attractive form of the pristine desert sole, and its flatness of course, means that it could have other uses. It makes for a fine doily, for example. You're free to use it as you please."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Herring",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Herring.png?1ea50",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "3.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Herring, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Herring Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Herring_Trophy.png?5e50f",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw herring is a Power Level 3 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 smoked herring starting at Cooking level 27, and not burnt into 3 burnt herring at level 41. It can also be used to make Pristine Herring Trophy. It can be gathered from rod fishing spots with ideally an oak rod in Fractured Plains at level 3 Fishing. Using anchovy bait increases the chance of catching one. It is the pristine variant of a raw herring.\n\n(Journal)\nIt is said that if you can cut down the tallest tree in the forest, with one of these, then you can gain power and riches beyond your wildest imagination. Still, others claim that only scarlet versions of this fish can cause such a feat, and so the debate has raged for centuries.\n\nTruth be told, these fish are not particularly prized by lumberjacks anywhere."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Infernal Eel",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Infernal_Eel.png?4a2be",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "6.3 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Infernal Eel, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Infernal Eel Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Infernal_Eel_Trophy.png?cbaf5",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine infernal eel is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 Smoked Infernal Eel starting at Cooking level 41, and not burnt into 3 Burnt Infernal Eel at level 50. It can also be used to make Pristine Infernal Eel Trophy. It can be gathered from rod fishing spots with ideally a maple rod in Dowdun Reach at level 3 Fishing. Using giant krill bait increases the chance of catching one. It is the pristine variant of a raw infernal eel.\n\n(Journal)\nIn truth this is not a demonic fish, but rather the result of strange magic and infernal energies. The eel is naturally a magically attuned fish, some generate small thunderstorms within their flesh, others blend with shadows becoming almost entirely invisible. These eels, infused as they were with the abundant anima of Ashenfall, became changed by the energies of Downdun Reach’s demonic rites.\n\nFortunately, the transformation, while a little disconcerting, only really serves to give them a slightly spicy aftertaste."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Lobster",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Lobster.png?160b2",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "4.8 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Lobster, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Lobster Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Lobster_Trophy.png?94e9d",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Net Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine lobster is a Power Level 4 raw ingredient, which means it can be cooked at a campfire or grill into 3 roasted lobster starting at Cooking level 41, and not burnt into 3 burnt lobster at level 50. It can also be used to make a Pristine Lobster Trophy. It can be gathered from net fishing spots with at least a fine net in Fellhollow. It is the pristine variant of a raw lobster.\n\n(Journal)\nDo not be fooled by the traders on the street who preach of rare black lobsters worth unparalleled wealth. These are lies. For the rare black lobster is, in truth, a source of great darkness and evil.\n\nForged from black stone found beneath the waters of the Cursed Archipelago, the rare black lobster whispers terrible, terrible secrets to its bearer. It urges them towards darker and darker acts, until nothing of the host is left except an overwhelming urge toward evil.\n\nSeek thee not the rare black lobster, for it will bring nought but despair!"
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Monkfish",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Monkfish.png?000ae",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Monkfish Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Monkfish_Trophy.png?438f6",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Net Fishing Spot",
+              "qty": "1",
+              "rarity": "Unknown"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine monkfish is a Power Level 4 raw ingredient, which means it can be cooked at a campfire or grill into 3 monkfish fillets. It can also be used to make Pristine Monkfish Trophy. It can be gathered from net fishing spots with ideally a desert net in Umbral Sands. It is the pristine variant of a raw monkfish.\n\n(Journal)\nCongratulations! Of all the monkfish in the world, you have come across possibly the most dapper. You may wish to spend some time forging a monocle, to really tie the look together. That is, of course, one of those things that is funny to write in a journal like this, but will lead to disappointment and frustration if you actually try it in game."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Salmon",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Salmon.png?bfaa6",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "3.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Salmon, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Salmon Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Salmon_Trophy.png?dd08b",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine salmon is a Power Level 3 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 fried salmon starting at Cooking level 27, and not burnt into 3 burnt salmon at level 41. It can also be used to make Pristine Salmon Trophy. It can be gathered from rod fishing spots with ideally an oak rod in Fractured Plains at level 3 Fishing. Using feathered lure increases the chance of catching one. It is the pristine variant of a raw salmon.\n\n(Journal)\nThe life of a salmon is one of great journey and strife. They swim back over great distances, leaping upstream in search of a cementing their legacy. It is tragic then, perhaps, that such journeys become the happy lunchtimes of bears and other animals."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Sardine",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Sardine.png?00b60",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "3.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Sardine, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Sardine Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Sardine_Trophy.png?ebc17",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine sardine is a Power Level 2 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 fried sardines starting at Cooking level 12, and not burnt into 3 burnt sardines at level 27. It can also be used to make Pristine Sardine Trophy. It can be gathered from rod fishing spots with ideally an ash rod in Temple Woods and Bramblemead Valley at level 3 Fishing. Using shrimp bait increases the chance of catching one. It is the pristine variant of a raw sardine.\n\n(Journal)\nThere is a popular game among children, where they hide themselves around the house and then other children join them once their hiding place has been discovered. It was a game clearly invented by very tired parents, who wanted to make sure their kids were well behaved and contained in a well-known location. After all, where else can you fit seventeen children if not for the wardrobe?\n\nSadly for Gielinor's fisherfolk, the creature with the namesake of said children's game, do not possess the same desire to make their captors life easier. Fortunately, however, they are numerous enough that one need not worry themselves too much about the difficulty of catching them."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Trout",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Trout.png?a3a94",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "4.2 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Trout, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Trout Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Trout_Trophy.png?79de6",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine trout is a Power Level 2 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 grilled trout starting at Cooking level 12, and not burnt into 3 grilled trout at level 27. It can also be used to make Pristine Trout Trophy. It can be gathered from rod fishing spots with ideally an ash rod in Temple Woods and Bramblemead Valley at level 3 Fishing. Using feather bait increases the chance of catching one. It is the pristine variant of a raw trout.\n\n(Journal)\nThere is little exciting one can say about trout, they have few advocates and fewer fans. Yet, they do taste delicious with a little lemon and a few herbs, so perhaps we should thank them for not being awful.\n\nOne trout was awful. A villain. A monster who rose from the depths to bring terror to us all.\n\nNah, just kidding - they're trout... I got nothing."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Undead Bass",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Undead_Bass.png?967cd",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "6.2 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Undead Bass, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Undead Bass Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Undead_Bass_Trophy.png?1ade2",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine undead bass is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 Grilled Undead Bass starting at Cooking level 41, and not burnt into 3 burnt undead bass at level 50. It can also be used to make Pristine Undead Bass Trophy. It can be gathered from rod fishing spots with ideally a willow rod in Fellhollow at level 3 Fishing. Using spooky bait increases the chance of catching one. It is the pristine variant of a raw undead bass.\n\n(Journal)\nEven in death there are some fisherfolk who spend their quiet moments hooking these creatures. They wait, rictus still, in patience and draw these wretched things from beneath the waves only to find their prey as dead and decayed as they are, and cast them back into the waters."
+        },
+        "step": 3
+      },
+      {
+        "name": "Pristine Undead Eel",
+        "img": "https://dragonwilds.runescape.wiki/images/Pristine_Undead_Eel.png?b07e5",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "6.8 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "An unusually large Undead Eel, worthy of putting it on the wall as trophy or cook it to gain more food."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Pristine Undead Eel Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Undead_Eel_Trophy.png?e2352",
+              "station": "Build Menu"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "1.5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Pristine undead eel is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into 3 Braised Undead Eel starting at Cooking level 41, and not burnt into 3 burnt undead eel at level 50. It can also be used to make Pristine Undead Eel Trophy. It can be gathered from rod fishing spots with ideally a willow rod in Fellhollow at level 3 Fishing. Using lobster bait increases the chance of catching one. It is the pristine variant of a raw undead eel.\n\n(Journal)\nThere is something deeply disturbing about a fish that remains to die. More disturbing still are the eels that slither and writhe and wriggle beneath the waters, their hearts no longer beating and their eyes filled with the milky-white film of rot and decay."
+        },
         "step": 3
       },
       {
@@ -47476,6 +48497,341 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Raw Anchovies",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Anchovies.png?68e13",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Doesn't look like much now, but sear it on a bonfire and receive a delicious treat."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Anchovy Bait",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Anchovy_Bait.png?230e0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Seared Anchovies",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Seared_Anchovies.png?674cb",
+              "station": "Campfire"
+            },
+            {
+              "name": "Seared Anchovies",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Seared_Anchovies.png?674cb",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Anchovies",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Anchovies.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Anchovies",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Anchovies.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Net Fishing Spot",
+              "qty": "1",
+              "rarity": "60/100"
+            },
+            {
+              "source": "Net Fishing Spot",
+              "qty": "2",
+              "rarity": "30/100"
+            },
+            {
+              "source": "Net Fishing Spot",
+              "qty": "3",
+              "rarity": "10/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw anchovies are a Power Level 3 raw ingredient, which means they can be cooked at a campfire or grill into seared anchovies starting at Cooking level 27, and not burnt into burnt anchovies at level 41. They can also be used to make anchovy bait. They can be gathered from net fishing spots with at least a wool net in Fractured Plains and Stormtouched Highlands.\n\n(Journal)\nSurprisingly good on pizza, these salty little fishes are a popular delicacy across Gielinor.\n\nYou could eat these by the handful if you didn’t mind the crunch. Traditionally cured in brine and turned into a deliciously salty snack. Goes very well on pizzas."
+        },
+        "stations": [
+          "Crafting Table",
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Armoured Catfish",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Armoured_Catfish.png?45c41",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "4.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Should be shelled before being braised."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Braised Catfish",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Braised_Catfish.png?542d8",
+              "station": "Campfire"
+            },
+            {
+              "name": "Braised Catfish",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Braised_Catfish.png?542d8",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Catfish",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Catfish.png?3d4b5",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Catfish",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Catfish.png?3d4b5",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw armoured catfish is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into braised catfish starting at Cooking level 41, and not burnt into burnt catfish at level 50. It can be gathered from rod fishing spots with ideally a maple rod in Dowdun Reach at level 3 Fishing. Using animated feather increases the chance of catching one. It is the normal variant of a pristine armoured catfish.\n\n(Journal)\nSometimes evolution gets inspired by the wrong things. The catfish of Ashenfall have long been the victim of any creature that chooses to make them lunch. They are caught, cooked and consumed more often than is reasonable, and their suffering seemed too great as a result. So it was that a god took pity on them and gave them a defence.\n\nIt is uncertain which god, for none have claimed responsibility, but the divine whimsy could be the result of any of them. All we know is that the fish now have a chance against their assailants, an armoured hide to ward off some of the worst of their misery.\n\nSadly, they are no match for you.\n\nLooking at this, you're going to struggle to prepare it properly. Make sure you have a very, very sharp knife."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Beltfish",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Beltfish.png?00ba4",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "2.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "You half expect it to start wriggling again."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Steamed Beltfish",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steamed_Beltfish.png?2a640",
+              "station": "Campfire"
+            },
+            {
+              "name": "Steamed Beltfish",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steamed_Beltfish.png?2a640",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Beltfish",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Beltfish.png?0c925",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Beltfish",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Beltfish.png?0c925",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw beltfish is a Power Level 7 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into steamed beltfish. It can be gathered from rod fishing spots with a yew rod in Umbral Sands at level 3 Fishing. Using kalphite bait increases the chance of catching one. It is the normal variant of a pristine beltfish.\n\n(Journal)\nThe beltfish, or 'largehead hairtail' if you want to get fancy, is no replacement for a real belt. Anglers have been known to break their belts mid-fishing session and will look into their buckets, wondering if the beltfish 'might do'. Yes, I know - there's no helping some people.\n\nBut if you are tempted, here are the reasons why a beltfish is a sub-par belt.\n\n1. The beltfish is actually a bit of a chonker. It doesn't fit through the loops in your trousers.\n\n2. The smell of a beltfish is riper than your average fish. That ripeness only escalates as the hours go on.\n\n3. Nobody is going to be impressed with your fish-eye belt buckle.\n\n4. An eel is actually a more functional belt.\n\nRaw beltfish is a tricky customer. It's a tough, almost sinewy meat, more like a whip than a food product. If you're a chef and want to torment your sous-chef, then crack a beltfish and watch them pay attention.\n\nEqually, if you're a sous-chef and your chef is constantly whipping you with beltfish, then a beltfish makes for a handy garotte."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Bestial Meat",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Raw meat from beasts."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Flank Steak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Flank_Steak.png?25ef4",
+              "station": "Campfire"
+            },
+            {
+              "name": "Flank Steak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Flank_Steak.png?25ef4",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Flank",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Flank.png?89617",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Flank",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Flank.png?89617",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Wolf",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Wolf",
+              "qty": "1",
+              "rarity": "50/100"
+            },
+            {
+              "source": "Dire Wolf",
+              "qty": "2",
+              "rarity": "Always"
+            },
+            {
+              "source": "Dire Wolf",
+              "qty": "2",
+              "rarity": "50/100"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "sell",
+              "cost": 24,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Raw bestial meat is a Power Level 3 raw ingredient, which means it can be cooked at a campfire or grill into flank steak starting at Cooking level 27, and not burnt into burnt flank at level 41. It is dropped by wolves and dire wolves in Fractured Plains and Stormtouched Highlands.\n\n(Journal)\nThick and tough to chew, this meat makes for a filling meal, but hard work to eat."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
         "name": "Raw Bird Meat",
         "img": "https://dragonwilds.runescape.wiki/images/Raw_Bird_Meat.png?563c3",
         "tier": "",
@@ -47600,6 +48956,267 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Raw Desert Sole",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?8c46c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "2.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "You half expect it to start wriggling again."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Sun Baked Sole",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Sun_Baked_Sole.png?34e46",
+              "station": "Campfire"
+            },
+            {
+              "name": "Sun Baked Sole",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Sun_Baked_Sole.png?34e46",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Desert Sole",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Desert_Sole.png?70e9c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Desert Sole",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Desert_Sole.png?70e9c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw desert sole is a Power Level 7 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into sun baked sole. It can be gathered from rod fishing spots with a yew rod in Umbral Sands at level 3 Fishing. Using monkfish bait increases the chance of catching one. It is the normal variant of a pristine desert sole.\n\n(Journal)\nDesert sole is not the music genre of choice for Moon Garou. Instead, the desert sole is a rather flat fish that likes to nestle at the bottom of sandy pools. Being sandy-coloured themselves, it makes for a rather difficult fish to spot, let alone catch.\n\nThe flatness of a desert sole once drew the attention of the dragonkin, Lacrussa. She noted the evolutionary benefit of being paper-thin, camouflaged and having organs spread out across the body. So she dabbled with the idea for dragons. Needless to say, her 'flat-dragon' years were some of her least productive.\n\nFor a flatfish without much weight to it, the desert sole really cranks out aromas. It's especially pungent, as if it is using its full surface area to emanate.\n\nYour best bet is to cook it quick-smart. You don't want to be that guy who goes to a gathering and opens a lunch bag with some raw desert sole."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Farm Meat",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Farm_Meat.png?563c3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Raw meat from farm animals. It can be cooked on a campfire."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Steak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steak.png?cfe3d",
+              "station": "Campfire"
+            },
+            {
+              "name": "Steak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Steak.png?cfe3d",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Steak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Steak.png?381c8",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Steak",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Steak.png?381c8",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Cow",
+              "qty": "2",
+              "rarity": "Always"
+            },
+            {
+              "source": "Cow",
+              "qty": "1",
+              "rarity": "75/100"
+            },
+            {
+              "source": "Sheep",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Ram",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Ram",
+              "qty": "1",
+              "rarity": "75/100"
+            },
+            {
+              "source": "Goat",
+              "qty": "2-3",
+              "rarity": "75/100"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "sell",
+              "cost": 18,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Raw farm meat is a Power Level 2 raw ingredient, which means it can be cooked at a campfire or grill into steak starting at Cooking level 12, and not burnt into burnt steak at level 27. It is dropped by cows in Temple Woods, Bramblemead Valley, and Dowdun Reach, sheep in Fractured Plains, Stormtouched Highlands, and Dowdun Reach, and rams in Stormtouched Highlands and Dowdun Reach.\n\n(Journal)\nThis dense meat is a sturdy meal when prepared properly. It comes from larger animals who are far less willing to give it up than their smaller kin, making it a well deserved delicacy."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Game Meat",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Game_Meat.png?11fcc",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Raw meat from wild animals. It can be cooked on a campfire."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Haunch",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Haunch.png?ebeda",
+              "station": "Campfire"
+            },
+            {
+              "name": "Haunch",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Haunch.png?ebeda",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Haunch",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Haunch.png?68ff3",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Haunch",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Haunch.png?68ff3",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Deer",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "sell",
+              "cost": 12,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Raw game meat is a Power Level 2 raw ingredient, which means it can be cooked at a campfire or grill into haunch starting at Cooking level 12, and not burnt into burnt haunch at level 27. It is dropped by deer in Temple Woods, Bramblemead Valley, Fractured Plains, Stormtouched Highlands, and Dowdun Reach.\n\n(Journal)\nTender meat, straight from the hunt. Traditionally, you would hang the meat to dry out a little, then marinate it in wines, spices and preservatives. However, you can lob it in a fire for a more immediate meal. We don't judge."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
         "name": "Raw Giant Krill",
         "img": "https://dragonwilds.runescape.wiki/images/Raw_Giant_Krill.png?26270",
         "tier": "",
@@ -47691,8 +49308,247 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Raw Herring",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Herring.png?6ded2",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "1.8 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Cooked on an anvil, which may or may not be a red herring."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Smoked Herring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Smoked_Herring.png?5cc0d",
+              "station": "Campfire"
+            },
+            {
+              "name": "Smoked Herring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Smoked_Herring.png?5cc0d",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Herring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Herring.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Herring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Herring.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw herring is a Power Level 3 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into smoked herring starting at Cooking level 27, and not burnt into burnt herring at level 41. It can be gathered from rod fishing spots with ideally an oak rod in Fractured Plains at level 3 Fishing. Using anchovy bait increases the chance of catching one. It is the normal variant of a pristine herring.\n\n(Journal)\nIt is said that if you can cut down the tallest tree in the forest, with one of these, then you can gain power and riches beyond your wildest imagination. Still, others claim that only scarlet versions of this fish can cause such a feat, and so the debate has raged for centuries.\n\nTruth be told, these fish are not particularly prized by lumberjacks anywhere.\n\nA bit too floppy to be useful for lumberjacks."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Infernal Eel",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Infernal_Eel.png?47f9d",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "3.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Wriggly no more. Will need to be smoked before it goes near your palate."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Smoked Infernal Eel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Smoked_Infernal_Eel.png?4d6bd",
+              "station": "Campfire"
+            },
+            {
+              "name": "Smoked Infernal Eel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Smoked_Infernal_Eel.png?4d6bd",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Infernal Eel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Infernal_Eel.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Infernal Eel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Infernal_Eel.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw infernal eel is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into smoked infernal eel starting at Cooking level 41, and not burnt into burnt infernal eel at level 50. It can be gathered from rod fishing spots with ideally a maple rod in Dowdun Reach at level 3 Fishing. Using giant krill bait increases the chance of catching one. It is the normal variant of a pristine infernal eel.\n\n(Journal)\nIn truth, this is not a demonic fish, but rather the result of a strange magical and infernal energies. The eel is naturally a magically attuned fish, some generate small thunderstorms within their flesh, others blend with shadows to become almost entirely invisible. These eels, infused as they were with the abundant anima of Ashenfall, became changed by the energies of Dowdun Reach's demonic rites.\n\nFortunately, the transformation, while a little disconcerting, only really serves to give the ma slightly spicy aftertaste.\n\nPossessed of a strangely smoky flavour, with a surprisingly spicy kick. Best cooked very carefully, preferably in the presence of a priest."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Lobster",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Lobster.png?60b1f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "2.4 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Don't worry, it's not alive anymore. Roast for best results."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Lobster Bait",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Lobster_Bait.png?2d8b3",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Roasted Lobster",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Roasted_Lobster.png?39ee7",
+              "station": "Campfire"
+            },
+            {
+              "name": "Roasted Lobster",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Roasted_Lobster.png?39ee7",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Lobster",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Lobster.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Lobster",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Lobster.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Net Fishing Spot",
+              "qty": "1",
+              "rarity": "60/100"
+            },
+            {
+              "source": "Net Fishing Spot",
+              "qty": "2",
+              "rarity": "30/100"
+            },
+            {
+              "source": "Net Fishing Spot",
+              "qty": "3",
+              "rarity": "10/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw lobster is a Power Level 4 raw ingredient, which means it can be cooked at a campfire or grill into roasted lobster starting at Cooking level 41, and not burnt into burnt lobster at level 50. It can also be used to make lobster bait. It can be gathered from net fishing spots with at least a fine net in Fellhollow. It is the normal variant of a pristine lobster.\n\n(Journal)\nDo not be fooled by the traders on the street who preach of rare black lobsters worth unparalleled wealth. These are lies. For the rare black lobster is, in truth, a source of great darkness and evil.\n\nForged from black stone found beneath the waters of the Cursed Archipelago, the rare black lobster whispers terrible, terrible secrets to its bearer. It urges them towards darker and darker acts, until nothing of the host is left except an overwhelming urge towards evil\n\nSeek thee not the rare black lobster, for it will bring nought but despair.\n\nAlthough some people insits that a lobster must be boiled alive to get the best flavour, you have already put it out of its misery - fortunately for the lobster. Now you can look forward to boiling it guilt-free for a much gentler flavour."
+        },
+        "stations": [
+          "Crafting Table",
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
         "name": "Raw Monkfish",
-        "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123",
         "tier": "",
         "tierRank": null,
         "chest": "food",
@@ -47772,10 +49628,572 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Raw monkfish is a power level 7 food that can be captured at net fishing spots in the Umbral Sands region. Monkfish are so-called on Ashenfall due to the goddess Elidinis. The Moon Garou, having never seen a monk, adopted the name after the goddess herself named them.\n\n(Journal)\nThere are, in fact, two variants of the monkfish. One is the Piscatoris monkfish, known for its gamey taste and slightly depressed countenance. The other is the Ashenfall monkfish, which has a more trout-like flavour and a happier, almost smirking countenance. Anglers, who like to simplify things, distinguish them by calling them 'sad boy' and 'happy boy'.\n\nBoth monkfish are 'sad boys' when they're caught, of course.\n\nIt may be called the 'Ashenfall' monkfish, but you'd be hard-pressed to find it anywhere other than in Umbral Sands. That's mostly down to a lack of trade. The Moon Garou are an isolationist sort, preferring to keep their trading partners to other Moon Garou. Their closest non-garou partners would be the Black Knights but they, too, like to keep to themselves, and would prefer to deal with other humans over the garou.\n\nWhich is a shame, really, as monkfish deserves to go continental. Ashenfall monkfish is like trout, but with a slight fizzing sensation, similar to popping candy. If you've got a child or garou cub who won't eat their fish, then try them on Ashenfall monkfish. In our house, it's a gateway fish, leading onto other, less gimmicky fish."
+          "description": "Raw monkfish is a power level 7 food that can be captured at net fishing spots in the Umbral Sands region.\n\n(Journal)\nThere are, in fact, two variants of the monkfish. One is the Piscatoris monkfish, known for its gamey taste and slightly depressed countenance. The other is the Ashenfall monkfish, which has a more trout-like flavour and a happier, almost smirking countenance. Anglers, who like to simplify things, distinguish them by calling them 'sad boy' and 'happy boy'.\n\nBoth monkfish are 'sad boys' when they're caught, of course.\n\nIt may be called the 'Ashenfall' monkfish, but you'd be hard-pressed to find it anywhere other than in Umbral Sands. That's mostly down to a lack of trade. The Moon Garou are an isolationist sort, preferring to keep their trading partners to other Moon Garou. Their closest non-garou partners would be the Black Knights but they, too, like to keep to themselves, and would prefer to deal with other humans over the garou.\n\nWhich is a shame, really, as monkfish deserves to go continental. Ashenfall monkfish is like trout, but with a slight fizzing sensation, similar to popping candy. If you've got a child or garou cub who won't eat their fish, then try them on Ashenfall monkfish. In our house, it's a gateway fish, leading onto other, less gimmicky fish."
         },
         "stations": [
           "Crafting Table",
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Rat Meat",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Rat_Meat.png?563c3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Tough, gamey meat that can be cooked and eaten."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Rat Roast",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rat_Roast.png?5b575",
+              "station": "Campfire"
+            },
+            {
+              "name": "Rat Roast",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Rat_Roast.png?5b575",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Rat Roast",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Rat_Roast.png?77179",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Rat Roast",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Rat_Roast.png?77179",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Giant Rat",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Chinchompa",
+              "qty": "2",
+              "rarity": "Always"
+            },
+            {
+              "source": "Putrid Rat",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Plague King",
+              "qty": "3",
+              "rarity": "Always"
+            },
+            {
+              "source": "Rat King",
+              "qty": "3",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "sell",
+              "cost": 6,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Raw rat meat is a Power Level 1 raw ingredient, which means it can be cooked at a campfire or grill into rat roast starting at Cooking level 1, and not burnt into burnt rat roast at level 12. It is dropped by giant rats in Temple Woods and Bramblemead Valley and vaults, rat kings in vaults, putrid rats and plague kings in the Whispering Swamp and the Bloodblight Swamp, and chinchompas in the Fractured Plains.\n\n(Journal)\nSmaller creatures have much less meat on their bones, making them a less-fulfilling meal. Hunters would subsist on these while stalking larger prey over several days. The Wild Knight, Ilom, was particularly fond of drying out these little morsels, treating them as a meaty little snack for boring patrols."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Salmon",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Salmon.png?a035f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "1.8 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "While it might be edible now, you'll need to fry it in this game."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Fried Salmon",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fried_Salmon.png?00747",
+              "station": "Campfire"
+            },
+            {
+              "name": "Fried Salmon",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fried_Salmon.png?00747",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Salmon",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Salmon.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Salmon",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Salmon.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw salmon is a Power Level 3 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into fried salmon starting at Cooking level 27, and not burnt into burnt salmon at level 41. It can be gathered from rod fishing spots with ideally an oak rod in Fractured Plains at level 3 Fishing. Using feathered lure increases the chance of catching one. It is the normal variant of a pristine salmon.\n\n(Journal)\nThe life of a salmon is one of great journey and strife. They swim back over great distances, leaping upstream in search of a cementing their legacy. It is tragic then, perhaps, that such journeys become the happy lunchtimes of bears and other animals.\n\nThe Wushanko islands are masters of turning this into a delicious and satisfying meal. Alas, you never did take the time to study their culinary ways and must apply heat to this meal, lest your eject your internalised failures upon Ashenfall’s soil."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Sardine",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Sardine.png?1d159",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "1.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A small fish that was brought into this world to be fried and eaten."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Fried Sardine",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fried_Sardine.png?ea629",
+              "station": "Campfire"
+            },
+            {
+              "name": "Fried Sardine",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fried_Sardine.png?ea629",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Sardine",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Sardine.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Sardine",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Sardine.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw sardine is a Power Level 2 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into fried sardine starting at Cooking level 12, and not burnt into burnt sardine at level 27. It can be gathered from rod fishing spots with ideally an ash rod in Temple Woods and Bramblemead Valley at level 3 Fishing. Using shrimp bait increases the chance of catching one. It is the normal variant of a pristine sardine.\n\n(Journal)\nSardines travel in large shoals; their lives spend as part of a grand community. There’s something a little tragic seeing one here on its own. Still, with a little heat, perhaps a sprinkle of salt and other seasonings, and you’ve got yourself a nice snack."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Shrimp",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Shrimp.png?a32a6",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.2 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Schrodinger's shrimp: could end up burnt or fried."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Shrimp Bait",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Shrimp_Bait.png?50838",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Sauteed Shrimp",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Sauteed_Shrimp.png?2d575",
+              "station": "Campfire"
+            },
+            {
+              "name": "Sauteed Shrimp",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Sauteed_Shrimp.png?2d575",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Shrimp",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Shrimp.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Shrimp",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Shrimp.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Net Fishing Spot",
+              "qty": "1",
+              "rarity": "60/100"
+            },
+            {
+              "source": "Net Fishing Spot",
+              "qty": "2",
+              "rarity": "30/100"
+            },
+            {
+              "source": "Net Fishing Spot",
+              "qty": "3",
+              "rarity": "10/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw shrimp is a Power Level 2 raw ingredient, which means it can be cooked at a campfire or grill into sauteed shrimp starting at Cooking level 12, and not burnt into burnt shrimp at level 27. They can also be used to make shrimp bait. They can be gathered from net fishing spots with at least a coarse net in Temple Woods and Bramblemead Valley.\n\n(Journal)\nAlmost all fishing careers begin with these little critters. Their number is practically infinite, so the universe responds by gifting them the survival instinct of an inebriated moth approaching the most magnificent flame.\n\nMany a new fishermen has found their diet consisting almost exclusively of these crunchy little things.\n\nThere are many ways to cook shrimp. Countless recipes that promise wonderful taste sensations. Right now, though, I would suggest you don’t really want to eat them. They’re all wriggly."
+        },
+        "stations": [
+          "Crafting Table",
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Trout",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Trout.png?763ba",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "2.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Grill this trout on a fire. You will thank us later."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Grilled Trout",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Grilled_Trout.png?9c117",
+              "station": "Campfire"
+            },
+            {
+              "name": "Grilled Trout",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Grilled_Trout.png?9c117",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Trout",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Trout.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Trout",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Trout.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw trout is a Power Level 2 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into grilled trout starting at Cooking level 12, and not burnt into burnt trout at level 27. It can be gathered from rod fishing spots with ideally an ash rod in Temple Woods and Bramblemead Valley at level 3 Fishing. Using feather bait increases the chance of catching one. It is the normal variant of a pristine trout.\n\n(Journal)\nThere is little exciting one can say about trout, they have few advocates and fewer fans. Yet, they do taste delicious with a little lemon and a few herbs, so perhaps we should thank them for not being awful.\n\nOne trout was awful. A villain. A monster who rose from the depths to bring terror to us all.\n\nNah, just kidding – they’re trout… I got nothing.\n\nBonier than some of the other popular fishes, the trout is nevertheless one of the most regularly consumed freshwater fishes. Its flavour is heavily modified by its diet…which, on Ashenfall, is more than a little worrying if I’m honest."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Undead Bass",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Undead_Bass.png?9864f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "3.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "It may not look edible, but trust us: grill it and you're in for a treat."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Grilled Undead Bass",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Grilled_Undead_Bass.png?8678e",
+              "station": "Campfire"
+            },
+            {
+              "name": "Grilled Undead Bass",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Grilled_Undead_Bass.png?8678e",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Undead Bass",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Undead_Bass.png?6a39c",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Undead Bass",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Undead_Bass.png?6a39c",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw undead bass is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into grilled undead bass starting at Cooking level 41, and not burnt into burnt undead bass at level 50. It can be gathered from rod fishing spots with ideally a willow rod in Fellhollow at level 3 Fishing. Using spooky bait increases the chance of catching one. It is the normal variant of a pristine undead bass.\n\n(Journal)\nEven in death there are some fisherfolk who spend their quiet moments hooking these creatures. They wait, rictus still, in patience and draw these wretched things from beneath the waves only to find their prey as dead and decayed as they are, and cast them back into the waters.\n\nIn life, these are gamy fish, sleek of form and delicious with a bit of lemon. In unlife... well... they're a little less appetising, and lemons are surprisingly sparse on Ashenfall.\n\nStill, needs must."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Raw Undead Eel",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Undead_Eel.png?65feb",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "21 April 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "3.4 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A dead undead eel. We suggest you braise it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Braised Undead Eel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Braised_Undead_Eel.png?ea63d",
+              "station": "Campfire"
+            },
+            {
+              "name": "Braised Undead Eel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Braised_Undead_Eel.png?ea63d",
+              "station": "Grill"
+            },
+            {
+              "name": "Burnt Undead Eel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Undead_Eel.png?3d4b5",
+              "station": "Campfire"
+            },
+            {
+              "name": "Burnt Undead Eel",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Burnt_Undead_Eel.png?3d4b5",
+              "station": "Grill"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "Varies"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Raw undead eel is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into braised undead eel starting at Cooking level 41, and not burnt into burnt undead eel at level 50. It can be gathered from rod fishing spots with ideally a willow rod in Fellhollow at level 3 Fishing. Using lobster bait increases the chance of catching one. It is the normal variant of a pristine undead eel.\n\n(Journal)\nThere is something deeply disturbing about a fish that remains to die. More disturbing still are the eels that slither and writhe and wriggle beneath the waters, their hearts no longer beating and their eyes filled with the milky-white film of rot and decay.\n\nSometimes, you have to ask yourself why you cook everything you find. Is this really going to make a succulent meal? Even dead it twitches occasionally, animated by some remnant of necromantic energy. Its flesh is partially decayed and the smell... oh the smell...\n\nI recommend cooking it very, very thoroughly."
+        },
+        "stations": [
           "Campfire",
           "Grill"
         ],
@@ -47942,12 +50360,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Medium_Awning_Roof_%28Red%29.png?0905e",
               "station": "Build Menu"
-            },
-            {
-              "name": "Weak Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c",
-              "station": "Brewing Cauldron"
             }
           ],
           "sources": [
@@ -49618,6 +52030,11 @@ window.WILDS_STORAGE = [
               "source": "Food & Drink Salvage",
               "qty": "2-3",
               "rarity": "4.17/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/5"
             }
           ],
           "shops": [],
@@ -50527,6 +52944,47 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Unusual Trout",
+        "img": "https://dragonwilds.runescape.wiki/images/Unusual_Trout.png?018a2",
+        "tier": "",
+        "tierRank": null,
+        "chest": "food",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Raw Ingredient"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "2.1 kg"
+            },
+            {
+              "label": "Description",
+              "value": "This trout has seen things. You almost feel apologetic for catching it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Pool of Fish",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Unusual Trout is a raw ingredient that can be captured by grabbing it from the pool of fish for OffalFoot in The Lake far beneath The Courtyard. The area in which to grab it is accessed through the catacombs beneath the The Cathedral. Give it to OffalFoot to receive a Shard of the Dreaming Stone in return.\n\n(Journal)\nThe trout is unusual in a few different ways. It's still breathing even out of water, which you could probably classify as more than just \"unusual\". But we like to stay away from hyperbole, so we'll stick with \"unusual\" for now.\n\nIt also seems to be eyeballing you. Little sideways glances that could be interpreted as judgements. And when you do fail at something - burn a fish, perhaps - it tuts, loudly, like a librarian."
+        },
+        "step": 3
+      },
+      {
         "name": "Vegan Fryup",
         "img": "https://dragonwilds.runescape.wiki/images/Vegan_Fryup.png?857eb",
         "tier": "",
@@ -50647,7 +53105,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Vegan fryup is a consumable food item that provides 70 health and 70 sustenance. It is made with baked potato, fried cabbage, and grilled tomatoes in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nCrisp and delicious vegetables, neatly fried mushrooms, there are few breakfasts quite as delicious as a fry up, even for those who abjure bacon."
+          "description": "Vegan fryup is a consumable food item that provides 70 health and 70 sustenance. It is made with baked potato, fried cabbage, and grilled tomatoes in a stone range or a cooking range; however, a player must interact with a stone range and have grilled tomatoes in their inventory first to learn the recipe.\n\n(Journal)\nCrisp and delicious vegetables, neatly fried mushrooms, there are few breakfasts quite as delicious as a fry up, even for those who abjure bacon."
         },
         "stations": [
           "Stone Range",
@@ -52622,7 +55080,7 @@ window.WILDS_STORAGE = [
           "perks": [
             {
               "name": "Antipoison",
-              "desc": "NEGATES and grants RESISTENCE to POISON effects"
+              "desc": "NEGATES and grants RESISTANCE to POISON effects"
             }
           ],
           "description": "Lesser antipoison potion grants the perk Antipoison, which removes Poison stacks and grants 33% resistance from Poison buildup for 10-minutes (600 seconds). It is made with toadflax, swamp weed, and clay vessel in a brewing cauldron.\n\n(Journal)\nWhile the weaker variant of antipoison is sufficient for everyday usage, there are some situations that require a more potent resistance. The toxic mists in Ghornfell, over the swamps, are more powerful than a weaker resistance will protect against. These lesser potions strengthen the immune system and keep the toxic miasma from the drinker’s blood. Imperfect, still, but a much greater chance of survival."
@@ -56477,6 +58935,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Dowdun Reach)",
               "qty": "1",
               "rarity": "1.1/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/8"
             }
           ],
           "shops": [],
@@ -56491,6 +58954,628 @@ window.WILDS_STORAGE = [
         "stations": [
           "Stone Range",
           "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Cadavaberry Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Cadavaberry_Infusion.png?598f9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Hydration",
+              "value": "40"
+            },
+            {
+              "label": "Duration",
+              "value": "900 seconds"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "A refreshing fruity drink. Excellent for hydration."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 15
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clean Water",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clean_Water.png?514e3"
+                },
+                {
+                  "name": "Dried Cadavaberries",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Dried_Cadavaberries.png?184f4"
+                }
+              ],
+              "output": {
+                "name": "Cadavaberry Infusion",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Cadavaberry_Infusion.png?598f9"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Food & Drink Salvage",
+              "qty": "2-3",
+              "rarity": "4.17/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "1.1/100"
+            }
+          ],
+          "shops": [],
+          "perks": [
+            {
+              "name": "Quenched",
+              "desc": "THIRST drains 33% SLOWER"
+            }
+          ],
+          "description": "Cadavaberry infusion is a consumable drink item that provides 40 hydration and grants the perk Quenched, which reduces thirst drain by 33% for 900 seconds. It is made with clean water and dried cadavaberries in a cooking range.\n\n(Journal)\nAt first glance you might just assume this is poison, for the cadavaberry is a dangerous fruit. Yet with careful preparation, and an appropriate amount of boiling, the berry can become a sharp but not fatal addition to any dessert.\n\nMixed with water, it becomes an empowering infusion that puts a spring in your step. Partially because your body is reminded at just how close it came to death in drinking it, so it makes the most of the life it has left."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Cooling Arcane Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Cooling_Arcane_Infusion.png?a3668",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Hydration",
+              "value": "40"
+            },
+            {
+              "label": "Duration",
+              "value": "600 seconds"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Puts the whiz in wizard."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Cactus Water",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Water.png?07a2d"
+                },
+                {
+                  "name": "Anima-Infused Bark",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Anima-Infused_Bark.png?789d1"
+                },
+                {
+                  "name": "Toadflax",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Toadflax.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Cooling Arcane Infusion",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Cooling_Arcane_Infusion.png?a3668"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [
+            {
+              "name": "Arcane Aligned",
+              "desc": "REDUCES the STAMINA cost of MAGIC ATTACKS by 33%"
+            },
+            {
+              "name": "Frosted Flavours",
+              "desc": "Grants RESISTANCE to SCORCH buildup"
+            }
+          ],
+          "description": "Cooling arcane infusion is a consumable drink item that provides 40 hydration as well as the perks Arcane Aligned and Frosted Flavours, which reduces the stamina cost of magic attacks by 33% and grants resistance to Scorch buildup for 600 seconds. It is made with cactus water, anima-infused bark, and toadflax in a cooking range.\n\n(Journal)\nThe stereotype is that wizards are the lazy corner of the combat triangle. They don't have to swing an axe like a melee warrior, or dodge behind mushrooms like a ranger. They stand stock-still, tossing fireballs: a glass cannon who crosses their non-spellcasting fingers, hoping that they don't get impaled on an arrow. But let me tell you: the wizard has to wear the heaviest, most uncomfortable robes, even in the heat of places like the Umbral Sands, and that is hard work. For those wizards, there is nothing like the cool, soothing taste of a cooling arcane infusion."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Cooling Evasive Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Cooling_Evasive_Infusion.png?200c2",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Hydration",
+              "value": "40"
+            },
+            {
+              "label": "Duration",
+              "value": "600 seconds"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A thirst-quenching drink that improves your reflexes."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Cactus Water",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Water.png?07a2d"
+                },
+                {
+                  "name": "Shocking Plant Bulb",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Shocking_Plant_Bulb.png?6c8ad"
+                },
+                {
+                  "name": "Snapdragon",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Snapdragon.png?6c8ad"
+                }
+              ],
+              "output": {
+                "name": "Cooling Evasive Infusion",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Cooling_Evasive_Infusion.png?200c2"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [
+            {
+              "name": "Evasion",
+              "desc": "REDUCES the STAMINA cost of DODGING by 33%"
+            },
+            {
+              "name": "Frosted Flavours",
+              "desc": "Grants RESISTANCE to SCORCH buildup"
+            }
+          ],
+          "description": "Cooling evasive infusion is a consumable drink item that provides 40 hydration and grants the perks Evasion and Frosted Flavours, which reduces the stamina cost of dodging by 33% and grants resistance to Scorch buildup for 600 seconds. It is made with cactus water, shocking plant bulb, and snapdragon in a cooking range.\n\n(Journal)\nDodging an enemy's attack is already 'cool' - just ask any of the top-ranking thieves from the Thieves' Guild, back on mainland Gielinor. But evading enemies while ice-cold yourself: that is the epitome of style."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Cooling Ferocious Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Cooling_Ferocious_Infusion.png?fb48a",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Hydration",
+              "value": "40"
+            },
+            {
+              "label": "Duration",
+              "value": "600 seconds"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A hydrating drink infused with primal fury."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Cactus Water",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Water.png?07a2d"
+                },
+                {
+                  "name": "Dragon Tooth",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Dragon_Tooth.png?d4d9c"
+                },
+                {
+                  "name": "Toadflax",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Toadflax.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Cooling Ferocious Infusion",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Cooling_Ferocious_Infusion.png?fb48a"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [
+            {
+              "name": "Ferocious Fighter",
+              "desc": "REDUCES the STAMINA cost of PHYSICAL ATTACKS by 33%"
+            },
+            {
+              "name": "Frosted Flavours",
+              "desc": "Grants RESISTANCE to SCORCH buildup"
+            }
+          ],
+          "description": "Cooling ferocious infusion is a consumable drink item that provides 40 hydration as well as the perks Ferocious Fighter and Frosted Flavours, which reduces the stamina cost of physical attacks by 33% and grants resistance to Scorch buildup for 600 seconds. It is made with cactus water, dragon tooth, and toadflax in a cooking range.\n\n(Journal)\nVannaka approves this message. When you absolutely, positively have to kill every skeleton, demon or dragon in the room: accept no substitute. Except, perhaps, the cooling relentless infusion. Honestly, Vannaka can't pick between them."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Cooling Fleet-Footed Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Cooling_Fleet-Footed_Infusion.png?6563a",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Hydration",
+              "value": "40"
+            },
+            {
+              "label": "Duration",
+              "value": "600 seconds"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A thirst-quenching drink that puts a spring in your step."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Cactus Water",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Water.png?07a2d"
+                },
+                {
+                  "name": "Onion",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
+                },
+                {
+                  "name": "Snapdragon",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Snapdragon.png?6c8ad"
+                }
+              ],
+              "output": {
+                "name": "Cooling Fleet-Footed Infusion",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Cooling_Fleet-Footed_Infusion.png?6563a"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [
+            {
+              "name": "Fleet Footed",
+              "desc": "REDUCES the STAMINA cost of SPRINTING by 50%"
+            },
+            {
+              "name": "Frosted Flavours",
+              "desc": "Grants RESISTANCE to SCORCH buildup"
+            }
+          ],
+          "description": "Cooling fleet-footed infusion is a consumable drink item that provides 40 hydration as well as the perks Fleet Footed and Frosted Flavours, which reduces the stamina cost of sprinting by 33% and grants resistance to Scorch buildup for 600 seconds. It is made with cactus water, onion, and snapdragon in a cooking range.\n\n(Journal)\nNine out of ten sprinters prefer it. After a burst of energy, nothing is quite like uncorking a cooling fleet-footed infusion to both settle the stamina and give you a touch of brainfreeze. Comes in low-fat and 'monster' variants."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Cooling Relentless Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Cooling_Relentless_Infusion.png?f5376",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Hydration",
+              "value": "40"
+            },
+            {
+              "label": "Duration",
+              "value": "600 seconds"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A tasty tipple that'll put a quiver in your quiver."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Cactus Water",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Water.png?07a2d"
+                },
+                {
+                  "name": "Shrapnel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Shrapnel.png?157b3"
+                },
+                {
+                  "name": "Toadflax",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Toadflax.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Cooling Relentless Infusion",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Cooling_Relentless_Infusion.png?f5376"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [
+            {
+              "name": "Relentless Ranger",
+              "desc": "REDUCES the STAMINA cost of RANGED ATTACKS by 33%"
+            },
+            {
+              "name": "Frosted Flavours",
+              "desc": "Grants RESISTANCE to SCORCH buildup"
+            }
+          ],
+          "description": "Cooling relentless infusion is a consumable drink item that provides 40 hydration as well as the perks Relentless Ranger and Frosted Flavours, which reduces the stamina cost of ranged attacks by 33% and grants resistance to Scorch buildup for 600 seconds. It is made with cactus water, shrapnel, and toadflax in a cooking range.\n\n(Journal)\nThe best archers in the world are often said to have ice in their veins. It's an odd idiom - you would imagine that would be both uncomfortable and give an archer the shivers, precisely what they wouldn't want - but it's meant to indicate a steeliness, a cold efficiency. Well, imagine applying a tap (or faucet, if that's your orientation) to an archer and draining them for a drink. That would be the cooling relentless infusion."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Dihydrogen Monoxide",
+        "img": "https://dragonwilds.runescape.wiki/images/Dihydrogen_Monoxide.png?9d65f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Why did they laugh when I bought this? Sold by local traders."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Gypsum Wax",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a",
+              "station": "Brewing Cauldron"
+            }
+          ],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Iasadair - The Merchant",
+              "mode": "sell",
+              "cost": 25,
+              "currency": "Garou Chit"
+            },
+            {
+              "seller": "Beartach - The Merchant",
+              "mode": "sell",
+              "cost": 25,
+              "currency": "Garou Chit"
+            },
+            {
+              "seller": "Domri - The Merchant",
+              "mode": "sell",
+              "cost": 25,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Dihydrogen monoxide is a basic item that can be bought from Umbral Sands merchants for 25 garou chit. Unlike most drinks, this cannot be consumed.\n\n(Journal)\nIf a smiling garou sells you some 'human salts', or 'dinner dust' then be wary. There is a good chance that the garou trader doesn't like you and is selling you one of Umbral Sands' common compounds: dihydrogen monoxide. The scientists among you will perk up your ears: dihydrogen monoxide is a compound that forms a base for so many toxic substances and diseases. It's not 'dinner dust', as the cheeky garou might have suggested. Put it in a vial, keep it away from the hands of grasping children, and use it with care."
+        },
+        "stations": [
+          "Brewing Cauldron"
         ],
         "step": 3
       },
@@ -56624,6 +59709,45 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Empty Vial",
+        "img": "https://dragonwilds.runescape.wiki/images/Empty_Vial.png?6a2ef",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "29 July 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Apparently this will collect lightning if you get struck by it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Empty Vial is a quest item that is obtained by Doctor Fenkenstrain in The Great Body Robbery. Players will need to be struck by lightning with this in their inventory to convert it into a lightning-in-a-bottle."
+        },
+        "step": 3
+      },
+      {
         "name": "Evasive Infusion",
         "img": "https://dragonwilds.runescape.wiki/images/Evasive_Infusion.png?15390",
         "tier": "",
@@ -56735,6 +59859,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Dowdun Reach)",
               "qty": "1",
               "rarity": "1.1/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/8"
             }
           ],
           "shops": [],
@@ -56874,6 +60003,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Dowdun Reach)",
               "qty": "1",
               "rarity": "1.1/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/8"
             }
           ],
           "shops": [],
@@ -57003,6 +60137,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Dowdun Reach)",
               "qty": "1",
               "rarity": "1.1/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/8"
             }
           ],
           "shops": [],
@@ -57088,6 +60227,105 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Focused Fishing II is a perk given by drinking the Focused Fishing potion or the super Focused Fishing potion, increasing the experience gained when training the Fishing skill by 30% for 5 minutes (300 seconds) or 10 minutes (600 seconds) respectively."
         },
+        "step": 3
+      },
+      {
+        "name": "Maple Infusion",
+        "img": "https://dragonwilds.runescape.wiki/images/Maple_Infusion.png?46158",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026"
+            },
+            {
+              "label": "Hydration",
+              "value": "80"
+            },
+            {
+              "label": "Duration",
+              "value": "300 seconds"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Made from clean water, maple sap and irit. Reduces thirst as well as stamina when blocking."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 15
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clean Water",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clean_Water.png?514e3"
+                },
+                {
+                  "name": "Maple Syrup",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Maple_Syrup.png?ced86"
+                },
+                {
+                  "name": "Irit",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Irit.png?ad481"
+                }
+              ],
+              "output": {
+                "name": "Maple Infusion",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Maple_Infusion.png?46158"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Food & Drink Salvage",
+              "qty": "2-3",
+              "rarity": "4.17/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/8"
+            }
+          ],
+          "shops": [],
+          "perks": [
+            {
+              "name": "Stalwart Shield",
+              "desc": "REDUCES the STAMINA cost of BLOCK ACTIONS by 33%"
+            }
+          ],
+          "description": "Maple infusion is a consumable drink item that provides 80 hydration and grants the perk Stalwart Shield, which reduces the stamina cost of block actions by 33% for 300 seconds. It is made with clean water, maple syrup, and irit in a cooking range.\n\n(Journal)\nThe distilled strength of a maple tree, pumped straight to your dietary tract. You might fell a rising fury whenever you stare at a logging axe, however."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
         "step": 3
       },
       {
@@ -57180,6 +60418,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Dowdun Reach)",
               "qty": "1",
               "rarity": "1.1/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/8"
             }
           ],
           "shops": [],
@@ -57454,6 +60697,11 @@ window.WILDS_STORAGE = [
               "source": "Food & Drink Salvage",
               "qty": "2-3",
               "rarity": "4.17/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/8"
             }
           ],
           "shops": [],
@@ -57551,6 +60799,696 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
+        "name": "Strong Sweet Tea",
+        "img": "https://dragonwilds.runescape.wiki/images/Strong_Sweet_Tea.png?acec6",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Hydration",
+              "value": "10"
+            },
+            {
+              "label": "Duration",
+              "value": "300 seconds"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ground Tea Leaves",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Tea_Leaves.png?85906"
+                },
+                {
+                  "name": "Clean Water",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clean_Water.png?514e3"
+                },
+                {
+                  "name": "Maple Syrup",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Maple_Syrup.png?ced86"
+                }
+              ],
+              "output": {
+                "name": "Strong Sweet Tea",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Strong_Sweet_Tea.png?acec6"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1-2",
+              "rarity": "1/8"
+            }
+          ],
+          "shops": [],
+          "perks": [
+            {
+              "name": "Sugar Rush",
+              "desc": "REDUCES REST drain by 25%"
+            }
+          ],
+          "description": "Strong sweet tea is a consumable drink item that provides 10 hydration and 20 rest as well as the perk Sugar Rush, which reduces rest drain by 25% for 300 seconds. It is made with ground tea leaves, 3 clean water, and maple syrup in a cooking range.\n\n(Journal)\nThe strong sweet tea is like being punched and kissed at the same time, which makes it something of an acquired taste. The Wise Old Man swears by it, and mumbles something about \"liking my tea like I like my women\", which we won't dig into for fear of getting the Wise Old Man cancelled."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Strong Tea",
+        "img": "https://dragonwilds.runescape.wiki/images/Strong_Tea.png?900ec",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Hydration",
+              "value": "10"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Cooking Range",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ground Tea Leaves",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Tea_Leaves.png?85906"
+                },
+                {
+                  "name": "Clean Water",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clean_Water.png?514e3"
+                }
+              ],
+              "output": {
+                "name": "Strong Tea",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Strong_Tea.png?900ec"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Strong tea is a consumable drink item that provides 10 hydration and 20 rest. It is made with ground tea leaves and 3 clean water in a cooking range.\n\n(Journal)\nOnly the most hardcore crones and witches will dare drink strong tea. We're talking about the ones with a twitch in their eye, who burble to themselves when no-one else is looking. They like it so strong that it resists the spoon, when a biscuit will bounce off the surface tension. It is said that the strong tea's aroma goes perfectly with a pair of twins roasting nicely in the stove."
+        },
+        "stations": [
+          "Cooking Range"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Tome of Agility - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Agility_-_Vol_1.png?fe375",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "29 July 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to move more efficiently. Awards a small amount of Agility XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Agility - Vol 1 is a skill tome. It can be received occasionally from chests. When read, the tome gives 100 Agility experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Agility - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Agility_-_Vol_1.png?fe375",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "29 July 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to move more efficiently. Awards a decent amount of Agility XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Agility - Vol 2 is a skill tome that can be found occasionally through gameplay. When read, the tome gives 400 Agility experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Attack - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Attack_-_Vol_1.png?123a9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on the use of melee weapons. Awards a small amount of Attack XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Attack - Vol 1 is a skill tome that can be received occasionally from chests. When read, the tome gives 100 Attack experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Attack - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Attack_-_Vol_2.png?e6231",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on the use of melee weapons. Awards a decent amount of Attack XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.81/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.18/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Attack - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Attack experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Construction - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Construction_-_Vol_1.png?094a3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to be a better architect. Awards a small amount of Construction XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Construction - Vol 1 is a skill tome that can be received occasionally from chests. When read, the tome gives 100 Construction experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Construction - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Construction_-_Vol_2.png?3085a",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to be a better architect. Awards a decent amount of Construction XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Portal Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.9/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.2/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Construction - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Construction experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Cooking - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Cooking_-_Vol_1.png?094a3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to cook better meals. Awards a small amount of Cooking XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Restless Ghosts Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Cooking - Vol 1 is a skill tome that is one of four rewards given after completing the Restless Ghosts quest. It can also be received occasionally from chests. When read, the tome gives 100 Cooking experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Cooking - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Cooking_-_Vol_2.png?61484",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to cook better meals. Awards a decent amount of Cooking XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.81/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.18/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Cooking - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Cooking experience."
+        },
+        "step": 3
+      },
+      {
         "name": "Tome of Farming - Vol 1",
         "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Farming_-_Vol_1.png?e26b7",
         "tier": "",
@@ -57582,7 +61520,43 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [],
-          "sources": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            }
+          ],
           "shops": [],
           "perks": [],
           "description": "The Tome of Farming - Vol 1 is a tier 1 tome that rewards the player 100 Farming experience."
@@ -57646,6 +61620,11 @@ window.WILDS_STORAGE = [
               "source": "Spectral Chest",
               "qty": "1",
               "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
             }
           ],
           "shops": [],
@@ -57686,7 +61665,43 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [],
-          "sources": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            }
+          ],
           "shops": [],
           "perks": [],
           "description": "Tome of Fishing - Vol 1 is a skill tome that rewards the player 100 Fishing experience. Players can receive this tome through completing the quest, Shrimp Catcher."
@@ -57745,11 +61760,1049 @@ window.WILDS_STORAGE = [
               "source": "Spectral Chest",
               "qty": "1",
               "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
             }
           ],
           "shops": [],
           "perks": [],
           "description": "Tome of Fishing - Vol 2 is a skill tome that rewards the player 400 Fishing experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Magic - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Magic_-_Vol_1.png?094a3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to wield deadlier spells. Awards a small amount of Magic XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Magic - Vol 1 is a skill tome that can be received occasionally from chests. When read, the tome gives 100 Magic experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Magic - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Magic_-_Vol_2.png?a8120",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to wield deadlier spells. Awards a decent amount of Magic XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Portal Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.81/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.18/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Magic - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Magic experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Mining - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Mining_-_Vol_1.png?094a3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to swing a pickaxe. Awards a small amount of Mining XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Restless Ghosts Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Mining - Vol 1 is a skill tome that is one of four rewards given after completing the Restless Ghosts quest. It can also be received occasionally from chests. When read, the tome gives 100 Mining experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Mining - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Mining_-_Vol_2.png?70d7b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to swing a pickaxe. Awards a decent amount of Mining XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Portal Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.81/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.18/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Mining - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Mining experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Ranged - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Ranged_-_Vol_1.png?094a3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on the intricacies of archery. Awards a small amount of Ranged XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Ranged - Vol 1 is a skill tome that can be received occasionally from chests. When read, the tome gives 100 Ranged experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Ranged - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Ranged_-_Vol_2.png?5c795",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on the intricacies of archery. Awards a decent amount of Ranged XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.9/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.2/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Ranged - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Ranged experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Runecrafting - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Runecrafting_-_Vol_1.png?094a3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to bind anima within rune essence. Awards a small amount of Runecrafting XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Runecrafting - Vol 1 is a skill tome that is the reward given after completing the First Steps quest. It can also be received occasionally from chests. When read, the tome gives 100 Runecrafting experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Runecrafting - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Runecrafting_-_Vol_2.png?29045",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to bind anima within rune essence. Awards a decent amount of Runecrafting XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.81/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.18/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Runecrafting - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Runecrafting experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of the Artisan - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_the_Artisan_-_Vol_1.png?314ab",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to craft tools and equipment. Awards a small amount of Artisan XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Restless Ghosts Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of the Artisan - Vol 1 is a skill tome that is one of four rewards given after completing the Restless Ghosts quest. It can also be received occasionally from chests. When read, the tome gives 100 Artisan experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of the Artisan - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_the_Artisan_-_Vol_2.png?a2e83",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how to craft tools and equipment. Awards a decent amount of Artisan XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Portal Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.9/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.2/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of the Artisan - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Artisan experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of the Dragon Slayer",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_the_Dragon_Slayer.png?314ab",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "6.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A powerful tome containing ancient techniques of warfare. Grants a large amount of Attack, Magic and Ranged XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Dragon Slayer Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of the Dragon Slayer is one of the rewards from completing the main quest, Dragon Slayer.\n\nIt rewards 500 experience each in Attack, Ranged, and Magic."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of the Titan",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_the_Titan.png?b9a88",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Consumable Tome"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "6.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A powerful tome containing ancient techniques of warfare. Grants a large amount of experience in the Attack, Magic and Ranged skills."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Black Knight's Fortress Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "The Tome of the Titan is a reward from completing the Black Knight's Fortress quest.\n\nIt rewards 750 experience each to Magic, Ranged, and Attack."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of the Undying",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_the_Undying.png?530f3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "6.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "Grants a large amount of Attack, Magic and Ranged XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Withering Heights Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "The Tome of the Undying is one of the rewards from completing the main quest, Withering Heights.\n\nIt rewards 750 experience each in Attack, Ranged, and Magic."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Volcano",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Volcano.png?acd35",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Tome"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "6.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A powerful tome containing ancient techniques of warfare. Grants a large amount of experience in the Attack, Magic and Ranged skills."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Icthlarin's Little Helper Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "The Tome of Volcano is an item given to the player upon opening the Icthlarin's Little Helper reward pack. It gives the player +750 experience in the Attack, Magic, and Ranged skills."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Woodcutting - Vol 1",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Woodcutting_-_Vol_1.png?314ab",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how best to chop down trees. Awards a small amount of Woodcutting XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Chest (Skeklac Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Takla Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Chaktan Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Kletterbuja Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Vertentis Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Crasorak Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Chest (Thishepen Kara)",
+              "qty": "1",
+              "rarity": "1/119"
+            },
+            {
+              "source": "Restless Ghosts Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Woodcutting - Vol 1 is a skill tome that is one of four rewards given after completing the Restless Ghosts quest and is a reward after the Rune Mysteries quest. It can also be received occasionally from chests. When read, the tome gives 100 Woodcutting experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Tome of Woodcutting - Vol 2",
+        "img": "https://dragonwilds.runescape.wiki/images/Tome_of_Woodcutting_-_Vol_2.png?3b891",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A book filled with knowledge on how best to chop down trees. Awards a decent amount of Woodcutting XP."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "1",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.81/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.18/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "1/11"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "1",
+              "rarity": "1/26.5"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Tome of Woodcutting - Vol 2 is a skill tome found in chests within Fellhollow. When read, the tome gives 400 Woodcutting experience."
+        },
+        "step": 3
+      },
+      {
+        "name": "Vial",
+        "img": "https://dragonwilds.runescape.wiki/images/Vial.png?6b36b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.1 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "20"
+            },
+            {
+              "label": "Description",
+              "value": "An empty glass vial."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A vial is a resource that is currently not released in the game. In addition, there is no current recipe to build an empty vial."
         },
         "step": 3
       },
@@ -57874,6 +62927,66 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Brewing Cauldron"
+        ],
+        "step": 3
+      },
+      {
+        "name": "Wither Water",
+        "img": "https://dragonwilds.runescape.wiki/images/Wither_Water.png?2f849",
+        "tier": "",
+        "tierRank": null,
+        "chest": "potions",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Drink"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Hydration",
+              "value": "10"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A source of hydration, tainted by the realm of Imaru."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Clean Water",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Clean_Water.png?514e3",
+              "station": "Campfire"
+            },
+            {
+              "name": "Clean Water",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Clean_Water.png?514e3",
+              "station": "Grill"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Wither water is a drink that can be collected from ponds or any accessible body of water affected by wither in Fellhollow. Drinking it increases hydration by 10, but will increase Wither status by 15.\n\n(Journal)\nDrawn from pools of wither-rot water, lakes and streams poisoned by the waters of the Noumenon - the river of the dead.\n\nThese waters have become corrupted by Imaru's hunger and each devour one's soul."
+        },
+        "stations": [
+          "Campfire",
+          "Grill"
         ],
         "step": 3
       }
@@ -61170,6 +66283,16 @@ window.WILDS_STORAGE = [
               "source": "Runite Ore Node",
               "qty": "1",
               "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "3-9",
+              "rarity": "1/8"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "3-9",
+              "rarity": "1/17.8"
             }
           ],
           "shops": [],
@@ -62390,6 +67513,16 @@ window.WILDS_STORAGE = [
               "source": "Luminite Deposit",
               "qty": "1-2",
               "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "3-9",
+              "rarity": "1/8"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "3-9",
+              "rarity": "1/17.8"
             }
           ],
           "shops": [],
@@ -63339,12 +68472,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Advanced_Spinning_Wheel.png?503ed",
               "station": "Build Menu"
-            },
-            {
-              "name": "Small Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Small_Wardstone.png?5b128",
-              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -63901,6 +69028,45 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Emerald",
+        "img": "https://dragonwilds.runescape.wiki/images/Emerald.png?44043",
+        "tier": "",
+        "tierRank": null,
+        "chest": "stone",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "3.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A rare gemstone used to craft enchanted jewellery"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Emeralds are a gemstone that cannot be legitimately obtained currently."
+        },
+        "step": 0
+      },
+      {
         "name": "Granite",
         "img": "https://dragonwilds.runescape.wiki/images/Granite.png?d4d9c",
         "tier": "",
@@ -63985,12 +69151,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Lougrim_Memorial_Shrine.png?1933a",
               "station": "Build Menu"
-            },
-            {
-              "name": "Large Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Large_Wardstone.png?183b0",
-              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -64017,6 +69177,11 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Granite is a basic Mining material that can be mined from granite deposits.\n\nGranite can be processed at a grindstone to create ground granite. Additionally, granite is a reagent for other items and buildings.\n\n(Journal)\nThis stone is stubbornly resistant to magic. Whereas other stones absorb the nascent anima, Granite refuses. It exists on its own terms, not the whims of magic. As such, it is highly prized in construction projects, as it resists most magic and those enchantments that do affect it, last much longer.\n\nLegend speaks of a weapon forged from this stone. A great hammer, said to be able to crush almost any armour."
         },
+        "stations": [
+          "Blacksmith's Bench",
+          "Grindstone",
+          "Mystic Forge"
+        ],
         "step": 0
       },
       {
@@ -65419,12 +70584,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Mining_Potion.png?d94a9",
               "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Medium Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Medium_Wardstone.png?4c663",
-              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -65488,8 +70647,7 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Grindstone",
-          "Brewing Cauldron",
-          "Crafting Table"
+          "Brewing Cauldron"
         ],
         "step": 0
       },
@@ -67522,7 +72680,7 @@ window.WILDS_STORAGE = [
               "skills": [
                 {
                   "name": "Artisan",
-                  "xp": 25
+                  "xp": 60
                 }
               ],
               "materials": [
@@ -68040,7 +73198,7 @@ window.WILDS_STORAGE = [
               "station": "Brewing Cauldron"
             },
             {
-              "name": "Naptha",
+              "name": "Naphtha",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
               "station": "Brewing Cauldron"
@@ -68187,18 +73345,6 @@ window.WILDS_STORAGE = [
               "name": "Weak Focused Agility Potion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Agility_Potion.png?91662",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Healing_Potion.png?39e25",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Weak Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c",
               "station": "Brewing Cauldron"
             }
           ],
@@ -68608,12 +73754,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Maple_Wand.png?36220",
               "station": "Mystic Forge"
-            },
-            {
-              "name": "Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Healing_Potion.png?b83dc",
-              "station": "Brewing Cauldron"
             }
           ],
           "sources": [],
@@ -70056,6 +75196,11 @@ window.WILDS_STORAGE = [
               "source": "Moon Garou Pack",
               "qty": "3",
               "rarity": "Always"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "6-8",
+              "rarity": "Always"
             }
           ],
           "shops": [
@@ -70606,6 +75751,16 @@ window.WILDS_STORAGE = [
               "source": "Black Dragon",
               "qty": "10-12",
               "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "4-8",
+              "rarity": "1/8"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "4-8",
+              "rarity": "1/17.8"
             }
           ],
           "shops": [],
@@ -75017,15 +80172,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Weight",
-              "value": "0.6 kg"
+              "value": "0.1 kg"
             },
             {
               "label": "Stack limit",
-              "value": "50"
+              "value": "99"
             },
             {
               "label": "Description",
-              "value": "Dropped by Zamorak magisupposed to be Mages. Can be spun into thread at a spinning wheel."
+              "value": "Dropped by Zamorak magi. Can be spun into thread at a spinning wheel."
             }
           ],
           "recipes": [],
@@ -75185,7 +80340,7 @@ window.WILDS_STORAGE = [
               "name": "Shadow Crossbow",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
-              "station": "Fletching Table"
+              "station": "Fletching Bench"
             },
             {
               "name": "Mystic Net",
@@ -76662,7 +81817,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Warped feathers is a basic Agility material that can be found from Agility courses reward packs. Warped feathers can create the gyrhawk amulet along with coarse thread. However, players will need more feathers to charge the amulet to gain Agility experience whilst running, jumping, and dodging.\n\n(Journal)\nIs there a sorrier tale than that of the Ashenfall gyrhawk? It was such a beautiful bird, and it was the closest that the natural world has ever come to a daredevil. It lived to swoop through winding canyons, to plunge into forest canopies. It didn't matter if it was chasing prey: it would negotiate sharp turns and small gaps for the simple sport of it. Man-made structures were just as attractive to a the Ashenfall gyrhawk as natural structures, thanks to the sudden turns and sharp drops.\n\nBut then came the invention of the glass window. The Ashenfall gyrhawks never adapted to them. For years, gyrhawks would slam into or smash through windows until, suddenly, those occurrences stopped. The last of the gyrhawks died, and their feathers were lost to the winds."
+          "description": "Warped feathers are a basic Agility material that can be found from Agility courses reward packs.\n\nWarped feathers (along with coarse thread) can create the gyrhawk amulet. Feathers held in the inventory will also slowly be consumed by the amulet in exchange for increased Agility experience whilst running, jumping, and dodging.\n\n(Journal)\nIs there a sorrier tale than that of the Ashenfall gyrhawk? It was such a beautiful bird, and it was the closest that the natural world has ever come to a daredevil. It lived to swoop through winding canyons, to plunge into forest canopies. It didn't matter if it was chasing prey: it would negotiate sharp turns and small gaps for the simple sport of it. Man-made structures were just as attractive to a the Ashenfall gyrhawk as natural structures, thanks to the sudden turns and sharp drops.\n\nBut then came the invention of the glass window. The Ashenfall gyrhawks never adapted to them. For years, gyrhawks would slam into or smash through windows until, suddenly, those occurrences stopped. The last of the gyrhawks died, and their feathers were lost to the winds."
         },
         "stations": [
           "Crafting Table"
@@ -77138,7 +82293,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Weight",
-              "value": "1.0 kg"
+              "value": "3.0 kg"
             },
             {
               "label": "Stack limit",
@@ -77671,7 +82826,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Resource"
+              "value": "Basic Material"
             },
             {
               "label": "Released",
@@ -77817,6 +82972,21 @@ window.WILDS_STORAGE = [
               "source": "Black Dragon",
               "qty": "6-12",
               "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "3-5",
+              "rarity": "1/8"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "3-5",
+              "rarity": "1/17.8"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "8",
+              "rarity": "Always"
             }
           ],
           "shops": [],
@@ -77951,6 +83121,21 @@ window.WILDS_STORAGE = [
             {
               "source": "Black Dragon",
               "qty": "6-12",
+              "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "2-4",
+              "rarity": "1/8"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "2-4",
+              "rarity": "1/17.8"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "3-5",
               "rarity": "Always"
             }
           ],
@@ -78375,7 +83560,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Basic Item"
+              "value": "Basic Material"
             },
             {
               "label": "Released",
@@ -81823,6 +87008,12 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
+              "name": "Wooden Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Wooden_Arrow.png?6ea12",
+              "station": "Crafting Table"
+            },
+            {
               "name": "Wooden Club",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Wooden_Club.png?240ee",
@@ -82069,6 +87260,12 @@ window.WILDS_STORAGE = [
               "name": "Medium Square Foundation",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Medium_Square_Foundation_%28Cottage%29.png?64dbb",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Medium 45° Roof",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Medium_45%C2%B0_Roof_%28Thatched%29.png?f13a3",
               "station": "Build Menu"
             },
             {
@@ -82338,7 +87535,7 @@ window.WILDS_STORAGE = [
             {
               "name": "Pristine Monkfish Trophy",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Monkfish_Trophy.png?63d81",
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Monkfish_Trophy.png?438f6",
               "station": "Build Menu"
             },
             {
@@ -83999,7 +89196,7 @@ window.WILDS_STORAGE = [
               "name": "Shadow Crossbow",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
-              "station": "Fletching Table"
+              "station": "Fletching Bench"
             },
             {
               "name": "Maple Rod",
@@ -84016,7 +89213,7 @@ window.WILDS_STORAGE = [
             {
               "name": "Ore & Stone Storage",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?8110e",
+              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?7529c",
               "station": "Build Menu"
             },
             {
@@ -84666,6 +89863,16 @@ window.WILDS_STORAGE = [
               "source": "Magic Tree",
               "qty": "1",
               "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "5-10",
+              "rarity": "1/8"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "5-10",
+              "rarity": "1/17.8"
             }
           ],
           "shops": [],
@@ -85051,12 +90258,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Oak_Wand.png?e3b83",
               "station": "Mystic Forge"
-            },
-            {
-              "name": "Medium Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Medium_Wardstone.png?4c663",
-              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -85107,7 +90308,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Stack limit",
-              "value": "999"
+              "value": "99"
             },
             {
               "label": "Description",
@@ -85454,6 +90655,11 @@ window.WILDS_STORAGE = [
               "source": "Buried Treasure (Brynmoor)",
               "qty": "10-20",
               "rarity": "12.5/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "50-70",
+              "rarity": "1/4"
             }
           ],
           "shops": [],
@@ -85733,6 +90939,11 @@ window.WILDS_STORAGE = [
               "source": "Buried Treasure (Brynmoor)",
               "qty": "10-20",
               "rarity": "12.5/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "50-70",
+              "rarity": "1/4"
             }
           ],
           "shops": [],
@@ -85932,6 +91143,11 @@ window.WILDS_STORAGE = [
               "source": "Buried Treasure (Brynmoor)",
               "qty": "10-20",
               "rarity": "12.5/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "50-70",
+              "rarity": "1/4"
             }
           ],
           "shops": [],
@@ -86206,6 +91422,11 @@ window.WILDS_STORAGE = [
               "source": "Buried Treasure (Brynmoor)",
               "qty": "10-20",
               "rarity": "12.5/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "50-70",
+              "rarity": "1/4"
             }
           ],
           "shops": [],
@@ -86510,6 +91731,11 @@ window.WILDS_STORAGE = [
               "source": "Buried Treasure (Brynmoor)",
               "qty": "10-20",
               "rarity": "12.5/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "50-70",
+              "rarity": "1/4"
             }
           ],
           "shops": [],
@@ -86709,6 +91935,11 @@ window.WILDS_STORAGE = [
               "source": "Buried Treasure (Brynmoor)",
               "qty": "10-20",
               "rarity": "12.5/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "50-70",
+              "rarity": "1/4"
             }
           ],
           "shops": [],
@@ -86951,6 +92182,11 @@ window.WILDS_STORAGE = [
               "source": "Buried Treasure (Brynmoor)",
               "qty": "10-20",
               "rarity": "12.5/100"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "50-70",
+              "rarity": "1/4"
             }
           ],
           "shops": [],
@@ -87036,7 +92272,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Ground Rune Essence",
-        "img": "https://dragonwilds.runescape.wiki/images/Ground_Rune_Essence_%28Journal%29.png?a41c8",
+        "img": "https://dragonwilds.runescape.wiki/images/Ground_Rune_Essence_%28Journal%29.png?69fc6",
         "tier": "",
         "tierRank": null,
         "chest": "runes",
@@ -87250,24 +92486,6 @@ window.WILDS_STORAGE = [
               "name": "Ash Wand",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Ash_Wand.png?8f784",
-              "station": "Crafting Table"
-            },
-            {
-              "name": "Large Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Large_Wardstone.png?183b0",
-              "station": "Crafting Table"
-            },
-            {
-              "name": "Medium Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Medium_Wardstone.png?4c663",
-              "station": "Crafting Table"
-            },
-            {
-              "name": "Small Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Small_Wardstone.png?5b128",
               "station": "Crafting Table"
             }
           ],
@@ -87501,11 +92719,21 @@ window.WILDS_STORAGE = [
               "source": "Buried Treasure (Brynmoor)",
               "qty": "6-12",
               "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "10-20",
+              "rarity": "1/8"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "10-20",
+              "rarity": "1/17.8"
             }
           ],
           "shops": [],
           "perks": [],
-          "description": "Rune essence can be gathered by mining rune essence stones surrounding the geysers around Ashenfall. Some spawn with rocks on the ground that you can easily gather from. The floating rocks require being hit (most easily with an arrow or an attack from a staff), and they will then fall to the ground to be mined. Alternatively, players can cast Rocksplosion whilst aiming at the floating rocks and can collect rune essence without affecting the pickaxe's durability.\n\nCollecting rune essence in their inventory for the first time unlocks the rune altar.\n\n(Journal)\nA magical stone with the ability to absorb the ambient anima around it. On Ashenfall, the rocks hover in the air as if resting on some invisible structure, held aloft by invisible currents of magical energy.\n\nWith the right equipment and skill, Rune Essence can be infused with certain magical resonances, taking on the elemental power of the air or the flame.\n\nThis discovery is one of Guthix’s greatest triumphs and perhaps his most enduring miracle."
+          "description": "Rune essence is mainly used to craft runes and other magical items. It can be gathered by mining rune essence stones surrounding the geysers around Ashenfall.\n\nSome geysers spawn with rocks on the ground that players can easily gather from. Other floating rocks require being hit out of the sky (most easily with an arrow or an attack from a staff), then they will then fall to the ground to be mined. Alternatively, players can cast Rocksplosion whilst aiming at the floating rocks to burst all at once, and can collect rune essence without affecting their pickaxe's durability.\n\nReceiving rune essence for the first time unlocks the rune altar.\n\n(Journal)\nA magical stone with the ability to absorb the ambient anima around it. On Ashenfall, the rocks hover in the air as if resting on some invisible structure, held aloft by invisible currents of magical energy.\n\nWith the right equipment and skill, Rune Essence can be infused with certain magical resonances, taking on the elemental power of the air or the flame.\n\nThis discovery is one of Guthix’s greatest triumphs and perhaps his most enduring miracle."
         },
         "stations": [
           "Crafting Table",
@@ -87691,15 +92919,15 @@ window.WILDS_STORAGE = [
               "station": "Smithing Forge"
             },
             {
-              "name": "Moon Ring",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Moon_Ring.png?0b97c",
-              "station": "Smithing Forge"
-            },
-            {
               "name": "Miner Ring",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Miner_Ring.png?0b97c",
+              "station": "Smithing Forge"
+            },
+            {
+              "name": "Moon Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Moon_Ring.png?0b97c",
               "station": "Smithing Forge"
             },
             {
@@ -87738,6 +92966,9 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "A vault core can be found on pedestals in dragonkin vaults. Their primary use is to make lodestones, which serve as a teleport location that can be travelled to from any other lodestone the player has placed on the map. They are also components of several masterworks, such as the abyssal whip and dragonblight shield. Note that these respawn in their plinths every three in-game days, so their quantity is not limited.\n\n(Journal)\nA heart of alchemically modified rune essence. Layers of complex enchantments and veins of anima run through this core. It allows it to absorb ambient anima from its surroundings, which in turn powers the various functions of the vault guardian servitors.\n\nThis marvel of dragonkin science had revolutionary potential. The ability to create power sources that thrived off of the ambient anima of the region. Ashenfall, with it’s surfeit of magical power, was the perfect place for such technology, and the dragonkin would apply it to all of their arcane machinery."
         },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
         "step": 6
       },
       {
@@ -87939,12 +93170,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Wand.png?ebeb7",
               "station": "Mystic Forge"
-            },
-            {
-              "name": "Large Wardstone",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Large_Wardstone.png?183b0",
-              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -88164,7 +93389,7 @@ window.WILDS_STORAGE = [
             {
               "name": "Ore & Stone Storage",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?8110e",
+              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?7529c",
               "station": "Build Menu"
             },
             {
@@ -88428,7 +93653,7 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Naptha",
+              "name": "Naphtha",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
               "station": "Brewing Cauldron"
@@ -88634,7 +93859,7 @@ window.WILDS_STORAGE = [
               "name": "Shadow Crossbow",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Shadow_Crossbow.png?ac835",
-              "station": "Fletching Table"
+              "station": "Fletching Bench"
             },
             {
               "name": "Shadow Body",
@@ -88723,6 +93948,16 @@ window.WILDS_STORAGE = [
               "source": "Black Dragon",
               "qty": "12-15",
               "rarity": "Always"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "8-11",
+              "rarity": "1/8"
+            },
+            {
+              "source": "Chest (Scorned Wilderness)",
+              "qty": "8-11",
+              "rarity": "1/17.8"
             }
           ],
           "shops": [],
@@ -88963,6 +94198,256 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Brewing Cauldron"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Fire Oil",
+        "img": "https://dragonwilds.runescape.wiki/images/Fire_Oil.png?f60f9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "11 September 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Flammable and volatile, handle with care!; ; Used to craft Fire arrows."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Fletching Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Naphtha",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20"
+                },
+                {
+                  "name": "Coarse Thread",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Coarse_Thread.png?71f62"
+                }
+              ],
+              "output": {
+                "name": "Fire Oil",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Fire_Oil.png?f60f9"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [
+            {
+              "name": "Iron Fire Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Iron_Fire_Arrow.png?5f396",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Bronze Fire Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Fire_Arrow.png?8cd86",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Steel Fire Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Steel_Fire_Arrow.png?250e0",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Mithril Fire Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Mithril_Fire_Arrow.png?84566",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Adamant Fire Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Fire_Arrow.png?0e5b7",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Rune Fire Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Rune_Fire_Arrow.png?dc0e3",
+              "station": "Fletching Bench"
+            },
+            {
+              "name": "Fang Fire Arrow",
+              "qty": 33,
+              "img": "https://dragonwilds.runescape.wiki/images/Fang_Fire_Arrow.png?b24f3",
+              "station": "Fletching Bench"
+            }
+          ],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Fire oil is an item that is unlocked at level 45 Ranged, where players can use fire oil to create fire arrows. Note that adding fire oil to arrows will change the damage property of the arrow from Ranged damage to Fire Magic damage and will apply a 60% burn buildup.\n\n(Journal)\nUsed to craft Fire arrows.\n\nSome people just like to watch the world burn… and you can too, with these new handy fire oils! That’s right, just lob one of these beauties at your enemies and watch them ignite. Enjoy their screams as their skin boils away and breathe in the delightful aroma of a fresh barbecue!\n\nFire oil, like snake oil, was once the creation of a travelling merchant to Ashenfall. She had journeyed to Brynmoor alongside some of the Saradominist settlers, and with her she brought pungent unguents, elucidating elixirs, marvellous medicines, and weapons of localised destruction.\n\nWhen her wares summoned the call for refunds, she would dazzle the onlookers with a sudden fiery display and then disappear into the alleyways until she had been forgotten. She would then return in one of a staggering array of disguises, until the tragic day when her wagon hit a pothole during a quick getaway and her many, many, bottles of fire oils decided to sing the song of their people.\n\nFortunately, even though she and everything she owned, tragically found itself reduced to smouldering atoms, her recipe lived on and found more conventional uses."
+        },
+        "stations": [
+          "Fletching Bench"
+        ],
+        "step": 0
+      },
+      {
+        "name": "Fuel Briquette",
+        "img": "https://dragonwilds.runescape.wiki/images/Fuel_Briquette.png?58308",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Produced by burning wood in a kiln, charcoal is a very efficient fuel."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Fuel briquettes are a type of fuel that can be used in any processing stations requiring a heat source. Fuel briquettes are currently not in the game and do not have a set recipe. However, the description suggests burning wood inside a kiln to yield fuel briquettes."
+        },
+        "step": 0
+      },
+      {
+        "name": "Fuel Pellet",
+        "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet_%28Journal%29.png?bcb41",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Processed Material"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A high-temperature fuel. Needed to smelt more advanced metals."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Charcoal",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308"
+                },
+                {
+                  "name": "Adhesive",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Adhesive.png?44043"
+                },
+                {
+                  "name": "Coarse Animal Fur",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Coarse_Animal_Fur.png?737e6"
+                }
+              ],
+              "output": {
+                "name": "Fuel Pellet",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Misc. Salvage",
+              "qty": "3-5",
+              "rarity": "5.26/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "2-4",
+              "rarity": "1/24"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "2-4",
+              "rarity": "1.46/100"
+            }
+          ],
+          "shops": [
+            {
+              "seller": "Beartach - The Merchant",
+              "mode": "buy",
+              "cost": 9,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "Fuel pellet is a fuel source that can be created at a Blacksmith's Bench. It can be used in a blast furnace as fuel to create higher-tiered materials. Players must have coal in their inventory and build a blast furnace to unlock the fuel pellet. If the recipe has not unlocked with Coal in the inventory, mining Coal from a Coal Node may fix it.\n\n(Journal)\nFlammable objects pressed together into a smaller, even more flammable object. The fuel pellet burns hotter and stronger than basic fuels, making it much more desirable for more complex smithing techniques."
+        },
+        "stations": [
+          "Blacksmith's Bench"
         ],
         "step": 0
       },
@@ -89433,7 +94918,7 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
-        "name": "Naptha",
+        "name": "Naphtha",
         "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
         "tier": "",
         "tierRank": null,
@@ -89489,7 +94974,7 @@ window.WILDS_STORAGE = [
                 }
               ],
               "output": {
-                "name": "Naptha",
+                "name": "Naphtha",
                 "qty": 1,
                 "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20"
               },
@@ -89510,28 +94995,7 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             }
           ],
-          "sources": [
-            {
-              "source": "Dragon Wolf",
-              "qty": "1",
-              "rarity": "33/100"
-            },
-            {
-              "source": "Carnivorous Chinchompa",
-              "qty": "1",
-              "rarity": "1/10"
-            },
-            {
-              "source": "Wild Ruby Vine",
-              "qty": "1",
-              "rarity": "Always"
-            },
-            {
-              "source": "Wild Ruby Vine",
-              "qty": "1",
-              "rarity": "1/2"
-            }
-          ],
+          "sources": [],
           "shops": [],
           "perks": [],
           "description": "Naptha is an item that is unlocked at level 45 Ranged, where players can use naptha to create fire oil. It is also dropped by dragon wolves and carnivorous chinchompas.\n\n(Journal)\nDistilled from swamp tar and charcoal.\n\nOnce known as “thick water”, naptha is liquid fire in waiting. It takes little to bring this substance to ignition, even too bright a sunny day can bring the raging flame from within.\n\nAs such, this material is widely sought by anyone with a strong desire to set things aflame. Pyromaniacs, alchemists and dragon cultists alike yearn for this liquid."
@@ -89780,6 +95244,71 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Soda Ash",
+        "img": "https://dragonwilds.runescape.wiki/images/Soda_Ash.png?dfc4f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "alchemy",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.5 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "One of the ingredients for making glass, obtained from cooking Swamp Weed."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Crafting Table",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Swamp Weed",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Swamp_Weed.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Soda Ash",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Soda_Ash.png?dfc4f"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Soda ash is a resource forgeable into molten glass (not present in-game), and is made from swamp weed. Soda ash is presently not in the game."
+        },
+        "stations": [
+          "Crafting Table"
+        ],
+        "step": 0
+      },
+      {
         "name": "Swamp Tar",
         "img": "https://dragonwilds.runescape.wiki/images/Swamp_Tar.png?58308",
         "tier": "",
@@ -89818,7 +95347,7 @@ window.WILDS_STORAGE = [
               "station": "Kiln"
             },
             {
-              "name": "Naptha",
+              "name": "Naphtha",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Naptha.png?bfa20",
               "station": "Brewing Cauldron"
@@ -91126,12 +96655,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Arcane_Infusion.png?935da",
               "station": "Cooking Range"
-            },
-            {
-              "name": "Weak Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c",
-              "station": "Brewing Cauldron"
             }
           ],
           "sources": [
@@ -91369,12 +96892,6 @@ window.WILDS_STORAGE = [
               "name": "Focused Fishing Potion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Focused_Fishing_Potion.png?57912",
-              "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Healing_Potion.png?b83dc",
               "station": "Brewing Cauldron"
             }
           ],
@@ -91660,7 +97177,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The large compost bucket is a tool created at the crafting table. Level 65 Farming is required to unlock the recipe. It can be used to take out compost, super compost and ultra compost from the compost bin, super compost bin and ultra compost bin, respectively, at a maximum of 300 units per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost, super compost or ultra compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Ms Hyacinth, to help her around the farm. They had buckets back in the human homeworld of Teragard, of course, but she hadn't brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Ms Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Ms Hyacinth needed something to help with the clean-up.\n\nShe used local twigs at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie's endeavours.\n\nNow, you too can fill one of these marvellous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
+          "description": "The large compost bucket is a tool created at the crafting table. Level 65 Farming is required to unlock the recipe. It can be used to take out compost, super compost, and ultra compost from the compost bin, super compost bin, and ultra compost bin, respectively, at a maximum of 300 units per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost, super compost, or ultra compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Ms Hyacinth, to help her around the farm. They had buckets back in the human homeworld of Teragard, of course, but she hadn't brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Ms Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Ms Hyacinth needed something to help with the clean-up.\n\nShe used local twigs at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie's endeavours.\n\nNow, you too can fill one of these marvellous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
         },
         "stations": [
           "Crafting Table"
@@ -92759,12 +98276,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Agility_Potion.png?d9377",
               "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Lesser Healing Potion",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Lesser_Healing_Potion.png?39e25",
-              "station": "Brewing Cauldron"
             }
           ],
           "sources": [
@@ -92903,6 +98414,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Lesser_Antipoison_Potion.png?d3d65",
               "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Soda Ash",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Soda_Ash.png?dfc4f",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -92936,7 +98453,8 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Spinning Wheel",
-          "Brewing Cauldron"
+          "Brewing Cauldron",
+          "Crafting Table"
         ],
         "plot": "Oak Farming Plot",
         "growsFrom": "Swamp Weed Seeds",
@@ -93317,6 +98835,45 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Vine Root",
+        "img": "https://dragonwilds.runescape.wiki/images/Vine_Root.png?789d1",
+        "tier": "",
+        "tierRank": null,
+        "chest": "farming",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Resource"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.2 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "20"
+            },
+            {
+              "label": "Description",
+              "value": "A fibrous root with unique properties."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A vine root is an item that cannot be obtained in the game."
+        },
+        "step": 0
+      },
+      {
         "name": "Watermelon",
         "img": "https://dragonwilds.runescape.wiki/images/Watermelon.png?040d2",
         "tier": "",
@@ -93505,6 +99062,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Medium 45° Roof",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Medium_45%C2%B0_Roof_%28Thatched%29.png?f13a3",
+              "station": "Build Menu"
+            },
+            {
               "name": "Plant Cure",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Plant_Cure.png?ab06e",
@@ -93649,6 +99212,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Victoria_Sponge_Cake.png?ee883",
               "station": "Cooking Range"
+            },
+            {
+              "name": "Glorious Cake",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Victoria_Sponge_Cake.png?ee883",
+              "station": "Goblin Stove"
             }
           ],
           "sources": [
@@ -93779,7 +99348,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Yew Tree Seed",
-        "img": "https://dragonwilds.runescape.wiki/images/Yew_Tree_Seed.png?890fc",
+        "img": "https://dragonwilds.runescape.wiki/images/Yew_Tree_Seed.png?dd714",
         "tier": "",
         "tierRank": null,
         "chest": "farming",
@@ -94299,7 +99868,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A bronze spade is a power level 2 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 40% to the next plot clearing stage. Therefore, it will take three digs to progress one stage.\n\n(Journal)\nWood breaks, shatters and splinters, which can be very frustrating when out in the garden. Metal is more durable and longer lasting, and bronze is a very malleable metal. With one of these spades, you can assault the skin of the planet, reshaping Gielinor to suit your own grand designs."
+          "description": "A bronze spade is a power level 2 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 40% to the next plot clearing stage. Therefore, it will take three digs to progress one stage.\n\nA bronze spade is required to dig in oak farming plots.\n\n(Journal)\nWood breaks, shatters and splinters, which can be very frustrating when out in the garden. Metal is more durable and longer lasting, and bronze is a very malleable metal. With one of these spades, you can assault the skin of the planet, reshaping Gielinor to suit your own grand designs."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -94927,7 +100496,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A steel spade is a power level 3 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 60% to the next plot clearing stage. Therefore, it will take two digs to progress one stage.\n\n(Journal)\nFallen from too many tall buildings, only to be punished for your misstep by the cruel and malicious ground? Well, now is your chance to get your revenge. The smug soil doesn't think you can touch it, but you can prove it wrong by stabbing it through its smug topsoil smirk with a nice steel spade.\n\nOh, sure, it's great for gardening, but really this is a tool for sweet, sweet revenge."
+          "description": "A steel spade is a power level 3 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 60% to the next plot clearing stage. Therefore, it will take two digs to progress one stage.\n\nA steel spade is required to dig in willow farming plots.\n\n(Journal)\nFallen from too many tall buildings, only to be punished for your misstep by the cruel and malicious ground? Well, now is your chance to get your revenge. The smug soil doesn't think you can touch it, but you can prove it wrong by stabbing it through its smug topsoil smirk with a nice steel spade.\n\nOh, sure, it's great for gardening, but really this is a tool for sweet, sweet revenge."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -95498,7 +101067,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "An adamant spade is a power level 7 spade unlocked the first time the player picks up an adamant bar. It is crafted at the blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress instantly to the next plot clearing stage.\n\n(Journal)\nDAMN IT MAN, CAN'T YOU SEE THAT I AM A SPADE?\n\nI give you: an adamant spade. Do you get it? You get it, right? Don't make us dig a hole and hide in shame."
+          "description": "An adamant spade is a power level 7 spade unlocked the first time the player picks up an adamant bar. It is crafted at the blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress instantly to the next plot clearing stage.\n\nAn adamant spade is required to dig in yew farming plots.\n\n(Journal)\nDAMN IT MAN, CAN'T YOU SEE THAT I AM A SPADE?\n\nI give you: an adamant spade. Do you get it? You get it, right? Don't make us dig a hole and hide in shame."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -97278,7 +102847,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
                 }
               ],
               "output": {
@@ -97449,7 +103018,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The oak rod is a power level 3 Fishing tool crafted at the blacksmith's bench.\n\n(Journal)\nOak rod is much like its anagram: it's an A-OK rod. Not brilliant, not terrible.\n\nIt's a rod that you will you look back on fondly when you wield a mighty maple rod. \"Ah, I remember when I used to use an oak rod,\" you will say, as you bite the head off a live catfish and stand astride a pile of infernal eels.\n\nFor now, appreciate your time with it. You will miss it once you have left it behind."
+          "description": "The oak rod is a power level 3 Fishing tool crafted at the blacksmith's bench. It can be used to catch fish from rod fishing spots in Brynmoor and Ghornfell. Whilst using it to fish, stamina drains more slowly than with an ash rod.\n\n(Journal)\nOak rod is much like its anagram: it's an A-OK rod. Not brilliant, not terrible.\n\nIt's a rod that you will you look back on fondly when you wield a mighty maple rod. \"Ah, I remember when I used to use an oak rod,\" you will say, as you bite the head off a live catfish and stand astride a pile of infernal eels.\n\nFor now, appreciate your time with it. You will miss it once you have left it behind."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -98054,6 +103623,76 @@ window.WILDS_STORAGE = [
         "step": 6
       },
       {
+        "name": "Whetstone",
+        "img": "https://dragonwilds.runescape.wiki/images/Whetstone.png?f02a3",
+        "tier": "",
+        "tierRank": null,
+        "chest": "tools",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "5.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Use this to hone your equipped melee weapon."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Blacksmith's Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Granite",
+                  "qty": 5,
+                  "img": "https://dragonwilds.runescape.wiki/images/Granite.png?d4d9c"
+                },
+                {
+                  "name": "Stone",
+                  "qty": 10,
+                  "img": "https://dragonwilds.runescape.wiki/images/Stone.png?6b36b"
+                }
+              ],
+              "output": {
+                "name": "Whetstone",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Whetstone.png?f02a3"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A whetstone can be used to give a 15% damage multiplier on a player's equipped melee weapon for 10 minutes, and can be used in conjunction with damage-boosting spells, such as Enchant Weapon: Fire. Its recipe is unlocked after reaching level 40 in the Attack skill.\n\n(Journal)\nThe blade is not just a weapon in the wilds of Ashenfall, it’s a tool. Sometimes it’s the difference between seeing tomorrow and having a very bad today.\n\nDwarves have always understood the importance of properly maintaining one’s equipment. They turned the care for their weapons into a ritual of almost religious significance. Blades would be cleaned, serviced and sharpened so that they might cut through deadlier dangers and challenge greater threats.\n\nThe whetstone is a simple device, but one that served as a backbone of this ritual. A smith would learn to gently sharpen the blade to the thinnest edge possible, treating it almost like a competition. They would boast and brag with each other about the sharpness of their blades.\n\nA popular dwarven myth speaks of the Prime Whetstone, capable of sharpening a blade to the point that no armour or metal could withstand it. Sadly, or perhaps thankfully, no evidence exists to provide any truth to the myth."
+        },
+        "stations": [
+          "Blacksmith's Bench"
+        ],
+        "step": 6
+      },
+      {
         "name": "Willow Rod",
         "img": "https://dragonwilds.runescape.wiki/images/Willow_Rod.png?03457",
         "tier": "Willow",
@@ -98194,7 +103833,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A wooden spade is a power level 1 spade that can be crafted at a crafting table. When used to dig a farming plot, players will use 10 stamina and progress by 20% to the next plot clearing stage. Therefore, it will take five digs to progress one stage.\n\n(Journal)\nSometimes the very earth itself must be punished for its cruelty! These wooden tools, simple and elegant, can break through the planet's crust, letting you show Gielinor exactly who's boss."
+          "description": "A wooden spade is a power level 1 spade that can be crafted at a crafting table. When used to dig a farming plot, players will use 10 stamina and progress by 20% to the next plot clearing stage. Therefore, it will take five digs to progress one stage.\n\nA wooden spade is required to dig in ash farming plots.\n\n(Journal)\nSometimes the very earth itself must be punished for its cruelty! These wooden tools, simple and elegant, can break through the planet's crust, letting you show Gielinor exactly who's boss."
         },
         "stations": [
           "Crafting Table"
@@ -102519,6 +108158,79 @@ window.WILDS_STORAGE = [
           "Crafting Table"
         ],
         "step": 6
+      },
+      {
+        "name": "Wooden Arrow",
+        "img": "https://dragonwilds.runescape.wiki/images/Wooden_Arrow.png?6ea12",
+        "tier": "",
+        "tierRank": null,
+        "chest": "ammo",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Arrow"
+            },
+            {
+              "label": "Power level",
+              "value": "1"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Damage type",
+              "value": "Arrow"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "999"
+            },
+            {
+              "label": "Description",
+              "value": "A very basic arrow."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Crafting Table",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ash Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Logs.png?fd9a7"
+                }
+              ],
+              "output": {
+                "name": "Wooden Arrow",
+                "qty": 33,
+                "img": "https://dragonwilds.runescape.wiki/images/Wooden_Arrow.png?6ea12"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Wooden arrows were proposed to be power level 1 ammunition, crafted at a crafting table. According to the cache, the recipe for making wooden arrows is unlocked after receiving ash logs for the first time. However, the wooden arrows are not in the game; they were just used as an old spell prototype.\n\n(Journal)\nDruids dislike violence but understand its place. The natural world is full of blood, murder and death. The strong consume the weak. Predator against prey. This they understand, though they seldom like it. When they must resort to violence, they choose the simple approach. Man’s strength comes not from their muscles but from their creativity and ingenuity. Just as a wolf has claws, a hunter has a bow.\n\nWhen a bow must be drawn, the druids prefer arrows made of simple wood. Gathered twigs and branches, whittled down to sharp points. They see it as the forest giving them the blessing to go on the hunt. Traditionally, feathers are gathered from around the forest floor, taken when dropped or from a bird’s moulting. This keeps the number of arrows low, forcing a hunter to be accurate and precise, lest they run out of chances.\n\nThus, death is swift at the hands of a bow, and balance isn’t damaged. This the druids preached to the villagers."
+        },
+        "stations": [
+          "Crafting Table"
+        ],
+        "step": 6
       }
     ],
     "img": "https://dragonwilds.runescape.wiki/images/Bronze_Arrow.png?0acdc"
@@ -103044,7 +108756,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The arrowhead of ancient origin is a vestige that unlocks creation of the amulet of accuracy."
+          "description": "The arrowhead of ancient origin is a vestige that unlocks creation of the amulet of accuracy.\n\nThe vestige can be obtained through Death's Exchange for 350 soul fragments."
         },
         "step": 0
       },
@@ -103094,6 +108806,47 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Bandosian Amulet",
+        "img": "https://dragonwilds.runescape.wiki/images/Bandosian_Amulet.png?6b36b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 April 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A goblin artefact, found on a druid."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Reliquary",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Bandosian amulet is a quest item obtained during Goblin Diplomacy. It is found in a Reliquary either north near the Outlook Ruins or south near the Adventurer's Guild. The other one is found on a Garou Druid located in the Whispering Swamp caves.\n\n(Journal)\nA seemingly simple amulet carrying the symbol of Bandos. It feels strangely warm to the touch. A faint sensation, like the memory of a heartbeat, thrums through your fingertips.\n\nZanik would be very interested in this."
+        },
+        "step": 0
+      },
+      {
         "name": "Barbed Appendage",
         "img": "https://dragonwilds.runescape.wiki/images/Barbed_Appendage.png?1f504",
         "tier": "",
@@ -103135,7 +108888,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The barbed appendage is a vestige that unlocks the kalphite carapace legs."
+          "description": "The barbed appendage is a vestige that unlocks the kalphite carapace legs.\n\nThe vestige can be obtained through Iasadair - The Merchant for 5000 Garou Chit."
         },
         "step": 0
       },
@@ -103558,7 +109311,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Burnished belt buckle is a consumable item that unlocks creation of the necromancer's robe bottom."
+          "description": "Burnished belt buckle is a vestige that unlocks creation of the necromancer's robe bottom.\n\nThe vestige can be obtained through Death's Exchange for 300 soul fragments."
         },
         "step": 0
       },
@@ -103930,7 +109683,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The chitinous carapace is a vestige that unlocks the kalphite carapace chest."
+          "description": "The chitinous carapace is a vestige that unlocks the kalphite carapace chest.\n\nThe vestige can be obtained through Iasadair - The Merchant for 7500 Garou Chit."
         },
         "step": 0
       },
@@ -104021,11 +109774,16 @@ window.WILDS_STORAGE = [
               "source": "Red Dragon",
               "qty": "1",
               "rarity": "Rare"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "Rare"
             }
           ],
           "shops": [],
           "perks": [],
-          "description": "The commemorative coin is a vestige that unlocks the recipe for the amulet of glory. It can be received as a drop from red dragon's in Umbral Sands."
+          "description": "The commemorative coin is a vestige that unlocks the recipe for the amulet of glory. It can be received as a drop from red dragon in Umbral Sands."
         },
         "step": 0
       },
@@ -104155,25 +109913,91 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Corroded white visor is a vestige that unlocks the recipe for the white full helm."
+          "description": "Corroded white visor is a vestige that unlocks the recipe for the white full helm.\n\nThe vestige can be obtained through Death's Exchange for 200 soul fragments."
         },
         "step": 0
       },
       {
-        "name": "Cracked Bronze Vanity Mirror",
-        "img": "",
+        "name": "Corrupted Essence Sample",
+        "img": "https://dragonwilds.runescape.wiki/images/Corrupted_Essence_Sample.png?a1487",
         "tier": "",
         "tierRank": null,
         "chest": "vestiges",
         "note": "",
         "detail": {
-          "stats": [],
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "31 March 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A strange sickly essence, linked to the corruption in Dowdun Reach. It writhes as you look at it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Corrupted Raven",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "A corrupted essence sample is a quest item dropped by corrupted ravens. Collecting one can start the Biohazard secondary quest, but after the quest, you can turn in ten of these to Putrilius for infernal fragments."
+        },
+        "step": 0
+      },
+      {
+        "name": "Cracked Bronze Vanity Mirror",
+        "img": "https://dragonwilds.runescape.wiki/images/A_Cracked_Bronze_Vanity_Mirror.png?2bf82",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Shows the worst possible side of yourself. Perhaps you could learn from it."
+            }
+          ],
           "recipes": [],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": ""
+          "description": "A cracked bronze vanity mirror is a vestige that unlocks the creation of the ring of recoil when studied."
         },
         "step": 0
       },
@@ -104265,7 +110089,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Crushed White Cruisse is a vestige that is consumed, allowing players to craft white platelegs at a armour bench."
+          "description": "Crushed White Cruisse is a vestige that is consumed, allowing players to craft white platelegs at a armour bench.\n\nThe vestige can be obtained through Death's Exchange for 300 soul fragments."
         },
         "step": 0
       },
@@ -104311,7 +110135,124 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Curse carrying crown is a vestige that unlocks the necromancer's crown."
+          "description": "Curse carrying crown is a vestige that unlocks the necromancer's crown.\n\nThe vestige can be obtained through Death's Exchange for 200 soul fragments."
+        },
+        "step": 0
+      },
+      {
+        "name": "Curse Fragment (Despair)",
+        "img": "https://dragonwilds.runescape.wiki/images/Curse_Fragment_%28Despair%29.png?81542",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "A crystallised part of a curse, imbued with Imaru's despair."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The curse fragment of despair is a quest item used in Withering Heights along with the curse fragments of rage and grief to dispel the barrier to Imaru's lair.\n\nThis can be found at the top of the Silverthorn Keep region of Fellhollow, and is guarded by a green dragon."
+        },
+        "step": 0
+      },
+      {
+        "name": "Curse Fragment (Grief)",
+        "img": "https://dragonwilds.runescape.wiki/images/Curse_Fragment_%28Grief%29.png?af860",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "A crystallised part of a curse, imbued with Imaru's grief."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The curse fragment of grief is a quest item used in Withering Heights. It is used alongside the curse fragments of despair and rage to dispel the barrier to Imaru's lair.\n\nIt can be found within the Emberwood village in Fellhollow after dispelling the barrier surrounding the village."
+        },
+        "step": 0
+      },
+      {
+        "name": "Curse Fragment (Rage)",
+        "img": "https://dragonwilds.runescape.wiki/images/Curse_Fragment_%28Rage%29.png?bb83f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "A crystallised part of a curse, imbued with Imaru's rage."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The curse fragment of rage is a quest item used in Withering Heights along with the curse fragments of despair and grief to dispel the barrier to Imaru's lair.\n\nIt can be found within the Vekchenven Kara vault which is behind a waterfall within the Lake of Lost Souls region of Fellhollow. The curse fragment is at the end of the vault and can be obtained after defeating the zogre. If the vault has already been completed, it is faster to become Soul-Rifted and enter the spectral door near the entrance to reach the end of the vault."
         },
         "step": 0
       },
@@ -104409,7 +110350,52 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The dented white pauldron is a vestige that unlocks the white platebody."
+          "description": "The dented white pauldron is a vestige that unlocks the white platebody.\n\nThe vestige can be obtained through Death's Exchange for 400 soul fragments."
+        },
+        "step": 0
+      },
+      {
+        "name": "Dust-covered Sketchbook",
+        "img": "https://dragonwilds.runescape.wiki/images/Dust-covered_Sketchbook.png?807db",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A ruined notebook, buried beneath the soil."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Old Book",
+              "qty": "1",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "The dust-covered sketchbook is a quest item that is found at Coalridge Pass, south-east of the ridge of the map. To access this sketchbook, players will need to avoid two skeleton monsters (one skeletal hoplite and one skeletal warrior) from attacking them outside the entrance. The entrance has a nearby rune essence geyser with ruined pillars and beams, and contains several coal nodes.\n\nOnce players have entered the cave with the coal, iron, and granite nodes, they will need to turn left and either cast Rocksplosion or mine away the granite deposits on top of the iron ore node and interact with the old book."
         },
         "step": 0
       },
@@ -104959,7 +110945,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The hardy weathered shell is a consumable item that unlocks the creation of the amulet of defence."
+          "description": "The hardy weathered shell is a consumable item that unlocks the creation of the amulet of defence.\n\nThe vestige can be obtained through Death's Exchange for 350 soul fragments."
         },
         "step": 0
       },
@@ -105195,11 +111181,55 @@ window.WILDS_STORAGE = [
               "source": "Red Dragon",
               "qty": "1",
               "rarity": "Rare"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "Rare"
             }
           ],
           "shops": [],
           "perks": [],
           "description": "The inspiring insignia is a vestige that unlocks the creation of the skills necklace."
+        },
+        "step": 0
+      },
+      {
+        "name": "Lightning-in-a-bottle",
+        "img": "https://dragonwilds.runescape.wiki/images/Lightning-in-a-bottle.png?05606",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "29 July 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "A lightning bolt trapped in glass. It's best not to think too hard about the physics of it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Lightning-in-a-bottle is a quest item that is obtained by getting struck by lightning with an empty vial in their inventory. Players will need this for The Great Body Robbery to provide life to Doctor Fenkenstrain's creation."
         },
         "step": 0
       },
@@ -105291,7 +111321,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The lunate shawl is a vestige that unlocks the Lunar Garou robes"
+          "description": "The lunate shawl is a vestige that unlocks the Lunar Garou robes\n\nThe vestige can be obtained through Domri - The Merchant for 7500 Garou Chit."
         },
         "step": 0
       },
@@ -105337,7 +111367,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The lunular wrappings is a vestige that unlocks the Lunar Garou robe legs"
+          "description": "The lunular wrappings is a vestige that unlocks the Lunar Garou robe legs\n\nThe vestige can be obtained through Domri - The Merchant for 5000 Garou Chit."
         },
         "step": 0
       },
@@ -105849,20 +111879,1053 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
-        "name": "MOUNT: Mossbreak Hunter",
-        "img": "",
+        "name": "MOUNT: Applefeather Mosstail",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Applefeather_Mosstail.png?de84d",
         "tier": "",
         "tierRank": null,
         "chest": "vestiges",
         "note": "",
         "detail": {
-          "stats": [],
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Red Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "KotHaar-Kal",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Kalphite Guardian",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.33/100"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "1/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: applefeather mosstail is a Vestige that grants the player the applefeather mosstail mount when used. It can be obtained as a drop from red dragons, KotHaar-Kal, kalphite guardians and chests found in Umbral Sands."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Astralbeak Warbler",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Astralbeak_Warbler.png?33a15",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Postie Pete",
+              "mode": "sell",
+              "cost": 2000,
+              "currency": "Infernal Fragment"
+            }
+          ],
+          "perks": [],
+          "description": "MOUNT: astralbeak warbler is a Vestige that grants the player the astralbeak warbler mount when used. It can be bought from Postie Petes Evil Emporium for 2000 infernal fragments."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Coastal Sunbeak",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Coastal_Sunbeak.png?d39bf",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Postie Pete",
+              "mode": "sell",
+              "cost": 2000,
+              "currency": "Infernal Fragment"
+            }
+          ],
+          "perks": [],
+          "description": "MOUNT: coastal sunbeak is a Vestige that grants the player the coastal sunbeak mount when used. It can be bought from Postie Petes Evil Emporium for 2000 infernal fragments."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Crimson Crybaby",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Crimson_Crybaby.png?c271a",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Red Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "KotHaar-Kal",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Kalphite Guardian",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.33/100"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "1/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: crimson crybaby is a vestige that grants the player the crimson crybaby mount when used. It can be obtained as a drop from red dragons, KotHaar-Kal, kalphite guardians and chests found in Umbral Sands."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Eclipseborn Sharpbeak",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Eclipseborn_Sharpbeak.png?ba59c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Blue Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Lesser Demon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Shardbound Lesser Demon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Elite Black Knight",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.33/100"
+            },
+            {
+              "source": "Blazing Black Knight",
+              "qty": "1",
+              "rarity": "5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: eclipseborn sharpbeak is a Vestige that grants the player the eclipseborn sharpbeak mount when used. It can be obtained as a drop from blue dragons, lesser demons, elite Black Knights and chests found in Dowdun Reach."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Grassfoot Screecher",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Grassfoot_Screecher.png?90635",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Green Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Zogre",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Soulstone Sentinel",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Ulgo the Zogre",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "0.33/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: grassfoot screecher is a Vestige that grants the player the grassfoot screecher mount when used. It can be obtained as a drop from green dragons, zogres, soulstone sentinels and chests found in Fellhollow."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Infernal Blightbeak",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Infernal_Blightbeak.png?3b9db",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Domri - The Merchant",
+              "mode": "sell",
+              "cost": 9999,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "MOUNT: infernal blightbeak is a vestige that grants the player the infernal blightbeak mount when used. It can be bought from Domri - The Merchant for 9999 garou chits."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Leafwood Strider",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Leafwood_Strider.png?cb770",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Green Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Zogre",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Soulstone Sentinel",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Ulgo the Zogre",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "0.33/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: leafwood strider is a Vestige that grants the player the leafwood strider mount when used. It can be obtained as a drop from green dragons, zogres, soulstone sentinels and chests found in Fellhollow."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Magic Carpet",
+        "img": "https://dragonwilds.runescape.wiki/images/Magic_Carpet.png?fd823",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            }
+          ],
           "recipes": [],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": ""
+          "description": "Mount The magic carpet is the second mount unlocked during the game's progression, following the terrorbird. It is obtained by completing a specific portion of Icthlarin's Little Helper, the primary quest line for the Umbral Sands region. Attributes * Allows hovering over hazards such as quicksand and water. * Offers increased jump height, especially when leaping from cliffs and obstacles. * Significantly increases velocity compared to base movement and other mounts while in the desert. ** Movement speed is reduced outside of the desert. * Provides a massive reduction in fall damage.\n\n* Riding a magic carpet over quicksand also refills stamina while riding over it.  **Following a quicksand path will allow you to ride at maximum speed the entire route.\n\n* Any damage taken by the player will immediately unsummon the mount. * Allows sprinting by pressing or holding [SHIFT]. Usage * Summoning: The mount can be summoned by holding [ALT]. * Configuration: Players can customise and configure their mount settings by navigating to the Spells tab, accessed via [P]. Customisation The magic carpet features many colour variants that can be unlocked through gameplay. See mounts for a complete list. Notes * Most (if not all?) areas within the Dowdun Reach region prevent the use of any mounts. * The leggings of lightness do not increase the jump height of mounts."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Manafem Midnight",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Manafem_Midnight.png?4d087",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Mount"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: Manafem Midnight is an unreleased vestige that unlocks the Manafem Midnight appearence for the magic carpet mount. It is currently unobtainable in-game."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Moonsilk Weave",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Moonsilk_Weave.png?b3a6c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Kalphite Queen",
+              "qty": "1",
+              "rarity": "5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: moonsilk weave is a vestige that unlocks the Moonsilk Weave appearance for the magic carpet mount. This is only dropped by the Kalphite Queen."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Mossbreak Hunter",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Mossbreak_Hunter.png?051ed",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Death (Grim Reaper)",
+              "mode": "sell",
+              "cost": 2000,
+              "currency": "Soul Fragment"
+            }
+          ],
+          "perks": [],
+          "description": "MOUNT: mossbreak hunter is a vestige that grants the player the mossbreak hunter mount when used. It can be bought from Death's Exchange for 2000 soul fragments."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Oakfeather Raptor",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Oakfeather_Raptor.png?20770",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Death (Grim Reaper)",
+              "mode": "sell",
+              "cost": 2000,
+              "currency": "Soul Fragment"
+            }
+          ],
+          "perks": [],
+          "description": "MOUNT: oakfeather raptor is a Vestige that grants the player the oakfeather raptor mount when used. It can be bought from Death's Exchange for 2000 soul fragments."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Scorchsummer Ashbeak",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Scorchsummer_Ashbeak.png?e54b0",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Red Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "KotHaar-Kal",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Kalphite Guardian",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "0.34/100"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "1/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: scorchsummer ashbeak is a Vestige that grants the player the scorchsummer ashbeak mount when used. It can be obtained as a drop from red dragons, KotHaar-Kal, kalphite guardians and chests found in Umbral Sands."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Scorchweave Rug",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Scorchweave_Rug.png?e08e5",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Mount"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: Scorchweave Rug is an unreleased vestige that unlocks the Scorchweave Rug appearence for the magic carpet mount. It is currently unobtainable in-game."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Springdown Runner",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Springdown_Runner.png?dc107",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Green Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Zogre",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Soulstone Sentinel",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Ulgo the Zogre",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Spectral Chest",
+              "qty": "1",
+              "rarity": "0.33/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: springdown runner is a vestige that grants the player the springdown runner mount when used. It can be obtained as a drop from green dragons, zogres, soulstone sentinels and chests found in Fellhollow."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Summerbellied Wagtail",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Summerbellied_Wagtail.png?f4ae9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Blue Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Lesser Demon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Shardbound Lesser Demon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Elite Black Knight",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.34/100"
+            },
+            {
+              "source": "Black Knight Crusader",
+              "qty": "1",
+              "rarity": "5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: summerbellied wagtail is a Vestige that grants the player the summerbellied wagtail mount when used. It can be obtained as a drop from blue dragons, lesser demons, elite Black Knights and chests found in Dowdun Reach."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Sunkissed Clawfoot",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Sunkissed_Clawfoot.png?ae08b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Blue Dragon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Lesser Demon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Shardbound Lesser Demon",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Elite Black Knight",
+              "qty": "1",
+              "rarity": "1/100"
+            },
+            {
+              "source": "Chest (Dowdun Reach)",
+              "qty": "1",
+              "rarity": "0.33/100"
+            },
+            {
+              "source": "Stormpact Demon",
+              "qty": "1",
+              "rarity": "5/100"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: sunkissed clawfoot is a Vestige that grants the player the sunkissed clawfoot mount when used. It can be obtained as a drop from blue dragons, lesser demons, elite Black Knights and chests found in Dowdun Reach."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Uzzerian Umber",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Uzzerian_Umber.png?4c063",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [
+            {
+              "source": "Tok-Xil",
+              "qty": "1",
+              "rarity": "1/20"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "MOUNT: Uzzerian umber is a Vestige that grants the player the Uzzerian umber mount when used. It can be obtained as a drop from Tok-Xil in Umbral Sands."
+        },
+        "step": 0
+      },
+      {
+        "name": "MOUNT: Zamorakian Pledgesaddle",
+        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Zamorakian_Pledgesaddle.png?eef7b",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "50"
+            },
+            {
+              "label": "Description",
+              "value": "Grants access to a visual mount variant"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Domri - The Merchant",
+              "mode": "sell",
+              "cost": 9999,
+              "currency": "Garou Chit"
+            }
+          ],
+          "perks": [],
+          "description": "MOUNT: Zamorakian pledgesaddle is a Vestige that grants the player the Zamorakian pledgesaddle mount when used. It can be bought from Domri - The Merchant for 9999 garou chits."
         },
         "step": 0
       },
@@ -106294,7 +113357,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The remnants of a rotting robe is a vestige that unlocks the necromancer's robe top. It is obtained from Death's Exchange for 400 soul fragments."
+          "description": "The remnants of a rotting robe is a vestige that unlocks the necromancer's robe top.\n\nThe vestige can be obtained through Death's Exchange for 400 soul fragments."
         },
         "step": 0
       },
@@ -106441,6 +113504,45 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
+        "name": "Saradomin Symbol",
+        "img": "https://dragonwilds.runescape.wiki/images/Saradomin_Symbol.png?6f144",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "It looks as if it is meant to sit on top of something."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The Saradomin symbol is an item found during the Withering Heights quest and is used to repair the Saradomin altar, which is one of the 4 altars holding up the barrier around Emberwood Village. It is located in the water just below the altar, propped up against a rock."
+        },
+        "step": 0
+      },
+      {
         "name": "Scratchy Sackcloth",
         "img": "https://dragonwilds.runescape.wiki/images/Scratchy_Sackcloth.png?13d48",
         "tier": "",
@@ -106521,7 +113623,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The selenic veil is a vestige that unlocks the Lunar Garou hat."
+          "description": "The selenic veil is a vestige that unlocks the Lunar Garou hat.\n\nThe vestige can be obtained through Domri - The Merchant for 2500 Garou Chit."
         },
         "step": 0
       },
@@ -106987,7 +114089,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The simply splendid feather is a vestige that unlocks the ranger hat."
+          "description": "The simply splendid feather is a vestige that unlocks the ranger hat.\n\nThe vestige can be obtained through Death's Exchange for 200 soul fragments."
         },
         "step": 0
       },
@@ -107085,7 +114187,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The slightly chaffing chestguard is a vestige that unlocks the ranger tunic."
+          "description": "The slightly chaffing chestguard is a vestige that unlocks the ranger tunic.\n\nThe vestige can be obtained through Death's Exchange for 400 soul fragments."
         },
         "step": 0
       },
@@ -107228,7 +114330,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The softly vibrating orb is a vestige that unlocks the creation of the amulet of Magic."
+          "description": "The softly vibrating orb is a vestige that unlocks the creation of the amulet of Magic.\n\nThe vestige can be obtained through Death's Exchange for 350 soul fragments."
         },
         "step": 0
       },
@@ -107500,7 +114602,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The sun-bleached head wrap is a vestige that unlocks the desert hood."
+          "description": "The sun-bleached head wrap is a vestige that unlocks the desert hood.\n\nThe vestige can be obtained through Domri - The Merchant for 2500 Garou Chit."
         },
         "step": 0
       },
@@ -107542,7 +114644,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The sun-bleached leggings is a vestige that unlocks the desert robe legs."
+          "description": "The sun-bleached leggings is a vestige that unlocks the desert robe legs.\n\nThe vestige can be obtained through Iasadair - The Merchant for 5000 Garou Chit."
         },
         "step": 0
       },
@@ -107584,7 +114686,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The sun-bleached vest is a vestige that unlocks the desert robes."
+          "description": "The sun-bleached vest is a vestige that unlocks the desert robes.\n\nThe vestige can be obtained through Beartach - The Merchant for 7500 Garou Chit."
         },
         "step": 0
       },
@@ -107775,7 +114877,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Tastefully torn tights is a power level 5 vestige that can be purchased with 350 soul fragments at Death's Exchange. Players will need to study this to receive the recipe for the ranger tights."
+          "description": "Tastefully torn tights is a vestige that unlocks the ranger tights.\n\nThe vestige can be obtained through Death's Exchange for 300 soul fragments."
         },
         "step": 0
       },
@@ -107916,7 +115018,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The Twtiching Antenna is a vestige that unlocks the kalphite carapace helmet."
+          "description": "The Twtiching Antenna is a vestige that unlocks the kalphite carapace helmet.\n\nThe vestige can be obtained through Iasadair - The Merchant for 2500 Garou Chit."
         },
         "step": 0
       },
@@ -108064,7 +115166,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "The weighted training band is a consumable item that unlocks creation of the amulet of strength."
+          "description": "The weighted training band is a consumable item that unlocks creation of the amulet of strength.\n\nThe vestige can be obtained through Death's Exchange for 350 soul fragments."
         },
         "step": 0
       },
@@ -108441,7 +115543,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands. For most cores, players can gain core shards by killing mini-bosses (such as red dragons, green dragons, and blue dragons).\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible.\n\nBug: After upgrading an item with a core, there is a visual bug where the stats will appear not to increase.\n\n(Journal)\nImagine, if you will, what you could do if you could harness your dreams. If you could take an ideal, refine it and reforge it using the power of the imagination. Such a technology is terrifying in its potential, and Avisk was the first to explore its possibilities.\n\nThis core is a part of the nightmare, refined and reforged over and over again, then condescended into a singularity and sealed within dragonkin technology. It is a mote of potential, waiting to be released.\n\nThe technology is limited for now. Avisk was only able to use it to improve his existing equipment, as well as to empower the beasts he trapped in the nightmare dreamscape. Fortunately, limited as it might be, you should find this technology particularly useful, as it will allow you upgrade and improve some of your more unique equipment, such as masterwork gear."
+          "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands. For most cores, players can gain core shards by killing mini-bosses (such as black dragons, green dragons, and blue dragons).\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible.\n\nBug: After upgrading an item with a core, there is a visual bug where the stats will appear not to increase.\n\n(Journal)\nImagine, if you will, what you could do if you could harness your dreams. If you could take an ideal, refine it and reforge it using the power of the imagination. Such a technology is terrifying in its potential, and Avisk was the first to explore its possibilities.\n\nThis core is a part of the nightmare, refined and reforged over and over again, then condescended into a singularity and sealed within dragonkin technology. It is a mote of potential, waiting to be released.\n\nThe technology is limited for now. Avisk was only able to use it to improve his existing equipment, as well as to empower the beasts he trapped in the nightmare dreamscape. Fortunately, limited as it might be, you should find this technology particularly useful, as it will allow you upgrade and improve some of your more unique equipment, such as masterwork gear."
         },
         "stations": [
           "Mystic Forge"
@@ -108743,7 +115845,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Scorned Wilderness)",
               "qty": "8-12",
-              "rarity": "Rare"
+              "rarity": "1/10"
             }
           ],
           "shops": [],
@@ -108782,6 +115884,11 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
+              "source": "Fuzan",
+              "qty": "1",
+              "rarity": "1/4"
+            },
+            {
               "source": "Red Dragon",
               "qty": "1",
               "rarity": "1/400"
@@ -108835,6 +115942,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Umbral Sands)",
               "qty": "1",
               "rarity": "0.63/100"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "1/400"
             }
           ],
           "shops": [],
@@ -108873,6 +115985,11 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
+              "source": "Fuzan",
+              "qty": "1",
+              "rarity": "1/4"
+            },
+            {
               "source": "Red Dragon",
               "qty": "1",
               "rarity": "1/400"
@@ -108926,6 +116043,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Umbral Sands)",
               "qty": "1",
               "rarity": "0.63/100"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "1/400"
             }
           ],
           "shops": [],
@@ -108964,6 +116086,11 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
+              "source": "Fuzan",
+              "qty": "1",
+              "rarity": "1/4"
+            },
+            {
               "source": "Red Dragon",
               "qty": "1",
               "rarity": "1/400"
@@ -109017,6 +116144,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Umbral Sands)",
               "qty": "1",
               "rarity": "0.63/100"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "1/400"
             }
           ],
           "shops": [],
@@ -109055,6 +116187,11 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
+              "source": "Fuzan",
+              "qty": "1",
+              "rarity": "1/4"
+            },
+            {
               "source": "Red Dragon",
               "qty": "1",
               "rarity": "1/400"
@@ -109108,6 +116245,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Umbral Sands)",
               "qty": "1",
               "rarity": "0.63/100"
+            },
+            {
+              "source": "The Radiant",
+              "qty": "1",
+              "rarity": "1/400"
             }
           ],
           "shops": [],
@@ -109173,6 +116315,12 @@ window.WILDS_STORAGE = [
           "shops": [
             {
               "seller": "Iasadair - The Merchant",
+              "mode": "buy",
+              "cost": 500,
+              "currency": "Garou Chit"
+            },
+            {
+              "seller": "Beartach - The Merchant",
               "mode": "buy",
               "cost": 500,
               "currency": "Garou Chit"
@@ -109722,7 +116870,7 @@ window.WILDS_STORAGE_MAX_STEP = 8;
 window.WILDS_STATIONS = [
   {
     "name": "Armour Bench",
-    "count": 155,
+    "count": 156,
     "members": [
       "Armour Bench"
     ],
@@ -109730,7 +116878,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Blacksmith's Bench",
-    "count": 123,
+    "count": 128,
     "members": [
       "Blacksmith's Bench"
     ],
@@ -109738,7 +116886,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Grill",
-    "count": 87,
+    "count": 105,
     "members": [
       "Grill"
     ],
@@ -109746,7 +116894,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Campfire",
-    "count": 86,
+    "count": 104,
     "members": [
       "Campfire"
     ],
@@ -109754,7 +116902,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Crafting Table",
-    "count": 83,
+    "count": 88,
     "members": [
       "Crafting Table"
     ],
@@ -109762,7 +116910,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Fletching Bench",
-    "count": 75,
+    "count": 77,
     "members": [
       "Fletching Bench"
     ],
@@ -109770,7 +116918,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Brewing Cauldron",
-    "count": 69,
+    "count": 70,
     "members": [
       "Brewing Cauldron"
     ],
@@ -109778,7 +116926,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Cooking Range",
-    "count": 56,
+    "count": 65,
     "members": [
       "Cooking Range"
     ],
@@ -109786,7 +116934,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Mystic Forge",
-    "count": 41,
+    "count": 42,
     "members": [
       "Mystic Forge"
     ],
@@ -109794,7 +116942,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Jeweler's Bench",
-    "count": 36,
+    "count": 38,
     "members": [
       "Jeweler's Bench"
     ],
@@ -109819,7 +116967,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Grindstone",
-    "count": 25,
+    "count": 26,
     "members": [
       "Grindstone"
     ],
@@ -109867,14 +117015,6 @@ window.WILDS_STATIONS = [
     "img": "https://dragonwilds.runescape.wiki/images/Advanced_Spinning_Wheel.png?503ed"
   },
   {
-    "name": "Smithing Forge",
-    "count": 9,
-    "members": [
-      "Smithing Forge"
-    ],
-    "img": ""
-  },
-  {
     "name": "Loom",
     "count": 8,
     "members": [
@@ -109919,14 +117059,6 @@ window.WILDS_STATIONS = [
     "count": 2,
     "members": [
       "Lougrim's Shrine"
-    ],
-    "img": ""
-  },
-  {
-    "name": "Fletching Table",
-    "count": 1,
-    "members": [
-      "Fletching Table"
     ],
     "img": ""
   },

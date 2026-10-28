@@ -1,5 +1,5 @@
 /* Quest walkthroughs. Step-by-step completion guides for all 9 primary and
-   25 secondary quests, sourced from each quest's own wiki page
+   28 secondary quests, sourced from each quest's own wiki page
    (dragonwilds.runescape.wiki/w/<Quest_Name>). Requirements/rewards are
    whatever the page listed; steps are a condensed, concrete ordered list,
    not verbatim wiki prose. An `img` field, when present, is the wiki's own
@@ -321,6 +321,51 @@ window.WILDS_QUEST_WALKTHROUGHS = {
       { name: "Bramblemead Valley", img: "https://dragonwilds.runescape.wiki/images/Bramblemead_Valley.png?f1a01" }
     ]
   },
+  "Growing Pains": {
+    requirements: "None, but bring 18 ash logs and 2 coarse thread for an ash farming plot, wooden spade and wooden watering can; the 3 wheat seeds are given to you during the quest",
+    rewards: "Spare farmer's supplies (plant cure, Tome of Farming - Vol 2); Farming level 3 and the ability to make plant cure",
+    steps: [
+      "Craft a wooden spade or a wooden watering can at the crafting table - making either one starts the quest.",
+      "Speak to the Wise Old Man in Bramblemead Valley with at least one free inventory slot; he teaches you the Farming basics and hands over 3 wheat seeds.",
+      "Build an ash farming plot, ideally next to a pond, and dig it five times while wielding the wooden spade - you'll turn up at least 3 weeds.",
+      "Hold or equip the wheat seeds and left-click the cleared plot to sow them.",
+      "Fill your watering can at a pond (press F) and water the plot five times, until the check mark appears under the watering icon.",
+      "Wait half an in-game day (about 12 minutes) for the shoot to grow into a wheat stalk, then water it five more times.",
+      "Wait another in-game day for the stalk to ripen, harvest the wheat, and return to the Wise Old Man for your reward."
+    ],
+    img: "https://dragonwilds.runescape.wiki/images/Growing_Pains.png",
+    tips: [
+      "Don't leave a plant unwatered for more than six in-game hours after it changes stage or it becomes diseased - and plant cure isn't craftable until this quest is done, so you'd have to start over.",
+      "Drop the weeds you dig up into a compost bin; they turn into compost for later plots."
+    ],
+    locations: [
+      { name: "Bramblemead Valley", img: "https://dragonwilds.runescape.wiki/images/Bramblemead_Valley.png?f1a01" }
+    ]
+  },
+  "Shrimp Catcher": {
+    requirements: "None, but bring 2 coarse thread for a coarse net, plus 1 ash log and 1 coarse thread for an ash rod",
+    rewards: "1 Tome of Fishing - Vol 1, 3 feather bait",
+    steps: [
+      "Craft a coarse net at the crafting table - making it starts the quest.",
+      "Speak to the Wise Old Man in Bramblemead Valley; he asks you to catch him a sardine from Brynmoor waters.",
+      "Wield the net at any net fishing spot and stand in it to trawl for raw shrimp, which also unlocks shrimp bait.",
+      "Keep netting shrimp until Fishing level 3, which unlocks fishing rods.",
+      "Craft an ash rod at the crafting table (1 ash log, 1 coarse thread) and turn your shrimp into shrimp bait - one bait per shrimp.",
+      "Equip both the rod and the bait, then hold and release the cast button at a rod fishing spot.",
+      "Strafe left and right (A and D) to tire the fish out, then reel it in once the bar empties.",
+      "Take the raw sardine back to the Wise Old Man to finish the quest."
+    ],
+    img: "https://dragonwilds.runescape.wiki/images/Shrimp_Catcher.png",
+    tips: [
+      "You have to equip the bait as well as the rod - rod fishing won't start with only the rod wielded.",
+      "A red tire bar means the fish is fighting harder and drains more stamina; reel in before your stamina runs out or it escapes.",
+      "Casting too weakly or too strongly misses the fishing spot entirely.",
+      "Rod fishing here gives either a sardine or a trout - keep going until you land the sardine."
+    ],
+    locations: [
+      { name: "Bramblemead Valley", img: "https://dragonwilds.runescape.wiki/images/Bramblemead_Valley.png?f1a01" }
+    ]
+  },
   "Granite Mauled": {
     requirements: "First Steps completed; one free inventory slot; 5+ air runes for Windstep, or ash logs to cross a bridge",
     rewards: "Recipe for the granite maul (66-95 damage, 4 Combo, Special: Battering Ram); imbued granite maul head (crafting also needs imbued leather wrappings and an ornate maul handle)",
@@ -451,6 +496,32 @@ window.WILDS_QUEST_WALKTHROUGHS = {
     ],
     youtube: "https://www.youtube.com/watch?v=AtTn4_Vxm9o",
     locations: [
+      { name: "Stormtouched Highlands", img: "https://dragonwilds.runescape.wiki/images/Stormtouched_Highlands.png?5e2f1" }
+    ]
+  },
+  "The Great Body Robbery": {
+    requirements: "Dragon Slayer (partial or full completion); a wooden spade or better; 1 each of weak antipoison potion, weak Focused Attack potion and weak Lumberjack potion",
+    rewards: "1 zombie arm; the recipe to build a lightning rod",
+    steps: [
+      "Speak to Doctor Fenkenstrain in his tower in the Bloodblight Swamp - next to the garou camp by the bloodwood tree, on the same floor as the sanguine urn.",
+      "Dig up three graves around the swamp with your spade and open each coffin: the human torso near the abyssal demon between three trees, the goblin legs north of it between two trees, and the garou arms near the swamp's northern entrance.",
+      "Return to the doctor, place the parts on his examination table, and speak to him again to examine them.",
+      "Fetch one weak antipoison potion, one weak Focused Attack potion and one weak Lumberjack potion, then use them after speaking to him.",
+      "Take the empty vial he gives you and get struck by lightning to fill it - either wait out a thunderstorm anywhere, or head to the Stormtouched Highlands.",
+      "Bring the lightning-in-a-bottle back, interact with the body to fit the doctor's head, then use the bottle on the nearby pylon.",
+      "Speak to the doctor - now wearing a chicken's head - to collect your reward and finish the quest."
+    ],
+    img: "https://dragonwilds.runescape.wiki/images/The_Great_Body_Robbery.png",
+    tips: [
+      "Bring weak or better antipoison potions for crossing the Bloodblight Swamp, plus decent armour and food.",
+      "Jagex call this the longest secondary quest in the game, so set aside some time for it.",
+      "There's a known bug that can soft-lock the dialogue for some players."
+    ],
+    gallery: [
+      { img: "https://dragonwilds.runescape.wiki/images/Doctor_Fenkenstrain_%28Head%29.png?b7fc5", caption: "Doctor Fenkenstrain, who starts the quest." }
+    ],
+    locations: [
+      { name: "Bloodblight Swamp", img: "https://dragonwilds.runescape.wiki/images/Bloodblight_Swamp.png?84005" },
       { name: "Stormtouched Highlands", img: "https://dragonwilds.runescape.wiki/images/Stormtouched_Highlands.png?5e2f1" }
     ]
   },

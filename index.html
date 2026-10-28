@@ -549,6 +549,14 @@ img.img-broken{visibility:hidden}
 .info-row{display:flex;justify-content:space-between;gap:.6rem;background:var(--panel2);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.35rem .6rem;font-size:13px;color:var(--text2)}
 .info-row-stack{flex-direction:column;gap:.15rem}
 .info-meta{color:var(--text3);font-size:12px;text-align:right;flex-shrink:0}
+/* A row you can follow through to the thing it names - same affordance as
+   a material chip, so drops and merchant stock read as tappable. */
+.info-row-link{cursor:pointer;border-color:var(--edge)}
+.info-row-link:active{background:var(--panel3)}
+.info-row-link>span:first-child{color:var(--gold)}
+.info-row>span:first-child{display:flex;align-items:center;gap:.4rem;min-width:0}
+.drop-icon{width:20px;height:20px;object-fit:contain;flex-shrink:0}
+.ach-icon{width:22px;height:22px;object-fit:contain;border-radius:4px;margin-right:.4rem;vertical-align:-.35em}
 .info-row-stack .info-meta{text-align:left}
 .item-examine{font-style:italic;color:var(--text2);margin-bottom:.4rem}
 
@@ -642,6 +650,8 @@ img.img-broken{visibility:hidden}
 <script src="quest-maps.js" onerror="this.remove()"></script>
 <script src="updates.js" onerror="this.remove()"></script>
 <script src="construction.js" onerror="this.remove()"></script>
+<script src="bestiary.js" onerror="this.remove()"></script>
+<script src="achievements.js" onerror="this.remove()"></script>
 <script src="storage.js"></script>
 <script>
 (function(){
@@ -749,6 +759,29 @@ img.img-broken{visibility:hidden}
       sub:st.count+" craftable items", img:st.img, names:relatedNames, station:st });
   });
 
+  // Monsters, resource nodes, merchants and the odd chest or bird nest (see
+  // .research/fetch_bestiary_data.py). Items already say what they're found
+  // from; these are the same relationship read the other way round - pick a
+  // creature, see everything it drops. `names` carries the drop/stock list so
+  // searching an item's name also turns up what yields it.
+  var BESTIARY_SUB = { monster:"Creature", node:"Resource node", merchant:"Merchant", other:"Source" };
+  (function(){
+    var b = window.WILDS_BESTIARY || {};
+    ["monsters", "nodes", "other", "merchants"].forEach(function(group){
+      (b[group] || []).forEach(function(e){
+        var yields = (e.drops || []).concat(e.sells || [], e.buys || []);
+        var count = yields.length;
+        ENTRIES.push({
+          kind:"creature", tab:"", id:"creature:"+e.kind+":"+e.name, name:e.name,
+          sub: e.boss ? "Boss" : BESTIARY_SUB[e.kind] || "Source",
+          img: e.img, desc: e.location || "",
+          names: yields.map(function(y){ return y.name; }),
+          creature: e, dropCount: count
+        });
+      });
+    });
+  })();
+
   // ---------- search ----------
   function norm(s){ return (s||"").toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g,""); }
   function tokens(s){ return norm(s).split(/[^a-z0-9]+/).filter(Boolean); }
@@ -758,20 +791,29 @@ img.img-broken{visibility:hidden}
     if (e.names) parts = parts.concat(e.names);
     return norm(parts.filter(Boolean).join(" "));
   }
-  function score(e, toks){
+  function score(e, toks, q){
     var hay = haystack(e), nm = norm(e.name), hit = 0;
     for (var i=0;i<toks.length;i++){
       if (hay.indexOf(toks[i]) === -1) return -1;
       hit += nm.indexOf(toks[i]) === 0 ? 3 : (nm.indexOf(toks[i]) !== -1 ? 2 : 1);
     }
+    // Per-token scoring alone ties the thing you actually named against
+    // everything merely prefixed with it - searching "black dragon" scored
+    // the Black Dragon itself the same as Black Dragonhide Body. Reward
+    // naming it outright, then prefer the name carrying the least extra
+    // wording around the match.
+    if (nm === q) hit += 10;
+    else if (nm.indexOf(q) === 0) hit += 4;
+    hit += Math.max(0, 3 - Math.floor(Math.max(0, nm.length - q.length) / 8));
     return hit;
   }
   function search(q){
     var toks = tokens(q);
     if (!toks.length) return [];
+    var nq = norm(q).trim();
     var out = [];
     ENTRIES.forEach(function(e){
-      var sc = score(e, toks);
+      var sc = score(e, toks, nq);
       if (sc >= 0) out.push([sc, e]);
     });
     out.sort(function(a,b){ return b[0]-a[0]; });
@@ -782,7 +824,7 @@ img.img-broken{visibility:hidden}
   var LS_KEY = "wilds-state-v1";
   var STATE = loadState();
   function defaultState(){
-    return { skills:{}, quests:{}, code:"", powerFilterOn:false, powerLevel:0, favoriteVideoIds:[],
+    return { skills:{}, quests:{}, achievements:{}, code:"", powerFilterOn:false, powerLevel:0, favoriteVideoIds:[],
       videoChannels:[{id:"UCRbqswsX9bDjWrQ2jxyVD3w", name:"Primitive Nomad"}],
       activeVideoChannelId:"UCRbqswsX9bDjWrQ2jxyVD3w" };
   }
@@ -880,6 +922,30 @@ img.img-broken{visibility:hidden}
     var heroEl = document.querySelector(".hero");
     var heroH = heroEl ? heroEl.offsetHeight : 0;
     window.scrollTo(0, Math.max(0, el.getBoundingClientRect().top + window.scrollY - heroH - 10));
+  }
+  var CREATURE_BY_NAME = null;
+  function creatureByName(name){
+    if (!CREATURE_BY_NAME){
+      CREATURE_BY_NAME = {};
+      var b = window.WILDS_BESTIARY || {};
+      ["monsters", "nodes", "other", "merchants"].forEach(function(group){
+        (b[group] || []).forEach(function(e){ if (!CREATURE_BY_NAME[e.name]) CREATURE_BY_NAME[e.name] = e; });
+      });
+    }
+    return CREATURE_BY_NAME[name] || null;
+  }
+  // A creature has no Catalogue shelf of its own to open the way an item
+  // does, so jumping to one means searching for it - which lands on its
+  // card, and keeps the Back button working the same as every other jump.
+  function navToCreature(name){
+    if (!creatureByName(name)) return;
+    NAV_STACK.push(navSnapshot());
+    view.q = name;
+    qInput.value = name;
+    clearBtn.classList.add("on");
+    draw();
+    window.scrollTo(0, 0);
+    updateNavBackBtn();
   }
   function navToMaterial(name){
     var chestKey = findItemChest(name);
@@ -1232,12 +1298,22 @@ img.img-broken{visibility:hidden}
       var stBadge = '<span class="tagline">Crafting station</span>';
       return cardWrap(e, cardHeader(e, stBadge, stIcon), stationDetailHtml(e.station));
     }
+    if (e.kind === "creature"){
+      var crIcon = e.img ? '<span class="card-icon"><img src="'+esc(e.img)+'" alt="" loading="lazy"></span>' : null;
+      var crBadge = '<span class="tagline">'+esc(e.sub)+'</span>';
+      return cardWrap(e, cardHeader(e, crBadge, crIcon), creatureDetailHtml(e.creature));
+    }
     return "";
   }
 
   resultsEl.addEventListener("click", function(e){
     if (e.target.tagName === "IMG" && e.target.closest(".item-tile-img, .mat-chip, .cc-icon, .station-icon")){
       openIconLightbox(e.target.src, nearbyIconName(e.target));
+      return;
+    }
+    var creatureLink = e.target.closest("[data-creature-link]");
+    if (creatureLink){
+      navToCreature(creatureLink.dataset.creatureLink);
       return;
     }
     var matLink = e.target.closest("[data-mat-link]");
@@ -1454,6 +1530,41 @@ img.img-broken{visibility:hidden}
     var done = line.list.filter(function(n){ return STATE.quests[line.prefix+n]; }).length;
     return { done: done, total: line.list.length };
   }
+  // Steam achievements tick off the same way quests do - same checkbox row,
+  // same persisted-by-name state - just grouped by the wiki's own grouping
+  // (one per skill, then Bosses/Region quests/Hidden) instead of by region.
+  function achievementList(){ return (window.WILDS_ACHIEVEMENTS || {}).achievements || []; }
+  function achievementsTotal(){
+    var list = achievementList();
+    return { done: list.filter(function(a){ return STATE.achievements[a.name]; }).length, total: list.length };
+  }
+  function achievementGroups(){
+    var list = achievementList(), byKey = {}, order = [];
+    list.forEach(function(a){
+      var k = a.group || "Other";
+      if (!byKey[k]){ byKey[k] = []; order.push(k); }
+      byKey[k].push(a);
+    });
+    return order.map(function(k){ return { key:k, list:byKey[k] }; });
+  }
+  function achievementRow(a){
+    var on = !!STATE.achievements[a.name];
+    return '<div class="row'+(on?" on":"")+'" data-akey="'+esc(a.name)+'"><div class="box">✓</div>'+
+      '<div class="t">'+(a.img ? '<img class="ach-icon" src="'+esc(a.img)+'" alt="" loading="lazy">' : '')+esc(a.name)+
+      (a.desc ? '<span class="req">'+esc(a.desc)+'</span>' : '')+'</div></div>';
+  }
+  function achievementsBlock(){
+    var groups = achievementGroups();
+    if (!groups.length) return '<div class="note">Not catalogued yet.</div>';
+    var html = rowInsert(groups, 2, function(g){
+      var done = g.list.filter(function(a){ return STATE.achievements[a.name]; }).length;
+      return tkSubBox("achgroup:"+g.key, g.key, done+" / "+g.list.length, "Unlocked", Math.round(done/g.list.length*100));
+    }, function(g){ return openSub === "achgroup:"+g.key; }, function(g){
+      return '<div class="tk-subpanel"><h4>'+esc(g.key)+'</h4><div class="area open"><div class="body" style="padding-top:.6rem">'+
+        '<div class="chk">'+g.list.map(achievementRow).join("")+'</div></div></div></div>';
+    });
+    return '<div class="tk-subgrid">'+html+'</div>';
+  }
   function questsBlock(){
     var lines = questLines();
     var html = rowInsert(lines, 2, function(line){
@@ -1566,7 +1677,7 @@ img.img-broken{visibility:hidden}
     return "WILDS-"+part()+"-"+part();
   }
   var syncMsg = "";
-  function syncPayload(){ return { skills: STATE.skills, quests: STATE.quests }; }
+  function syncPayload(){ return { skills: STATE.skills, quests: STATE.quests, achievements: STATE.achievements }; }
   var syncTimer = null;
   function syncSoon(){
     if (!STATE.code) return;
@@ -1585,17 +1696,17 @@ img.img-broken{visibility:hidden}
     if (!STATE.code) return;
     fetch("/api/sync?code="+encodeURIComponent(STATE.code)).then(function(r){ return r.json(); }).then(function(r){
       if (r.error){ syncMsg = r.error === "not found" ? "No data saved under that code yet." : ("Pull failed: "+r.error); drawSettings(); return; }
-      STATE.skills = r.skills||{}; STATE.quests = r.quests||{};
+      STATE.skills = r.skills||{}; STATE.quests = r.quests||{}; STATE.achievements = r.achievements||{};
       saveState(); syncMsg = "Pulled latest."; drawSettings();
     }).catch(function(){ syncMsg = "Pull failed - offline?"; drawSettings(); });
   }
 
   var bkMsg = "", bkMsgCls = "";
-  function backupJSON(){ return JSON.stringify({ skills: STATE.skills, quests: STATE.quests }, null, 2); }
+  function backupJSON(){ return JSON.stringify({ skills: STATE.skills, quests: STATE.quests, achievements: STATE.achievements }, null, 2); }
   function restoreBackup(text){
     try {
       var p = JSON.parse(text);
-      STATE.skills = p.skills||{}; STATE.quests = p.quests||{};
+      STATE.skills = p.skills||{}; STATE.quests = p.quests||{}; STATE.achievements = p.achievements||{};
       saveState(); bkMsg = "Restored."; bkMsgCls = "ok";
     } catch(e){ bkMsg = "That's not valid backup JSON."; bkMsgCls = "bad"; }
     drawSettings();
@@ -1632,15 +1743,17 @@ img.img-broken{visibility:hidden}
   }
   function drawTracker(){
     beginVisiblePass();
-    var sk = skillsTotal(), qt = questsTotal();
+    var sk = skillsTotal(), qt = questsTotal(), ac = achievementsTotal();
     var grid = '<div class="tk-grid">'+
       tkBox("skills", "Skills", sk.done+" / "+sk.total, "Total level", Math.round(sk.done/sk.total*100), "boxStatSkills", "boxBarSkills")+
       tkBox("quests", "Quests", qt.done+" / "+qt.total, "Completed", Math.round(qt.done/qt.total*100))+
+      (ac.total ? tkBox("achievements", "Achievements", ac.done+" / "+ac.total, "Unlocked", Math.round(ac.done/ac.total*100)) : "")+
       '</div>';
 
     var panel = "";
     if (openBox === "skills") panel = '<div class="tk-panel"><h3>Skills</h3>'+skillsBlock()+'</div>';
     else if (openBox === "quests") panel = '<div class="tk-panel"><h3>Quests</h3>'+questsBlock()+'</div>';
+    else if (openBox === "achievements") panel = '<div class="tk-panel"><h3>Achievements</h3>'+achievementsBlock()+'</div>';
 
     trackerEl.innerHTML = '<div class="tk-head"><h2>My progress</h2></div>'+grid+panel;
     endVisiblePass();
@@ -1694,6 +1807,57 @@ img.img-broken{visibility:hidden}
       });
     }
     return ITEM_IMG_BY_NAME[name] || "";
+  }
+  var ITEM_BY_NAME = null;
+  function itemByName(name){
+    if (!ITEM_BY_NAME){
+      ITEM_BY_NAME = {};
+      (window.WILDS_STORAGE || []).forEach(function(cat){
+        cat.items.forEach(function(it){ if (!ITEM_BY_NAME[it.name]) ITEM_BY_NAME[it.name] = it; });
+      });
+    }
+    return ITEM_BY_NAME[name] || null;
+  }
+  // An item's own recipe only lists what goes in at the LAST step - a Rune
+  // Sword asks for Rune Bars, not the ore those bars came from. Nothing new
+  // has to be fetched to answer "what do I actually need to go gather",
+  // though: every intermediate already carries its own recipe, so walking
+  // them recursively bottoms out at the things you mine, chop and skin.
+  // Depth is capped and each branch remembers the path that reached it, so
+  // a recipe loop can't spin forever.
+  var RAW_TREE_MAX_DEPTH = 6;
+  function rawMaterialsFor(it){
+    var totals = {}, expandedAny = false;
+    function walk(name, qty, depth, path){
+      var rec = itemByName(name);
+      var r = rec && (rec.detail || {}).recipes && rec.detail.recipes[0];
+      if (!r || !r.materials || !r.materials.length || depth >= RAW_TREE_MAX_DEPTH || path[name]){
+        totals[name] = (totals[name] || 0) + qty;
+        return;
+      }
+      expandedAny = true;
+      // A recipe that yields several at once (2 planks per log) needs fewer
+      // runs than units, and you can't craft a fraction of a run.
+      var per = (r.output && r.output.qty) || 1;
+      var runs = Math.ceil(qty / per);
+      var nextPath = Object.assign({}, path);
+      nextPath[name] = true;
+      r.materials.forEach(function(m){ walk(m.name, (m.qty || 1) * runs, depth + 1, nextPath); });
+    }
+    var top = (it.detail || {}).recipes && it.detail.recipes[0];
+    if (!top || !top.materials || !top.materials.length) return null;
+    top.materials.forEach(function(m){ walk(m.name, m.qty || 1, 1, {}); });
+    // Every ingredient was already raw, so the list would just restate the
+    // recipe card sitting right above it.
+    return expandedAny ? totals : null;
+  }
+  function rawMaterialsHtml(it){
+    var totals = rawMaterialsFor(it);
+    if (!totals) return "";
+    var names = Object.keys(totals).sort(function(a, b){ return totals[b] - totals[a] || a.localeCompare(b); });
+    return '<div class="r block"><div class="fk subhead">Everything it takes ('+names.length+')</div><div class="mat-chips">'+
+      names.map(function(n){ return itemChip({ name:n, qty: totals[n] }); }).join("")+'</div>'+
+      '<div class="recipe-note">Counting every step back to raw materials.</div></div>';
   }
   // Every item's detail arrives from the build in one canonical shape (see
   // .research/normalize_detail.py): stats, recipes, usedIn, sources, shops,
@@ -1758,6 +1922,7 @@ img.img-broken{visibility:hidden}
     if (d.recipes && d.recipes.length){
       html += '<div class="r block"><div class="fk subhead">'+(d.recipes.length > 1 ? 'Recipes' : 'Recipe')+'</div>'+
         d.recipes.map(function(r){ return recipeCardHtml(it, r); }).join("")+'</div>';
+      html += rawMaterialsHtml(it);
     }
     if (d.usedIn && d.usedIn.length){
       var shown = d.usedIn.slice(0, USED_IN_SHOWN);
@@ -1768,7 +1933,12 @@ img.img-broken{visibility:hidden}
     if (d.sources && d.sources.length){
       html += '<div class="r block"><div class="fk subhead">Found from</div><div class="info-list">'+
         d.sources.map(function(s){
-          return '<div class="info-row"><span>'+esc(s.source)+'</span><span class="info-meta">'+
+          // Only the sources we actually hold a bestiary entry for become
+          // tappable; the rest stay plain text rather than offering a jump
+          // that would dead-end.
+          var known = !!creatureByName(s.source);
+          return '<div class="info-row'+(known ? ' info-row-link' : '')+'"'+
+            (known ? ' data-creature-link="'+esc(s.source)+'"' : '')+'><span>'+esc(s.source)+'</span><span class="info-meta">'+
             [s.qty ? '×'+esc(s.qty) : '', esc(s.rarity || '')].filter(Boolean).join(" · ")+'</span></div>';
         }).join("")+'</div></div>';
     }
@@ -1873,6 +2043,49 @@ img.img-broken{visibility:hidden}
     });
     out.sort(function(a,b){ return a.name.localeCompare(b.name); });
     return out;
+  }
+  // One renderer for all four bestiary kinds - a monster, a rock, a bird
+  // nest and a merchant all answer the same question ("what do I get from
+  // this"), so they share a shape and only differ in which stat chips and
+  // which list they happen to carry.
+  function creatureDetailHtml(c){
+    var html = "";
+    var stats = [
+      ["Power level", c.powerLevel], ["Health", c.health], ["Weak to", c.weakness],
+      ["Resists", c.resistance], ["Immune to", c.immune], ["Aggressive", c.aggressive],
+      ["Respawn", c.respawn], ["Found in", c.location], ["Tool", c.tool]
+    ].filter(function(s){ return s[1]; });
+    if (stats.length){
+      html += '<div class="r block"><div class="fk subhead">Stats</div><div class="stat-grid">'+stats.map(function(s){
+        return '<div class="stat-chip"><span class="fk">'+esc(s[0])+'</span><span class="fv">'+esc(String(s[1]))+'</span></div>';
+      }).join("")+'</div></div>';
+    }
+    if (c.drops && c.drops.length){
+      html += '<div class="r block"><div class="fk subhead">Drops ('+c.drops.length+')</div><div class="info-list">'+
+        c.drops.map(function(d){
+          return '<div class="info-row" data-mat-link="'+esc(d.name)+'"><span>'+
+            (d.img ? '<img class="drop-icon" src="'+esc(d.img)+'" alt="" loading="lazy">' : '')+esc(d.name)+'</span>'+
+            '<span class="info-meta">'+[d.qty ? '×'+esc(String(d.qty)) : '', esc(d.rarity || '')].filter(Boolean).join(" · ")+'</span></div>';
+        }).join("")+'</div></div>';
+    }
+    [["sells", "Sells"], ["buys", "Buys"]].forEach(function(pair){
+      var rows = c[pair[0]];
+      if (!rows || !rows.length) return;
+      html += '<div class="r block"><div class="fk subhead">'+pair[1]+' ('+rows.length+')</div><div class="info-list">'+
+        rows.map(function(s){
+          return '<div class="info-row" data-mat-link="'+esc(s.name)+'"><span>'+
+            (s.img ? '<img class="drop-icon" src="'+esc(s.img)+'" alt="" loading="lazy">' : '')+esc(s.name)+'</span>'+
+            '<span class="info-meta">'+esc(String(s.cost || ''))+' '+esc(s.currency || '')+'</span></div>';
+        }).join("")+'</div></div>';
+    });
+    if (c.attacks && c.attacks.length){
+      html += '<div class="r block"><div class="fk subhead">Attacks</div><ul class="steps">'+
+        c.attacks.map(function(a){ return '<li>'+esc(a)+'</li>'; }).join("")+'</ul></div>';
+    }
+    if (c.xp && c.xp.length){
+      html += '<div class="r block"><div class="fk subhead">Experience</div><div class="fv">'+esc(c.xp.join(", "))+'</div></div>';
+    }
+    return html || '<div class="note">Nothing catalogued for this one yet.</div>';
   }
   var MADE_HERE_SHOWN = 48;
   function stationDetailHtml(st){
@@ -2636,6 +2849,11 @@ img.img-broken{visibility:hidden}
       openIconLightbox(e.target.src, nearbyIconName(e.target));
       return;
     }
+    var creatureLink2 = e.target.closest("[data-creature-link]");
+    if (creatureLink2){
+      navToCreature(creatureLink2.dataset.creatureLink);
+      return;
+    }
     var matLink = e.target.closest("[data-mat-link]");
     if (matLink){
       navToMaterial(matLink.dataset.matLink);
@@ -2794,6 +3012,12 @@ img.img-broken{visibility:hidden}
     if (qrow){
       var key = qrow.dataset.qkey;
       if (STATE.quests[key]) delete STATE.quests[key]; else STATE.quests[key] = true;
+      saveState(); drawTracker(); return;
+    }
+    var arow = e.target.closest(".row[data-akey]");
+    if (arow){
+      var akey = arow.dataset.akey;
+      if (STATE.achievements[akey]) delete STATE.achievements[akey]; else STATE.achievements[akey] = true;
       saveState(); drawTracker(); return;
     }
     var act = e.target.closest("button[data-act]");

@@ -31,6 +31,7 @@ window.WILDS_LEVEL_UNLOCKS = {
     { level: 16, name: "Weapon Expertise", type: "Passive", note: "Unlocks additional attacks for all melee weapons." },
     { level: 20, name: "Enchant Weapon: Fire", type: "Spell", note: "Enchant your melee weapon with fire; critical hits apply Burning." },
     { level: 23, name: "Adaptability", type: "Passive", note: "Evading or blocking no longer interrupts melee combos." },
+    { level: 25, name: "Death From Above!", type: "Passive", note: "Unlocks the ability to perform an attack action while jumping." },
     { level: 27, name: "Weapon Rack", type: "Recipe", note: "Build a weapon rack to display your weapons." },
     { level: 30, name: "Enchant Weapon: Air", type: "Spell", note: "Enchant your melee weapon with air; increases attack speed." },
     { level: 34, name: "Lesser Attack Potion", type: "Recipe", note: "Craft the Lesser Attack Potion at the brewing cauldron." },
@@ -44,7 +45,7 @@ window.WILDS_LEVEL_UNLOCKS = {
   "Magic": [
     { level: "All", name: "Reduced Magic Stamina", type: "Passive", note: "Reduces the stamina cost of magic by 0.5% per level." },
     { level: 1, name: "Air Magic", type: "Passive", note: "Equip air runes for high single-target damage that knocks enemies down." },
-    { level: 5, name: "Secondary Attacks", type: "Passive", note: "Charge up and release powerful secondary staff spells." },
+    { level: 5, name: "Magic Special Actions", type: "Passive", note: "Charge up and release powerful secondary staff spells." },
     { level: 7, name: "Water Magic", type: "Passive", note: "Equip water runes to damage/slow enemies while healing yourself and allies; kills can spawn water orbs." },
     { level: 11, name: "Surge", type: "Spell", note: "Channel arcane power into your dodges, travelling further and evading longer." },
     { level: 16, name: "Arcane Expertise", type: "Passive", note: "Unlocks an additional powerful magical attack at the end of staff combos." },
@@ -79,15 +80,15 @@ window.WILDS_LEVEL_UNLOCKS = {
   ],
 
   "Mining": [
-    { level: "All", name: "Increased Mining Critical Chance", type: "Passive", note: "Increases mining critical hit chance by 0.5% per level." },
+    { level: "All", name: "Increased Mining Critical Chance", type: "Passive", note: "Increases mining critical hit chance by 0.3% per level." },
     { level: 5, name: "Lift With Your Hips", type: "Passive", note: "Reduces the weight of stone, clay and sand by 25%." },
     { level: 11, name: "Rocksplosion", type: "Spell", note: "Conjure a blast that breaks apart stone boulders and ore in a 5m radius." },
     { level: 16, name: "Gem Prospector", type: "Passive", note: "Mining ore now sometimes produces gemstones from the previous tier." },
     { level: 20, name: "Mine Crumbled Walls", type: "Passive", note: "Knock down crumbled walls with a pickaxe to access hidden or blocked areas." },
     { level: 24, name: "Summon Stone Spirits", type: "Spell", note: "Call a spirit that guides you to the nearest mineable clay or ore node, up to 200m away." },
     { level: 36, name: "Not-So-Heavy Metal", type: "Passive", note: "Reduces the weight of metal ores by 25%." },
-    { level: 62, name: "Ore & Stone Storage", type: "Recipe", note: "Unlocks the ore & stone storage building piece." },
-    { level: 69, name: "Ultimate Burst", type: "Passive", note: "Increases Rocksplosion's area of effect." },
+    { level: 51, name: "Ultimate Burst", type: "Passive", note: "Increases Rocksplosion's area of effect." },
+    { level: 58, name: "Ore & Stone Storage", type: "Recipe", note: "Unlocks the ore & stone storage building piece." },
     { level: 71, name: "Ingot Weight Reduction", type: "Passive", note: "Reduces the weight of bars by 50%." },
     { level: 80, name: "Divine Rock", type: "Spell", note: "Turn 5 dropped ore into a personal floating mining vein." },
     { level: 90, name: "Accelerated Veins", type: "Passive", note: "Divine Rock now has a chance to drop gemstones." },
@@ -96,15 +97,15 @@ window.WILDS_LEVEL_UNLOCKS = {
 
   "Woodcutting": [
     { level: 4, name: "Overhead Chop", type: "Ability", note: "Deals greater damage against fallen logs, but very little against standing trees." },
-    { level: 11, name: "Axtral Projection", type: "Spell", note: "Launch an astral axe forward, instantly chopping down trees in its path. Upgrades at level 88." },
+    { level: 11, name: "Axtral Projection", type: "Spell", note: "Launch an astral axe forward, instantly chopping down trees in its path. Upgrades at level 78." },
     { level: 16, name: "Bird Nest", type: "Passive", note: "Chance to find bird nests (containing useful items) while felling trees." },
     { level: 20, name: "Chop Thorny Vines", type: "Passive", note: "Cut down thorny vines with a hatchet to access hidden or blocked areas." },
     { level: 27, name: "Splinter", type: "Spell", note: "Chops fallen trees into logs; can be cast on multiple logs to maximise logs per cast." },
-    { level: 40, name: "Lumber Storage", type: "Recipe", note: "Build lumber storage, a high-capacity store for logs and planks." },
-    { level: 52, name: "Trunk Totem", type: "Spell", note: "Transmutes fallen trees into a wooden totem for easier chopping." },
-    { level: 67, name: "Wood Weight Reduction", type: "Passive", note: "Reduces the carry weight of wood by 50%." },
-    { level: 78, name: "Lumber Backpack", type: "Recipe", note: "Craft the lumber backpack: +10% Woodcutting XP, +10% wood from chopping, +15% special drop chance, -10% wood weight." },
-    { level: 88, name: "Axtral Projection Upgrade", type: "Passive", note: "Axtral Projection now fires 3 spectral axes for a bigger area of effect." },
+    { level: 50, name: "Trunk Totem", type: "Spell", note: "Transmutes fallen trees into a wooden totem for easier chopping." },
+    { level: 59, name: "Lumber Backpack", type: "Recipe", note: "Craft the lumber backpack: +10% Woodcutting XP, +10% wood from chopping, +15% special drop chance, -10% wood weight." },
+    { level: 67, name: "Lumber Storage", type: "Recipe", note: "Build lumber storage, a high-capacity store for logs and planks." },
+    { level: 78, name: "Axtral Projection Upgrade", type: "Passive", note: "Axtral Projection now fires 3 spectral axes for a bigger area of effect." },
+    { level: 88, name: "Wood Weight Reduction", type: "Passive", note: "Reduces the carry weight of wood by 50%." },
     { level: 99, name: "Woodcutting Cape", type: "Passive", note: "Craft and wear the Woodcutting skillcape and its trimmed variant." }
   ],
 
@@ -135,6 +136,8 @@ window.WILDS_LEVEL_UNLOCKS = {
     { level: 35, name: "Baroque Stone", type: "Recipe", note: "Unlocks additional stone building pieces." },
     { level: 40, name: "Personal Chest", type: "Spell", note: "Access your personal storage chest from anywhere." },
     { level: 45, name: "Desert Dweller", type: "Recipe", note: "Unlocks additional Kharidian building pieces." },
+    { level: 53, name: "Construction Material Weight Reduction", type: "Passive", note: "Reduces the weight of construction materials." },
+    { level: 62, name: "Eye of Oculus Upgrade", type: "Passive", note: "Eye of Oculus now magnetizes materials into your inventory." },
     { level: 99, name: "Construction cape", type: "Recipe", note: "Craft and wear the Construction skillcape." }
   ],
 
@@ -167,7 +170,7 @@ window.WILDS_LEVEL_UNLOCKS = {
     { level: 19, name: "Summon Elemental Spirits", type: "Spell", note: "Call wisps that guide you to nearby anima vents you can siphon." },
     { level: 22, name: "Air Efficiency", type: "Passive", note: "Better yield when auto-crafting Air runes." },
     { level: 25, name: "Fire Rune", type: "Recipe", note: "Craft Fire runes at the rune altar." },
-    { level: 27, name: "Runes To Rune Essence", type: "Spell", note: "Convert runes on the ground back into 40% of their rune essence." },
+    { level: 27, name: "Home Teleport", type: "Spell", note: "Teleport safely back to your bed for an undisturbed night's sleep." },
     { level: 30, name: "Astral Efficiency", type: "Passive", note: "Better yield when auto-crafting Astral runes." },
     { level: 34, name: "Pure Essence", type: "Passive", note: "Chance for a Pure Essence Stone to appear while siphoning an anima vent." },
     { level: 38, name: "Nature Rune", type: "Recipe", note: "Craft Nature runes at the rune altar." },
@@ -177,6 +180,7 @@ window.WILDS_LEVEL_UNLOCKS = {
     { level: 50, name: "Law Rune", type: "Recipe", note: "Craft Law runes at the rune altar." },
     { level: 53, name: "Essential Strength", type: "Passive", note: "Reduces the weight of rune essence by 50%." },
     { level: 58, name: "Water Efficiency", type: "Passive", note: "Better yield when auto-crafting Water runes." },
+    { level: 61, name: "Runes To Rune Essence", type: "Spell", note: "Drop unwanted runes on the ground to draw out their magic, recovering 40% of their rune essence." },
     { level: 64, name: "Greater Elemental Spirits", type: "Spell", note: "Summon Elemental Spirits now also indicates which anima vents are Concentrated." },
     { level: 68, name: "Earth Efficiency", type: "Passive", note: "Better yield when auto-crafting Earth runes." },
     { level: 71, name: "Greater Anima Siphoning", type: "Passive", note: "Each anima vent siphon consumes 1 rune essence to produce 15 runes." },
@@ -189,7 +193,7 @@ window.WILDS_LEVEL_UNLOCKS = {
   ],
 
   "Farming": [
-    { level: "All", name: "Seed Gathering", type: "Passive", note: "Increases the chance to gather seeds from all plants by 0.3% per level, up to 29.4% at level 99." },
+    { level: "All", name: "Seed Recovery Chance", type: "Passive", note: "Increases the chance to recover seeds from all plants by 0.3% per level, up to 29.4% at level 99." },
     { level: 3, name: "Plant Cure", type: "Recipe", note: "Craft plant cures at the cooking range to heal diseased plants." },
     { level: 6, name: "Rain Catcher", type: "Recipe", note: "Passively collects and filters rainwater into clean water over time." },
     { level: 10, name: "Compost Bin / Compost Bucket", type: "Recipe", note: "Craft compost (and super compost later) to boost yield and disease resistance of plots." },
@@ -205,6 +209,7 @@ window.WILDS_LEVEL_UNLOCKS = {
     { level: 50, name: "Cleansing Rain", type: "Passive", note: "Upgrades Humidify so its rain cloud also cures diseased plants it passes over." },
     { level: 55, name: "Scarecrow", type: "Recipe", note: "Protects crops from birds." },
     { level: 60, name: "Super Compost Bin", type: "Recipe", note: "Produces super compost for an even better yield/disease-resistance boost." },
+    { level: 65, name: "Large Compost Bucket", type: "Recipe", note: "An upgraded bucket that carries more compost per trip; pour it over a farming plot to fertilise." },
     { level: 74, name: "Rapid Growth", type: "Spell", note: "Advances a plant's growth by one stage; cannot be reapplied until it grows further." },
     { level: 80, name: "Mucksplosion", type: "Spell", note: "Summons a compost volcano that fertilizes plots in the area." },
     { level: 90, name: "Overgrowth Aura", type: "Passive", note: "Increases the range of the Rapid Growth spell." },

@@ -53,7 +53,7 @@ CHEST_OVERRIDES = {
     "Refined Obsidian": "stone",
     # Kiln and cauldron products (and their raw inputs) used as crafting agents.
     **{n: "alchemy" for n in [
-        "Adhesive", "Acrid Adhesive", "Charcoal", "Swamp Tar", "Naptha", "Demonic Oil",
+        "Adhesive", "Acrid Adhesive", "Charcoal", "Swamp Tar", "Naphtha", "Demonic Oil",
         "Sacred Oil", "Draconic Vis Wax", "Gypsum Wax", "Harmonised Compound", "Discordant Residue"]},
     # Monster drops.
     **{n: "bones" for n in [
@@ -296,7 +296,19 @@ MAX_DOWNSTREAM_STATIONS = 3
 # (Cooking Pot - also discontinued, see DISCONTINUED_NAMES above - doesn't
 # need an entry here: normalize_detail.py's WikiData.detail() already strips
 # it out of every recipe/usedIn list before this function ever sees it.)
-NOT_A_STATION = {"Build Menu"}
+#
+# "Smithing Forge" is a dead station name: it redirects to Smithing Anvil,
+# which the wiki marks {{Gone}} - removed in 0.12.0 and replaced by the
+# blacksmith's bench, armour bench and mystic forge. It's listed here rather
+# than in normalize_detail.py's DISCONTINUED_STATIONS (the Cooking Pot
+# treatment, which drops the recipe outright) because nine rings - Sun, Moon,
+# Miner, Phoenix, Gourmand, Herd, Hermit, Mule, Woodsman - are still live,
+# still obtainable, and still name it as their ONLY station. Dropping their
+# recipes would throw away the real cost those cards carry (3x Vault Core,
+# Artisan 100 XP) to tidy up a label. So the phantom station tile goes, the
+# rings and their recipes stay. The wiki has not said where they're made now;
+# when it does, this entry can go.
+NOT_A_STATION = {"Build Menu", "Smithing Forge"}
 
 def item_stations(detail):
     made = []

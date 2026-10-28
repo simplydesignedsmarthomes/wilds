@@ -239,7 +239,7 @@ FILE_RE = re.compile(r"\[\[File:([^|\]]+)")
 
 # Spelling mismatches inside the wiki's own recipe templates, mapped to the
 # name the actual item page uses, so the chip shows the right icon and name.
-NAME_ALIASES = {"Garou Artifact": "Garou Artefact"}
+NAME_ALIASES = {"Garou Artifact": "Garou Artefact", "Naptha": "Naphtha"}
 
 def _qty(v):
     if v in (None, ""):
@@ -360,14 +360,20 @@ class WikiData:
 
     def _chip(self, name, qty, image, pic=None):
         name = clean(name or "")
+        aliased_from = ""
         if name in NAME_ALIASES:
-            name, image = NAME_ALIASES[name], ""
+            aliased_from, name, image = name, NAME_ALIASES[name], ""
         files = FILE_RE.findall(image or "")
         img = self.images.get(files[0].strip()) if files else ""
         if not img and pic:
             img = self.images.get(clean(pic) + ".png", "")
         if not img and name:
             img = self.images.get(name + ".png", "")
+        # A renamed page usually keeps its original image filename - the wiki
+        # moved Naptha to Naphtha but the picture is still Naptha.png - so an
+        # alias that found no icon under the new name tries the old one.
+        if not img and aliased_from:
+            img = self.images.get(aliased_from + ".png", "")
         return {"name": name, "qty": _qty(qty), "img": img or ""}
 
     def item_image(self, name):
@@ -409,6 +415,25 @@ class WikiData:
     # in the app (an item's detail card, its station tag, a search result).
     DISCONTINUED_STATIONS = {"Cooking Pot"}
 
+    # Stations the wiki has renamed but not finished renaming everywhere.
+    # "Fletching Table" redirects to Fletching Bench; one straggler recipe
+    # (Shadow Crossbow) still spells it the old way, which was enough to
+    # split a phantom one-item station off from the real 77-item one.
+    # Rewritten rather than dropped, because unlike Cooking Pot the station
+    # itself is alive and well - only the name on the recipe is stale.
+    STATION_RENAMES = {"Fletching Table": "Fletching Bench"}
+
+    def _restation(self, rows):
+        out = []
+        for r in rows:
+            st = r.get("station")
+            if st in self.DISCONTINUED_STATIONS:
+                continue
+            if st in self.STATION_RENAMES:
+                r = dict(r, station=self.STATION_RENAMES[st])
+            out.append(r)
+        return out
+
     def detail(self, name, fallback_description=""):
         wt = self.page_for(name)
         stats = parse_stats(wt) if wt else []
@@ -424,8 +449,8 @@ class WikiData:
                 if k:
                     stats.insert(0, {"label": "Type", "value": k})
                     break
-        recipes = [r for r in self.lookup(self.recipes_by_output, name) if r["station"] not in self.DISCONTINUED_STATIONS]
-        used_in = [u for u in self.lookup(self.used_in, name) if u["station"] not in self.DISCONTINUED_STATIONS]
+        recipes = self._restation(self.lookup(self.recipes_by_output, name))
+        used_in = self._restation(self.lookup(self.used_in, name))
         return {
             "stats": stats,
             "recipes": recipes,

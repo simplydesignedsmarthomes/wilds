@@ -33383,7 +33383,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The gyrhawk amulet is an amulet that can be crafted at a crafting table. While equipped, the amulet slowly consumes warped feathers in order to grant +100% Agility experience when walking or sprinting.\n\nThe feathers must be held in the inventory while wearing the amulet, otherwise the amulet has no effect. Note that wearing the gyrhawk amulet whilst completing an agility course will not use warped feathers.\n\nTo unlock the recipe for the amulet, players must receive warped feathers in their inventory, which are found in reward packs after completing Agility courses.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
+          "description": "The gyrhawk amulet is an amulet that can be crafted at a crafting table. While equipped, the amulet grants +100% Agility experience when walking or sprinting but consumes warped feathers. To unlock the recipe, players must receive warped feathers in their inventory, found in reward packs after completing Agility courses. Note that wearing the gyrhawk amulet whilst completing an agility course will not use warped feathers.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
         },
         "stations": [
           "Crafting Table"
@@ -33465,7 +33465,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The gilded gyrhawk amulet is an amulet that can be crafted at a jeweler's bench after obtaining gold record times on all available Agility courses. While equipped, the amulet slowly consumes warped feathers in order to grant +100% Agility experience when walking or sprinting, while also providing +25% Agility experience when training on Agility courses.\n\nThe feathers must be held in the inventory while wearing the amulet, otherwise the amulet has no effect. Note that wearing the gilded gyrhawk amulet whilst completing an agility course will not use warped feathers.\n\nThis item, thus far, is the only trinket in the game with an Agility level requirement to wear and craft, at level 65 Agility.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want\"wants\" to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
+          "description": "The gilded gyrhawk amulet is an amulet that can be crafted at a jeweler's bench after obtaining gold record times on all available Agility courses. While equipped, the amulet grants +100% Agility experience when walking or sprinting by consuming warped feathers in the player's inventory, while also providing +25% Agility experience when training on Agility courses.\n\nThis item, thus far, is the only trinket in the game with an Agility level requirement to wear and craft at level 65 Agility.\n\n(Journal)\nWhile the Ashenfall gyrhawk is long-extinct, it lives on as a symbol. The form of the gyrhawk was adopted by anyone who want\"wants\" to convey a sense of speed. Gyrhawk Postal Services were popular in happier times around Brynmoor, while the Gyrhawk Swimmers were the ones to beat in swimming galas.\n\nPerhaps the most common use of an Ashenfall Gyrhawk's form was on medals and amulets, given to the winners of athletic competitions. Gilded gyrhawk amulets were given for first place, while second and third received ungilded. The amulets weren't worn in the heats themselves - that would be decidedly unfair, since they give performance benefits - but seeing a gyrhawk amulet around someone's neck was a good indicator that they were the athletic type."
         },
         "stations": [
           "Jeweler's Bench"
@@ -38284,80 +38284,6 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
-        "name": "Berry Compote",
-        "img": "https://dragonwilds.runescape.wiki/images/Berry_Compote.png?cfe3d",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A fruity medley of cooked redberries and dwellberries made at a cooking pot, providing moderate (30) sustenance and 5 lifeward, with a 5% chance to instead produce a rat roast.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.4 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A fruity medley of cooked berries. A great, sweet treat for enjoying in the wild."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Redberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Redberries.png?21adf"
-                },
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                }
-              ],
-              "output": {
-                "name": "Berry Compote",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Berry_Compote.png?cfe3d"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Berry compote is a consumable food item that can be crafted by combining redberries and dwellberries at a cooking pot. When consumed it provides moderate sustenance and 5 lifeward. There is also a 5% chance to produce a rat roast whilst making a berry compote.\n\n(Journal)\nBerries and more berries, what could be better? A sweet and sour sensation in each mouthful. A refreshing, yet enjoyable meal. Well, more like a dessert, but no one’s judging you."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
         "name": "Berry Drizzle Pan-Seared",
         "img": "https://dragonwilds.runescape.wiki/images/Berry_Drizzle_Pan-Seared.png?8c9d5",
         "tier": "",
@@ -38555,6 +38481,11 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Bittercap mushrooms are a power level 2 raw ingredient, which means they can be cooked at a campfire or grill into grilled mushrooms starting at Cooking Level 12, and not burnt into burnt mushroom at level 27. They can also be used to make weak antipoison potion. They can be gathered from bittercap mushroom (plant)s in the Whispering Swamp and Dowdun Reach.\n\n(Journal)\nWhile many mushrooms are poisonous, the Bittercap Mushroom turns against the defences of its kin and is an ingredient in several poison remedies."
         },
+        "stations": [
+          "Brewing Cauldron",
+          "Campfire",
+          "Grill"
+        ],
         "step": 3
       },
       {
@@ -44163,394 +44094,7 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Stone Range",
-          "Cooking Range",
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Dwellberry Crunchies (Removed)",
-        "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item that provided moderate (30) sustenance; was made by combining dwellberries with cabbages or potatoes at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.6 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Yum... smells fruity."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Stone Range",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dried Dwellberries",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dried_Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Wheat",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Wheat.png?6c475"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Range",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dried Dwellberries",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dried_Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Wheat",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Wheat.png?6c475"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Potato",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Potato.png?029ef"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Cabbage",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Cabbage.png?789d1"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Dwellberry crunchies are a consumable food item that can be created through Cooking by combining dwellberries and either cabbages or potatoes at a cooking pot. When consumed they provide moderate sustenance and 5 lifeward. There is also a 5% chance to produce a rat roast whilst making dwellberry crunchies.\n\n(Journal)\nDwellberries on Ashenfall are heartier than their mainland counterparts, and make for excellent ingredients. The Wild Knights were particularly fond of this recipe, though they referred to them as “dwellberry splats” because Olis, their creator, wasn’t a particularly good chef."
-        },
-        "stations": [
-          "Stone Range",
-          "Cooking Range",
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Dwellberry Glazed Roast Flank",
-        "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Flank.png?9dbab",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance; was made by combining dwellberries with raw bestial meat at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.2 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A delicious flank steak, covered in a fruity dwellberyspelled dwellberry glaze. ; Mouthwateringly tasty!"
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                },
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Glazed Roast Flank",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Flank.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Dwellberry glazed roast flank is a consumable food item that can be cooked by combining dwellberries with raw bestial meat at a cooking pot, and provides moderate sustenance when consumed. There is also a 5% chance to produce a rat roast whilst making dwellberry glazed roast flank.\n\n(Journal)\nA thick and juicy steak, combined with a rich and sticky dwellberry sauce. Each mouthful is like a taste explosion, and it can be difficult to hold yourself back. Orik the Bear was a Wild Knight who excelled in this dish, and other Wild Knights would seek him out at the gatherings for his culinary expertise."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Dwellberry Glazed Roast Meat",
-        "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Meat.png?cfe3d",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance; was made by combining dwellberries with any tier-one raw meat at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.2 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A juicy piece of roasted meat with a deliciously fruity dwellberry glazing. Scrumptious!"
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Raw Rat Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Rat_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Glazed Roast Meat",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Meat.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Raw Bird Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bird_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Glazed Roast Meat",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Meat.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Raw Farm Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Farm_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Glazed Roast Meat",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Meat.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Raw Game Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Game_Meat.png?11fcc"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Glazed Roast Meat",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Meat.png?cfe3d"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Dwellberry glazed roast meat is a food item that can be created through Cooking, by combining dwellberries with any tier one meat (raw rat meat, raw bird meat, raw farm meat, or raw game meat) at a cooking pot. Eating the dish provides moderate sustenance (30) and a small amount of lifeward (5) when consumed. There is also a 5% chance to produce a rat roast whilst making dwellberry glazed roast meat.\n\n(Journal)\nDwellberries boiled down into a thick sauce and liberally trailed across the meat. You may not expect the combination to work, but upon that first mouthful, your tastebuds will squirm in delight for this delicious combination."
-        },
-        "stations": [
-          "Cooking Pot"
+          "Cooking Range"
         ],
         "step": 3
       },
@@ -45227,363 +44771,6 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Cooking Range"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Fortifying Crunchies",
-        "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Crunchies.png?9dbab",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance plus the Fungal Fortitude poison-resistance perk; was made from dwellberries and bittercap mushrooms at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.6 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "PERK - FUNGAL FORTITUDE (300 SEC); Grants RESISTENCE to POISON effects; It actually smells quite good."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                }
-              ],
-              "output": {
-                "name": "Fortifying Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Redberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Redberries.png?21adf"
-                },
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                }
-              ],
-              "output": {
-                "name": "Fortifying Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Fortifying crunchies are a consumable food item that provide moderate sustenance. It also gives the player the Fungal Fortitude perk, which grants resistance to Poison effects for 300 seconds. There is also a 5% chance to produce a rat roast whilst making fortifying crunchies.\n\n(Journal)\nThe mushrooms of Ashenfall have absorbed enough magic over the years to give them special properties. A well-cooked mushroom will absorb certain toxins from whoever ingests them, making them invaluable for scouting into poison-filled areas."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Fortifying Soup",
-        "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Soup.png?cfe3d",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "Provides moderate (30) sustenance plus the Fungal Fortitude poison-resistance perk; made from bittercap mushrooms and cabbage or potato at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.8 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "PERK - FUNGAL FORTITUDE (300 SEC); ; A warm vegetable soup, with added mushrooms.; ; Grants RESISTENCEsupposed to be RESISTANCE to POISON effects"
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                },
-                {
-                  "name": "Cabbage",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Cabbage.png?789d1"
-                }
-              ],
-              "output": {
-                "name": "Fortifying Soup",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Soup.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                },
-                {
-                  "name": "Potato",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Potato.png?029ef"
-                }
-              ],
-              "output": {
-                "name": "Fortifying Soup",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Soup.png?cfe3d"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Fortifying soup is a consumable food item that provides moderate sustenance and 5 lifeward when eaten. It also provides the player with the Fungal Fortitude perk, which grants resistance to Poison buildup by 33% for 300 seconds. There is also a 5% chance to produce a rat roast whilst making fortifying soup.\n\n(Journal)\nIt is said that Guthix created the first fortifying soup, as a gift for his chief druids. While the first few attempts resulted in terrible food poisoning - Guthix was a god, not a chef - the perfected recipe soon became a favourite once he mixed in mushrooms. This was because the mushrooms absorbed much of the toxins, making it much more palatable."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Fortifying Stew",
-        "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Stew.png?cfe3d",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A warm meat and mushroom stew providing moderate (30) sustenance; made from bittercap mushrooms and raw meat at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.4 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "PERK - FUNGAL FORTITUDE (300 SEC); ; Grants RESISTENCEsupposed to spell RESISTANCE to POISON effects; ; A warm meat and mushroom stew, fortifies you against the trials ahead."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Rat Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Rat_Meat.png?563c3"
-                },
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                }
-              ],
-              "output": {
-                "name": "Fortifying Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Bird Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bird_Meat.png?563c3"
-                },
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                }
-              ],
-              "output": {
-                "name": "Fortifying Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Farm Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Farm_Meat.png?563c3"
-                },
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                }
-              ],
-              "output": {
-                "name": "Fortifying Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Game Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Game_Meat.png?11fcc"
-                },
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                }
-              ],
-              "output": {
-                "name": "Fortifying Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Fortifying stew is a stew that can be crafted by combining bittercap mushrooms with any raw meat at a cooking pot. When consumed, it provides moderate sustenance, 5 lifeward, and gives the Fungal Fortitude perk, granting resistance to Poison buildup by 33% for 300 seconds. There is also a 5% chance to produce a rat roast whilst making fortifying stew.\n\n(Journal)\nMeat and mushrooms, an alliance that stretches back across time. Both flavours mixing together to create a unified taste explosion. On Ashenfall, the mushrooms are infused with anima and draw toxins away from those who ingest them. Popular with anyone looking to avoid poisoning."
-        },
-        "stations": [
-          "Cooking Pot"
         ],
         "step": 3
       },
@@ -47206,518 +46393,6 @@ window.WILDS_STORAGE = [
         "step": 3
       },
       {
-        "name": "Hearty Crunchies",
-        "img": "https://dragonwilds.runescape.wiki/images/Hearty_Crunchies.png?9dbab",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance; was made by combining onions with redberries or dwellberries at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.6 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Yum! Smells delicious!"
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Redberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Redberries.png?21adf"
-                }
-              ],
-              "output": {
-                "name": "Hearty Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                }
-              ],
-              "output": {
-                "name": "Hearty Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Hearty crunchies are a food item that can be created through Cooking, by combining onions and either redberries or dwellberries at a cooking pot, and provides moderate sustenance and 5 lifeward when consumed. There is also a 5% chance to produce a rat roast whilst making hearty crunchies.\n\n(Journal)\nLoosely based on gnomish cooking, these delicious fritters make for hearty and comforting meals."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Hearty Fortifying Soup",
-        "img": "https://dragonwilds.runescape.wiki/images/Hearty_Fortifying_Soup.png?9dbab",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance plus the Fungal Fortitude poison-resistance perk; was made by combining bittercap mushrooms with onions at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.8 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "PERK - FUNGAL FORTITUDE (300 SEC); ; Grants RESISTANCE to POISON effects; ; A comforting vegetable soup with added mushrooms. Helps prepare you for a grueling day ahead."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Bittercap Mushroom",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
-                }
-              ],
-              "output": {
-                "name": "Hearty Fortifying Soup",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Fortifying_Soup.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Hearty fortifying soup is a consumable food item that can be crafted by combining bittercap mushrooms with onions at a cooking pot. When consumed, it provides moderate sustenance, 5 lifeward, and gives the Fungal Fortitude perk, granting resistance to Poison buildup by 33% for 300 seconds. There is also a 5% chance to produce a rat roast whilst making hearty fortifying soup.\n\n(Journal)\nThe Wild Knights would prepare this soup before heading into the poisonous Bloodblight Swamp, or when facing venomous monsters. The mushrooms would absorb some of the toxins they encountered, and the soup would be filling enough to last them through the long journeys."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Hearty Soup",
-        "img": "https://dragonwilds.runescape.wiki/images/Hearty_Soup.png?9dbab",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance and 5 lifeward; was made by combining onion with potato or cabbage at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "0.8 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A comforting vegetable soup, reminds you of rainy days sat by the fire."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Potato",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Potato.png?029ef"
-                }
-              ],
-              "output": {
-                "name": "Hearty Soup",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Soup.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Cabbage",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Cabbage.png?789d1"
-                }
-              ],
-              "output": {
-                "name": "Hearty Soup",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Soup.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Hearty soup is a consumable food item that can be created through Cooking by combining onion with either potato or cabbage at a cooking pot and provides moderate sustenance and 5 lifeward when consumed.\n\n(Journal)\nWhen Bramblemead villagers discovered heartier vegetables, their recipes improved just as much. The simple soup became richer, tastier and more fulfilling. A nice, hearty, meal to get them through the tough work on the farm."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Hearty Stew",
-        "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance; was made by combining onion or raw bestial meat with other raw meats at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.4 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A nice hot stew. A taste of home."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Raw Bird Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bird_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Hearty Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Raw Rat Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Rat_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Hearty Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Raw Farm Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Farm_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Hearty Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Raw Game Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Game_Meat.png?11fcc"
-                }
-              ],
-              "output": {
-                "name": "Hearty Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Cabbage",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Cabbage.png?789d1"
-                },
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                }
-              ],
-              "output": {
-                "name": "Hearty Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Potato",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Potato.png?029ef"
-                },
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                }
-              ],
-              "output": {
-                "name": "Hearty Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Onion",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
-                },
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                }
-              ],
-              "output": {
-                "name": "Hearty Stew",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Hearty stew is a stew that can be created through Cooking by combining a meat with a vegetable at a cooking pot, and much like meat stew provides moderate sustenance and 5 lifeward when eaten, however to as opposed to meat stew at least one tier two ingredient is used, either the meat used is raw bestial meat or the vegetable used is onion, or both. There is also a 5% chance to produce a rat roast whilst making hearty stew.\n\n(Journal)\nA thick and tasty stew, rich in flavour and nutrients. Bramblemead’s head chef, Leander, usewrong verb form (should say \"used\") to say that eating this stew was like sitting around a warm fire with friends. The aroma of the rich gravy filling your nostrils makes you feel like you’re home. Villagers would gather when he made a big cauldron of the stew, each of them ready for an evening with friends."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
         "name": "Herb Baked Trout",
         "img": "https://dragonwilds.runescape.wiki/images/Herb_Baked_Trout.png?34caf",
         "tier": "",
@@ -48252,161 +46927,6 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Cooking Range"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Mixed Platter",
-        "img": "https://dragonwilds.runescape.wiki/images/Mixed_Platter.png?9dbab",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance; was made by combining raw bestial meat with other tier-one raw meat at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "2.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Why eat just one animal? A carnivore's delight!"
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                },
-                {
-                  "name": "Raw Rat Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Rat_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Mixed Platter",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Mixed_Platter.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                },
-                {
-                  "name": "Raw Bird Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bird_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Mixed Platter",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Mixed_Platter.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                },
-                {
-                  "name": "Raw Farm Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Farm_Meat.png?563c3"
-                }
-              ],
-              "output": {
-                "name": "Mixed Platter",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Mixed_Platter.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                },
-                {
-                  "name": "Raw Game Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Game_Meat.png?11fcc"
-                }
-              ],
-              "output": {
-                "name": "Mixed Platter",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Mixed_Platter.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Mixed platter is a consumable food item that can be created through Cooking by combining raw bestial meat with any tier one meat (raw rat meat, raw bird meat, raw farm meat, or raw game meat) at a cooking pot and provides moderate sustenance and 5 lifeward when eaten.\n\n(Journal)\nIf you thought the Mixed Grill was a monumental mountain of meat, then the Mixed Platter makes it seem like a molehill. Thick and juicy steam, mixed with other delicious meat dishes.\n\nGarou would regularly make dishes such as this. Mountains of meat, crafted from their latest hunts. They would flavour the dish with local herbs and, once in a while, threaten it with a vegetable."
-        },
-        "stations": [
-          "Cooking Pot"
         ],
         "step": 3
       },
@@ -49219,8 +47739,7 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Campfire",
-          "Grill",
-          "Cooking Pot"
+          "Grill"
         ],
         "step": 3
       },
@@ -49723,83 +48242,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Redberry crunchies are a consumable food item that provides 50 health and 35 sustenance. They are made with dried redberries and wheat in a stone range or a cooking range; however, a player must first interact with a stone range to learn the recipe.\n\n(Journal)\nAlthough a crude facsimile of gnomish cooking, the Redberry Crunchy is a pleasant snack that will get you through the day."
         },
-        "stations": [
-          "Cooking Pot"
-        ],
-        "step": 3
-      },
-      {
-        "name": "Redberry Glazed Roast Flank",
-        "img": "https://dragonwilds.runescape.wiki/images/Redberry_Glazed_Roast_Flank.png?9dbab",
-        "tier": "",
-        "tierRank": null,
-        "chest": "food",
-        "note": "A removed item providing moderate (30) sustenance and 5 lifeward; was made by combining redberries with raw bestial meat at a cooking pot.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Food"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Sustenance",
-              "value": "Moderate (30)"
-            },
-            {
-              "label": "Weight",
-              "value": "1.2 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A delicious flank steak, covered in a fruity redberry glaze. Delightfully delicious!"
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Raw Bestial Meat",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
-                },
-                {
-                  "name": "Redberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Redberries.png?21adf"
-                }
-              ],
-              "output": {
-                "name": "Redberry Glazed Roast Flank",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Redberry_Glazed_Roast_Flank.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Redberry glazed roast flank is a consumable food item that can be cooked by combining redberries with raw bestial meat at a cooking pot, and provides moderate sustenance and 5 lifeward when eaten. There is also a 5% chance to produce a rat roast whilst making redberry glazed roast flank.\n\n(Journal)\nA thick, delicious and juicy flank steak, glazed with subtle redberry tones. Delicious and nutritious."
-        },
-        "stations": [
-          "Cooking Pot"
-        ],
         "step": 3
       },
       {
@@ -54037,137 +52479,6 @@ window.WILDS_STORAGE = [
         "step": 0
       },
       {
-        "name": "Weak Healing Potion",
-        "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c",
-        "tier": "Weak",
-        "tierRank": 1,
-        "chest": "potions",
-        "note": "A potion that restores a small amount of health. (Removed from the game in a later update.)",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Potion"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A potion that restores a small amount of health."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Brewing Cauldron",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 0
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Harralander",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Harralander.png?68a6b"
-                },
-                {
-                  "name": "Redberries",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Redberries.png?21adf"
-                },
-                {
-                  "name": "Clay Vessel",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Weak Healing Potion",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [
-            {
-              "source": "Garou Pack",
-              "qty": "1",
-              "rarity": "10/100"
-            },
-            {
-              "source": "Chest (Chaktan Kara)",
-              "qty": "1",
-              "rarity": "1/100"
-            },
-            {
-              "source": "Chest (Kletterbuja Kara)",
-              "qty": "1",
-              "rarity": "1/100"
-            },
-            {
-              "source": "Chest (Vertentis Kara)",
-              "qty": "1",
-              "rarity": "1/33.3"
-            },
-            {
-              "source": "Chest (Crasorak Kara)",
-              "qty": "1",
-              "rarity": "1/33.3"
-            },
-            {
-              "source": "Chest (Thishepen Kara)",
-              "qty": "1",
-              "rarity": "1/33.3"
-            },
-            {
-              "source": "Chest (Brynmoor)",
-              "qty": "1",
-              "rarity": "1/50"
-            },
-            {
-              "source": "Chest (Stormtouched Highlands)",
-              "qty": "1",
-              "rarity": "1/100"
-            },
-            {
-              "source": "Chest (Fractured Plains)",
-              "qty": "1",
-              "rarity": "1/100"
-            },
-            {
-              "source": "Chest (Bloodblight Swamp)",
-              "qty": "1",
-              "rarity": "1/100"
-            },
-            {
-              "source": "Chest (Whispering Swamp)",
-              "qty": "1",
-              "rarity": "1/100"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Weak healing potion is a potion that instantly heals 40 health points upon consumption. It is made with harralander, redberries, and clay vessel in a brewing cauldron.\n\n(Journal)\nAlchemists have long strived to create potions to rid mankind of all their ills. Normally, these potions are regeneratives that boost the body's ability to repair itself by drawing in the ambient anima and infusing it into the blood and tissue of the drinker. On the mainland, this changes healing from days to a matter of hours. On Ashenfall, the results are far more pronounced.\n\nThe ambient anima of the region is so strong that wounds heal in moments. Cuts vanish as if they never were, wounds healing so quickly that even scars cannot form. Weaker versions of the potion burn themselves out before they can heal severe injuries, but the results are impressive nonetheless."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 0
-      },
-      {
         "name": "Weak Lumberjack Potion",
         "img": "https://dragonwilds.runescape.wiki/images/Weak_Lumberjack_Potion.png?5a0d4",
         "tier": "Weak",
@@ -55469,81 +53780,6 @@ window.WILDS_STORAGE = [
           "shops": [],
           "perks": [],
           "description": "Lesser Focused Woodcutting potion grants the perk Focused Woodcutting, which provides a 10-minute (600-second) +15% XP boost for the Woodcutting skill. It is made with snapdragon, shrapnel, and clay vessel in a brewing cauldron."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 1
-      },
-      {
-        "name": "Lesser Healing Potion",
-        "img": "https://dragonwilds.runescape.wiki/images/Lesser_Healing_Potion.png?39e25",
-        "tier": "Lesser",
-        "tierRank": 2,
-        "chest": "potions",
-        "note": "A potion that restores a moderate amount of health. (Removed from the game in a later update.)",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Potion"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "A potion that restores a moderate amount of health."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Brewing Cauldron",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 0
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Snapdragon",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Snapdragon.png?6c8ad"
-                },
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Clay Vessel",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Vessel.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Lesser Healing Potion",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Lesser_Healing_Potion.png?39e25"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Lesser healing potion is a potion that instantly heals 70 health points upon consumption. It is made with snapdragon, 2 dwellberries, and clay vessel in a brewing cauldron.\n\n(Journal)\nA step up from the weaker version, this potion allows the body to absorb more of the ambient anima, which, in turn, ramps up healing. The potion allows the drinker to shrug off greater physical trauma than before.\n\nFor years, herblore masters have worked on versions that might work on emotional trauma, but there has been little success to date."
         },
         "stations": [
           "Brewing Cauldron"
@@ -56946,81 +55182,6 @@ window.WILDS_STORAGE = [
           "shops": [],
           "perks": [],
           "description": "Focused Woodcutting potion grants the perk Focused Woodcutting II, which provides a 5-minute (300-second) +30% XP boost for the Woodcutting skill. It is made with irit, redberries, and glass vessel in a brewing cauldron."
-        },
-        "stations": [
-          "Brewing Cauldron"
-        ],
-        "step": 2
-      },
-      {
-        "name": "Healing Potion",
-        "img": "https://dragonwilds.runescape.wiki/images/Healing_Potion.png?b83dc",
-        "tier": "Regular",
-        "tierRank": 3,
-        "chest": "potions",
-        "note": "Recovers some lost health. Made with irit and redberries. (Removed from the game in a later update.)",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Potion"
-            },
-            {
-              "label": "Released",
-              "value": "31 March 2026"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Recovers some lost health. Made with irit and redberries."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Brewing Cauldron",
-              "skills": [
-                {
-                  "name": "Artisan",
-                  "xp": 0
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Irit",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Irit.png?ad481"
-                },
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Glass Vessel",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Glass_Vessel.png?e8e39"
-                }
-              ],
-              "output": {
-                "name": "Healing Potion",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Healing_Potion.png?b83dc"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "Healing potion is a potion that instantly heals 80 health points upon consumption. It is made with irit, 2 dwellberries, and glass vessel in a brewing cauldron.\n\n(Journal)\nHold a healing potion in your hands and doubt might enter the mind. Do you drink it? Do you apply it directly to the wound? Is it a suppository? Well, allow us to clarify: it is taken orally.\n\nA healing potion won't just address your egregious malady. It will help with minor nuisances, too. If you've got a spot on the inside of your nostril, it will tidy that up nicely. An armpit itch? Gone in seconds. Ingrowing toenail? Consider it done."
         },
         "stations": [
           "Brewing Cauldron"
@@ -59913,7 +58074,7 @@ window.WILDS_STORAGE = [
         "step": 3
       }
     ],
-    "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c"
+    "img": "https://dragonwilds.runescape.wiki/images/Weak_Antipoison_Potion.png?5a0d4"
   },
   {
     "key": "ores",
@@ -78697,7 +76858,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Warped feathers are a basic Agility material that can be found from Agility courses reward packs.\n\nWarped feathers (along with coarse thread) can create the gyrhawk amulet. Feathers held in the inventory will also slowly be consumed by the amulet in exchange for increased Agility experience whilst running, jumping, and dodging.\n\n(Journal)\nIs there a sorrier tale than that of the Ashenfall gyrhawk? It was such a beautiful bird, and it was the closest that the natural world has ever come to a daredevil. It lived to swoop through winding canyons, to plunge into forest canopies. It didn't matter if it was chasing prey: it would negotiate sharp turns and small gaps for the simple sport of it. Man-made structures were just as attractive to a the Ashenfall gyrhawk as natural structures, thanks to the sudden turns and sharp drops.\n\nBut then came the invention of the glass window. The Ashenfall gyrhawks never adapted to them. For years, gyrhawks would slam into or smash through windows until, suddenly, those occurrences stopped. The last of the gyrhawks died, and their feathers were lost to the winds."
+          "description": "Warped feathers is a basic Agility material that can be found from Agility courses reward packs. Warped feathers can create the gyrhawk amulet along with coarse thread. However, players will need more feathers to charge the amulet to gain Agility experience whilst running, jumping, and dodging.\n\n(Journal)\nIs there a sorrier tale than that of the Ashenfall gyrhawk? It was such a beautiful bird, and it was the closest that the natural world has ever come to a daredevil. It lived to swoop through winding canyons, to plunge into forest canopies. It didn't matter if it was chasing prey: it would negotiate sharp turns and small gaps for the simple sport of it. Man-made structures were just as attractive to a the Ashenfall gyrhawk as natural structures, thanks to the sudden turns and sharp drops.\n\nBut then came the invention of the glass window. The Ashenfall gyrhawks never adapted to them. For years, gyrhawks would slam into or smash through windows until, suddenly, those occurrences stopped. The last of the gyrhawks died, and their feathers were lost to the winds."
         },
         "stations": [
           "Crafting Table"
@@ -79173,7 +77334,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Weight",
-              "value": "3.0 kg"
+              "value": "1.0 kg"
             },
             {
               "label": "Stack limit",
@@ -89546,7 +87707,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Rune essence is mainly used to craft runes and other magical items. It can be gathered by mining rune essence stones surrounding the geysers around Ashenfall.\n\nSome geysers spawn with rocks on the ground that players can easily gather from. Other floating rocks require being hit out of the sky (most easily with an arrow or an attack from a staff), then they will then fall to the ground to be mined. Alternatively, players can cast Rocksplosion whilst aiming at the floating rocks to burst all at once, and can collect rune essence without affecting their pickaxe's durability.\n\nReceiving rune essence for the first time unlocks the rune altar.\n\n(Journal)\nA magical stone with the ability to absorb the ambient anima around it. On Ashenfall, the rocks hover in the air as if resting on some invisible structure, held aloft by invisible currents of magical energy.\n\nWith the right equipment and skill, Rune Essence can be infused with certain magical resonances, taking on the elemental power of the air or the flame.\n\nThis discovery is one of Guthix’s greatest triumphs and perhaps his most enduring miracle."
+          "description": "Rune essence can be gathered by mining rune essence stones surrounding the geysers around Ashenfall. Some spawn with rocks on the ground that you can easily gather from. The floating rocks require being hit (most easily with an arrow or an attack from a staff), and they will then fall to the ground to be mined. Alternatively, players can cast Rocksplosion whilst aiming at the floating rocks and can collect rune essence without affecting the pickaxe's durability.\n\nCollecting rune essence in their inventory for the first time unlocks the rune altar.\n\n(Journal)\nA magical stone with the ability to absorb the ambient anima around it. On Ashenfall, the rocks hover in the air as if resting on some invisible structure, held aloft by invisible currents of magical energy.\n\nWith the right equipment and skill, Rune Essence can be infused with certain magical resonances, taking on the elemental power of the air or the flame.\n\nThis discovery is one of Guthix’s greatest triumphs and perhaps his most enduring miracle."
         },
         "stations": [
           "Crafting Table",
@@ -92383,6 +90544,11 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Cabbages are a power level 2 raw ingredient, which means they can be cooked at a campfire or grill into fried cabbage starting at Cooking Level 12, and not burnt into burnt cabbage at level 27. They can also be used to make weak Focused Cooking potions and Focused Cooking potions. They can be gathered from cabbage plants in Bramblemead Valley and cabbage (Farming) from cabbage seeds.\n\n(Journal)\nFew vegetables are as worthy of such reverence as the humble Cabbage. Delicious. Easily portable and possessing a leaf more noble than any other. This, at least, the followers of the god Brassica Prime profess.\n\nNo one is entirely sure how there is a god of cabbages. Fewer still are sure why there is a god of cabbages, yet the existence of such a being cannot be denied.\n\nUnlike other deities, who guard the focus of their faith with great jealousy, Brassica Prime delights in nothing more than seeing people enjoying the delicious, nutritious wonders of the humble cabbage.\n\nBest enjoyed fried or mixed into a stew. Cabbage wine is a failed experiment that should never be spoken of again."
         },
+        "stations": [
+          "Brewing Cauldron",
+          "Campfire",
+          "Grill"
+        ],
         "step": 0
       },
       {
@@ -94367,8 +92533,7 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Campfire",
-          "Grill",
-          "Cooking Pot"
+          "Grill"
         ],
         "step": 0
       },
@@ -99063,81 +97228,6 @@ window.WILDS_STORAGE = [
         "step": 6
       },
       {
-        "name": "Large Wardstone",
-        "img": "https://dragonwilds.runescape.wiki/images/Large_Wardstone.png?183b0",
-        "tier": "",
-        "tierRank": null,
-        "chest": "tools",
-        "note": "Recharges armour with a substantial amount of lifeward when activated, though it inflicts a penalty status effect on the user.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Weight",
-              "value": "5.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "25"
-            },
-            {
-              "label": "Description",
-              "value": "Recharges your armour with a large amount of lifeward."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Crafting Table",
-              "skills": [
-                {
-                  "name": "Runecrafting",
-                  "xp": 10
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Rune Essence",
-                  "qty": 15,
-                  "img": "https://dragonwilds.runescape.wiki/images/Rune_Essence.png?6f589"
-                },
-                {
-                  "name": "Granite",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Granite.png?d4d9c"
-                },
-                {
-                  "name": "Wild Anima",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Wild_Anima.png?dfc4f"
-                }
-              ],
-              "output": {
-                "name": "Large Wardstone",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Large_Wardstone.png?183b0"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "A large wardstone is a wardstone that recharges a player's armour with 90 lifeward in one second, but will inflict 25 Soulscourge on the player.\n\n(Journal)\nA more powerful and refined wardstone, this one allows you a much greater return on investment. When activated, it draws energy from the soul more cleanly and efficiently, reducing the impact of Soulscourge on the user."
-        },
-        "stations": [
-          "Crafting Table"
-        ],
-        "step": 6
-      },
-      {
         "name": "Lobster Bait",
         "img": "https://dragonwilds.runescape.wiki/images/Lobster_Bait.png?2d8b3",
         "tier": "",
@@ -99350,81 +97440,6 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Blacksmith's Bench"
-        ],
-        "step": 6
-      },
-      {
-        "name": "Medium Wardstone",
-        "img": "https://dragonwilds.runescape.wiki/images/Medium_Wardstone.png?4c663",
-        "tier": "",
-        "tierRank": null,
-        "chest": "tools",
-        "note": "Recharged armour with lifeward via Runecrafting (1 Sandstone, 2 Anima-Infused Bark, 10 Rune Essence); removed in the 0.12.0 update.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Weight",
-              "value": "5.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "25"
-            },
-            {
-              "label": "Description",
-              "value": "Recharges your armour with a moderate amount of lifeward."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Crafting Table",
-              "skills": [
-                {
-                  "name": "Runecrafting",
-                  "xp": 10
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Sandstone",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Sandstone.png?d4d9c"
-                },
-                {
-                  "name": "Anima-Infused Bark",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Anima-Infused_Bark.png?789d1"
-                },
-                {
-                  "name": "Rune Essence",
-                  "qty": 10,
-                  "img": "https://dragonwilds.runescape.wiki/images/Rune_Essence.png?6f589"
-                }
-              ],
-              "output": {
-                "name": "Medium Wardstone",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Medium_Wardstone.png?4c663"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "A medium wardstone is a wardstone that recharges a player's armour with 60 lifeward in one second, but will inflict 25 Soulscourge on the player.\n\n(Journal)\nSome materials are better at resonating with souls than others. This is why a home made of better quality stones feels more comfortable than one made from pebbles. When used in wardstones, they allow for more powerful effects at no greater cost to the soul itself. Drawing out more of the ambient anima within a person, whilst minimizing the damage done."
-        },
-        "stations": [
-          "Crafting Table"
         ],
         "step": 6
       },
@@ -99989,76 +98004,6 @@ window.WILDS_STORAGE = [
           "shops": [],
           "perks": [],
           "description": "Shrimp bait is a power level 2 Fishing bait crafted at the crafting table. It increases the chance of catching raw sardines. Players can store the bait in a tackle box, which holds up to 48 baits.\n\n(Journal)\nFishing bait made from a shrimp. Not terribly exciting, in the grand scheme of things, but still very useful for catching more fish."
-        },
-        "stations": [
-          "Crafting Table"
-        ],
-        "step": 6
-      },
-      {
-        "name": "Small Wardstone",
-        "img": "https://dragonwilds.runescape.wiki/images/Small_Wardstone.png?5b128",
-        "tier": "",
-        "tierRank": null,
-        "chest": "tools",
-        "note": "Recharges armour with a small amount of lifeward (30 lifeward in one second), though it inflicts 25 Soulscourge damage to the user.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "15 April 2025"
-            },
-            {
-              "label": "Weight",
-              "value": "5.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "25"
-            },
-            {
-              "label": "Description",
-              "value": "Recharges your armour with a small amount of lifeward."
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Crafting Table",
-              "skills": [
-                {
-                  "name": "Runecrafting",
-                  "xp": 10
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Rune Essence",
-                  "qty": 5,
-                  "img": "https://dragonwilds.runescape.wiki/images/Rune_Essence.png?6f589"
-                },
-                {
-                  "name": "Stone",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Stone.png?6b36b"
-                }
-              ],
-              "output": {
-                "name": "Small Wardstone",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Small_Wardstone.png?5b128"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "A small wardstone is a wardstone that recharges a player's armour with 30 lifeward in one second, but will inflict 25 Soulscourge on the player. To unlock this wardstone, players must both create and equip any power level 2 chest.\n\n(Journal)\nWardstones are handy tools for anyone working with wards. Armour, when created on an anima-rich continent like Ashenfall, is infused with threads of enchantment that harness natural magic to provide an extra layer of protection for the wearer.\n\nThis protection depletes upon use, as the energy within the ward is expended on the effect. But the wardstone can rectify this situation… for a price.\n\nThe stone around the wardstone is hollow and more brittle than it seems, and the rune essence is carefully laid within it along with a final ingredient – a drop of the creators own blood. This blood, and the rune essence formation, creates a sort of harmonious connection between the bearer of the wardstone and the stone itself.\n\nWhen the stone is broken, it activates the rune essence and draws anima in from the nearest pure source – the soul of the user.\n\nSouls are containers of pure anima. They grow over time from experience and adventure, the more the bearer of said soul enriches their life with activity, the stronger the soul. This means that the damage the wardstone creates, whilst not insignificant, is easily repaired through the simple passage of time. Especially on Ashenfall, where merely surviving to the next hour is an adventure.\n\nWardstones are great in a pinch, but one must be careful not to use too many, less the damage they deal to themselves becomes too great."
         },
         "stations": [
           "Crafting Table"
@@ -105262,45 +103207,6 @@ window.WILDS_STORAGE = [
           "shops": [],
           "perks": [],
           "description": "An educational blade is a vestige that unlocks the creation of the wooden training sword. This is found on the eastern side of the Temple of Saradomin roof."
-        },
-        "step": 0
-      },
-      {
-        "name": "An Ember-Edged Remnant of Cloth",
-        "img": "https://dragonwilds.runescape.wiki/images/An_Ember_Edged_Remnant_of_Cloth.png?78109",
-        "tier": "",
-        "tierRank": null,
-        "chest": "vestiges",
-        "note": "A discontinued, removed-from-game vestige item, a burnt remnant of cloth the player could perhaps learn something from.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Vestige"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026"
-            },
-            {
-              "label": "Weight",
-              "value": "0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Perhaps you could learn from it"
-            }
-          ],
-          "recipes": [],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "An ember edged remnant of cloth was a vestige that unlocks the fire cape."
         },
         "step": 0
       },
@@ -112108,16 +110014,8 @@ window.WILDS_STATIONS = [
     "img": "https://dragonwilds.runescape.wiki/images/Blacksmith%27s_Bench.png?b4989"
   },
   {
-    "name": "Crafting Table",
-    "count": 86,
-    "members": [
-      "Crafting Table"
-    ],
-    "img": "https://dragonwilds.runescape.wiki/images/Crafting_Table.png?6bf2b"
-  },
-  {
     "name": "Grill",
-    "count": 85,
+    "count": 87,
     "members": [
       "Grill"
     ],
@@ -112125,11 +110023,19 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Campfire",
-    "count": 84,
+    "count": 86,
     "members": [
       "Campfire"
     ],
     "img": "https://dragonwilds.runescape.wiki/images/Campfire.png?6bf2b"
+  },
+  {
+    "name": "Crafting Table",
+    "count": 83,
+    "members": [
+      "Crafting Table"
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Crafting_Table.png?6bf2b"
   },
   {
     "name": "Fletching Bench",
@@ -112141,7 +110047,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Brewing Cauldron",
-    "count": 70,
+    "count": 69,
     "members": [
       "Brewing Cauldron"
     ],
@@ -112149,7 +110055,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Cooking Range",
-    "count": 57,
+    "count": 56,
     "members": [
       "Cooking Range"
     ],
@@ -112173,7 +110079,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Stone Range",
-    "count": 29,
+    "count": 28,
     "members": [
       "Stone Range"
     ],
@@ -112203,14 +110109,6 @@ window.WILDS_STATIONS = [
       "Blast Furnace"
     ],
     "img": "https://dragonwilds.runescape.wiki/images/Blast_Furnace.png?941b3"
-  },
-  {
-    "name": "Cooking Pot",
-    "count": 17,
-    "members": [
-      "Cooking Pot"
-    ],
-    "img": ""
   },
   {
     "name": "Kiln",

@@ -111,6 +111,23 @@ EMBEDDED_DETAIL_FILES = ["materials-gap-fill.json", "materials-gap-fill-2.json"]
 DROP_NAMES = {"Vestige", "Vestiges", "Pickaxes", "Logging Axes", "Spade", "Watering Can",
               "Fishing rod", "Consumable Recipes"}
 
+# Cut from the live game but still sitting in our research files from when
+# they were scraped - the wiki itself confirms this with its own
+# Category:Discontinued content (checked 2026-10-27, 31 pages; the rest of
+# that category - disambiguation pages, perk tiers, a now-merged Ascension
+# Shard page - were never scraped into this app in the first place, so there
+# was nothing to drop for them). Re-check that category occasionally; it's
+# the wiki's own call on what's gone, not a guess made here.
+DISCONTINUED_NAMES = {
+    "An Ember-Edged Remnant of Cloth", "Berry Compote", "Dwellberry Crunchies (Removed)",
+    "Dwellberry Glazed Roast Flank", "Dwellberry Glazed Roast Meat", "Fortifying Crunchies",
+    "Fortifying Soup", "Fortifying Stew", "Healing Potion", "Hearty Crunchies",
+    "Hearty Fortifying Soup", "Hearty Soup", "Hearty Stew", "Large Wardstone",
+    "Lesser Healing Potion", "Medium Wardstone", "Mixed Platter", "Redberry Glazed Roast Flank",
+    "Small Wardstone", "Weak Healing Potion",
+}
+DROP_NAMES |= DISCONTINUED_NAMES
+
 def clean_name(n):
     return html.unescape(n or "").strip()
 
@@ -210,7 +227,12 @@ MAX_DOWNSTREAM_STATIONS = 3
 # buildable thing itself. Construction already has its own dedicated tab
 # (see fetch_construction_data.py), so it's excluded from station tagging
 # entirely rather than showing up a second time, out of place, here.
-NOT_A_STATION = {"Build Menu"}
+# "Cooking Pot" is excluded for a different reason: it's itself discontinued
+# content (see DISCONTINUED_NAMES above), but a couple of still-current
+# recipes' cached wiki data hadn't caught up yet and still named it as one of
+# several valid stations alongside a real, current one - dropping just the
+# whole item for those would throw out a dish that's still in the game.
+NOT_A_STATION = {"Build Menu", "Cooking Pot"}
 
 def item_stations(detail):
     made = []

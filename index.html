@@ -1321,7 +1321,7 @@ img.img-broken{visibility:hidden}
 
     countEl.textContent = title ? (title + " · " + list.length) : "";
     var cards = list.map(renderCard).join("");
-    resultsEl.innerHTML = extras + (q ? cards : '<div class="results-grid">'+cards+'</div>');
+    resultsEl.innerHTML = extras + '<div class="results-grid">'+cards+'</div>';
   }
 
   // Shared by the Skills reference card and the Progress tracker's expandable

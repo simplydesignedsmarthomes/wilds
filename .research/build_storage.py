@@ -6,6 +6,7 @@ import json, html, re, os, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from normalize_detail import WikiData, NOT_IN_GAME_NAMES
+import ordering
 ROOT = os.path.dirname(HERE)
 
 CHEST_LABELS = [
@@ -422,6 +423,12 @@ def main():
                 total += len(leftover)
                 max_step = max(max_step, assign_steps(row["items"]))
     out = [row for row in out if row["items"] or row["key"] != "misc"]
+
+    # Shelve and order everything. Runs last, on the assembled chests, so it
+    # can look any item up by name across chest boundaries - a meal's
+    # ingredients are routinely filed somewhere else (potatoes are Farming).
+    by_name = {it["name"]: it for row in out for it in row["items"]}
+    ordering.apply(out, by_name)
 
     # A small personal touch: each chest tile shows one representative
     # item's icon, picked by hand where there's an obvious one, falling

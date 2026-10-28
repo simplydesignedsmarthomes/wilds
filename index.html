@@ -497,6 +497,18 @@ body.map-overlay-open{overflow:hidden}
    tiles after an opened detail backfill the row, so the detail lands
    cleanly below the clicked tile's row instead of leaving gaps. */
 .item-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(76px,1fr));grid-auto-flow:row dense;gap:.5rem}
+/* Shelves inside a chest: "Raw ingredients", "Cooked", "Meals", "Burnt".
+   A collapsed shelf (Burnt) renders its header as a button instead, so the
+   36 burnt foods are one row you can ignore rather than 36 you scroll. */
+.band + .band{margin-top:.8rem}
+.band-head{display:flex;align-items:center;gap:.4rem;width:100%;font-family:var(--head);font-size:11px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.06em;color:var(--text3);margin:0 0 .45rem;padding:0 0 .3rem;
+  border-bottom:1px solid var(--edge-dark);background:none;text-align:left}
+.band-count{color:var(--text3);opacity:.7;font-size:10px}
+.band-toggle{cursor:pointer;border:1px solid var(--edge-dark);border-radius:var(--r);padding:.45rem .6rem;margin-bottom:.45rem;background:var(--panel)}
+.band-toggle.open{color:var(--gold);border-color:var(--gold)}
+.band-chev{margin-left:auto;font-size:13px;line-height:1}
+.sort-tabs{margin-top:-.2rem}
 .construct-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:.6rem;margin-top:.5rem}
 .cc-card{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.6rem .7rem}
 .cc-head{display:flex;align-items:center;gap:.5rem;margin-bottom:.3rem}
@@ -824,7 +836,7 @@ img.img-broken{visibility:hidden}
   var LS_KEY = "wilds-state-v1";
   var STATE = loadState();
   function defaultState(){
-    return { skills:{}, quests:{}, achievements:{}, code:"", powerFilterOn:false, powerLevel:0, favoriteVideoIds:[],
+    return { skills:{}, quests:{}, achievements:{}, code:"", powerFilterOn:false, powerLevel:0, itemSort:"region", favoriteVideoIds:[],
       videoChannels:[{id:"UCRbqswsX9bDjWrQ2jxyVD3w", name:"Primitive Nomad"}],
       activeVideoChannelId:"UCRbqswsX9bDjWrQ2jxyVD3w" };
   }
@@ -869,6 +881,11 @@ img.img-broken{visibility:hidden}
   var openBox = "skills";
   var openSub = null;
   // Which chest category is expanded in the Items/Storage tab.
+  // Which collapsed bands (e.g. a chest's "Burnt" shelf) the user has opened
+  // this session, keyed "chestKey:bandIndex". Deliberately not persisted -
+  // a collapsed band is collapsed because you rarely want it, so it should
+  // go back to being shut next time rather than remembering one stray peek.
+  var expandedBands = {};
   var openChest = null;
   // Which single item's full detail is expanded (scoped: "chest::Name" or
   // "station::Name" so the same item can be open independently in either view).
@@ -1981,14 +1998,42 @@ img.img-broken{visibility:hidden}
       return tile;
     }).join("")+'</div>';
   }
+  // build_storage.py already stores every chest in progression order, so the
+  // "region" sort is simply the stored order - no work to do. "az" re-sorts
+  // by name, but only ever WITHIN a band: the raw -> cooked -> meals shelves
+  // are structure, not sort order, so they survive both views.
+  function sortForView(items){
+    if (STATE.itemSort !== "az") return items;
+    return items.slice().sort(function(a, b){
+      return a.name.toLowerCase().localeCompare(b.name.toLowerCase());
+    });
+  }
+  function bandHeaderHtml(cat, b, count, isOpen){
+    var label = esc(b.label)+' <span class="band-count">'+count+'</span>';
+    if (!b.collapsed) return '<div class="band-head">'+label+'</div>';
+    return '<button type="button" class="band-head band-toggle'+(isOpen?" open":"")+
+      '" data-band="'+esc(cat.key+":"+b.band)+'">'+label+
+      '<span class="band-chev" aria-hidden="true">'+(isOpen?"−":"+")+'</span></button>';
+  }
+  function chestBodyHtml(cat){
+    var shown = visibleItems(cat);
+    if (!shown.length){
+      return '<div class="note">'+(cat.items.length ? "Nothing at your current power level yet." : "Nothing catalogued here yet.")+'</div>';
+    }
+    var scope = "chest:"+cat.key;
+    if (!cat.bands || !cat.bands.length) return itemGridHtml(sortForView(shown), scope);
+    return cat.bands.map(function(b){
+      var inBand = shown.filter(function(it){ return it.band === b.band; });
+      if (!inBand.length) return "";
+      var isOpen = !b.collapsed || !!expandedBands[cat.key+":"+b.band];
+      return '<div class="band">'+bandHeaderHtml(cat, b, inBand.length, isOpen)+
+        (isOpen ? itemGridHtml(sortForView(inBand), scope) : "")+'</div>';
+    }).join("");
+  }
   function storageBlock(){
     var cats = window.WILDS_STORAGE || [];
     var html = rowInsert(cats, 2, chestBox, function(cat){ return openChest === cat.key; }, function(cat){
-      var shown = visibleItems(cat);
-      var tiles = shown.length
-        ? itemGridHtml(shown, "chest:"+cat.key)
-        : '<div class="note">'+(cat.items.length ? "Nothing at your current power level yet." : "Nothing catalogued here yet.")+'</div>';
-      return '<div class="tk-subpanel"><h4>'+esc(cat.label)+'</h4>'+tiles+'</div>';
+      return '<div class="tk-subpanel"><h4>'+esc(cat.label)+'</h4>'+chestBodyHtml(cat)+'</div>';
     });
     return '<div class="tk-subgrid">'+html+'</div>';
   }
@@ -2142,6 +2187,16 @@ img.img-broken{visibility:hidden}
       '<button type="button" class="view-tab'+(storageView==="station"?" on":"")+'" data-view="station">By crafting station</button>'+
       '</div>';
   }
+  // "Region" is the progression order built into the data - roughly the order
+  // you meet things playing, so you are not scrolling past Umbral Sands gear
+  // to reach what you can actually use yet.
+  function sortControl(){
+    var az = STATE.itemSort === "az";
+    return '<div class="view-tabs sort-tabs">'+
+      '<button type="button" class="view-tab'+(az?"":" on")+'" data-sort="region">Region</button>'+
+      '<button type="button" class="view-tab'+(az?" on":"")+'" data-sort="az">A–Z</button>'+
+      '</div>';
+  }
   function powerControl(){
     var max = window.WILDS_STORAGE_MAX_STEP || 0;
     return '<div class="power-ctl">'+
@@ -2171,8 +2226,8 @@ img.img-broken{visibility:hidden}
       '</div>';
     var body = "";
     if (catalogueView === "items"){
-      body = '<div class="tk-panel"><h3>Items</h3><p class="tk-head-note">'+total+' items, sorted lowest to highest quality. Tap one to see everything catalogued on it.</p>'+
-        storageTabs() + powerControl() +
+      body = '<div class="tk-panel"><h3>Items</h3><p class="tk-head-note">'+total+' items, grouped by what they are and ordered the way you meet them in the game. Tap one to see everything catalogued on it.</p>'+
+        storageTabs() + (storageView === "station" ? "" : sortControl()) + powerControl() +
         (storageView === "station" ? stationBlock() : storageBlock())+'</div>';
     } else {
       body = '<div class="tk-panel"><h3>Construction</h3><p class="tk-head-note">Everything placeable from the Build Menu, grouped the way the game groups it. Tap a category, then a material set, to find what you need.</p>'+
@@ -2864,6 +2919,24 @@ img.img-broken{visibility:hidden}
       storageView = viewBtn.dataset.view;
       openItem = null;
       drawStorage();
+      return;
+    }
+    var sortBtn = e.target.closest("button[data-sort]");
+    if (sortBtn){
+      var sv = sortBtn.dataset.sort;
+      if (sv !== STATE.itemSort){
+        redrawStorageAnchored(sortBtn, "data-sort", sv, function(){
+          STATE.itemSort = sv; saveState();
+        }, drawStorage);
+      }
+      return;
+    }
+    var bandBtn = e.target.closest("button[data-band]");
+    if (bandBtn){
+      var bk = bandBtn.dataset.band;
+      redrawStorageAnchored(bandBtn, "data-band", bk, function(){
+        if (expandedBands[bk]) delete expandedBands[bk]; else expandedBands[bk] = true;
+      }, drawStorage);
       return;
     }
     var catViewBtn = e.target.closest("button[data-catview]");

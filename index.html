@@ -1719,30 +1719,42 @@ img.img-broken{visibility:hidden}
     if (r.unlock) html += '<div class="recipe-note">Unlocked by '+esc(r.unlock)+'</div>';
     return html+'</div>';
   }
-  // Each farming region's own wiki page image, reused as a quick-glance
-  // "grows here" visual - same {name, img} card look as a quest's "Places
-  // you'll go" gallery (see questWalkthroughHtml), just scoped to one place.
-  var FARMING_REGION_IMG = {
-    "Brynmoor": "https://dragonwilds.runescape.wiki/images/Brynmoor.png?dd667",
-    "Ghornfell": "https://dragonwilds.runescape.wiki/images/Ghornfell.png?38e3e",
-    "Fellhollow": "https://dragonwilds.runescape.wiki/images/Fellhollow.png?7305c",
-    "Umbral Sands": "https://dragonwilds.runescape.wiki/images/Umbral_Sands.png?50845"
+  // Each buildable farming plot's own wiki page image, reused as a
+  // quick-glance "plant here" visual - same {name, img} card look as a
+  // quest's "Places you'll go" gallery (see questWalkthroughHtml), just
+  // scoped to one plot. Four plots total; each is also tied to one region
+  // (Ash = Brynmoor, Oak = Ghornfell, Willow = Fellhollow, Yew = Umbral
+  // Sands) but the plot is what you actually place and use, so that's the
+  // label shown.
+  var FARMING_PLOT_IMG = {
+    "Ash Farming Plot": "https://dragonwilds.runescape.wiki/images/Ash_Farming_Plot.png?a828e",
+    "Oak Farming Plot": "https://dragonwilds.runescape.wiki/images/Oak_Farming_Plot.png?abe44",
+    "Willow Farming Plot": "https://dragonwilds.runescape.wiki/images/Willow_Farming_Plot.png?c2d84",
+    "Yew Farming Plot": "https://dragonwilds.runescape.wiki/images/Yew_Farming_Plot.png?7e7ff"
   };
-  function regionBlockHtml(it){
-    if (!it.region) return "";
-    if (it.region === "Anywhere"){
-      return '<div class="r block"><div class="fk subhead">Grows in</div>'+
-        '<div class="note">Plant this directly into the ground - no region restriction.</div></div>';
+  function plotBlockHtml(it){
+    var html = "";
+    if (it.plot === "Anywhere"){
+      html += '<div class="r block"><div class="fk subhead">Best plot</div>'+
+        '<div class="note">Plant this directly into the ground - no farming plot needed.</div></div>';
+    } else if (it.plot){
+      var img = FARMING_PLOT_IMG[it.plot] || "";
+      html += '<div class="r block"><div class="fk subhead">Best plot</div><div class="q-places">'+
+        '<div class="q-place">'+(img ? '<img src="'+esc(img)+'" alt="" loading="lazy">' : '')+
+        '<span>'+esc(it.plot)+'</span></div></div></div>';
     }
-    var img = FARMING_REGION_IMG[it.region] || "";
-    return '<div class="r block"><div class="fk subhead">Grows in</div><div class="q-places">'+
-      '<div class="q-place">'+(img ? '<img src="'+esc(img)+'" alt="" loading="lazy">' : '')+
-      '<span>'+esc(it.region)+'</span></div></div></div>';
+    if (it.growsInto){
+      html += '<div class="r block"><div class="fk subhead">Harvest</div><div class="mat-chips">'+itemChip({ name: it.growsInto })+'</div></div>';
+    }
+    if (it.growsFrom){
+      html += '<div class="r block"><div class="fk subhead">Grown from</div><div class="mat-chips">'+itemChip({ name: it.growsFrom })+'</div></div>';
+    }
+    return html;
   }
   var USED_IN_SHOWN = 24;
   function itemDetailHtml(it){
     var d = it.detail || {};
-    var html = regionBlockHtml(it);
+    var html = plotBlockHtml(it);
     if (d.recipes && d.recipes.length){
       html += '<div class="r block"><div class="fk subhead">'+(d.recipes.length > 1 ? 'Recipes' : 'Recipe')+'</div>'+
         d.recipes.map(function(r){ return recipeCardHtml(it, r); }).join("")+'</div>';

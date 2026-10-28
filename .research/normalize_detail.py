@@ -400,6 +400,15 @@ class WikiData:
                 return index[k]
         return []
 
+    # Cooking Pot is discontinued (see build_storage.py's DISCONTINUED_NAMES)
+    # but individual recipe/usedIn entries on OTHER items' own pages still
+    # name it as a valid station - the wiki marked the station page itself
+    # discontinued without going back to scrub every recipe that pointed at
+    # it. Drop those entries here, at the one place recipes/usedIn get
+    # assembled, so no "make this at a Cooking Pot" card can surface anywhere
+    # in the app (an item's detail card, its station tag, a search result).
+    DISCONTINUED_STATIONS = {"Cooking Pot"}
+
     def detail(self, name, fallback_description=""):
         wt = self.page_for(name)
         stats = parse_stats(wt) if wt else []
@@ -415,10 +424,12 @@ class WikiData:
                 if k:
                     stats.insert(0, {"label": "Type", "value": k})
                     break
+        recipes = [r for r in self.lookup(self.recipes_by_output, name) if r["station"] not in self.DISCONTINUED_STATIONS]
+        used_in = [u for u in self.lookup(self.used_in, name) if u["station"] not in self.DISCONTINUED_STATIONS]
         return {
             "stats": stats,
-            "recipes": self.lookup(self.recipes_by_output, name),
-            "usedIn": self.lookup(self.used_in, name),
+            "recipes": recipes,
+            "usedIn": used_in,
             "sources": self.lookup(self.sources, name),
             "shops": self.lookup(self.shops, name),
             "perks": parse_perks(wt) if wt else [],

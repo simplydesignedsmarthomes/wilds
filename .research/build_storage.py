@@ -227,12 +227,10 @@ MAX_DOWNSTREAM_STATIONS = 3
 # buildable thing itself. Construction already has its own dedicated tab
 # (see fetch_construction_data.py), so it's excluded from station tagging
 # entirely rather than showing up a second time, out of place, here.
-# "Cooking Pot" is excluded for a different reason: it's itself discontinued
-# content (see DISCONTINUED_NAMES above), but a couple of still-current
-# recipes' cached wiki data hadn't caught up yet and still named it as one of
-# several valid stations alongside a real, current one - dropping just the
-# whole item for those would throw out a dish that's still in the game.
-NOT_A_STATION = {"Build Menu", "Cooking Pot"}
+# (Cooking Pot - also discontinued, see DISCONTINUED_NAMES above - doesn't
+# need an entry here: normalize_detail.py's WikiData.detail() already strips
+# it out of every recipe/usedIn list before this function ever sees it.)
+NOT_A_STATION = {"Build Menu"}
 
 def item_stations(detail):
     made = []

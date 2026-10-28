@@ -6690,7 +6690,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Master's staff is a power level 7 two-handed staff that can be crafted at a mystic forge.\n\n(Journal)\nBefore the master wand, there was a staff of such power that the mages of the wizard’s tower decided it was too dangerous to keep. They placed the staff in teleportation circle, scrambled the coordinates and hurled it through the Abyss to settle far away from Misthalin.\n\nIn truth, it should have ended in the depths of the sea, sinking down and down into the darkness, but something caught it instead.\n\nA powerful elven mage had found their way to Ashenfall, and they had already indulged in powers darker than what their kin traditionally allowed. They felt the staff hurtling through the Abyss and used their unnatural sorcery to pull it to them, so that they might benefit from its power.\n\nThis elf and his retinue found their way to the Umbral Sands, where they challenged one of the Moon Garou’s mages to a magical duel, over some perceived slight or other. The battle was magnificent, power that shook the dunes and cast a great sandstorm into the skies. The garou was defeated, but not before her spells shattered the master’s staff.\n\nIn his arrogance he cast the remains aside and continued his journey into Ashenfall. Moon Garou would find the remnants of the staff and found a way to recreate it. Weaker than the original, true, but still possessing a power that would make lesser mages tremble."
+          "description": "The Master's staff is a power level 7 two-handed staff that can be crafted at a mystic forge. Players must receive the Ornate Golden Scarab to create the staff.\n\n(Journal)\nBefore the master wand, there was a staff of such power that the mages of the wizard’s tower decided it was too dangerous to keep. They placed the staff in teleportation circle, scrambled the coordinates and hurled it through the Abyss to settle far away from Misthalin.\n\nIn truth, it should have ended in the depths of the sea, sinking down and down into the darkness, but something caught it instead.\n\nA powerful elven mage had found their way to Ashenfall, and they had already indulged in powers darker than what their kin traditionally allowed. They felt the staff hurtling through the Abyss and used their unnatural sorcery to pull it to them, so that they might benefit from its power.\n\nThis elf and his retinue found their way to the Umbral Sands, where they challenged one of the Moon Garou’s mages to a magical duel, over some perceived slight or other. The battle was magnificent, power that shook the dunes and cast a great sandstorm into the skies. The garou was defeated, but not before her spells shattered the master’s staff.\n\nIn his arrogance he cast the remains aside and continued his journey into Ashenfall. Moon Garou would find the remnants of the staff and found a way to recreate it. Weaker than the original, true, but still possessing a power that would make lesser mages tremble."
         },
         "stations": [
           "Mystic Forge"
@@ -9900,7 +9900,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The dorgeshuun crossbow is a power level 5 crossbow that can be crafted at a fletching bench. The recipe is unlocked from the quest Even More Restless Ghosts. It can be ascended at a mystic forge using ascension cores.\n\nIts special effect is a hidden -25% Reload Duration, making it reload faster than other crossbows. It also can only fire bone bolts, which can similarly only be fired from this crossbow. Unlike other crossbows and bolts that split the damage between them, all of it is on the crossbow. This is to ensure that the weapon ascends correctly, and isn't forced to use weaker bolts than other crossbows. The bone bolts additionally build bleed, and with three hits in a short time, deal 40 damage. This damage does not scale with power level.\n\nExcluding the bleed damage from the bone bolts, this weapon has the same base damage, reload speed, and durability as the blurite crossbow at similar power levels. With that in mind, the choice comes down to what bolts are desired, particularly enchanted bolts, as the difference is entirely down to their effects. The shadow crossbow is a notable mention as it can squeeze more damage out of enchanted bolts with +15% weakpoint damage, but it does so far slower than this or the blurite crossbow.\n\n(Journal)\nThe cave goblins are a practical sort, using materials more readily available underground than any that might require potential damage to their subterranean dwellings, such as mining. This crossbow is made from bones, traditionally of creatures found beneath the surface.\n\nZanik once used this crossbow to defeat a deadly spectre in the underworld. A being infused with some dread malign power, that threatened the denizens of Um. Normal weapons had no effect on the creature, yet for some reason the bone bolts fired by this crossbow were enough to unravel its material form, banishing it back to the darkness."
+          "description": "The dorgeshuun crossbow is a power level 5 crossbow that can be crafted at a fletching bench. The recipe is obtained from the quest Even More Restless Ghosts. It can be ascended at a mystic forge using ascension cores.\n\nIts special effect is a hidden -25% Reload Duration, making it reload faster than other crossbows. It also can only fire bone bolts, which can similarly only be fired from this crossbow. Unlike other crossbows and bolts that split the damage between them, all of it is on the crossbow. This is to ensure that the weapon ascends correctly, and isn't forced to use weaker bolts than other crossbows. The bone bolts additionally build bleed, and with three hits in a short time, deal 40 damage. This damage does not scale with power level.\n\nExcluding the bleed damage from the bone bolts, this weapon has the same base damage, reload speed, and durability as the blurite crossbow at similar power levels. With that in mind, the choice comes down to what bolts are desired, particularly enchanted bolts, as the difference is entirely down to their effects. The shadow crossbow is a notable mention as it can squeeze more damage out of enchanted bolts with +15% weakpoint damage, but it does so far slower than this or the blurite crossbow.\n\n(Journal)\nThe cave goblins are a practical sort, using materials more readily available underground than any that might require potential damage to their subterranean dwellings, such as mining. This crossbow is made from bones, traditionally of creatures found beneath the surface.\n\nZanik once used this crossbow to defeat a deadly spectre in the underworld. A being infused with some dread malign power, that threatened the denizens of Um. Normal weapons had no effect on the creature, yet for some reason the bone bolts fired by this crossbow were enough to unravel its material form, banishing it back to the darkness."
         },
         "stations": [
           "Fletching Bench"
@@ -25790,7 +25790,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Blue Dyad Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyad_Cape.png?f298d",
+        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d",
         "tier": "",
         "tierRank": null,
         "chest": "armour",
@@ -25837,7 +25837,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Blue Dyed Cape",
-        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyad_Cape.png?f298d",
+        "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d",
         "tier": "",
         "tierRank": null,
         "chest": "armour",
@@ -25881,7 +25881,7 @@ window.WILDS_STORAGE = [
               "output": {
                 "name": "Blue Dyed Cape",
                 "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyad_Cape.png?f298d"
+                "img": "https://dragonwilds.runescape.wiki/images/Blue_Dyed_Cape.png?f298d"
               },
               "unlock": "Chewed Blue Cloth"
             }
@@ -26277,7 +26277,7 @@ window.WILDS_STORAGE = [
           "perks": [
             {
               "name": "Construction Cape",
-              "desc": "You can repair buildings for free."
+              "desc": "You have a small chance to not use building materials when placing a build piece."
             }
           ],
           "description": "The Construction cape is a Cape of Accomplishment that can be crafted and worn at level 99 Construction. It can be crafted at the mystic forge. Repairing structures do not use any materials whilst using the cape.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You can look upon your constructions and see that they are good.\n\nNow you have mastered the Construction skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nDouble congratulations! You have achieved a Construction Cape with all the trimmings. Precious few can claim that distinction."
@@ -33588,7 +33588,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "Increased WEAK POINT damage with RANGED weapons"
+              "value": "Increased CRITICAL DAMAGE"
             },
             {
               "label": "Carry weight",
@@ -33655,7 +33655,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of accuracy is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players a 15% increase in weak point damage with Ranged weapons. Since hits with ranged weapons against the weak point are considered critical hits, this is functionally the same as ranged critical damage.\n\n(Journal)\nThe Wild Knights knew the dangers of missing their target. If an arrow did not slay its target quickly, then too soon would the quarry either escape, or, worse, gather friends. Wolf packs could easily tear a small group of Knights to pieces if not dealt with fast.\n\nThe Amulet of Accuracy made sure that hunts went smoothly. When a shot landed, it landed hard. Alpha wolves would be slain in a single well-placed shot, and sturdier threats might go down in a small flurry of arrows.\n\nWhen Silverthorn Keep stood against the rising horde of zombies, these amulets were worn by the keep defenders who unleashed a torrent of arrows into the hungry dead."
+          "description": "The amulet of accuracy is an amulet that can be crafted at a jeweler's bench. While equipped, the amulet grants players a 15% increase in critical damage and critical weakpoint damage.\n\n(Journal)\nThe Wild Knights knew the dangers of missing their target. If an arrow did not slay its target quickly, then too soon would the quarry either escape, or, worse, gather friends. Wolf packs could easily tear a small group of Knights to pieces if not dealt with fast.\n\nThe Amulet of Accuracy made sure that hunts went smoothly. When a shot landed, it landed hard. Alpha wolves would be slain in a single well-placed shot, and sturdier threats might go down in a small flurry of arrows.\n\nWhen Silverthorn Keep stood against the rising horde of zombies, these amulets were worn by the keep defenders who unleashed a torrent of arrows into the hungry dead."
         },
         "stations": [
           "Jeweler's Bench"
@@ -33840,7 +33840,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The amulet of glory is an amulet that boosts melee, magic, and ranged critical damage while also increasing defence. While worn, the amulet provides an additional +5 defence to all combat styles, a 12.5% increase to melee and magic damage, and a 15% increase to ranged critical damage.\n\nTo unlock the recipe, players must find and study the commemorative coin vestige.\n\n(Journal)\nPower, trapped in dragonstone crystal and worn around the neck, that is the essence of this amulet. The facets of the dragonstone refract and refine the enchantments cast upon the item, somehow creating a magical lattice of surprising strength.\n\nMany have tried to create variations of this theme, yet dragonstone proves too fragile a substance for practical use. Once someone attempted to make a dragonstone dagger, to see if they could turn it into a blade of glory, yet they could not find a sufficiently large stone that wasn't valuable enough to bankrupt a small nation.\n\nOne wizard attempted strange alchemical practices to try and forge a staff of pure dragonstone. Alas, not only did he fail to create such a stone, but the magical explosion that resulted from his hubris removed his lab, and all his research, from this plane of reality.\n\nIt's probably a good idea that no one attempted to duplicate his work."
+          "description": "The amulet of glory is an amulet that boosts melee, magic, and ranged critical damage while also increasing defence. While worn, the amulet provides an additional +5 defence to all combat styles and a 12% increase to critical damage for magic, melee, and ranged attacks.\n\nTo unlock the recipe, players must find and study the commemorative coin vestige.\n\n(Journal)\nPower, trapped in dragonstone crystal and worn around the neck, that is the essence of this amulet. The facets of the dragonstone refract and refine the enchantments cast upon the item, somehow creating a magical lattice of surprising strength.\n\nMany have tried to create variations of this theme, yet dragonstone proves too fragile a substance for practical use. Once someone attempted to make a dragonstone dagger, to see if they could turn it into a blade of glory, yet they could not find a sufficiently large stone that wasn't valuable enough to bankrupt a small nation.\n\nOne wizard attempted strange alchemical practices to try and forge a staff of pure dragonstone. Alas, not only did he fail to create such a stone, but the magical explosion that resulted from his hubris removed his lab, and all his research, from this plane of reality.\n\nIt's probably a good idea that no one attempted to duplicate his work."
         },
         "stations": [
           "Jeweler's Bench"
@@ -36332,14 +36332,14 @@ window.WILDS_STORAGE = [
                 "qty": 1,
                 "img": "https://dragonwilds.runescape.wiki/images/Ring_of_Recoil.png?a9fd4"
               },
-              "unlock": "Cracked Bronze Vanity Mirror"
+              "unlock": "A Cracked Bronze Vanity Mirror"
             }
           ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The ring of recoil is a ring that can be crafted at a jeweler's bench. While equipped, the ring deals percentage of damage received back to attackers. The damage dealt is equal to 50% of the damage taken, rounded up. To unlock the recipe, players must unlock the Cracked Bronze Vanity Mirror.\n\n(Journal)\nVengeance isn’t a dish best served cold, but one served quickly. Whilst taking years to enact the cruellest retaliation might work in the civilised world, in the wilds of Ashenfall a quick strike is far more valuable.\n\nThis ring was first created by one of the Amalgamated, worn as both deterrence and for some small satisfaction when they were targeted by vigilante mobs. It didn’t prevent the bruises, or fix the broken bones, but their assailants attacks would end much more quickly when they discovered they weren’t as untouchable as they thought."
+          "description": "The ring of recoil is a ring that can be crafted at a jeweler's bench. While equipped, the ring deals percentage of damage received back to attackers. The damage dealt is equal to 50% of the damage taken, rounded up.\n\n(Journal)\nVengeance isn’t a dish best served cold, but one served quickly. Whilst taking years to enact the cruellest retaliation might work in the civilised world, in the wilds of Ashenfall a quick strike is far more valuable.\n\nThis ring was first created by one of the Amalgamated, worn as both deterrence and for some small satisfaction when they were targeted by vigilante mobs. It didn’t prevent the bruises, or fix the broken bones, but their assailants attacks would end much more quickly when they discovered they weren’t as untouchable as they thought."
         },
         "stations": [
           "Jeweler's Bench"
@@ -38431,30 +38431,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Burnt_Mushroom.png?9f720",
               "station": "Grill"
-            },
-            {
-              "name": "Fortifying Stew",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Stew.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Fortifying Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Fortifying Soup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Soup.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Fortifying Soup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Fortifying_Soup.png?9dbab",
-              "station": "Cooking Pot"
             }
           ],
           "sources": [
@@ -40641,7 +40617,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Burnt maple syrup is a power level 4 consumable burnt food item that has a chance to be made when cooking maple sap at a campfire or grill, and guaranteed when cooking maple syrup. It requires a Cooking level lower than 50 to burn from maple sap, and guaranteed with a level lower than 41. It provides 15 sustenance when consumed. It can be deposited into a super compost bin."
+          "description": "Burnt maple syrup is a power level 4 consumable burnt food item that has a chance to be made when cooking maple sap at a campfire or grill, and guaranteed when cooking maple syrup. It requires a Cooking level lower than 50 to burn from maple sap, and guaranteed with a level lower than 41. It provides 15 sustenance when consumed. Despite being a power level 4 item, it can only be deposited into a compost bin and not a super compost bin."
         },
         "stations": [
           "Campfire",
@@ -40700,7 +40676,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
                 }
               ],
               "output": {
@@ -40722,7 +40698,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
                 }
               ],
               "output": {
@@ -41185,7 +41161,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Burnt pumpkin is a consumable burnt food item that has a chance to be made when cooking pumpkin at a campfire or grill, provides 15 sustenance when consumed. Beyond being eaten as food, its only other purpose is as super compost, meaning that if one plans on specifically using pumpkin to supply the super compost bin, one can intentionally double-cook the pumpkin for extra cooking XP first."
+          "description": "Burnt pumpkin is a consumable burnt food item that has a chance to be made when cooking pumpkin at a campfire or grill, provides 15 sustenance when consumed, and has no uses beyond being eaten for food."
         },
         "stations": [
           "Campfire",
@@ -43463,12 +43439,6 @@ window.WILDS_STORAGE = [
           ],
           "usedIn": [
             {
-              "name": "Redberry Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Redberry_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
               "name": "Redberry Roast Rat",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Redberry_Roast_Rat.png?9dbab",
@@ -43844,42 +43814,6 @@ window.WILDS_STORAGE = [
               "station": "Crafting Table"
             },
             {
-              "name": "Berry Compote",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Berry_Compote.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Dwellberry Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Dwellberry Glazed Roast Flank",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Flank.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Dwellberry Glazed Roast Meat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Meat.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Fortifying Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
               "name": "Healing Potion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Healing_Potion.png?b83dc",
@@ -44022,60 +43956,6 @@ window.WILDS_STORAGE = [
                   "name": "Wheat",
                   "qty": 1,
                   "img": "https://dragonwilds.runescape.wiki/images/Wheat.png?6c475"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Potato",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Potato.png?029ef"
-                }
-              ],
-              "output": {
-                "name": "Dwellberry Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            },
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 15
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dwellberries",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
-                },
-                {
-                  "name": "Cabbage",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Cabbage.png?789d1"
                 }
               ],
               "output": {
@@ -46985,7 +46865,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
                 }
               ],
               "output": {
@@ -47007,7 +46887,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
                 }
               ],
               "output": {
@@ -47668,30 +47548,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Umbral_Vulture_Perch.png?655da",
               "station": "Build Menu"
-            },
-            {
-              "name": "Dwellberry Glazed Roast Meat",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Glazed_Roast_Meat.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Fortifying Stew",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Stew.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Stew",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Mixed Platter",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Mixed_Platter.png?9dbab",
-              "station": "Cooking Pot"
             }
           ],
           "sources": [
@@ -47836,7 +47692,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Raw Monkfish",
-        "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a",
         "tier": "",
         "tierRank": null,
         "chest": "food",
@@ -48088,30 +47944,6 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Berry Compote",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Berry_Compote.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Fortifying Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Redberry Glazed Roast Flank",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Redberry_Glazed_Roast_Flank.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
               "name": "Weak Healing Potion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Weak_Healing_Potion.png?b8a5c",
@@ -48207,35 +48039,7 @@ window.WILDS_STORAGE = [
               "value": "It smells quite fruity."
             }
           ],
-          "recipes": [
-            {
-              "station": "Cooking Pot",
-              "skills": [
-                {
-                  "name": "Cooking",
-                  "xp": 20
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Dried Redberries",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Dried_Redberries.png?3cd63"
-                },
-                {
-                  "name": "Wheat",
-                  "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Wheat.png?6c475"
-                }
-              ],
-              "output": {
-                "name": "Redberry Crunchies",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Redberry_Crunchies.png?9dbab"
-              },
-              "unlock": ""
-            }
-          ],
+          "recipes": [],
           "usedIn": [],
           "sources": [],
           "shops": [],
@@ -75213,15 +75017,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Weight",
-              "value": "0.1 kg"
+              "value": "0.6 kg"
             },
             {
               "label": "Stack limit",
-              "value": "99"
+              "value": "50"
             },
             {
               "label": "Description",
-              "value": "Dropped by Zamorak magi. Can be spun into thread at a spinning wheel."
+              "value": "Dropped by Zamorak magisupposed to be Mages. Can be spun into thread at a spinning wheel."
             }
           ],
           "recipes": [],
@@ -82268,12 +82072,6 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Medium 45° Roof",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Medium_45%C2%B0_Roof_%28Thatched%29.png?f13a3",
-              "station": "Build Menu"
-            },
-            {
               "name": "Medium 45° Inverted Roof Support Wall",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Medium_45%C2%B0_Inverted_Roof_Support_Wall_%28Cottage%29.png?d7deb",
@@ -84218,7 +84016,7 @@ window.WILDS_STORAGE = [
             {
               "name": "Ore & Stone Storage",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?7529c",
+              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?8110e",
               "station": "Build Menu"
             },
             {
@@ -85309,7 +85107,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Stack limit",
-              "value": "99"
+              "value": "999"
             },
             {
               "label": "Description",
@@ -88366,7 +88164,7 @@ window.WILDS_STORAGE = [
             {
               "name": "Ore & Stone Storage",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?7529c",
+              "img": "https://dragonwilds.runescape.wiki/images/Ore_%26_Stone_Storage.png?8110e",
               "station": "Build Menu"
             },
             {
@@ -90489,30 +90287,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Focused_Cooking_Potion.png?60376",
               "station": "Brewing Cauldron"
-            },
-            {
-              "name": "Dwellberry Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Fortifying Soup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Soup.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Soup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Soup.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Stew",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d",
-              "station": "Cooking Pot"
             }
           ],
           "sources": [
@@ -92264,30 +92038,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Cooling_Fleet-Footed_Infusion.png?6563a",
               "station": "Cooking Range"
-            },
-            {
-              "name": "Hearty Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Fortifying Soup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Fortifying_Soup.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Soup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Soup.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Stew",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d",
-              "station": "Cooking Pot"
             }
           ],
           "sources": [
@@ -92476,30 +92226,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Burnt_Potato.png?a1ad4",
               "station": "Grill"
-            },
-            {
-              "name": "Dwellberry Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dwellberry_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Fortifying Soup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Fortifying_Soup.png?cfe3d",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Soup",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Soup.png?9dbab",
-              "station": "Cooking Pot"
-            },
-            {
-              "name": "Hearty Stew",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Hearty_Stew.png?cfe3d",
-              "station": "Cooking Pot"
             }
           ],
           "sources": [
@@ -93707,12 +93433,6 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
-              "name": "Medium 45° Roof",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Medium_45%C2%B0_Roof_%28Thatched%29.png?f13a3",
-              "station": "Build Menu"
-            },
-            {
               "name": "Plant Cure",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Plant_Cure.png?ab06e",
@@ -93816,12 +93536,6 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
-            {
-              "name": "Redberry Crunchies",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Redberry_Crunchies.png?9dbab",
-              "station": "Cooking Pot"
-            },
             {
               "name": "Bag of Flour",
               "qty": 1,
@@ -93988,7 +93702,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Yew Tree Seed",
-        "img": "https://dragonwilds.runescape.wiki/images/Yew_Tree_Seed.png?dd714",
+        "img": "https://dragonwilds.runescape.wiki/images/Yew_Tree_Seed.png?890fc",
         "tier": "",
         "tierRank": null,
         "chest": "farming",
@@ -94507,7 +94221,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A bronze spade is a power level 2 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 40% to the next plot clearing stage. Therefore, it will take three digs to progress one stage.\n\nA bronze spade is required to dig in oak farming plots.\n\n(Journal)\nWood breaks, shatters and splinters, which can be very frustrating when out in the garden. Metal is more durable and longer lasting, and bronze is a very malleable metal. With one of these spades, you can assault the skin of the planet, reshaping Gielinor to suit your own grand designs."
+          "description": "A bronze spade is a power level 2 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 40% to the next plot clearing stage. Therefore, it will take three digs to progress one stage.\n\n(Journal)\nWood breaks, shatters and splinters, which can be very frustrating when out in the garden. Metal is more durable and longer lasting, and bronze is a very malleable metal. With one of these spades, you can assault the skin of the planet, reshaping Gielinor to suit your own grand designs."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -95135,7 +94849,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A steel spade is a power level 3 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 60% to the next plot clearing stage. Therefore, it will take two digs to progress one stage.\n\nA steel spade is required to dig in willow farming plots.\n\n(Journal)\nFallen from too many tall buildings, only to be punished for your misstep by the cruel and malicious ground? Well, now is your chance to get your revenge. The smug soil doesn't think you can touch it, but you can prove it wrong by stabbing it through its smug topsoil smirk with a nice steel spade.\n\nOh, sure, it's great for gardening, but really this is a tool for sweet, sweet revenge."
+          "description": "A steel spade is a power level 3 spade that can be crafted at a blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress by 60% to the next plot clearing stage. Therefore, it will take two digs to progress one stage.\n\n(Journal)\nFallen from too many tall buildings, only to be punished for your misstep by the cruel and malicious ground? Well, now is your chance to get your revenge. The smug soil doesn't think you can touch it, but you can prove it wrong by stabbing it through its smug topsoil smirk with a nice steel spade.\n\nOh, sure, it's great for gardening, but really this is a tool for sweet, sweet revenge."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -95706,7 +95420,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "An adamant spade is a power level 7 spade unlocked the first time the player picks up an adamant bar. It is crafted at the blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress instantly to the next plot clearing stage.\n\nAn adamant spade is required to dig in yew farming plots.\n\n(Journal)\nDAMN IT MAN, CAN'T YOU SEE THAT I AM A SPADE?\n\nI give you: an adamant spade. Do you get it? You get it, right? Don't make us dig a hole and hide in shame."
+          "description": "An adamant spade is a power level 7 spade unlocked the first time the player picks up an adamant bar. It is crafted at the blacksmith's bench. When used to dig a farming plot, players will use 10 stamina and progress instantly to the next plot clearing stage.\n\n(Journal)\nDAMN IT MAN, CAN'T YOU SEE THAT I AM A SPADE?\n\nI give you: an adamant spade. Do you get it? You get it, right? Don't make us dig a hole and hide in shame."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -97486,7 +97200,7 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Monkfish",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?3db6a"
                 }
               ],
               "output": {
@@ -98402,7 +98116,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A wooden spade is a power level 1 spade that can be crafted at a crafting table. When used to dig a farming plot, players will use 10 stamina and progress by 20% to the next plot clearing stage. Therefore, it will take five digs to progress one stage.\n\nA wooden spade is required to dig in ash farming plots.\n\n(Journal)\nSometimes the very earth itself must be punished for its cruelty! These wooden tools, simple and elegant, can break through the planet's crust, letting you show Gielinor exactly who's boss."
+          "description": "A wooden spade is a power level 1 spade that can be crafted at a crafting table. When used to dig a farming plot, players will use 10 stamina and progress by 20% to the next plot clearing stage. Therefore, it will take five digs to progress one stage.\n\n(Journal)\nSometimes the very earth itself must be punished for its cruelty! These wooden tools, simple and elegant, can break through the planet's crust, letting you show Gielinor exactly who's boss."
         },
         "stations": [
           "Crafting Table"
@@ -104369,40 +104083,19 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Cracked Bronze Vanity Mirror",
-        "img": "https://dragonwilds.runescape.wiki/images/A_Cracked_Bronze_Vanity_Mirror.png?2bf82",
+        "img": "",
         "tier": "",
         "tierRank": null,
         "chest": "vestiges",
         "note": "",
         "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Vestige"
-            },
-            {
-              "label": "Released",
-              "value": "15 December 2025"
-            },
-            {
-              "label": "Weight",
-              "value": "0.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "99"
-            },
-            {
-              "label": "Description",
-              "value": "Shows the worst possible side of yourself. Perhaps you could learn from it."
-            }
-          ],
+          "stats": [],
           "recipes": [],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A cracked bronze vanity mirror is a vestige that unlocks the creation of the ring of recoil when studied."
+          "description": ""
         },
         "step": 0
       },
@@ -106079,47 +105772,19 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "MOUNT: Mossbreak Hunter",
-        "img": "https://dragonwilds.runescape.wiki/images/MOUNT-_Mossbreak_Hunter.png?051ed",
+        "img": "",
         "tier": "",
         "tierRank": null,
         "chest": "vestiges",
         "note": "",
         "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Vestige"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026"
-            },
-            {
-              "label": "Weight",
-              "value": "0.0 kg"
-            },
-            {
-              "label": "Stack limit",
-              "value": "50"
-            },
-            {
-              "label": "Description",
-              "value": "Grants access to a visual mount variant"
-            }
-          ],
+          "stats": [],
           "recipes": [],
           "usedIn": [],
           "sources": [],
-          "shops": [
-            {
-              "seller": "Death (Grim Reaper)",
-              "mode": "sell",
-              "cost": 2000,
-              "currency": "Soul Fragment"
-            }
-          ],
+          "shops": [],
           "perks": [],
-          "description": "MOUNT: mossbreak hunter is a vestige that grants the player the mossbreak hunter mount when used. It can be bought from Death's Exchange for 2000 soul fragments."
+          "description": ""
         },
         "step": 0
       },
@@ -108698,7 +108363,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands. For most cores, players can gain core shards by killing mini-bosses (such as black dragons, green dragons, and blue dragons).\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible.\n\nBug: After upgrading an item with a core, there is a visual bug where the stats will appear not to increase.\n\n(Journal)\nImagine, if you will, what you could do if you could harness your dreams. If you could take an ideal, refine it and reforge it using the power of the imagination. Such a technology is terrifying in its potential, and Avisk was the first to explore its possibilities.\n\nThis core is a part of the nightmare, refined and reforged over and over again, then condescended into a singularity and sealed within dragonkin technology. It is a mote of potential, waiting to be released.\n\nThe technology is limited for now. Avisk was only able to use it to improve his existing equipment, as well as to empower the beasts he trapped in the nightmare dreamscape. Fortunately, limited as it might be, you should find this technology particularly useful, as it will allow you upgrade and improve some of your more unique equipment, such as masterwork gear."
+          "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands. For most cores, players can gain core shards by killing mini-bosses (such as red dragons, green dragons, and blue dragons).\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible.\n\nBug: After upgrading an item with a core, there is a visual bug where the stats will appear not to increase.\n\n(Journal)\nImagine, if you will, what you could do if you could harness your dreams. If you could take an ideal, refine it and reforge it using the power of the imagination. Such a technology is terrifying in its potential, and Avisk was the first to explore its possibilities.\n\nThis core is a part of the nightmare, refined and reforged over and over again, then condescended into a singularity and sealed within dragonkin technology. It is a mote of potential, waiting to be released.\n\nThe technology is limited for now. Avisk was only able to use it to improve his existing equipment, as well as to empower the beasts he trapped in the nightmare dreamscape. Fortunately, limited as it might be, you should find this technology particularly useful, as it will allow you upgrade and improve some of your more unique equipment, such as masterwork gear."
         },
         "stations": [
           "Mystic Forge"
@@ -109039,11 +108704,6 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Fuzan",
-              "qty": "1",
-              "rarity": "1/4"
-            },
-            {
               "source": "Red Dragon",
               "qty": "1",
               "rarity": "1/400"
@@ -109134,11 +108794,6 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [],
           "sources": [
-            {
-              "source": "Fuzan",
-              "qty": "1",
-              "rarity": "1/4"
-            },
             {
               "source": "Red Dragon",
               "qty": "1",
@@ -109231,11 +108886,6 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Fuzan",
-              "qty": "1",
-              "rarity": "1/4"
-            },
-            {
               "source": "Red Dragon",
               "qty": "1",
               "rarity": "1/400"
@@ -109326,11 +108976,6 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [],
           "sources": [
-            {
-              "source": "Fuzan",
-              "qty": "1",
-              "rarity": "1/4"
-            },
             {
               "source": "Red Dragon",
               "qty": "1",

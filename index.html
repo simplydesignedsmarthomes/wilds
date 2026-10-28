@@ -449,7 +449,7 @@ body.map-overlay-open{overflow:hidden}
 .tk-subbox-label{font-family:var(--head);font-size:11px;font-weight:700;color:var(--gold);text-transform:uppercase;letter-spacing:.03em}
 .station-label{display:flex;align-items:center;gap:.4rem}
 .station-icon{width:20px;height:20px;object-fit:contain;flex-shrink:0}
-.item-tile-img img,.mat-chip img,.cc-icon,.station-icon{cursor:zoom-in}
+.item-tile-img img,.mat-chip img,.cc-icon,.station-icon,.card-icon img,.drop-icon{cursor:zoom-in}
 .icon-lightbox{position:fixed;inset:0;z-index:90;background:rgba(5,4,8,.92);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1rem;padding:2rem;cursor:zoom-out}
 .icon-lightbox img{max-width:min(70vw,320px);max-height:50vh;object-fit:contain;filter:drop-shadow(0 6px 24px rgba(0,0,0,.6))}
 .icon-lightbox-caption{font-family:var(--head);font-size:16px;font-weight:700;color:var(--gold);text-align:center}
@@ -487,6 +487,15 @@ body.map-overlay-open{overflow:hidden}
    after the panel (see rowInsert()). */
 .tk-subgrid > .tk-subpanel{grid-column:1 / -1;margin-top:0}
 .tk-grid > .tk-cat-expand{grid-column:1 / -1}
+/* Three progress boxes in a two-column grid left one stranded on its own
+   row. Skills leads full width, Quests and Achievements sit under it.
+   Three-across only once there is room for the word "Achievements" to fit
+   its box - below that it clips, since the label has nowhere to wrap. */
+.tk-grid-lead > :first-child{grid-column:1 / -1}
+@media (min-width:560px){
+  .tk-grid-lead{grid-template-columns:repeat(3,1fr)}
+  .tk-grid-lead > :first-child{grid-column:auto}
+}
 
 /* Items/Storage: a chest's contents as a small icon grid, images hotlinked
    straight from the wiki */
@@ -1038,6 +1047,19 @@ img.img-broken{visibility:hidden}
   // Tap any item/station icon to see it bigger - the wiki's own art, full
   // size, nothing fancier. One overlay shared by every icon in the app
   // (Items, Construction, stations) rather than per-context markup.
+  // Every icon worth seeing bigger, in one list so the two click handlers
+  // below (search results, and the Progress/Catalogue panel) cannot drift
+  // apart. card-icon covers creature and station portraits, drop-icon the
+  // bestiary's drop/sells/buys rows. A card-icon holding an inline skill
+  // SVG rather than an img is skipped for free by the IMG check at each
+  // call site.
+  //
+  // Achievement icons are deliberately NOT here: the whole achievement row
+  // is a tick-it-off toggle, and a 22px icon is enough of that tap target
+  // that zooming instead of ticking would be a nuisance. Bestiary drop rows
+  // have no such conflict - tapping the icon zooms, tapping the name still
+  // navigates, exactly as a recipe's material chips already behave.
+  var ZOOMABLE_ICONS = ".item-tile-img, .mat-chip, .cc-icon, .station-icon, .card-icon, .drop-icon";
   function openIconLightbox(src, caption){
     if (!src) return;
     iconLightboxImgEl.src = src;
@@ -1058,9 +1080,14 @@ img.img-broken{visibility:hidden}
     if (e.target.tagName === "IMG") e.target.classList.add("img-broken");
   }, true);
   function nearbyIconName(img){
-    var host = img.closest(".item-tile, .mat-chip, .cc-card, .tk-subbox, .item-detail, .cc-head");
+    // A row that already names its target in a data attribute (bestiary
+    // drops, sells and buys) is the most reliable caption there is - no
+    // guessing which text node next to the icon is the name.
+    var linked = img.closest("[data-mat-link], [data-creature-link]");
+    if (linked) return linked.dataset.matLink || linked.dataset.creatureLink || "";
+    var host = img.closest(".item-tile, .mat-chip, .cc-card, .tk-subbox, .item-detail, .cc-head, .card");
     if (!host) return "";
-    var nameEl = host.querySelector(".item-tile-name, .mat-chip-text, .cc-name, .tk-subbox-label, h5");
+    var nameEl = host.querySelector(".item-tile-name, .mat-chip-text, .cc-name, .tk-subbox-label, h5, h2");
     return nameEl ? nameEl.textContent.trim() : "";
   }
 
@@ -1324,7 +1351,7 @@ img.img-broken{visibility:hidden}
   }
 
   resultsEl.addEventListener("click", function(e){
-    if (e.target.tagName === "IMG" && e.target.closest(".item-tile-img, .mat-chip, .cc-icon, .station-icon")){
+    if (e.target.tagName === "IMG" && e.target.closest(ZOOMABLE_ICONS)){
       openIconLightbox(e.target.src, nearbyIconName(e.target));
       return;
     }
@@ -1761,7 +1788,9 @@ img.img-broken{visibility:hidden}
   function drawTracker(){
     beginVisiblePass();
     var sk = skillsTotal(), qt = questsTotal(), ac = achievementsTotal();
-    var grid = '<div class="tk-grid">'+
+    // The lead layout only earns its keep with an odd third box to place;
+    // with just Skills and Quests the plain two-column grid is already even.
+    var grid = '<div class="tk-grid'+(ac.total ? " tk-grid-lead" : "")+'">'+
       tkBox("skills", "Skills", sk.done+" / "+sk.total, "Total level", Math.round(sk.done/sk.total*100), "boxStatSkills", "boxBarSkills")+
       tkBox("quests", "Quests", qt.done+" / "+qt.total, "Completed", Math.round(qt.done/qt.total*100))+
       (ac.total ? tkBox("achievements", "Achievements", ac.done+" / "+ac.total, "Unlocked", Math.round(ac.done/ac.total*100)) : "")+
@@ -2900,7 +2929,7 @@ img.img-broken{visibility:hidden}
   });
 
   trackerEl.addEventListener("click", function(e){
-    if (e.target.tagName === "IMG" && e.target.closest(".item-tile-img, .mat-chip, .cc-icon, .station-icon")){
+    if (e.target.tagName === "IMG" && e.target.closest(ZOOMABLE_ICONS)){
       openIconLightbox(e.target.src, nearbyIconName(e.target));
       return;
     }

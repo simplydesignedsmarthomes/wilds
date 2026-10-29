@@ -518,6 +518,9 @@ body.map-overlay-open{overflow:hidden}
 .band-toggle.open{color:var(--gold);border-color:var(--gold)}
 .band-chev{margin-left:auto;font-size:13px;line-height:1}
 .sort-tabs{margin-top:-.2rem}
+.compost-group + .compost-group{margin-top:.7rem}
+.compost-group .band-head{margin-bottom:.1rem}
+.compost-group .band-count{margin-left:auto}
 .construct-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:.6rem;margin-top:.5rem}
 .cc-card{background:var(--panel);border:1px solid var(--edge-dark);border-radius:var(--r);padding:.6rem .7rem}
 .cc-head{display:flex;align-items:center;gap:.5rem;margin-bottom:.3rem}
@@ -982,11 +985,16 @@ img.img-broken{visibility:hidden}
     storageView = "chest";
     openChest = chestKey;
     openItem = "chest:" + chestKey + "::" + name;
-    if (STATE.powerFilterOn){
-      var cat = (window.WILDS_STORAGE || []).filter(function(c){ return c.key === chestKey; })[0];
-      var it = cat && cat.items.filter(function(x){ return x.name === name; })[0];
-      if (it && it.step > STATE.powerLevel){ STATE.powerFilterOn = false; saveState(); }
+    var cat = (window.WILDS_STORAGE || []).filter(function(c){ return c.key === chestKey; })[0];
+    var it = cat && cat.items.filter(function(x){ return x.name === name; })[0];
+    if (STATE.powerFilterOn && it && it.step > STATE.powerLevel){
+      STATE.powerFilterOn = false; saveState();
     }
+    // Same reasoning as dropping the power filter above: landing on a chest
+    // where the item you asked for is hidden is a dead end. A collapsed band
+    // hides its contents until opened, and Compost alone links 36 items that
+    // live on the Burnt shelf.
+    if (it && typeof it.band === "number") expandedBands[chestKey + ":" + it.band] = true;
     draw();
     scrollToElementTop(document.querySelector('[data-item="'+CSS.escape(openItem)+'"]'));
     updateNavBackBtn();
@@ -1974,10 +1982,64 @@ img.img-broken{visibility:hidden}
     }
     return html;
   }
+  var TIER_BIN = { compost: "Compost Bin", super: "Super Compost Bin", ultra: "Ultra Compost Bin" };
+  // Composting, read from either end (see .research/compost.py). A compost
+  // item gets the bin that makes it, what that does to a plot, and everything
+  // you can feed it; anything compostable gets the tier or tiers it feeds.
+  // Both are built here because an item can be both - nothing is yet, but the
+  // game has form for composting a compost.
+  function compostBlockHtml(it){
+    var html = "";
+    var cf = it.compostedFrom;
+    if (cf){
+      html += '<div class="r block"><div class="fk subhead">Made in</div><div class="q-places">'+
+        '<div class="q-place">'+(cf.binImg ? '<img src="'+esc(cf.binImg)+'" alt="" loading="lazy">' : '')+
+        '<span>'+esc(cf.bin)+'</span></div></div>'+
+        '<div class="recipe-note">'+esc(cf.unlock)+' · built from '+esc(cf.build)+'</div></div>';
+      html += '<div class="r block"><div class="fk subhead">Spread on a plot</div><div class="stat-grid">'+
+        cf.effects.map(function(e){
+          return '<div class="stat-chip"><span class="fk">'+esc(e.label)+'</span><span class="fv">'+esc(e.value)+'</span></div>';
+        }).join("")+'</div></div>';
+      var total = cf.groups.reduce(function(n, g){ return n + g.items.length; }, 0);
+      html += '<div class="r block"><div class="fk subhead">What makes it ('+total+')</div>'+
+        '<div class="recipe-note">Each item you compost is worth '+cf.units+' units, and a plot takes 50.</div>'+
+        cf.groups.map(function(g){
+          return '<div class="compost-group">'+
+            (g.label ? '<div class="band-head">'+esc(g.label)+
+              '<span class="band-count">'+(g.note ? esc(g.note)+' · ' : '')+g.items.length+'</span></div>' : '')+
+            '<div class="mat-chips">'+g.items.map(function(n){ return itemChip({ name: n }); }).join("")+'</div></div>';
+        }).join("");
+      if (cf.rules.length){
+        // Deliberately not expanded into chips: the wiki states these as
+        // blanket rules but its own Pumpkin and Watermelon pages say both are
+        // refused by this bin, so "any plants" plainly does not mean every
+        // plant. Printing the rule is honest; inventing the list is not.
+        html += '<div class="note">It also takes '+
+          cf.rules.map(function(r){ return esc(r.text.toLowerCase())+' at '+r.units+' unit'+(r.units === 1 ? '' : 's')+' each'; }).join(", and ")+
+          '. The wiki states those as blanket rules without listing the items, so they are not tagged individually above.</div>';
+      }
+      if (cf.excluded.length){
+        html += '<div class="recipe-note">Refuses '+
+          cf.excluded.map(function(x){ return esc(x.name); }).join(", ")+
+          (cf.excluded[0].goes ? ' - those go in a '+esc(TIER_BIN[cf.excluded[0].goes] || "different bin") : '')+'.</div>';
+      }
+      html += '</div>';
+    }
+    if (it.compost && it.compost.length){
+      var bins = it.compost.map(function(c){ return c.bin; });
+      html += '<div class="r block"><div class="fk subhead">Composts into</div><div class="mat-chips">'+
+        it.compost.map(function(c){ return itemChip({ name: c.label }); }).join("")+'</div>'+
+        // "the", not "a": every bin name is unique, and "a Ultra Compost Bin"
+        // would need an a/an rule for no gain.
+        '<div class="recipe-note">Worth '+it.compost[0].units+' units in the '+
+        bins.join(" or the ")+'.</div></div>';
+    }
+    return html;
+  }
   var USED_IN_SHOWN = 24;
   function itemDetailHtml(it){
     var d = it.detail || {};
-    var html = plotBlockHtml(it);
+    var html = plotBlockHtml(it) + compostBlockHtml(it);
     if (d.recipes && d.recipes.length){
       html += '<div class="r block"><div class="fk subhead">'+(d.recipes.length > 1 ? 'Recipes' : 'Recipe')+'</div>'+
         d.recipes.map(function(r){ return recipeCardHtml(it, r); }).join("")+'</div>';

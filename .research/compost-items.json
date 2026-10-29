@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Compost",
+    "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "farming",
+    "note": "Made in a Compost Bin from burnt food, herbs, bones and plant matter; fertilizing a plot with it gives 10 Farming XP, halves disease chance and multiplies yield by 1.5."
+  },
+  {
+    "name": "Super Compost",
+    "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+    "tier": "",
+    "tierRank": null,
+    "chest": "farming",
+    "note": "Made in a Super Compost Bin from a shorter list of richer inputs; gives 50 Farming XP, cuts disease chance to 25% and multiplies yield by 1.75."
+  }
+]

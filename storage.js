@@ -39458,7 +39458,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 3,
-        "bandLabel": "Raw ingredients"
+        "bandLabel": "Raw ingredients",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Cadavaberries",
@@ -39557,7 +39565,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 4,
-        "bandLabel": "Raw ingredients"
+        "bandLabel": "Raw ingredients",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Pristine Armoured Catfish",
@@ -40127,7 +40143,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 4,
-        "bandLabel": "Raw ingredients"
+        "bandLabel": "Raw ingredients",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Raw Desert Sole",
@@ -40204,7 +40228,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 4,
-        "bandLabel": "Raw ingredients"
+        "bandLabel": "Raw ingredients",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Raw Giant Krill",
@@ -40298,7 +40330,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 4,
-        "bandLabel": "Raw ingredients"
+        "bandLabel": "Raw ingredients",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Raw Infernal Eel",
@@ -40563,7 +40603,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 4,
-        "bandLabel": "Raw ingredients"
+        "bandLabel": "Raw ingredients",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Raw Undead Bass",
@@ -40822,7 +40870,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 4,
-        "bandLabel": "Raw ingredients"
+        "bandLabel": "Raw ingredients",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Clean Water",
@@ -43500,7 +43556,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 1,
         "rank": 3,
-        "bandLabel": "Cooked"
+        "bandLabel": "Cooked",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Flank Steak",
@@ -43971,7 +44035,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 1,
         "rank": 3,
-        "bandLabel": "Cooked"
+        "bandLabel": "Cooked",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Seared Anchovies",
@@ -44642,7 +44714,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 1,
         "rank": 4,
-        "bandLabel": "Cooked"
+        "bandLabel": "Cooked",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Dried Giant Krill",
@@ -45141,7 +45221,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 1,
         "rank": 4,
-        "bandLabel": "Cooked"
+        "bandLabel": "Cooked",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Roast Pumpkin",
@@ -45280,7 +45368,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 1,
         "rank": 4,
-        "bandLabel": "Cooked"
+        "bandLabel": "Cooked",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Roasted Lobster",
@@ -45621,7 +45717,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 1,
         "rank": 4,
-        "bandLabel": "Cooked"
+        "bandLabel": "Cooked",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Sun Baked Sole",
@@ -45731,7 +45835,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 1,
         "rank": 4,
-        "bandLabel": "Cooked"
+        "bandLabel": "Cooked",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Watermelon Jerky",
@@ -45963,7 +46075,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 1,
         "rank": 5,
-        "bandLabel": "Cooked"
+        "bandLabel": "Cooked",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Redberry Crunchies",
@@ -49214,7 +49334,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 2,
         "rank": 4,
-        "bandLabel": "Meals"
+        "bandLabel": "Meals",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Dubious Meat Pie",
@@ -50013,7 +50141,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 2,
         "rank": 4,
-        "bandLabel": "Meals"
+        "bandLabel": "Meals",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Undead Delight",
@@ -50253,7 +50389,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 2,
         "rank": 5,
-        "bandLabel": "Meals"
+        "bandLabel": "Meals",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Umbral Kebab",
@@ -50357,7 +50501,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 2,
         "rank": 5,
-        "bandLabel": "Meals"
+        "bandLabel": "Meals",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Egg",
@@ -50496,7 +50648,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 1,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Fillet",
@@ -50604,7 +50764,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 1,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Rat Roast",
@@ -50699,7 +50867,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 1,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Redberries",
@@ -50794,7 +50970,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 1,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Bread",
@@ -50893,7 +51077,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Cabbage",
@@ -50984,7 +51176,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Haunch",
@@ -51075,7 +51275,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Mushroom",
@@ -51166,7 +51374,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Potato",
@@ -51261,7 +51477,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Sardine",
@@ -51360,7 +51584,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Shrimp",
@@ -51459,7 +51691,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Steak",
@@ -51550,7 +51790,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Tomato",
@@ -51641,7 +51889,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Trout",
@@ -51740,7 +51996,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 2,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Anchovies",
@@ -51839,7 +52103,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 3,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Dwellberries",
@@ -51930,7 +52202,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 3,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Flank",
@@ -52031,7 +52311,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 3,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Herring",
@@ -52130,7 +52418,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 3,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Onion",
@@ -52221,7 +52517,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 3,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Peach",
@@ -52312,7 +52616,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 3,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Salmon",
@@ -52411,7 +52723,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 3,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Beltfish",
@@ -52510,7 +52830,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Cadavaberries",
@@ -52605,7 +52933,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Catfish",
@@ -52704,7 +53040,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Desert Sole",
@@ -52803,7 +53147,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Giant Krill",
@@ -52902,7 +53254,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Infernal Eel",
@@ -53001,7 +53361,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Lobster",
@@ -53100,7 +53468,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Maple Syrup",
@@ -53239,7 +53615,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Monkfish",
@@ -53338,7 +53722,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Pumpkin",
@@ -53433,7 +53825,21 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          },
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Undead Bass",
@@ -53532,7 +53938,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Undead Eel",
@@ -53631,7 +54045,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Undead Steak",
@@ -53699,7 +54121,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Watermelon",
@@ -53798,7 +54228,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 4,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Burnt Cactus Steak",
@@ -53889,7 +54327,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 3,
         "rank": 5,
-        "bandLabel": "Burnt"
+        "bandLabel": "Burnt",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       }
     ],
     "bands": [
@@ -62287,7 +62733,21 @@ window.WILDS_STORAGE = [
         ],
         "step": 3,
         "band": 0,
-        "rank": 99
+        "rank": 99,
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          },
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Strong Tea",
@@ -62359,7 +62819,15 @@ window.WILDS_STORAGE = [
         ],
         "step": 3,
         "band": 0,
-        "rank": 99
+        "rank": 99,
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Tome of Agility - Vol 1",
@@ -69603,7 +70071,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Sandstone is a basic Mining material mined from sandstone rocks, found scattered across the Fractured Plains, Stormtouched Highlands, Dowdun Reach and Umbral Sands. Sandstone is used in construction, alongside Stone and granite. ]]\n\n(Journal)\nA rock with a grainy texture. I really don't know what you're expecting here, there's no deep lore about sandstone."
+          "description": "Sandstone is a basic Mining material mined from sandstone rocks, found scattered across the Fractured Plains, Stormtouched Highlands, Dowdun Reach and Umbral Sands. Sandstone is used in construction, alongside Stone and granite.\n\n(Journal)\nA rock with a grainy texture. I really don't know what you're expecting here, there's no deep lore about sandstone."
         },
         "stations": [
           "Grindstone",
@@ -75562,7 +76030,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 1,
-        "bandLabel": "Raw fibres"
+        "bandLabel": "Raw fibres",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Warped Feathers",
@@ -76065,7 +76541,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 3,
-        "bandLabel": "Raw fibres"
+        "bandLabel": "Raw fibres",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Cactus Fibres",
@@ -76151,7 +76635,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 5,
-        "bandLabel": "Raw fibres"
+        "bandLabel": "Raw fibres",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Desert Weed",
@@ -76214,7 +76706,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 5,
-        "bandLabel": "Raw fibres"
+        "bandLabel": "Raw fibres",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Garou Weave",
@@ -83638,7 +84138,15 @@ window.WILDS_STORAGE = [
         },
         "step": 0,
         "band": 0,
-        "rank": 1
+        "rank": 1,
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Small Animal Fang",
@@ -83834,7 +84342,15 @@ window.WILDS_STORAGE = [
         },
         "step": 0,
         "band": 0,
-        "rank": 1
+        "rank": 1,
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Dragon Tooth",
@@ -84463,7 +84979,15 @@ window.WILDS_STORAGE = [
         },
         "step": 0,
         "band": 0,
-        "rank": 3
+        "rank": 3,
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Withered Heart",
@@ -84954,7 +85478,15 @@ window.WILDS_STORAGE = [
         },
         "step": 0,
         "band": 0,
-        "rank": 99
+        "rank": 99,
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Blue Dragon Scale Dust",
@@ -85739,7 +86271,15 @@ window.WILDS_STORAGE = [
         },
         "step": 0,
         "band": 0,
-        "rank": 99
+        "rank": 99,
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Necrotic Bonemeal",
@@ -88222,7 +88762,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 0,
         "rank": 0,
-        "bandLabel": "Logs"
+        "bandLabel": "Logs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Oak Logs",
@@ -89076,7 +89624,15 @@ window.WILDS_STORAGE = [
         "step": 1,
         "band": 0,
         "rank": 1,
-        "bandLabel": "Logs"
+        "bandLabel": "Logs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Willow Logs",
@@ -89423,7 +89979,15 @@ window.WILDS_STORAGE = [
         "step": 2,
         "band": 0,
         "rank": 2,
-        "bandLabel": "Logs"
+        "bandLabel": "Logs",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Maple Logs",
@@ -89587,7 +90151,15 @@ window.WILDS_STORAGE = [
         "step": 3,
         "band": 0,
         "rank": 3,
-        "bandLabel": "Logs"
+        "bandLabel": "Logs",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Yew Logs",
@@ -89781,7 +90353,15 @@ window.WILDS_STORAGE = [
         "step": 4,
         "band": 0,
         "rank": 4,
-        "bandLabel": "Logs"
+        "bandLabel": "Logs",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Magic Logs",
@@ -89905,7 +90485,15 @@ window.WILDS_STORAGE = [
         "step": 5,
         "band": 0,
         "rank": 5,
-        "bandLabel": "Logs"
+        "bandLabel": "Logs",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Ash Plank",
@@ -91100,7 +91688,15 @@ window.WILDS_STORAGE = [
         "step": 6,
         "band": 1,
         "rank": 6,
-        "bandLabel": "Planks & parts"
+        "bandLabel": "Planks & parts",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Blightwood",
@@ -91286,7 +91882,15 @@ window.WILDS_STORAGE = [
         "step": 6,
         "band": 1,
         "rank": 6,
-        "bandLabel": "Planks & parts"
+        "bandLabel": "Planks & parts",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Hollow Bark",
@@ -91375,7 +91979,15 @@ window.WILDS_STORAGE = [
         "step": 6,
         "band": 1,
         "rank": 6,
-        "bandLabel": "Planks & parts"
+        "bandLabel": "Planks & parts",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Thorny Irit Root",
@@ -98602,7 +99214,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 1,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Marrentil",
@@ -98743,7 +99363,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 1,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Potato",
@@ -98840,7 +99468,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 1,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Onion",
@@ -98957,7 +99593,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 2,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Snapdragon",
@@ -99118,7 +99762,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 2,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Swamp Weed",
@@ -99317,7 +99969,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 2,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Irit",
@@ -99484,7 +100144,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 3,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Pumpkin",
@@ -99581,7 +100249,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 3,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Avantoe",
@@ -99647,7 +100323,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 99,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Cactus Steak",
@@ -99729,7 +100413,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 99,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Fibrous Pipe Cactus",
@@ -99783,7 +100475,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 99,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Kwuarm",
@@ -99850,7 +100550,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 99,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Tomato",
@@ -100031,7 +100739,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 99,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "super",
+            "label": "Super Compost",
+            "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Wheat",
@@ -100143,7 +100859,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 1,
         "rank": 99,
-        "bandLabel": "Crops & herbs"
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       },
       {
         "name": "Cactus Water",
@@ -100333,7 +101057,229 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 2,
         "rank": 2,
-        "bandLabel": "Supplies"
+        "bandLabel": "Supplies",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
+      },
+      {
+        "name": "Compost",
+        "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "farming",
+        "note": "Made in a Compost Bin from burnt food, herbs, bones and plant matter; fertilizing a plot with it gives 10 Farming XP, halves disease chance and multiplies yield by 1.5.",
+        "detail": {
+          "stats": [],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Compost is an item made at the compost bin, which can be used via the compost bucket at a rate of 10 units per item composted. Applying compost to a patch provides 10 Farming experience, decreases the disease rate of the affected plant to 50%, and has a 1.5x yield multiplier."
+        },
+        "step": 0,
+        "band": 2,
+        "rank": 10,
+        "bandLabel": "Supplies",
+        "compostedFrom": {
+          "bin": "Compost Bin",
+          "binImg": "https://dragonwilds.runescape.wiki/images/Compost_Bin.png?b6a21",
+          "unlock": "Level 10 Farming",
+          "build": "8 Ash Logs + 4 Stone",
+          "effects": [
+            {
+              "label": "Farming XP",
+              "value": "10"
+            },
+            {
+              "label": "Disease chance",
+              "value": "50%"
+            },
+            {
+              "label": "Yield",
+              "value": "1.5x"
+            }
+          ],
+          "units": 10,
+          "groups": [
+            {
+              "label": "Burnt food",
+              "note": "any of them",
+              "items": [
+                "Burnt Anchovies",
+                "Burnt Beltfish",
+                "Burnt Bread",
+                "Burnt Cabbage",
+                "Burnt Cactus Steak",
+                "Burnt Cadavaberries",
+                "Burnt Catfish",
+                "Burnt Desert Sole",
+                "Burnt Dwellberries",
+                "Burnt Egg",
+                "Burnt Fillet",
+                "Burnt Flank",
+                "Burnt Giant Krill",
+                "Burnt Haunch",
+                "Burnt Herring",
+                "Burnt Infernal Eel",
+                "Burnt Lobster",
+                "Burnt Maple Syrup",
+                "Burnt Monkfish",
+                "Burnt Mushroom",
+                "Burnt Onion",
+                "Burnt Peach",
+                "Burnt Potato",
+                "Burnt Pumpkin",
+                "Burnt Rat Roast",
+                "Burnt Redberries",
+                "Burnt Salmon",
+                "Burnt Sardine",
+                "Burnt Shrimp",
+                "Burnt Steak",
+                "Burnt Tomato",
+                "Burnt Trout",
+                "Burnt Undead Bass",
+                "Burnt Undead Eel",
+                "Burnt Undead Steak",
+                "Burnt Watermelon"
+              ]
+            },
+            {
+              "label": "Herbs",
+              "note": "except Irit",
+              "items": [
+                "Marrentil",
+                "Harralander",
+                "Kwuarm",
+                "Snapdragon",
+                "Toadflax",
+                "Avantoe"
+              ]
+            },
+            {
+              "label": "Bones, plants & logs",
+              "note": "",
+              "items": [
+                "Animal Bone",
+                "Small Animal Fang",
+                "Monstrous Fang",
+                "Antler",
+                "Bloodwood Sap",
+                "Anima-Infused Bark",
+                "Shocking Plant Bulb",
+                "Feathers",
+                "Wheat",
+                "Ash Logs",
+                "Oak Logs",
+                "Onion",
+                "Potato",
+                "Weeds"
+              ]
+            }
+          ],
+          "rules": [
+            {
+              "text": "Any plants",
+              "units": 10
+            },
+            {
+              "text": "Any raw food",
+              "units": 1
+            }
+          ],
+          "excluded": [
+            {
+              "name": "Pumpkin",
+              "goes": "super"
+            },
+            {
+              "name": "Watermelon",
+              "goes": "super"
+            },
+            {
+              "name": "Irit",
+              "goes": "super"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Super Compost",
+        "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+        "tier": "",
+        "tierRank": null,
+        "chest": "farming",
+        "note": "Made in a Super Compost Bin from a shorter list of richer inputs; gives 50 Farming XP, cuts disease chance to 25% and multiplies yield by 1.75.",
+        "detail": {
+          "stats": [],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Super compost is an item made at the super compost bin at a rate of 10 units per item composted, which can be gathered and used via the compost bucket. Applying compost to a patch provides 50 Farming experience, decreases the disease chance to 25%, and multiplies the yield by 1.75."
+        },
+        "step": 0,
+        "band": 2,
+        "rank": 60,
+        "bandLabel": "Supplies",
+        "compostedFrom": {
+          "bin": "Super Compost Bin",
+          "binImg": "https://dragonwilds.runescape.wiki/images/Super_Compost_Bin.png?34e0e",
+          "unlock": "Level 60 Farming",
+          "build": "8 Willow Logs + 4 Sandstone",
+          "effects": [
+            {
+              "label": "Farming XP",
+              "value": "50"
+            },
+            {
+              "label": "Disease chance",
+              "value": "25%"
+            },
+            {
+              "label": "Yield",
+              "value": "1.75x"
+            }
+          ],
+          "units": 10,
+          "groups": [
+            {
+              "label": "",
+              "note": "",
+              "items": [
+                "Willow Logs",
+                "Maple Logs",
+                "Hollow Bark",
+                "Pumpkin",
+                "Roast Pumpkin",
+                "Burnt Pumpkin",
+                "Watermelon",
+                "Cadavaberries",
+                "Dried Cadavaberries",
+                "Irit",
+                "Corpse Cotton",
+                "Undead Bone",
+                "Undead Meat",
+                "Raw Giant Krill",
+                "Strong Sweet Tea"
+              ]
+            }
+          ],
+          "rules": [],
+          "excluded": [
+            {
+              "name": "Cauterised Undead Steak",
+              "goes": null
+            }
+          ]
+        }
       },
       {
         "name": "Large Compost Bucket",
@@ -100396,7 +101342,7 @@ window.WILDS_STORAGE = [
         ],
         "step": 0,
         "band": 2,
-        "rank": 99,
+        "rank": 65,
         "bandLabel": "Supplies"
       },
       {
@@ -100430,8 +101376,61 @@ window.WILDS_STORAGE = [
         },
         "step": 0,
         "band": 2,
-        "rank": 99,
-        "bandLabel": "Supplies"
+        "rank": 69,
+        "bandLabel": "Supplies",
+        "compostedFrom": {
+          "bin": "Ultra Compost Bin",
+          "binImg": "https://dragonwilds.runescape.wiki/images/Ultra_Compost_Bin.png?19160",
+          "unlock": "Level 69 Farming",
+          "build": "8 Yew Logs + 4 Gypsum",
+          "effects": [
+            {
+              "label": "Farming XP",
+              "value": "50"
+            },
+            {
+              "label": "Disease chance",
+              "value": "12.5%"
+            },
+            {
+              "label": "Yield",
+              "value": "2.5x"
+            }
+          ],
+          "units": 10,
+          "groups": [
+            {
+              "label": "",
+              "note": "",
+              "items": [
+                "Yew Logs",
+                "Magic Logs",
+                "Desert Weed",
+                "Fibrous Pipe Cactus",
+                "Cactus Fibres",
+                "Cactus Steak",
+                "Seared Cactus Steak",
+                "Raw Monkfish",
+                "Monkfish Fillets",
+                "Raw Beltfish",
+                "Steamed Beltfish",
+                "Raw Desert Sole",
+                "Sun Baked Sole",
+                "Tea Leaves",
+                "Dried Tea Leaves",
+                "Ground Tea Leaves",
+                "Strong Tea",
+                "Strong Sweet Tea",
+                "Monkfish Skewers",
+                "Swabbie Pie",
+                "Umbral Kebab",
+                "Beltfish Broth"
+              ]
+            }
+          ],
+          "rules": [],
+          "excluded": []
+        }
       },
       {
         "name": "Weeds",
@@ -100544,7 +101543,15 @@ window.WILDS_STORAGE = [
         "step": 0,
         "band": 2,
         "rank": 99,
-        "bandLabel": "Supplies"
+        "bandLabel": "Supplies",
+        "compost": [
+          {
+            "tier": "compost",
+            "label": "Compost",
+            "bin": "Compost Bin",
+            "units": 10
+          }
+        ]
       }
     ],
     "bands": [
@@ -104144,6 +105151,69 @@ window.WILDS_STORAGE = [
         "rank": 7
       },
       {
+        "name": "Compost Bucket",
+        "img": "https://dragonwilds.runescape.wiki/images/Compost_Bucket.png?b1f46",
+        "tier": "",
+        "tierRank": null,
+        "chest": "tools",
+        "note": "A farming tool that holds up to 150 units of compost or super compost to apply to farming plots, crafted at the crafting table from 5 Ash Logs.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Tool"
+            },
+            {
+              "label": "Released",
+              "value": "15 December 2025"
+            },
+            {
+              "label": "Weight",
+              "value": "5.5 kg"
+            },
+            {
+              "label": "Description",
+              "value": "Contents: Compost: [X]/150 ; ; A wooden bucket used to carry a variety of compost. Pour its contents out over a Farming Plot to fertilize your plants!"
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Crafting Table",
+              "skills": [
+                {
+                  "name": "Farming",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Ash Logs",
+                  "qty": 5,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Logs.png?fd9a7"
+                }
+              ],
+              "output": {
+                "name": "Compost Bucket",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost_Bucket.png?b1f46"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The compost bucket is a tool created at the crafting table. Level 10 Farming is required to unlock the recipe. It can be used to take out compost, super compost, and ultra compost from the compost bin, super compost bin, and ultra compost bin, respectively. A maximum of 150 units can be collected per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost or super compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Mrsno full stop Hyacinth, to help her around the farm. They had buckets back on the human homeworld of Teragard, of course, but she hadn’t brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Mrs Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Mrs Hyacinth needed something to help with the clear upmisspelled cleanup.\n\nShe used local twigs, at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie’s endeavours.\n\nNow, you too can fill one of these marvelous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
+        },
+        "stations": [
+          "Crafting Table"
+        ],
+        "step": 6,
+        "band": 0,
+        "rank": 10
+      },
+      {
         "name": "Blue Torch",
         "img": "https://dragonwilds.runescape.wiki/images/Blue_Torch.png?2fc71",
         "tier": "",
@@ -104316,69 +105386,6 @@ window.WILDS_STORAGE = [
           "shops": [],
           "perks": [],
           "description": "A bone pickaxe is a power level 2 pickaxe that can be crafted at a crafting table. It can mine the same ores as the previous tiers, along with copper ore, and tin ore, dealing 15 damage to minable ores, and 30 damage with a critical swing. To unlock the recipe, players must have acquired animal bones.\n\n(Journal)\nWe are made of sturdier stuff than we give ourselves credit for. The human body can withstand a staggering force before our bones give way to the stresses. So too is it for the bones of animals, especially those of Ashenfall. Here, the magic seeps into the marrow and strengthens the bone to be sturdier than before.\n\nWhen used as tools, refined into weapons, these bones can be made to break stone and release the imprisoned metal ore."
-        },
-        "stations": [
-          "Crafting Table"
-        ],
-        "step": 6,
-        "band": 0,
-        "rank": 99
-      },
-      {
-        "name": "Compost Bucket",
-        "img": "https://dragonwilds.runescape.wiki/images/Compost_Bucket.png?b1f46",
-        "tier": "",
-        "tierRank": null,
-        "chest": "tools",
-        "note": "A farming tool that holds up to 150 units of compost or super compost to apply to farming plots, crafted at the crafting table from 5 Ash Logs.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Tool"
-            },
-            {
-              "label": "Released",
-              "value": "15 December 2025"
-            },
-            {
-              "label": "Weight",
-              "value": "5.5 kg"
-            },
-            {
-              "label": "Description",
-              "value": "Contents: Compost: [X]/150 ; ; A wooden bucket used to carry a variety of compost. Pour its contents out over a Farming Plot to fertilize your plants!"
-            }
-          ],
-          "recipes": [
-            {
-              "station": "Crafting Table",
-              "skills": [
-                {
-                  "name": "Farming",
-                  "xp": 0
-                }
-              ],
-              "materials": [
-                {
-                  "name": "Ash Logs",
-                  "qty": 5,
-                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Logs.png?fd9a7"
-                }
-              ],
-              "output": {
-                "name": "Compost Bucket",
-                "qty": 1,
-                "img": "https://dragonwilds.runescape.wiki/images/Compost_Bucket.png?b1f46"
-              },
-              "unlock": ""
-            }
-          ],
-          "usedIn": [],
-          "sources": [],
-          "shops": [],
-          "perks": [],
-          "description": "The compost bucket is a tool created at the crafting table. Level 10 Farming is required to unlock the recipe. It can be used to take out compost, super compost, and ultra compost from the compost bin, super compost bin, and ultra compost bin, respectively. A maximum of 150 units can be collected per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost or super compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Mrsno full stop Hyacinth, to help her around the farm. They had buckets back on the human homeworld of Teragard, of course, but she hadn’t brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Mrs Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Mrs Hyacinth needed something to help with the clear upmisspelled cleanup.\n\nShe used local twigs, at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie’s endeavours.\n\nNow, you too can fill one of these marvelous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
         },
         "stations": [
           "Crafting Table"

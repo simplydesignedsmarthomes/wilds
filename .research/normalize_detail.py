@@ -95,7 +95,11 @@ def clean(v, keep_paragraphs=False):
     v = re.sub(r"__[A-Z]+__", "", v)
     v = re.sub(r"^\s*=+\s*(.*?)\s*=+\s*$", r"\1", v, flags=re.M)
     v = re.sub(r"<br\s*/?>", "\n" if keep_paragraphs else "; ", v, flags=re.I)
-    v = re.sub(r"\[\[(?:File|Image):[^\]]*\]\]", "", v, flags=re.I)
+    # A caption can itself hold a wikilink ("The icon for compost in the
+    # [[compost bin]] interface."), and a plain [^\]]* body stops dead at that
+    # link's first bracket - leaving the tail of the caption and a stray ]]
+    # at the head of the description. Allow one level of nesting.
+    v = re.sub(r"\[\[(?:File|Image):(?:[^\[\]]|\[\[[^\[\]]*\]\])*\]\]", "", v, flags=re.I)
     v = re.sub(r"\[\[([^\]|]+)\|([^\]]+)\]\]", r"\2", v)
     v = re.sub(r"\[\[([^\]]+)\]\]", r"\1", v)
     v = re.sub(r"\[https?://\S+\s+([^\]]+)\]", r"\1", v)

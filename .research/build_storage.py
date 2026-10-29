@@ -7,6 +7,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from normalize_detail import WikiData, NOT_IN_GAME_NAMES
 import ordering
+import compost
 ROOT = os.path.dirname(HERE)
 
 CHEST_LABELS = [
@@ -150,6 +151,10 @@ SOURCE_FILES = [
     "weapons.json", "armour.json", "food.json", "potions.json",
     "materials.json", "tools-ammo.json", "vestiges.json", "misc-discovery.json",
     "materials-gap-fill.json", "materials-gap-fill-2.json",
+    # Compost and Super Compost, which no research pass ever picked up - the
+    # wiki has no {{Infobox Item}} on either page, so nothing that keys off one
+    # ever saw them. compost.py has the rest of the chain.
+    "compost-items.json",
     # New items discover_new_items.py filed with a confident chest guess,
     # straight from a future update - see that script for how.
     "auto-discovered.json",
@@ -429,6 +434,14 @@ def main():
     # ingredients are routinely filed somewhere else (potatoes are Farming).
     by_name = {it["name"]: it for row in out for it in row["items"]}
     ordering.apply(out, by_name)
+
+    # Cross-link the compost chain, after ordering because it reads the Burnt
+    # shelf that ordering.apply is what assigns.
+    rep = compost.apply(out, by_name)
+    print("compost: %d items tagged (%s)%s" % (
+        rep["tagged"],
+        ", ".join("%s %d" % (t, n) for t, n in rep["per_tier"].items()),
+        "".join("\n  MISSING %s: %s" % (t, n) for t, n in rep["missing"])), file=sys.stderr)
 
     # A small personal touch: each chest tile shows one representative
     # item's icon, picked by hand where there's an obvious one, falling

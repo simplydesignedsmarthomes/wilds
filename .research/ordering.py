@@ -98,6 +98,17 @@ GEM_RANK = {
     "Red Topaz": 5, "Ruby": 6, "Diamond": 7, "Dragonstone": 8,
 }
 
+# The Farming level each link in the compost chain unlocks at, from the bins'
+# and buckets' own wiki pages. Composting is the one chain in Farming supplies
+# with a published progression, so it ranks by the level you reach it at
+# rather than sinking to the alphabetical fallback - which had Ultra Compost,
+# the level 69 one, sorting above Weeds.
+COMPOST_RANK = {
+    "Compost": 10, "Compost Bucket": 10,
+    "Super Compost": 60, "Large Compost Bucket": 65,
+    "Ultra Compost": 69,
+}
+
 # Band layouts per chest: (label, collapsed). A chest absent from here is a
 # single unbanded shelf - still progression-sorted, just with no subheadings,
 # because splitting e.g. Weapons into stages would be noise.
@@ -188,8 +199,9 @@ def _chain_band(name, it, chest):
     if chest == "farming":
         if "Seed" in name:
             return 0
-        if name in ("Weeds", "Ultra Compost", "Large Compost Bucket",
-                    "Shocking Plant Bulb", "Cactus Water"):
+        # Every compost tier and bucket by pattern, so a fourth tier lands on
+        # the right shelf without this list being edited again.
+        if "Compost" in name or name in ("Weeds", "Shocking Plant Bulb", "Cactus Water"):
             return 2
         return 1
     if chest == "pottery":
@@ -259,6 +271,8 @@ def rank_for(name, it, chest, by_name):
                 return lvl
     if chest == "stone" and name in GEM_RANK:
         return GEM_RANK[name]
+    if name in COMPOST_RANK:
+        return COMPOST_RANK[name]
     tr = it.get("tierRank")
     if isinstance(tr, (int, float)):
         return tr

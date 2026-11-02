@@ -561,7 +561,7 @@
 },
 {
 "name": "Blue Dragon Scale Dust",
-"type": "Resource"
+"type": "Basic Material"
 },
 {
 "name": "Blue Dragonhide",
@@ -1129,7 +1129,7 @@
 },
 {
 "name": "Corrupted Essence Sample",
-"type": "Quest Item"
+"type": "Basic Item"
 },
 {
 "name": "Cracked Bronze Vanity Mirror",
@@ -1860,6 +1860,10 @@
 "type": "Food"
 },
 {
+"name": "Glorious Cake",
+"type": "Quest Item"
+},
+{
 "name": "Goblin \"Swingslash\"",
 "type": "Melee Weapon"
 },
@@ -2333,7 +2337,7 @@
 },
 {
 "name": "Kalphite Shell",
-"type": "Basic Item"
+"type": "Basic Material"
 },
 {
 "name": "Kalphite Shell Fragments",
@@ -2350,6 +2354,10 @@
 {
 "name": "Kot Pack",
 "type": "Container"
+},
+{
+"name": "KotHaar Numbering For Dummies",
+"type": "Basic Item"
 },
 {
 "name": "Kuldra's Head",
@@ -2718,6 +2726,10 @@
 {
 "name": "Mining Cape",
 "type": "Basic Item"
+},
+{
+"name": "Mirror Lens",
+"type": "Quest Item"
 },
 {
 "name": "Missing Letter",
@@ -3717,7 +3729,7 @@
 },
 {
 "name": "Queenslayer's Reward Pack",
-"type": "Resource"
+"type": "Container"
 },
 {
 "name": "Ram Horn",
@@ -4149,7 +4161,7 @@
 },
 {
 "name": "Salve Crystal",
-"type": "Quest Item"
+"type": "Basic Item"
 },
 {
 "name": "Sandstone",
@@ -5386,6 +5398,10 @@
 {
 "name": "Zamorakian Warrior Pack",
 "type": "Container"
+},
+{
+"name": "Zi's Core",
+"type": "Basic Item"
 },
 {
 "name": "Zogre Pack",

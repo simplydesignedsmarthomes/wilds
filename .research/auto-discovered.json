@@ -926,5 +926,21 @@
   "tierRank": null,
   "chest": "ammo",
   "note": ""
+ },
+ {
+  "name": "Glorious Cake",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Mirror Lens",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
  }
 ]

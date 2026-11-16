@@ -16,6 +16,10 @@
 "type": "Vestige"
 },
 {
+"name": "A Reel Downer Reward Pack",
+"type": "Container"
+},
+{
 "name": "A Simple Broken Bow",
 "type": "Vestige"
 },
@@ -178,6 +182,10 @@
 {
 "name": "Agility Cape",
 "type": "Basic Item"
+},
+{
+"name": "Agony Auntchovy",
+"type": "Tool"
 },
 {
 "name": "Air Rune",
@@ -396,6 +404,10 @@
 "type": "Vestige"
 },
 {
+"name": "Bawling Beltfish",
+"type": "Raw Ingredient"
+},
+{
 "name": "Beast-Training Notes",
 "type": "Quest Item"
 },
@@ -561,7 +573,7 @@
 },
 {
 "name": "Blue Dragon Scale Dust",
-"type": "Resource"
+"type": "Basic Material"
 },
 {
 "name": "Blue Dragonhide",
@@ -1129,7 +1141,7 @@
 },
 {
 "name": "Corrupted Essence Sample",
-"type": "Quest Item"
+"type": "Basic Item"
 },
 {
 "name": "Cracked Bronze Vanity Mirror",
@@ -1214,6 +1226,10 @@
 {
 "name": "Dented White Pauldron",
 "type": "Vestige"
+},
+{
+"name": "Depressed Desert Sole",
+"type": "Raw Ingredient"
 },
 {
 "name": "Desert Cloth",
@@ -1853,11 +1869,15 @@
 },
 {
 "name": "Glass Vessel",
-"type": "Component"
+"type": "Basic Item"
 },
 {
 "name": "Glazed Pumpkin Sandwich",
 "type": "Food"
+},
+{
+"name": "Glorious Cake",
+"type": "Quest Item"
 },
 {
 "name": "Goblin \"Swingslash\"",
@@ -2136,6 +2156,10 @@
 "type": "Quest Item"
 },
 {
+"name": "Inconsolable Catfish",
+"type": "Raw Ingredient"
+},
+{
 "name": "Infernal Fragment",
 "type": "Special Material"
 },
@@ -2333,7 +2357,7 @@
 },
 {
 "name": "Kalphite Shell",
-"type": "Basic Item"
+"type": "Basic Material"
 },
 {
 "name": "Kalphite Shell Fragments",
@@ -2350,6 +2374,10 @@
 {
 "name": "Kot Pack",
 "type": "Container"
+},
+{
+"name": "KotHaar Numbering For Dummies",
+"type": "Basic Item"
 },
 {
 "name": "Kuldra's Head",
@@ -2720,6 +2748,10 @@
 "type": "Basic Item"
 },
 {
+"name": "Mirror Lens",
+"type": "Quest Item"
+},
+{
 "name": "Missing Letter",
 "type": "Quest Item"
 },
@@ -2936,7 +2968,7 @@
 "type": "Basic Item"
 },
 {
-"name": "Naphtha",
+"name": "Naptha",
 "type": "Basic Item"
 },
 {
@@ -3344,6 +3376,10 @@
 "type": "Consumable"
 },
 {
+"name": "PLAN: Moon Garou Cushion 01",
+"type": "Consumable"
+},
+{
 "name": "PLAN: Open Wooden Barrel",
 "type": "Consumable"
 },
@@ -3628,7 +3664,15 @@
 "type": "Raw Ingredient"
 },
 {
+"name": "Pristine Bawling Beltfish",
+"type": "Raw Ingredient"
+},
+{
 "name": "Pristine Beltfish",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Depressed Desert Sole",
 "type": "Raw Ingredient"
 },
 {
@@ -3637,6 +3681,10 @@
 },
 {
 "name": "Pristine Herring",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Inconsolable Catfish",
 "type": "Raw Ingredient"
 },
 {
@@ -3657,6 +3705,10 @@
 },
 {
 "name": "Pristine Sardine",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Snivelling Sardine",
 "type": "Raw Ingredient"
 },
 {
@@ -3717,7 +3769,7 @@
 },
 {
 "name": "Queenslayer's Reward Pack",
-"type": "Resource"
+"type": "Container"
 },
 {
 "name": "Ram Horn",
@@ -4149,7 +4201,7 @@
 },
 {
 "name": "Salve Crystal",
-"type": "Quest Item"
+"type": "Basic Item"
 },
 {
 "name": "Sandstone",
@@ -4358,6 +4410,10 @@
 {
 "name": "Snapdragon Seeds",
 "type": "Seed"
+},
+{
+"name": "Snivelling Sardine",
+"type": "Raw Ingredient"
 },
 {
 "name": "Soda Ash",
@@ -5386,6 +5442,10 @@
 {
 "name": "Zamorakian Warrior Pack",
 "type": "Container"
+},
+{
+"name": "Zi's Core",
+"type": "Basic Item"
 },
 {
 "name": "Zogre Pack",

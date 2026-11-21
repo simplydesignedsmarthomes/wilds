@@ -926,5 +926,53 @@
   "tierRank": null,
   "chest": "ammo",
   "note": ""
+ },
+ {
+  "name": "Agony Auntchovy",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": ""
+ },
+ {
+  "name": "Glorious Cake",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "KGP Hat",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "armour",
+  "note": ""
+ },
+ {
+  "name": "Mirror Lens",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Pescaling Ring",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "jewellery",
+  "note": ""
+ },
+ {
+  "name": "Scrap Mired in Subterfuge",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
  }
 ]

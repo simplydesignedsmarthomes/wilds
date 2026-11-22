@@ -16,6 +16,10 @@
 "type": "Vestige"
 },
 {
+"name": "A Reel Downer Reward Pack",
+"type": "Container"
+},
+{
 "name": "A Simple Broken Bow",
 "type": "Vestige"
 },
@@ -178,6 +182,10 @@
 {
 "name": "Agility Cape",
 "type": "Basic Item"
+},
+{
+"name": "Agony Auntchovy",
+"type": "Tool"
 },
 {
 "name": "Air Rune",
@@ -396,6 +404,10 @@
 "type": "Vestige"
 },
 {
+"name": "Bawling Beltfish",
+"type": "Raw Ingredient"
+},
+{
 "name": "Beast-Training Notes",
 "type": "Quest Item"
 },
@@ -561,7 +573,7 @@
 },
 {
 "name": "Blue Dragon Scale Dust",
-"type": "Resource"
+"type": "Basic Material"
 },
 {
 "name": "Blue Dragonhide",
@@ -654,6 +666,14 @@
 {
 "name": "Bread",
 "type": "Food"
+},
+{
+"name": "Brine-Soaked Band",
+"type": "Vestige"
+},
+{
+"name": "Brine-Soaked Bauble",
+"type": "Vestige"
 },
 {
 "name": "Broken Titan's Wrath",
@@ -1108,6 +1128,10 @@
 "type": "Basic Material"
 },
 {
+"name": "Coral Nubbin",
+"type": "Vestige"
+},
+{
 "name": "Corpse Cotton",
 "type": "Basic Material"
 },
@@ -1129,7 +1153,7 @@
 },
 {
 "name": "Corrupted Essence Sample",
-"type": "Quest Item"
+"type": "Basic Item"
 },
 {
 "name": "Cracked Bronze Vanity Mirror",
@@ -1214,6 +1238,10 @@
 {
 "name": "Dented White Pauldron",
 "type": "Vestige"
+},
+{
+"name": "Depressed Desert Sole",
+"type": "Raw Ingredient"
 },
 {
 "name": "Desert Cloth",
@@ -1853,11 +1881,15 @@
 },
 {
 "name": "Glass Vessel",
-"type": "Component"
+"type": "Basic Item"
 },
 {
 "name": "Glazed Pumpkin Sandwich",
 "type": "Food"
+},
+{
+"name": "Glorious Cake",
+"type": "Quest Item"
 },
 {
 "name": "Goblin \"Swingslash\"",
@@ -2136,6 +2168,10 @@
 "type": "Quest Item"
 },
 {
+"name": "Inconsolable Catfish",
+"type": "Raw Ingredient"
+},
+{
 "name": "Infernal Fragment",
 "type": "Special Material"
 },
@@ -2312,6 +2348,10 @@
 "type": "Basic Item"
 },
 {
+"name": "KGP Hat",
+"type": "Melee Armour"
+},
+{
 "name": "Kalphite Bait",
 "type": "Tool"
 },
@@ -2333,7 +2373,7 @@
 },
 {
 "name": "Kalphite Shell",
-"type": "Basic Item"
+"type": "Basic Material"
 },
 {
 "name": "Kalphite Shell Fragments",
@@ -2350,6 +2390,10 @@
 {
 "name": "Kot Pack",
 "type": "Container"
+},
+{
+"name": "KotHaar Numbering For Dummies",
+"type": "Basic Item"
 },
 {
 "name": "Kuldra's Head",
@@ -2720,6 +2764,10 @@
 "type": "Basic Item"
 },
 {
+"name": "Mirror Lens",
+"type": "Quest Item"
+},
+{
 "name": "Missing Letter",
 "type": "Quest Item"
 },
@@ -2936,7 +2984,7 @@
 "type": "Basic Item"
 },
 {
-"name": "Naphtha",
+"name": "Naptha",
 "type": "Basic Item"
 },
 {
@@ -3176,6 +3224,14 @@
 "type": "Consumable"
 },
 {
+"name": "PLAN: Bronze Penguin Miniature",
+"type": "Plan"
+},
+{
+"name": "PLAN: Copper Penguin Miniature",
+"type": "Plan"
+},
+{
 "name": "PLAN: Dragonkin Gargoyle 01",
 "type": "Consumable"
 },
@@ -3268,6 +3324,10 @@
 "type": "Consumable"
 },
 {
+"name": "PLAN: Gold Penguin Miniature",
+"type": "Plan"
+},
+{
 "name": "PLAN: Grave 1",
 "type": "Consumable"
 },
@@ -3344,8 +3404,28 @@
 "type": "Consumable"
 },
 {
+"name": "PLAN: Moon Garou Cushion 01",
+"type": "Consumable"
+},
+{
 "name": "PLAN: Open Wooden Barrel",
 "type": "Consumable"
+},
+{
+"name": "PLAN: Penguin Decorative Coin",
+"type": "Plan"
+},
+{
+"name": "PLAN: Penguin Decorative Tapestry",
+"type": "Plan"
+},
+{
+"name": "PLAN: Penguin Statue 01",
+"type": "Plan"
+},
+{
+"name": "PLAN: Polar Bear Decorative Tapestry",
+"type": "Plan"
 },
 {
 "name": "PLAN: Potted Dwellberry Bush",
@@ -3416,6 +3496,10 @@
 "type": "Consumable"
 },
 {
+"name": "PLAN: Silver Penguin Miniature",
+"type": "Plan"
+},
+{
 "name": "PLAN: Spectral Book",
 "type": "Consumable"
 },
@@ -3428,8 +3512,32 @@
 "type": "Consumable"
 },
 {
+"name": "PLAN: Stone Penguin Miniature",
+"type": "Plan"
+},
+{
+"name": "PLAN: Suspicious Penguin Miniature 01",
+"type": "Plan"
+},
+{
+"name": "PLAN: Suspicious Penguin Miniature 02",
+"type": "Plan"
+},
+{
+"name": "PLAN: Suspicious Penguin Miniature 03",
+"type": "Plan"
+},
+{
+"name": "PLAN: Suspicious Penguin Miniature 04",
+"type": "Plan"
+},
+{
 "name": "PLAN: Textile Kit",
 "type": "Consumable"
+},
+{
+"name": "PLAN: Tin Penguin Miniature",
+"type": "Plan"
 },
 {
 "name": "PLAN: Vial Shelf",
@@ -3506,6 +3614,30 @@
 {
 "name": "Peach",
 "type": "Food"
+},
+{
+"name": "Penguin Body",
+"type": "Basic Item"
+},
+{
+"name": "Penguin Cape",
+"type": "Basic Item"
+},
+{
+"name": "Penguin Coin",
+"type": "Special Material"
+},
+{
+"name": "Penguin Helmet",
+"type": "Basic Item"
+},
+{
+"name": "Penguin Legs",
+"type": "Basic Item"
+},
+{
+"name": "Pescaling Ring",
+"type": "Trinket"
 },
 {
 "name": "Pharaoh's Sceptre",
@@ -3620,6 +3752,10 @@
 "type": "Seed"
 },
 {
+"name": "Prestigious Prototype",
+"type": "Vestige"
+},
+{
 "name": "Primordial Heart",
 "type": "Basic Material"
 },
@@ -3628,7 +3764,15 @@
 "type": "Raw Ingredient"
 },
 {
+"name": "Pristine Bawling Beltfish",
+"type": "Raw Ingredient"
+},
+{
 "name": "Pristine Beltfish",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Depressed Desert Sole",
 "type": "Raw Ingredient"
 },
 {
@@ -3637,6 +3781,10 @@
 },
 {
 "name": "Pristine Herring",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Inconsolable Catfish",
 "type": "Raw Ingredient"
 },
 {
@@ -3657,6 +3805,10 @@
 },
 {
 "name": "Pristine Sardine",
+"type": "Raw Ingredient"
+},
+{
+"name": "Pristine Snivelling Sardine",
 "type": "Raw Ingredient"
 },
 {
@@ -3717,7 +3869,7 @@
 },
 {
 "name": "Queenslayer's Reward Pack",
-"type": "Resource"
+"type": "Container"
 },
 {
 "name": "Ram Horn",
@@ -4149,7 +4301,7 @@
 },
 {
 "name": "Salve Crystal",
-"type": "Quest Item"
+"type": "Basic Item"
 },
 {
 "name": "Sandstone",
@@ -4186,6 +4338,10 @@
 {
 "name": "Scorch Leather",
 "type": "Processed Material"
+},
+{
+"name": "Scrap Mired in Subterfuge",
+"type": "Vestige"
 },
 {
 "name": "Scratchy Sackcloth",
@@ -4358,6 +4514,10 @@
 {
 "name": "Snapdragon Seeds",
 "type": "Seed"
+},
+{
+"name": "Snivelling Sardine",
+"type": "Raw Ingredient"
 },
 {
 "name": "Soda Ash",
@@ -4913,7 +5073,7 @@
 },
 {
 "name": "Tome of the Artisan - Vol 1",
-"type": "Resource"
+"type": "Tome"
 },
 {
 "name": "Tome of the Artisan - Vol 2",
@@ -4921,7 +5081,7 @@
 },
 {
 "name": "Tome of the Dragon Slayer",
-"type": "Resource"
+"type": "Tome"
 },
 {
 "name": "Tome of the Titan",
@@ -4937,6 +5097,10 @@
 },
 {
 "name": "Torn Tapestry",
+"type": "Vestige"
+},
+{
+"name": "Tuxedo Patch",
 "type": "Vestige"
 },
 {
@@ -5157,7 +5321,7 @@
 },
 {
 "name": "Whetstone",
-"type": "Basic Item"
+"type": "Consumable"
 },
 {
 "name": "Whispering Cape",
@@ -5386,6 +5550,10 @@
 {
 "name": "Zamorakian Warrior Pack",
 "type": "Container"
+},
+{
+"name": "Zi's Core",
+"type": "Basic Item"
 },
 {
 "name": "Zogre Pack",

@@ -102,7 +102,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Ash Shortbow",
-        "img": "https://dragonwilds.runescape.wiki/images/Ash_Shortbow_%28Journal%29.png?139a2",
+        "img": "https://dragonwilds.runescape.wiki/images/Ash_Shortbow.png?64f4d",
         "tier": "Ash",
         "tierRank": 0,
         "chest": "weapons",
@@ -135,7 +135,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Durability",
@@ -332,7 +332,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Durability",
@@ -440,7 +440,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Durability",
@@ -548,7 +548,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Durability",
@@ -915,11 +915,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1050"
+              "value": "1,050"
             },
             {
               "label": "Repair cost",
@@ -1016,7 +1016,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "42-73"
+              "value": "42 - 73"
             },
             {
               "label": "Attack combo",
@@ -1024,15 +1024,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "32.5"
+              "value": "39"
             },
             {
               "label": "Special action",
-              "value": "Whirlwind Slash"
+              "value": "Whirlwind Slash ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1050"
+              "value": "1,050"
             },
             {
               "label": "Weight",
@@ -1133,11 +1133,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1050"
+              "value": "1,050"
             },
             {
               "label": "Repair cost",
@@ -1242,11 +1242,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1050"
+              "value": "1,050"
             },
             {
               "label": "Repair cost",
@@ -1343,7 +1343,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "52-81"
+              "value": "52 - 82"
             },
             {
               "label": "Attack combo",
@@ -1351,15 +1351,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "32.5"
+              "value": "39"
             },
             {
               "label": "Special action",
-              "value": "Quake"
+              "value": "Quake ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1050"
+              "value": "1,050"
             },
             {
               "label": "Repair cost",
@@ -1625,7 +1625,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Oak Shortbow",
-        "img": "https://dragonwilds.runescape.wiki/images/Oak_Shortbow_%28Journal%29.png?ea62c",
+        "img": "https://dragonwilds.runescape.wiki/images/Oak_Shortbow.png?64f4d",
         "tier": "Oak",
         "tierRank": 1,
         "chest": "weapons",
@@ -1658,11 +1658,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Durability",
-              "value": "1050"
+              "value": "1,050"
             },
             {
               "label": "Repair cost",
@@ -1824,7 +1824,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Wooden Training Sword",
-        "img": "https://dragonwilds.runescape.wiki/images/Wooden_Training_Sword_%28Journal%29.png?69ca3",
+        "img": "https://dragonwilds.runescape.wiki/images/Wooden_Training_Sword.png?561ef",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -1865,7 +1865,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Durability",
@@ -1927,7 +1927,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Zombie Arm",
-        "img": "https://dragonwilds.runescape.wiki/images/Zombie_Arm_%28Journal%29.png?8d619",
+        "img": "https://dragonwilds.runescape.wiki/images/Zombie_Arm.png?40d83",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -1968,7 +1968,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Special effect",
@@ -2272,7 +2272,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Blightwood Shortbow",
-        "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Shortbow_%28Journal%29.png?d9801",
+        "img": "https://dragonwilds.runescape.wiki/images/Blightwood_Shortbow.png?64f4d",
         "tier": "Blightwood",
         "tierRank": 2,
         "chest": "weapons",
@@ -2305,11 +2305,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -2645,7 +2645,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Special effect",
@@ -2653,7 +2653,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -2952,11 +2952,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -3058,7 +3058,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "82-144"
+              "value": "82 - 144"
             },
             {
               "label": "Attack combo",
@@ -3066,15 +3066,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "40"
+              "value": "46"
             },
             {
               "label": "Special action",
-              "value": "Decimate"
+              "value": "Decimate ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -3172,7 +3172,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "62-107"
+              "value": "62 - 107"
             },
             {
               "label": "Attack combo",
@@ -3180,15 +3180,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "39.5"
+              "value": "46"
             },
             {
               "label": "Special action",
-              "value": "Whirlwind Slash"
+              "value": "Whirlwind Slash ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1, 300"
             },
             {
               "label": "Repair cost",
@@ -3298,11 +3298,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -3412,11 +3412,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -3518,7 +3518,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "76-119"
+              "value": "76 - 119"
             },
             {
               "label": "Attack combo",
@@ -3526,15 +3526,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "39.5"
+              "value": "49"
             },
             {
               "label": "Special action",
-              "value": "Quake"
+              "value": "Quake ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -3702,7 +3702,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Wild Scout's Shortbow",
-        "img": "https://dragonwilds.runescape.wiki/images/Wild_Scout%27s_Shortbow_%28Journal%29.png?4b1e9",
+        "img": "https://dragonwilds.runescape.wiki/images/Wild_Scout%27s_Shortbow.png?64f4d",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -3735,7 +3735,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Special effect",
@@ -3801,7 +3801,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The wild scout's shortbow is a power level 3 shortbow that can be crafted at a fletching bench. The recipe is learned from a dragonkin effigy in Takla Kara, the dragonkin vault in central Fractured Plains. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is 10% increased draw speed, making this weapon draw faster than other shortbows. This does not affect quick actions.\n\nThe crystal bow and the undead ranger's bow have slightly higher base damage at all power levels, but they are supposed to have much higher base damage than they do (the undead ranger's bow's special effect is supposed to be increased damage after all), but they fire slower, the crystal bow especially so. They also have the same durability, which means that as long as the crystal bow's shattershot is not being used, then this weapon is the ideal shortbow to ascend.\n\n(Journal)\nThere was magic once, in this bow, though it has mostly faded now. Runes were ground down and mixed with plant oils to create a special resin that allowed the Wild Knights to work their magic through the bow, as if they were carrying runes. That magic has faded and the recipe for the mixture is lost to the ages, but these bows are still formidable in their own right.\n\nWild Knights told tales of creatures that lived within the wilds of Ashenfall and that could not be felled by normal bows. Deer with hides that glistened with starlight, sheep with silver fleeces repelled all arrows. They claimed that these magically infused bows were the only ones capable of harming the creatures, though none ever returned with trophies to share."
+          "description": "The wild scout's shortbow is a power level 3 shortbow that can be crafted at a fletching bench. The recipe is learned from a dragonkin effigy in Takla Kara, the dragonkin vault in central Fractured Plains. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is 10% increased draw speed, making this weapon draw faster than other shortbows. This does not affect quick actions.\n\nWhile crystal bow and the undead ranger's bow have a higher base damage in equal power levels, the Wild Scout's draw time is still the fastest in-game, allowing it to do more damage over time compared to the crystal and undead ranger's bow. Sharing the same durability, it is suggested to ascend this bow if you wish to shoot arrows quicker.\n\n(Journal)\nThere was magic once, in this bow, though it has mostly faded now. Runes were ground down and mixed with plant oils to create a special resin that allowed the Wild Knights to work their magic through the bow, as if they were carrying runes. That magic has faded and the recipe for the mixture is lost to the ages, but these bows are still formidable in their own right.\n\nWild Knights told tales of creatures that lived within the wilds of Ashenfall and that could not be felled by normal bows. Deer with hides that glistened with starlight, sheep with silver fleeces repelled all arrows. They claimed that these magically infused bows were the only ones capable of harming the creatures, though none ever returned with trophies to share."
         },
         "stations": [
           "Fletching Bench"
@@ -3926,7 +3926,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Shadow Sword",
-        "img": "https://dragonwilds.runescape.wiki/images/Shadow_Sword_%28Journal%29.png?313de",
+        "img": "https://dragonwilds.runescape.wiki/images/Shadow_Sword.png?3a122",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -3967,7 +3967,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Whirlwind Slash"
+              "value": "Whirlwind Slash ( 33)"
             },
             {
               "label": "Special effect",
@@ -4206,7 +4206,7 @@ window.WILDS_STORAGE = [
               "materials": [
                 {
                   "name": "Hollow Bark",
-                  "qty": 6,
+                  "qty": 8,
                   "img": "https://dragonwilds.runescape.wiki/images/Hollow_Bark.png?c8573"
                 },
                 {
@@ -4474,11 +4474,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Weight",
@@ -4576,7 +4576,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "108-189"
+              "value": "108 - 189"
             },
             {
               "label": "Attack combo",
@@ -4584,15 +4584,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "39"
+              "value": "52"
             },
             {
               "label": "Special action",
-              "value": "Decimate"
+              "value": "Decimate ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Weight",
@@ -4690,7 +4690,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "81-140"
+              "value": "81 - 141"
             },
             {
               "label": "Attack combo",
@@ -4698,15 +4698,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "39"
+              "value": "52"
             },
             {
               "label": "Special action",
-              "value": "Whirlwind Slash"
+              "value": "Whirlwind Slash ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Weight",
@@ -4804,7 +4804,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "73-130"
+              "value": "73 - 130"
             },
             {
               "label": "Attack combo",
@@ -4812,15 +4812,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "26"
+              "value": "52"
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Weight",
@@ -4918,7 +4918,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "49-103"
+              "value": "49 - 103"
             },
             {
               "label": "Attack combo",
@@ -4926,11 +4926,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "26"
+              "value": "52"
             },
             {
               "label": "Special action",
-              "value": "Leaping Slash"
+              "value": "Leaping Slash ( 25)"
             },
             {
               "label": "Durability",
@@ -5039,11 +5039,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "59-108"
-            },
-            {
-              "label": "Critical chance",
-              "value": "0.02"
+              "value": "60 - 108"
             },
             {
               "label": "Attack combo",
@@ -5051,15 +5047,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "26"
+              "value": "52"
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Weight",
@@ -5157,7 +5153,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "100-157"
+              "value": "100 - 157"
             },
             {
               "label": "Attack combo",
@@ -5165,15 +5161,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "39"
+              "value": "52"
             },
             {
               "label": "Special action",
-              "value": "Quake"
+              "value": "Quake ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Weight",
@@ -5237,7 +5233,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Undead Ranger's Bow",
-        "img": "https://dragonwilds.runescape.wiki/images/Undead_Ranger%27s_Bow_%28journal%29.png?c5c8b",
+        "img": "https://dragonwilds.runescape.wiki/images/Undead_Ranger%27s_Bow.png?e4563",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -5270,7 +5266,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Special effect",
@@ -5341,7 +5337,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The undead ranger's bow is a power level 5 shortbow that can be crafted at a fletching bench. The recipe is learned from a dragonkin effigy in Skekven Kara, the dragonkin vault in eastern Fellhollow. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is listed as increased damage but reduced durability. The reduced durability works as this weapon has 1,050 compared to the willow shortbow's 1300, however it has the same damage, both listed and actual.\n\nIt fires faster but deals the same damage as the crystal bow, which also has shattershot. However, the wild scout's shortbow has 10% faster draw speed with only 1-5% lower damage, increasing with higher power levels, making it the ideal shortbow to ascend.\n\n(Journal)\nThere was a villager in Emberwood called Holtz, who was a master with the bow. He could shoot rats from across a field and never scored less than a bullseye whenever he aimed for an archery target. Yet he had no desire for warfare, and no matter the words of encouragement from the captain, he would never join the guard.\n\nFor him, archery was a passion, an art, never to be used against another person. A stance quickly forgotten by his shambling corpse."
+          "description": "The undead ranger's bow is a power level 5 shortbow that can be crafted at a fletching bench. The recipe is learned from a dragonkin effigy in Skekven Kara, the dragonkin vault in eastern Fellhollow. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is listed as increased damage but reduced durability. The reduced durability works as this weapon has 1,050 compared to the willow shortbow's 1300, however it has the same damage, both listed and actual.\n\n(Journal)\nThere was a villager in Emberwood called Holtz, who was a master with the bow. He could shoot rats from across a field and never scored less than a bullseye whenever he aimed for an archery target. Yet he had no desire for warfare, and no matter the words of encouragement from the captain, he would never join the guard.\n\nFor him, archery was a passion, an art, never to be used against another person. A stance quickly forgotten by his shambling corpse."
         },
         "stations": [
           "Fletching Bench"
@@ -5463,7 +5459,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Willow Shortbow",
-        "img": "https://dragonwilds.runescape.wiki/images/Willow_Shortbow_%28Journal%29.png?c15f0",
+        "img": "https://dragonwilds.runescape.wiki/images/Willow_Shortbow.png?5fe28",
         "tier": "Willow",
         "tierRank": 3,
         "chest": "weapons",
@@ -5496,11 +5492,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -5615,7 +5611,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Special effect",
@@ -5623,7 +5619,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -5692,7 +5688,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Zombie Axe",
-        "img": "https://dragonwilds.runescape.wiki/images/Zombie_Axe_%28Journal%29.png?2171e",
+        "img": "https://dragonwilds.runescape.wiki/images/Zombie_Axe.png?a86c5",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -5733,7 +5729,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Special effect",
@@ -5741,7 +5737,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -6032,7 +6028,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Maple Shortbow",
-        "img": "https://dragonwilds.runescape.wiki/images/Maple_Shortbow_%28Jounal%29.png?a1a62",
+        "img": "https://dragonwilds.runescape.wiki/images/Maple_Shortbow.png?3cf20",
         "tier": "Maple",
         "tierRank": 4,
         "chest": "weapons",
@@ -6065,11 +6061,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Repair cost",
@@ -6462,11 +6458,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -6560,7 +6556,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "136-238"
+              "value": "136 - 238"
             },
             {
               "label": "Attack combo",
@@ -6568,11 +6564,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "44"
+              "value": "59"
             },
             {
               "label": "Special action",
-              "value": "Decimate"
+              "value": "Decimate ( 50)"
             },
             {
               "label": "Durability",
@@ -6670,7 +6666,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "102-177"
+              "value": "102 - 177"
             },
             {
               "label": "Attack combo",
@@ -6678,15 +6674,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "44"
+              "value": "59"
             },
             {
               "label": "Special action",
-              "value": "Whirlwind Slash"
+              "value": "Whirlwind Slash ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -6780,7 +6776,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "92-163"
+              "value": "92 - 164"
             },
             {
               "label": "Attack combo",
@@ -6788,15 +6784,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "30"
+              "value": "59"
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -6890,7 +6886,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "61-129"
+              "value": "62 - 130"
             },
             {
               "label": "Attack combo",
@@ -6898,15 +6894,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "30"
+              "value": "59"
             },
             {
               "label": "Special action",
-              "value": "Leaping Slash"
+              "value": "Leaping Slash ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -7000,11 +6996,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "75-136"
-            },
-            {
-              "label": "Critical chance",
-              "value": "0.02"
+              "value": "75 - 136"
             },
             {
               "label": "Attack combo",
@@ -7012,15 +7004,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "30"
+              "value": "59"
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -7118,7 +7110,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "126-197"
+              "value": "126 - 198"
             },
             {
               "label": "Attack combo",
@@ -7126,15 +7118,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "44"
+              "value": "59"
             },
             {
               "label": "Special action",
-              "value": "Quake"
+              "value": "Quake ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -7763,11 +7755,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -7821,7 +7813,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The adamant dagger is a power level 7 one-handed melee weapon.\n\n(Journal)\nMoon Garou tradition gifts a young warrior with a blade when they reach adolescence. One of the elder family members takes an old weapon of theirs and melts it down, refining age, memories and experience into a new blade for the newest generation.\n\nIt is a great day of pride for a young warrior to be gifted their first blade, but a bittersweet for the old warriors as they give up the dreams of future battles, passing the torch to those who come after.\n\nAdamant, being the strongest metal that the Moon Garou can access, is believed to hold the strongest memories and those lucky youngsters that gain such a blade often find themselves elevated to positions of great respect and authority."
+          "description": "The adamant dagger is a power level 7 one-handed melee weapon that can be crafted on the Blacksmith's Bench after crafting Adamant Bar.\n\n(Journal)\nMoon Garou tradition gifts a young warrior with a blade when they reach adolescence. One of the elder family members takes an old weapon of theirs and melts it down, refining age, memories and experience into a new blade for the newest generation.\n\nIt is a great day of pride for a young warrior to be gifted their first blade, but a bittersweet for the old warriors as they give up the dreams of future battles, passing the torch to those who come after.\n\nAdamant, being the strongest metal that the Moon Garou can access, is believed to hold the strongest memories and those lucky youngsters that gain such a blade often find themselves elevated to positions of great respect and authority."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -7861,7 +7853,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "168-294"
+              "value": "166 - 291"
             },
             {
               "label": "Attack combo",
@@ -7869,15 +7861,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "44"
+              "value": "66"
             },
             {
               "label": "Special action",
-              "value": "Decimate"
+              "value": "Decimate ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -7971,7 +7963,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "126-219"
+              "value": "125 - 216"
             },
             {
               "label": "Attack combo",
@@ -7979,15 +7971,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "44"
+              "value": "66"
             },
             {
               "label": "Special action",
-              "value": "Whirlwind Slash"
+              "value": "Whirlwind Slash ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -8081,7 +8073,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "114-202"
+              "value": "113 - 200"
             },
             {
               "label": "Attack combo",
@@ -8089,15 +8081,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "30"
+              "value": "66"
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -8151,7 +8143,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The adamant mace is a power level 7 one-handed melee weapon.\n\n(Journal)\nThe first adamant mace was not, as you might expect, used for battle. Rather it was a rolling pin used by the ancient matriarch known only as The Crone – a name she chose for herself, thinking it quite funny.\n\nHer baking skills were so dire, that whatever she produced had the consistency of iron and was more durable than steel. So, she required a tool strong enough to fight back against her sturdy pastries. She commissioned a rolling pin of adamant metal, and she used it with great zeal to beat her baked goods into submission.\n\nThough teeth would still shatter against her scones, there was an artistry there that none could deny. So it was that more people would create adamant rolling pins, until an angry chef beat her rude husband to death with it, and the first true adamant mace was born.\n\nAfter that, Moon Garou would still favour an adamant rolling pin, but many a warrior would bring a mace into battle, just in case they were forced to face up against the crone’s pastries. Which happened more often than is reasonably explainable."
+          "description": "The adamant mace is a power level 7 one-handed melee weapon that can be crafted on the Blacksmith's Bench after crafting a Adamant Bar.\n\n(Journal)\nThe first adamant mace was not, as you might expect, used for battle. Rather it was a rolling pin used by the ancient matriarch known only as The Crone – a name she chose for herself, thinking it quite funny.\n\nHer baking skills were so dire, that whatever she produced had the consistency of iron and was more durable than steel. So, she required a tool strong enough to fight back against her sturdy pastries. She commissioned a rolling pin of adamant metal, and she used it with great zeal to beat her baked goods into submission.\n\nThough teeth would still shatter against her scones, there was an artistry there that none could deny. So it was that more people would create adamant rolling pins, until an angry chef beat her rude husband to death with it, and the first true adamant mace was born.\n\nAfter that, Moon Garou would still favour an adamant rolling pin, but many a warrior would bring a mace into battle, just in case they were forced to face up against the crone’s pastries. Which happened more often than is reasonably explainable."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -8191,7 +8183,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "76-160"
+              "value": "75 - 158"
             },
             {
               "label": "Attack combo",
@@ -8199,15 +8191,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "30"
+              "value": "66"
             },
             {
               "label": "Special action",
-              "value": "Leaping Slash"
+              "value": "Leaping Slash ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -8261,7 +8253,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The adamant scimitar is a power level 7 one-handed melee weapon.\n\n(Journal)\nWherever there is a sea, there are pirates, and the desert sands are a sea of sorts. A contingent of young Moon Garou once created a combination of rats, sails and a dash of magic, to create a sort of sand-ship, which they intended to use in acts of glorious buccaneering across the umbral desert.\n\nThey equipped themselves with scimitars of adamant, as it most closely resembled the cutlasses they’d heard about from human stories that had been stolen during the garou wars centuries past.\n\nWith eye-patches, golden teeth and an overzealous use of a particular consonant these youths set forth to become legends. Or they would, if their ship hadn’t immediately capsized and their mothers called them all back for tea."
+          "description": "The adamant scimitar is a power level 7 one-handed melee weapon that can be crafted on the Blacksmith's Bench after crafting a Adamant Bar.\n\n(Journal)\nWherever there is a sea, there are pirates, and the desert sands are a sea of sorts. A contingent of young Moon Garou once created a combination of rats, sails and a dash of magic, to create a sort of sand-ship, which they intended to use in acts of glorious buccaneering across the umbral desert.\n\nThey equipped themselves with scimitars of adamant, as it most closely resembled the cutlasses they’d heard about from human stories that had been stolen during the garou wars centuries past.\n\nWith eye-patches, golden teeth and an overzealous use of a particular consonant these youths set forth to become legends. Or they would, if their ship hadn’t immediately capsized and their mothers called them all back for tea."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -8301,11 +8293,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "93-168"
-            },
-            {
-              "label": "Critical chance",
-              "value": "?"
+              "value": "92 - 166"
             },
             {
               "label": "Attack combo",
@@ -8313,15 +8301,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "30"
+              "value": "66"
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -8379,7 +8367,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The adamant sword is a power level 7 one-handed melee weapon.\n\n(Journal)\nIt is said that the pen is mightier than the sword, but there are multiple examples where this is proven false. A pen cannot stop another blade. It cannot slay a monster. It can write strongly worded letters, but when have they ever worked?\n\nThe Moon Garou know the power of a good sword. They took the metal of the desert, with it’s green hue and unyielding nature and they turned it against the monsters of the sands. Beasts, great and powerful, fell to these weapons, entire legions of deadly creatures cut down in the dunes.\n\nMoon Garou poets carry a sword with them, because words can only cut so deep. For a lasting impression you need a very sharp edge."
+          "description": "The adamant sword is a power level 7 one-handed melee weapon that can be crafted on the Blacksmith's Bench after crafting a Adamant Bar.\n\n(Journal)\nIt is said that the pen is mightier than the sword, but there are multiple examples where this is proven false. A pen cannot stop another blade. It cannot slay a monster. It can write strongly worded letters, but when have they ever worked?\n\nThe Moon Garou know the power of a good sword. They took the metal of the desert, with it’s green hue and unyielding nature and they turned it against the monsters of the sands. Beasts, great and powerful, fell to these weapons, entire legions of deadly creatures cut down in the dunes.\n\nMoon Garou poets carry a sword with them, because words can only cut so deep. For a lasting impression you need a very sharp edge."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -8419,7 +8407,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "156-244"
+              "value": "154 - 241"
             },
             {
               "label": "Attack combo",
@@ -8427,15 +8415,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Block",
-              "value": "44"
+              "value": "66"
             },
             {
               "label": "Special action",
-              "value": "Quake"
+              "value": "Quake ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Weight",
@@ -8524,7 +8512,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "59 - 152"
+              "value": "59 - 150"
             },
             {
               "label": "Attack combo",
@@ -8544,7 +8532,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Repair cost",
@@ -8823,7 +8811,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Toktz-Xil-Ak",
-        "img": "https://dragonwilds.runescape.wiki/images/TOKTZ-XIL-AK_%28Journal%29.png?7299e",
+        "img": "https://dragonwilds.runescape.wiki/images/Toktz-Xil-Ak.png?30651",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -8864,11 +8852,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Special effect",
-              "value": "INCREASED chance of landing CRITICAL HITS Reduced DURABILITY"
+              "value": "* INCREASED chance of landing CRITICAL HITS * Reduced DURABILITY"
             },
             {
               "label": "Durability",
@@ -8936,7 +8924,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "TzHaar-Ket-Om",
-        "img": "https://dragonwilds.runescape.wiki/images/TZHAAR-KET-OM_%28Journal%29.png?d88d2",
+        "img": "https://dragonwilds.runescape.wiki/images/TzHaar-Ket-Om.png?d0383",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -8977,7 +8965,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Quake"
+              "value": "Quake ( 50)"
             },
             {
               "label": "Special effect",
@@ -9155,7 +9143,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Yew Shortbow",
-        "img": "https://dragonwilds.runescape.wiki/images/Yew_Shortbow_%28Journal%29.png?fa41b",
+        "img": "https://dragonwilds.runescape.wiki/images/Yew_Shortbow.png?122bd",
         "tier": "Yew",
         "tierRank": 5,
         "chest": "weapons",
@@ -9188,11 +9176,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Durability",
-              "value": "1300"
+              "value": "1,300"
             },
             {
               "label": "Repair cost",
@@ -9255,7 +9243,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Yew shortbow is a power level 7 ranged weapons\n\n(Journal)\nMoon Garou scouts scour the desert armed with these bows. The sands obscure much until you’re right on top of it and so these bows are often more useful than the longer ranged weapons, against the dangers of the desert.\n\nIn the camps, the eldest garou will often teach the young cubs how to handle a shortbow. They will have the youngsters unleash a volley of arrows at clay pots, straw dolls, or cacti, and help train them to fire with greater accuracy.\n\nMany of the young cubs will keep the shortbow with them as they grow into adulthood, using it as a decorative piece in their home -- a sign of a youth well spent, and a reminder that nothing lasts forever."
+          "description": "Yew shortbow is a power level 7 ranged weapons that can be crafted on the Fletching Bench, to unlock the recipe you will need Adamant Bar crafted.\n\n(Journal)\nMoon Garou scouts scour the desert armed with these bows. The sands obscure much until you’re right on top of it and so these bows are often more useful than the longer ranged weapons, against the dangers of the desert.\n\nIn the camps, the eldest garou will often teach the young cubs how to handle a shortbow. They will have the youngsters unleash a volley of arrows at clay pots, straw dolls, or cacti, and help train them to fire with greater accuracy.\n\nMany of the young cubs will keep the shortbow with them as they grow into adulthood, using it as a decorative piece in their home -- a sign of a youth well spent, and a reminder that nothing lasts forever."
         },
         "stations": [
           "Fletching Bench"
@@ -9546,7 +9534,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Black Greataxe",
-        "img": "https://dragonwilds.runescape.wiki/images/Black_Greataxe_%28Journal%29.png?a5540",
+        "img": "https://dragonwilds.runescape.wiki/images/Black_Greataxe.png?a1e03",
         "tier": "Black metal",
         "tierRank": 6,
         "chest": "weapons",
@@ -9587,7 +9575,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Decimate"
+              "value": "Decimate ( 50)"
             },
             {
               "label": "Special effect",
@@ -9664,7 +9652,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Black Sword",
-        "img": "https://dragonwilds.runescape.wiki/images/Black_Sword_%28Journal%29.png?33ff4",
+        "img": "https://dragonwilds.runescape.wiki/images/Black_Sword.png?e4949",
         "tier": "Black metal",
         "tierRank": 6,
         "chest": "weapons",
@@ -9705,7 +9693,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Special effect",
@@ -9889,7 +9877,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Magic Shortbow",
-        "img": "https://dragonwilds.runescape.wiki/images/Magic_Shortbow_%28Journal%29.png?78d70",
+        "img": "https://dragonwilds.runescape.wiki/images/Magic_Shortbow.png?78d70",
         "tier": "Magic",
         "tierRank": 6,
         "chest": "weapons",
@@ -9922,11 +9910,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Rapid fire"
+              "value": "Rapid fire ( 40)"
             },
             {
               "label": "Durability",
-              "value": "1900"
+              "value": "1,900"
             },
             {
               "label": "Weight",
@@ -9985,7 +9973,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Magic Shortbow is a power level 8 ranged weapon.\n\n(Journal)\nA warning for a very particularly kind of ranger: magic wood has a tendency to twinkle. Now, if you're the creed to hide in the shadows, then you might want to reconsider the magic shortbow. It is phenomenally accurate and a delight to use, but it doesn't half draw attention.\n\nOf course, you can embrace the problem. I remembers stories about The Glittering Assassin in Varrock. The last thing you would see before dying is something fabulous in your peripheral vision."
+          "description": "Magic Shortbow is a power level 8 ranged weapon that requires a Fletching Bench to craft. To unlock the recipe, players need to have craft a Rune Bar.\n\n(Journal)\nA warning for a very particularly kind of ranger: magic wood has a tendency to twinkle. Now, if you're the creed to hide in the shadows, then you might want to reconsider the magic shortbow. It is phenomenally accurate and a delight to use, but it doesn't half draw attention.\n\nOf course, you can embrace the problem. I remembers stories about The Glittering Assassin in Varrock. The last thing you would see before dying is something fabulous in your peripheral vision."
         },
         "stations": [
           "Fletching Bench"
@@ -10181,7 +10169,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Dagger",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Dagger_%28Journal%29.png?78d70",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Dagger.png?78d70",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "weapons",
@@ -10222,11 +10210,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1900"
+              "value": "1,900"
             },
             {
               "label": "Weight",
@@ -10280,7 +10268,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Rune Dagger is a power level 8 one-handed melee weapon.\n\n(Journal)\nKuldra's generals were prone to a spot of gallows humour. In the evenings, over a drink or two, they would argue about Kuldra's heads and which of them they would prefer to be killed by. Their tone would only be half-joking. They had all been in the presence of Kuldra when she was displeased, and saw the looks of those who had displeased her. They knew (from the expressions of the damned) which head caused the slowest, most painful death.\n\nThe poison head was the one they wished to avoid. They carried a rune dagger in their boots, in the event that they fell foul of it. It was better to die by one's own hand than perish by Kuldra's poison."
+          "description": "The Rune Dagger is a power level 8 one-handed melee weapon that can be crafted on the Blacksmith's Bench after crafting a Rune Bar.\n\n(Journal)\nKuldra's generals were prone to a spot of gallows humour. In the evenings, over a drink or two, they would argue about Kuldra's heads and which of them they would prefer to be killed by. Their tone would only be half-joking. They had all been in the presence of Kuldra when she was displeased, and saw the looks of those who had displeased her. They knew (from the expressions of the damned) which head caused the slowest, most painful death.\n\nThe poison head was the one they wished to avoid. They carried a rune dagger in their boots, in the event that they fell foul of it. It was better to die by one's own hand than perish by Kuldra's poison."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -10291,7 +10279,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Greataxe",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Greataxe_%28Journal%29.png?78d70",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Greataxe.png?034dd",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "weapons",
@@ -10320,7 +10308,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "196-343"
+              "value": "196 - 343"
             },
             {
               "label": "Attack combo",
@@ -10332,11 +10320,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Decimate"
+              "value": "Decimate ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1900"
+              "value": "1,900"
             },
             {
               "label": "Weight",
@@ -10401,7 +10389,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Greatsword",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Greatsword_%28Journal%29.png?034dd",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Greatsword.png?034dd",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "weapons",
@@ -10430,7 +10418,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "147-255"
+              "value": "147 - 255"
             },
             {
               "label": "Attack combo",
@@ -10442,11 +10430,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Whirlwind Slash"
+              "value": "Whirlwind Slash ( 3)"
             },
             {
               "label": "Durability",
-              "value": "1900"
+              "value": "1,900"
             },
             {
               "label": "Weight",
@@ -10511,7 +10499,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Mace",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Mace_%28Journal%29.png?034dd",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Mace.png?034dd",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "weapons",
@@ -10540,7 +10528,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "133-236"
+              "value": "133 - 236"
             },
             {
               "label": "Attack combo",
@@ -10552,11 +10540,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Durability",
-              "value": "1900"
+              "value": "1,900"
             },
             {
               "label": "Weight",
@@ -10610,7 +10598,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Rune Mace is a power level 8 one-handed melee weapon.\n\n(Journal)\nIt's not hard to see why a place in Kuldra's army was tempting for a goblin. Back in Brynmoor or Ghornfell, the diet was dirty water and rats. Your armour would be stolen from the weakest goblin you could find, and your weapon was likely to be a femur bone (with any luck, not your own) or a bronze sword that was more rust than bronze.\n\nIn Kuldra's army, it was entirely possible to be promoted to wield rune armour or weapons (Kuldra was at least wise enough to know that goblins shouldn't be given sharp weapons, so most of the time they would wield a mace). Goblins became, well, liabilities. They were used to whacking each other and doing barely any damage at all. It was culturally engrained to boff each other on the head as a kind of wake up call. But a rune mace would make that wake up call rather messy, and a playful thwack would lead to arms flying off."
+          "description": "The Rune Mace is a power level 8 one-handed melee weapon that can be crafted on the Blacksmith's Bench after crafting a Rune Bar.\n\n(Journal)\nIt's not hard to see why a place in Kuldra's army was tempting for a goblin. Back in Brynmoor or Ghornfell, the diet was dirty water and rats. Your armour would be stolen from the weakest goblin you could find, and your weapon was likely to be a femur bone (with any luck, not your own) or a bronze sword that was more rust than bronze.\n\nIn Kuldra's army, it was entirely possible to be promoted to wield rune armour or weapons (Kuldra was at least wise enough to know that goblins shouldn't be given sharp weapons, so most of the time they would wield a mace). Goblins became, well, liabilities. They were used to whacking each other and doing barely any damage at all. It was culturally engrained to boff each other on the head as a kind of wake up call. But a rune mace would make that wake up call rather messy, and a playful thwack would lead to arms flying off."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -10621,7 +10609,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Scimitar",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Scimitar_%28Journal%29.png?034dd",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Scimitar.png?034dd",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "weapons",
@@ -10650,7 +10638,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "89-187"
+              "value": "89 - 187"
             },
             {
               "label": "Attack combo",
@@ -10662,11 +10650,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Leaping Slash"
+              "value": "Leaping Slash ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1900"
+              "value": "1,900"
             },
             {
               "label": "Weight",
@@ -10720,7 +10708,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The rune scimitar is a power level 8 one-handed melee weapon that is crafted with a blacksmith's bench.\n\n(Journal)\nKuldra always liked the crescent shape of the scimitar. It reminded her of the moon goddess, in pieces within her belly. The curved scimitar shape recalled her claws.\n\nAs a result, the scimitar became the weapon of her most trusted warriors. They were her Talons - extensions of herself. Whenever a task required a swifter, more delicate touch, she would employ them. Her army would learn to fear being gutted by the Talons, almost as much as being gutted by Kuldra herself."
+          "description": "The rune scimitar is a power level 8 one-handed melee weapon that can be crafted on the blacksmith's bench once you craft a rune bar.\n\n(Journal)\nKuldra always liked the crescent shape of the scimitar. It reminded her of the moon goddess, in pieces within her belly. The curved scimitar shape recalled her claws.\n\nAs a result, the scimitar became the weapon of her most trusted warriors. They were her Talons - extensions of herself. Whenever a task required a swifter, more delicate touch, she would employ them. Her army would learn to fear being gutted by the Talons, almost as much as being gutted by Kuldra herself."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -10731,7 +10719,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Sword",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Sword_%28Journal%29.png?034dd",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Sword.png?034dd",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "weapons",
@@ -10760,7 +10748,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "108-196"
+              "value": "108 - 196"
             },
             {
               "label": "Attack combo",
@@ -10772,11 +10760,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Durability",
-              "value": "1900"
+              "value": "1,900"
             },
             {
               "label": "Weight",
@@ -10830,7 +10818,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The rune sword is a power level 8 one-handed melee weapon.\n\n(Journal)\nRunite is not readily available to everyone in Kuldra's army. Kuldra preferred that it - alongside magic wood - was reserved to the upper reaches of her army.\n\nIt is easy to look at her chaos of heads and think that she somehow represents disorder, but Kuldra instilled hierarchy in her troops. You needed to earn your place at the top of her troops, and she was consistent in what earned that place. You had to be inconspicuous enough to never draw her attention, and you needed to avoid anyone who might draw that attention. Suffer fools, and you suffer with them. Stand within metres of them, and you suffer even more dearly."
+          "description": "The rune sword is a power level 8 one-handed melee weapon that can be crafted on the Blacksmith's Bench after crafting a rune bar.\n\n(Journal)\nRunite is not readily available to everyone in Kuldra's army. Kuldra preferred that it - alongside magic wood - was reserved to the upper reaches of her army.\n\nIt is easy to look at her chaos of heads and think that she somehow represents disorder, but Kuldra instilled hierarchy in her troops. You needed to earn your place at the top of her troops, and she was consistent in what earned that place. You had to be inconspicuous enough to never draw her attention, and you needed to avoid anyone who might draw that attention. Suffer fools, and you suffer with them. Stand within metres of them, and you suffer even more dearly."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -10841,7 +10829,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Warhammer",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Warhammer_%28Journal%29.png?034dd",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Warhammer.png?f38b3",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "weapons",
@@ -10870,7 +10858,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "182-285"
+              "value": "182 - 285"
             },
             {
               "label": "Attack combo",
@@ -10882,11 +10870,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Quake"
+              "value": "Quake ( 50)"
             },
             {
               "label": "Durability",
-              "value": "1900"
+              "value": "1,900"
             },
             {
               "label": "Weight",
@@ -10946,7 +10934,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Abysmal Whip",
-        "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip_%28Journal%29.png?7a40d",
+        "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip.png?83615",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -11072,7 +11060,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Abyssal Whip",
-        "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip_%28Journal%29.png?07e9c",
+        "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Whip.png?eb679",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -11113,7 +11101,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Abyssal Snare"
+              "value": "Abyssal Snare ( 50)"
             },
             {
               "label": "Special effect",
@@ -11121,7 +11109,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1600"
+              "value": "1,600"
             },
             {
               "label": "Repair cost",
@@ -11402,7 +11390,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Lacerate"
+              "value": "Lacerate ( 25)"
             },
             {
               "label": "Durability",
@@ -11589,7 +11577,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Chieftain's Blade",
-        "img": "https://dragonwilds.runescape.wiki/images/Chieftain%27s_Blade_%28Journal%29.png?b480f",
+        "img": "https://dragonwilds.runescape.wiki/images/Chieftain%27s_Blade.png?561ef",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -11630,7 +11618,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Barge"
+              "value": "Barge ( 25)"
             },
             {
               "label": "Special effect",
@@ -11638,7 +11626,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1050"
+              "value": "1,050"
             },
             {
               "label": "Repair cost",
@@ -11706,7 +11694,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Crystal Bow",
-        "img": "https://dragonwilds.runescape.wiki/images/Crystal_Bow_%28Journal%29.png?7a283",
+        "img": "https://dragonwilds.runescape.wiki/images/Crystal_Bow.png?789d1",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -11739,7 +11727,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Shattershot"
+              "value": "Shattershot ( 50)"
+            },
+            {
+              "label": "Special effect",
+              "value": "* SHATTERSHOT Fire a CRYSTAL ARROW that shatters, dealing DAMAGE in a cone and DETONATING after a short delay. * LOVE'S BITE Enemies hit by SPECIAL ATTACKS cause CRYSTALS to detonate inside them after a short delay, dealing additional DAMAGE. * INCREASED DRAW TIME"
             },
             {
               "label": "Durability",
@@ -11811,7 +11803,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The crystal bow is a power level 3 masterwork shortbow that can be obtained (as well as its crafting recipe) as a reward from the Heartstrings quest. It can then be crafted at a fletching bench. It can be ascended at the mystic forge using ascension cores.\n\nIts special attack is called Shattershot, costing 43 stamina and shoots an area-of-effect cone of arrows a short distance that deals one third of the weapon's base damage to every target hit. Each target hit is stuck with crystal needles that explode after a short time for a set 50 damage. More needles can be stacked before the previous set explodes. This special attack does not require arrows to fire and can penetrate solid objects.\n\nThis weapon fires slightly slower than other shortbows despite dealing very similar damage when at the same power level, even when compared to the undead ranger's bow which is supposed to have increased damage as its special effect. This weapon has the same durability as the other ascendable shortbows, which makes the wild scout's shortbow with its 10% faster draw speed the ideal choice of shortbow to ascend if not using shattershot.\n\n(Journal)\nA Crystal Bow is not crafted but sung into existence. Harmonies are layered over one another to teach the weapon a story so that it might understand why it needs to be strong. Traditionally, the songs that are sung are of the plight of the elves, their loneliness without their goddess, and the many dangers they must face.\n\nThe shimmering substance they're made from is traditionally a shard of the elven goddess Seren, left behind when her crystal form shattered at the end of the Third Age God Wars.\n\nThis bow isn't of the same material, and the song is different, too. There's no divine essence in the crystal, no lament of the elves. Instead, it is sung memories of a lifetime together, distilled down into facets reflecting in the crystalline flaws. In the moonlight, those facets sparkle like tiny stars held within glass - moments of hardship, conflicts, happinessmissing serial comma and grief.\n\nIt is music as a weapon, with memory as its handle and sorrow as its string."
+          "description": "The crystal bow is a power level 3 masterwork shortbow that can be obtained (as well as its crafting recipe) as a reward from the Heartstrings quest. It can then be crafted at a fletching bench. It can be ascended at the mystic forge using ascension cores.\n\nIts special attack is called Shattershot, costing 50 stamina and shoots an area-of-effect cone of arrows a short distance that deals one third of the weapon's base damage to every target hit. Each target hit is stuck with crystal needles that explode after a short time for a set 50 damage. More needles can be stacked before the previous set explodes. This special attack does not require arrows to fire and can penetrate solid objects.\n\nThis weapon draw time is 1 second slower than other shortbows, but at the same power level it deals more damage, only being underperformed by the Undead Ranger's Bow in base damage.\n\n(Journal)\nA Crystal Bow is not crafted but sung into existence. Harmonies are layered over one another to teach the weapon a story so that it might understand why it needs to be strong. Traditionally, the songs that are sung are of the plight of the elves, their loneliness without their goddess, and the many dangers they must face.\n\nThe shimmering substance they're made from is traditionally a shard of the elven goddess Seren, left behind when her crystal form shattered at the end of the Third Age God Wars.\n\nThis bow isn't of the same material, and the song is different, too. There's no divine essence in the crystal, no lament of the elves. Instead, it is sung memories of a lifetime together, distilled down into facets reflecting in the crystalline flaws. In the moonlight, those facets sparkle like tiny stars held within glass - moments of hardship, conflicts, happinessmissing serial comma and grief.\n\nIt is music as a weapon, with memory as its handle and sorrow as its string."
         },
         "stations": [
           "Fletching Bench"
@@ -12129,7 +12121,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Dragon Scimitar",
-        "img": "https://dragonwilds.runescape.wiki/images/Dragon_Scimitar_%28Journal%29.png?571f2",
+        "img": "https://dragonwilds.runescape.wiki/images/Dragon_Scimitar.png?571f2",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -12170,7 +12162,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Leaping Slash"
+              "value": "Leaping Slash ( 25)"
             },
             {
               "label": "Special effect",
@@ -12200,7 +12192,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "The dragon scimitar is a Power level 9 weapon that can be received after completing the Scorned Wilderness raid and opening the Queenslayer's Reward Pack. Unlike many other weapons in the game, this scimitar is both uncraftable and has a passive full durability.\n\n(Journal)\nDragon metal is not, as the name might imply, made of dragons. Well, not directly. It's a composite of a material called orikalkum (or orichalcum, depending on whether you prefer to use the dwarven spelling) and drakolith, which no longer resides on Ashenfall. The dragonkin, notably Brakka, exhausted whatever deposits were left on the island.\n\nOnce an alloy has been formed by these two materials, it needs to be forged in dragonfire. That, unlike drakolith, was in abundance on Ashenfall. The result was dragon metal, and Brakka could make precious little of it. There was enough to make a throne, perhaps, or a motherlode maw. Realistically, Brakka couldn't use the metal to make much of material use, so he a forged small armoury of kiteshields, scimitars and crossbows. If the dragonkin were to ever be threatened, then they would at least have the best weapons on Ashenfall to respond."
+          "description": "The dragon scimitar is a Power level 9 weapon that can be received after completing the Scorned Wilderness raid and opening the Queenslayer's Reward Pack, which can be gained after completing Regicide quest.\n\nUnlike many other weapons in the game, this one is both uncraftable and has a passive full durability, meaning it does not degrade. This weapon also has a special effect where it deals increased damage against all kinds of dragons, making it the best option to use against dragon enemies and bosses.\n\n(Journal)\nDragon metal is not, as the name might imply, made of dragons. Well, not directly. It's a composite of a material called orikalkum (or orichalcum, depending on whether you prefer to use the dwarven spelling) and drakolith, which no longer resides on Ashenfall. The dragonkin, notably Brakka, exhausted whatever deposits were left on the island.\n\nOnce an alloy has been formed by these two materials, it needs to be forged in dragonfire. That, unlike drakolith, was in abundance on Ashenfall. The result was dragon metal, and Brakka could make precious little of it. There was enough to make a throne, perhaps, or a motherlode maw. Realistically, Brakka couldn't use the metal to make much of material use, so he a forged small armoury of kiteshields, scimitars and crossbows. If the dragonkin were to ever be threatened, then they would at least have the best weapons on Ashenfall to respond."
         },
         "step": 7,
         "band": 0,
@@ -12208,7 +12200,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Goblin \"Swingslash\"",
-        "img": "https://dragonwilds.runescape.wiki/images/Goblin_%22Swingslash%22_%28Journal%29.png?012f5",
+        "img": "https://dragonwilds.runescape.wiki/images/Goblin_%22Swingslash%22.png?240ee",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -12237,7 +12229,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "28 - 50"
+              "value": "29 - 51"
             },
             {
               "label": "Attack combo",
@@ -12249,7 +12241,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Special effect",
@@ -12314,7 +12306,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The goblin \"Swingslash\" is a power level 2 one-handed melee weapon that can be crafted at a crafting table. The recipe is learned by consuming a cruel goblin blade, received as a random drop from a goblin pack; the drop chance for this vestige is 2%.\n\nDespite having slash in the name, this weapon deals crush damage and uses the mace attack style. It has slightly higher base damage but the same durability as the bone club, despite listing a special effect of -15% durability.\n\nIt can be ascended at the mystic forge using ascension cores, but the base damage doesn't scale properly: the power level 2 goblin \"swingslash\" has 11-12% higher base damage than the power level 2 bone club's 26 - 46, but the power level 7 goblin \"swingslash\" only has ~1% higher base damage than the power level 7 adamant mace's 114 - 202).\n\n(Journal)\nContrary to popular belief, a goblin is as smart as any other species. It was Bandos that instilled within them the notion that intelligence was a sin, and demonstrating your education was something to be discouraged. As a result, goblins often go out of their way to make themselves seem less intelligent than they really are.\n\nHence \"swingslash\", the name given to this axe because of how it swings through the air, slashing anything it hits. It's so reductive and silly, it can only be an overcorrection, a desperate attempt by the creator to seem dumber than they are.\n\nYou can ignore, therefore the curve of the blade and the sharpness of the edge, created by carefully thought-out techniques that make the weapon deadlier than those before them. The name, chosen by the blacksmith, so none might accuse them of the crime of being smart."
+          "description": "The goblin \"Swingslash\" is a power level 2 one-handed melee weapon that can be crafted at a crafting table. The recipe is learned by consuming a cruel goblin blade, received as a random drop from a goblin pack; the drop chance for this vestige is 2%.\n\nIt can be ascended at the mystic forge using Ascension Core 4\n\n(Journal)\nContrary to popular belief, a goblin is as smart as any other species. It was Bandos that instilled within them the notion that intelligence was a sin, and demonstrating your education was something to be discouraged. As a result, goblins often go out of their way to make themselves seem less intelligent than they really are.\n\nHence \"swingslash\", the name given to this axe because of how it swings through the air, slashing anything it hits. It's so reductive and silly, it can only be an overcorrection, a desperate attempt by the creator to seem dumber than they are.\n\nYou can ignore, therefore the curve of the blade and the sharpness of the edge, created by carefully thought-out techniques that make the weapon deadlier than those before them. The name, chosen by the blacksmith, so none might accuse them of the crime of being smart."
         },
         "stations": [
           "Crafting Table"
@@ -12325,7 +12317,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Granite Maul",
-        "img": "https://dragonwilds.runescape.wiki/images/Granite_Maul_%28Journal%29.png?d46ad",
+        "img": "https://dragonwilds.runescape.wiki/images/Granite_Maul.png?789d1",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -12366,7 +12358,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Battering Ram"
+              "value": "Battering Ram ( 25)"
             },
             {
               "label": "Special effect",
@@ -12672,7 +12664,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Imaru's Talon",
-        "img": "https://dragonwilds.runescape.wiki/images/Imaru%27s_Talon_%28Journal%29.png?c78e4",
+        "img": "https://dragonwilds.runescape.wiki/images/Imaru%27s_Talon.png?13310",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -12713,7 +12705,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Leaping Slash"
+              "value": "Leaping Slash ( 25)"
             },
             {
               "label": "Special effect",
@@ -12966,14 +12958,14 @@ window.WILDS_STORAGE = [
                 "qty": 1,
                 "img": "https://dragonwilds.runescape.wiki/images/Pharaoh%27s_Sceptre.png?c2d6b"
               },
-              "unlock": "Icthlarian Fetish"
+              "unlock": ""
             }
           ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The pharaoh's sceptre is a power level 7 staff that can be crafted at a mystic forge. The recipe is learned from the Icthlarian fetish, the reward from the quest Contact!. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is Royal Mandate: While holding the Sceptre, the wielder is able to use the Confuse spell without consuming runes. Its special action is Sworn Servant: This summons Buddy, a friendly kalphite to attack and distract enemies in combat. Buddy can be used for up to 3 minutes as long as it is still alive, and will take another five minutes for it to respawn when recasting the sceptre's special action. However, due to Hollow Vessel, while Buddy is active, the wielder regains stamina much slower (90% slower than normal). Fighting while Buddy is out can be dangerous due to the lack of stamina regen.\n\nBug: There is currently a bug where Buddy will not respawn, or spawn in a online world.\n\n(Journal)\nThe Moon Garou tried the whole Pharaoh concept exactly once. Unused to non-violent systems of government, they gathered together as a people and pulled stones from a bag to decide who was the luckiest of all of them, and therefore who deserved to rule.\n\nIt was, as you can imagine, not a smart system of governance.\n\nThe winner was a garou called Hakanaten, and he did not want the job. He had always been an outsider, far more interested with the goings on of the nearby Kalphite hives then he was with the goings on of the city. Still, he had been chosen by an assumption of destiny and was set upon a throne with crown and sceptre in hand.\n\nHe hated it. He made decisions as best he could, but could never please everyone. If he tried to help one person, it angered another. If he cast judgement on a lawbreaker, he was deemed cruel by some and weak by others. No matter what he tried, he only found himself more and more isolated from his kin.\n\nIn the end a revolt saw him deposed and the throne destroyed. He was cast into the hive he so adored, where he was expected not to live for long. Yet, he had studied the hive and he could mimic their behaviours better than some of his own people’s. He helped them dig tunnels. He joined them on hunts. He lived a life far happier among the hive then he ever did at home.\n\nThe sceptre, that had been cast down with him, carries with it a measure of his fondness for the insects. It is said that anyone who wields it, can call on the hive for aid, in memory of an unlucky monarch."
+          "description": "The pharaoh's sceptre is a power level 7 staff that can be crafted at a mystic forge. The recipe is learned after completing the quest Contact!. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is Royal Mandate: While holding the Sceptre, the wielder is able to use the Confuse spell without consuming runes. Its special action is Sworn Servant: This summons Buddy, a friendly kalphite to attack and distract enemies in combat. Buddy can be used for up to 3 minutes as long as it is still alive, and will take another five minutes for it to respawn when recasting the sceptre's special action. However, due to Hollow Vessel, while Buddy is active, the wielder regains stamina much slower (90% slower than normal). Fighting while Buddy is out can be dangerous due to the lack of stamina regen.\n\nBug: There is currently a bug where Buddy will not respawn, or spawn in a online world.\n\n(Journal)\nThe Moon Garou tried the whole Pharaoh concept exactly once. Unused to non-violent systems of government, they gathered together as a people and pulled stones from a bag to decide who was the luckiest of all of them, and therefore who deserved to rule.\n\nIt was, as you can imagine, not a smart system of governance.\n\nThe winner was a garou called Hakanaten, and he did not want the job. He had always been an outsider, far more interested with the goings on of the nearby Kalphite hives then he was with the goings on of the city. Still, he had been chosen by an assumption of destiny and was set upon a throne with crown and sceptre in hand.\n\nHe hated it. He made decisions as best he could, but could never please everyone. If he tried to help one person, it angered another. If he cast judgement on a lawbreaker, he was deemed cruel by some and weak by others. No matter what he tried, he only found himself more and more isolated from his kin.\n\nIn the end a revolt saw him deposed and the throne destroyed. He was cast into the hive he so adored, where he was expected not to live for long. Yet, he had studied the hive and he could mimic their behaviours better than some of his own people’s. He helped them dig tunnels. He joined them on hunts. He lived a life far happier among the hive then he ever did at home.\n\nThe sceptre, that had been cast down with him, carries with it a measure of his fondness for the insects. It is said that anyone who wields it, can call on the hive for aid, in memory of an unlucky monarch."
         },
         "stations": [
           "Mystic Forge"
@@ -12984,7 +12976,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Skullsplitter",
-        "img": "https://dragonwilds.runescape.wiki/images/Skullsplitter_%28Journal%29.png?38cc5",
+        "img": "https://dragonwilds.runescape.wiki/images/Skullsplitter.png?240ee",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -13025,7 +13017,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special action",
-              "value": "Block Breaker"
+              "value": "Block Breaker ( 33)"
             },
             {
               "label": "Special effect",
@@ -13033,7 +13025,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1050"
+              "value": "1,050"
             },
             {
               "label": "Repair cost",
@@ -13221,7 +13213,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Thane's Authority",
-        "img": "https://dragonwilds.runescape.wiki/images/Thane%27s_Authority_%28Journal%29.png?a903d",
+        "img": "https://dragonwilds.runescape.wiki/images/Thane%27s_Authority.png?240ee",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -13339,7 +13331,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Titan's Wrath",
-        "img": "https://dragonwilds.runescape.wiki/images/Titan%27s_Wrath_%28Journal%29.png?2ff9e",
+        "img": "https://dragonwilds.runescape.wiki/images/Titan%27s_Wrath.png?2510a",
         "tier": "",
         "tierRank": null,
         "chest": "weapons",
@@ -14456,7 +14448,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "The anti-dragon shield is a power level 3 masterwork shield that can be crafted at a blacksmith's bench after obtaining the recipe from Vertentis Kara, the dragonkin vault in the Whispering Swamp. It is also one of the rewards for completing the Dragon Slayer quest, and is used as a material to craft the dragonblight shield, dragoncurse shield and the dragonfire shield. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect allows the user to block incoming dragon fire without being staggered. This includes the sweeping breath attack that all dragons perform, as well as the poison spit from green dragons, the spinning fire from Imaru, the lightning ball from blue dragons, and the fireball from red dragons and Fuzan. This does not include any ground-based effects like Velgar's poison breath/barrage and earth spikes, Imaru's wither projectiles and spikes, and Fuzan's lava floor. Notably, despite not being listed, this special effect is also present on the dragonblight shield and dragoncurse shield but not on the dragonfire shield.\n\nAll of that being said, Tempest Shield will block all incoming damage (excluding any ground-based attacks), including the projectiles and spikes that weren't blockable even with the special effect, and that is available even with two-handed weapons. Otherwise, all vestige and masterwork shields can be ascended to the highest power level and will have the same block value, with the exception of the fallen hoplite's aspis which has 3 more and the toktz-ket-xil which has 6 less. Therefore, the optimal shield choice will come down to their special effects, and this shield may often be chosen as it can block dragonfire but will not interfere with staggers caused by parries, unlike the other dragon shields.\n\n(Journal)\nIt is uncertain who first crafted the Anti-dragonfire shield. The dwarves claim the honour, as do several human blacksmiths. The goblins tried to take the credit, but their smithing techniques were not nearly refined enough to be believed. The aviansie might have been capable of such a feat, but if they did craft the shield, they never said.\n\nThe aviansie that did visit Ashenfall only stayed in Brynmoor for a short time. They disappeared deeper into the continent, never to be heard from again.\n\nThe Anti-dragonfire shield is a formidable defence, surpassing the strength of iron, and capable of withstanding a dragon's lethal breath. Its previous owner, hopeful it could be a weapon against Velgar, was proven wrong.\n\nOnly the most powerful individuals can hope to wield such an object. Yet, even so, it is said that the shield can be improved by combining it with the essence of a dragon, gaining it some of the fury of the legendary beast."
+          "description": "The anti-dragon shield is a power level 3 masterwork shield that can be crafted at a blacksmith's bench after obtaining the recipe from Vertentis Kara, the dragonkin vault in the Whispering Swamp. It is also one of the rewards for completing the Dragon Slayer quest, and is used as a material to craft the dragonblight shield, dragoncurse shield and the dragonfire shield. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect allows the user to block incoming dragon fire without being staggered. This includes the sweeping breath attack that all dragons perform, as well as the poison spit from green dragons, the spinning fire from Imaru, the lightning ball from blue dragons, and the fireball from red dragons and Fuzan. This does not include any ground-based effects like Velgar's poison breath/barrage and earth spikes, Imaru's wither projectiles and spikes, and Fuzan's lava floor.\n\nWith that being said, Tempest Shield can also block all incoming damage (excluding any ground-based attacks), including the projectiles and spikes that weren't blockable even with the special effect, and that is available even with two-handed weapons.\n\n(Journal)\nIt is uncertain who first crafted the Anti-dragonfire shield. The dwarves claim the honour, as do several human blacksmiths. The goblins tried to take the credit, but their smithing techniques were not nearly refined enough to be believed. The aviansie might have been capable of such a feat, but if they did craft the shield, they never said.\n\nThe aviansie that did visit Ashenfall only stayed in Brynmoor for a short time. They disappeared deeper into the continent, never to be heard from again.\n\nThe Anti-dragonfire shield is a formidable defence, surpassing the strength of iron, and capable of withstanding a dragon's lethal breath. Its previous owner, hopeful it could be a weapon against Velgar, was proven wrong.\n\nOnly the most powerful individuals can hope to wield such an object. Yet, even so, it is said that the shield can be improved by combining it with the essence of a dragon, gaining it some of the fury of the legendary beast."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -15151,15 +15143,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "17"
+              "value": "+17"
             },
             {
               "label": "Ranged defence",
-              "value": "21"
+              "value": "+21"
             },
             {
               "label": "Magic defence",
-              "value": "17"
+              "value": "+17"
             },
             {
               "label": "Set bonus 1",
@@ -15260,15 +15252,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "10"
+              "value": "+10"
             },
             {
               "label": "Ranged defence",
-              "value": "12"
+              "value": "+12"
             },
             {
               "label": "Magic defence",
-              "value": "10"
+              "value": "+10"
             },
             {
               "label": "Set bonus 1",
@@ -15369,15 +15361,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "7"
+              "value": "+7"
             },
             {
               "label": "Ranged defence",
-              "value": "8"
+              "value": "+8"
             },
             {
               "label": "Magic defence",
-              "value": "7"
+              "value": "+7"
             },
             {
               "label": "Set bonus 1",
@@ -15578,15 +15570,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "18"
+              "value": "+18"
             },
             {
               "label": "Ranged defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Magic defence",
-              "value": "14"
+              "value": "+14"
             },
             {
               "label": "Set bonus 1",
@@ -15602,7 +15594,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1400"
+              "value": "1500"
             },
             {
               "label": "Repair cost",
@@ -15692,15 +15684,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "12"
+              "value": "+12"
             },
             {
               "label": "Ranged defence",
-              "value": "10"
+              "value": "+10"
             },
             {
               "label": "Magic defence",
-              "value": "9"
+              "value": "+9"
             },
             {
               "label": "Set bonus 1",
@@ -15716,7 +15708,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1400"
+              "value": "1500"
             },
             {
               "label": "Repair cost",
@@ -15806,15 +15798,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "30"
+              "value": "+30"
             },
             {
               "label": "Ranged defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Magic defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Set bonus 1",
@@ -16177,15 +16169,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "6"
+              "value": "+6"
             },
             {
               "label": "Ranged defence",
-              "value": "7"
+              "value": "+7"
             },
             {
               "label": "Magic defence",
-              "value": "9"
+              "value": "+9"
             },
             {
               "label": "Set bonus 1",
@@ -16254,7 +16246,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Wizard hat is a power level 3 magic armour that can be crafted at an armour bench. Unlocked via acquiring rough cloth.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nOn Ashenfall, it was rare for those wearing these robes to be seen outside the Wizard's Guild. The structure on the hillside was home to strange practices and even stranger experiments. Powerful spells were studied and unleashed across an already magically problematic countryside.\n\nThe White Knights, often summoned to address the perils that the Wizard's Guild inadvertently unleashed, were a frequent presence. Their duties ranged from quelling peculiar weather phenomena to managing the \"accidental\" summoning of demons. To maintain control, a contingent of knights established a permanent residence within the guild, their vigilant eyes ever watchful."
+          "description": "A wizard hat is a power level 3 magic armour that can be crafted at an armour bench. Creating the wizard hat is unlocked by acquiring rough cloth in their inventory for the first time.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nOn Ashenfall, it was rare for those wearing these robes to be seen outside the Wizard's Guild. The structure on the hillside was home to strange practices and even stranger experiments. Powerful spells were studied and unleashed across an already magically problematic countryside.\n\nThe White Knights, often summoned to address the perils that the Wizard's Guild inadvertently unleashed, were a frequent presence. Their duties ranged from quelling peculiar weather phenomena to managing the \"accidental\" summoning of demons. To maintain control, a contingent of knights established a permanent residence within the guild, their vigilant eyes ever watchful."
         },
         "stations": [
           "Armour Bench"
@@ -16286,15 +16278,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "9"
+              "value": "+9"
             },
             {
               "label": "Ranged defence",
-              "value": "10"
+              "value": "+10"
             },
             {
               "label": "Magic defence",
-              "value": "4"
+              "value": "+4"
             },
             {
               "label": "Set bonus 1",
@@ -16363,7 +16355,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Wizard robe legs are a power level 3 magic armour that can be crafted at an armour bench. Unlocked via acquiring rough cloth.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nAll documents have been expunged of the events that came to be known as the Day of Purple Feathers. No wizard or knight will speak of what occurred. However, villagers soon learned that squawking like a chicken would send both knight and wizard into unexplained panic.\n\nFor some reason, the egg deliveries to the Wizard's Guild were cancelled around the same time."
+          "description": "Wizard robe legs are a power level 3 magic armour that can be crafted at an armour bench. Creating the wizard robe legs is unlocked by acquiring rough cloth in their inventory for the first time.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nAll documents have been expunged of the events that came to be known as the Day of Purple Feathers. No wizard or knight will speak of what occurred. However, villagers soon learned that squawking like a chicken would send both knight and wizard into unexplained panic.\n\nFor some reason, the egg deliveries to the Wizard's Guild were cancelled around the same time."
         },
         "stations": [
           "Armour Bench"
@@ -16395,15 +16387,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Ranged defence",
-              "value": "17"
+              "value": "+17"
             },
             {
               "label": "Magic defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Set bonus 1",
@@ -16472,7 +16464,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Wizard robes are a power level 3 magic armour that can be crafted at an armour bench. Unlocked via acquiring rough cloth.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nDespite the antagonistic intentions of the White Knights' arrival in the Wizard’s Guild, the two factions got along well. Apprentices would often prank low-ranked knights, using small spells to make them appear foolish. The knights would respond with more practical reprisals, which led to an escalation of shenanigans until the highest-ranking members of both orders got involved. Then things really got out of hand."
+          "description": "Wizard robes are a power level 3 magic armour that can be crafted at an armour bench. Creating the wizard robe legs is unlocked by acquiring rough cloth in their inventory for the first time.\n\n(Journal)\nThese blue robes are the signature clothing worn by every respectable mage. Apprentices look forward to the day they first wear these, as it shows they have graduated to full wizard status. The Wizard's Tower, in particular, uses these robes as a uniform, signifying their magical power and fealty to the god of order, Saradomin.\n\nDespite the antagonistic intentions of the White Knights' arrival in the Wizard’s Guild, the two factions got along well. Apprentices would often prank low-ranked knights, using small spells to make them appear foolish. The knights would respond with more practical reprisals, which led to an escalation of shenanigans until the highest-ranking members of both orders got involved. Then things really got out of hand."
         },
         "stations": [
           "Armour Bench"
@@ -17263,15 +17255,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "12"
+              "value": "+12"
             },
             {
               "label": "Ranged defence",
-              "value": "10"
+              "value": "+10"
             },
             {
               "label": "Magic defence",
-              "value": "9"
+              "value": "+9"
             },
             {
               "label": "Set bonus 1",
@@ -17487,15 +17479,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "30"
+              "value": "+30"
             },
             {
               "label": "Ranged defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Magic defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Set bonus 1",
@@ -17601,15 +17593,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "18"
+              "value": "+18"
             },
             {
               "label": "Ranged defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Magic defence",
-              "value": "14"
+              "value": "+14"
             },
             {
               "label": "Set bonus 1",
@@ -17996,15 +17988,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Ranged defence",
-              "value": "28"
+              "value": "+28"
             },
             {
               "label": "Magic defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Set bonus 1",
@@ -18110,15 +18102,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Ranged defence",
-              "value": "17"
+              "value": "+17"
             },
             {
               "label": "Magic defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Set bonus 1",
@@ -18224,15 +18216,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "10"
+              "value": "+10"
             },
             {
               "label": "Ranged defence",
-              "value": "11"
+              "value": "+11"
             },
             {
               "label": "Magic defence",
-              "value": "10"
+              "value": "+10"
             },
             {
               "label": "Set bonus 1",
@@ -18746,7 +18738,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The fallen hoplite's aspis is a power level 5 shield that can be crafted at a blacksmith's bench after obtaining a sundering spiked slab as a rare drop (5/100) from a skeletal hoplite. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is that it has 3 higher block value at every power level compared to most other shields. Block value directly reduces damage taken from attacks linearly, i.e. if you have more block value than an attack deals, you will lose no health, your armour will be unaffected, and the stamina cost to block an attack will be low, lower than dodging that same attack.\n\nThis has to be compared with the effects provided by the other shields though, for example this shield will be unable to block dragon fire like the anti-dragon shield, dragonblight shield, and dragoncurse shield (but not the dragonfire shield). This shield also does not an offensive benefit like those shield's parry effects or the toktz-ket-xil's bonus melee crit damage, although that shield in particular has 6 less block than other shields.\n\n(Journal)\nThe hoplites of Emberwood named themselves after Saradomin’s forces in the holy scripture. The legendary hoplites were warriors on the world of Hallow, who were trained from farmers and artisans, rather than military families or nobility, and the Emberwood hoplites came from similar stock.\n\nThey were best known for their fighting style using spears and shields, with the shield being the defining feature. These shields were designed to be worn for longer periods of time, resting against the shoulder for more comfortable carrying.\n\nThe hoplites may have been raised from peasant stock, but their camaraderie made them a force to be reckoned with on the battlefield.\n\nAs the withering took them, the hoplites retained the rote memory of their training and remained a deadly threat to all who faced them."
+          "description": "The fallen hoplite's aspis is a power level 5 shield that can be crafted at a blacksmith's bench after obtaining a sundering spiked slab as a rare drop (5/100) from a skeletal hoplite. It can be ascended at the mystic forge using ascension cores.\n\nIts special effect is that it has 3 higher block value at every power level compared to most other shields, even the Dragon Kiteshield, making it the highest block rate shield in the game. However, while it has the highest block rate, it can be replaced with other shields, like the anti-dragon shield, dragonblight shield, dragoncurse shield and the dragonfire shield that could block dragon breath. This shield also does not receive an offensive benefit like those shield's parry effects or the toktz-ket-xil's bonus melee crit damage.\n\n(Journal)\nThe hoplites of Emberwood named themselves after Saradomin’s forces in the holy scripture. The legendary hoplites were warriors on the world of Hallow, who were trained from farmers and artisans, rather than military families or nobility, and the Emberwood hoplites came from similar stock.\n\nThey were best known for their fighting style using spears and shields, with the shield being the defining feature. These shields were designed to be worn for longer periods of time, resting against the shoulder for more comfortable carrying.\n\nThe hoplites may have been raised from peasant stock, but their camaraderie made them a force to be reckoned with on the battlefield.\n\nAs the withering took them, the hoplites retained the rote memory of their training and remained a deadly threat to all who faced them."
         },
         "stations": [
           "Blacksmith's Bench"
@@ -19222,7 +19214,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1,250"
+              "value": "1250"
             },
             {
               "label": "Repair cost",
@@ -19341,7 +19333,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1,250"
+              "value": "1250"
             },
             {
               "label": "Repair cost",
@@ -19710,7 +19702,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Description",
-              "value": "Leggings styled after the ancient overlords of Ashenfall."
+              "value": "Magical robe bottoms for Sorcerer's that have no concept of ethics."
             }
           ],
           "recipes": [
@@ -20504,13 +20496,33 @@ window.WILDS_STORAGE = [
               "value": "Ab, artistic, if unusual, cape."
             }
           ],
-          "recipes": [],
+          "recipes": [
+            {
+              "station": "Armour Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0
+                }
+              ],
+              "materials": [],
+              "output": {
+                "name": "Spectral Chinchompa Cape",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Spectral_Chinchompa_Cape.png?6996c"
+              },
+              "unlock": ""
+            }
+          ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
           "description": "The spectral chinchompa cape is a cape rewarded by Vannaka after the completion of Things That Go Boom In The Night.\n\n(Journal)\nA cloak of stitched furs taken from spectral creatures. It is uncertain how one might craft such a thing, and perhaps it would be impossible anywhere other than Fellhollow - where the world of the dead and the world of the living eerily coincide."
         },
+        "stations": [
+          "Armour Bench"
+        ],
         "step": 7,
         "band": 0,
         "rank": 3
@@ -20895,15 +20907,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Ranged defence",
-              "value": "13"
+              "value": "+13"
             },
             {
               "label": "Magic defence",
-              "value": "12"
+              "value": "+12"
             },
             {
               "label": "Set bonus 1",
@@ -21014,15 +21026,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Ranged defence",
-              "value": "13"
+              "value": "+13"
             },
             {
               "label": "Magic defence",
-              "value": "12"
+              "value": "+12"
             },
             {
               "label": "Set bonus 1",
@@ -21248,15 +21260,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Ranged defence",
-              "value": "19"
+              "value": "+19"
             },
             {
               "label": "Magic defence",
-              "value": "18"
+              "value": "+18"
             },
             {
               "label": "Set bonus 1",
@@ -21968,8 +21980,40 @@ window.WILDS_STORAGE = [
               "value": "Mage Armour"
             },
             {
+              "label": "Power level",
+              "value": "7"
+            },
+            {
               "label": "Released",
               "value": "23 June 2026"
+            },
+            {
+              "label": "Melee defence",
+              "value": "+27"
+            },
+            {
+              "label": "Ranged defence",
+              "value": "+28"
+            },
+            {
+              "label": "Magic defence",
+              "value": "+32"
+            },
+            {
+              "label": "Set bonus 1",
+              "value": "-50% Stamina Regen Delay"
+            },
+            {
+              "label": "Set bonus 2",
+              "value": "+10% Magic Attack Speed"
+            },
+            {
+              "label": "Set bonus 3",
+              "value": "+15% Magical Crit Chance"
+            },
+            {
+              "label": "Durability",
+              "value": "1750"
             },
             {
               "label": "Weight",
@@ -22060,15 +22104,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "18"
+              "value": "+18"
             },
             {
               "label": "Ranged defence",
-              "value": "16"
+              "value": "+16"
             },
             {
               "label": "Magic defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Set bonus 1",
@@ -22142,7 +22186,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Mithril helmet is a power level 6 armour piece that is crafted with a armour bench.\n\n(Journal)\nWould Dowdun Reach be standing without mithril? At the very least, it would be standing elsewhere. And since 'elsewhere' would put it in the path of dragons, the Withering and Saradominists at various points on Ashenfall's timeline, you would have to surmise that no, Dowdun Reach would not exist.\n\nThe Children Of Shadows were once little more than a disaffected rabble. They gathered with the purpose of plotting against Saradominists, but, in truth, most of their time was spent infighting. But even infighting demands a forum, and the Children of Shadows chose Fellhollow Mountains.\n\nThe mithril in Fellhollow Mountains (known at the time as Dowdun Mountains) was discovered by a young Zamorakian who wanted to make a raven habitat, something similar to a dovecote. She mined rock and hit a mithril seam. The shimmering metal stunned her, as it has to generations of dwarves.\n\nShe hid her discovery. We do not know why, but we can guess that greed played its part, as it is wont to do. Yet, her discovery was discovered, and the young Zamorakian was killed, left to be picked apart by her ravens. Ravens are an unsentimental bunch.\n\nMutiny followed, until the Zamorakian chaos subsided. The Children of Shadows now had mithril, a metal that was desired by many. And desire is such a wonderful tool for sowing discontent."
+          "description": "The mithril helmet is a power level 6 armour piece that is crafted with a armour bench. Players must receive a mithril bar in their inventory to unlock the mithril helmet.\n\n(Journal)\nWould Dowdun Reach be standing without mithril? At the very least, it would be standing elsewhere. And since 'elsewhere' would put it in the path of dragons, the Withering and Saradominists at various points on Ashenfall's timeline, you would have to surmise that no, Dowdun Reach would not exist.\n\nThe Children Of Shadows were once little more than a disaffected rabble. They gathered with the purpose of plotting against Saradominists, but, in truth, most of their time was spent infighting. But even infighting demands a forum, and the Children of Shadows chose Fellhollow Mountains.\n\nThe mithril in Fellhollow Mountains (known at the time as Dowdun Mountains) was discovered by a young Zamorakian who wanted to make a raven habitat, something similar to a dovecote. She mined rock and hit a mithril seam. The shimmering metal stunned her, as it has to generations of dwarves.\n\nShe hid her discovery. We do not know why, but we can guess that greed played its part, as it is wont to do. Yet, her discovery was discovered, and the young Zamorakian was killed, left to be picked apart by her ravens. Ravens are an unsentimental bunch.\n\nMutiny followed, until the Zamorakian chaos subsided. The Children of Shadows now had mithril, a metal that was desired by many. And desire is such a wonderful tool for sowing discontent."
         },
         "stations": [
           "Armour Bench"
@@ -22398,15 +22442,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "27"
+              "value": "+27"
             },
             {
               "label": "Ranged defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Magic defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Set bonus 1",
@@ -22480,7 +22524,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Mithril platelegs is a power level 6 armour piece that can be crafted with a armour bench.\n\n(Journal)\nWould Dowdun Reach be standing without mithril? At the very least, it would be standing elsewhere. And since 'elsewhere' would put it in the path of dragons, the Withering and Saradominists at various points on Ashenfall's timeline, you would have to surmise that no, Dowdun Reach would not exist.\n\nThere was a time, before the Withering, when a choice was made. The Children of Shadows became paranoid about the prospect of attack and betrayal. It did not seem to matter that they were guarded by dragons who manufactured peace. Dark whispers moved them to act.\n\nTheir lord, a man by the name of Rasmodel, prepared an edict whereby a faction would form. This would be the Shadow Knights, and the knights would enforce the will of Rasmodel.\n\nAn aspiring knight needs weapons and armour, which led to Rasmodel's choice. Were the knights to wear mithril, the metal that now freely flowed from the mines of Dowdun? It was strong enough, but mithril's value was in its perceived rarity. Or were they to import a different metal, one that would be costly and awkward to source - particularly for a force that wished to remain inconspicuous?\n\nIn the end, the choice was made for Rasmodel. The dragon, Xikotal, had a gift. In one claw, he had coal, in the other iron. He wanted to help the Zamorakians, to bring them an offering that might soften their determination to isolate. In the dragon's optimism, the gift would bring the Zamorakians into the wider Fellhollow community.\n\nRasmodel had his steel. He could outfit his new order. With the misguided dragon's help, he had his knights. They would ensure the rest of Fellhollow would keep their distance."
+          "description": "Mithril platelegs are a power level 6 armour piece that can be crafted with a armour bench.\n\n(Journal)\nWould Dowdun Reach be standing without mithril? At the very least, it would be standing elsewhere. And since 'elsewhere' would put it in the path of dragons, the Withering and Saradominists at various points on Ashenfall's timeline, you would have to surmise that no, Dowdun Reach would not exist.\n\nThere was a time, before the Withering, when a choice was made. The Children of Shadows became paranoid about the prospect of attack and betrayal. It did not seem to matter that they were guarded by dragons who manufactured peace. Dark whispers moved them to act.\n\nTheir lord, a man by the name of Rasmodel, prepared an edict whereby a faction would form. This would be the Shadow Knights, and the knights would enforce the will of Rasmodel.\n\nAn aspiring knight needs weapons and armour, which led to Rasmodel's choice. Were the knights to wear mithril, the metal that now freely flowed from the mines of Dowdun? It was strong enough, but mithril's value was in its perceived rarity. Or were they to import a different metal, one that would be costly and awkward to source - particularly for a force that wished to remain inconspicuous?\n\nIn the end, the choice was made for Rasmodel. The dragon, Xikotal, had a gift. In one claw, he had coal, in the other iron. He wanted to help the Zamorakians, to bring them an offering that might soften their determination to isolate. In the dragon's optimism, the gift would bring the Zamorakians into the wider Fellhollow community.\n\nRasmodel had his steel. He could outfit his new order. With the misguided dragon's help, he had his knights. They would ensure the rest of Fellhollow would keep their distance."
         },
         "stations": [
           "Armour Bench"
@@ -22601,15 +22645,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Ranged defence",
-              "value": "16"
+              "value": "+16"
             },
             {
               "label": "Magic defence",
-              "value": "18"
+              "value": "+18"
             },
             {
               "label": "Set bonus 1",
@@ -22683,7 +22727,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Mystic hat is a power level 6 armour piece that is crafted with an armour bench.\n\n(Journal)\nA long-held frustration of the Zamorakian magi, the magical sect of the Children of Shadows, was that Zamorak never came to them. At no point did Zamorak ever set foot on the shores of Ashenfall. This fact is key to understanding the resentful mentality of the shadow mage: they feel a constant undercurrent of abandonment. It also explains why they believe that mystic cloth 'came from Zamorak himself'.\n\nThe story goes something like this: a Zamorakian apprentice-mage resolved to hang himself. He looked about his room but, so poor was he, he did not have the tools to perform that simple task. His chair could not bear his weight. His bedclothes ripped when he hung from them. He crumpled to the floor in misery.\n\nIn that moment, Zamorak came to him. The mage was awestruck. In Zamorak's hands was fibre that vibrated with magic. It hummed audibly - the mage felt that he could hear chanting from it. When the mage stared at it, the blue shimmered through hues of the rainbow, and then returned to blue.\n\n\"Take it, young mage,\" said Zamorak, and he handed the mystic fibres to the mage. \"I will see you in the next life.\"\n\nIn a kind of prophetic panic, the apprentice carried the fibre to an archmage. He relayed how Zamorak had come to him and brought him - alone - this mystical new fibre. He was overjoyed. He wished for the Children of Shadows to have the fabric, and he asked permission to study it.\n\nThe apprentice was tried by a council of his peers and stoned to death. His crime was denying the will of Zamorak.\n\nThe fibre? The Archmage reverse-engineered its properties, and a new fabric was born."
+          "description": "A mystic hat is a power level 6 armour piece that is crafted with an armour bench.\n\n(Journal)\nA long-held frustration of the Zamorakian magi, the magical sect of the Children of Shadows, was that Zamorak never came to them. At no point did Zamorak ever set foot on the shores of Ashenfall. This fact is key to understanding the resentful mentality of the shadow mage: they feel a constant undercurrent of abandonment. It also explains why they believe that mystic cloth 'came from Zamorak himself'.\n\nThe story goes something like this: a Zamorakian apprentice-mage resolved to hang himself. He looked about his room but, so poor was he, he did not have the tools to perform that simple task. His chair could not bear his weight. His bedclothes ripped when he hung from them. He crumpled to the floor in misery.\n\nIn that moment, Zamorak came to him. The mage was awestruck. In Zamorak's hands was fibre that vibrated with magic. It hummed audibly - the mage felt that he could hear chanting from it. When the mage stared at it, the blue shimmered through hues of the rainbow, and then returned to blue.\n\n\"Take it, young mage,\" said Zamorak, and he handed the mystic fibres to the mage. \"I will see you in the next life.\"\n\nIn a kind of prophetic panic, the apprentice carried the fibre to an archmage. He relayed how Zamorak had come to him and brought him - alone - this mystical new fibre. He was overjoyed. He wished for the Children of Shadows to have the fabric, and he asked permission to study it.\n\nThe apprentice was tried by a council of his peers and stoned to death. His crime was denying the will of Zamorak.\n\nThe fibre? The Archmage reverse-engineered its properties, and a new fabric was born."
         },
         "stations": [
           "Armour Bench"
@@ -22715,15 +22759,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Ranged defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Magic defence",
-              "value": "27"
+              "value": "+27"
             },
             {
               "label": "Set bonus 1",
@@ -22797,7 +22841,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Mystic robe legs is a power level 6 armour piece that is crafted with an armour bench.\n\n(Journal)\nA long-held frustration of the Zamorakian magi, the magical sect of the Children of Shadows, was that Zamorak never came to them. At no point did Zamorak ever set foot on the shores of Ashenfall. This fact is key to understanding the resentful mentality of the shadow mage: they feel a constant undercurrent of abandonment. It also explains why they believe that mystic cloth 'came from Zamorak himself'.\n\nAs mystic cloth became more available at Dowdun Reach, Lord Rasmodel made the decision to allow its trade. The trade partners would be carefully chosen - no Saradominists, obviously. It led to the first interactions between the Children of Shadows and an offshoot of the Garou. They showed no animosity to the Children; more a kind of unbridled curiousity. A friendship, of sorts, grew between Rasmodel and their merchants.\n\nOver the span of that friendship, Rasmodel learned about their affinity to the moon, and their need to remain untethered, nomadic. He did not pry at their religion, but wondered whether this offshoot shared the same god as their counterparts\n\nIt frustrated Rasmodel that he could not infiltrate the Moon Garou, as he did with all other civilisations: he had no one in the Reach with the physiology. So, he resolved to meet with Alric, something he deemed a last resort.\n\nAlric suggested something interesting. He could not change the appearance of a human to resemble the Garou: that was beyond his capabilities. But the mystic cloth: within that fabric was an opportunity. The material was known to hum, to resonate. But, like a parrot, it could also retain resonance and repeat it. With work, the mystic cloth could surveil the Moon Garou.\n\nPerhaps Rasmodel could infiltrate them after all."
+          "description": "Mystic robe legs is a power level 6 armour piece that is crafted with an armour bench.\n\n(Journal)\nA long-held frustration of the Zamorakian magi, the magical sect of the Children of Shadows, was that Zamorak never came to them. At no point did Zamorak ever set foot on the shores of Ashenfall. This fact is key to understanding the resentful mentality of the shadow mage: they feel a constant undercurrent of abandonment. It also explains why they believe that mystic cloth 'came from Zamorak himself'.\n\nAs mystic cloth became more available at Dowdun Reach, Lord Rasmodel made the decision to allow its trade. The trade partners would be carefully chosen - no Saradominists, obviously. It led to the first interactions between the Children of Shadows and an offshoot of the Garou. They showed no animosity to the Children; more a kind of unbridled curiousity. A friendship, of sorts, grew between Rasmodel and their merchants.\n\nOver the span of that friendship, Rasmodel learned about their affinity to the moon, and their need to remain untethered, nomadic. He did not pry at their religion, but wondered whether this offshoot shared the same god as their counterparts.\n\nIt frustrated Rasmodel that he could not infiltrate the Moon Garou, as he did with all other civilisations: he had no one in the Reach with the physiology. So, he resolved to meet with Alric, something he deemed a last resort.\n\nAlric suggested something interesting. He could not change the appearance of a human to resemble the Garou: that was beyond his capabilities. But the mystic cloth: within that fabric was an opportunity. The material was known to hum, to resonate. But, like a parrot, it could also retain resonance and repeat it. With work, the mystic cloth could surveil the Moon Garou.\n\nPerhaps Rasmodel could infiltrate them after all."
         },
         "stations": [
           "Armour Bench"
@@ -22829,15 +22873,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "38"
+              "value": "+38"
             },
             {
               "label": "Ranged defence",
-              "value": "39"
+              "value": "+39"
             },
             {
               "label": "Magic defence",
-              "value": "45"
+              "value": "+45"
             },
             {
               "label": "Set bonus 1",
@@ -22865,7 +22909,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Description",
-              "value": "The finest magical thread, spun into fabolous mage gear."
+              "value": "The finest magical thread, spun into fabulous mage gear."
             }
           ],
           "recipes": [
@@ -22911,7 +22955,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Mystic robes is a power level 6 armour piece that is crafted with a armour bench.\n\n(Journal)\nA long-held frustration of the Zamorakian magi, the magical sect of the Children of Shadows, was that Zamorak never came to them. At no point did Zamorak ever set foot on the shores of Ashenfall. This fact is key to understanding the resentful mentality of the shadow mage: they feel a constant undercurrent of abandonment. It also explains why they believe that mystic cloth 'came from Zamorak himself'.\n\nMystic cloth was only for use by the Archmage and his council. It was not only a sign of standing within Dowdun Reach; it was a sign that you should probably get on with your work. If you heard the hum of mystic cloth behind you, you had better not be doing something untoward.\n\nThe role of mystic cloth changed when Archmage Alric and Lord Rasmodel agreed to meet an attaché of Imaru and Xikotal. It was some cleric from Emberwood, looking to renew an annual trade agreement.\n\nIt was to be a routine meeting, and Alric thought nothing of it. He planned to look at the cleric with disdain and sign the contract provided. But to Alric's scorn, the envoy turned up in mystic cloth. A mystic cloth waistcoat, and a mystic cloth cap, jauntily worn. She was good-natured and jovial, which only made the interaction more painful for Alric.\n\nAlric dared not look at Rasmodel, but he knew that there would be a smirk on that smug face. Alric burned the contract and blasted the envoy off the top of Dowdun Reach. The contract would have to wait.\n\nFrom that point on, mystic cloth was not reserved for the greatest magi. It was free for any common magi to wear. Alric resolved to wear a different cloth."
+          "description": "Mystic robes are a power level 6 armour piece that is crafted with a armour bench.\n\n(Journal)\nA long-held frustration of the Zamorakian magi, the magical sect of the Children of Shadows, was that Zamorak never came to them. At no point did Zamorak ever set foot on the shores of Ashenfall. This fact is key to understanding the resentful mentality of the shadow mage: they feel a constant undercurrent of abandonment. It also explains why they believe that mystic cloth 'came from Zamorak himself'.\n\nMystic cloth was only for use by the Archmage and his council. It was not only a sign of standing within Dowdun Reach; it was a sign that you should probably get on with your work. If you heard the hum of mystic cloth behind you, you had better not be doing something untoward.\n\nThe role of mystic cloth changed when Archmage Alric and Lord Rasmodel agreed to meet an attaché of Imaru and Xikotal. It was some cleric from Emberwood, looking to renew an annual trade agreement.\n\nIt was to be a routine meeting, and Alric thought nothing of it. He planned to look at the cleric with disdain and sign the contract provided. But to Alric's scorn, the envoy turned up in mystic cloth. A mystic cloth waistcoat, and a mystic cloth cap, jauntily worn. She was good-natured and jovial, which only made the interaction more painful for Alric.\n\nAlric dared not look at Rasmodel, but he knew that there would be a smirk on that smug face. Alric burned the contract and blasted the envoy off the top of Dowdun Reach. The contract would have to wait.\n\nFrom that point on, mystic cloth was not reserved for the greatest magi. It was free for any common magi to wear. Alric resolved to wear a different cloth."
         },
         "stations": [
           "Armour Bench"
@@ -23265,15 +23309,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Ranged defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Magic defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Weight",
@@ -23663,15 +23707,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "21"
+              "value": "+21"
             },
             {
               "label": "Ranged defence",
-              "value": "19"
+              "value": "+19"
             },
             {
               "label": "Magic defence",
-              "value": "18"
+              "value": "+18"
             },
             {
               "label": "Set bonus 1",
@@ -23734,7 +23778,7 @@ window.WILDS_STORAGE = [
                 },
                 {
                   "name": "Gypsum Wax",
-                  "qty": 1,
+                  "qty": 2,
                   "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a"
                 },
                 {
@@ -23755,7 +23799,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Adamant helmet is a power level 7 armour piece.\n\n(Journal)\nIt was the dwarves who first discovered adamant: a metal so strong and powerful that it could turn aside almost any other blade. It was hard to work with and difficult to refine, so it saw little use in the early ages.\n\nMalgo, druid of Guthix, was one of the first to see the worth in adamant. It was an age before dwarves were cursed by Zamorak to be unable to use magic without severe consequence, and Malgo was one of the greatest spellcasters of his people. He joined the ranks of the Guthixian druids, even though - like many dwarves - he was only a follower of Guthix, rather than a worshipper."
+          "description": "The adamant helmet is a power level 7 armour piece.\n\n(Journal)\nIt was the dwarves who first discovered adamant: a metal so strong and powerful that it could turn aside almost any other blade. It was hard to work with and difficult to refine, so it saw little use in the early ages.\n\nMalgo, druid of Guthix, was one of the first to see the worth in adamant. It was an age before dwarves were cursed by Zamorak to be unable to use magic without severe consequence, and Malgo was one of the greatest spellcasters of his people. He joined the ranks of the Guthixian druids, even though - like many dwarves - he was only a follower of Guthix, rather than a worshipper."
         },
         "stations": [
           "Armour Bench"
@@ -23907,15 +23951,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "53"
+              "value": "+53"
             },
             {
               "label": "Ranged defence",
-              "value": "47"
+              "value": "+47"
             },
             {
               "label": "Magic defence",
-              "value": "45"
+              "value": "+45"
             },
             {
               "label": "Set bonus 1",
@@ -23977,13 +24021,8 @@ window.WILDS_STORAGE = [
                   "img": "https://dragonwilds.runescape.wiki/images/Refined_Obsidian.png?adca9"
                 },
                 {
-                  "name": "Gypsum Wax",
-                  "qty": 3,
-                  "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a"
-                },
-                {
                   "name": "Garou Weave",
-                  "qty": 3,
+                  "qty": 6,
                   "img": "https://dragonwilds.runescape.wiki/images/Garou_Weave.png?ee407"
                 }
               ],
@@ -23999,7 +24038,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Adamant platebody is a power level 7 armour piece.\n\n(Journal)\nIt was the dwarves who first discovered adamant: a metal so strong and powerful that it could turn aside almost any other blade. It was hard to work with and difficult to refine, so it saw little use in the early ages.\n\nAs Malgo and his expedition headed into the deserts of Ashenfall, they found wonderous new ores, materials and treasures that promised to expand their knowledge and understanding by leagues. They also found Karibdos, the devourer.\n\nIt was a great beast that lay within the sands; some dread creature that should never have existed. It was buried beneath the region, massive and hungry and, as the expedition approached, it opened wide its maw and attempted to swallow the entire group whole.\n\nWith quick thinking and forgotten spells, Malgo summoned vines for the expedition members to grasp. Many failed and were consumed by the great vortex in the sand that was Karibdos.\n\nThough they struck back, their arrows and spells were too weak to pierce its hide and Karibdos simply returned to its slumber, waiting for the expedition to cross its path again."
+          "description": "The adamant platebody is a power level 7 armour piece.\n\n(Journal)\nIt was the dwarves who first discovered adamant: a metal so strong and powerful that it could turn aside almost any other blade. It was hard to work with and difficult to refine, so it saw little use in the early ages.\n\nAs Malgo and his expedition headed into the deserts of Ashenfall, they found wonderous new ores, materials and treasures that promised to expand their knowledge and understanding by leagues. They also found Karibdos, the devourer.\n\nIt was a great beast that lay within the sands; some dread creature that should never have existed. It was buried beneath the region, massive and hungry and, as the expedition approached, it opened wide its maw and attempted to swallow the entire group whole.\n\nWith quick thinking and forgotten spells, Malgo summoned vines for the expedition members to grasp. Many failed and were consumed by the great vortex in the sand that was Karibdos.\n\nThough they struck back, their arrows and spells were too weak to pierce its hide and Karibdos simply returned to its slumber, waiting for the expedition to cross its path again."
         },
         "stations": [
           "Armour Bench"
@@ -24031,15 +24070,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "32"
+              "value": "+32"
             },
             {
               "label": "Ranged defence",
-              "value": "28"
+              "value": "+28"
             },
             {
               "label": "Magic defence",
-              "value": "27"
+              "value": "+27"
             },
             {
               "label": "Set bonus 1",
@@ -24102,13 +24141,8 @@ window.WILDS_STORAGE = [
                 },
                 {
                   "name": "Gypsum Wax",
-                  "qty": 2,
+                  "qty": 4,
                   "img": "https://dragonwilds.runescape.wiki/images/Gypsum_Wax.png?dcf9a"
-                },
-                {
-                  "name": "Garou Weave",
-                  "qty": 2,
-                  "img": "https://dragonwilds.runescape.wiki/images/Garou_Weave.png?ee407"
                 }
               ],
               "output": {
@@ -24382,19 +24416,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "Provides Scorch resistant when worn. (Equip additional Desert Robe pieces to further increase Scorch resistance.)"
+              "value": "Reduced SCORCH BUILD UP"
             },
             {
               "label": "Melee defence",
-              "value": "-"
+              "value": "+8"
             },
             {
               "label": "Ranged defence",
-              "value": "-"
+              "value": "+8"
             },
             {
               "label": "Magic defence",
-              "value": "-"
+              "value": "+8"
             },
             {
               "label": "Durability",
@@ -24488,19 +24522,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "Provides Scorch resistant when worn. (Equip additional Desert Robe pieces to further increase Scorch resistance.)"
+              "value": "Reduced SCORCH BUILD UP"
             },
             {
               "label": "Melee defence",
-              "value": "-"
+              "value": "+5"
             },
             {
               "label": "Ranged defence",
-              "value": "-"
+              "value": "+5"
             },
             {
               "label": "Magic defence",
-              "value": "-"
+              "value": "+5"
             },
             {
               "label": "Durability",
@@ -24594,19 +24628,19 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Special effect",
-              "value": "Provides Scorch resistant when worn. (Equip additional Desert Robe pieces to further increase Scorch resistance.)"
+              "value": "Reduced SCORCH BUILD UP"
             },
             {
               "label": "Melee defence",
-              "value": "-"
+              "value": "+4"
             },
             {
               "label": "Ranged defence",
-              "value": "-"
+              "value": "+4"
             },
             {
               "label": "Magic defence",
-              "value": "-"
+              "value": "+4"
             },
             {
               "label": "Durability",
@@ -24792,6 +24826,10 @@ window.WILDS_STORAGE = [
               "value": "+15% Magical Crit Chance"
             },
             {
+              "label": "Durability",
+              "value": "1500"
+            },
+            {
               "label": "Repair cost",
               "value": "1 infinity cloth"
             },
@@ -24857,7 +24895,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Infinity robe body is a power level 7 magic armour that can be crafted at an armour bench. The recipe for this item and the rest of the armour set is unlocked by creating Infinity Cloth for the first time.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nParts of the kalphites, most notably their wings, were a scintillating spectrum of beautiful colours. As they caught the sunlight, they would bloom into a radiant rainbow of delight and Karia found herself overcome with a strange sort of envy previously unknown to her people.\n\nShe wanted to sparkle. She wanted to shine. She wanted to live a life encased in the most magnificent and wondrous colours, and she would do anything to make it happen.\n\nTo call the events that followed a war would be an over-exaggeration, but not wholly inaccurate. The garou descended on the hives with blade, claw and bow, ready to tear the beasts apart so that they might claim the colourful materials for themselves. The kalphite, of course, did not fall easily and many garou lives were lost in the clothing-mad conflict."
+          "description": "An infinity robe body is a power level 7 magic armour that can be crafted at an armour bench. The recipe for this item and the rest of the armour set is unlocked by creating Infinity Cloth for the first time.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nParts of the kalphites, most notably their wings, were a scintillating spectrum of beautiful colours. As they caught the sunlight, they would bloom into a radiant rainbow of delight and Karia found herself overcome with a strange sort of envy previously unknown to her people.\n\nShe wanted to sparkle. She wanted to shine. She wanted to live a life encased in the most magnificent and wondrous colours, and she would do anything to make it happen.\n\nTo call the events that followed a war would be an over-exaggeration, but not wholly inaccurate. The garou descended on the hives with blade, claw and bow, ready to tear the beasts apart so that they might claim the colourful materials for themselves. The kalphite, of course, did not fall easily and many garou lives were lost in the clothing-mad conflict."
         },
         "stations": [
           "Armour Bench"
@@ -24910,6 +24948,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Set bonus 3",
               "value": "+15% Magical Crit Chance"
+            },
+            {
+              "label": "Durability",
+              "value": "1500"
             },
             {
               "label": "Repair cost",
@@ -24984,7 +25026,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Infinity robe hat is a power level 7 magic armour that can be crafted at an armour bench. The recipe for this item and the rest of the armour set is unlocked by creating Infinity Cloth for the first time.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell, they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nKaira, druid of the Softfoot tribe, was one of the first of the Moon Garou to hunt through the sands in search of materials they could use to craft robes of their own. They expected magnificent beasts with scales and horns the likes of which they had never seen. They found the kalphites instead.\n\nTheir first interaction did not go well."
+          "description": "An infinity robe hat is a power level 7 magic armour that can be crafted at an armour bench. The recipe for this item and the rest of the armour set is unlocked by creating Infinity Cloth for the first time.\n\n(Journal)\nGarou druids borrow from nature when crafting staves or weaving robes. In Ghornfell, they took antlers from deer, and leather from their hunted prey. In the Umbral Sands they were forced to adopt a… sparklier approach.\n\nKaira, druid of the Softfoot tribe, was one of the first of the Moon Garou to hunt through the sands in search of materials they could use to craft robes of their own. They expected magnificent beasts with scales and horns the likes of which they had never seen. They found the kalphites instead.\n\nTheir first interaction did not go well."
         },
         "stations": [
           "Armour Bench"
@@ -25037,6 +25079,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Set bonus 3",
               "value": "+15% Magical Crit Chance"
+            },
+            {
+              "label": "Durability",
+              "value": "1500"
             },
             {
               "label": "Repair cost",
@@ -26276,7 +26322,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Umbral Sands cape is a armour piece located in Umbral Sands. Players can find the recipe for this cape in the hills, north-east of the pyramid in the Dunes of Uzzer. The recipe can be found in a chest high up the vertical rock formation and cannot be reached without building foundations.\n\n(Journal)\nReminisce on all the times that sand got literally everywhere. In your shoes. In your eyes. In your breakfast. This cape is a beautifully embroidered reminder of all the hot sun, scratchy grains, and annoying bugs trying to eat your face.\n\nWear it with pride.\n\nRunning in sand is one of the hardest things in the world, so take a bow. You've not only mastered Umbral Sands, but you've run about in it, which is something that most of us would try to avoid."
+          "description": "Umbral Sands cape is a armour piece located in Umbral Sands. Players can find the recipe for this cape in the hills, north-east of the pyramid in the Dunes of Uzzer. The recipe can be found in a chest high up the vertical rock formation. Players who have a mount must to travel to the north end of the vertical rocks and time the jump to the top correctly to reach the chest.\n\n(Journal)\nReminisce on all the times that sand got literally everywhere. In your shoes. In your eyes. In your breakfast. This cape is a beautifully embroidered reminder of all the hot sun, scratchy grains, and annoying bugs trying to eat your face.\n\nWear it with pride.\n\nRunning in sand is one of the hardest things in the world, so take a bow. You've not only mastered Umbral Sands, but you've run about in it, which is something that most of us would try to avoid."
         },
         "stations": [
           "Armour Bench"
@@ -26446,15 +26492,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "21"
+              "value": "+21"
             },
             {
               "label": "Ranged defence",
-              "value": "22"
+              "value": "+22"
             },
             {
               "label": "Magic defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Set bonus 1",
@@ -26529,7 +26575,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ancestral hat is a power level 8 magic armour piece that is crafted with an armour bench.\n\n(Journal)\nLong ago, there were people in Ashenfall. Not humans, not elves, nor anyone you might remember, but sentient beings with a life, a culture and a civilisation all of their own. No trace of them remains today.\n\nMillennia ago, the Kobalios settled in Gielinor, on the only part of the world that could sustain them - Ashenfall. They were beings infused with magic. It was their food, their blood, their very essence and, because of this, they were dying. Using teleportation magics that would make the Wizards' Guild salivate, they travelled across the stars in search of worlds that might sustain them. On Gielinor, they found Ashenfall and the Wellspring at its heart. A font of anima, infused with all the resonance they could eat; a veritable geyser of magic for the Kobalios to feast upon.\n\nAnd feast they did. Their race, already few in number, gorged themselves upon the mystical font and, like so many others have across creation, they grew greedy. It only took one to start the cascade that would lead to their destruction - a single Kobalios that took more than her fair share. She used a spell to divert the flow of anima; just a little, so that the outpouring stream would flow straight to her and not her siblings. She feasted, whilst the others around her grew hungry and weak from the lack of magic. She felt no guilt, for she believed they could have done the same."
+          "description": "The ancestral hat is a power level 8 magic armour piece that is crafted with an armour bench.\n\n(Journal)\nLong ago, there were people in Ashenfall. Not humans, not elves, nor anyone you might remember, but sentient beings with a life, a culture and a civilisation all of their own. No trace of them remains today.\n\nMillennia ago, the Kobalios settled in Gielinor, on the only part of the world that could sustain them - Ashenfall. They were beings infused with magic. It was their food, their blood, their very essence and, because of this, they were dying. Using teleportation magics that would make the Wizards' Guild salivate, they travelled across the stars in search of worlds that might sustain them. On Gielinor, they found Ashenfall and the Wellspring at its heart. A font of anima, infused with all the resonance they could eat; a veritable geyser of magic for the Kobalios to feast upon.\n\nAnd feast they did. Their race, already few in number, gorged themselves upon the mystical font and, like so many others have across creation, they grew greedy. It only took one to start the cascade that would lead to their destruction - a single Kobalios that took more than her fair share. She used a spell to divert the flow of anima; just a little, so that the outpouring stream would flow straight to her and not her siblings. She feasted, whilst the others around her grew hungry and weak from the lack of magic. She felt no guilt, for she believed they could have done the same."
         },
         "stations": [
           "Armour Bench"
@@ -26561,15 +26607,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "32"
+              "value": "+32"
             },
             {
               "label": "Ranged defence",
-              "value": "33"
+              "value": "+33"
             },
             {
               "label": "Magic defence",
-              "value": "36"
+              "value": "+36"
             },
             {
               "label": "Set bonus 1",
@@ -26644,7 +26690,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ancestral leggings is a power level 8 magic armour piece that is crafted with an armour bench.\n\n(Journal)\nLong ago, there were people in Ashenfall. Not humans, not elves, nor anyone you might remember, but sentient beings with a life, a culture and a civilisation all of their own. No trace of them remains today.\n\nWithin a few years, the Kobalios were all but extinct. The remaining members of their number began to become twisted creatures; pale reflections of their once noble ancestors. Their limbs elongated and their mouths stretched wide, so that they might feast more and more upon the Wellspring’s power.\n\nSoon, only a handful of the Kobalios remained, and they were easy pickings for the dragonkin when Rasthin and her allies arrived. The battle was swift and brutal, for the dragonkin know nothing of mercy. The slothful, greedy Kobalios had long forgotten the spells of their ancestors and therefore lacked any defence against the dragonkin’s weapons.\n\nThe last of the Kobalios were obliterated by Rasthin’s strange arcane cannons, and the legacy of their entire species died with them.\n\nNow, all that remains are a handful of robes cut in the style of the Kobalios. A poor legacy for a once proud people."
+          "description": "Ancestral leggings are a power level 8 magic armour piece that is crafted with an armour bench.\n\n(Journal)\nLong ago, there were people in Ashenfall. Not humans, not elves, nor anyone you might remember, but sentient beings with a life, a culture and a civilisation all of their own. No trace of them remains today.\n\nWithin a few years, the Kobalios were all but extinct. The remaining members of their number began to become twisted creatures; pale reflections of their once noble ancestors. Their limbs elongated and their mouths stretched wide, so that they might feast more and more upon the Wellspring’s power.\n\nSoon, only a handful of the Kobalios remained, and they were easy pickings for the dragonkin when Rasthin and her allies arrived. The battle was swift and brutal, for the dragonkin know nothing of mercy. The slothful, greedy Kobalios had long forgotten the spells of their ancestors and therefore lacked any defence against the dragonkin’s weapons.\n\nThe last of the Kobalios were obliterated by Rasthin’s strange arcane cannons, and the legacy of their entire species died with them.\n\nNow, all that remains are a handful of robes cut in the style of the Kobalios. A poor legacy for a once proud people."
         },
         "stations": [
           "Armour Bench"
@@ -26676,15 +26722,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "53"
+              "value": "+53"
             },
             {
               "label": "Ranged defence",
-              "value": "54"
+              "value": "+54"
             },
             {
               "label": "Magic defence",
-              "value": "60"
+              "value": "+60"
             },
             {
               "label": "Set bonus 1",
@@ -26697,6 +26743,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Set bonus 3",
               "value": "+15% Magic Crit Chance"
+            },
+            {
+              "label": "Durability",
+              "value": "1750"
             },
             {
               "label": "Weight",
@@ -26787,15 +26837,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "54"
+              "value": "+54"
             },
             {
               "label": "Ranged defence",
-              "value": "58"
+              "value": "+58"
             },
             {
               "label": "Magic defence",
-              "value": "54"
+              "value": "+54"
             },
             {
               "label": "Set bonus 1",
@@ -26870,7 +26920,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Black Dragonhide Body is a Power level 8 ranged armour piece crafted with an armour bench.\n\n(Journal)\nThe scales of a black dragon are sturdy things, capable of deflecting all but the strongest attacks. It’s not so much that they’re harder than other scales, but that the creature that bore them is so determined to survive that that tenacity passes on to one who wears it.\n\nThere were a few garou hunters that were skilled enough to challenge a black dragon, but only one was ever strong enough to skin an entire one and wear its scales as armour. Her name was Scathach, and she was the very model of garou savagery.\n\nShe wielded a great spear and, where other garou would sneak, she would leap, proudly, into battle against the dragons, to prove that the garou were just as deadly as the dragons, if not more so.\n\nWhen her spear pierced the heart of a mighty dragon, she would let out a howl that would terrify even the bravest of souls."
+          "description": "The black dragonhide body is a Power level 8 ranged armour piece crafted with an armour bench.\n\n(Journal)\nThe scales of a black dragon are sturdy things, capable of deflecting all but the strongest attacks. It’s not so much that they’re harder than other scales, but that the creature that bore them is so determined to survive that that tenacity passes on to one who wears it.\n\nThere were a few garou hunters that were skilled enough to challenge a black dragon, but only one was ever strong enough to skin an entire one and wear its scales as armour. Her name was Scathach, and she was the very model of garou savagery.\n\nShe wielded a great spear and, where other garou would sneak, she would leap, proudly, into battle against the dragons, to prove that the garou were just as deadly as the dragons, if not more so.\n\nWhen her spear pierced the heart of a mighty dragon, she would let out a howl that would terrify even the bravest of souls."
         },
         "stations": [
           "Armour Bench"
@@ -26902,15 +26952,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "33"
+              "value": "+33"
             },
             {
               "label": "Ranged defence",
-              "value": "35"
+              "value": "+35"
             },
             {
               "label": "Magic defence",
-              "value": "33"
+              "value": "+33"
             },
             {
               "label": "Set bonus 1",
@@ -26985,7 +27035,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Black dragonhide chaps is a power level 8 ranged armour piece that is crafted with an armour bench.\n\n(Journal)\nThe scales of a black dragon are sturdy things, capable of deflecting all but the strongest attacks. It’s not so much that they’re harder than other scales, but that the creature that bore them is so determined to survive that that tenacity passes on to one who wears it.\n\nScathach wore armour forged from the scales of her victims, and necklaces of their teeth dangled around her neck. She walked bravely among the dragons, because she knew that none would dare challenge her as she wore the skin of their kin.\n\nHer confidence won the attention of Kuldra. Impressed with the garou’s skill, strength and sheer audacity, Kuldra granted her a drop of her blood, elevating Scathach above both her kin and the dragons she challenged.\n\nIt was this blood that would cause Scathach’s betrayal, because the remnants of the moon goddess, Lougrim, whispered within Kuldra’s blood and urged Scathach to turn on her mistress.\n\nSadly, her betrayal was short-lived, and stands as a warning to all other garou not to attempt the same foolish plan."
+          "description": "Black dragonhide chaps are a power level 8 ranged armour piece that is crafted with an armour bench.\n\n(Journal)\nThe scales of a black dragon are sturdy things, capable of deflecting all but the strongest attacks. It’s not so much that they’re harder than other scales, but that the creature that bore them is so determined to survive that that tenacity passes on to one who wears it.\n\nScathach wore armour forged from the scales of her victims, and necklaces of their teeth dangled around her neck. She walked bravely among the dragons, because she knew that none would dare challenge her as she wore the skin of their kin.\n\nHer confidence won the attention of Kuldra. Impressed with the garou’s skill, strength and sheer audacity, Kuldra granted her a drop of her blood, elevating Scathach above both her kin and the dragons she challenged.\n\nIt was this blood that would cause Scathach’s betrayal, because the remnants of the moon goddess, Lougrim, whispered within Kuldra’s blood and urged Scathach to turn on her mistress.\n\nSadly, her betrayal was short-lived, and stands as a warning to all other garou not to attempt the same foolish plan."
         },
         "stations": [
           "Armour Bench"
@@ -27017,15 +27067,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "22"
+              "value": "+22"
             },
             {
               "label": "Ranged defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Magic defence",
-              "value": "22"
+              "value": "+22"
             },
             {
               "label": "Set bonus 1",
@@ -27247,15 +27297,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "45"
+              "value": "+45"
             },
             {
               "label": "Ranged defence",
-              "value": "39"
+              "value": "+39"
             },
             {
               "label": "Magic defence",
-              "value": "38"
+              "value": "+38"
             },
             {
               "label": "Set bonus 1",
@@ -27334,7 +27384,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Black Knight platebody is a power level 6 armour piece that can be created at a armour bench.\n\nThe recipe is unlocked by purchasing and using the shard of black pauldron vestige from the Evil Emporium shop.\n\n(Journal)\nIt's hard not to look at Black Knight armour and marvel. The Black Knights on Ashenfall have completely different origins from those on the mainland. They have no direct connection to the Kinshra, and are instead an evolution of the Shadow Knights. Two connected but ultimately different factions, yet they converge on similar armours. I suppose that's chaos for you. Stare at it long enough and you spot patterns\n\nVery suddenly, the Rasmodels fell back to the walls of Dowdun Reach. Their cover was blown: the youngest had been caught pouring tincture into the ears of a sleeping bailiff. Their entourage and influence no longer meant anything, and they were forced to live in the keep. A wing was allocated to them, mostly out of fear: the bodyguards were loyal to the Rasmodels, and the Children of Shadows wanted to wake up in the morning.\n\nOn the death of the father, the eldest Rasmodal son, Milliburn, looked to regain some of the family's lost pride. He burrowed himself deep into Dowdun: he was intergal to the training of forces; he took charge of the quatermasters. He showed all the hallmarks of a leader, and was duly elected as Master of Dowdun Reach. The Children of Shadows took to calling him 'Lord Rasmodal'. His bodyguards never left his side."
+          "description": "The Black Knight platebody is a power level 6 armour piece that can be created at a armour bench.\n\nThe recipe is unlocked by purchasing and using the shard of black pauldron vestige from the Evil Emporium shop.\n\n(Journal)\nIt's hard not to look at Black Knight armour and marvel. The Black Knights on Ashenfall have completely different origins from those on the mainland. They have no direct connection to the Kinshra, and are instead an evolution of the Shadow Knights. Two connected but ultimately different factions, yet they converge on similar armours. I suppose that's chaos for you. Stare at it long enough and you spot patterns.\n\nVery suddenly, the Rasmodels fell back to the walls of Dowdun Reach. Their cover was blown: the youngest had been caught pouring tincture into the ears of a sleeping bailiff. Their entourage and influence no longer meant anything, and they were forced to live in the keep. A wing was allocated to them, mostly out of fear: the bodyguards were loyal to the Rasmodels, and the Children of Shadows wanted to wake up in the morning.\n\nOn the death of the father, the eldest Rasmodal son, Milliburn, looked to regain some of the family's lost pride. He burrowed himself deep into Dowdun: he was intergal to the training of forces; he took charge of the quatermasters. He showed all the hallmarks of a leader, and was duly elected as Master of Dowdun Reach. The Children of Shadows took to calling him 'Lord Rasmodal'. His bodyguards never left his side."
         },
         "stations": [
           "Armour Bench"
@@ -27366,15 +27416,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "27"
+              "value": "+27"
             },
             {
               "label": "Ranged defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Magic defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Set bonus 1",
@@ -27453,7 +27503,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Black Knight platelegs is a power level 6 armour piece that can be created at a armour bench.\n\nThe recipe is unlocked by purchasing and using the grim black codpiece vestige from the Evil Emporium shop.\n\n(Journal)\nIt's hard not to look at Black Knight armour and marvel. The Black Knights on Ashenfall have completely different origins from those on the mainland. They have no direct connection to the Kinshra, and are instead an evolution of the Shadow Knights. Two connected but ultimately different factions, yet they converge on similar armours. I suppose that's chaos for you. Stare at it long enough and you spot patterns\n\nThe Children of Shadows learned to be wary of Lord Rasmodel in the mornings. He was cruel before noon, fair in the afternoons, and stern all day. Those who were close to him knew the reason: Lord Rasmodel slept poorly and would complain that his dreams kept him up. He was confused by them: they talked in words he didn't recognise. He found their voices to be dull and interminable, like being locked in a room with a droning artistocrat.\n\nThe dreams made him impatient and quick to bore. His relationship with Alric, Archmage deteriorated. Rasmodel even suspected that Alric was behind his restless knights.\n\nOne morning, Rasmodel emerged with a different kind of impatience. He was resolved that something had to change. Fellhollow, Imaru and Xikotal were not to be trusted. A new order of knights were to be created, and he was to lead them. At their centre would be his bodyguards, loyal and unquestioning.\n\nThe Shadow Knights were born, and time would harden them into Black Knights"
+          "description": "The Black Knight platelegs are a power level 6 armour piece that can be created at a armour bench.\n\nThe recipe is unlocked by purchasing and using the grim black codpiece vestige from the Evil Emporium shop.\n\n(Journal)\nIt's hard not to look at Black Knight armour and marvel. The Black Knights on Ashenfall have completely different origins from those on the mainland. They have no direct connection to the Kinshra, and are instead an evolution of the Shadow Knights. Two connected but ultimately different factions, yet they converge on similar armours. I suppose that's chaos for you. Stare at it long enough and you spot patterns.\n\nThe Children of Shadows learned to be wary of Lord Rasmodel in the mornings. He was cruel before noon, fair in the afternoons, and stern all day. Those who were close to him knew the reason: Lord Rasmodel slept poorly and would complain that his dreams kept him up. He was confused by them: they talked in words he didn't recognise. He found their voices to be dull and interminable, like being locked in a room with a droning artistocrat.\n\nThe dreams made him impatient and quick to bore. His relationship with Alric, Archmage deteriorated. Rasmodel even suspected that Alric was behind his restless knights.\n\nOne morning, Rasmodel emerged with a different kind of impatience. He was resolved that something had to change. Fellhollow, Imaru and Xikotal were not to be trusted. A new order of knights were to be created, and he was to lead them. At their centre would be his bodyguards, loyal and unquestioning.\n\nThe Shadow Knights were born, and time would harden them into Black Knights"
         },
         "stations": [
           "Armour Bench"
@@ -27574,15 +27624,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Ranged defence",
-              "value": "22"
+              "value": "+22"
             },
             {
               "label": "Magic defence",
-              "value": "21"
+              "value": "+21"
             },
             {
               "label": "Set bonus 1",
@@ -27595,6 +27645,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Set bonus 3",
               "value": "+25% Damage To Staggered Targets"
+            },
+            {
+              "label": "Durability",
+              "value": "1750"
             },
             {
               "label": "Repair cost",
@@ -27657,7 +27711,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Rune Helm is a power level 8 armour piece.\n\n(Journal)\nIt is perhaps fitting that the first pieces of rune equipment were worn by the creator of runes themselves, Guthix. Of course, rune metal is not made of runes, and indeed has no actual connection to runes at all, but Guthix, for all his many qualities, was not the greatest of wordsmiths.\n\nThe god journeyed deep into Ashenfall, where he discovered the Wellspring and the strange metal that glistened nearby from the rocks. It has a soft blue-ish hue that was both subtle and entrancing in different ways and he became intrigued. Using techniques he had learned from the dwarves, Guthix attempted to fashion the metal into equipment, yet it resisted his every effort and refused to be anything more than a strange, glittery sort of ore.\n\nThere was magic there, in the ore. It resisted pickaxes, it repelled weaponry, it practically jeered at Guthix, telling him that it was the most interesting metal around. Yet no matter what he tried, he could not tame it.\n\nUntil he discovered luminite, and then everything changed."
+          "description": "The rune Helm is a power level 8 armour piece.\n\n(Journal)\nIt is perhaps fitting that the first pieces of rune equipment were worn by the creator of runes themselves, Guthix. Of course, rune metal is not made of runes, and indeed has no actual connection to runes at all, but Guthix, for all his many qualities, was not the greatest of wordsmiths.\n\nThe god journeyed deep into Ashenfall, where he discovered the Wellspring and the strange metal that glistened nearby from the rocks. It has a soft blue-ish hue that was both subtle and entrancing in different ways and he became intrigued. Using techniques he had learned from the dwarves, Guthix attempted to fashion the metal into equipment, yet it resisted his every effort and refused to be anything more than a strange, glittery sort of ore.\n\nThere was magic there, in the ore. It resisted pickaxes, it repelled weaponry, it practically jeered at Guthix, telling him that it was the most interesting metal around. Yet no matter what he tried, he could not tame it.\n\nUntil he discovered luminite, and then everything changed."
         },
         "stations": [
           "Armour Bench"
@@ -27689,15 +27743,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "60"
+              "value": "+60"
             },
             {
               "label": "Ranged defence",
-              "value": "54"
+              "value": "+54"
             },
             {
               "label": "Magic defence",
-              "value": "53"
+              "value": "+53"
             },
             {
               "label": "Set bonus 1",
@@ -27710,6 +27764,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Set bonus 3",
               "value": "+25% Damage To Staggered Targets"
+            },
+            {
+              "label": "Durability",
+              "value": "1750"
             },
             {
               "label": "Weight",
@@ -27768,7 +27826,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Rune Platebody is a power level 8 armour piece that can be crafted on the Armour Bench. To unlock the recipe, players need to have Rune Bar crafted.\n\n(Journal)\nIt is perhaps fitting that the first pieces of rune equipment were worn by the creator of runes themselves, Guthix. Of course, rune metal is not made of runes, and indeed has no actual connection to runes at all, but Guthix, for all his many qualities, was not the greatest of wordsmiths.\n\nLuminite, somehow, limited the metal's reaction to other metals, but only within the smelting phase. It allowed the construction of bars, which in turn allowed the construction of plates which could be fitted together to form armour.\n\nIt took several weeks, for Guthix's blacksmithing skills had long fallen to atrophy, but the god was able to fashion himself a full suit of rune metal. Just in time for the Dweller to attack."
+          "description": "A Rune Platebody is a power level 8 armour piece that can be crafted on the Armour Bench. To unlock the recipe, players need to have a Rune Bar crafted.\n\n(Journal)\nIt is perhaps fitting that the first pieces of rune equipment were worn by the creator of runes themselves, Guthix. Of course, rune metal is not made of runes, and indeed has no actual connection to runes at all, but Guthix, for all his many qualities, was not the greatest of wordsmiths.\n\nLuminite, somehow, limited the metal's reaction to other metals, but only within the smelting phase. It allowed the construction of bars, which in turn allowed the construction of plates which could be fitted together to form armour.\n\nIt took several weeks, for Guthix's blacksmithing skills had long fallen to atrophy, but the god was able to fashion himself a full suit of rune metal. Just in time for the Dweller to attack."
         },
         "stations": [
           "Armour Bench"
@@ -27800,15 +27858,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "36"
+              "value": "+36"
             },
             {
               "label": "Ranged defence",
-              "value": "33"
+              "value": "+33"
             },
             {
               "label": "Magic defence",
-              "value": "32"
+              "value": "+32"
             },
             {
               "label": "Set bonus 1",
@@ -27821,6 +27879,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Set bonus 3",
               "value": "+25% Damage To Staggered Targets"
+            },
+            {
+              "label": "Durability",
+              "value": "1750"
             },
             {
               "label": "Repair cost",
@@ -27883,7 +27945,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Rune Platelegs are a power level 8 armour piece.\n\n(Journal)\nIt is perhaps fitting that the first pieces of rune equipment were worn by the creator of runes themselves, Guthix. Of course, rune metal is not made of runes, and indeed has no actual connection to runes at all, but Guthix, for all his many qualities, was not the greatest of wordsmiths.\n\nThe Dweller was a beast that had nestled into the Wellspring and the energies had transformed it into something more than it was. What had previously been nothing but an unpleasantly large arthropod, was now a great lumbering beast full of hunger and fury. The anima had twisted it into something resembling th e colossi and it roared out of the Wellspring straight for the god of balance.\n\nYet, for all his desires for a peaceful existence, Guthix had the warrior's heart and he was more than a match for the Dweller. Though the battle shattered mountains and diverted rivers, the Dweller soon found itself sliced in twain by the god's terrible sword.\n\nHe cast the body into the deepest depths of the ocean, in fear that it might one day return."
+          "description": "Rune Platelegs are a power level 8 armour piece. Players will need to receive a rune bar in their inventory to unlock the platelegs.\n\n(Journal)\nIt is perhaps fitting that the first pieces of rune equipment were worn by the creator of runes themselves, Guthix. Of course, rune metal is not made of runes, and indeed has no actual connection to runes at all, but Guthix, for all his many qualities, was not the greatest of wordsmiths.\n\nThe Dweller was a beast that had nestled into the Wellspring and the energies had transformed it into something more than it was. What had previously been nothing but an unpleasantly large arthropod, was now a great lumbering beast full of hunger and fury. The anima had twisted it into something resembling th e colossi and it roared out of the Wellspring straight for the god of balance.\n\nYet, for all his desires for a peaceful existence, Guthix had the warrior's heart and he was more than a match for the Dweller. Though the battle shattered mountains and diverted rivers, the Dweller soon found itself sliced in twain by the god's terrible sword.\n\nHe cast the body into the deepest depths of the ocean, in fear that it might one day return."
         },
         "stations": [
           "Armour Bench"
@@ -28310,7 +28372,7 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [
             {
-              "station": "Crafting Table",
+              "station": "Mystic Forge",
               "skills": [
                 {
                   "name": "Artisan",
@@ -28329,11 +28391,16 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [],
           "shops": [],
-          "perks": [],
-          "description": "The Agility cape is a Cape of Accomplishment able to be crafted and worn with a level 99 Agility. It can be crafted at the crafting table. This cape, while worn, gives the player a 10% chance to not consume stamina for jumping, dashing, or evading.\n\nTrimmed versions can be made the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! Like the nimblest of ferrets, you can scoot up drainpipes and scurry across ledges.\n\nNow you have mastered the Agility skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou have gathered all possible agility abilityabilities! People look at you and feel immediately tired."
+          "perks": [
+            {
+              "name": "Agility Cape",
+              "desc": "You have a small chance to not consume stamina for the following action: Jump, Dash and Evade"
+            }
+          ],
+          "description": "The Agility cape is a Cape of Accomplishment able to be crafted and worn with a level 99 Agility. It can be crafted at the mystic forge. This cape, while worn, gives the player a 10% chance to not consume stamina for jumping, dashing, or evading.\n\nTrimmed versions can be made the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! Like the nimblest of ferrets, you can scoot up drainpipes and scurry across ledges.\n\nNow you have mastered the Agility skill, what will you do next? You could trim your cape, of course. Or you could rise up the rank of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou have gathered all possible agility abilityabilities! People look at you and feel immediately tired."
         },
         "stations": [
-          "Crafting Table"
+          "Mystic Forge"
         ],
         "step": 7,
         "band": 0,
@@ -28502,7 +28569,7 @@ window.WILDS_STORAGE = [
           "perks": [
             {
               "name": "Artisan Cape",
-              "desc": "Repairing gear costs no resources when this cape is worn."
+              "desc": "10% Chance to not use resources when crafting an item."
             }
           ],
           "description": "The Artisan cape is a Cape of Accomplishment able to be crafted and worn at level 99 Artisan. It can be crafted at the mystic forge. There is a 10% chance of not using resources when repairing equipment or gear.\n\nA trimmed version of the cape can be crafted the same way if you have more than one skill at 99.\n\n(Journal)\nCongratulations! You're a Master Maker, a Crafting Connoisseur, an Artisan Fartisan.\n\nNow you have mastered the Artisan skill, what will you do next? You could trim your cape, of course. Or you could rise up the ranks of another skill.\n\nFor now, take a moment. Enjoy the satisfaction of a completed skill. Well done!\n\nYou're a Master Maker, a Crafting Connoisseur, an Artisan Fartisan."
@@ -28610,16 +28677,20 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Special effect",
+              "value": "* INCREASED chance to recover RANGED AMMO. * Automatically picks up RANGED AMMO at a larger distance."
+            },
+            {
               "label": "Melee defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Ranged defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Magic defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Weight",
@@ -28677,7 +28748,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ava's accumulator is an armour item equipped in the cape slot. It is a reward from Animal Magnetism, and additional ones can also be crafted via the Armour Bench after the quest. Ava's accumulator adds a 10% chance of recovering arrows when worn. Please note that it will not recover spectral arrows of any kind.\n\n(Journal)\nAva is the apprentice to Dr Oddenstein, an eccentric scientist who lives in Draynor Manor, and a skilled inventor in her own right. She whiles away her limited free time by studying the lesser-known field of necroballistics, and creating strange and wonderful gizmos to further her studies.\n\nPerhaps her proudest achievement, is the invention of the attractor. By harnessing the energies of an undead chicken to the harmonic frequencies of a common bar magnet, her device can snatch grounded projectiles and bring them back to the quiver before they can be lost. This money saving experiment is not only great for hunters, but for anyone looking for an excuse to fill their enemies full of sharp sticks of wood.\n\nAlways the generous sort, but one with little head for marketing, Ava has decided to pass on her genius invention to others. Rather than publishing a paper, or passing the methodology onto the Varrock library, she has instead written the instructions in a bottle and sent it adrift in the ocean for anyone to find. Fate, she believes, will draw it to where it is meant to go. Like magnets, probably."
+          "description": "Ava's accumulator is an armour item equipped in the cape slot. It is a reward from Animal Magnetism, and additional ones can also be crafted via the Armour Bench after the quest. Ava's accumulator adds a 10% chance of recovering arrows when worn. It will not recover spectral arrows of any kind.\n\n(Journal)\nAva is the apprentice to Dr Oddenstein, an eccentric scientist who lives in Draynor Manor, and a skilled inventor in her own right. She whiles away her limited free time by studying the lesser-known field of necroballistics, and creating strange and wonderful gizmos to further her studies.\n\nPerhaps her proudest achievement, is the invention of the attractor. By harnessing the energies of an undead chicken to the harmonic frequencies of a common bar magnet, her device can snatch grounded projectiles and bring them back to the quiver before they can be lost. This money saving experiment is not only great for hunters, but for anyone looking for an excuse to fill their enemies full of sharp sticks of wood.\n\nAlways the generous sort, but one with little head for marketing, Ava has decided to pass on her genius invention to others. Rather than publishing a paper, or passing the methodology onto the Varrock library, she has instead written the instructions in a bottle and sent it adrift in the ocean for anyone to find. Fate, she believes, will draw it to where it is meant to go. Like magnets, probably."
         },
         "stations": [
           "Armour Bench"
@@ -29454,15 +29525,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "27"
+              "value": "+27"
             },
             {
               "label": "Ranged defence",
-              "value": "25"
+              "value": "+25"
             },
             {
               "label": "Magic defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Set bonus 1",
@@ -29589,15 +29660,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "27"
+              "value": "+27"
             },
             {
               "label": "Ranged defence",
-              "value": "25"
+              "value": "+25"
             },
             {
               "label": "Magic defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Set bonus 1",
@@ -29664,15 +29735,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "68"
+              "value": "+68"
             },
             {
               "label": "Ranged defence",
-              "value": "62"
+              "value": "+62"
             },
             {
               "label": "Magic defence",
-              "value": "60"
+              "value": "+60"
             },
             {
               "label": "Set bonus 1",
@@ -29739,15 +29810,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "41"
+              "value": "+41"
             },
             {
               "label": "Ranged defence",
-              "value": "37"
+              "value": "+37"
             },
             {
               "label": "Magic defence",
-              "value": "36"
+              "value": "+36"
             },
             {
               "label": "Set bonus 1",
@@ -29759,7 +29830,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Set bonus 3",
-              "value": "+25% Damage To Staggered Targets"
+              "value": "+25% Damage to Staggered Targets"
             },
             {
               "label": "Durability",
@@ -29785,7 +29856,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "The Dragon Platelegs is a power level 9 armour piece worn on the legs. Unlike many other armour pieces in the game, these leggings are uncraftable and have a passive full durability. It can only be obtained as a rare drop from the Queenslayer's Reward Pack.\n\n(Journal)\nOnly the dragonkin know the process to create true dragon armour. Others can perhaps manipulate the base metal, orikalkum, but they lack something in the process that turns the metal into true dragon metal, a far stronger source. In aeons past, on their original world, dragon armour was worn by the Ortius Chen, the mighty warriors of what was once a great dragonkin army.\n\nNo ledger records the outcome of the battle, for what would be the point? Though, dear reader, let me enlighten you – the rebels won. The slaves were freed and across the entirety of creation came a great song of freedom.\n\nA song so loud that it woke the sleeping Elder Gods, and their dread work began.\n\nThe rebels did not make it to this universe, they stayed behind to defend their wards from the Great Revision. In their last moments, they fought back against the creators of the universe, in the hope that it might save those they had learned to call friends.\n\nThey failed, and the dragonkin that grace this reality do not mourn their absence."
+          "description": "The Dragon Platelegs are a power level 9 armour piece worn on the legs. Unlike many other armour pieces in the game, these leggings are uncraftable and have a passive full durability. It can only be obtained as a rare drop from the Queenslayer's Reward Pack.\n\n(Journal)\nOnly the dragonkin know the process to create true dragon armour. Others can perhaps manipulate the base metal, orikalkum, but they lack something in the process that turns the metal into true dragon metal, a far stronger source. In aeons past, on their original world, dragon armour was worn by the Ortius Chen, the mighty warriors of what was once a great dragonkin army.\n\nNo ledger records the outcome of the battle, for what would be the point? Though, dear reader, let me enlighten you – the rebels won. The slaves were freed and across the entirety of creation came a great song of freedom.\n\nA song so loud that it woke the sleeping Elder Gods, and their dread work began.\n\nThe rebels did not make it to this universe, they stayed behind to defend their wards from the Great Revision. In their last moments, they fought back against the creators of the universe, in the hope that it might save those they had learned to call friends.\n\nThey failed, and the dragonkin that grace this reality do not mourn their absence."
         },
         "step": 7,
         "band": 0,
@@ -29803,10 +29874,6 @@ window.WILDS_STORAGE = [
             {
               "label": "Type",
               "value": "Basic Item"
-            },
-            {
-              "label": "Power level",
-              "value": "3"
             },
             {
               "label": "Released",
@@ -30085,15 +30152,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Ranged defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Magic defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Weight",
@@ -30127,7 +30194,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "The Dragonslayer's Cape is a prestigious back slot item crafted at the Armour Bench following the defeat of Queen Kuldra in the Regicide quest. Featuring a deep purple drape with intricate gold trim, its centerpiece tapestry depicts Queen Kuldra perched atop floating, shattered landmasses.\n\n(Journal)\nA seer once dreamed about brave warriors who walked across Ashenfall in another time. An age both past and present, where the rules of the world were different. These great heroes challenged and slew an echo of Velgar, saving a land that never was.\n\nWhile the seer’s memory of that dream fades with each passing moment, she was able to embroider the event into a cape, so that all might know of these legends from another time."
+          "description": "The Dragonslayer's Cape is a prestigious back slot item crafted at the Armour Bench following the defeat of Queen Kuldra in the Regicide quest. Featuring a deep purple drape with intricate gold trim, its centrepiece tapestry depicts Queen Kuldra perched atop floating, shattered landmasses.\n\n(Journal)\nA seer once dreamed about brave warriors who walked across Ashenfall in another time. An age both past and present, where the rules of the world were different. These great heroes challenged and slew an echo of Velgar, saving a land that never was.\n\nWhile the seer’s memory of that dream fades with each passing moment, she was able to embroider the event into a cape, so that all might know of these legends from another time."
         },
         "stations": [
           "Armour Bench"
@@ -30349,13 +30416,33 @@ window.WILDS_STORAGE = [
               "value": "Receiving or blocking damage has a chance to triggering burning on your attacker. Melee kills on Burning enemies refill stamina."
             }
           ],
-          "recipes": [],
+          "recipes": [
+            {
+              "station": "Armour Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0
+                }
+              ],
+              "materials": [],
+              "output": {
+                "name": "Fire Cape",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Fire_Cape.png?72d4b"
+              },
+              "unlock": ""
+            }
+          ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The fire cape is a cape awarded after beating the Fight Cave activity. It is the only cape in the game that is dropped by a boss monster. When worn by the player it gives the Burning Endurance effect.\n\nThe cape previously required an ember-edged remnant of cloth vestige.\n\n(Journal)\nFew people can claim to wear such a symbol of their combat prowess. Forged in the heart of a volcano and enchanted with powerful magics, this ever-burning cape is a sign to the entire world that you are not someone to be messed with.\n\nOnce, long ago, the first people to forge these capes did so in secret. They bound magma to cloth, using strange magics that none to this day can replicate and they did so for fear of prophecy. They foresaw a figure of great strength and power, a warrior unlike any other, that would rise from the cinders of the Fire Caves Fire cave was the original name of the Fight Cave and become either the saviour or the doom of all creation.\n\nSuch prophecies must be respected.\n\nIt is too early to say which way you will go. Whether you will destroy some terrible evil, or whether you will prove yourself to be a greater threat than any that came before you. Destiny is fickle like that. All that is known is that, for as long as you are worthy of this cape, you hold the fate of the world in your hands."
+          "description": "The fire cape is a cape awarded after beating the Fight Cave activity. It is the only cape in the game that is dropped by a boss monster. When worn by the player it gives the Burning Endurance effect. Players can craft them on the Armour Bench.\n\nThe cape previously required an ember-edged remnant of cloth vestige.\n\n(Journal)\nFew people can claim to wear such a symbol of their combat prowess. Forged in the heart of a volcano and enchanted with powerful magics, this ever-burning cape is a sign to the entire world that you are not someone to be messed with.\n\nOnce, long ago, the first people to forge these capes did so in secret. They bound magma to cloth, using strange magics that none to this day can replicate and they did so for fear of prophecy. They foresaw a figure of great strength and power, a warrior unlike any other, that would rise from the cinders of the Fire Caves Fire cave was the original name of the Fight Cave and become either the saviour or the doom of all creation.\n\nSuch prophecies must be respected.\n\nIt is too early to say which way you will go. Whether you will destroy some terrible evil, or whether you will prove yourself to be a greater threat than any that came before you. Destiny is fickle like that. All that is known is that, for as long as you are worthy of this cape, you hold the fate of the world in your hands."
         },
+        "stations": [
+          "Armour Bench"
+        ],
         "step": 7,
         "band": 0,
         "rank": 99
@@ -30471,13 +30558,33 @@ window.WILDS_STORAGE = [
               "value": "A cloak worn by garou nobility."
             }
           ],
-          "recipes": [],
+          "recipes": [
+            {
+              "station": "Armour Bench",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0
+                }
+              ],
+              "materials": [],
+              "output": {
+                "name": "Garou Highborn's Cloak",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Garou_Highborn%27s_Cloak.png?5b65c"
+              },
+              "unlock": ""
+            }
+          ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
           "description": "The garou highborn's cloak is a unique cape given as a reward by Vannaka for completing the Dog Days quest. Additional ones can also be crafted via the Armour Bench after the quest.\n\n(Journal)\nHighborn garou are better than their lowborn kin, or so it is claimed. It is true that the highborn are stronger and capable of wielding magic denied to the lowborn, yet what makes them great is their will to rule.\n\nGarou claim power not through birthright, but by proving their strength over all rivals. A garou leader must be ready to face all challenges, because to refuse even one is a sign of weakness.\n\nWhen a challenge is made the two garou battle to the death. Mercy is a concept alien to them, once fangs are bared then blood must be spilled.\n\nThanes are garou wanting to be kings. Each day they push themselves further, to be ready for the challenge that will see them burn moon-bright as king, or fade away as a forgotten challenge. All or nothing, the garou way.\n\nEven after turning from the moon-goddess Lougrim, becoming servants of the High Queen Kuldra, the garou continue their ancient rituals. Might, always proving right."
         },
+        "stations": [
+          "Armour Bench"
+        ],
         "step": 7,
         "band": 0,
         "rank": 99
@@ -30501,15 +30608,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Ranged defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Magic defence",
-              "value": "2"
+              "value": "+2"
             },
             {
               "label": "Weight",
@@ -30558,7 +30665,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The Gilded Paladin Cape is a cape that requires no materials to craft and can be crafted at the Crafting Table and the Mystic Forge\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nThe Wise Old Man has a saying that feels applicable here: 'modesty is overrated'. His argument is that we celebrate modesty and assume that there's some kind of value to it, but it rarely, if ever, has any value at all. No one has cashed in their modesty for a great benefit. Modesty isn't the cornerstone of any great achievement in the world. Some people may like you a little more, but - and this is the Wise Old Man we're quoting, mind you - 'being liked is overrated for all the same reasons'.\n\nWhat the WOM is saying is that you shouldn't feel guilty wearing your gold cape. Modesty is overrated. Enjoy yourself!"
+          "description": "The Gilded Paladin Cape is a cape that requires no materials to craft and can be crafted at the Crafting Table and the Mystic Forge.\n\nThe recipe for this item is obtained by purchasing the Deluxe Edition.\n\n(Journal)\nThe Wise Old Man has a saying that feels applicable here: 'modesty is overrated'. His argument is that we celebrate modesty and assume that there's some kind of value to it, but it rarely, if ever, has any value at all. No one has cashed in their modesty for a great benefit. Modesty isn't the cornerstone of any great achievement in the world. Some people may like you a little more, but - and this is the Wise Old Man we're quoting, mind you - 'being liked is overrated for all the same reasons'.\n\nWhat the WOM is saying is that you shouldn't feel guilty wearing your gold cape. Modesty is overrated. Enjoy yourself!"
         },
         "stations": [
           "Crafting Table",
@@ -30570,7 +30677,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Gilded Paladin Chestpiece",
-        "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Chestpiece_%28Journal%29.png?78d70",
+        "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Chestpiece.png?78d70",
         "tier": "",
         "tierRank": null,
         "chest": "armour",
@@ -30591,15 +30698,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "30"
+              "value": "+30"
             },
             {
               "label": "Ranged defence",
-              "value": "24"
+              "value": "+24"
             },
             {
               "label": "Magic defence",
-              "value": "23"
+              "value": "+23"
             },
             {
               "label": "Set bonus 1",
@@ -30669,7 +30776,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The gilded paladin chestpiece is a power level 4 melee armour piece that can be crafted with an armour bench.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nThe second person to wear gold armour was knight commander Sir Leigh, who donned the glittering monstrosity out of misplaced loyalty to his liege. His belief was that at least he could act as a decoy for those that would aim straight for the king. He had attempted to coopt other knights to don similar garb, but the expense of such equipment grew too costly to attempt it."
+          "description": "The gilded paladin chestpiece is a power level 4 melee armour piece that can be crafted with an armour bench or a Crafting Table. The recipe for this item is obtained from purchasing the Deluxe Edition and crafting a Gold Bar.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nThe second person to wear gold armour was knight commander Sir Leigh, who donned the glittering monstrosity out of misplaced loyalty to his liege. His belief was that at least he could act as a decoy for those that would aim straight for the king. He had attempted to coopt other knights to don similar garb, but the expense of such equipment grew too costly to attempt it."
         },
         "stations": [
           "Armour Bench"
@@ -30680,7 +30787,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Gilded Paladin Helmet",
-        "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Helmet_%28Journal%29.png?78d70",
+        "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Helmet.png?78d70",
         "tier": "",
         "tierRank": null,
         "chest": "armour",
@@ -30701,15 +30808,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "12"
+              "value": "+12"
             },
             {
               "label": "Ranged defence",
-              "value": "10"
+              "value": "+10"
             },
             {
               "label": "Magic defence",
-              "value": "9"
+              "value": "+9"
             },
             {
               "label": "Set bonus 1",
@@ -30779,7 +30886,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The gilded paladin helmet is a power level 4 melee armour piece that is crafted with an armour bench.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nGolden armour was first created by the King of Bramblemead, who felt that he really needed to stand out as much as possible when riding into battle: a stance that demonstrated a complete failure to understand even the most basic of military tactics.\n\nHis version had the armour encrusted with glittering gemstones that only further served to make him the most desirable target on the battlefield."
+          "description": "The gilded paladin helmet is a power level 4 melee armour piece that is crafted with an armour bench or the Crafting Table. The recipe for this item is obtained from purchasing the Deluxe Edition as well as crafting a Gold Bar.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nGolden armour was first created by the King of Bramblemead, who felt that he really needed to stand out as much as possible when riding into battle: a stance that demonstrated a complete failure to understand even the most basic of military tactics.\n\nHis version had the armour encrusted with glittering gemstones that only further served to make him the most desirable target on the battlefield."
         },
         "stations": [
           "Armour Bench"
@@ -30790,7 +30897,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Gilded Paladin Legs",
-        "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Legs_%28Journal%29.png?78d70",
+        "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Legs.png?78d70",
         "tier": "",
         "tierRank": null,
         "chest": "armour",
@@ -30811,15 +30918,15 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Melee defence",
-              "value": "18"
+              "value": "+18"
             },
             {
               "label": "Ranged defence",
-              "value": "15"
+              "value": "+15"
             },
             {
               "label": "Magic defence",
-              "value": "14"
+              "value": "+14"
             },
             {
               "label": "Set bonus 1",
@@ -30889,7 +30996,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The gilded paladin legs is a power level 4 melee armour piece that can be crafted with an armour bench.\n\nThe recipe for this item is obtained from purchasing the Deluxe Edition.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nNeedless to say, the fate of Sir Leigh is entirely predictable. Even though his armour lacked the gemstones of his sovereign, it was still armour forged from solid gold. This meant that not only did it lack the defensive capabilities of sturdier metal, but it also meant that every opponent went straight for him.\n\nHe was torn to shreds, and his armour sold off in pieces.\n\nHis sacrifice, however, did save the king’s life. After witnessing the horrid destruction of his most loyal commander, the king decided that future battles would be waged in steel armour… very very thick steel armour… and, preferably, from very far away."
+          "description": "The gilded paladin legs is a power level 4 melee armour piece that can be crafted with an armour bench or a crafting table. The recipe for this item is obtained from purchasing the Deluxe Edition and crafting a gold bar.\n\n(Journal)\nAll that glitters is gold, is factually inaccurate but a fun song lyric. However, golden armour is most certainly glittering. Forged from gold bars, melted down and refined into plate armour, there are few who can deny the sheer audaciousness of an outfit like this.\n\nNeedless to say, the fate of Sir Leigh is entirely predictable. Even though his armour lacked the gemstones of his sovereign, it was still armour forged from solid gold. This meant that not only did it lack the defensive capabilities of sturdier metal, but it also meant that every opponent went straight for him.\n\nHe was torn to shreds, and his armour sold off in pieces.\n\nHis sacrifice, however, did save the king’s life. After witnessing the horrid destruction of his most loyal commander, the king decided that future battles would be waged in steel armour… very very thick steel armour… and, preferably, from very far away."
         },
         "stations": [
           "Armour Bench"
@@ -31155,6 +31262,95 @@ window.WILDS_STORAGE = [
         "rank": 99
       },
       {
+        "name": "KGP Hat",
+        "img": "https://dragonwilds.runescape.wiki/images/KGP_Hat.png?cf566",
+        "tier": "",
+        "tierRank": null,
+        "chest": "armour",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Melee Armour"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Melee defence",
+              "value": "0"
+            },
+            {
+              "label": "Ranged defence",
+              "value": "0"
+            },
+            {
+              "label": "Magic defence",
+              "value": "0"
+            },
+            {
+              "label": "Durability",
+              "value": "1500"
+            },
+            {
+              "label": "Weight",
+              "value": "4 kg"
+            },
+            {
+              "label": "Description",
+              "value": "Turns you invisible. Except when it doesn't."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Crafting Table",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 100
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Rough Cloth",
+                  "qty": 3,
+                  "img": "https://dragonwilds.runescape.wiki/images/Rough_Cloth.png?d4d9c"
+                },
+                {
+                  "name": "Anchovy Bait",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Anchovy_Bait.png?230e0"
+                },
+                {
+                  "name": "Coarse Thread",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Coarse_Thread.png?71f62"
+                }
+              ],
+              "output": {
+                "name": "KGP Hat",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/KGP_Hat.png?cf566"
+              },
+              "unlock": "Scrap Mired in Subterfuge"
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A KGP Hat is a helmet-type armour that is unlocked by studying the Scrap Mired in Subterfuge vestige.\n\nThe vestige can be purchased from the Façade's Front shop for 30.\n\n(Journal)\nThe results of the qualitative interrogation are on your desk, Sir.\n\nAs you know, we asked ten human prisoners about the latest round of penguin disguises. We asked them to score each disguise out of 10 in three categories: Unexpectedness, Likelihood of Discovery, and Ability to Confound. This gave each disguise a number out of 30. The higher the score, the more dastardly the disguise.\n\nThe executive summary, Sir, is that one disguise scored significantly higher than the others. It is the penguin suit, sir. There is no disguise more unexpected, more confounding, than a penguin disguised as a penguin. Humans simply cannot fathom it.\n\nI send you the helmet of the disguise, Sir, so that you can marvel at the audacity."
+        },
+        "stations": [
+          "Crafting Table"
+        ],
+        "step": 7,
+        "band": 0,
+        "rank": 99
+      },
+      {
         "name": "Leather Shield",
         "img": "https://dragonwilds.runescape.wiki/images/Leather_Shield.png?89f78",
         "tier": "",
@@ -31252,6 +31448,22 @@ window.WILDS_STORAGE = [
               "value": "23 June 2026"
             },
             {
+              "label": "Special effect",
+              "value": "* -10% WOOD WEIGHT REDUCTION * +10% WOODCUTTING XP * +10% WOOD FROM WOODCUTTING * +15% SPECIAL ITEM DROP CHANCE"
+            },
+            {
+              "label": "Melee defence",
+              "value": "+2"
+            },
+            {
+              "label": "Ranged defence",
+              "value": "+2"
+            },
+            {
+              "label": "Magic defence",
+              "value": "+2"
+            },
+            {
               "label": "Weight",
               "value": "0 kg"
             },
@@ -31307,7 +31519,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A lumber backpack is an armour item equipped in the cape slot. Equipping this grants a +10% reduction to the weight of carried wood, +10% increase to Woodcutting experience, +10% increase to the amount of wood received from chopping trees and +15% for special item drop chance.\n\nThe recipe unlocks at level 59 Woodcutting.\n\n(Journal)\nA hefty bag, heavily reinforced, this backpack is everything a budding lumberer needs in order to carry large quantities of wood from one place to a different place."
+          "description": "A lumber backpack is an armour item equipped in the cape slot. The recipe unlocks at level 59 Woodcutting.\n\n(Journal)\nA hefty bag, heavily reinforced, this backpack is everything a budding lumberer needs in order to carry large quantities of wood from one place to a different place."
         },
         "stations": [
           "Armour Bench"
@@ -31330,8 +31542,40 @@ window.WILDS_STORAGE = [
               "value": "Mage Armour"
             },
             {
+              "label": "Power level",
+              "value": "7"
+            },
+            {
               "label": "Released",
               "value": "23 June 2026"
+            },
+            {
+              "label": "Melee defence",
+              "value": "+45"
+            },
+            {
+              "label": "Ranged defence",
+              "value": "+47"
+            },
+            {
+              "label": "Magic defence",
+              "value": "+53"
+            },
+            {
+              "label": "Set bonus 1",
+              "value": "-50% Stamina Regen Delay"
+            },
+            {
+              "label": "Set bonus 2",
+              "value": "+10% Magic Attack Speed"
+            },
+            {
+              "label": "Set bonus 3",
+              "value": "+15% Magical Crit Chance"
+            },
+            {
+              "label": "Durability",
+              "value": "1750"
             },
             {
               "label": "Weight",
@@ -33399,7 +33643,7 @@ window.WILDS_STORAGE = [
                 },
                 {
                   "name": "Sacred Oil",
-                  "qty": 1,
+                  "qty": 4,
                   "img": "https://dragonwilds.runescape.wiki/images/Sacred_Oil.png?d2492"
                 },
                 {
@@ -36011,6 +36255,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Stack limit",
               "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "An enchanted amulet favoured by warriors."
             }
           ],
           "recipes": [
@@ -36851,6 +37099,167 @@ window.WILDS_STORAGE = [
         "rank": 99
       },
       {
+        "name": "Pescaling Amulet",
+        "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Amulet.png?1b3b0",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Trinket"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "Has a fishy aroma. Increase chance of getting PRISTINE catches by 5%."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Crafting Table",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 40
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay Mould",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b"
+                },
+                {
+                  "name": "Coarse Thread",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Coarse_Thread.png?71f62"
+                },
+                {
+                  "name": "Gold Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Gold_Bar.png?dfc4f"
+                },
+                {
+                  "name": "Water Rune",
+                  "qty": 15,
+                  "img": "https://dragonwilds.runescape.wiki/images/Water_Rune.png?789d1"
+                },
+                {
+                  "name": "Anchovy Bait",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Anchovy_Bait.png?230e0"
+                }
+              ],
+              "output": {
+                "name": "Pescaling Amulet",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Amulet.png?1b3b0"
+              },
+              "unlock": "Brine-Soaked Bauble"
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A Pescaling Amulet is an amulet that increase the chance of catching pristine fish by 5%.\n\nThe recipe is unlocked by purchasing and studying the Brine-Soaked Bauble vestige from the Façade's Front shop for 15.\n\n(Journal)\n\"Our formidable R&D department have discovered how a penguin may wear jewellery WITHOUT resorting to rings. They have invented something called the AMULET, and it brings all of the benefits of a ring, but without having to sew on clumsy human fingers. Its effect is somewhat different, but no less powerful.\n\nThis is yet another example of penguin ingenuity and intellectual dominance. Praise Acheron that you won the genetic lottery and were born a penguin!"
+        },
+        "stations": [
+          "Crafting Table"
+        ],
+        "step": 1,
+        "band": 0,
+        "rank": 99
+      },
+      {
+        "name": "Pescaling Ring",
+        "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Ring.png?cf566",
+        "tier": "",
+        "tierRank": null,
+        "chest": "jewellery",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Trinket"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "Has a fishy aroma. ReduceReduces fishing stamina by 5-15%."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Crafting Table",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Clay Mould",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Clay_Mould.png?6b36b"
+                },
+                {
+                  "name": "Silver Bar",
+                  "qty": 2,
+                  "img": "https://dragonwilds.runescape.wiki/images/Silver_Bar.png?dfc4f"
+                },
+                {
+                  "name": "Water Rune",
+                  "qty": 15,
+                  "img": "https://dragonwilds.runescape.wiki/images/Water_Rune.png?789d1"
+                },
+                {
+                  "name": "Fried Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Fried_Sardine.png?ea629"
+                }
+              ],
+              "output": {
+                "name": "Pescaling Ring",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Ring.png?cf566"
+              },
+              "unlock": "Brine-Soaked Band"
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "A Pescaling Ring is a ring that reduces slowing down and reeling fish by 5 to 15%.\n\nThe recipe is unlocked by purchasing and studying the Brine-Soaked Band vestige from the Façade's Front shop for 15.\n\n(Journal)\nComrades! I have had it up to here with your complaints about the Pescaling Ring and how it does not fit onto your flippers! If the pitiful humans can wear rings on their protuberances then penguins can do the same. To claim otherwise is to say that penguins are less than humans, and that is punishable by DEATH.\n\nWear your ring with pride, comrades. Bunch your flippers, crush it onto your beaks, or swallow it whole. We are proud, ring-bearing people!"
+        },
+        "stations": [
+          "Crafting Table"
+        ],
+        "step": 1,
+        "band": 0,
+        "rank": 99
+      },
+      {
         "name": "Ravanna's Ring",
         "img": "https://dragonwilds.runescape.wiki/images/Ravanna%27s_Ring.png?f500d",
         "tier": "",
@@ -36935,7 +37344,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ravanna's ring is a ring that is a quest reward for completing the A Melody Remembered secondary quest. Additional copies can be crafted from a jeweler's bench. While equipped, the ring has a 15-20% chance to spawn a corpse cotton plant where enemies were slain, consuming 1,000 durability in the process.\n\n(Journal)\nHate can be a powerful tool. It forges and it destroys with equal might. Grudges can last generations, well beyond the lifespans of those first slighted, and vengeance… vengeance can be eternal.\n\nRavanna knew this well. She stoked her hatred and turned it into a weapon. She wrapped it around her soul like a cage and unleashed the power of it into the very sky over the Highlands. A storm, driven by grief, rage and unfettered loathing, turned the clouds into agents of her vengeance and as they writhe, rage and hate, they build static charge that they unleash upon the garou that live below.\n\nThis ring was on her finger when Ulv died, and it became infused with that same hatred. At first it only turned its rage against the garou, but the problem with hate is that it festers and mutates into something worse. Everything is to blame for Ulv’s death. Every plant, every rock, every movement of the stars, they all led up to that moment and so the ring hates them too, and now it seeks, in its own small way, to take revenge upon the world."
+          "description": "Ravanna's ring is a ring that is a quest reward for completing the A Melody Remembered secondary quest. Additional copies can be crafted from a jeweler's bench. While equipped, the ring has a 15-20% chance to spawn a corpse cotton plant where enemies were slain, consuming 1,000 durability in the process.\n\nTraining dummies also trigger this effect.\n\n(Journal)\nHate can be a powerful tool. It forges and it destroys with equal might. Grudges can last generations, well beyond the lifespans of those first slighted, and vengeance… vengeance can be eternal.\n\nRavanna knew this well. She stoked her hatred and turned it into a weapon. She wrapped it around her soul like a cage and unleashed the power of it into the very sky over the Highlands. A storm, driven by grief, rage and unfettered loathing, turned the clouds into agents of her vengeance and as they writhe, rage and hate, they build static charge that they unleash upon the garou that live below.\n\nThis ring was on her finger when Ulv died, and it became infused with that same hatred. At first it only turned its rage against the garou, but the problem with hate is that it festers and mutates into something worse. Everything is to blame for Ulv’s death. Every plant, every rock, every movement of the stars, they all led up to that moment and so the ring hates them too, and now it seeks, in its own small way, to take revenge upon the world."
         },
         "stations": [
           "Jeweler's Bench"
@@ -37380,6 +37789,10 @@ window.WILDS_STORAGE = [
               "value": "29 September 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.9 kg"
             },
@@ -37394,6 +37807,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Fried Egg",
               "qty": 1,
@@ -37498,6 +37917,10 @@ window.WILDS_STORAGE = [
               "value": "15 April 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.5 kg"
             },
@@ -37523,6 +37946,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Fillet.png?cfe3d",
               "station": "Grill"
+            },
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             },
             {
               "name": "Burnt Fillet",
@@ -37600,7 +38029,8 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Campfire",
-          "Grill"
+          "Grill",
+          "Compost Bin"
         ],
         "step": 3,
         "band": 0,
@@ -37623,6 +38053,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Released",
               "value": "15 April 2025"
+            },
+            {
+              "label": "Compost value",
+              "value": "1"
             },
             {
               "label": "Weight",
@@ -37650,6 +38084,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Rat_Roast.png?5b575",
               "station": "Grill"
+            },
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             },
             {
               "name": "Burnt Rat Roast",
@@ -37704,7 +38144,8 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Campfire",
-          "Grill"
+          "Grill",
+          "Compost Bin"
         ],
         "step": 3,
         "band": 0,
@@ -37733,6 +38174,10 @@ window.WILDS_STORAGE = [
               "value": "5"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.1 kg"
             },
@@ -37747,6 +38192,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Weak Focused Artisan Potion",
               "qty": 1,
@@ -37946,6 +38397,10 @@ window.WILDS_STORAGE = [
               "value": "15 December 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.3 kg"
             },
@@ -37984,6 +38439,12 @@ window.WILDS_STORAGE = [
           ],
           "usedIn": [
             {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Bread",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Bread.png?4dbf2",
@@ -38021,6 +38482,10 @@ window.WILDS_STORAGE = [
               "value": "15 April 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.1 kg"
             },
@@ -38035,6 +38500,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Weak Antipoison Potion",
               "qty": 1,
@@ -38068,7 +38539,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Bittercap Mushroom (plant)",
+              "source": "Bittercap Mushroom (node)",
               "qty": "1",
               "rarity": "Always"
             }
@@ -38088,13 +38559,8 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Bittercap mushrooms are a power level 2 raw ingredient, which means they can be cooked at a campfire or grill into grilled mushrooms starting at Cooking Level 12, and not burnt into burnt mushroom at level 27. They can also be used to make weak antipoison potion. They can be gathered from bittercap mushroom (plant)s in the Whispering Swamp and Dowdun Reach.\n\n(Journal)\nWhile many mushrooms are poisonous, the Bittercap Mushroom turns against the defences of its kin and is an ingredient in several poison remedies."
+          "description": "Bittercap mushrooms are a power level 2 raw ingredient, which means they can be cooked at a campfire or grill into grilled mushrooms starting at Cooking Level 12, and not burnt into burnt mushroom at level 27. They can also be used to make weak antipoison potion. They can be gathered from bittercap mushroom resource nodes in the Whispering Swamp and Dowdun Reach.\n\n(Journal)\nWhile many mushrooms are poisonous, the Bittercap Mushroom turns against the defences of its kin and is an ingredient in several poison remedies."
         },
-        "stations": [
-          "Brewing Cauldron",
-          "Campfire",
-          "Grill"
-        ],
         "step": 3,
         "band": 0,
         "rank": 2,
@@ -38228,6 +38694,10 @@ window.WILDS_STORAGE = [
               "value": "15 April 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.5 kg"
             },
@@ -38242,6 +38712,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Steak",
               "qty": 1,
@@ -38311,6 +38787,7 @@ window.WILDS_STORAGE = [
           "description": "Raw farm meat is a Power Level 2 raw ingredient, which means it can be cooked at a campfire or grill into steak starting at Cooking level 12, and not burnt into burnt steak at level 27. It is dropped by cows in Temple Woods, Bramblemead Valley, and Dowdun Reach, sheep in Fractured Plains, Stormtouched Highlands, and Dowdun Reach, and rams in Stormtouched Highlands and Dowdun Reach.\n\n(Journal)\nThis dense meat is a sturdy meal when prepared properly. It comes from larger animals who are far less willing to give it up than their smaller kin, making it a well deserved delicacy."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -38335,6 +38812,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Released",
               "value": "15 April 2025"
+            },
+            {
+              "label": "Compost value",
+              "value": "1"
             },
             {
               "label": "Weight",
@@ -38362,6 +38843,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Haunch.png?ebeda",
               "station": "Grill"
+            },
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             },
             {
               "name": "Burnt Haunch",
@@ -38396,7 +38883,8 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Campfire",
-          "Grill"
+          "Grill",
+          "Compost Bin"
         ],
         "step": 3,
         "band": 0,
@@ -38421,6 +38909,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "1.5 kg"
             },
@@ -38436,6 +38928,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Fried Sardine",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Fried_Sardine.png?ea629",
@@ -38458,6 +38956,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Burnt_Sardine.png?6a39c",
               "station": "Grill"
+            },
+            {
+              "name": "Penguin Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Helmet.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -38471,10 +38975,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Raw sardine is a Power Level 2 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into fried sardine starting at Cooking level 12, and not burnt into burnt sardine at level 27. It can be gathered from rod fishing spots with ideally an ash rod in Temple Woods and Bramblemead Valley at level 3 Fishing. Using shrimp bait increases the chance of catching one. It is the normal variant of a pristine sardine.\n\n(Journal)\nSardines travel in large shoals; their lives spend as part of a grand community. There’s something a little tragic seeing one here on its own. Still, with a little heat, perhaps a sprinkle of salt and other seasonings, and you’ve got yourself a nice snack."
         },
-        "stations": [
-          "Campfire",
-          "Grill"
-        ],
         "step": 3,
         "band": 0,
         "rank": 2,
@@ -38498,6 +38998,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.2 kg"
             },
@@ -38512,6 +39016,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Shrimp Bait",
               "qty": 1,
@@ -38564,11 +39074,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Raw shrimp is a Power Level 2 raw ingredient, which means it can be cooked at a campfire or grill into sauteed shrimp starting at Cooking level 12, and not burnt into burnt shrimp at level 27. They can also be used to make shrimp bait. They can be gathered from net fishing spots with at least a coarse net in Temple Woods and Bramblemead Valley.\n\n(Journal)\nAlmost all fishing careers begin with these little critters. Their number is practically infinite, so the universe responds by gifting them the survival instinct of an inebriated moth approaching the most magnificent flame.\n\nMany a new fishermen has found their diet consisting almost exclusively of these crunchy little things.\n\nThere are many ways to cook shrimp. Countless recipes that promise wonderful taste sensations. Right now, though, I would suggest you don’t really want to eat them. They’re all wriggly."
         },
-        "stations": [
-          "Crafting Table",
-          "Campfire",
-          "Grill"
-        ],
         "step": 3,
         "band": 0,
         "rank": 2,
@@ -38592,6 +39097,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "2.1 kg"
             },
@@ -38606,6 +39115,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Grilled Trout",
               "qty": 1,
@@ -38643,6 +39158,7 @@ window.WILDS_STORAGE = [
           "description": "Raw trout is a Power Level 2 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into grilled trout starting at Cooking level 12, and not burnt into burnt trout at level 27. It can be gathered from rod fishing spots with ideally an ash rod in Temple Woods and Bramblemead Valley at level 3 Fishing. Using feather bait increases the chance of catching one. It is the normal variant of a pristine trout.\n\n(Journal)\nThere is little exciting one can say about trout, they have few advocates and fewer fans. Yet, they do taste delicious with a little lemon and a few herbs, so perhaps we should thank them for not being awful.\n\nOne trout was awful. A villain. A monster who rose from the depths to bring terror to us all.\n\nNah, just kidding – they’re trout… I got nothing.\n\nBonier than some of the other popular fishes, the trout is nevertheless one of the most regularly consumed freshwater fishes. Its flavour is heavily modified by its diet…which, on Ashenfall, is more than a little worrying if I’m honest."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -38688,7 +39204,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Unusual Trout is a raw ingredient that can be captured by grabbing it from the pool of fish for OffalFoot in The Lake far beneath The Courtyard. The area in which to grab it is accessed through the catacombs beneath the The Cathedral. Give it to OffalFoot to receive a Shard of the Dreaming Stone in return.\n\n(Journal)\nThe trout is unusual in a few different ways. It's still breathing even out of water, which you could probably classify as more than just \"unusual\". But we like to stay away from hyperbole, so we'll stick with \"unusual\" for now.\n\nIt also seems to be eyeballing you. Little sideways glances that could be interpreted as judgements. And when you do fail at something - burn a fish, perhaps - it tuts, loudly, like a librarian."
+          "description": "Unusual Trout is a raw ingredient that can be captured by grabbing it from the pool of fish for OffalFoot in The Lake far beneath The Courtyard. The area in which to grab it is accessed through the catacombs beneath the The Cathedral. Give it to OffalFoot to receive a Shard of the Dreaming Stone in return.\n\nCatching an unusual trout rewards 25 xp.\n\n(Journal)\nThe trout is unusual in a few different ways. It's still breathing even out of water, which you could probably classify as more than just \"unusual\". But we like to stay away from hyperbole, so we'll stick with \"unusual\" for now.\n\nIt also seems to be eyeballing you. Little sideways glances that could be interpreted as judgements. And when you do fail at something - burn a fish, perhaps - it tuts, loudly, like a librarian."
         },
         "step": 3,
         "band": 0,
@@ -38717,6 +39233,10 @@ window.WILDS_STORAGE = [
               "value": "10"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.1 kg"
             },
@@ -38731,6 +39251,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Wild Scout's Shortbow",
               "qty": 1,
@@ -38863,6 +39389,10 @@ window.WILDS_STORAGE = [
               "value": "15"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.2 kg"
             },
@@ -38882,6 +39412,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Bowl_of_Peaches.png?615a8",
               "station": "Build Menu"
+            },
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             },
             {
               "name": "Dried Peach",
@@ -38919,11 +39455,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Peaches are a consumable food item that provides 15 sustenance. They are also a Power Level 3 ingredient, which means they can be cooked at a campfire or grill into dried peach starting at Cooking level 27, and not burnt into burnt peach at level 41. They can also be used to make bowl of peaches. They can be transmuted by casting Bones to Peaches on animal bones.\n\n(Journal)\nTry not to think too hard about the nature of transmutation as you consume this fruit. It's sweet, juicy and the pseudo-necromantic origins are only a little disturbing. Oh, sure, it tastes nice and it goes surprisingly well in a crumble, but it's a little unsettling when you get that unexpected crunch.\n\nBest not to think about it. Ignorance is bliss."
         },
-        "stations": [
-          "Campfire",
-          "Grill",
-          "Cooking Range"
-        ],
         "step": 3,
         "band": 0,
         "rank": 3,
@@ -39057,6 +39588,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "1.0 kg"
             },
@@ -39071,6 +39606,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Anchovy Bait",
               "qty": 1,
@@ -39100,6 +39641,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Burnt_Anchovies.png?6a39c",
               "station": "Grill"
+            },
+            {
+              "name": "Agony Auntchovy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Agony_Auntchovy.png?155e4",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -39123,11 +39670,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Raw anchovies are a Power Level 3 raw ingredient, which means they can be cooked at a campfire or grill into seared anchovies starting at Cooking level 27, and not burnt into burnt anchovies at level 41. They can also be used to make anchovy bait. They can be gathered from net fishing spots with at least a wool net in Fractured Plains and Stormtouched Highlands.\n\n(Journal)\nSurprisingly good on pizza, these salty little fishes are a popular delicacy across Gielinor.\n\nYou could eat these by the handful if you didn’t mind the crunch. Traditionally cured in brine and turned into a deliciously salty snack. Goes very well on pizzas."
         },
-        "stations": [
-          "Crafting Table",
-          "Campfire",
-          "Grill"
-        ],
         "step": 3,
         "band": 0,
         "rank": 3,
@@ -39149,6 +39691,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Released",
               "value": "15 April 2025"
+            },
+            {
+              "label": "Compost value",
+              "value": "1"
             },
             {
               "label": "Weight",
@@ -39176,6 +39722,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Flank_Steak.png?25ef4",
               "station": "Grill"
+            },
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             },
             {
               "name": "Burnt Flank",
@@ -39225,7 +39777,8 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Campfire",
-          "Grill"
+          "Grill",
+          "Compost Bin"
         ],
         "step": 3,
         "band": 0,
@@ -39250,6 +39803,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "1.8 kg"
             },
@@ -39264,6 +39821,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Smoked Herring",
               "qty": 1,
@@ -39301,6 +39864,7 @@ window.WILDS_STORAGE = [
           "description": "Raw herring is a Power Level 3 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into smoked herring starting at Cooking level 27, and not burnt into burnt herring at level 41. It can be gathered from rod fishing spots with ideally an oak rod in Fractured Plains at level 3 Fishing. Using anchovy bait increases the chance of catching one. It is the normal variant of a pristine herring.\n\n(Journal)\nIt is said that if you can cut down the tallest tree in the forest, with one of these, then you can gain power and riches beyond your wildest imagination. Still, others claim that only scarlet versions of this fish can cause such a feat, and so the debate has raged for centuries.\n\nTruth be told, these fish are not particularly prized by lumberjacks anywhere.\n\nA bit too floppy to be useful for lumberjacks."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -39327,6 +39891,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "1.8 kg"
             },
@@ -39341,6 +39909,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Fried Salmon",
               "qty": 1,
@@ -39378,6 +39952,7 @@ window.WILDS_STORAGE = [
           "description": "Raw salmon is a Power Level 3 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into fried salmon starting at Cooking level 27, and not burnt into burnt salmon at level 41. It can be gathered from rod fishing spots with ideally an oak rod in Fractured Plains at level 3 Fishing. Using feathered lure increases the chance of catching one. It is the normal variant of a pristine salmon.\n\n(Journal)\nThe life of a salmon is one of great journey and strife. They swim back over great distances, leaping upstream in search of a cementing their legacy. It is tragic then, perhaps, that such journeys become the happy lunchtimes of bears and other animals.\n\nThe Wushanko islands are masters of turning this into a delicious and satisfying meal. Alas, you never did take the time to study their culinary ways and must apply heat to this meal, lest your eject your internalised failures upon Ashenfall’s soil."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -39410,6 +39985,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
             {
               "name": "Dried Tea Leaves",
               "qty": 1,
@@ -39453,6 +40034,7 @@ window.WILDS_STORAGE = [
           "description": "Tea leaves is a basic item bought from merchants for 20 garou chits or found in chests in Umbral Sands . It can be processed into dried tea leaves at the kiln.\n\n(Journal)\nTea leaves have three uses, at least at the time of writing. The top survey answer is of course 'for making tea' - congratulations if you got that one. Then there's augury, using the tea leaves to divine the future. Finally - and this one's the pointless answer - if they are stuffed into someone's nostrils while they sleep, it will often induce the voiding of one's urine. It's true, go look it up. Information to hold back from your children, if you have any."
         },
         "stations": [
+          "Ultra Compost Bin",
           "Kiln"
         ],
         "step": 3,
@@ -39504,6 +40086,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
             {
               "name": "Dried Cadavaberries",
               "qty": 1,
@@ -39559,6 +40147,7 @@ window.WILDS_STORAGE = [
           "description": "Cadavaberries are a consumable food item that provides 10 sustenance but also 20 Soulscourge, which will cause damage over time if it builds to 100. They are also a power level 4 ingredient, which means they can be cooked at a campfire or grill into dried cadavaberries starting at Cooking Level 41, and not burnt into burnt cadavaberries at level 50. They can be collected from cadavaberry bushes in Fellhollow and Farmed from cadavaberry bush (Farming) grown from cadavaberry seeds.\n\n(Journal)\nDon’t eat them. No, seriously, don’t. At least not raw. Cadavaberries are poisonous and deadly, often used in sinister ceremonies of ritual sacrifice. The cadavaberries on Ashenfall are equally toxic, but can be coaxed into good behaviour with the judicious addition of fire.\n\nThe toxins can be burned away, providing a surprisingly pleasant tasting berry beneath. But, one must be careful, for preparing them wrong is the last mistake someone is likely to make."
         },
         "stations": [
+          "Super Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -40009,6 +40598,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "4.5 kg"
             },
@@ -40023,6 +40616,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Braised Catfish",
               "qty": 1,
@@ -40060,6 +40659,7 @@ window.WILDS_STORAGE = [
           "description": "Raw armoured catfish is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into braised catfish starting at Cooking level 41, and not burnt into burnt catfish at level 50. It can be gathered from rod fishing spots with ideally a maple rod in Dowdun Reach at level 3 Fishing. Using animated feather increases the chance of catching one. It is the normal variant of a pristine armoured catfish.\n\n(Journal)\nSometimes evolution gets inspired by the wrong things. The catfish of Ashenfall have long been the victim of any creature that chooses to make them lunch. They are caught, cooked and consumed more often than is reasonable, and their suffering seemed too great as a result. So it was that a god took pity on them and gave them a defence.\n\nIt is uncertain which god, for none have claimed responsibility, but the divine whimsy could be the result of any of them. All we know is that the fish now have a chance against their assailants, an armoured hide to ward off some of the worst of their misery.\n\nSadly, they are no match for you.\n\nLooking at this, you're going to struggle to prepare it properly. Make sure you have a very, very sharp knife."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -40101,6 +40701,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
+            {
               "name": "Steamed Beltfish",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Steamed_Beltfish.png?2a640",
@@ -40137,6 +40743,7 @@ window.WILDS_STORAGE = [
           "description": "Raw beltfish is a Power Level 7 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into steamed beltfish. It can be gathered from rod fishing spots with a yew rod in Umbral Sands at level 3 Fishing. Using kalphite bait increases the chance of catching one. It is the normal variant of a pristine beltfish.\n\n(Journal)\nThe beltfish, or 'largehead hairtail' if you want to get fancy, is no replacement for a real belt. Anglers have been known to break their belts mid-fishing session and will look into their buckets, wondering if the beltfish 'might do'. Yes, I know - there's no helping some people.\n\nBut if you are tempted, here are the reasons why a beltfish is a sub-par belt.\n\n1. The beltfish is actually a bit of a chonker. It doesn't fit through the loops in your trousers.\n\n2. The smell of a beltfish is riper than your average fish. That ripeness only escalates as the hours go on.\n\n3. Nobody is going to be impressed with your fish-eye belt buckle.\n\n4. An eel is actually a more functional belt.\n\nRaw beltfish is a tricky customer. It's a tough, almost sinewy meat, more like a whip than a food product. If you're a chef and want to torment your sous-chef, then crack a beltfish and watch them pay attention.\n\nEqually, if you're a sous-chef and your chef is constantly whipping you with beltfish, then a beltfish makes for a handy garotte."
         },
         "stations": [
+          "Ultra Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -40155,7 +40762,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Raw Desert Sole",
-        "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?8c46c",
+        "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?ab4cc",
         "tier": "",
         "tierRank": null,
         "chest": "food",
@@ -40180,11 +40787,17 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Description",
-              "value": "You half expect it to start wriggling again."
+              "value": "A raw desert sole, smelling rather ripe."
             }
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
             {
               "name": "Sun Baked Sole",
               "qty": 1,
@@ -40219,9 +40832,10 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Raw desert sole is a Power Level 7 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into sun baked sole. It can be gathered from rod fishing spots with a yew rod in Umbral Sands at level 3 Fishing. Using monkfish bait increases the chance of catching one. It is the normal variant of a pristine desert sole.\n\n(Journal)\nDesert sole is not the music genre of choice for Moon Garou. Instead, the desert sole is a rather flat fish that likes to nestle at the bottom of sandy pools. Being sandy-coloured themselves, it makes for a rather difficult fish to spot, let alone catch.\n\nThe flatness of a desert sole once drew the attention of the dragonkin, Lacrussa. She noted the evolutionary benefit of being paper-thin, camouflaged and having organs spread out across the body. So she dabbled with the idea for dragons. Needless to say, her 'flat-dragon' years were some of her least productive.\n\nFor a flatfish without much weight to it, the desert sole really cranks out aromas. It's especially pungent, as if it is using its full surface area to emanate.\n\nYour best bet is to cook it quick-smart. You don't want to be that guy who goes to a gathering and opens a lunch bag with some raw desert sole."
+          "description": "Raw desert sole is a Power Level 7 raw ingredient, which means it can be cooked at a campfire, grill, or with an Infernal Rod into sun baked sole. It can be gathered from rod fishing spots with a yew rod in Umbral Sands at level 3 Fishing. Using monkfish bait increases the chance of catching one. It is the normal variant of a pristine desert sole.\n\n(Journal)\nDesert sole is not the music genre of choice for Moon Garou. Instead, the desert sole is a rather flat fish that likes to nestle at the bottom of sandy pools. Being sandy-coloured themselves, it makes for a rather difficult fish to spot, let alone catch.\n\nThe flatness of a desert sole once drew the attention of the dragonkin, Lacrussa. She noted the evolutionary benefit of being paper-thin, camouflaged and having organs spread out across the body. So she dabbled with the idea for dragons. Needless to say, her 'flat-dragon' years were some of her least productive.\n\nFor a flatfish without much weight to it, the desert sole really cranks out aromas. It's especially pungent, as if it is using its full surface area to emanate.\n\nYour best bet is to cook it quick-smart. You don't want to be that guy who goes to a gathering and opens a lunch bag with some raw desert sole."
         },
         "stations": [
+          "Ultra Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -40270,6 +40884,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
             {
               "name": "Giant Krill Bait",
               "qty": 1,
@@ -40322,11 +40942,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Raw giant krill is a Power Level 4 raw ingredient, which means it can be cooked at a campfire or grill into dried giant krill starting at Cooking level 41, and not burnt into burnt giant krill at level 50. It can also be used to make giant krill bait. It can be gathered from net fishing spots with at least a mystic net in Dowdun Reach.\n\n(Journal)\nKrill are tiny, harmless, little crustaceans, whose lives amount to little more than mass consumption by larger beasts. Yet, here on Ashenfall, the krill refuse to be the victim. Consuming anima they grow to unreasonable size, hoping to fight off any wood-be predators.\n\nThey are rarely successful.\n\nTo its krill kin, this creature is a beast of epic proportions. The sort of monster of legend that would tower over mountains and shatter towers with a single swipe of its enormous claws.\n\nHere, though, it’s a bit like a big shrimp. Much less intimidating."
         },
-        "stations": [
-          "Crafting Table",
-          "Campfire",
-          "Grill"
-        ],
         "step": 3,
         "band": 0,
         "rank": 4,
@@ -40358,6 +40973,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "3.1 kg"
             },
@@ -40372,6 +40991,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Smoked Infernal Eel",
               "qty": 1,
@@ -40409,6 +41034,7 @@ window.WILDS_STORAGE = [
           "description": "Raw infernal eel is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into smoked infernal eel starting at Cooking level 41, and not burnt into burnt infernal eel at level 50. It can be gathered from rod fishing spots with ideally a maple rod in Dowdun Reach at level 3 Fishing. Using giant krill bait increases the chance of catching one. It is the normal variant of a pristine infernal eel.\n\n(Journal)\nIn truth, this is not a demonic fish, but rather the result of a strange magical and infernal energies. The eel is naturally a magically attuned fish, some generate small thunderstorms within their flesh, others blend with shadows to become almost entirely invisible. These eels, infused as they were with the abundant anima of Ashenfall, became changed by the energies of Dowdun Reach's demonic rites.\n\nFortunately, the transformation, while a little disconcerting, only really serves to give the ma slightly spicy aftertaste.\n\nPossessed of a strangely smoky flavour, with a surprisingly spicy kick. Best cooked very carefully, preferably in the presence of a priest."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -40435,6 +41061,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "2.4 kg"
             },
@@ -40449,6 +41079,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Lobster Bait",
               "qty": 1,
@@ -40501,11 +41137,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Raw lobster is a Power Level 4 raw ingredient, which means it can be cooked at a campfire or grill into roasted lobster starting at Cooking level 41, and not burnt into burnt lobster at level 50. It can also be used to make lobster bait. It can be gathered from net fishing spots with at least a fine net in Fellhollow. It is the normal variant of a pristine lobster.\n\n(Journal)\nDo not be fooled by the traders on the street who preach of rare black lobsters worth unparalleled wealth. These are lies. For the rare black lobster is, in truth, a source of great darkness and evil.\n\nForged from black stone found beneath the waters of the Cursed Archipelago, the rare black lobster whispers terrible, terrible secrets to its bearer. It urges them towards darker and darker acts, until nothing of the host is left except an overwhelming urge towards evil\n\nSeek thee not the rare black lobster, for it will bring nought but despair.\n\nAlthough some people insits that a lobster must be boiled alive to get the best flavour, you have already put it out of its misery - fortunately for the lobster. Now you can look forward to boiling it guilt-free for a much gentler flavour."
         },
-        "stations": [
-          "Crafting Table",
-          "Campfire",
-          "Grill"
-        ],
         "step": 3,
         "band": 0,
         "rank": 4,
@@ -40562,6 +41193,12 @@ window.WILDS_STORAGE = [
               "station": "Grill"
             },
             {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
+            {
               "name": "Burnt Monkfish",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Burnt_Monkfish.png?101e2",
@@ -40595,11 +41232,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Raw monkfish is a power level 7 food that can be captured at net fishing spots in the Umbral Sands region.\n\n(Journal)\nThere are, in fact, two variants of the monkfish. One is the Piscatoris monkfish, known for its gamey taste and slightly depressed countenance. The other is the Ashenfall monkfish, which has a more trout-like flavour and a happier, almost smirking countenance. Anglers, who like to simplify things, distinguish them by calling them 'sad boy' and 'happy boy'.\n\nBoth monkfish are 'sad boys' when they're caught, of course.\n\nIt may be called the 'Ashenfall' monkfish, but you'd be hard-pressed to find it anywhere other than in Umbral Sands. That's mostly down to a lack of trade. The Moon Garou are an isolationist sort, preferring to keep their trading partners to other Moon Garou. Their closest non-garou partners would be the Black Knights but they, too, like to keep to themselves, and would prefer to deal with other humans over the garou.\n\nWhich is a shame, really, as monkfish deserves to go continental. Ashenfall monkfish is like trout, but with a slight fizzing sensation, similar to popping candy. If you've got a child or garou cub who won't eat their fish, then try them on Ashenfall monkfish. In our house, it's a gateway fish, leading onto other, less gimmicky fish."
         },
-        "stations": [
-          "Crafting Table",
-          "Campfire",
-          "Grill"
-        ],
         "step": 3,
         "band": 0,
         "rank": 4,
@@ -40631,6 +41263,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "3.0 kg"
             },
@@ -40645,6 +41281,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Grilled Undead Bass",
               "qty": 1,
@@ -40682,6 +41324,7 @@ window.WILDS_STORAGE = [
           "description": "Raw undead bass is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into grilled undead bass starting at Cooking level 41, and not burnt into burnt undead bass at level 50. It can be gathered from rod fishing spots with ideally a willow rod in Fellhollow at level 3 Fishing. Using spooky bait increases the chance of catching one. It is the normal variant of a pristine undead bass.\n\n(Journal)\nEven in death there are some fisherfolk who spend their quiet moments hooking these creatures. They wait, rictus still, in patience and draw these wretched things from beneath the waves only to find their prey as dead and decayed as they are, and cast them back into the waters.\n\nIn life, these are gamy fish, sleek of form and delicious with a bit of lemon. In unlife... well... they're a little less appetising, and lemons are surprisingly sparse on Ashenfall.\n\nStill, needs must."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -40708,6 +41351,10 @@ window.WILDS_STORAGE = [
               "value": "21 April 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "3.4 kg"
             },
@@ -40722,6 +41369,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Braised Undead Eel",
               "qty": 1,
@@ -40759,6 +41412,7 @@ window.WILDS_STORAGE = [
           "description": "Raw undead eel is a Power Level 4 raw ingredient, which means it can be cooked at a campfire, grill, or with Infernal Rod into braised undead eel starting at Cooking level 41, and not burnt into burnt undead eel at level 50. It can be gathered from rod fishing spots with ideally a willow rod in Fellhollow at level 3 Fishing. Using lobster bait increases the chance of catching one. It is the normal variant of a pristine undead eel.\n\n(Journal)\nThere is something deeply disturbing about a fish that remains to die. More disturbing still are the eels that slither and writhe and wriggle beneath the waters, their hearts no longer beating and their eyes filled with the milky-white film of rot and decay.\n\nSometimes, you have to ask yourself why you cook everything you find. Is this really going to make a succulent meal? Even dead it twitches occasionally, animated by some remnant of necromantic energy. Its flesh is partially decayed and the smell... oh the smell...\n\nI recommend cooking it very, very thoroughly."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -40799,6 +41453,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
             {
               "name": "Cauterised Undead Steak",
               "qty": 1,
@@ -40864,6 +41524,7 @@ window.WILDS_STORAGE = [
           "description": "Undead meat is a Power Level 4 raw ingredient, which means it can be cooked at a campfire or grill into cauterised undead steak starting at Cooking level 41, and not burnt into burnt undead steak at level 50. It is dropped by zombie cows, zombie rats, and rotridden rats in Fellhollow.\n\n(Journal)\nDespite the appearance of their former owners, and the deeply unpleasant smell emanating from it, undead meat is not rotten. It, like the nature of its former owners, is preserved in a state between life and death, as if it’s on the cusp of souring, but never quite getting there.\n\nThis unique nature gives it some very interesting properties, but sadly taste isn’t one of them."
         },
         "stations": [
+          "Super Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -42375,6 +43036,28 @@ window.WILDS_STORAGE = [
               "unlock": ""
             },
             {
+              "station": "Campfire",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Snivelling Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Snivelling_Sardine.png?8d092"
+                }
+              ],
+              "output": {
+                "name": "Fried Sardine",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Fried_Sardine.png?ea629"
+              },
+              "unlock": ""
+            },
+            {
               "station": "Grill",
               "skills": [
                 {
@@ -42387,6 +43070,28 @@ window.WILDS_STORAGE = [
                   "name": "Raw Sardine",
                   "qty": 1,
                   "img": "https://dragonwilds.runescape.wiki/images/Raw_Sardine.png?1d159"
+                }
+              ],
+              "output": {
+                "name": "Fried Sardine",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Fried_Sardine.png?ea629"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Grill",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Snivelling Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Snivelling_Sardine.png?8d092"
                 }
               ],
               "output": {
@@ -42415,6 +43120,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Lesser_Focused_Fishing_Potion.png?30834",
               "station": "Brewing Cauldron"
+            },
+            {
+              "name": "Pescaling Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Ring.png?cf566",
+              "station": "Crafting Table"
             }
           ],
           "sources": [],
@@ -43532,6 +44243,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Ground_Tea_Leaves.png?85906",
               "station": "Grindstone"
+            },
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
             }
           ],
           "sources": [
@@ -44000,6 +44717,12 @@ window.WILDS_STORAGE = [
             }
           ],
           "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
             {
               "name": "Strong Sweet Tea",
               "qty": 1,
@@ -44694,6 +45417,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Cadavaberry_Infusion.png?598f9",
               "station": "Cooking Range"
+            },
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
             }
           ],
           "sources": [
@@ -45192,6 +45921,12 @@ window.WILDS_STORAGE = [
           ],
           "usedIn": [
             {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
+            {
               "name": "Monkfish Skewers",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Monkfish_Skewers.png?20b59",
@@ -45325,6 +46060,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Pumpkin_Spice_Infusion.png?770e9",
               "station": "Cooking Range"
+            },
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
             },
             {
               "name": "Dubious Meat Pie",
@@ -45699,6 +46440,12 @@ window.WILDS_STORAGE = [
               "station": "Cooking Range"
             },
             {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
+            {
               "name": "Swabbie Pie",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Swabbie_Pie.png?a9aac",
@@ -45782,7 +46529,29 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Desert Sole",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?8c46c"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?ab4cc"
+                }
+              ],
+              "output": {
+                "name": "Sun Baked Sole",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Sun_Baked_Sole.png?34e46"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Campfire",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Depressed Desert Sole",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Depressed_Desert_Sole.png?8652c"
                 }
               ],
               "output": {
@@ -45804,7 +46573,29 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Desert Sole",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?8c46c"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?ab4cc"
+                }
+              ],
+              "output": {
+                "name": "Sun Baked Sole",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Sun_Baked_Sole.png?34e46"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Grill",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Depressed Desert Sole",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Depressed_Desert_Sole.png?8652c"
                 }
               ],
               "output": {
@@ -45816,6 +46607,12 @@ window.WILDS_STORAGE = [
             }
           ],
           "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
             {
               "name": "Swabbie Pie",
               "qty": 1,
@@ -46040,6 +46837,12 @@ window.WILDS_STORAGE = [
           ],
           "usedIn": [
             {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
+            {
               "name": "Monkfish Skewers",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Monkfish_Skewers.png?20b59",
@@ -46066,7 +46869,7 @@ window.WILDS_STORAGE = [
               "desc": "Grants RESISTANCE to SCORCH buildup"
             }
           ],
-          "description": "Cactus steak is a Power Level 5 consumable food item that provides 20 health and 20 sustenance when eaten. It can be cooked from cactus steak at either a campfire or grill. It requires Cooking level 50 to cook and 75 to not burn, otherwise creating burnt cactus Steak.\n\n(Journal)\nLook, not everyone gets to tuck into a redberry pie every night. Sometimes you have to make do, using the resources you have to hand. A cactus steak is very much 'making do': it's prickly to prepare, as you might expect, and tough to eat.\n\nIt's the kind of meal that makes a garou cub eyeroll and ask whether something other than cactus steak will be on the menu tomorrow. It doesn't matter that it's what nutritionists call a 'superfood', offering some alphabetical variety of vitamins. It's just not particularly exciting or flavoursome, and you might find your cubs making excuses to be elsewhere at dinnertime."
+          "description": "Cactus steak is a Power Level 5 consumable food item that provides 20 health and 20 sustenance when eaten. It can be cooked from cactus steak at either a campfire or grill. It requires Cooking level 50 to cook and 75 to not burn, otherwise creating burnt cactus steak.\n\n(Journal)\nLook, not everyone gets to tuck into a redberry pie every night. Sometimes you have to make do, using the resources you have to hand. A cactus steak is very much 'making do': it's prickly to prepare, as you might expect, and tough to eat.\n\nIt's the kind of meal that makes a garou cub eyeroll and ask whether something other than cactus steak will be on the menu tomorrow. It doesn't matter that it's what nutritionists call a 'superfood', offering some alphabetical variety of vitamins. It's just not particularly exciting or flavoursome, and you might find your cubs making excuses to be elsewhere at dinnertime."
         },
         "stations": [
           "Campfire",
@@ -46233,7 +47036,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Redberry roast rat is a consumable food item that provides 30 health and 45 sustenance. It is made with rat roast and dried redberries in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nDelicious roasted meat, with a redberry glaze. The fruit flavour combines with the meat in a sublime manner that makes it hard to eat this slowly."
+          "description": "Redberry roast rat is a consumable food item that provides 30 health and 45 sustenance. It is made with rat roast and dried redberries in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nDelicious roasted meat, with a redberry glaze. The fruit flavour combines with the meat in a sublime manner that makes it hard to eat this slowly."
         },
         "stations": [
           "Stone Range",
@@ -46497,7 +47300,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Beef & tomato stew is a consumable food item that provides 60 health and 65 sustenance. It is made with grilled tomatoes, steak, and dried redberries in a stone range or a cooking range, however a player must interact with a stone range first and have grilled tomatoes in their inventory to learn the recipe.\n\n(Journal)\nTomatoes go well with just about everything. They enhance the flavours of anything they’re paired with and a nice beef stew is no exception. The combined flavours are comforting as well as filling, and almost make you forget that you’re a long way from home, on a continent filled with murderous dragons."
+          "description": "Beef & tomato stew is a consumable food item that provides 60 health and 65 sustenance. It is made with grilled tomatoes, steak, and dried redberries in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range) and have grilled tomatoes in their inventory.\n\n(Journal)\nTomatoes go well with just about everything. They enhance the flavours of anything they’re paired with and a nice beef stew is no exception. The combined flavours are comforting as well as filling, and almost make you forget that you’re a long way from home, on a continent filled with murderous dragons."
         },
         "stations": [
           "Stone Range",
@@ -46638,7 +47441,7 @@ window.WILDS_STORAGE = [
               "desc": "REDUCES the STAMINA cost of WOODCUTTING and MINING by 33%"
             }
           ],
-          "description": "Cheeky fryup is a consumable food item that provides 70 health and 70 sustenance as well as the perk Foreman's Feast, which reduces the stamina cost of Woodcutting and Mining by 33% for 300 seconds. It is made with rat roast, baked potato, and fried egg in a stone range or a cooking range. It is learned by unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nThe grease. The sizzling scents. The feeling of your arteries withering just from a single glance at the dish. Is there anything in life as close to the divine as a nice, cheeky fry up?\n\nPopular among those who have consumed a few too many gnomish cocktails the night before, a cheeky fry up is hailed as a great cure for the pounding headache that follows such indulgences."
+          "description": "Cheeky fryup is a consumable food item that provides 70 health and 70 sustenance as well as the perk Foreman's Feast, which reduces the stamina cost of Woodcutting and Mining by 33% for 300 seconds. It is made with rat roast, baked potato, and fried egg in a stone range or a cooking range. It can be learned after unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range (not a cooking range) first.\n\n(Journal)\nThe grease. The sizzling scents. The feeling of your arteries withering just from a single glance at the dish. Is there anything in life as close to the divine as a nice, cheeky fry up?\n\nPopular among those who have consumed a few too many gnomish cocktails the night before, a cheeky fry up is hailed as a great cure for the pounding headache that follows such indulgences."
         },
         "stations": [
           "Stone Range",
@@ -46861,7 +47664,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Herb baked trout is a consumable food item that provides 100 health and 35 sustenance. It is made with grilled trout and baked potato in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nCathan was known for his love of herb baked trout. He would often claim it was 'the best thing you could do with a tater'. That was until Vannaka picked up a potato, threw it halfway across Temple Woods, and knocked the Party Hat off of Dionysius's head. Cathan subsequently admitted that herb baked trout was 'the second-best thing you could do with a tater'."
+          "description": "Herb baked trout is a consumable food item that provides 100 health and 35 sustenance. It is made with grilled trout and baked potato in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nCathan was known for his love of herb baked trout. He would often claim it was 'the best thing you could do with a tater'. That was until Vannaka picked up a potato, threw it halfway across Temple Woods, and knocked the Party Hat off of Dionysius's head. Cathan subsequently admitted that herb baked trout was 'the second-best thing you could do with a tater'."
         },
         "stations": [
           "Stone Range",
@@ -46977,7 +47780,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Meat stew is a consumable food item that provides 50 health and 50 sustenance. It is made with fillet and haunch in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nA classic meal across multiple realities. The aviansie enjoy a version of this using insects called Tobi’itmispelled To'bit. Goblins make their meat stews out of anything they can find… results vary."
+          "description": "Meat stew is a consumable food item that provides 50 health and 50 sustenance. It is made with fillet and haunch in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nA classic meal across multiple realities. The aviansie enjoy a version of this using insects called Tobi’itmispelled To'bit. Goblins make their meat stews out of anything they can find… results vary."
         },
         "stations": [
           "Stone Range",
@@ -47111,7 +47914,7 @@ window.WILDS_STORAGE = [
               "desc": "REDUCES HUNGER drain by 25%"
             }
           ],
-          "description": "Mixed grill is a consumable food item that provides 70 health and 70 sustenance as well as the perk Meaty Meal, which reduces the player's hunger drain by 25% for 300 seconds. It is made with fillet, haunch, and steak in a stone range or a cooking range. It is learned by unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nFor the carnivore in you, a plate of meat mixed with meat."
+          "description": "Mixed grill is a consumable food item that provides 70 health and 70 sustenance as well as the perk Meaty Meal, which reduces the player's hunger drain by 25% for 300 seconds. It is made with fillet, haunch, and steak in a stone range or a cooking range. It can be learned after unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range (not a cooking range) first.\n\n(Journal)\nFor the carnivore in you, a plate of meat mixed with meat."
         },
         "stations": [
           "Stone Range",
@@ -47216,7 +48019,7 @@ window.WILDS_STORAGE = [
               "desc": "Grants RESISTANCE to POISON effects"
             }
           ],
-          "description": "Mushroom kebab is a consumable food item that provides 120 health, 110 sustenance as well as the perks Foreman's Feast and Fungal Fortitude, which reduces the stamina cost of Woodcutting and Mining by 33% and reduces Poison buildup by 33% for 600 seconds. It is made with grilled mushrooms, fried cabbage, haunch, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\n(Journal)\nThe Drunken Dwarf delights in the humble Kebab, offering it to any who might grab his attention. The delicious combination of spices and subtle flavourings makes it a marvellous meal. For those afflicted, or self-inflicted, with particular poisonings, the Kebab is a time-honoured remedy."
+          "description": "Mushroom kebab is a consumable food item that provides 120 health, 110 sustenance as well as the perks Foreman's Feast and Fungal Fortitude, which reduces the stamina cost of Woodcutting and Mining by 33% and reduces Poison buildup by 33% for 600 seconds. It is made with grilled mushrooms, fried cabbage, haunch, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\nGiven that this food provides more than the maximum 100 sustenance, the remaining 10 sustenance simply causes Over Eating to build up faster.\n\n(Journal)\nThe Drunken Dwarf delights in the humble Kebab, offering it to any who might grab his attention. The delicious combination of spices and subtle flavourings makes it a marvellous meal. For those afflicted, or self-inflicted, with particular poisonings, the Kebab is a time-honoured remedy."
         },
         "stations": [
           "Cooking Range"
@@ -47441,7 +48244,7 @@ window.WILDS_STORAGE = [
               "desc": "Increases Hit Point regeneration."
             }
           ],
-          "description": "Sauteed sardines are a consumable food item that provides 70 health and 25 sustenance, as well as granting the perk Sea Life, which restores 3 health every second for 600 seconds. They are made with fried sardine and dried redberries in a stone range or a cooking range; however, a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nA fried sardine, also known as a charred pilchard or 'pilcharred', is the go-to snack for a fisherman's pocket. If you see a stoic fisherman who talks very little, it's likely because they've got a mouthful of fried sardine and don't want to reveal the bones between their teeth.\n\nFried sardines were also the subject of a failed business venture by a dwarf called Drorkar. He tried to manufacture 'tins' that would contain these sardines, with smithed 'rings' to open their tiny metal coffins. It was roundly rejected and cost the dwarf a great deal."
+          "description": "Sauteed sardines are a consumable food item that provides 70 health and 25 sustenance, as well as granting the perk Sea Life, which restores 3 health every second for 600 seconds. They are made with fried sardine and dried redberries in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nA fried sardine, also known as a charred pilchard or 'pilcharred', is the go-to snack for a fisherman's pocket. If you see a stoic fisherman who talks very little, it's likely because they've got a mouthful of fried sardine and don't want to reveal the bones between their teeth.\n\nFried sardines were also the subject of a failed business venture by a dwarf called Drorkar. He tried to manufacture 'tins' that would contain these sardines, with smithed 'rings' to open their tiny metal coffins. It was roundly rejected and cost the dwarf a great deal."
         },
         "stations": [
           "Stone Range",
@@ -47559,7 +48362,7 @@ window.WILDS_STORAGE = [
               "desc": "Makes you immune to the slowing effects of water."
             }
           ],
-          "description": "Shrimp omelette is a consumable food item that provides 50 health and 15 sustenance as well as the perk Sea Legs, which makes you immune to the slowing effects of water for 600 seconds. It is made with fried egg and sauteed shrimp in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nIt was inevitable that shrimp, known as the 'eggs of the sea' for being over-easy to catch, would get combined with actual eggs to form a meal. Shrimp Omelette is the go-to feast for a shipman, often whipped up by the ship's cook and delivered en masse to the crew. If you're assigned to a long-haul crew, it's best to get a taste for the 'Shrompy' (as it's often shortened).\n\nShrompy is also common among Wizards' Guild students who only have space in their dorms for a frying pan and some fire runes."
+          "description": "Shrimp omelette is a consumable food item that provides 50 health and 15 sustenance as well as the perk Sea Legs, which makes you immune to the slowing effects of water for 600 seconds. It is made with fried egg and sauteed shrimp in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nIt was inevitable that shrimp, known as the 'eggs of the sea' for being over-easy to catch, would get combined with actual eggs to form a meal. Shrimp Omelette is the go-to feast for a shipman, often whipped up by the ship's cook and delivered en masse to the crew. If you're assigned to a long-haul crew, it's best to get a taste for the 'Shrompy' (as it's often shortened).\n\nShrompy is also common among Wizards' Guild students who only have space in their dorms for a frying pan and some fire runes."
         },
         "stations": [
           "Stone Range",
@@ -47681,7 +48484,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Steak 'n' eggs is a consumable food item that provides 40 health and 50 sustenance. It is made with fried egg and steak in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nSome meals require silence. As you chew each mouthful, you reminisce on times past. On loved ones lost. On friends remembered. On moments that bring a smile to your face – simple and uncomplicated, without the weight of the world’s burdens crushing down on you. This is one of those meals."
+          "description": "Steak 'n' eggs is a consumable food item that provides 40 health and 50 sustenance. It is made with fried egg and steak in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nSome meals require silence. As you chew each mouthful, you reminisce on times past. On loved ones lost. On friends remembered. On moments that bring a smile to your face – simple and uncomplicated, without the weight of the world’s burdens crushing down on you. This is one of those meals."
         },
         "stations": [
           "Stone Range",
@@ -47822,7 +48625,7 @@ window.WILDS_STORAGE = [
               "desc": "Grants a 10% XP BOOST"
             }
           ],
-          "description": "Sweet veg ball is a consumable food item that provides 70 health 65 sustenance as well as the perk Knowledgable Nourishment, which increases the player's experience gain in all skills by 10% for 300 seconds. It is made with fried cabbage, baked potato, and dried redberries in a stone range or a cooking range. It is learned by unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nPopular among gnomes, this sticky ball of fruits and vegetables is a combination of savoury and sweet that almost feels like it shouldn’t work. Yet it does.\n\nThere is a crispness to the outer shell, savoury and salty, which gives way to a delicious fruity sweetness beneath.\n\nGnomish ambassadors would create large numbers of these sweet treats, piled high on silver platters, to delight visiting dignitaries at lavish receptions. Diplomats would often joke about being spoiled by such treats. Which is ironic really, as these spoil very quickly, so enjoy them now while you can."
+          "description": "Sweet veg ball is a consumable food item that provides 70 health 65 sustenance as well as the perk Knowledgable Nourishment, which increases the player's experience gain in all skills by 10% for 300 seconds. It is made with fried cabbage, baked potato, and dried redberries in a stone range or a cooking range. It can be learned after unlocking Amateur Culinaromancer at level 16 Cooking, and requires interacting with a stone range (not a cooking range) first.\n\n(Journal)\nPopular among gnomes, this sticky ball of fruits and vegetables is a combination of savoury and sweet that almost feels like it shouldn’t work. Yet it does.\n\nThere is a crispness to the outer shell, savoury and salty, which gives way to a delicious fruity sweetness beneath.\n\nGnomish ambassadors would create large numbers of these sweet treats, piled high on silver platters, to delight visiting dignitaries at lavish receptions. Diplomats would often joke about being spoiled by such treats. Which is ironic really, as these spoil very quickly, so enjoy them now while you can."
         },
         "stations": [
           "Stone Range",
@@ -47954,7 +48757,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Vegan fryup is a consumable food item that provides 70 health and 70 sustenance. It is made with baked potato, fried cabbage, and grilled tomatoes in a stone range or a cooking range; however, a player must interact with a stone range and have grilled tomatoes in their inventory first to learn the recipe.\n\n(Journal)\nCrisp and delicious vegetables, neatly fried mushrooms, there are few breakfasts quite as delicious as a fry up, even for those who abjure bacon."
+          "description": "Vegan fryup is a consumable food item that provides 70 health and 70 sustenance. It is made with baked potato, fried cabbage, and grilled tomatoes in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range) and have grilled tomatoes in their inventory.\n\n(Journal)\nCrisp and delicious vegetables, neatly fried mushrooms, there are few breakfasts quite as delicious as a fry up, even for those who abjure bacon."
         },
         "stations": [
           "Stone Range",
@@ -48063,7 +48866,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Vegetable soup is a consumable food item that provides 40 health and 50 sustenance. It is made with fried cabbage and baked potato in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nA good soup won’t just fill your stomach, it’ll lift your spirits. Warm and comforting, the taste of home. Popular across all of Gielinor by anyone with a pan and some vegetables."
+          "description": "Vegetable soup is a consumable food item that provides 40 health and 50 sustenance. It is made with fried cabbage and baked potato in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nA good soup won’t just fill your stomach, it’ll lift your spirits. Warm and comforting, the taste of home. Popular across all of Gielinor by anyone with a pan and some vegetables."
         },
         "stations": [
           "Stone Range",
@@ -48262,7 +49065,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Dwellberry crunchies are a consumable food item that provides 70 health and 40 sustenance. They are made with dried dwellberries and wheat in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nDwellberries on Ashenfall are heartier than their mainland counterparts, and make for excellent ingredients. The Wild Knights were particularly fond of this recipe, though they referred to them as “dwellberry splats” because Olis, their creator, wasn’t a particularly good chef."
+          "description": "Dwellberry crunchies are a consumable food item that provides 70 health and 40 sustenance. They are made with dried dwellberries and wheat in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nDwellberries on Ashenfall are heartier than their mainland counterparts, and make for excellent ingredients. The Wild Knights were particularly fond of this recipe, though they referred to them as “dwellberry splats” because Olis, their creator, wasn’t a particularly good chef."
         },
         "stations": [
           "Stone Range",
@@ -48380,7 +49183,7 @@ window.WILDS_STORAGE = [
               "desc": "Increases Hit Point regeneration."
             }
           ],
-          "description": "Eggs royale is a consumable food item that provides 120 health and 30 sustenance as well as the perk Sea Life, which restores 3 health every second for 900 seconds. It is made with fried egg and fried salmon in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nDo you know what they call an eggs royale in Asgarnia? 'Salmon and egg'. Barbarians.\n\nThere aren't many flavours that go together as well as salmon and egg. Pork and cheese. Bread and butter. Fishing potions and a hangover."
+          "description": "Eggs royale is a consumable food item that provides 120 health and 30 sustenance as well as the perk Sea Life, which restores 3 health every second for 900 seconds. It is made with fried egg and fried salmon in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nDo you know what they call an eggs royale in Asgarnia? 'Salmon and egg'. Barbarians.\n\nThere aren't many flavours that go together as well as salmon and egg. Pork and cheese. Bread and butter. Fishing potions and a hangover."
         },
         "stations": [
           "Stone Range",
@@ -48473,7 +49276,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Fruit pie is a consumable food item that provides 90 health and 85 sustenance. It is made with dried redberries, dried dwellberries, and bread in a cooking range. Dried redberries or dried dwellberries are required in the player's inventory to unlock the recipe.\n\n(Journal)\nGrannies everywhere are masters of this dish. Delicious fruits, a touch of sugar, some delightful pastry and that final ingredient - a dark blessing to ancient gods.\n\nOr love, that works too.\n\nWith the pact complete, these pies allow you those fond memories of comfort, hope and family. Something much needed out in the wilds of Ashenfall."
+          "description": "Fruit pie is a consumable food item that provides 90 health and 85 sustenance. It is made with dried redberries, dried dwellberries, and bread in a cooking range. Dried redberries, dried dwellberries, and Dried Cadavaberries are required in the player's inventory to unlock the recipe.\n\n(Journal)\nGrannies everywhere are masters of this dish. Delicious fruits, a touch of sugar, some delightful pastry and that final ingredient - a dark blessing to ancient gods.\n\nOr love, that works too.\n\nWith the pact complete, these pies allow you those fond memories of comfort, hope and family. Something much needed out in the wilds of Ashenfall."
         },
         "stations": [
           "Cooking Range"
@@ -48577,7 +49380,7 @@ window.WILDS_STORAGE = [
               "desc": "Grants RESISTANCE to BLEED effects"
             }
           ],
-          "description": "Meat pizza is a consumable food item that provides 90 health, 110 sustenance as well the perks Meaty Meal and Coagulated, which reduces hunger drain by 25% and reduces Bleed buildup for 600 seconds. It is made with flank steak, fillet, haunch, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\n(Journal)\nA delicious pizza, covered in juicy tender pieces of meat, and seasoned with a delicious sauce. You might ask yourself where the cheese comes from, but it’s best not to think too hard about it. Ashenfall has many secrets and those who survive here must do many strange things. No one judges you for this “cheese”, it’s fine.\n\nJust enjoy the delicious flavours and try not to have an existential crisis."
+          "description": "Meat pizza is a consumable food item that provides 90 health, 110 sustenance as well the perks Meaty Meal and Coagulated, which reduces hunger drain by 25% and reduces Bleed buildup for 600 seconds. It is made with flank steak, fillet, haunch, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\nGiven that this food provides more than the maximum 100 sustenance, the remaining 10 sustenance simply causes Over Eating to build up faster.\n\n(Journal)\nA delicious pizza, covered in juicy tender pieces of meat, and seasoned with a delicious sauce. You might ask yourself where the cheese comes from, but it’s best not to think too hard about it. Ashenfall has many secrets and those who survive here must do many strange things. No one judges you for this “cheese”, it’s fine.\n\nJust enjoy the delicious flavours and try not to have an existential crisis."
         },
         "stations": [
           "Cooking Range"
@@ -49236,7 +50039,7 @@ window.WILDS_STORAGE = [
               "desc": "REDUCES the amount of SHOCK damage taken"
             }
           ],
-          "description": "Wild pie is a consumable food item that provides 90 health, 110 sustenance as well as the perks Knowledgable Nourishment and Grounded, which increases experience gain in all skills by 10%, and reduces the amount of shock damage taken for 600 seconds. It is made with fried onions, baked potato, dried dwellberries, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\n(Journal)\nA delicious pastry crust seals the flavours inside. Warm and filling, each bite designed to fill you with comfort. The flavour is earthy, and rich, letting you shrug off almost anything."
+          "description": "Wild pie is a consumable food item that provides 90 health, 110 sustenance as well as the perks Knowledgable Nourishment and Grounded, which increases experience gain in all skills by 10%, and reduces the amount of shock damage taken for 600 seconds. It is made with fried onions, baked potato, dried dwellberries, and bread in a cooking range and learned by unlocking Adept Culinaromancer at level 36 Cooking.\n\nGiven that this food provides more than the maximum 100 sustenance, the remaining 10 sustenance simply causes Over Eating to build up faster.\n\n(Journal)\nA delicious pastry crust seals the flavours inside. Warm and filling, each bite designed to fill you with comfort. The flavour is earthy, and rich, letting you shrug off almost anything."
         },
         "stations": [
           "Cooking Range"
@@ -49322,7 +50125,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -50129,7 +50939,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -50258,7 +51075,7 @@ window.WILDS_STORAGE = [
               "desc": "Increases Hit Point regeneration."
             }
           ],
-          "description": "Undead delight is a consumable food item that provides 180 health and 70 sustenance as well as the perk Sea Life, which restores 3 health every second for 1,200 seconds. It is made with grilled undead bass and grilled tomatoes in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\n'Undead Delight' sounds like an audio track from a long-forgotten Halloween event, but NO - it's an unexpectedly tasty meal. The very dead flavours of an undead bass are meshed with the very alive flavours of a tomato, and the combination is capital-D Delicious.\n\nWe will admit that it's off-putting that the un-alive also find the Undead Delight tasty. Put it in front of a skeleton, zombie, demon or other wretched being and they will gobble it up like there's no tomorrow."
+          "description": "Undead delight is a consumable food item that provides 180 health and 70 sustenance as well as the perk Sea Life, which restores 3 health every second for 1,200 seconds. It is made with grilled undead bass and grilled tomatoes in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\n'Undead Delight' sounds like an audio track from a long-forgotten Halloween event, but NO - it's an unexpectedly tasty meal. The very dead flavours of an undead bass are meshed with the very alive flavours of a tomato, and the combination is capital-D Delicious.\n\nWe will admit that it's off-putting that the un-alive also find the Undead Delight tasty. Put it in front of a skeleton, zombie, demon or other wretched being and they will gobble it up like there's no tomorrow."
         },
         "stations": [
           "Stone Range",
@@ -50367,7 +51184,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [
@@ -50380,7 +51204,7 @@ window.WILDS_STORAGE = [
               "desc": "Grants RESISTANCE to SCORCH buildup"
             }
           ],
-          "description": "Monkfish skewers are a consumable food item that provide 120 health and 50 sustenance as well as the perks Sea Life and Frosted Flavours, which restores 3 health every second and reduces the rate at which Scorch is accumulated for 300 seconds. They are made with monkfish fillets and seared cactus steak in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nMonkfish skewers are the friend of any travelling Moon Garou. Compact and easy to carry, a couple of dozen can be taken on any scouting or hunting party. They also double-up as weapons, should a garou find themselves ambushed during a hearty meal. It's not uncommon to see a half-dead kalphite staggering about in the desert with rows of monkfish skewers puncturing their carapace. They look a little like a buffet dish."
+          "description": "Monkfish skewers are a consumable food item that provide 120 health and 50 sustenance as well as the perks Sea Life and Frosted Flavours, which restores 3 health every second and reduces the rate at which Scorch is accumulated for 300 seconds. They are made with monkfish fillets and seared cactus steak in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nMonkfish skewers are the friend of any travelling Moon Garou. Compact and easy to carry, a couple of dozen can be taken on any scouting or hunting party. They also double-up as weapons, should a garou find themselves ambushed during a hearty meal. It's not uncommon to see a half-dead kalphite staggering about in the desert with rows of monkfish skewers puncturing their carapace. They look a little like a buffet dish."
         },
         "stations": [
           "Stone Range",
@@ -50635,7 +51459,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -50739,6 +51570,12 @@ window.WILDS_STORAGE = [
             }
           ],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Dowdun Raven Perch",
               "qty": 1,
@@ -50854,7 +51691,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -50957,7 +51801,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -50999,10 +51850,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -51064,7 +51911,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51163,7 +52017,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51262,7 +52123,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51361,7 +52229,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51464,7 +52339,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51509,10 +52391,6 @@ window.WILDS_STORAGE = [
               "value": "10"
             },
             {
-              "label": "Compost value",
-              "value": "10"
-            },
-            {
               "label": "Weight",
               "value": "1.5 kg"
             },
@@ -51549,6 +52427,28 @@ window.WILDS_STORAGE = [
               "unlock": ""
             },
             {
+              "station": "Campfire",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Snivelling Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Snivelling_Sardine.png?8d092"
+                }
+              ],
+              "output": {
+                "name": "Burnt Sardine",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Burnt_Sardine.png?6a39c"
+              },
+              "unlock": ""
+            },
+            {
               "station": "Grill",
               "skills": [
                 {
@@ -51569,9 +52469,38 @@ window.WILDS_STORAGE = [
                 "img": "https://dragonwilds.runescape.wiki/images/Burnt_Sardine.png?6a39c"
               },
               "unlock": ""
+            },
+            {
+              "station": "Grill",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Snivelling Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Snivelling_Sardine.png?8d092"
+                }
+              ],
+              "output": {
+                "name": "Burnt Sardine",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Burnt_Sardine.png?6a39c"
+              },
+              "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51613,10 +52542,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -51678,7 +52603,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51777,7 +52709,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51876,7 +52815,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -51918,10 +52864,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -51983,7 +52925,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -52025,10 +52974,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -52090,7 +53035,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -52189,7 +53141,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -52292,7 +53251,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [
             {
               "source": "Carnivorous Chinchompa",
@@ -52340,10 +53306,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -52405,7 +53367,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -52504,7 +53473,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -52603,7 +53579,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -52645,10 +53628,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -52710,7 +53689,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -52753,10 +53739,6 @@ window.WILDS_STORAGE = [
             {
               "label": "Sustenance",
               "value": "15"
-            },
-            {
-              "label": "Compost value",
-              "value": "10"
             },
             {
               "label": "Weight",
@@ -52920,7 +53902,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -52962,10 +53951,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -53027,7 +54012,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -53077,7 +54069,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Weight",
-              "value": "1 kg"
+              "value": "1.0 kg"
             },
             {
               "label": "Stack limit",
@@ -53101,7 +54093,29 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Desert Sole",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?8c46c"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?ab4cc"
+                }
+              ],
+              "output": {
+                "name": "Burnt Desert Sole",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Burnt_Desert_Sole.png?70e9c"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Campfire",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Depressed Desert Sole",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Depressed_Desert_Sole.png?8652c"
                 }
               ],
               "output": {
@@ -53123,7 +54137,29 @@ window.WILDS_STORAGE = [
                 {
                   "name": "Raw Desert Sole",
                   "qty": 1,
-                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?8c46c"
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?ab4cc"
+                }
+              ],
+              "output": {
+                "name": "Burnt Desert Sole",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Burnt_Desert_Sole.png?70e9c"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Grill",
+              "skills": [
+                {
+                  "name": "Cooking",
+                  "xp": 10
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Depressed Desert Sole",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Depressed_Desert_Sole.png?8652c"
                 }
               ],
               "output": {
@@ -53134,11 +54170,18 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Burnt desert sole are consumable burnt food that have a chance to be made when cooking raw desert sole, providing 15 sustenance when consumed. It can also be used as compost in a compost bin."
+          "description": "Burnt desert soles are consumable burnt food that have a chance to be made when cooking raw desert sole, providing 15 sustenance when consumed. It can also be used as compost in an ultra compost bin."
         },
         "stations": [
           "Campfire",
@@ -53176,10 +54219,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -53241,7 +54280,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -53283,10 +54329,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -53348,7 +54390,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -53390,10 +54439,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -53455,7 +54500,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -53602,7 +54654,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -53645,10 +54704,6 @@ window.WILDS_STORAGE = [
             {
               "label": "Sustenance",
               "value": "15"
-            },
-            {
-              "label": "Compost value",
-              "value": "10"
             },
             {
               "label": "Weight",
@@ -53812,7 +54867,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -53860,10 +54922,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -53925,7 +54983,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -53967,10 +55032,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -54032,7 +55093,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -54109,7 +55177,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -54150,10 +55225,6 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Sustenance",
-              "value": "10"
-            },
-            {
-              "label": "Compost value",
               "value": "10"
             },
             {
@@ -54215,7 +55286,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -55260,7 +56338,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Weak Focused Fishing potion grants the perk Focused Fishing, which provides a 5-minute (300-second) +15% XP boost for the Fishing skill. It is made with marrentil, sauteed shrimp, and clay vessel in a brewing cauldron.\n\n(Journal)\n'Weak' and 'focused' may seem like an oxymoron, but you have to look at the terms from a different perspective. When we say 'focused' we mean you - the angler - and your concentration. It is a measure of how much you narrow your eyes, quell your breath, and attribute all of your senses to the timeless art of poking hooks into fish. This potion increases those faculties. You become so focused that nothing else in the world matters.\n\nAnd by 'weak' we mean that the potion is a little bit rubbish at doing all of the above."
+          "description": "Weak Focused Fishing potion grants the perk Focused Fishing, which provides a 5-minute (300-second) +15% XP boost for the Fishing skill. It is made with marrentil, sauteed shrimp, and clay vessel in a brewing cauldron. This potion is unlocked by cooking shrimp the first time.\n\n(Journal)\n'Weak' and 'focused' may seem like an oxymoron, but you have to look at the terms from a different perspective. When we say 'focused' we mean you - the angler - and your concentration. It is a measure of how much you narrow your eyes, quell your breath, and attribute all of your senses to the timeless art of poking hooks into fish. This potion increases those faculties. You become so focused that nothing else in the world matters.\n\nAnd by 'weak' we mean that the potion is a little bit rubbish at doing all of the above."
         },
         "stations": [
           "Brewing Cauldron"
@@ -58668,7 +59746,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.81/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -58736,7 +59814,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.9/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -58799,7 +59877,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.81/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -58867,7 +59945,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.81/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -58935,7 +60013,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.81/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -58998,7 +60076,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.9/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -59061,7 +60139,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.81/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -59129,7 +60207,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.9/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -59192,7 +60270,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.81/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -59488,7 +60566,7 @@ window.WILDS_STORAGE = [
               "desc": "REDUCES the STAMINA cost of MAGIC ATTACKS by 33%"
             }
           ],
-          "description": "Arcane infusion is a consumable drink item that provides 40 hydration and grants the perk Arcane Aligned, which reduces the stamina cost of magic attacks by 33% for 300 seconds. It is made with clean water, antler, and harralander in a stone range or Cooking Range. It is learned by unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nWizards always push themselves too far. They compete academically with anything that moves, insisting on demonstrating their intellectual superior over everyone around them. Their intelligence is a glittering brooch that must be seen by everyone.\n\nNaturally, this sort of mentality causes many a wizard to burn out. Academia creates a sort of stress that could be bottled and weaponised, only to be banned by conventions around the world for its cruelty. Yet, a wizard does it to themselves, pushing and pushing beyond the limits of the human condition.\n\nInevitably they turn to external solutions, and this particular mixture has pushed many a mage past academic burnout just long enough to get by. Somehow it makes magic flow easier, spells cast stronger than before, and the wizard is capable of feats they might never have achieved before.\n\nThey also tell themselves that it lets them get by on only two hours of sleep a night. It does not and it all catches up with them in the end. Wizard burnout can be disturbingly literal."
+          "description": "Arcane infusion is a consumable drink item that provides 40 hydration and grants the perk Arcane Aligned, which reduces the stamina cost of magic attacks by 33% for 300 seconds. It is made with clean water, antler, and harralander in a stone range or cooking range. It can be learned after unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range (not a cooking range) first.\n\n(Journal)\nWizards always push themselves too far. They compete academically with anything that moves, insisting on demonstrating their intellectual superior over everyone around them. Their intelligence is a glittering brooch that must be seen by everyone.\n\nNaturally, this sort of mentality causes many a wizard to burn out. Academia creates a sort of stress that could be bottled and weaponised, only to be banned by conventions around the world for its cruelty. Yet, a wizard does it to themselves, pushing and pushing beyond the limits of the human condition.\n\nInevitably they turn to external solutions, and this particular mixture has pushed many a mage past academic burnout just long enough to get by. Somehow it makes magic flow easier, spells cast stronger than before, and the wizard is capable of feats they might never have achieved before.\n\nThey also tell themselves that it lets them get by on only two hours of sleep a night. It does not and it all catches up with them in the end. Wizard burnout can be disturbingly literal."
         },
         "stations": [
           "Stone Range",
@@ -59715,7 +60793,7 @@ window.WILDS_STORAGE = [
               "desc": "THIRST drains 33% SLOWER"
             }
           ],
-          "description": "Dwellberry infusion is a consumable drink item that provides 40 hydration and grants the perk Quenched, which reduces thirst drain by 33% for 600 seconds. It is made with clean water and dwellberries in a stone range or cooking range. However, a player must interact with a stone range first to learn the recipe.\n\n(Journal)\nDelicious dwellberry infuses the water with a delightful flavour. It's easier and far more refreshing than normal water."
+          "description": "Dwellberry infusion is a consumable drink item that provides 40 hydration and grants the perk Quenched, which reduces thirst drain by 33% for 600 seconds. It is made with clean water and dwellberries in a stone range or cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range).\n\n(Journal)\nDelicious dwellberry infuses the water with a delightful flavour. It's easier and far more refreshing than normal water."
         },
         "stations": [
           "Stone Range",
@@ -59997,7 +61075,7 @@ window.WILDS_STORAGE = [
               "desc": "REDUCES the STAMINA cost of PHYSICAL ATTACKS by 33%"
             }
           ],
-          "description": "Ferocious infusion is a consumable drink item that provides 40 hydration and grants the perk Ferocious Fighter, which reduces the stamina cost of physical attacks by 33% for 300 seconds. It is made with clean water, animal bone, and harralander in a stone range or cooking range. It is learned by unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nBoiling away the tainted material in the water, while infusing it with an animal bone, causes the mixture to draw in some of the primal resonance of the bone. Drinking the infusion temporarily allows the drinker to feel some of that animalistic ferocity."
+          "description": "Ferocious infusion is a consumable drink item that provides 40 hydration and grants the perk Ferocious Fighter, which reduces the stamina cost of physical attacks by 33% for 300 seconds. It is made with clean water, animal bone, and harralander in a stone range or cooking range. It can be learned after unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range (not a cooking range) first.\n\n(Journal)\nBoiling away the tainted material in the water, while infusing it with an animal bone, causes the mixture to draw in some of the primal resonance of the bone. Drinking the infusion temporarily allows the drinker to feel some of that animalistic ferocity."
         },
         "stations": [
           "Stone Range",
@@ -60389,7 +61467,7 @@ window.WILDS_STORAGE = [
               "desc": "THIRST drains 33% SLOWER"
             }
           ],
-          "description": "Redberry infusion is a consumable drink item that provides 40 hydration and grants the perk Quenched, which reduces thirst drain by 33% for 300 seconds. It is made with clean water and redberries in a stone range or a cooking range, however a player must interact with a stone range first to learn the recipe. It is used in Victoria sponge cake.\n\n(Journal)\nThe juice of the berries infuses the water with a pleasant flavour. It’s easier and more refreshing to drink, offering greater hydrating properties than normal water."
+          "description": "Redberry infusion is a consumable drink item that provides 40 hydration and grants the perk Quenched, which reduces thirst drain by 33% for 300 seconds. It is made with clean water and redberries in a stone range or a cooking range. However, to learn the recipe, players must interact with a stone range (not a cooking range). It is used in Victoria sponge cake.\n\n(Journal)\nThe juice of the berries infuses the water with a pleasant flavour. It’s easier and more refreshing to drink, offering greater hydrating properties than normal water."
         },
         "stations": [
           "Stone Range",
@@ -61113,6 +62191,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Umbral Sands)",
               "qty": "1",
               "rarity": "0.38/100"
+            },
+            {
+              "source": "A Reel Downer Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
             }
           ],
           "shops": [],
@@ -61572,7 +62655,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.81/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -61639,7 +62722,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.81/100"
+              "rarity": "1/11.9"
             },
             {
               "source": "Chest (Dowdun Reach)",
@@ -61655,6 +62738,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Scorned Wilderness)",
               "qty": "1",
               "rarity": "1/26.5"
+            },
+            {
+              "source": "A Reel Downer Reward Pack",
+              "qty": "1",
+              "rarity": "Always"
             }
           ],
           "shops": [],
@@ -62552,7 +63640,7 @@ window.WILDS_STORAGE = [
               "desc": "REDUCES the STAMINA cost of RANGED ATTACKS by 33%"
             }
           ],
-          "description": "Relentless infusion is a consumable drink item that provides 40 hydration and grants the perk Relentless Ranger, which reduces the stamina cost of ranged attacks by 33% for 300 seconds. It is made with clean water, animal hide scraps, and harralander in a stone range or cooking range. It is learned by unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nPopular among Wild Knight scouts, this mixture focussed the senses and improved reaction times. It was taken by hunters as they explored the dangerous forests of Ashenfall, allowing them respond to threats faster than before. Those extra moments saved countless lives.\n\nIn the village of Bramblemead there was a contingent of foolish youngsters who began drinking this mixture in large quantities, due to the energetic thrill it created. It would allow them to engage in strenuous activities for far longer without getting tired.\n\nIts popularly began to grow among older members of the population as well, though no one would be willing to explain why."
+          "description": "Relentless infusion is a consumable drink item that provides 40 hydration and grants the perk Relentless Ranger, which reduces the stamina cost of ranged attacks by 33% for 300 seconds. It is made with clean water, animal hide scraps, and harralander in a stone range or cooking range. It can be learned after unlocking Teamonger at level 14 Cooking, and requires interacting with a stone range (not a cooking range) first.\n\n(Journal)\nPopular among Wild Knight scouts, this mixture focussed the senses and improved reaction times. It was taken by hunters as they explored the dangerous forests of Ashenfall, allowing them respond to threats faster than before. Those extra moments saved countless lives.\n\nIn the village of Bramblemead there was a contingent of foolish youngsters who began drinking this mixture in large quantities, due to the energetic thrill it created. It would allow them to engage in strenuous activities for far longer without getting tired.\n\nIts popularly began to grow among older members of the population as well, though no one would be willing to explain why."
         },
         "stations": [
           "Stone Range",
@@ -62634,7 +63722,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Stamina potion grants the perk Stamina Potion, preventing stamina drain from all actions for 20 seconds. Upon using the potion, the player must wait roughly 75 seconds (1 minute and 15 seconds) starting from consumption to use another potion. This, effectively, means players must wait 55 seconds after the potion effect ends to use another dose if players want to multi-dose.\n\n(Journal)\nThe frustrating thing about agility courses is that you can't keep doing them forever. Agility's final boss is lactic acid, and it likes to stick spears into your muscles and joints.\n\nWell, the humble stamina potion is +1 against lactic acid. If you're planning on physical activity and want to flick the bird to exhaustion, then we would recommend making one or two."
+          "description": "Stamina potion grants the perk Stamina Potion, preventing stamina drain from all actions for 20 seconds. Upon using the potion, the player must wait roughly 75 seconds (1 minute and 15 seconds) starting from consumption to use another potion. This, effectively, means players must wait 55 seconds after the potion effect ends to use another dose if players want to multi-dose.\n\nThe recipe is unlocked upon reaching level 53 in the skill Agility.\n\n(Journal)\nThe frustrating thing about agility courses is that you can't keep doing them forever. Agility's final boss is lactic acid, and it likes to stick spears into your muscles and joints.\n\nWell, the humble stamina potion is +1 against lactic acid. If you're planning on physical activity and want to flick the bird to exhaustion, then we would recommend making one or two."
         },
         "stations": [
           "Brewing Cauldron"
@@ -62711,7 +63799,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            }
+          ],
           "sources": [
             {
               "source": "Chest (Scorned Wilderness)",
@@ -62808,7 +63903,14 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            }
+          ],
           "sources": [],
           "shops": [],
           "perks": [],
@@ -63643,7 +64745,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Resource"
+              "value": "Tome"
             },
             {
               "label": "Released",
@@ -63652,6 +64754,10 @@ window.WILDS_STORAGE = [
             {
               "label": "Weight",
               "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
             },
             {
               "label": "Description",
@@ -63721,7 +64827,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Resource"
+              "value": "Tome"
             },
             {
               "label": "Released",
@@ -63729,7 +64835,11 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Weight",
-              "value": "6.0 kg"
+              "value": "2.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
             },
             {
               "label": "Description",
@@ -64418,6 +65528,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Medium_Copper_Nugget.png?f6ca4",
               "station": "Build Menu"
+            },
+            {
+              "name": "Copper Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Copper_Penguin_Miniature.png?85b64",
+              "station": "Build Menu"
             }
           ],
           "sources": [
@@ -64879,6 +65995,18 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Sawhorse.png?4cb9f",
               "station": "Build Menu"
+            },
+            {
+              "name": "Tin Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Tin_Penguin_Miniature.png?3cf16",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 03",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_03.png?85b64",
+              "station": "Build Menu"
             }
           ],
           "sources": [
@@ -65022,6 +66150,12 @@ window.WILDS_STORAGE = [
               "name": "Small Gold Nugget",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Small_Gold_Nugget.png?44974",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Gold Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Gold_Penguin_Miniature.png?85b64",
               "station": "Build Menu"
             }
           ],
@@ -65317,6 +66451,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Zombie_Arm.png?40d83",
               "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Silver Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Silver_Penguin_Miniature.png?3cf16",
+              "station": "Build Menu"
             }
           ],
           "sources": [
@@ -65528,7 +66668,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Description",
-              "value": ".Scraps that can be searched through. It's the steel of the century."
+              "value": "Scraps that can be searched through. It's the steel of the century."
             }
           ],
           "recipes": [],
@@ -65746,6 +66886,11 @@ window.WILDS_STORAGE = [
             {
               "source": "Moon Garou Pack",
               "qty": "20",
+              "rarity": "Always"
+            },
+            {
+              "source": "A Reel Downer Reward Pack",
+              "qty": "10",
               "rarity": "Always"
             }
           ],
@@ -66893,6 +68038,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Bronze_Med_Helm.png?f38b3",
               "station": "Armour Bench"
+            },
+            {
+              "name": "Bronze Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Penguin_Miniature.png?85b64",
+              "station": "Build Menu"
             }
           ],
           "sources": [
@@ -69051,6 +70202,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Gilded_Paladin_Legs.png?78d70",
               "station": "Armour Bench"
+            },
+            {
+              "name": "Pescaling Amulet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Amulet.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -69382,6 +70539,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Agility.png?91a88",
               "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Pescaling Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Ring.png?cf566",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -69724,6 +70887,36 @@ window.WILDS_STORAGE = [
               "name": "Advanced Spinning Wheel",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Advanced_Spinning_Wheel.png?503ed",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Stone Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Stone_Penguin_Miniature.png?3cf16",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 01",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_01.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 02",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_02.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 03",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_03.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 04",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_04.png?3cf16",
               "station": "Build Menu"
             }
           ],
@@ -70279,7 +71472,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "3-6",
-              "rarity": "1/24"
+              "rarity": "1/23"
             },
             {
               "source": "Chest (Umbral Sands)",
@@ -74484,6 +75677,78 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Inspiring_Ring_of_Agility.png?91a88",
               "station": "Jeweler's Bench"
+            },
+            {
+              "name": "Stone Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Stone_Penguin_Miniature.png?3cf16",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Tin Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Tin_Penguin_Miniature.png?3cf16",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Bronze Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Bronze_Penguin_Miniature.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Copper Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Copper_Penguin_Miniature.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Gold Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Gold_Penguin_Miniature.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 01",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_01.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 02",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_02.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 03",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_03.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 04",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_04.png?3cf16",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Pescaling Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Ring.png?cf566",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Pescaling Amulet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Amulet.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Silver Penguin Miniature",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Silver_Penguin_Miniature.png?3cf16",
+              "station": "Build Menu"
             }
           ],
           "sources": [],
@@ -75005,7 +76270,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Component"
+              "value": "Basic Item"
             },
             {
               "label": "Released",
@@ -75756,6 +77021,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Weak Focused Woodcutting Potion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Weak_Focused_Woodcutting_Potion.png?ab688",
@@ -75934,6 +77205,30 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Terrorbird_Trophy.png?e4bec",
               "station": "Build Menu"
+            },
+            {
+              "name": "Agony Auntchovy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Agony_Auntchovy.png?155e4",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Legs.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Helmet.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Body.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -76494,6 +77789,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Fine_Thread.png?577f3",
               "station": "Spinning Wheel"
+            },
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
             }
           ],
           "sources": [
@@ -76536,7 +77837,8 @@ window.WILDS_STORAGE = [
           "description": "Corpse cotton is a drop from zogres and corpse cotton plants which is used to create fine thread.\n\n(Journal)\nThe corpse flower is a peculiar creature. Strange, almost flesh-like sacks, filled with a noxious gas that explodes upon contact with the air. The resulting mass of fibres looks disturbingly like thin strips of a cadaver's skin, earning it the name \"corpse cotton\" by the more macabre Emberwood villagers.\n\nIn truth it's little more than thick plant fibres that can be woven together into a smooth, durable and, frankly, fashionable fabric."
         },
         "stations": [
-          "Spinning Wheel"
+          "Spinning Wheel",
+          "Super Compost Bin"
         ],
         "step": 3,
         "band": 0,
@@ -76606,6 +77908,12 @@ window.WILDS_STORAGE = [
             }
           ],
           "usedIn": [
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
             {
               "name": "Desert Cloth",
               "qty": 1,
@@ -76682,11 +77990,17 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Desert_Thread.png?7ec94",
               "station": "Spinning Wheel"
+            },
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
             }
           ],
           "sources": [
             {
-              "source": "Desert Weed (plant)",
+              "source": "Desert Weed (node)",
               "qty": "1-2",
               "rarity": "Always"
             },
@@ -76698,10 +78012,11 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "This article is about the resource. For the Plant itself, see Desert Weeds.\n\nDesert weed is a basic material gathered by picking up Desert Weeds located in the Umbral Sands region or by growing in any plot but grows best in a Yew Farming Plot.\n\n(Journal)\nWe’ve already made the obvious joke in the seed journal, so we need to be more sensible here.\n\nThe desert weed is… err… a weed. It lives in the desert.\n\nIt’s useful for crafting?\n\nI’ve got nothing. It’s been a long writing cycle, just pretend something profound is written here and tell all your lorehound friends how exciting it is."
+          "description": "Desert weed is a basic material gathered by picking up Desert Weeds located in the Umbral Sands region or by growing in any plot but grows best in a Yew Farming Plot.\n\n(Journal)\nWe’ve already made the obvious joke in the seed journal, so we need to be more sensible here.\n\nThe desert weed is… err… a weed. It lives in the desert.\n\nIt’s useful for crafting?\n\nI’ve got nothing. It’s been a long writing cycle, just pretend something profound is written here and tell all your lorehound friends how exciting it is."
         },
         "stations": [
-          "Spinning Wheel"
+          "Spinning Wheel",
+          "Ultra Compost Bin"
         ],
         "step": 3,
         "band": 0,
@@ -76764,12 +78079,6 @@ window.WILDS_STORAGE = [
               "name": "Adamant Platebody",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platebody.png?eb43f",
-              "station": "Armour Bench"
-            },
-            {
-              "name": "Adamant Platelegs",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platelegs.png?499cf",
               "station": "Armour Bench"
             },
             {
@@ -77553,7 +78862,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Fine cloth is created with a loom with a Loom Harness next to it, requiring three fine thread. Fine cloth is used primarily for power level 5 armour.\n\n(Journal)\nMore elegant and refined than cotton cloth, this fabric was very popular among Emberwood citizenry. They would craft beautiful dresses, fine shirts and elegant robes, many of which included patterns of undulating blue and black in honour of the serpentine dances they would watch in the sky, as Imaru and Xikotal swam the air currents together."
+          "description": "Fine cloth is created with a loom with a Loom Harness next to it, requiring three fine thread and a gold bar. Fine cloth is used primarily for power level 5 armour.\n\n(Journal)\nMore elegant and refined than cotton cloth, this fabric was very popular among Emberwood citizenry. They would craft beautiful dresses, fine shirts and elegant robes, many of which included patterns of undulating blue and black in honour of the serpentine dances they would watch in the sky, as Imaru and Xikotal swam the air currents together."
         },
         "stations": [
           "Loom"
@@ -78279,6 +79588,30 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "",
               "station": "Build Menu"
+            },
+            {
+              "name": "KGP Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/KGP_Hat.png?cf566",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Legs.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Body.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Pescaling Amulet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Amulet.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -78737,6 +80070,12 @@ window.WILDS_STORAGE = [
               "name": "Rolled Moon Garou Carpet 01",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Rolled_Moon_Garou_Carpet_01.png?9d4a4",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Moon Garou Cushion 01",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Moon_Garou_Cushion_01.png?2630e",
               "station": "Build Menu"
             },
             {
@@ -80088,6 +81427,36 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Farmer%27s_Hat.png?103b5",
               "station": "Crafting Table"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 04",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_04.png?3cf16",
+              "station": "Build Menu"
+            },
+            {
+              "name": "KGP Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/KGP_Hat.png?cf566",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Legs.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Helmet.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Body.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [],
@@ -81094,10 +82463,16 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Wolf Trophy",
+              "name": "Penguin Legs",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Wolf_Trophy.png?d26c1",
-              "station": "Build Menu"
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Legs.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Body.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -81744,12 +83119,6 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Rotridden Rat Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rotridden_Rat_Trophy.png?10268",
-              "station": "Build Menu"
-            },
-            {
               "name": "Zombie Rat Trophy",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Zombie_Rat_Trophy.png?49a81",
@@ -81758,7 +83127,7 @@ window.WILDS_STORAGE = [
             {
               "name": "Zombie Cow Trophy",
               "qty": 1,
-              "img": "",
+              "img": "https://dragonwilds.runescape.wiki/images/Zombie_Cow_Trophy.png?8e1e6",
               "station": "Build Menu"
             }
           ],
@@ -82336,12 +83705,6 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Steel_Med_Helm.png?f38b3",
               "station": "Armour Bench"
-            },
-            {
-              "name": "Dragon Wolf Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dragon_Wolf_Trophy.png?82498",
-              "station": "Build Menu"
             }
           ],
           "sources": [
@@ -83853,6 +85216,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Leather Shield",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Leather_Shield.png?89f78",
@@ -84059,7 +85428,7 @@ window.WILDS_STORAGE = [
             {
               "name": "Zombie Cow Trophy",
               "qty": 1,
-              "img": "",
+              "img": "https://dragonwilds.runescape.wiki/images/Zombie_Cow_Trophy.png?8e1e6",
               "station": "Build Menu"
             }
           ],
@@ -84181,6 +85550,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Bronze Dagger",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Bronze_Dagger.png?9ec22",
@@ -84223,27 +85598,9 @@ window.WILDS_STORAGE = [
               "station": "Brewing Cauldron"
             },
             {
-              "name": "Rotridden Rat Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rotridden_Rat_Trophy.png?10268",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Wolf Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Wolf_Trophy.png?d26c1",
-              "station": "Build Menu"
-            },
-            {
               "name": "Zombie Rat Trophy",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Zombie_Rat_Trophy.png?49a81",
-              "station": "Build Menu"
-            },
-            {
-              "name": "Dragon Wolf Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dragon_Wolf_Trophy.png?82498",
               "station": "Build Menu"
             }
           ],
@@ -84783,6 +86140,12 @@ window.WILDS_STORAGE = [
               "station": "Armour Bench"
             },
             {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
+            {
               "name": "Necrotic Bonemeal",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Necrotic_Bonemeal.png?dd90f",
@@ -84975,7 +86338,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Undead bones are drops from enemies in Fellhollow.\n\n(Journal)\nYou may think an undead bone is no different from a normal bone, and in most cases that’s true. The animating forces of necromancy normally just puppet the bones, allowing them to be possessed by a spirit or controlled by some external force.\n\nThe undead of Fellhollow are different. They animated by the last remnants of their humanity, tiny bits of soul clinging on in tattered forms. They move because they need to and they shudder because they fear what happens when they stop.\n\nAs such, the bones of the Fellhollow dead have strange properties that a skilled craftsman can refine and find uses for.\n\nMorbid, yes, but inventive."
+          "description": "Undead bones are drops from enemies in Fellhollow and Dowdun Reach.\n\n(Journal)\nYou may think an undead bone is no different from a normal bone, and in most cases that’s true. The animating forces of necromancy normally just puppet the bones, allowing them to be possessed by a spirit or controlled by some external force.\n\nThe undead of Fellhollow are different. They animated by the last remnants of their humanity, tiny bits of soul clinging on in tattered forms. They move because they need to and they shudder because they fear what happens when they stop.\n\nAs such, the bones of the Fellhollow dead have strange properties that a skilled craftsman can refine and find uses for.\n\nMorbid, yes, but inventive."
         },
         "step": 0,
         "band": 0,
@@ -85410,6 +86773,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Weak Lumberjack Potion",
               "qty": 1,
@@ -86235,6 +87604,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Abyssal Demon Trophy",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Abyssal_Demon_Trophy.png?bc9fc",
@@ -86269,6 +87644,9 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Monstrous fangs are obtained by defeating an abyssal demon. There is currently no use for monstrous fangs.\n\n(Journal)\nThe deadly canines of a large creature. Much more fun when they’re not still in the snapping maw of the creature chasing you."
         },
+        "stations": [
+          "Compost Bin"
+        ],
         "step": 0,
         "band": 0,
         "rank": 99,
@@ -87018,6 +88396,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Ash_Battlestaff.png?a0146",
               "station": "Crafting Table"
+            },
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             },
             {
               "name": "Pottery Wheel",
@@ -88650,6 +90034,18 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Skill_Tome_-_Agility.png?3da86",
               "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 01",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_01.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 02",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_02.png?85b64",
+              "station": "Build Menu"
             }
           ],
           "sources": [
@@ -88851,6 +90247,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Charcoal.png?58308",
               "station": "Kiln"
+            },
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             },
             {
               "name": "Grindstone",
@@ -89817,6 +91219,12 @@ window.WILDS_STORAGE = [
               "station": "Fletching Bench"
             },
             {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
+            {
               "name": "Dorgeshuun Crossbow",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Dorgeshuun_Crossbow.png?aaf68",
@@ -89971,11 +91379,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Willow logs are obtained by chopping down willow trees. An iron logging axe (or better) is required to chop down willow trees.\n\n(Journal)\nA highly efficient fuel. Required for smelting more advanced metals."
         },
-        "stations": [
-          "Kiln",
-          "Blacksmith's Bench",
-          "Fletching Bench"
-        ],
         "step": 2,
         "band": 0,
         "rank": 2,
@@ -90038,6 +91441,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Mithril_Pickaxe.png?5c1bd",
               "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
             },
             {
               "name": "Mithril Greataxe",
@@ -90212,6 +91621,12 @@ window.WILDS_STORAGE = [
               "station": "Blacksmith's Bench"
             },
             {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
+            {
               "name": "Adamant Crossbow",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Adamant_Crossbow.png?a5d74",
@@ -90330,6 +91745,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Large_Compost_Bucket.png?40236",
               "station": "Crafting Table"
+            },
+            {
+              "name": "Fishing Rod Rack",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Fishing_Rod_Rack.png?7bef0",
+              "station": "Build Menu"
             }
           ],
           "sources": [
@@ -90400,6 +91821,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Rune_Mace.png?034dd",
               "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
             },
             {
               "name": "Rune Pickaxe",
@@ -90477,11 +91904,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Magic logs are obtained by chopping down Magic Trees, with a Rune Logging Axe or better.\n\n(Journal)\nThey say that you can tell how old a tree is by cutting it down and counting the rings. That's true of most trees, but not the magic tree. A magic tree is coy about its age and prefers to hide its rings. All that's left is to guess a magic tree's age, and - as per the adage - a gentleman should never try to guess a magic tree's age. At least guess a few decades younger: they're sensitive to that sort of thing."
         },
-        "stations": [
-          "Blacksmith's Bench",
-          "Mystic Forge",
-          "Fletching Bench"
-        ],
         "step": 5,
         "band": 0,
         "rank": 5,
@@ -90995,12 +92417,6 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Rotridden Rat Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Rotridden_Rat_Trophy.png?10268",
-              "station": "Build Menu"
-            },
-            {
               "name": "Rotsworn Zombie Trophy",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Rotsworn_Zombie_Trophy.png?aa263",
@@ -91031,12 +92447,6 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Wolf Trophy",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Wolf_Trophy.png?d26c1",
-              "station": "Build Menu"
-            },
-            {
               "name": "Zogre Hand Trophy",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Zogre_Hand_Trophy.png?33f4c",
@@ -91055,15 +92465,33 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             },
             {
-              "name": "Dragon Wolf Trophy",
+              "name": "Zombie Cow Trophy",
               "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Dragon_Wolf_Trophy.png?82498",
+              "img": "https://dragonwilds.runescape.wiki/images/Zombie_Cow_Trophy.png?8e1e6",
               "station": "Build Menu"
             },
             {
-              "name": "Zombie Cow Trophy",
+              "name": "Pristine Depressed Desert Sole Trophy",
               "qty": 1,
-              "img": "",
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Depressed_Desert_Sole_Trophy.png?c63c3",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Pristine Bawling Beltfish Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Bawling_Beltfish_Trophy.png?15464",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Pristine Inconsolable Catfish Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Inconsolable_Catfish_Trophy.png?c3753",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Pristine Snivelling Sardine Trophy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pristine_Snivelling_Sardine_Trophy.png?2de0a",
               "station": "Build Menu"
             }
           ],
@@ -91248,6 +92676,12 @@ window.WILDS_STORAGE = [
               "name": "Fishing Barrel",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Fishing_Barrel.png?ead70",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Decorative Penguin Coin",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Decorative_Penguin_Coin.png?d3100",
               "station": "Build Menu"
             }
           ],
@@ -91650,6 +93084,12 @@ window.WILDS_STORAGE = [
               "station": "Fletching Bench"
             },
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Cooling Arcane Infusion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Cooling_Arcane_Infusion.png?a3668",
@@ -91863,6 +93303,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Challenge_Horn.png?44043",
               "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             }
           ],
           "sources": [
@@ -91877,7 +93323,8 @@ window.WILDS_STORAGE = [
           "description": "Bloodwood sap can be found by logging the red formations on the bloodwood tree in the southernmost area of the Bloodblight Swamp, that is located in the middle of a garou camp.\n\nBloodwood sap is required for progression in the quest Dragon Slayer, as it is a component of the challenge horn.\n\nPlayers will need to use an iron logging axe or higher to harvest this material from the bloodwood tree.\n\n(Journal)\nBloodwood trees are a genuinely horrible creation. Their very existence a wound in the decency of the world; this tree grows only in places steeped in violence and death.\n\nThe biggest bloodwood trees tower over battlefields. Sinewy spiderlike branches cast shade over the homes of serial killers, and you should never trust anyone who can grow one in their garden.\n\nLeech-like roots soak up the suffering, sorrow and cruelty that has seeped into the soil, and then transformssupposed to be transform that misery into a sticky red sap of raw emotion. This sap can be used to amplify feelings, to convey anger, fear or hatred, across a much greater range.\n\nThe dragonkin Lacrussa was very fond of this medium and used its power to shackle dragons to her will."
         },
         "stations": [
-          "Blacksmith's Bench"
+          "Blacksmith's Bench",
+          "Compost Bin"
         ],
         "step": 6,
         "band": 1,
@@ -91931,6 +93378,12 @@ window.WILDS_STORAGE = [
               "station": "Mystic Forge"
             },
             {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
+            {
               "name": "Splitbark Helm",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Splitbark_Helm.png?5cdb1",
@@ -91974,6 +93427,7 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Mystic Forge",
+          "Super Compost Bin",
           "Armour Bench"
         ],
         "step": 6,
@@ -92049,6 +93503,10 @@ window.WILDS_STORAGE = [
               "value": "31 March 2026"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "2.0 kg"
             },
@@ -92063,6 +93521,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Maple Syrup",
               "qty": 1,
@@ -92113,6 +93577,7 @@ window.WILDS_STORAGE = [
           "description": "Maple sap is a Power Level 4 basic material, which means it can be cooked at a campfire or grill into maple syrup starting at Cooking level 41, and not burnt into burnt maple syrup at level 50. It can be gathered from chopped maple trees.\n\n(Journal)\nIt's like the maple tree wants to be cut down. Not only does it produce hardy, versatile wood for tools and weaponry, it bleeds sap that is only a single step away from being maple syrup. If you want proof of the gods' existence in RuneScape, you need only look at maple trees.\n\nThe maple tree gets its revenge in subtle ways. Its sap is inordinately sticky and too much syrup will give you a paunch. They're small victories, but the maple tree takes them."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -93176,6 +94641,18 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Water_Rune_%28Decoration%29.png?45b7c",
               "station": "Build Menu"
+            },
+            {
+              "name": "Pescaling Ring",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Ring.png?cf566",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Pescaling Amulet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Amulet.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -93588,7 +95065,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Earth runes can be crafted at a rune altar at level 15 Runecrafting or higher. Spells that use this rune orient around manipulating the earth and minerals, such as Mucksplosion and Divine Rock.\n\nFrom the Community Campfire with Mod Pointy, there is active development on casting spells with earth runes.\n\n(Journal)\nImbued with the harmony of soil and dirt, the earth rune stands firm in a world of mercurial change. Predominantly used to manipulate or control natural elements associated with soil and rock, it can also be used to reference the permanence of things."
+          "description": "Earth runes can be crafted at a rune altar at level 15 Runecrafting or higher. Spells that use this rune orient around manipulating the earth and minerals, such as Mucksplosion and Divine Rock. Players can also use runes to cast combat spells after unlocking the Earth Magic passive.\n\n(Journal)\nImbued with the harmony of soil and dirt, the earth rune stands firm in a world of mercurial change. Predominantly used to manipulate or control natural elements associated with soil and rock, it can also be used to reference the permanence of things."
         },
         "stations": [
           "Rune Altar"
@@ -95119,6 +96596,18 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Green_Chandelier.png?8f8de",
               "station": "Build Menu"
+            },
+            {
+              "name": "Penguin Legs",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Legs.png?1b3b0",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Penguin Body",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Body.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -95161,6 +96650,11 @@ window.WILDS_STORAGE = [
               "source": "Chest (Dowdun Reach)",
               "qty": "2-6",
               "rarity": "12.75/100"
+            },
+            {
+              "source": "Swamp Tar (node)",
+              "qty": "1-2",
+              "rarity": "Always"
             }
           ],
           "shops": [
@@ -95172,11 +96666,12 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Swamp tar is obtained by gathering from the ground in the Whispering Swamp, and is used inside a kiln to create adhesive.\n\n(Journal)\nOnce this tar was some living creature, perhaps an ancient dragon or other colossal beast. Time and pressure refined it down into this sticky substance that can be used for a variety of crafting purposes."
+          "description": "Swamp tar is obtained by havresting Swamp Tar (node) from the ground in the Whispering Swamp. It is used inside a kiln to create adhesive, or as a component of Naptha and Chandeliers.\n\n(Journal)\nOnce this tar was some living creature, perhaps an ancient dragon or other colossal beast. Time and pressure refined it down into this sticky substance that can be used for a variety of crafting purposes."
         },
         "stations": [
           "Kiln",
-          "Brewing Cauldron"
+          "Brewing Cauldron",
+          "Crafting Table"
         ],
         "step": 0,
         "band": 0,
@@ -95721,6 +97216,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Abysmal_Whip.png?83615",
               "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Penguin Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Helmet.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -95989,6 +97490,36 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Fuel_Pellet.png?6ca6c",
               "station": "Blacksmith's Bench"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 01",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_01.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 02",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_02.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 03",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_03.png?85b64",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Suspicious Penguin Miniature 04",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Suspicious_Penguin_Miniature_04.png?3cf16",
+              "station": "Build Menu"
+            },
+            {
+              "name": "Penguin Helmet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Penguin_Helmet.png?1b3b0",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
@@ -96673,12 +98204,6 @@ window.WILDS_STORAGE = [
               "station": "Armour Bench"
             },
             {
-              "name": "Adamant Platebody",
-              "qty": 1,
-              "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platebody.png?eb43f",
-              "station": "Armour Bench"
-            },
-            {
               "name": "Adamant Platelegs",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Adamant_Platelegs.png?499cf",
@@ -97083,7 +98608,28 @@ window.WILDS_STORAGE = [
               "station": "Build Menu"
             }
           ],
-          "sources": [],
+          "sources": [
+            {
+              "source": "Dragon Wolf",
+              "qty": "1",
+              "rarity": "33/100"
+            },
+            {
+              "source": "Carnivorous Chinchompa",
+              "qty": "1",
+              "rarity": "1/10"
+            },
+            {
+              "source": "Wild Ruby Vine",
+              "qty": "1",
+              "rarity": "Always"
+            },
+            {
+              "source": "Wild Ruby Vine",
+              "qty": "1",
+              "rarity": "1/2"
+            }
+          ],
           "shops": [],
           "perks": [],
           "description": "Naptha is an item that is unlocked at level 45 Ranged, where players can use naptha to create fire oil. It is also dropped by dragon wolves and carnivorous chinchompas.\n\n(Journal)\nDistilled from swamp tar and charcoal.\n\nOnce known as “thick water”, naptha is liquid fire in waiting. It takes little to bring this substance to ignition, even too bright a sunny day can bring the raging flame from within.\n\nAs such, this material is widely sought by anyone with a strong desire to set things aflame. Pyromaniacs, alchemists and dragon cultists alike yearn for this liquid."
@@ -97136,7 +98682,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Cabbage (plant)",
+              "source": "Cabbage (node)",
               "qty": "1",
               "rarity": "25/100"
             },
@@ -97191,7 +98737,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Flax (plant)",
+              "source": "Flax (node)",
               "qty": "1",
               "rarity": "15/100"
             },
@@ -97246,7 +98792,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Harralander (plant)",
+              "source": "Harralander (node)",
               "qty": "1",
               "rarity": "15/100"
             },
@@ -97301,7 +98847,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Marrentil (plant)",
+              "source": "Marrentil (node)",
               "qty": "1",
               "rarity": "15/100"
             }
@@ -97351,7 +98897,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Potato (plant)",
+              "source": "Potato (node)",
               "qty": "1",
               "rarity": "25/100"
             },
@@ -97636,7 +99182,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Onion (plant)",
+              "source": "Onion (node)",
               "qty": "1",
               "rarity": "25/100"
             },
@@ -97648,7 +99194,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Onion seeds are a type of Ghornfell seed, used in the Farming skill. Onion seeds can be obtained from harvesting wild onion (plant).\n\n(Journal)\nSometimes you just want a way to make everyone around you cry. Onions have always served this purpose, and I often bring one with me to slice into at social gatherings when I feel everyone is being just a little too happy.\n\nWith these seeds, you can avoid scavenging for onions across the dangerous plains and instead a produce a steady supply with which to torment your friends and family. Or you could eat them, I guess, if you're weird."
+          "description": "Onion seeds are a type of Ghornfell seed, used in the Farming skill. Onion seeds can be obtained from harvesting wild onion.\n\n(Journal)\nSometimes you just want a way to make everyone around you cry. Onions have always served this purpose, and I often bring one with me to slice into at social gatherings when I feel everyone is being just a little too happy.\n\nWith these seeds, you can avoid scavenging for onions across the dangerous plains and instead a produce a steady supply with which to torment your friends and family. Or you could eat them, I guess, if you're weird."
         },
         "plot": "Oak Farming Plot",
         "growsInto": "Onion",
@@ -97691,7 +99237,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Snapdragon (plant)",
+              "source": "Snapdragon (node)",
               "qty": "1",
               "rarity": "15/100"
             },
@@ -97746,7 +99292,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Swamp Weed (plant)",
+              "source": "Swamp Weed (node)",
               "qty": "1",
               "rarity": "15/100"
             },
@@ -97801,7 +99347,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Toadflax (plant)",
+              "source": "Toadflax (node)",
               "qty": "1",
               "rarity": "15/100"
             },
@@ -97813,7 +99359,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Toadflax seeds are a type of Ghornfell seed, used in the Farming skill. Toadflax seeds can be obtained from harvesting wild toadflax (plant).\n\n(Journal)\nAlthough they prefer the toxic atmosphere of the Bloodlight swamps, these seeds can grow just about anywhere with the right care paid to them."
+          "description": "Toadflax seeds are a type of Ghornfell seed, used in the Farming skill. Toadflax seeds can be obtained from harvesting wild toadflax (node).\n\n(Journal)\nAlthough they prefer the toxic atmosphere of the Bloodlight swamps, these seeds can grow just about anywhere with the right care paid to them."
         },
         "plot": "Oak Farming Plot",
         "growsInto": "Toadflax",
@@ -98151,7 +99697,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Pumpkin (plant)",
+              "source": "Pumpkin (node)",
               "qty": "1",
               "rarity": "10/100"
             },
@@ -98163,7 +99709,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Pumpkin seeds are a type of Fellhollow seed, used in the Farming skill. Pumpkin seeds can be used to grow Pumpkin (farming) in a farming plot. However, it is best to plant them in Willow Farming Plot.\n\nPlanting pumpkin seeds in a farming plot will yield 5 experience in Farming, and can be obtained from harvesting wild pumpkin (plant)s.\n\n(Journal)\nThese gourds are most popular around autumn, when they are hollowed out by local children and used to ward away spirits - poorly, as it seems they attract more than they repel.\n\nIndeed one strange fellow found himself so delighted by the odd gourds that he took an aspect of them into himself, feeling that they best embodied his favourite time of the year. So the strange individual known as \"Pumpkin Pete\", part of the Pete family, came to be."
+          "description": "Pumpkin seeds are a type of Fellhollow seed, used in the Farming skill. Pumpkin seeds can be used to grow Pumpkin (farming) in a farming plot. However, it is best to plant them in Willow Farming Plot.\n\nPlanting pumpkin seeds in a farming plot will yield 5 experience in Farming, and can be obtained from harvesting wild pumpkin (node)s.\n\n(Journal)\nThese gourds are most popular around autumn, when they are hollowed out by local children and used to ward away spirits - poorly, as it seems they attract more than they repel.\n\nIndeed one strange fellow found himself so delighted by the odd gourds that he took an aspect of them into himself, feeling that they best embodied his favourite time of the year. So the strange individual known as \"Pumpkin Pete\", part of the Pete family, came to be."
         },
         "plot": "Willow Farming Plot",
         "growsInto": "Pumpkin",
@@ -98325,7 +99871,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Desert Weed (plant)",
+              "source": "Desert Weed (node)",
               "qty": "1-2",
               "rarity": "Always"
             },
@@ -98379,7 +99925,7 @@ window.WILDS_STORAGE = [
           "usedIn": [],
           "sources": [
             {
-              "source": "Fibrous Pipe Cactus (plant)",
+              "source": "Fibrous Pipe Cactus (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -98796,6 +100342,10 @@ window.WILDS_STORAGE = [
               "value": "15 April 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.2 kg"
             },
@@ -98810,6 +100360,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Weak Focused Cooking Potion",
               "qty": 1,
@@ -98849,7 +100405,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Cabbage (plant)",
+              "source": "Cabbage (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -98876,11 +100432,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Cabbages are a power level 2 raw ingredient, which means they can be cooked at a campfire or grill into fried cabbage starting at Cooking Level 12, and not burnt into burnt cabbage at level 27. They can also be used to make weak Focused Cooking potions and Focused Cooking potions. They can be gathered from cabbage plants in Bramblemead Valley and cabbage (Farming) from cabbage seeds.\n\n(Journal)\nFew vegetables are as worthy of such reverence as the humble Cabbage. Delicious. Easily portable and possessing a leaf more noble than any other. This, at least, the followers of the god Brassica Prime profess.\n\nNo one is entirely sure how there is a god of cabbages. Fewer still are sure why there is a god of cabbages, yet the existence of such a being cannot be denied.\n\nUnlike other deities, who guard the focus of their faith with great jealousy, Brassica Prime delights in nothing more than seeing people enjoying the delicious, nutritious wonders of the humble cabbage.\n\nBest enjoyed fried or mixed into a stew. Cabbage wine is a failed experiment that should never be spoken of again."
         },
-        "stations": [
-          "Brewing Cauldron",
-          "Campfire",
-          "Grill"
-        ],
         "plot": "Ash Farming Plot",
         "growsFrom": "Cabbage Seeds",
         "step": 0,
@@ -98931,6 +100482,12 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Coarse_Thread.png?71f62",
               "station": "Spinning Wheel"
+            },
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
             },
             {
               "name": "Weak Focused Construction Potion",
@@ -99025,7 +100582,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Flax (plant)",
+              "source": "Flax (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -99057,11 +100614,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Flax can be found by harvesting the flax plants in either Bramblemead Valley, Fractured Plains, or Stormtouched Highlands. It can be used on the spinning wheel to create coarse thread. Collecting flax for the first time unlocks the creation of the spinning wheel and fletching bench.\n\n(Journal)\nFlax was a popular plant during the time of Guthix. Found all over the continent, it could be easily harvested and refined into various materials. Villagers would enjoy the seeds as tasty snacks, but they mostly prized Flax for the threads that could be woven from the stems of the plant."
         },
-        "stations": [
-          "Spinning Wheel",
-          "Brewing Cauldron",
-          "Crafting Table"
-        ],
         "plot": "Ash Farming Plot",
         "growsFrom": "Flax Seeds",
         "step": 0,
@@ -99101,6 +100653,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Weak Lumberjack Potion",
               "qty": 1,
@@ -99157,7 +100715,7 @@ window.WILDS_STORAGE = [
               "rarity": "Always"
             },
             {
-              "source": "Harralander (plant)",
+              "source": "Harralander (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -99204,11 +100762,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Harralander is a herb that is harvested from Harralander plants, found primarily in the Whispering Swamp and can be bought from Domri - The Merchant for 6 garou chits.\n\n(Journal)\nA bitter tasting herb that makes for a poor tea, yet is often used as a morning pick-me-up by people with no tastebuds. It’s useful in crafting certain potions."
         },
-        "stations": [
-          "Brewing Cauldron",
-          "Stone Range",
-          "Cooking Range"
-        ],
         "plot": "Ash Farming Plot",
         "growsFrom": "Harralander Seeds",
         "step": 0,
@@ -99256,6 +100809,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Weak Focused Cooking Potion",
               "qty": 1,
@@ -99319,7 +100878,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Marrentil (plant)",
+              "source": "Marrentil (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -99391,6 +100950,10 @@ window.WILDS_STORAGE = [
               "value": "15 April 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.2 kg"
             },
@@ -99405,6 +100968,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Baked Potato",
               "qty": 1,
@@ -99432,7 +101001,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Potato (plant)",
+              "source": "Potato (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -99457,9 +101026,10 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Potatoes are a Power Level 2 raw ingredient, which means they can be cooked at a campfire or grill into baked potato starting at Cooking level 12, and not burnt into burnt potato at level 27. They can be gathered from potato (plant)s in Bramblemead Valley and potato (Farming) from potato seeds. Potatoes can be used to make compost.\n\n(Journal)\nThe simplicity. The elegance. Few things in life are quite as dependable as a good old baked potato. Crispy exterior, fluffy interior, and it goes well with just about anything."
+          "description": "Potatoes are a Power Level 2 raw ingredient, which means they can be cooked at a campfire or grill into baked potato starting at Cooking level 12, and not burnt into burnt potato at level 27. They can be gathered from potato (node)s in Bramblemead Valley and potato (Farming) from potato seeds. Potatoes can be used to make compost.\n\n(Journal)\nThe simplicity. The elegance. Few things in life are quite as dependable as a good old baked potato. Crispy exterior, fluffy interior, and it goes well with just about anything."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -99496,6 +101066,10 @@ window.WILDS_STORAGE = [
               "value": "15 April 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.2 kg"
             },
@@ -99510,6 +101084,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Fried Onions",
               "qty": 1,
@@ -99557,11 +101137,17 @@ window.WILDS_STORAGE = [
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Cooling_Fleet-Footed_Infusion.png?6563a",
               "station": "Cooking Range"
+            },
+            {
+              "name": "Agony Auntchovy",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Agony_Auntchovy.png?155e4",
+              "station": "Crafting Table"
             }
           ],
           "sources": [
             {
-              "source": "Onion (plant)",
+              "source": "Onion (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -99586,7 +101172,7 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Onions are a Power Level 3 raw ingredient, which means they can be cooked at a campfire or grill into fried onions starting at Cooking level 27, and not burnt into burnt onion at level 41. They can also be used to make lesser Focused Cooking potion, bowl of onions, and potted onion. They can be collected from onion (plant) in Fractured Plains, and Farmed from onion (Farming) grown from onion seeds. Onions can be used to make compost.\n\n(Journal)\nOften used in metaphors about layers, but also in soups too. The soups are more fun."
+          "description": "Onions are a Power Level 3 raw ingredient, which means they can be cooked at a campfire or grill into fried onions starting at Cooking level 27, and not burnt into burnt onion at level 41. They can also be used to make lesser Focused Cooking potion, bowl of onions, and potted onion. They can be collected from onion (node) in Fractured Plains, and Farmed from onion (Farming) grown from onion seeds. Onions can be used to make compost.\n\n(Journal)\nOften used in metaphors about layers, but also in soups too. The soups are more fun."
         },
         "plot": "Oak Farming Plot",
         "growsFrom": "Onion Seeds",
@@ -99635,6 +101221,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Lesser Attack Potion",
               "qty": 1,
@@ -99722,7 +101314,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Snapdragon (plant)",
+              "source": "Snapdragon (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -99811,6 +101403,12 @@ window.WILDS_STORAGE = [
               "station": "Spinning Wheel"
             },
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Lesser Antipoison Potion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Lesser_Antipoison_Potion.png?d3d65",
@@ -99819,7 +101417,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Swamp Weed (plant)",
+              "source": "Swamp Weed (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -99848,6 +101446,7 @@ window.WILDS_STORAGE = [
         },
         "stations": [
           "Spinning Wheel",
+          "Compost Bin",
           "Brewing Cauldron"
         ],
         "plot": "Oak Farming Plot",
@@ -99890,6 +101489,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Lesser Quarrymaster Potion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Lesser_Quarrymaster_Potion.png?15eb3",
@@ -99928,7 +101533,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Toadflax (plant)",
+              "source": "Toadflax (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -99961,6 +101566,7 @@ window.WILDS_STORAGE = [
           "description": "Toadflax is found by harvesting the Toadflax plants in the Bloodblight Swamp and can be bought from Domri - The Merchant for 12 garou chits.\n\n(Journal)\nOne of the most popular plants with witches everywhere, as much as for the name as itssupposed to be \"as for its\" use in herblore. One witch, a particularly odd duck called Henrietta, once tried to combine the herb with the amphibian of its namesake. The resulting monstrosity killed five people, before it could finally be put down."
         },
         "stations": [
+          "Compost Bin",
           "Brewing Cauldron",
           "Cooking Range"
         ],
@@ -100011,6 +101617,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
             {
               "name": "Pumpkin Spice Infusion",
               "qty": 1,
@@ -100187,6 +101799,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
+            {
               "name": "Roast Pumpkin",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Roast_Pumpkin.png?2427d",
@@ -100213,7 +101831,7 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
-              "source": "Pumpkin (plant)",
+              "source": "Pumpkin (node)",
               "qty": "1",
               "rarity": "Always"
             },
@@ -100238,9 +101856,10 @@ window.WILDS_STORAGE = [
             }
           ],
           "perks": [],
-          "description": "Pumpkins are a Power Level 4 raw ingredient, which means they can be cooked at a campfire or grill into roast pumpkin starting at Cooking level 41, and not burnt into burnt pumpkin at level 50. They can be gathered from pumpkin (plant)s in Fellhollow and Dowdun Reach and Farmed from Pumpkin (Farming) grown from pumpkin seeds. Pumpkins can not be used as an item in a compost bin, however can be used in a super compost bin.\n\n(Journal)\nThey seem strange without faces, don't they?\n\nHeralds of the spookiest of seasons, the humble pumpkin exists in two worlds, the world of the living and that of the dead. When carved, it acts as a warden against dangerous spirits and when mixed with spices and added to warm drinks, it acts as a lure for ex-girlfriends, distracting them as it gives you time to escape."
+          "description": "Pumpkins are a Power Level 4 raw ingredient, which means they can be cooked at a campfire or grill into roast pumpkin starting at Cooking level 41, and not burnt into burnt pumpkin at level 50. They can be gathered from pumpkin (node)s in Fellhollow and Dowdun Reach and Farmed from Pumpkin (Farming) grown from pumpkin seeds. Pumpkins can not be used as an item in a compost bin, however can be used in a super compost bin.\n\n(Journal)\nThey seem strange without faces, don't they?\n\nHeralds of the spookiest of seasons, the humble pumpkin exists in two worlds, the world of the living and that of the dead. When carved, it acts as a warden against dangerous spirits and when mixed with spices and added to warm drinks, it acts as a lure for ex-girlfriends, distracting them as it gives you time to escape."
         },
         "stations": [
+          "Super Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -100255,6 +101874,75 @@ window.WILDS_STORAGE = [
             "tier": "super",
             "label": "Super Compost",
             "bin": "Super Compost Bin",
+            "units": 10
+          }
+        ]
+      },
+      {
+        "name": "Fibrous Pipe Cactus",
+        "img": "https://dragonwilds.runescape.wiki/images/Fibrous_Pipe_Cactus.png?0fb0c",
+        "tier": "",
+        "tierRank": null,
+        "chest": "farming",
+        "note": "Found west of the Moon Garou tribe, can be processed into cactus fibres at a tannery.",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Basic Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "1.0 kg"
+            },
+            {
+              "label": "Description",
+              "value": "A complex network of fibres and water reservoirs. Can be tanned to produce a durable material."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [
+            {
+              "name": "Cactus Fibres",
+              "qty": 3,
+              "img": "https://dragonwilds.runescape.wiki/images/Cactus_Fibres.png?7a650",
+              "station": "Tannery"
+            },
+            {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            }
+          ],
+          "sources": [
+            {
+              "source": "Fibrous Pipe Cactus (node)",
+              "qty": "2-3",
+              "rarity": "Always"
+            }
+          ],
+          "shops": [],
+          "perks": [],
+          "description": "Fibrous pipe cactus can be found by harvesting a cactus node which are found in various places in Umbral Sands. This item can be used to make 3 cactus fibres in a tannery."
+        },
+        "stations": [
+          "Tannery",
+          "Ultra Compost Bin"
+        ],
+        "step": 0,
+        "band": 1,
+        "rank": 5,
+        "bandLabel": "Crops & herbs",
+        "compost": [
+          {
+            "tier": "ultra",
+            "label": "Ultra Compost",
+            "bin": "Ultra Compost Bin",
             "units": 10
           }
         ]
@@ -100366,6 +102054,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Ultra Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646",
+              "station": "Ultra Compost Bin"
+            },
+            {
               "name": "Seared Cactus Steak",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Seared_Cactus_Steak.png?42af6",
@@ -100407,70 +102101,9 @@ window.WILDS_STORAGE = [
           "description": "Cactus steak is a power level 5 raw ingredient. Despite the description, this item is not edible without being cooked.\n\n(Journal)\nCows are fans of these, because it’s a steak that isn’t made of them."
         },
         "stations": [
+          "Ultra Compost Bin",
           "Campfire",
           "Grill"
-        ],
-        "step": 0,
-        "band": 1,
-        "rank": 99,
-        "bandLabel": "Crops & herbs",
-        "compost": [
-          {
-            "tier": "ultra",
-            "label": "Ultra Compost",
-            "bin": "Ultra Compost Bin",
-            "units": 10
-          }
-        ]
-      },
-      {
-        "name": "Fibrous Pipe Cactus",
-        "img": "https://dragonwilds.runescape.wiki/images/Fibrous_Pipe_Cactus.png?0fb0c",
-        "tier": "",
-        "tierRank": null,
-        "chest": "farming",
-        "note": "Found west of the Moon Garou tribe, can be processed into cactus fibres at a tannery.",
-        "detail": {
-          "stats": [
-            {
-              "label": "Type",
-              "value": "Basic Item"
-            },
-            {
-              "label": "Released",
-              "value": "23 June 2026"
-            },
-            {
-              "label": "Weight",
-              "value": "1.0 kg"
-            },
-            {
-              "label": "Description",
-              "value": "A complex network of fibres and water reservoirs. Can be tanned to produce a durable material."
-            }
-          ],
-          "recipes": [],
-          "usedIn": [
-            {
-              "name": "Cactus Fibres",
-              "qty": 3,
-              "img": "https://dragonwilds.runescape.wiki/images/Cactus_Fibres.png?7a650",
-              "station": "Tannery"
-            }
-          ],
-          "sources": [
-            {
-              "source": "Fibrous Pipe Cactus (plant)",
-              "qty": "2-3",
-              "rarity": "Always"
-            }
-          ],
-          "shops": [],
-          "perks": [],
-          "description": "Fibrous pipe cactus can be found west of the Moon Garou tribe near a grove of yew trees, and can be used to make 3 cactus fibres in a tannery."
-        },
-        "stations": [
-          "Tannery"
         ],
         "step": 0,
         "band": 1,
@@ -100578,6 +102211,10 @@ window.WILDS_STORAGE = [
               "value": "15 December 2025"
             },
             {
+              "label": "Compost value",
+              "value": "1"
+            },
+            {
               "label": "Weight",
               "value": "0.2 kg"
             },
@@ -100592,6 +102229,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Grilled Tomatoes",
               "qty": 1,
@@ -100629,6 +102272,7 @@ window.WILDS_STORAGE = [
           "description": "Tomatoes are a Power Level 2 raw ingredient, which means they can be cooked at a campfire or grill into grilled tomatoes starting at Cooking level 12, and not burnt into burnt tomato at level 27. They can be gathered from Tomato (Farming) from tomato seeds.\n\n(Journal)\nSquishy red little thing, these fruits are a staple in sauces, salads, or hurled at people in the stocks when you want to laugh at their misfortune."
         },
         "stations": [
+          "Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -100675,6 +102319,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Super Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f",
+              "station": "Super Compost Bin"
+            },
             {
               "name": "Scarecrow (decoration)",
               "qty": 1,
@@ -100731,6 +102381,7 @@ window.WILDS_STORAGE = [
           "description": "Watermelons are a consumable food item that provides 15 sustenance. They are also a Power Level 4 resource, which means they can be cooked at a campfire or grill into watermelon jerky starting at Cooking level 41, and not be burnt into burnt watermelon at level 50. They can also be used to make a scarecrow. They can be gathered from Watermelon (Farming) grown from watermelon seeds. Watermelons cannot be used as an item in a compost bin, however can be used as an item in a super compost bin.\n\n(Journal)\nSometimes it's not enough to drink water, you have the urge to chomp on it instead. These melons are delicious and refreshing in ways that few other fruits seem able to match.\n\nSmashing one with a hammer is not recommended, but still manages to be weirdly satisfying."
         },
         "stations": [
+          "Super Compost Bin",
           "Campfire",
           "Grill"
         ],
@@ -100781,6 +102432,12 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [
+            {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
             {
               "name": "Bag of Flour",
               "qty": 1,
@@ -100910,6 +102567,12 @@ window.WILDS_STORAGE = [
           "recipes": [],
           "usedIn": [
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Cooling Arcane Infusion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Cooling_Arcane_Infusion.png?a3668",
@@ -101008,6 +102671,12 @@ window.WILDS_STORAGE = [
               "station": "Lougrim's Shrine"
             },
             {
+              "name": "Compost",
+              "qty": 10,
+              "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f",
+              "station": "Compost Bin"
+            },
+            {
               "name": "Cooling Evasive Infusion",
               "qty": 1,
               "img": "https://dragonwilds.runescape.wiki/images/Cooling_Evasive_Infusion.png?200c2",
@@ -101049,11 +102718,6 @@ window.WILDS_STORAGE = [
           "perks": [],
           "description": "Shocking plant bulb is dropped by the wild lapulis vine, which is found in the Stormtouched Highlands.\n\n(Journal)\nIt seems almost unfair that plants could become electrified – a secret guarded closely by eels until now. These bulbs still contain a residual trace of that lightning charge, making them much desired in herblore."
         },
-        "stations": [
-          "Lougrim's Shrine",
-          "Cooking Range",
-          "Blacksmith's Bench"
-        ],
         "step": 0,
         "band": 2,
         "rank": 2,
@@ -101076,13 +102740,1343 @@ window.WILDS_STORAGE = [
         "note": "Made in a Compost Bin from burnt food, herbs, bones and plant matter; fertilizing a plot with it gives 10 Farming XP, halves disease chance and multiplies yield by 1.5.",
         "detail": {
           "stats": [],
-          "recipes": [],
+          "recipes": [
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Redberries",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Redberries.png?21adf"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Cabbage",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cabbage.png?789d1"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Flax",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Flax.png?e1894"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Ash Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ash_Logs.png?fd9a7"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Marrentil",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Marrentil.png?7b31d"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Harralander",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Harralander.png?68a6b"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Feathers",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Feathers.png?563c3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Bittercap Mushroom",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Bittercap_Mushroom.png?232c9"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Antler",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Antler.png?563c3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Dwellberries",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Dwellberries.png?cfe3d"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Rat Meat",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Rat_Meat.png?563c3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Animal Bone",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Animal_Bone.png?a3305"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Potato",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Potato.png?029ef"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Small Animal Fang",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Small_Animal_Fang.png?563c3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Snapdragon",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Snapdragon.png?6c8ad"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Toadflax",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Toadflax.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Oak Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Oak_Logs.png?58308"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Anima-Infused Bark",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Anima-Infused_Bark.png?789d1"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Monstrous Fang",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Monstrous_Fang.png?563c3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Swamp Weed",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Swamp_Weed.png?dfc4f"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Farm Meat",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Farm_Meat.png?563c3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Onion",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Bestial Meat",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bestial_Meat.png?44043"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Bird Meat",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Bird_Meat.png?563c3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Game Meat",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Game_Meat.png?11fcc"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Bloodwood Sap",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Bloodwood_Sap.png?789d1"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Shocking Plant Bulb",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Shocking_Plant_Bulb.png?6c8ad"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Peach",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Peach.png?cfe3d"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Egg",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Egg.png?eeef7"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Potato",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Potato.png?a1ad4"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Onion",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Onion.png?9f720"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Mushroom",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Mushroom.png?9f720"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Flank",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Flank.png?89617"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Steak",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Steak.png?381c8"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Cabbage",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Cabbage.png?fd8df"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Dwellberries",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Dwellberries.png?9f720"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Rat Roast",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Rat_Roast.png?77179"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Haunch",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Haunch.png?68ff3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Fillet",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Fillet.png?a8611"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Redberries",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Redberries.png?9f720"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Peach",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Peach.png?d7494"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Egg",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Egg.png?fddd6"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Wheat",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Wheat.png?6c475"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Tomato",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Tomato.png?bf5bf"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Bag of Flour",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Bag_of_Flour.png?9e97b"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Cadavaberries",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Cadavaberries.png?c9e8f"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Watermelon",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Watermelon.png?c4be4"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Tomato",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Tomato.png?e6fdd"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Undead Steak",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Undead_Steak.png?57a20"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Maple Sap",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Maple_Sap.png?38532"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Maple Syrup",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Maple_Syrup.png?63297"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Sardine.png?1d159"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Shrimp",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Shrimp.png?a32a6"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Trout",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Trout.png?763ba"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Anchovies",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Anchovies.png?68e13"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Herring",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Herring.png?6ded2"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Salmon",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Salmon.png?a035f"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Infernal Eel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Infernal_Eel.png?47f9d"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Armoured Catfish",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Armoured_Catfish.png?45c41"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Lobster",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Lobster.png?60b1f"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Undead Bass",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Undead_Bass.png?9864f"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Undead Eel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Undead_Eel.png?65feb"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Catfish",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Catfish.png?3d4b5"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Undead Eel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Undead_Eel.png?3d4b5"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Giant Krill",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Giant_Krill.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Salmon",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Salmon.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Sardine.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Trout",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Trout.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Anchovies",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Anchovies.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Herring",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Herring.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Infernal Eel",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Infernal_Eel.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Lobster",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Lobster.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Shrimp",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Shrimp.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Undead Bass",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Undead_Bass.png?6a39c"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Bread",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Bread.png?3d4b5"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Cactus Water",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Water.png?07a2d"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Snivelling Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Snivelling_Sardine.png?8d092"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Pristine Snivelling Sardine",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Pristine_Snivelling_Sardine.png?33fc3"
+                }
+              ],
+              "output": {
+                "name": "Compost",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Compost.png?b628f"
+              },
+              "unlock": ""
+            }
+          ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
           "description": "Compost is an item made at the compost bin, which can be used via the compost bucket at a rate of 10 units per item composted. Applying compost to a patch provides 10 Farming experience, decreases the disease rate of the affected plant to 50%, and has a 1.5x yield multiplier."
         },
+        "stations": [
+          "Compost Bin"
+        ],
         "step": 0,
         "band": 2,
         "rank": 10,
@@ -101218,13 +104212,272 @@ window.WILDS_STORAGE = [
         "note": "Made in a Super Compost Bin from a shorter list of richer inputs; gives 50 Farming XP, cuts disease chance to 25% and multiplies yield by 1.75.",
         "detail": {
           "stats": [],
-          "recipes": [],
+          "recipes": [
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Cadavaberries",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cadavaberries.png?6666b"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Corpse Cotton",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Corpse_Cotton.png?74857"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Pumpkin",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Pumpkin.png?7607d"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Willow Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Willow_Logs.png?abad3"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Watermelon",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Watermelon.png?040d2"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Hollow Bark",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Hollow_Bark.png?c8573"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Irit",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Irit.png?ad481"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Undead Bone",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Undead_Bone.png?85793"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Undead Meat",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Undead_Meat.png?38b73"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Dried Cadavaberries",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Dried_Cadavaberries.png?184f4"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Roast Pumpkin",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Roast_Pumpkin.png?2427d"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Pumpkin",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Pumpkin.png?d728d"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Maple Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Maple_Logs.png?f0c64"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Giant Krill",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Giant_Krill.png?26270"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Super Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Pristine Inconsolable Catfish",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Pristine_Inconsolable_Catfish.png?354f9"
+                }
+              ],
+              "output": {
+                "name": "Super Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Super_Compost.png?2471f"
+              },
+              "unlock": ""
+            }
+          ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
           "description": "Super compost is an item made at the super compost bin at a rate of 10 units per item composted, which can be gathered and used via the compost bucket. Applying compost to a patch provides 50 Farming experience, decreases the disease chance to 25%, and multiplies the yield by 1.75."
         },
+        "stations": [
+          "Super Compost Bin"
+        ],
         "step": 0,
         "band": 2,
         "rank": 60,
@@ -101335,7 +104588,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "The large compost bucket is a tool created at the crafting table. Level 65 Farming is required to unlock the recipe. It can be used to take out compost, super compost, and ultra compost from the compost bin, super compost bin, and ultra compost bin, respectively, at a maximum of 300 units per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost, super compost, or ultra compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Ms Hyacinth, to help her around the farm. They had buckets back in the human homeworld of Teragard, of course, but she hadn't brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Ms Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Ms Hyacinth needed something to help with the clean-up.\n\nShe used local twigs at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie's endeavours.\n\nNow, you too can fill one of these marvellous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
+          "description": "The large compost bucket is a tool created at the crafting table. Level 65 Farming and collecting yew logs for the first time is required to unlock the recipe. It can be used to take out compost, super compost, and ultra compost from the compost bin, super compost bin, and ultra compost bin, respectively, at a maximum of 300 units per bucket held in the inventory.\n\nWhen used on a farming plot, 10 units of either compost, super compost, or ultra compost will be used until a total of 50 units have been used to fully fertilize a plot.\n\n(Journal)\nThe first bucket on Gielinor was created by Ms Hyacinth, to help her around the farm. They had buckets back in the human homeworld of Teragard, of course, but she hadn't brought anything with her from the village Guthix had recruited her from.\n\nThe problem was that Ms Hyacinth had a cow, named the traditional Bessie, that produced an unreasonable amount of manure, and Ms Hyacinth needed something to help with the clean-up.\n\nShe used local twigs at first, weaving together more of a basket than a bucket, and the results were not as watertight as she had hoped. In the end, she meticulously combined strips of wood, tied together with cord, and they were able to withstand even the worst of Bessie's endeavours.\n\nNow, you too can fill one of these marvellous contraptions with horrifically pungent compost. Spread the smelly stuff across your farming plots and marvel at the health and happiness of your leafy little friends."
         },
         "stations": [
           "Crafting Table"
@@ -101367,13 +104620,425 @@ window.WILDS_STORAGE = [
               "value": "Fertilizing a plot with this is beneficial to its yield. Like, suspiciously beneficial. Wow!"
             }
           ],
-          "recipes": [],
+          "recipes": [
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Cactus Fibres",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Fibres.png?7a650"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Yew Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Yew_Logs.png?29d27"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Monkfish Fillets",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Monkfish_Fillets.png?53a44"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Desert Weed",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Desert_Weed.png?e4460"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Cactus Steak",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Cactus_Steak.png?bb45a"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Ground Tea Leaves",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Ground_Tea_Leaves.png?85906"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Tea Leaves",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Tea_Leaves.png?585db"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Fibrous Pipe Cactus",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Fibrous_Pipe_Cactus.png?0fb0c"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Seared Cactus Steak",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Seared_Cactus_Steak.png?42af6"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Monkfish",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Monkfish.png?2d123"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Monkfish Skewers",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Monkfish_Skewers.png?20b59"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Beltfish Broth",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Beltfish_Broth.png?56b06"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Beltfish",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Beltfish.png?00ba4"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Steamed Beltfish",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Steamed_Beltfish.png?2a640"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Raw Desert Sole",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Desert_Sole.png?ab4cc"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Sun Baked Sole",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Sun_Baked_Sole.png?34e46"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Swabbie Pie",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Swabbie_Pie.png?a9aac"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Strong Sweet Tea",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Strong_Sweet_Tea.png?acec6"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Strong Tea",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Strong_Tea.png?900ec"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Dried Tea Leaves",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Dried_Tea_Leaves.png?d115a"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Burnt Desert Sole",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Burnt_Desert_Sole.png?70e9c"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Magic Logs",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Magic_Logs.png?e3295"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Pristine Depressed Desert Sole",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Pristine_Depressed_Desert_Sole.png?45b74"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            },
+            {
+              "station": "Ultra Compost Bin",
+              "skills": [],
+              "materials": [
+                {
+                  "name": "Pristine Bawling Beltfish",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Pristine_Bawling_Beltfish.png?86c04"
+                }
+              ],
+              "output": {
+                "name": "Ultra Compost",
+                "qty": 10,
+                "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost.png?3b646"
+              },
+              "unlock": ""
+            }
+          ],
           "usedIn": [],
           "sources": [],
           "shops": [],
           "perks": [],
           "description": "Ultra compost is an item made at the ultra compost bin at a rate of 10 units per item composted, which can be gathered and used via the compost bucket. Applying ultra compost to a patch provides 50 Farming experience, decreases the disease chance to 12.5%, and multiplies the yield by 2.5."
         },
+        "stations": [
+          "Ultra Compost Bin"
+        ],
         "step": 0,
         "band": 2,
         "rank": 69,
@@ -101611,6 +105276,10 @@ window.WILDS_STORAGE = [
               "value": "15"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "26"
             },
@@ -101620,7 +105289,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1200"
+              "value": "1,200"
             },
             {
               "label": "Repair cost",
@@ -101711,12 +105380,16 @@ window.WILDS_STORAGE = [
               "value": "10"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "26"
             },
             {
               "label": "Durability",
-              "value": "1200"
+              "value": "1,200"
             },
             {
               "label": "Repair cost",
@@ -101879,6 +105552,10 @@ window.WILDS_STORAGE = [
               "value": "20"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "39"
             },
@@ -101888,7 +105565,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1800"
+              "value": "1,800"
             },
             {
               "label": "Repair cost",
@@ -101984,12 +105661,16 @@ window.WILDS_STORAGE = [
               "value": "34"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "39"
             },
             {
               "label": "Durability",
-              "value": "1800"
+              "value": "1,800"
             },
             {
               "label": "Repair cost",
@@ -102615,7 +106296,20 @@ window.WILDS_STORAGE = [
               "unlock": ""
             }
           ],
-          "usedIn": [],
+          "usedIn": [
+            {
+              "name": "KGP Hat",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/KGP_Hat.png?cf566",
+              "station": "Crafting Table"
+            },
+            {
+              "name": "Pescaling Amulet",
+              "qty": 1,
+              "img": "https://dragonwilds.runescape.wiki/images/Pescaling_Amulet.png?1b3b0",
+              "station": "Crafting Table"
+            }
+          ],
           "sources": [
             {
               "source": "Reward Pack: Ghornfell Gold",
@@ -102771,6 +106465,10 @@ window.WILDS_STORAGE = [
               "value": "30"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "46"
             },
@@ -102780,7 +106478,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "2400"
+              "value": "2,400"
             },
             {
               "label": "Repair cost",
@@ -102883,12 +106581,16 @@ window.WILDS_STORAGE = [
               "value": "50"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "46"
             },
             {
               "label": "Durability",
-              "value": "2100"
+              "value": "2,100"
             },
             {
               "label": "Repair cost",
@@ -103212,6 +106914,10 @@ window.WILDS_STORAGE = [
               "value": "40"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "52"
             },
@@ -103221,7 +106927,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "2400"
+              "value": "2,400"
             },
             {
               "label": "Repair cost",
@@ -103317,12 +107023,16 @@ window.WILDS_STORAGE = [
               "value": "66"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "52"
             },
             {
               "label": "Durability",
-              "value": "2100"
+              "value": "2,100"
             },
             {
               "label": "Repair cost",
@@ -103994,6 +107704,10 @@ window.WILDS_STORAGE = [
               "value": "68"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "59"
             },
@@ -104003,7 +107717,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "2400"
+              "value": "2,400"
             },
             {
               "label": "Repair cost",
@@ -104108,7 +107822,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "1800"
+              "value": "24,00"
             },
             {
               "label": "Repair cost",
@@ -104204,6 +107918,10 @@ window.WILDS_STORAGE = [
               "value": "84"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "66"
             },
@@ -104213,7 +107931,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "2400"
+              "value": "2,400"
             },
             {
               "label": "Repair cost",
@@ -104309,12 +108027,16 @@ window.WILDS_STORAGE = [
               "value": "84"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "66"
             },
             {
               "label": "Durability",
-              "value": "2400"
+              "value": "2,400"
             },
             {
               "label": "Repair cost",
@@ -104540,6 +108262,83 @@ window.WILDS_STORAGE = [
           "Blacksmith's Bench"
         ],
         "step": 5,
+        "band": 0,
+        "rank": 5
+      },
+      {
+        "name": "Agony Auntchovy",
+        "img": "https://dragonwilds.runescape.wiki/images/Agony_Auntchovy.png?155e4",
+        "tier": "",
+        "tierRank": null,
+        "chest": "tools",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Tool"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Sad little fish love a shoulder to cry on. Increases the chance of catching an upset fish in Umbral Sands."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Crafting Table",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 20
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Feathers",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Feathers.png?563c3"
+                },
+                {
+                  "name": "Onion",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Onion.png?789d1"
+                },
+                {
+                  "name": "Raw Anchovies",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Raw_Anchovies.png?68e13"
+                }
+              ],
+              "output": {
+                "name": "Agony Auntchovy",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Agony_Auntchovy.png?155e4"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Agony Auntchovy is a power level 7 bait that is used to increase the chance of catching upset fish in Umbral Sands.\n\n(Journal)\nTo attract fish with a sad disposition, there's little better than an understanding anchovy. Misery loves company!"
+        },
+        "stations": [
+          "Crafting Table"
+        ],
+        "step": 6,
         "band": 0,
         "rank": 5
       },
@@ -104783,7 +108582,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Logging Axe",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Logging_Axe_%28Journal%29.png?034dd",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Logging_Axe.png?034dd",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "tools",
@@ -104828,7 +108627,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Durability",
-              "value": "2700"
+              "value": "2,700"
             },
             {
               "label": "Repair cost",
@@ -104881,7 +108680,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Rune Logging Axe is a power level 8 logging axe that can cut Magic Trees.\n\n(Journal)\nTo a tree, a human with a rune logging axe is their final boss. You are the ultimate test; the nemesis that they have been training for. They have been stretching their branches and aggressively photosynthesising for this moment. They have been fantastising about taking you down, so that they can be talked about in groves for centuries. 'The Lumberjack Ripper', they think. 'That's what they will call me.'"
+          "description": "Rune Logging Axe is a power level 8 logging axe that can cut Magic Trees. They are crafted on the Blacksmith's Bench, unlocked when crafting rune bar.\n\n(Journal)\nTo a tree, a human with a rune logging axe is their final boss. You are the ultimate test; the nemesis that they have been training for. They have been stretching their branches and aggressively photosynthesising for this moment. They have been fantastising about taking you down, so that they can be talked about in groves for centuries. 'The Lumberjack Ripper', they think. 'That's what they will call me.'"
         },
         "stations": [
           "Blacksmith's Bench"
@@ -104892,7 +108691,7 @@ window.WILDS_STORAGE = [
       },
       {
         "name": "Rune Pickaxe",
-        "img": "https://dragonwilds.runescape.wiki/images/Rune_Pickaxe_%28Journal%29.png?034dd",
+        "img": "https://dragonwilds.runescape.wiki/images/Rune_Pickaxe.png?034dd",
         "tier": "Rune",
         "tierRank": 7,
         "chest": "tools",
@@ -104924,12 +108723,16 @@ window.WILDS_STORAGE = [
               "value": "98"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "72"
             },
             {
               "label": "Durability",
-              "value": "2700"
+              "value": "2,700"
             },
             {
               "label": "Repair cost",
@@ -105327,12 +109130,16 @@ window.WILDS_STORAGE = [
               "value": "15"
             },
             {
+              "label": "Attack combo",
+              "value": "1"
+            },
+            {
               "label": "Block",
               "value": "33"
             },
             {
               "label": "Durability",
-              "value": "1350"
+              "value": "1,350"
             },
             {
               "label": "Repair cost",
@@ -105385,7 +109192,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "A bone pickaxe is a power level 2 pickaxe that can be crafted at a crafting table. It can mine the same ores as the previous tiers, along with copper ore, and tin ore, dealing 15 damage to minable ores, and 30 damage with a critical swing. To unlock the recipe, players must have acquired animal bones.\n\n(Journal)\nWe are made of sturdier stuff than we give ourselves credit for. The human body can withstand a staggering force before our bones give way to the stresses. So too is it for the bones of animals, especially those of Ashenfall. Here, the magic seeps into the marrow and strengthens the bone to be sturdier than before.\n\nWhen used as tools, refined into weapons, these bones can be made to break stone and release the imprisoned metal ore."
+          "description": "A bone pickaxe is a power level 2 pickaxe that can be crafted at a crafting table. It can mine the same ores as the previous tiers, along with copper ore, and tin ore, dealing 15 damage to minable ores, and 30 damage with a critical swing.\n\nTo unlock the recipe, players must have acquired animal bones.\n\n(Journal)\nWe are made of sturdier stuff than we give ourselves credit for. The human body can withstand a staggering force before our bones give way to the stresses. So too is it for the bones of animals, especially those of Ashenfall. Here, the magic seeps into the marrow and strengthens the bone to be sturdier than before.\n\nWhen used as tools, refined into weapons, these bones can be made to break stone and release the imprisoned metal ore."
         },
         "stations": [
           "Crafting Table"
@@ -105786,7 +109593,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Plant cure is a potion that cures diseased plants and provides 2 Farming experience when used. It is made with 2 weeds, animal bone, and clean water in a stone range or a cooking range (unlike the other potions made in a brewing cauldron). It is learned at level 3 Farming and requires interacting with a stone range first to learn the recipe.\n\n(Journal)\nFashioned from clean water, weeds and animal bones, this mixture leeches out the vitality from those ingredients and transfers it to the sick and dying plants in your care. Cooked over a range, this concoction was first thought to be the domain of druids and herblore masters, but in truth it was a cook who put the pieces together.\n\nOld mother Potterington was much beloved by the people of Bramblemead. On weekends, when people allowed themselves brief breaks from their toils, she would whip up a great batch of something delicious and simmering, and neighbouring farmers would drop by for a meal.\n\nThis kindness extended not only to people, but to her garden and farming patches too. She whipped up a broth so infused with nutrients that Brassica Prime himself is said to have blessed it. When fed to plants, their withering and wilting leaves would stiffen and return to vibrancy - life and vitality theirs once again.\n\nNow you can brew such a concoction yourself, so that your plants might always life their healthiest days."
+          "description": "Plant cure is a potion that cures diseased plants and provides 2 Farming experience when used. It is made with 2 weeds, animal bone, and clean water in a stone range or a cooking range (unlike the other potions made in a brewing cauldron). It can be learned after level 3 Farming and requires interacting with a stone range (not a cooking range) first.\n\n(Journal)\nFashioned from clean water, weeds and animal bones, this mixture leeches out the vitality from those ingredients and transfers it to the sick and dying plants in your care. Cooked over a range, this concoction was first thought to be the domain of druids and herblore masters, but in truth it was a cook who put the pieces together.\n\nOld mother Potterington was much beloved by the people of Bramblemead. On weekends, when people allowed themselves brief breaks from their toils, she would whip up a great batch of something delicious and simmering, and neighbouring farmers would drop by for a meal.\n\nThis kindness extended not only to people, but to her garden and farming patches too. She whipped up a broth so infused with nutrients that Brassica Prime himself is said to have blessed it. When fed to plants, their withering and wilting leaves would stiffen and return to vibrancy - life and vitality theirs once again.\n\nNow you can brew such a concoction yourself, so that your plants might always life their healthiest days."
         },
         "stations": [
           "Stone Range",
@@ -105978,12 +109785,8 @@ window.WILDS_STORAGE = [
               "value": "15 April 2025"
             },
             {
-              "label": "Block",
-              "value": "5"
-            },
-            {
               "label": "Durability",
-              "value": "1800"
+              "value": "1,800"
             },
             {
               "label": "Repair cost",
@@ -106051,7 +109854,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Basic Item"
+              "value": "Consumable"
             },
             {
               "label": "Released",
@@ -109641,7 +113444,7 @@ window.WILDS_STORAGE = [
             },
             {
               "label": "Base damage",
-              "value": "42-101"
+              "value": "44-118"
             },
             {
               "label": "Weight",
@@ -112542,7 +116345,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.36/100"
+              "rarity": "12.5/100"
             }
           ],
           "shops": [],
@@ -112828,7 +116631,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.36/100"
+              "rarity": "12.5/100"
             }
           ],
           "shops": [],
@@ -113175,7 +116978,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.36/100"
+              "rarity": "12.5/100"
             }
           ],
           "shops": [],
@@ -113222,7 +117025,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.36/100"
+              "rarity": "12.5/100"
             }
           ],
           "shops": [],
@@ -113269,7 +117072,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.36/100"
+              "rarity": "12.5/100"
             }
           ],
           "shops": [],
@@ -113312,7 +117115,13 @@ window.WILDS_STORAGE = [
           ],
           "recipes": [],
           "usedIn": [],
-          "sources": [],
+          "sources": [
+            {
+              "source": "Chest (Umbral Sands)",
+              "qty": "1",
+              "rarity": "12.5/100"
+            }
+          ],
           "shops": [],
           "perks": [],
           "description": "The red memory of Menaphos is a vestige that unlocks the red desert cape. It is found in Umbral Sands chests."
@@ -113451,7 +117260,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.36/100"
+              "rarity": "12.5/100"
             }
           ],
           "shops": [],
@@ -113498,7 +117307,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.36/100"
+              "rarity": "12.5/100"
             }
           ],
           "shops": [],
@@ -113945,6 +117754,102 @@ window.WILDS_STORAGE = [
           ],
           "perks": [],
           "description": "The bloodstained black visor is a vestige that unlocks the Black Knight helmet. It is obtained through Evil Emporium for 200 infernal fragments."
+        },
+        "step": 0,
+        "band": 0,
+        "rank": 99
+      },
+      {
+        "name": "Brine-Soaked Band",
+        "img": "https://dragonwilds.runescape.wiki/images/Brine-Soaked_Band.png?14119",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Perhaps you could learn something from it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Fishy Facade",
+              "mode": "sell",
+              "cost": 15,
+              "currency": "Penguin Coin"
+            }
+          ],
+          "perks": [],
+          "description": "Brine-Soaked Band is a vestige that unlocks the ability to create Pescaling Ring, which reduces fish's stamina by 5-15% while worn.\n\nThe vestige can be obtained through Façade's Front for 15."
+        },
+        "step": 0,
+        "band": 0,
+        "rank": 99
+      },
+      {
+        "name": "Brine-Soaked Bauble",
+        "img": "https://dragonwilds.runescape.wiki/images/Brine-Soaked_Bauble.png?581fa",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Perhaps you could learn something from it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Fishy Facade",
+              "mode": "sell",
+              "cost": 15,
+              "currency": "Penguin Coin"
+            }
+          ],
+          "perks": [],
+          "description": "Brine-Soaked Bauble is a vestige that unlocks the ability to create the Pescaling Amulet, which provides a 5% increased chance of catching pristine fish while worn.\n\nThe vestige can be obtained through Façade's Front for 15."
         },
         "step": 0,
         "band": 0,
@@ -114496,6 +118401,54 @@ window.WILDS_STORAGE = [
         "rank": 99
       },
       {
+        "name": "Coral Nubbin",
+        "img": "https://dragonwilds.runescape.wiki/images/Coral_Nubbin.png?7ad63",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Perhaps you could learn something from it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Fishy Facade",
+              "mode": "sell",
+              "cost": 15,
+              "currency": "Penguin Coin"
+            }
+          ],
+          "perks": [],
+          "description": "Coral Nubbin is a vestige that unlocks the Penguin Helmet, which looks like a hood. It has no stats as it is purely cosmetic.\n\nThe vestige can be obtained through Façade's Front for 15."
+        },
+        "step": 0,
+        "band": 0,
+        "rank": 99
+      },
+      {
         "name": "Corroded White Visor",
         "img": "https://dragonwilds.runescape.wiki/images/Corroded_White_Visor.png?38ea6",
         "tier": "",
@@ -114968,6 +118921,71 @@ window.WILDS_STORAGE = [
         "rank": 99
       },
       {
+        "name": "Glorious Cake",
+        "img": "https://dragonwilds.runescape.wiki/images/Victoria_Sponge_Cake.png?ee883",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Description",
+              "value": "A cake requested by Slopfinger, made by you, and intended for Manktongue."
+            }
+          ],
+          "recipes": [
+            {
+              "station": "Goblin Stove",
+              "skills": [
+                {
+                  "name": "Artisan",
+                  "xp": 0
+                }
+              ],
+              "materials": [
+                {
+                  "name": "Egg",
+                  "qty": 4,
+                  "img": "https://dragonwilds.runescape.wiki/images/Egg.png?eeef7"
+                },
+                {
+                  "name": "Wheat",
+                  "qty": 6,
+                  "img": "https://dragonwilds.runescape.wiki/images/Wheat.png?6c475"
+                },
+                {
+                  "name": "Bucket of Milk",
+                  "qty": 1,
+                  "img": "https://dragonwilds.runescape.wiki/images/Bucket_of_Milk.png?7d5a5"
+                }
+              ],
+              "output": {
+                "name": "Glorious Cake",
+                "qty": 1,
+                "img": "https://dragonwilds.runescape.wiki/images/Victoria_Sponge_Cake.png?ee883"
+              },
+              "unlock": ""
+            }
+          ],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "The Glorious Cake is a quest item made exclusively at the Goblin Stove during the Cook's Assistant quest.\n\nThis item is required for the following quests: * Cook's Assistant"
+        },
+        "stations": [
+          "Goblin Stove"
+        ],
+        "step": 0,
+        "band": 0,
+        "rank": 99
+      },
+      {
         "name": "Grim Black Codpiece",
         "img": "https://dragonwilds.runescape.wiki/images/Grim_Black_Codpiece.png?e2357",
         "tier": "",
@@ -115098,7 +119116,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Icthlarian fetish is the vestige that is used to unlock the pharaoh's sceptre. It can be collected after completing the quest Contact!, as long as the player has one inventory space."
+          "description": "Icthlarian fetish was the vestige that is used to unlock the pharaoh's sceptre. It used be collected after completing the quest Contact!, as long as the player has one inventory space."
         },
         "step": 0,
         "band": 0,
@@ -115496,6 +119514,51 @@ window.WILDS_STORAGE = [
           ],
           "perks": [],
           "description": "The lunular wrappings is a vestige that unlocks the Lunar Garou robe legs\n\nThe vestige can be obtained through Domri - The Merchant for 5000 Garou Chit."
+        },
+        "step": 0,
+        "band": 0,
+        "rank": 99
+      },
+      {
+        "name": "Mirror Lens",
+        "img": "https://dragonwilds.runescape.wiki/images/Mirror_Lens_-_Alcarrid.png?bc7c9",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Quest Item"
+            },
+            {
+              "label": "Released",
+              "value": "23 June 2026"
+            },
+            {
+              "label": "Versions",
+              "value": "Alcarrid, Manafem, Uzzer"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "1"
+            },
+            {
+              "label": "Description",
+              "value": "A Mirror Lens gained by completing tasks for the Alcarrid clan."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [],
+          "perks": [],
+          "description": "Mirror lenses are quest items featured in Icthlarin's Little Helper, given by each clan's elder after completing all of the clan tasks."
         },
         "step": 0,
         "band": 0,
@@ -116496,6 +120559,42 @@ window.WILDS_STORAGE = [
         "rank": 99
       },
       {
+        "name": "Prestigious Prototype",
+        "img": "https://dragonwilds.runescape.wiki/images/Prestigious_Prototype.png?0c82e",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Fishy Facade",
+              "mode": "sell",
+              "cost": 30,
+              "currency": "Penguin Coin"
+            }
+          ],
+          "perks": [],
+          "description": "Prestigious Prototype is a vestige that unlocks the Penguin Cape.\n\nThe vestige can be obtained through Façade's Front for 30."
+        },
+        "step": 0,
+        "band": 0,
+        "rank": 99
+      },
+      {
         "name": "Remnants of a Rotting Robe",
         "img": "https://dragonwilds.runescape.wiki/images/VESTIGE-_Remnants_of_a_Rotting_Robe.png?f179d",
         "tier": "",
@@ -116579,7 +120678,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Garou Berserker",
               "qty": "1",
-              "rarity": "2/100"
+              "rarity": "3/100"
             },
             {
               "source": "Garou Exile",
@@ -116611,7 +120710,7 @@ window.WILDS_STORAGE = [
           "stats": [
             {
               "label": "Type",
-              "value": "Quest Item"
+              "value": "Basic Item"
             },
             {
               "label": "Released",
@@ -116650,6 +120749,54 @@ window.WILDS_STORAGE = [
         "stations": [
           "Jeweler's Bench"
         ],
+        "step": 0,
+        "band": 0,
+        "rank": 99
+      },
+      {
+        "name": "Scrap Mired in Subterfuge",
+        "img": "https://dragonwilds.runescape.wiki/images/Scrap_Mired_in_Subterfuge.png?51efc",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Perhaps you could learn something from it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Fishy Facade",
+              "mode": "sell",
+              "cost": 30,
+              "currency": "Penguin Coin"
+            }
+          ],
+          "perks": [],
+          "description": "Scrap mired in subterfuge is a vestige that unlocks the KGP Hat.\n\nThe vestige can be obtained through Façade's Front for 30."
+        },
         "step": 0,
         "band": 0,
         "rank": 99
@@ -117660,6 +121807,54 @@ window.WILDS_STORAGE = [
         "rank": 99
       },
       {
+        "name": "Tuxedo Patch",
+        "img": "https://dragonwilds.runescape.wiki/images/Tuxedo_Patch.png?57509",
+        "tier": "",
+        "tierRank": null,
+        "chest": "vestiges",
+        "note": "",
+        "detail": {
+          "stats": [
+            {
+              "label": "Type",
+              "value": "Vestige"
+            },
+            {
+              "label": "Released",
+              "value": "10 November 2026"
+            },
+            {
+              "label": "Weight",
+              "value": "0.0 kg"
+            },
+            {
+              "label": "Stack limit",
+              "value": "99"
+            },
+            {
+              "label": "Description",
+              "value": "Perhaps you could learn something from it."
+            }
+          ],
+          "recipes": [],
+          "usedIn": [],
+          "sources": [],
+          "shops": [
+            {
+              "seller": "Fishy Facade",
+              "mode": "sell",
+              "cost": 15,
+              "currency": "Penguin Coin"
+            }
+          ],
+          "perks": [],
+          "description": "Tuxedo Patch is a vestige that unlocks the ability to create both the Penguin Body and Penguin Legs.\n\nThe vestige can be obtained through Façade's Front for 15."
+        },
+        "step": 0,
+        "band": 0,
+        "rank": 99
+      },
+      {
         "name": "Twtiching Antenna",
         "img": "https://dragonwilds.runescape.wiki/images/Twtiching_Antenna.png?e4c9a",
         "tier": "",
@@ -118032,7 +122227,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shards are a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "stations": [
           "Mystic Forge"
@@ -118318,7 +122513,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shards are a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "stations": [
           "Mystic Forge"
@@ -118753,7 +122948,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands. For most cores, players can gain core shards by killing mini-bosses (such as black dragons, green dragons, and blue dragons).\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible.\n\nBug: After upgrading an item with a core, there is a visual bug where the stats will appear not to increase.\n\n(Journal)\nImagine, if you will, what you could do if you could harness your dreams. If you could take an ideal, refine it and reforge it using the power of the imagination. Such a technology is terrifying in its potential, and Avisk was the first to explore its possibilities.\n\nThis core is a part of the nightmare, refined and reforged over and over again, then condescended into a singularity and sealed within dragonkin technology. It is a mote of potential, waiting to be released.\n\nThe technology is limited for now. Avisk was only able to use it to improve his existing equipment, as well as to empower the beasts he trapped in the nightmare dreamscape. Fortunately, limited as it might be, you should find this technology particularly useful, as it will allow you upgrade and improve some of your more unique equipment, such as masterwork gear."
+          "description": "Ascension cores are items used and crafted in the mystic forge to ascend masterwork weapons from their base power level to the next tier. They are made by combining ascension shards or by collecting them as rewards for completing Nightmare Crucible instances in Umbral Sands. For most cores, players can gain core shards by killing mini-bosses (such as black dragons, green dragons, and blue dragons) or region bosses like Velgar.\n\nThe only core that cannot be crafted thus far is the power level 7 ascension core, which can only be acquired by completing the Nightmare Crucible.\n\n(Journal)\nImagine, if you will, what you could do if you could harness your dreams. If you could take an ideal, refine it and reforge it using the power of the imagination. Such a technology is terrifying in its potential, and Avisk was the first to explore its possibilities.\n\nThis core is a part of the nightmare, refined and reforged over and over again, then condescended into a singularity and sealed within dragonkin technology. It is a mote of potential, waiting to be released.\n\nThe technology is limited for now. Avisk was only able to use it to improve his existing equipment, as well as to empower the beasts he trapped in the nightmare dreamscape. Fortunately, limited as it might be, you should find this technology particularly useful, as it will allow you upgrade and improve some of your more unique equipment, such as masterwork gear."
         },
         "stations": [
           "Mystic Forge"
@@ -118849,7 +123044,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.63/100"
+              "rarity": "1/4"
             },
             {
               "source": "The Radiant",
@@ -118952,7 +123147,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.63/100"
+              "rarity": "1/4"
             },
             {
               "source": "The Radiant",
@@ -119055,7 +123250,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.63/100"
+              "rarity": "1/4"
             },
             {
               "source": "The Radiant",
@@ -119158,7 +123353,7 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "1",
-              "rarity": "0.63/100"
+              "rarity": "1/4"
             },
             {
               "source": "The Radiant",
@@ -119223,9 +123418,24 @@ window.WILDS_STORAGE = [
           ],
           "sources": [
             {
+              "source": "Rod Fishing Spot",
+              "qty": "1",
+              "rarity": "5/100"
+            },
+            {
               "source": "Artifact Salvage",
               "qty": "1",
               "rarity": "20/100"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Gold",
+              "qty": "1",
+              "rarity": "1/50"
+            },
+            {
+              "source": "Reward Pack: Umbral Sands Silver",
+              "qty": "1",
+              "rarity": "1/50"
             }
           ],
           "shops": [
@@ -119304,17 +123514,17 @@ window.WILDS_STORAGE = [
             {
               "source": "Chest (Umbral Sands)",
               "qty": "40-50",
-              "rarity": "70/100"
+              "rarity": "1/7"
             },
             {
               "source": "Chest (Umbral Sands)",
               "qty": "50-80",
-              "rarity": "20/100"
+              "rarity": "1/5"
             },
             {
               "source": "Chest (Umbral Sands)",
               "qty": "80-120",
-              "rarity": "10/100"
+              "rarity": "1/10"
             },
             {
               "source": "Reward Pack: Umbral Sands Gold",
@@ -119325,6 +123535,11 @@ window.WILDS_STORAGE = [
               "source": "Reward Pack: Umbral Sands Silver",
               "qty": "1-100",
               "rarity": "1/6.67"
+            },
+            {
+              "source": "A Reel Downer Reward Pack",
+              "qty": "250",
+              "rarity": "Always"
             }
           ],
           "shops": [],
@@ -119370,7 +123585,7 @@ window.WILDS_STORAGE = [
           "sources": [],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shards are a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "step": 0,
         "band": 0,
@@ -119434,7 +123649,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shards are a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "stations": [
           "Mystic Forge"
@@ -119489,7 +123704,7 @@ window.WILDS_STORAGE = [
           ],
           "shops": [],
           "perks": [],
-          "description": "Ascension shard is a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
+          "description": "Ascension shards are a basic item used to craft ascension cores, which are in turn used to upgrade masterwork weapons into stronger forms.\n\nThere is currently no use for Power Level 7 shards, as cores earned directly from completing the Nightmare Crucible.\n\n(Journal)\nAvisk was many things, arrogant, manipulative, cruel, but he was also a genius. Within the dreamscapes of the nightmare crucible, he found a way to reshape matter, reforging it into its ideal form. He took weapons and moulded them into stronger versions. He took a staff and re-imagined it stronger and more deadly. Using the stuff of nightmares, he found a limited way to reshape the world. We are, perhaps, fortunate that it was limited to such small scales.\n\nThese shards are a part of that power. When combined with a fully realised core, they can upgrade legendary equipment into stronger versions of itself. A power we should hope Kuldra never finds."
         },
         "step": 0,
         "band": 0,
@@ -119503,7 +123718,7 @@ window.WILDS_STORAGE_MAX_STEP = 8;
 window.WILDS_STATIONS = [
   {
     "name": "Armour Bench",
-    "count": 156,
+    "count": 159,
     "members": [
       "Armour Bench"
     ],
@@ -119511,7 +123726,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Blacksmith's Bench",
-    "count": 128,
+    "count": 125,
     "members": [
       "Blacksmith's Bench"
     ],
@@ -119519,7 +123734,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Grill",
-    "count": 105,
+    "count": 96,
     "members": [
       "Grill"
     ],
@@ -119527,7 +123742,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Campfire",
-    "count": 104,
+    "count": 95,
     "members": [
       "Campfire"
     ],
@@ -119535,7 +123750,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Crafting Table",
-    "count": 84,
+    "count": 82,
     "members": [
       "Crafting Table"
     ],
@@ -119543,7 +123758,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Fletching Bench",
-    "count": 77,
+    "count": 75,
     "members": [
       "Fletching Bench"
     ],
@@ -119551,7 +123766,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Brewing Cauldron",
-    "count": 70,
+    "count": 66,
     "members": [
       "Brewing Cauldron"
     ],
@@ -119559,7 +123774,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Cooking Range",
-    "count": 65,
+    "count": 62,
     "members": [
       "Cooking Range"
     ],
@@ -119583,7 +123798,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Stone Range",
-    "count": 28,
+    "count": 27,
     "members": [
       "Stone Range"
     ],
@@ -119615,8 +123830,16 @@ window.WILDS_STATIONS = [
     "img": "https://dragonwilds.runescape.wiki/images/Blast_Furnace.png?941b3"
   },
   {
+    "name": "Compost Bin",
+    "count": 20,
+    "members": [
+      "Compost Bin"
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Compost_Bin.png?b6a21"
+  },
+  {
     "name": "Kiln",
-    "count": 17,
+    "count": 16,
     "members": [
       "Kiln"
     ],
@@ -119640,7 +123863,7 @@ window.WILDS_STATIONS = [
   },
   {
     "name": "Spinning Wheel",
-    "count": 14,
+    "count": 13,
     "members": [
       "Advanced Spinning Wheel",
       "Spinning Wheel"
@@ -119662,6 +123885,22 @@ window.WILDS_STATIONS = [
       "Rune Altar"
     ],
     "img": "https://dragonwilds.runescape.wiki/images/Rune_Altar.png?6bf2b"
+  },
+  {
+    "name": "Super Compost Bin",
+    "count": 7,
+    "members": [
+      "Super Compost Bin"
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Super_Compost_Bin.png?34e0e"
+  },
+  {
+    "name": "Ultra Compost Bin",
+    "count": 7,
+    "members": [
+      "Ultra Compost Bin"
+    ],
+    "img": "https://dragonwilds.runescape.wiki/images/Ultra_Compost_Bin.png?19160"
   },
   {
     "name": "Pottery Wheel",
@@ -119688,8 +123927,16 @@ window.WILDS_STATIONS = [
     "img": ""
   },
   {
+    "name": "Goblin Stove",
+    "count": 1,
+    "members": [
+      "Goblin Stove"
+    ],
+    "img": ""
+  },
+  {
     "name": "Lougrim's Shrine",
-    "count": 2,
+    "count": 1,
     "members": [
       "Lougrim's Shrine"
     ],

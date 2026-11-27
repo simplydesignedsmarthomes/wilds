@@ -926,5 +926,101 @@
   "tierRank": null,
   "chest": "ammo",
   "note": ""
+ },
+ {
+  "name": "Agony Auntchovy",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "tools",
+  "note": ""
+ },
+ {
+  "name": "Brine-Soaked Band",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Brine-Soaked Bauble",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Coral Nubbin",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Glorious Cake",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "KGP Hat",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "armour",
+  "note": ""
+ },
+ {
+  "name": "Mirror Lens",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Pescaling Amulet",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "jewellery",
+  "note": ""
+ },
+ {
+  "name": "Pescaling Ring",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "jewellery",
+  "note": ""
+ },
+ {
+  "name": "Prestigious Prototype",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Scrap Mired in Subterfuge",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
+ },
+ {
+  "name": "Tuxedo Patch",
+  "img": "",
+  "tier": "",
+  "tierRank": null,
+  "chest": "vestiges",
+  "note": ""
  }
 ]
